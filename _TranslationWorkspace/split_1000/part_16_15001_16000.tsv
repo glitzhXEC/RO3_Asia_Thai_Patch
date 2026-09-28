@@ -1,0 +1,1001 @@
+﻿Index	English	Thai_Translation
+15001	Matchmaking data does not exist.	ไม่มีข้อมูลการจับคู่
+15002	Matchmaking data already exists.	ข้อมูลการจับคู่มีอยู่แล้ว
+15003	Repeat items cannot be inserted.	ไม่สามารถแทรกรายการซ้ำได้
+15004	Invitation is still on cooldown.	คำเชิญยังคงอยู่ในคูลดาวน์
+15005	^{1}Acolyte Talent @{1}-@{2}^{2}	^{1}ผู้มีพรสวรรค์พิเศษ@{1}-@{2}^{2}
+15006	^{1}Invigorate Body and Mind^{2}	^{1}เติมพลังกายและใจ^{2}
+15007	Hundredfold Tempering - Vitality	การแบ่งเบาบรรเทาร้อยเท่า - ความมีชีวิตชีวา
+15008	Golden Boundary-Breaking Remnant	เศษเหลือที่ทำลายขอบเขตทองคำ
+15009	^{1}Magic Cannon Calibration^{2}	^{1}การปรับเทียบปืนใหญ่เวทมนตร์^{2}
+15010	Prerequisite quest not completed	ภารกิจข้อกำหนดเบื้องต้นไม่เสร็จสิ้น
+15011	Hotbar equipment is on cooldown.	อุปกรณ์ Hotbar อยู่ในคูลดาวน์
+15012	Cannot switch scenes while dead.	ไม่สามารถสลับฉากในขณะที่ตายได้
+15013	The instance battle is not over.	การต่อสู้อินสแตนซ์ยังไม่จบ
+15014	This preset is already selected.	ค่าที่ตั้งล่วงหน้านี้ถูกเลือกไว้แล้ว
+15015	Artillery Used This Season: ${1}	ปืนใหญ่ที่ใช้ในฤดูกาลนี้:${1}ปืนใหญ่
+15016	Incorrect number of BUFF Floors.	จำนวน BUFF Floors ไม่ถูกต้อง
+15017	Open the Treasure in Maya's Nest	เปิดสมบัติในรังมายา
+15018	You can't add any more Stickers.	คุณไม่สามารถเพิ่มสติกเกอร์ได้อีก
+15019	The Soul Burst skill is so cool!	สกิล Soul Burst เจ๋งมาก!
+15020	Linked special logic script buff	เชื่อมโยงบัฟสคริปต์ลอจิกพิเศษ
+15021	Tower reward Configuration Error	ข้อผิดพลาดการกำหนดค่ารางวัลทาวเวอร์
+15022	NPC Interaction Parameter error.	จำนวนการโต้ตอบของ
+15023	The delisted item does not exist	ไม่มีรายการที่เพิกถอน
+15024	Not enough Enhancement Materials	วัสดุเสริมประสิทธิภาพไม่เพียงพอ
+15025	Equipment repair Parameter error	การซ่อมแซมอุปกรณ์ ข้อผิดพลาดของพารามิเตอร์
+15026	Equipment has not been appraised	อุปกรณ์ยังไม่ได้รับการประเมิน
+15027	No map Revive information found.	ไม่พบข้อมูลแผนที่ ฟื้นฟู
+15028	Cancel Impeachment status error.	ยกเลิกข้อผิดพลาดสถานะการฟ้องร้อง
+15029	Invalid guild group coordinates.	พิกัดกลุ่มกิลด์ไม่ถูกต้อง
+15030	This member is not in the group.	สมาชิกรายนี้ไม่ได้อยู่ในกลุ่ม
+15031	This player is not in the guild.	ผู้เล่นคนนี้ไม่ได้อยู่ในกิลด์
+15032	Dispatch the Royal Caravan once.	ส่ง Royal Caravan หนึ่งครั้ง
+15033	Come on, try to Ride your Mount!	มาเลย มาลองขี่พาหนะของคุณดูสิ!
+15034	Select the build you want to use	Select the build you want to use
+15035	Join Kafra: Survivor Battle solo	เข้าร่วม Kafra: Survivor Battle เดี่ยว
+15036	Highest Damage in a Single Match	Highest Damage in a Single Match
+15037	A Narrow Victory Is Within Reach	ชัยชนะอันแคบอยู่ไม่ไกลเกินเอื้อม
+15038	Kafra: Battle of Survivors  ${1}	Kafra: การต่อสู้ของผู้รอดชีวิต${1}
+15039	Skill bar is full. Cannot equip.	เต็มไม่สามารถสวมใส่ได้
+15040	Please help me! I'll reward you!	ช่วยฉันด้วย!ฉันจะตอบแทนคุณ!
+15041	Physical ATK increased by @{1}%.	พลังโจมตีทางกายภาพเพิ่มขึ้น@{1}%
+15042	Movement Speed -@{1}%, AGI -@{2}	ความเร็วในการเคลื่อนที่ -@{1}%, AGI -@{2}ความเร็วในการเคลื่อนที่
+15043	Damage taken increased by @{1}%.	ความเสียหายที่ได้รับเพิ่มขึ้น@{1}%
+15044	Attack Speed increased by ${1}%.	ความเร็วในการโจมตีเพิ่มขึ้น${1}%
+15045	Damage dealt increased by @{1}%.	ความเสียหายที่ทำได้เพิ่มขึ้น@{1}%
+15046	Immune to damage from Beat Cage.	ภูมิคุ้มกันต่อความเสียหายจาก Beat Cage
+15047	At @{1} stacks, inflicts Petrify	ที่@{1}สแต็ค จะทำให้กลายเป็นหิน
+15048	Damage Reduction +^{1}${6}%^{2}.	การลดความเสียหาย +^{1}${6}%^{2}
+15049	Damage Reduction +^{1}${5}%^{2}.	การลดความเสียหาย +^{1}${5}%^{2}
+15050	Damage Reduction +^{1}${4}%^{2}.	การลดความเสียหาย +^{1}${4}%^{2}
+15051	Damage Reduction +^{1}${3}%^{2}.	การลดความเสียหาย +^{1}${3}%^{2}
+15052	Damage Reduction +^{1}${2}%^{2}.	การลดความเสียหาย +^{1}${2}%^{2}
+15053	Damage Reduction +^{1}${1}%^{2}.	การลดความเสียหาย +^{1}${1}%^{2}
+15054	Current Preset saved and applied	บันทึกและปรับใช้ค่าที่ตั้งล่วงหน้าปัจจุบันแล้ว
+15055	Dummy Faction switched to Enemy.	Dummy Faction เปลี่ยนเป็นศัตรู
+15056	Tap to enter a build description	แตะเพื่อป้อนคำอธิบายบิลด์
+15057	No suitable equipment available.	ไม่มีอุปกรณ์ที่เหมาะสม
+15058	Physical DEF decreases by ${1}%.	DEF ทางกายภาพลดลง${1}%
+15059	Increases damage dealt by ${1}%.	เพิ่มความเสียหายที่ทำได้โดย${1}%
+15060	Locks HP at the fixed value @{1}	ล็อค HP ที่ค่าคงที่@{1}
+15061	Increases Magic DEF by ${1}~${2}	เพิ่ม DEF เวทย์มนตร์โดย${1}~${2}
+15062	Increases Magic ATK by ${1}~${2}	เพิ่มพลังโจมตีเวทย์โดย${1}~${2}
+15063	Baphomet Jr. Reward Boost Lv@{1}	Baphomet Jr. รางวัลบูสต์ Lv@{1}
+15064	Fight for the glory that awaits!	สู้เพื่อศักดิ์ศรีที่รออยู่!
+15065	Please obtain a Soul Echo first.	กรุณารับ Soul Echo ก่อน
+15066	Recruitment posted successfully.	โพสต์รับสมัครงานเรียบร้อยแล้ว
+15067	Go to the Adventurer Group Tree?	ไปที่แผนผังกลุ่มนักผจญภัยเหรอ?
+15068	Worldscorch Feather: Ashen Embers	ขน Worldscorch: Ashen Embers
+15069	Nine-Tone Mantra: Rainbow Raiment	มนต์เก้าโทน เสื้อคลุมสีรุ้ง
+15070	Worldscorch Feather · Featherstep	ขน Worldscorch · ขั้นขนนก
+15071	Other Elemental Damage Reduction%	การลดความเสียหายจากองค์ประกอบอื่น ๆ%
+15072	Damage Reduction from Fish Race %	การลดความเสียหายจากการแข่งขันปลา %
+15073	^{1}Challenge Stage @{1}-@{2}^{2}	^{1}ด่านท้าทาย@{1}-@{2}^{2}
+15074	Find a way to earn Deniro's Faith	ค้นหาวิธีรับศรัทธาของเดนิโร
+15075	Ultimately occupy a Regional City	ยึดครองเมืองระดับภูมิภาคในท้ายที่สุด
+15076	Job Talents Points Assigned: @{1}	คะแนนความสามารถพิเศษในงานที่ได้รับมอบหมาย:@{1}ไม่มีงาน
+15077	Purchase from the Appearance Shop	ซื้อจากร้านรูปลักษณ์
+15078	Say hello to Baisulist for Dumby.	ทักทาย Baisulist for Dumby
+15079	Clear Floor @{1} of the Pet Tower	พื้นใส@{1}ของ Pet Tower
+15080	You got some new gear. Try it on!	คุณมีอุปกรณ์ใหม่แล้วลองมัน!
+15081	Continue to Search for the cargo.	ค้นหาสินค้าต่อไป
+15082	Buy a sandwich for the professor.	ซื้อแซนด์วิชให้อาจารย์
+15083	Rare Reward-Osiris-Illusion Limit	รางวัลหายาก-โอซิริส-ภาพลวงตาจำกัด
+15084	Rare Reward-Kraken-Illusion Limit	รางวัลหายาก-คราเคน-ภาพลวงตาจำกัด
+15085	Defeat MVP Producer Yu in a party	เอาชนะ MVP Producer Yu ในปาร์ตี้
+15086	Defeat Normal Orc Hero in a party	กำจัดฮีโร่ออร์คธรรมดาในปาร์ตี้
+15087	Show Hollgrehenn what you learned	แสดง Hollgrehenn สิ่งที่คุณเรียนรู้
+15088	Bobo discovered an important Clue	Bobo ค้นพบเบาะแสที่สำคัญ
+15089	The compass is reacting strangely	เข็มทิศมีปฏิกิริยาแปลกๆ
+15090	Go to the Pyramid and investigate	ไปที่พีระมิดแล้วสำรวจ
+15091	Witness the Prophecy in the Dream	ร่วมเป็นสักขีพยานในคำทำนายในความฝัน
+15092	Successfully activated ${1}: ${2}	เปิดใช้งาน${1}สำเร็จแล้ว :${2}
+15093	Converted to the character's Life	แปลงเป็นชีวิตของตัวละคร
+15094	Affects your Neutral skill damage	ส่งผลต่อความเสียหายจากทักษะเป็นกลางของคุณ
+15095	Affects Poison skill damage taken	ส่งผลต่อความเสียหายของทักษะพิษที่ได้รับ
+15096	Affects Shadow skill damage taken	ส่งผลต่อความเสียหายของทักษะ Shadow ที่ได้รับ
+15097	Affects Undead skill damage taken	ส่งผลต่อความเสียหายของทักษะ Undead ที่ได้รับ
+15098	Reduces ranged magic damage taken	ลดความเสียหายเวทย์มนตร์ระยะไกลที่ได้รับ
+15099	Increases damage dealt to players	เพิ่มความเสียหายที่ทำกับผู้เล่น
+15100	Reduces damage taken from players	ลดความเสียหายที่ได้รับจากผู้เล่น
+15101	Spirit Tower Compensation Rewards	รางวัลชดเชยหอคอยวิญญาณ
+15102	Stronghold War Auction Successful	การประมูลสงครามฐานที่มั่นสำเร็จ
+15103	Territory War Convoy Buyer Reward	รางวัลผู้ซื้อขบวนสงครามอาณาเขต
+15104	Unclaimed Guild Activity Dividend	เงินปันผลกิจกรรมกิลด์ที่ไม่มีการอ้างสิทธิ์
+15105	Appearance Gift Expiration Return	การคืนของขวัญลักษณะที่ปรากฏ การส่งคืนวันหมดอายุ
+15106	Hunting Challenge Group Rank @{1}	@{1}
+15107	Fly Wing Auto-Purchase successful	Fly Wing การซื้ออัตโนมัติสำเร็จแล้ว
+15108	Misc timed out. Please try again.	เบ็ดเตล็ดหมดเวลาโปรดลองอีกครั้ง
+15109	Failed to retrieve character list	ไม่สามารถเรียกข้อมูลรายการอักขระ
+15110	Equip the Dagger in your Backpack	สวมใส่กริชในกระเป๋าเป้ของคุณ
+15111	Gather high-quality Sticky Mucus.	รวบรวมเมือกเหนียวคุณภาพสูง
+15112	Collect the Rare Balance Bristles	รวบรวมขนแปรงสมดุลที่หายาก
+15113	Your chest suddenly feels warm...	จู่ๆ อกก็รู้สึกอบอุ่น...
+15114	Defeat monsters in Sograt Desert*	กำจัดสัตว์ประหลาดในทะเลทราย Sograt*
+15115	Ask Fervor about the new Discover	Ask Fervor about the new Discover
+15116	Check the spot Fervor is sniffing	ตรวจสอบจุดที่เฟอร์เวอร์กำลังดมอยู่
+15117	Extra World Level EXP bonus: ${1}	โบนัส EXP ระดับโลกพิเศษ:${1}
+15118	Reduces the DEF of nearby enemies	ลด DEF ของศัตรูที่อยู่ใกล้เคียง
+15119	Escort Mission End Waiting Period	ภารกิจคุ้มกัน สิ้นสุดระยะเวลารอ
+15120	\nYou completed ${1} commissions.	\nคุณดำเนินการค่าคอมมิชชั่น${1}เสร็จสมบูรณ์แล้ว
+15121	\nYou relaxed at home ${1} times.	\nคุณผ่อนคลายที่บ้าน${1}ครั้งแล้วครั้งเล่า
+15122	Appearance Shop - Direct Purchase	ลักษณะร้านค้า - ซื้อโดยตรง
+15123	You are already on the last page!	คุณอยู่ในหน้าสุดท้ายแล้ว!
+15124	Gameplay Description—Yet to start	คำอธิบายเกมเพลย์ - ยังไม่เริ่มต้น
+15125	Victory in the Stronghold Defense	ชัยชนะในการป้องกันฐานที่มั่น
+15126	Placeholder text placeholder text	ข้อความตัวยึดตำแหน่งข้อความตัวยึดตำแหน่ง
+15127	Assist to earn Additional rewards	Assist เพื่อรับรางวัลเพิ่มเติม
+15128	Purchase RO Pass Information Text	ซื้อข้อความข้อมูล RO Pass
+15129	Crafting speed increases by @{1}%	ความเร็วในการประดิษฐ์เพิ่มขึ้น@{1}%
+15130	Quality of all other skills +@{1}	คุณภาพของทักษะอื่นๆ ทั้งหมด +@{1}ปริมาณ
+15131	This is already the lowest price.	นี่คือราคาต่ำสุดแล้ว
+15132	Insufficient Currency (Deprecated	Insufficient Currency (Deprecated
+15133	Monthly Purchase Limit: ${1}/${2}	จำกัดการซื้อรายเดือน:${1}/${2}
+15134	No Adventurers made the rankings.	ไม่มีนักผจญภัยคนใดทำการจัดอันดับ
+15135	No valid information found yet...	ไม่พบข้อมูลที่ถูกต้อง...
+15136	The invitee is already in a party	ผู้ได้รับเชิญอยู่ในงานปาร์ตี้แล้ว
+15137	No longer on the application list	ไม่อยู่ในรายการแอปพลิเคชันอีกต่อไป
+15138	Start Raid Placement confirmation	เริ่มการยืนยันตำแหน่ง Raid
+15139	Qualification Bidding in Progress	อยู่ระหว่างการประมูลคุณสมบัติ
+15140	Auto-Bid failed. Increase Bid now	ล้มเหลว เพิ่มราคาเสนอตอนนี้
+15141	Use ${1} sec. of boosted AFK time	ใช้${1}วินาทีของเวลา AFK ที่เพิ่มขึ้น
+15142	Like personal profiles ${1} times	ชอบโปรไฟล์ส่วนตัว${1}เท่า
+15143	Unlocks after opening ${1} chests	ปลดล็อคหลังจากเปิดหีบ${1}
+15144	Instance not successfully cleared	ล้างอินสแตนซ์ไม่สำเร็จ
+15145	Reach ${1} areas for ${2} rewards	เข้าถึงพื้นที่${1}เพื่อรับรางวัล${2}
+15146	Please enter ${1}-${2} characters	โปรดป้อน${1}- อักขระ${2}
+15147	Please enter text to share first.	กรุณากรอกข้อความที่จะแบ่งปันก่อน
+15148	Adventure Party Creation Instance	ตัวอย่างการสร้างปาร์ตี้ผจญภัย
+15149	S@{1}10-Player Raid No. @{2}-@{3}	S@{1}หมายเลขการโจมตีผู้เล่น 10 คน@{2}-@{3}
+15150	Available after the ${1} scenario	พร้อมใช้งานหลังจากสถานการณ์จำลอง${1}
+15151	Royal City qualification required	Royal City
+15152	Movement Speed increases by ${1}%	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}%
+15153	Changes armor property to Poison.	เปลี่ยนคุณสมบัติของเกราะเป็น Poison
+15154	Damage against Kara Crabs +@{1}%.	สร้างความเสียหายต่อปูคาร่า +@{1}%
+15155	MP Cost -@{1}%, Magic DMG +@{2}%.	ใช้ MP -@{1}%, ความเสียหายเวทย์ +@{2}%
+15156	Increases Movement Speed by @{1}%	เพิ่มความเร็วในการเคลื่อนที่โดย@{1}%
+15157	Instantly recovers @{1}% Max Life	ฟื้นฟูทันที@{1}% พลังชีวิตสูงสุด
+15158	Movement Speed +@{1}%, FLEE +@{2}	ความเร็วในการเคลื่อนที่ +@{1}%, FLEE +@{2}
+15159	Reduces skill cooldowns by @{1}%.	ลดคูลดาวน์ทักษะลง@{1}%
+15160	Dispels Lv. @{1} control effects.	ปัดเป่า Lv.เอฟเฟกต์การควบคุม@{1}
+15161	Blessing Angel Surrounding Effect	เอฟเฟกต์แสงเทวดาอวยพร
+15162	Inner-Arena Player-Exclusive Buff	บัฟพิเศษสำหรับผู้เล่นในสนามประลองภายใน
+15163	Increases PATK and MATK by @{1}%.	เพิ่ม PATK และ MATK ขึ้น@{1}%
+15164	Are you sure you want to log out?	คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?
+15165	Skill@{1} Kun Water Vortex - Easy	สกิล@{1}Kun Water Vortex - ง่ายๆ
+15166	Fallen Poring Normal Attack-Earth	Fallen Poring การโจมตีปกติ-ดิน
+15167	Corrupted Wander Man Core Passive	แกนคนพเนจรที่เสียหาย Core Passive
+15168	Allow Downloads Using Mobile Data	อนุญาตให้ดาวน์โหลดโดยใช้ข้อมูลมือถือ
+15169	Blade Deflection Mechanic Warning	คำเตือนกลไกการโก่งตัวของใบมีด
+15170	Falling Cannonball (No Animation)	ลูกปืนใหญ่ล้ม (ไม่มีแอนิเมชั่น)
+15171	Moonlight Flower Four-Corner Bell	กระดิ่งสี่มุม ดอกแสงจันทร์
+15172	Moonlight Flower Bell Deathrattle	กระดิ่งดอกไม้แสงจันทร์ เสียงสุดท้าย
+15173	Moonlight Flower Circle Underfoot	วงกลมดอกไม้แสงจันทร์ใต้ฝ่าเท้า
+15174	Moonlight Flower Five-Corner Bell	ระฆังห้ามุม ดอกแสงจันทร์
+15175	Moonlight Flower Knockback Ambush	ดอกไม้แสงจันทร์ ซุ่มโจมตีกระเด็น
+15176	Skill@{1}Super Multihit Charge Up	@{1}การชาร์จพลังทวีคูณสูงสุด
+15177	One-Hit KO Targeting-No Logic Yet	การกำหนดเป้าหมาย KO เพียงครั้งเดียว-ยังไม่มีตรรกะ
+15178	Battle Chant Harmony - Consonance	Battle Chant Harmony - ความสอดคล้อง
+15179	Stranger Private Message Settings	การตั้งค่าข้อความส่วนตัวของคนแปลกหน้า
+15180	Maximum number of windows reached	ถึงจำนวนหน้าต่างสูงสุดแล้ว
+15181	Note Pillar@{1}-Geffen North Gate	หมายเหตุเสา@{1}-Geffen North Gate
+15182	【Area Healing】Greedy Fallen Angel	【การรักษาในพื้นที่】นางฟ้าตกสวรรค์โลภ
+15183	Sand Puppet Type A - Dust Storm -	ตุ๊กตาทราย Type A - พายุฝุ่น -
+15184	Complete the following objectives	บรรลุวัตถุประสงค์ต่อไปนี้
+15185	Magic Circle_Angeling Damage Area	วงกลมเวทย์มนตร์_พื้นที่สร้างความเสียหายแบบแองเจิล
+15186	Magic Circle_Maya Petrifying Mist	Magic Circle_Maya Petrifying Mist
+15187	Moonlight Flower Large Projectile	ดอกไม้แสงจันทร์ กระสุนขนาดใหญ่
+15188	Five-Player Dungeon Sandstorm@{1}	ดันเจี้ยนพายุทรายสำหรับผู้เล่นห้าคน@{1}
+15189	Headwear topped with sharp horns.	หมวกสวมศีรษะมีเขาแหลมคม
+15190	Damage Reduction from Undead Race	การลดความเสียหายจากการแข่งขัน Undead
+15191	Damage Reduction from Insect Race	การลดความเสียหายจากการแข่งขันแมลง
+15192	Damage Reduction from Dragon Race	การลดความเสียหายจาก Dragon Race
+15193	Eliminate the Threat Around Payon	ขจัดภัยคุกคามรอบ Payon
+15194	Collect the fluorescent substance	รวบรวมสารเรืองแสง
+15195	Failed to send guild application.	ไม่สามารถส่งใบสมัครกิลด์
+15196	Guild Support Creation Successful	การสร้างการสนับสนุนกิลด์สำเร็จแล้ว
+15197	Drag Member info to edit the team	ลากข้อมูลสมาชิกเพื่อแก้ไขทีม
+15198	Battle of Survivors Activity Task	ภารกิจกิจกรรมการต่อสู้ของผู้รอดชีวิต
+15199	A Chance Encounter with a Caravan	โอกาสเผชิญหน้ากับคาราวาน
+15200	Hear What the Members Have to Say	ฟังสิ่งที่สมาชิกพูด
+15201	【Guild Co-op】Phantom Realm Quests	【Guild Co-op】ภารกิจ Phantom Realm
+15202	Unlock pets to gain stat bonuses.	ปลดล็อคสัตว์เลี้ยงเพื่อรับโบนัสสถิติ
+15203	Limited-Time Rate-Up Summon Rules	กฎการอัญเชิญเพิ่มอัตราการจำกัดเวลา
+15204	All Possible Pet Hatching Results	ผลการฟักไข่ของสัตว์เลี้ยงที่เป็นไปได้ทั้งหมด
+15205	Not enough draws remaining today.	วันนี้เหลือการจับรางวัลไม่เพียงพอ
+15206	Complete @{1} Tavern Daily Quests	ทำภารกิจรายวันโรงเตี๊ยม@{1}ให้สำเร็จ
+15207	Obtain @{1} Costume sets in total	รับชุดเครื่องแต่งกาย@{1}ทั้งหมด
+15208	Obtain a Mount for the first time	ได้รับพาหนะเป็นครั้งแรก
+15209	Click here to open the World Map!	คลิกที่นี่เพื่อเปิดแผนที่โลก!
+15210	Thank you for using our services!	ขอบคุณที่ใช้บริการของเรา!
+15211	All right, I'll ask someone else.	เอาล่ะ ฉันจะถามคนอื่น
+15212	I knew you were the best, Master!	ฉันรู้ว่าคุณเก่งที่สุด อาจารย์!
+15213	There you are! Are you both okay?	มาแล้ว!คุณทั้งคู่โอเคไหม?
+15214	You got it, you got it! Let's go!	เข้าใจแล้ว เข้าใจแล้ว!ไปกันเลย!
+15215	Well? Ready to face my Peco Peco?	เหรอ?พร้อมที่จะเผชิญหน้ากับ Peco Peco ของฉันแล้วหรือยัง?
+15216	Bring a gift to someone you love!	มอบของขวัญให้กับคนที่คุณรัก!
+15217	Huh? What's going on? Where am I?	หือ?เกิดอะไรขึ้น?ฉันอยู่ที่ไหน?
+15218	You've always got to be prepared!	คุณต้องเตรียมพร้อมเสมอ!
+15219	You ran even faster than they do.	คุณวิ่งได้เร็วกว่าที่พวกเขาทำ
+15220	Think positive. Think positive...	คิดบวกคิดบวก...
+15221	Hello! Would you like to join us?	สวัสดี!คุณต้องการที่จะเข้าร่วมกับเรา?
+15222	I'm exhausted. I want to sleep...	เหนื่อยจังเลยฉันอยากนอน...
+15223	Hey there! Good to see you again.	สวัสดี!ดีใจที่ได้พบคุณอีกครั้ง
+15224	The Eternal Land event has ended.	กิจกรรม Eternal Land สิ้นสุดลงแล้ว
+15225	A Revive Point has changed hands!	Revive Point เปลี่ยนมือแล้ว!
+15226	Move Away from the marked player!	ย้ายออกไปจากผู้เล่นที่ถูกทำเครื่องหมายไว้!
+15227	Assistant\nAssistant message test	Assistant\nการทดสอบข้อความของ Assistant
+15228	${1} has spawned on the ${2} map.	${1}ได้เกิดบนแผนที่${2}
+15229	${1} removed ${2} from the guild.	${1}ลบ${2}ออกจากกิลด์
+15230	Guild Supply Transport has begun!	การขนส่งเสบียงกิลด์ได้เริ่มขึ้นแล้ว!
+15231	Bobo\nIs that... a tornado?! Run!	Bobo\nนั่น... พายุทอร์นาโดเหรอ?!วิ่ง!
+15232	Bobo\nA coffin? What do You mean?	Bobo\nโลงศพเหรอ?คุณหมายความว่าอย่างไร?
+15233	Limited-Time Guild Event Now Open	กิจกรรมกิลด์จำกัดเวลาเปิดแล้ว
+15234	You already permanently own ${1}.	คุณเป็นเจ้าของ${1}อย่างถาวรแล้ว
+15235	Division Assignment Requirements:	:
+15236	Lightning Style - Rolling Thunder	สไตล์ Lightning - Rolling Thunder
+15237	Diving Fire Breath - Warning Zone	Diving Fire Breath - โซนเตือน
+15238	Full-screen Fire Setup - Take Off	การตั้งค่าไฟแบบเต็มหน้าจอ - การถอด
+15239	Combat NPC Turret Cast Skill (ST)	ทักษะการร่ายป้อม NPC ต่อสู้ (ST)
+15240	Send Stage Message: Memory Damage	ส่งข้อความเวที: หน่วยความจำเสียหาย
+15241	Third Movement · Arcane Resonance	การเคลื่อนไหวครั้งที่สาม · เสียงสะท้อนแห่งเวทมนตร์
+15242	Equipment - Equipment Enchantment	อุปกรณ์ - มนต์เสน่ห์อุปกรณ์
+15243	MINIENGINE_LESS_THAN_REMOTE_ERROR	MINIENGINE_LESS_THAN_REMOTE_ERROR
+15244	Divine Totem Exclusive Skill Book	หนังสือทักษะพิเศษ Divine Totem
+15245	Use to unlock Chapter 2 of a book	ใช้เพื่อปลดล็อคบทที่ 2 ของหนังสือ
+15246	Use to unlock Chapter 1 of a book	ใช้เพื่อปลดล็อคบทที่ 1 ของหนังสือ
+15247	Commemorative Medal E Description	เหรียญที่ระลึก E Description
+15248	Commemorative Medal D Description	เหรียญที่ระลึก D Description
+15249	Commemorative Medal C Description	เหรียญที่ระลึก C Description
+15250	Commemorative Medal B Description	เหรียญที่ระลึก B Description
+15251	Advanced Gathering - Horticulture	การรวบรวมขั้นสูง - พืชสวน
+15252	Commemorative Medal A Description	เหรียญที่ระลึก A Description
+15253	A colorful Tiger Pelt from Eddga.	หนังเสือสีสันสดใสจาก Eddga
+15254	An item collected from a Beehive.	ไอเท็มที่รวบรวมจากรังผึ้ง
+15255	Cannot claim before check-in time	ไม่สามารถรับสิทธิ์ก่อนเวลาเช็คอินได้
+15256	This movement has not started yet	ความเคลื่อนไหวนี้ยังไม่ได้เริ่ม
+15257	Not enough materials to level up.	วัสดุไม่เพียงพอในการเลเวล
+15258	Long boots made of sturdy fabric.	รองเท้าบูทยาวทำจากผ้าที่ทนทาน
+15259	A wand imbued with magical power.	ไม้กายสิทธิ์ที่เต็มไปด้วยพลังเวทย์มนตร์
+15260	An axe imbued with demonic power.	ขวานที่อัดแน่นไปด้วยพลังปีศาจ
+15261	A sword commonly used by sailors.	ดาบที่ชาวเรือใช้กันทั่วไป
+15262	Cracking Beneath the Stone Pillar	รอยแตกใต้เสาหิน
+15263	Laughter Around the Wooden Tables	เสียงหัวเราะรอบโต๊ะไม้
+15264	Beneath the Majestic Stone Statue	ใต้รูปปั้นหินอันงดงาม
+15265	Low-Tier DMG Reduction vs All Job	การลด DMG ระดับต่ำเทียบกับงานทั้งหมด
+15266	Pet Shard: Darkhearted Hunter Eve	Pet Shard: ฮันเตอร์อีฟผู้ใจดำ
+15267	Basic Card Album@{1} (Deprecated)	อัลบั้มการ์ดพื้นฐาน@{1}(เลิกใช้แล้ว)
+15268	Nine-Tone Mantra Costume Gift Box	กล่องของขวัญชุดมนต์เก้าโทน
+15269	Deluxe Pack-Test Cross-Season Use	Deluxe Pack-Test การใช้งานข้ามฤดูกาล
+15270	【Guild Joint Battle】Phantom Realm	【การต่อสู้ร่วมกิลด์】อาณาจักรปีศาจ
+15271	Skill Reset Rod (No Function Yet)	คันโยกรีเซ็ตทักษะ (ยังไม่มีฟังก์ชั่น)
+15272	Treasure Clue: Silver-Clad Shadow	Treasure Clue: เงาหุ้มเงิน
+15273	Life Percentage · Accessory-Green	Life Percentage · อุปกรณ์เสริม-สีเขียว
+15274	Azure Realmguard Scroll·Armor-Red	Azure Realmguard Scroll·เกราะ-แดง
+15275	Hummingbird Scroll·Off-Hand-Green	Hummingbird Scroll·นอกมือ-เขียว
+15276	Mountain Scroll·One-Handed-Orange	Mountain Scroll·มือเดียว-สีส้ม
+15277	Mountain Scroll·One-Handed-Purple	Mountain Scroll·มือเดียว-สีม่วง
+15278	Eagle Eye Scroll·One-Handed-Green	Eagle Eye Scroll·มือเดียว-เขียว
+15279	Life Percentage·Dual-Wield-Orange	Life Percentage·มือคู่-สีส้ม
+15280	Mountain Scroll·Dual-Wield-Orange	Mountain Scroll·ด้ามคู่-สีส้ม
+15281	Life Percentage·Dual-Wield-Purple	Life Percentage·ด้ามจับคู่-สีม่วง
+15282	Mountain Scroll·Dual-Wield-Purple	Mountain Scroll·ด้ามคู่-ม่วง
+15283	Giant Scroll · Dual Wield - Green	Giant Scroll · อาวุธคู่ - สีเขียว
+15284	Lv. @{1} Two-Handed Spear (No BD)	เลเวล@{1}หอกสองมือ (ไม่มี BD)
+15285	Lv. @{1} One-Handed Spear (No BD)	เลเวล@{1}หอกมือเดียว (ไม่มี BD)
+15286	Lv. @{1} Two-Handed Sword (No BD)	เลเวล@{1}ดาบสองมือ (ไม่มี BD)
+15287	Lv. @{1} One-Handed Sword (No BD)	เลเวล@{1}ดาบมือเดียว (ไม่มี BD)
+15288	Insufficient faction quest points	คะแนนภารกิจฝ่ายไม่เพียงพอ
+15289	Only ${1} characters can use this	เฉพาะอักขระ${1}เท่านั้นที่สามารถใช้ได้
+15290	Please select a main story branch	กรุณาเลือกสาขาเรื่องหลัก
+15291	Not Participated in Monster Kills	ไม่มีส่วนร่วมในการสังหารมอนสเตอร์
+15292	Not enough treasure chests opened	เปิดหีบสมบัติไม่เพียงพอ
+15293	Not enough Soul Echo Enhancements	การปรับปรุง Soul Echo ไม่เพียงพอ
+15294	Codex Points (Monsters - Mjolnir)	Codex Points (มอนสเตอร์ - มโยลเนียร์)
+15295	${1} declined the dungeon summons	${1}ปฏิเสธการอัญเชิญดันเจี้ยน
+15296	You've already given this a Like.	คุณได้กดถูกใจสิ่งนี้แล้ว
+15297	<color=#EC543A>(Inactive)</color>	<color=#EC543A>(Inactive)</color>
+15298	Divine Blessing effect increased!	เอฟเฟกต์ Divine Blessing เพิ่มขึ้น!
+15299	Adventure Handbook Reward Preview	ตัวอย่างรางวัลคู่มือการผจญภัย
+15300	Tap to Search the Book Collection	แตะเพื่อค้นหาคอลเลคชันหนังสือ
+15301	Participate Solo or with a party.	เข้าร่วมเดี่ยวหรือกับปาร์ตี้
+15302	Fair Competition for @{1} Players	การแข่งขันที่ยุติธรรมสำหรับผู้เล่น@{1}
+15303	Movement of the God of Nature · I	การเคลื่อนไหวของเทพเจ้าแห่งธรรมชาติ · I
+15304	Cross Exorciser [Triggered Skill]	Cross Exorciser [ทริกเกอร์ทักษะ]
+15305	Tree Spirit's Blessing Invincible	พรของ Tree Spirit อยู่ยงคงกระพัน
+15306	Maximize Power - Weapon Polishing	เพิ่มพลังสูงสุด - การขัดอาวุธ
+15307	S@{1} Vulcan Cannon Counter Stack	S@{1}กองนับปืนใหญ่วัลแคน
+15308	S@{1} High-Energy Impact Listener	S@{1}ตัวฟังผลกระทบพลังงานสูง
+15309	Reduce Enhance Shield Bash Floors	ลด Enhance Shield Bash Floors
+15310	BDDictionary_enum@{1}_BigType_Set	BDDictionary_enum@{1}_BigType_Set
+15311	Valkyrie's Blessing (Deprecated!)	พรของวาลคิรี (เลิกใช้แล้ว!)
+15312	Immune to damage while using Lope	ป้องกันความเสียหายขณะใช้ Lope
+15313	Red Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอฟองสีแดง
+15314	Move back Afterimage State Season	ย้ายสถานะ Afterimage กลับไป
+15315	Joint Beat Attack Speed Reduction	การลดความเร็วในการโจมตีแบบ Beat Beat
+15316	Joint Beat Physical DEF Reduction	การลด DEF ทางกายภาพของจังหวะร่วม
+15317	Aura Blade Max Stack Sound Effect	Aura Blade Max Stack Sound Effect
+15318	${1} invited you to join a tavern	${1}เชิญคุณเข้าร่วมโรงเตี๊ยม
+15319	Enhance all equipment to Lv. ${1}	อัพเกรดอุปกรณ์ทั้งหมดเป็น Lv.${1}
+15320	Go to the designated area in ${1}	ไปยังพื้นที่ที่กำหนดใน${1}
+15321	Speaking mode Setting successful.	โหมดการพูด การตั้งค่าสำเร็จแล้ว
+15322	Clear Floor ${1} of the Pet Tower	พื้นใส${1}ของ Pet Tower
+15323	Win ${1} times in the Tower Climb	ชนะ${1}ครั้งในการปีนหอคอย
+15324	10-Player Dungeon Test Notes@{1}:	บันทึกการทดสอบดันเจี้ยนสำหรับผู้เล่น 10 คน@{1}:
+15325	10-Player Raid Test Instructions:	คำแนะนำในการทดสอบการโจมตีผู้เล่น 10 คน:
+15326	Together to the Ends of the Earth	ไปด้วยกันจนสุดขอบโลก
+15327	Cannot mount in the current state	ไม่สามารถต่อเชื่อมในสถานะปัจจุบัน
+15328	Someone already bought this item!	มีคนซื้อสินค้านี้แล้ว!
+15329	Group Chat creation limit reached	การสร้างแชทกลุ่มถึงขีดจำกัดแล้ว
+15330	Item cannot be added to Favorites	ไม่สามารถเพิ่มรายการลงในรายการโปรดได้
+15331	Gifts can only be sent to friends	ของขวัญสามารถส่งให้เพื่อนได้เท่านั้น
+15332	You cannot send gifts to yourself	คุณไม่สามารถส่งของขวัญให้ตัวเองได้
+15333	Invalid Divine Arts Totem loadout	การโหลดโทเท็ม Divine Arts ไม่ถูกต้อง
+15334	The Tavern room name is too long.	ชื่อห้องโรงเตี๊ยมยาวเกินไป
+15335	Cannot Enable Bonus in a Dungeon.	ไม่สามารถเปิดใช้งานโบนัสในดันเจี้ยนได้
+15336	Invalid skill wall-piercing level	ระดับทักษะการเจาะผนังไม่ถูกต้อง
+15337	The Guild Leader cannot be muted.	ไม่สามารถปิดเสียงหัวหน้ากิลด์ได้
+15338	Already have Permission to speak.	ได้รับอนุญาตให้พูดแล้ว
+15339	Guild summon teleportation failed	การอัญเชิญกิลด์เทเลพอร์ตล้มเหลว
+15340	The response invite has timed out	คำเชิญตอบกลับหมดเวลาแล้ว
+15341	Response invite sent successfully	ส่งคำเชิญตอบกลับเรียบร้อยแล้ว
+15342	Click a slot on the left to equip	คลิกช่องด้านซ้ายเพื่อติดตั้ง
+15343	You do not have this Monthly Pass	คุณไม่มีบัตรรายเดือนนี้
+15344	The Siege Camp has been destroyed	ค่ายปิดล้อมถูกทำลายแล้ว
+15345	This slot has not been activated.	ช่องนี้ยังไม่ได้เปิดใช้งาน
+15346	This party mode is not supported.	ไม่รองรับโหมดปาร์ตี้นี้
+15347	^{1}Refinement-Affected Stats^{2}	^{1}สถิติที่ได้รับผลกระทบจากการปรับแต่ง^{2}
+15348	Hundredfold Tempering - Keen Edge	การแบ่งเบาบรรเทาร้อยเท่า - Keen Edge
+15349	Advanced DMG Reduction vs All Job	การลดความเสียหายขั้นสูงเทียบกับงานทั้งหมด
+15350	Emerald Boundary-Breaking Remnant	เศษเหลือที่ทำลายขอบเขตมรกต
+15351	Crimson Boundary-Breaking Remnant	เศษเหลือที่ทำลายขอบเขตสีแดงเข้ม
+15352	Character is not pending deletion	อักขระไม่ได้รอการลบ
+15353	Quest [${1}] requirements not met	Quest [${1}]
+15354	Quest [${1}] Repeat limit reached	Quest [${1}] ถึงขีดจำกัดการทำซ้ำแล้ว
+15355	Item configuration does not exist	ไม่มีการกำหนดค่ารายการ
+15356	Items cannot be used in this area	รายการไม่สามารถใช้ในพื้นที่นี้ได้
+15357	The preset has not been unlocked.	ค่าที่ตั้งล่วงหน้าไม่ได้รับการปลดล็อค
+15358	Skill selector validation failed.	การตรวจสอบตัวเลือกทักษะล้มเหลว
+15359	Stage 4\nDestroy the Ornate Metal	ด่าน 4\nทำลายโลหะที่หรูหรา
+15360	Phase 3\nDefend the Control Point	เฟส 3\nปกป้องจุดควบคุม
+15361	Jump into the Cave to Rescue Bobo	กระโดดเข้าไปในถ้ำเพื่อช่วยเหลือ Bobo
+15362	@{1} instances of circular damage	@{1}ความเสียหายแบบวงกลม
+15363	Lv. @{1} cards cannot be returned	เลเวลไม่สามารถคืนการ์ด@{1}ได้
+15364	No sweep attempts remaining today	ไม่มีความพยายามในการกวาดล้างเหลืออยู่ในวันนี้
+15365	Too far away for NPC Interaction.	อยู่ไกลเกินไปสำหรับการโต้ตอบของ NPC
+15366	Item is being processed (queued).	รายการกำลังถูกประมวลผล (อยู่ในคิว)
+15367	Equipment Enhance Parameter error	ข้อผิดพลาดพารามิเตอร์การปรับปรุงอุปกรณ์
+15368	Cannot dismantle an equipped item	ไม่สามารถแยกชิ้นส่วนที่ติดตั้งไว้ได้
+15369	The other player has blocked you.	ผู้เล่นอีกคนบล็อกคุณ
+15370	Ah! Aaaaaah~! Aah!! Cough, cough!	อ่า! อ๊าาา~! อ๊ะ!! ไอ, ไอ!
+15371	Broken watches and hair for sale~	ขายนาฬิกากับผมพัง~
+15372	None of this is mere coincidence.	ทั้งหมดนี้ไม่ใช่เรื่องบังเอิญ
+15373	Increases Healing Volume by @{1}%	เพิ่มปริมาณการรักษาโดย@{1}%
+15374	【Bash】 damage increased by @{1}%.	【ทุบตี】 ดาเมจเพิ่มขึ้น@{1}%
+15375	AOE released when the shield ends	AOE จะถูกปล่อยออกมาเมื่อโล่สิ้นสุดลง
+15376	Select a Replacement Build Preset	เลือกค่าที่ตั้งไว้ล่วงหน้าของบิลด์ทดแทน
+15377	Physical/Magic DEF -^{1}${1}%^{2}	DEF กายภาพ/เวทมนตร์ -^{1}${1}%^{2}
+15378	Physical/Magic DEF +^{1}${1}%^{2}	DEF กายภาพ/เวทมนตร์ +^{1}${1}%^{2}
+15379	Damage increased by ^{1}${1}%^{2}	ความเสียหายเพิ่มขึ้น ^{1}${1}%^{2}
+15380	Detects nearby invisible enemies.	ตรวจจับศัตรูที่มองไม่เห็นในบริเวณใกล้เคียง
+15381	Physical and Magic DEF decreased.	DEF กายภาพและเวทมนตร์ลดลง
+15382	Physical ATK and Magic ATK +${6}%	ATK กายภาพและ ATK เวทย์ +${6}%
+15383	Physical ATK and Magic ATK +${4}%	พลังโจมตีกายภาพและพลังเวทย์ +${4}%
+15384	Physical ATK and Magic ATK +${3}%	ATK กายภาพและ ATK เวทย์ +${3}%
+15385	Physical ATK and Magic ATK +${1}%	พลังโจมตีกายภาพและพลังเวทย์ +${1}%
+15386	Grants Call Thunder buff Lv. @{1}	ให้บัฟ Call Thunder Lv.@{1}
+15387	Demonic Dragon Soul Vulnerability	ช่องโหว่วิญญาณมังกรปีศาจ
+15388	Musical Instrument Full-Field AOE	เครื่องดนตรี AOE แบบเต็มสนาม
+15389	Launch a bubble of a random color	เปิดฟองสีแบบสุ่ม
+15390	Stone-Shaped Slash Targeting—Easy	การกำหนดเป้าหมายแบบเฉือนหิน—ง่าย
+15391	Greatest General Targeting - Fire	การกำหนดเป้าหมายทั่วไปที่ยิ่งใหญ่ที่สุด - ไฟไหม้
+15392	Glast Heim Aboveground Floor @{1}	Glast Heim พื้นเหนือพื้นดิน@{1}
+15393	Unlocks when Growth reaches ${1}.	ปลดล็อคเมื่อการเติบโตถึง${1}
+15394	Worldscorch Feather·Brilliant Gold	Worldscorch Feather·สีทองสุกใส
+15395	Worldscorch Feather: Burning Wings	ขนนก Worldscorch: ปีกที่ลุกเป็นไฟ
+15396	[Rift Crisis] Special Commendation	[Rift Crisis] คำชมพิเศษ
+15397	Spend ${1} to complete the Unseal?	ใช้จ่าย${1}เพื่อทำการ Unseal ให้เสร็จสิ้นหรือไม่
+15398	Damage Reduction from Brute Race %	การลดความเสียหายจาก Brute Race %
+15399	Damage Reduction from Demon Race %	การลดความเสียหายจากเผ่าปีศาจ %
+15400	Damage Reduction from Plant Race %	การลดความเสียหายจากเผ่าพันธุ์พืช %
+15401	Damage Reduction from Angel Race %	การลดความเสียหายจาก Angel Race %
+15402	${1} modes have reached this tier.	โหมด${1}มาถึงระดับนี้แล้ว
+15403	This Function is not yet available	ฟังก์ชันนี้ยังไม่พร้อมใช้งาน
+15404	Earn a C rating on the battlefield	รับคะแนน C ในสนามรบ
+15405	Earn a B rating on the battlefield	ได้รับคะแนน B ในสนามรบ
+15406	Own @{1} pets of Grade A or higher	เป็นเจ้าของสัตว์เลี้ยง@{1}เกรด A หรือสูงกว่า
+15407	Head to the Space-Time Gate ahead.	มุ่งหน้าไปยังประตูอวกาศ-เวลาข้างหน้า
+15408	Enter Maya's Nest and defeat Maya.	เข้าสู่รังของ Maya และเอาชนะ Maya
+15409	Monster Hunt-Area @{1}-Medal Limit	พื้นที่ล่าสัตว์ประหลาด@{1}- ขีดจำกัดเหรียญ
+15410	Rare Reward-Doppelganger-MVP Limit	รางวัลหายาก-Doppelganger-MVP จำกัด
+15411	Rare Reward-Pharaoh-Illusion Limit	รางวัลหายาก-ฟาโรห์-ภาพลวงตาจำกัด
+15412	Defeat the MVP Deviling in a party	เอาชนะ MVP Deviling ในปาร์ตี้
+15413	Please select ${1}/${2} Encounters	โปรดเลือกการเผชิญหน้า${1}/${2}
+15414	Touch the Book of Job Advancement.	สัมผัสหนังสือแห่งความก้าวหน้าของงาน
+15415	Talk to Boya about what to do next	คุยกับโบย่าว่าต้องทำอะไรต่อไป
+15416	Something feels wrong. Look around	มีบางอย่างรู้สึกผิดปกติมองไปรอบ ๆ
+15417	Ask a Caravan Member what happened	ถามสมาชิกคาราวานว่าเกิดอะไรขึ้น
+15418	Ji'ang looks confident. Follow him	จี๋อังดูมั่นใจติดตามเขา
+15419	Question the caravan Member nearby	สอบถามคาราวานสมาชิกบริเวณใกล้เคียง
+15420	Say goodbye to the caravan Members	บอกลาสมาชิกคาราวาน
+15421	Follow Bobo to Rent a Demonic Wolf	ติดตาม Bobo เพื่อเช่าหมาป่าปีศาจ
+15422	Recovers ${1} Life every @{1} sec.	กู้คืน${1}ชีวิตทุกๆ@{1}วินาที
+15423	Increases healing received by ${1}	เพิ่มการรักษาที่ได้รับจาก${1}
+15424	Affects Neutral skill damage taken	ส่งผลต่อความเสียหายจากทักษะเป็นกลางที่ได้รับ
+15425	Ignores some of the target's PDEF.	ละเว้น PDEF ของเป้าหมายบางส่วน
+15426	Ignores some of the target's MDEF.	ละเว้น MDEF ของเป้าหมายบางส่วน
+15427	Guild Caravan Compensation Rewards	รางวัลชดเชยคาราวานกิลด์
+15428	League Rank Placement Notification	ประกาศตำแหน่งลีก
+15429	Season Settlement: Veteran Rewards	ข้อตกลงซีซั่น: รางวัลทหารผ่านศึก
+15430	Epic Campaign Participation Reward	Epic
+15431	Territory War Convoy Raider Reward	Territory War Convoy Raider
+15432	Character-Restricted Guild Auction	การประมูลกิลด์จำกัดตัวละคร
+15433	Lost Treasure Quest Reward Reissue	การออกรางวัล Quest Treasure Quest ที่หายไปใหม่
+15434	@{1}-Player Dungeon Activity Quest	@{1}-ภารกิจกิจกรรมผู้เล่นดันเจี้ยน
+15435	State Capital War Activity Mission	ภารกิจกิจกรรมสงครามเมืองหลวงของรัฐ
+15436	Vivify Cost: <#896B4D>Free</color>	ตรวจสอบต้นทุน:<#896B4D>ฟรี</color>
+15437	Not enough Notes. Go collect more.	หมายเหตุไม่เพียงพอไปเก็บเพิ่มครับ.
+15438	Gloom Over Dragon Sarcophagus Isle	ความเศร้าโศกเหนือเกาะโลงศพมังกร
+15439	Enter the Mysterious Cave Entrance	เข้าสู่ทางเข้าถ้ำลึกลับ
+15440	Inspect the goods by the roadside.	ตรวจสินค้าริมถนน.
+15441	Clear the first floor of the tower	เคลียร์ชั้น 1 ของทาวเวอร์
+15442	Clear the third floor of the tower	เคลียร์หอคอยชั้นสาม
+15443	Conquer the monsters in Munak Cave	พิชิตสัตว์ประหลาดในถ้ำ Munak
+15444	Complete the Third Job Advancement	บรรลุความก้าวหน้าของงานที่สาม
+15445	Tell Rhine you completed the trial	แจ้ง Rhine ว่าคุณทดลองใช้งานเสร็จแล้ว
+15446	Enter through this Covert entrance	เข้ามาทางทางเข้าแอบแฝงนี้
+15447	Head outside Prontera's north gate	มุ่งหน้าไปด้านนอกประตูทิศเหนือของ Prontera
+15448	Ask the leader about the situation	ถามผู้นำเกี่ยวกับสถานการณ์
+15449	Examine the abandoned cargo crate*	ตรวจสอบลังสินค้าที่ถูกทิ้งร้าง*
+15450	Pick up the Professor's instrument	หยิบเครื่องดนตรีของศาสตราจารย์ขึ้นมา
+15451	Watch what is happening before you	ดูสิ่งที่เกิดขึ้นต่อหน้าคุณ
+15452	Not enough Star Points to Level-up	คะแนนดาวไม่เพียงพอในการเลื่อนระดับ
+15453	Increases each stat by @{1} points	เพิ่มแต่ละสถิติด้วยคะแนน@{1}
+15454	Registration for ${1} is now open.	การลงทะเบียนสำหรับ${1}เปิดให้บริการแล้ว
+15455	File difference analysis complete.	การวิเคราะห์ความแตกต่างของไฟล์เสร็จสมบูรณ์
+15456	(New levels unlock after Base${1})	(ปลดล็อคระดับใหม่หลังจากฐาน${1})
+15457	A Letter Lost in Another Dimension	จดหมายที่หายไปในอีกมิติหนึ่ง
+15458	You are already on the first page!	คุณอยู่ในหน้าแรกแล้ว!
+15459	Not enough ${1}. Unable to unlock.	ไม่เพียงพอ${1}ไม่สามารถปลดล็อคได้
+15460	This is already the highest price.	นี่คือราคาสูงสุดแล้ว
+15461	Only rare equipment can be listed!	มีเพียงอุปกรณ์หายากเท่านั้นที่สามารถลงรายการได้!
+15462	Level too low! Hurry and Level-up!	ระดับต่ำเกินไป!รีบและเพิ่มเลเวล!
+15463	Lifetime Purchase Limit: ${1}/${2}	ขีดจำกัดการซื้อตลอดอายุการใช้งาน:${1}/${2}
+15464	New items coming soon. Stay tuned!	สินค้าใหม่เร็วๆ นี้คอยติดตาม!
+15465	You cannot add yourself as friend.	คุณไม่สามารถเพิ่มตัวเองเป็นเพื่อนได้
+15466	Switched to anonymous gifting mode	เปลี่ยนเป็นโหมดการให้ของขวัญแบบไม่เปิดเผยตัวตน
+15467	Dracula has come to claim a bride!	Dracula มารับเจ้าสาวแล้ว!
+15468	Party: This feature is unavailable	Party: คุณลักษณะนี้ไม่พร้อมใช้งาน
+15469	${1} declined the rally invitation	${1}ปฏิเสธคำเชิญเข้าร่วมการชุมนุม
+15470	Drag Member info to edit the Party	ลากข้อมูลสมาชิกเพื่อแก้ไขปาร์ตี้
+15471	This player is already in a Party.	ผู้เล่นนี้อยู่ในปาร์ตี้แล้ว
+15472	Daily Activity Point Reward Tier 4	รางวัลคะแนนกิจกรรมรายวันระดับ 4
+15473	Stronghold War - Preparation Phase	สงครามฐานที่มั่น - ขั้นเตรียมการ
+15474	Supply Transport - Transport Phase	การขนส่งอุปทาน - ขั้นตอนการขนส่ง
+15475	<color=#fdab5b>${1}</color> Begins	<color=#fdab5b>${1}</color> Begins
+15476	${1} has invited you to Group Warp	${1}เชิญคุณเข้าร่วม Group Warp
+15477	Reach ${1} activated Talent Points	เข้าถึงคะแนนความสามารถพิเศษที่เปิดใช้งาน${1}
+15478	The guild application list is full	รายชื่อใบสมัครกิลด์เต็มแล้ว
+15479	The recruitment message is invalid	ข้อความการรับสมัครไม่ถูกต้อง
+15480	Not enough ${1} to change the name	${1}ไม่เพียงพอในการเปลี่ยนชื่อ
+15481	Some positions cannot be appointed	บางตำแหน่งไม่สามารถแต่งตั้งได้
+15482	Today's data updates daily at ${1}	ข้อมูลวันนี้อัพเดททุกวันที่${1}
+15483	You can list again in ${1} seconds	คุณสามารถแสดงรายการอีกครั้งใน${1}วินาที
+15484	Battle in the Sea of Clouds (Test)	การต่อสู้ในทะเลเมฆ (ทดสอบ)
+15485	Survivor Battle Net Victory Points	คะแนนชัยชนะสุทธิจากการต่อสู้ของผู้รอดชีวิต
+15486	War of Emperium Season Rank Points	คะแนนอันดับฤดูกาล War of Emperium
+15487	Not enough Adventure Group Members	สมาชิกกลุ่มผจญภัยไม่เพียงพอ
+15488	Strength +@{1}, Physical ATK +@{2}	ความแรง +@{1}, พลังโจมตีกายภาพ +@{2}
+15489	Damage against all Kobolds +@{1}%.	สร้างความเสียหายต่อโคโบลด์ทั้งหมด +@{1}%
+15490	Increases Movement Speed by @{1}%.	เพิ่มความเร็วในการเคลื่อนที่โดย@{1}%
+15491	Reduces healing received by @{1}%.	ลดการรักษาที่ได้รับโดย@{1}%
+15492	Fafnir's damage increases by @{1}%	Fafnir ความเสียหายเพิ่มขึ้น@{1}%
+15493	Movement Speed increased by @{1}%.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น@{1}%
+15494	Skill@{1}Spiral Goblet Launch-Easy	Skill@{1}Spiral Goblet เปิดตัวได้ง่าย
+15495	Kun Sucks In Players (Boss Action)	Kun ห่วยแตกในผู้เล่น (Boss Action)
+15496	Failed to load the area. Retrying…	ไม่สามารถโหลดพื้นที่กำลังลองอีกครั้ง...
+15497	Blade Mountain-Ring-@{1}-Alternate	Blade Mountain-Ring-@{1}-สำรอง
+15498	Stone Glyph Slash Targeting - Easy	การกำหนดเป้าหมาย Stone Glyph Slash - ง่าย
+15499	Coffin Restraint@{1}Remove Stealth	สายรัดโลงศพ@{1}ลบการลักลอบ
+15500	Moonlight Flower Bell Incoming@{1}	กระดิ่งดอกไม้แสงจันทร์ มาแล้ว@{1}
+15501	Advancing Cone Damage-No Logic Yet	ความเสียหายของกรวยที่ก้าวหน้า-ยังไม่มีตรรกะ
+15502	Rhythmic Warg Minion (Warg Charge)	มินเนี่ยน Warg จังหวะ (Warg Charge)
+15503	Praiser Priest Hymn: Manifestation	เพลงสรรเสริญพระสงฆ์: การสำแดง
+15504	${1} Trophy Category Level Rewards	รางวัลระดับหมวดหมู่ถ้วยรางวัล${1}
+15505	For every +${1} Refine, CRIT +${2}	สำหรับทุก ๆ +${1}ปรับแต่ง, CRIT +${2}
+15506	Reward for Adding Normal Live Coal	สำหรับการเพิ่มถ่านหินมีชีวิตปกติ
+15507	Select a card on the left to equip	เลือกการ์ดทางด้านซ้ายเพื่อสวมใส่
+15508	Accept Advanced Convoy Escort Cart	ยอมรับรถเข็นคุ้มกันขบวนขั้นสูง
+15509	Complete the Commission: ${1}/${2}	ทำคอมมิชชั่นให้เสร็จสิ้น:${1}/${2}
+15510	The target channel does not exist.	ไม่มีช่องเป้าหมาย
+15511	Auto-Send Bullet Comments Settings	ส่งการตั้งค่าความคิดเห็นหัวข้อย่อยส่งอัตโนมัติ
+15512	Show chat bubbles above characters	แสดงฟองแชทเหนืออักขระ
+15513	Voice: This feature is unavailable	เสียง: คุณลักษณะนี้ไม่พร้อมใช้งาน
+15514	Clue Treasure Map: Grand Cathedral	แผนที่สมบัติเบาะแส: มหาวิหารใหญ่
+15515	Clue Treasure Map: Blacksmith Shop	แผนที่สมบัติเบาะแส: ร้านช่างตีเหล็ก
+15516	Note Pillar@{1}-Prontera West Gate	เสาหมายเหตุ@{1}-Prontera West Gate
+15517	Note Pillar@{1}-Prontera East Gate	หมายเหตุเสา@{1}-Prontera East Gate
+15518	Vine Puppet Type A - Chaotic Guard	Vine Puppet Type A - ผู้พิทักษ์ความวุ่นวาย
+15519	Criatura Academy Staff Member Hoon	สมาชิกเจ้าหน้าที่ Criatura Academy ฮุน
+15520	No quests are currently available~	ไม่มีภารกิจใด ๆ ในขณะนี้~
+15521	Battle of Prontera Atmosphere Rift	การต่อสู้แห่งรอยแยกบรรยากาศพรอนเทรา
+15522	Moonlight Flower Four-Corner Bells	ระฆังสี่มุม ดอกแสงจันทร์
+15523	@{1}D Bounding Box Test Projectile	@{1}D กระสุนทดสอบ Bounding Box
+15524	Magic Circle_Assassin Shadow S@{1}	Magic Circle_นักฆ่าเงา S@{1}
+15525	(Decreases by 1% daily, up to 10%)	(ลดลงวันละ 1% สูงสุด 10%)
+15526	Windproof goggles made of leather.	แว่นตากันลมทำจากหนัง
+15527	Return to Expedition Map Selection	กลับไปที่การเลือกแผนที่การสำรวจ
+15528	Stall Function unlocks at Lv. ${1}	ฟังก์ชั่นแผงลอยปลดล็อคที่ระดับ${1}
+15529	Eliminate the Threat Around Geffen	ขจัดภัยคุกคามรอบเกฟเฟน
+15530	The Guild Shop is a personal shop.	The Guild Shop เป็นร้านค้าส่วนตัว
+15531	Personal Daily Activity Last Week:	กิจกรรมรายวันส่วนตัวเมื่อสัปดาห์ที่แล้ว:
+15532	Personal Guild Activity Last Week:	สัปดาห์ที่แล้ว:
+15533	No more Members available to visit	ไม่มีสมาชิกให้เยี่ยมชมอีกต่อไป
+15534	Max Tactical Warehouse Level: Lv.1	ระดับคลังสินค้าทางยุทธวิธีสูงสุด: Lv.1
+15535	Personal Event Activity Last Week:	กิจกรรมกิจกรรมส่วนตัวเมื่อสัปดาห์ที่แล้ว:
+15536	<color=#B75949>Leave Guild</color>	<color=#B75949>Leave Guild</color>
+15537	Automatically approve applications	อนุมัติใบสมัครอัตโนมัติ
+15538	Maximum Players Who Can Merge into	จำนวนผู้เล่นสูงสุดที่สามารถรวมเข้าได้
+15539	Accept the Guild Summon from ${1}?	ยอมรับการอัญเชิญกิลด์จาก${1}?
+15540	Visit the Pet Merchant (@{1}/@{2})	เยี่ยมชมร้านขายสัตว์เลี้ยง (@{1}/@{2})
+15541	Honor Advancement (Title Unlocked)	เกียรติยศขั้นสูง (ปลดล็อคชื่อเรื่อง)
+15542	Letter from the Job Advance Mentor	จดหมายจากที่ปรึกษางานล่วงหน้า
+15543	【Guild Co-op】Kafra Survivor Battle	【ความร่วมมือกิลด์】การต่อสู้ของผู้รอดชีวิตคาฟรา
+15544	[Adventure Guild] MVP Defeat Quest	[กิลด์ผจญภัย] MVP กำจัดภารกิจ
+15545	Slot unlocked at Hatchery Lv. ${1}	ที่ Hatchery Lv.${1}
+15546	All Possible Item Hatching Results	ผลลัพธ์การฟักรายการที่เป็นไปได้ทั้งหมด
+15547	Earn @{1} Star Power in the Tavern	รับพลังดาว@{1}ในโรงเตี๊ยม
+15548	Here's the entrance. Don't dawdle.	นี่คือทางเข้าอย่าอืดอาด.
+15549	Tap here! I can't wait any longer!	แตะที่นี่!ฉันรอไม่ไหวแล้ว!
+15550	First, put on these green clothes.	ก่อนอื่น ให้สวมเสื้อผ้าสีเขียวพวกนี้
+15551	Go experience Flying for yourself!	สัมผัสประสบการณ์การบินด้วยตัวคุณเอง!
+15552	Tap here to open the Reward Vault.	แตะที่นี่เพื่อเปิด Reward Vault
+15553	Well? Have you completed the task?	เหรอ?คุณทำภารกิจเสร็จหรือยัง?
+15554	A bard who sings only for himself.	กวีที่ร้องเพลงเพื่อตัวเองเท่านั้น
+15555	I will always pray to Lady Freyja.	ฉันจะสวดภาวนาถึงเลดี้เฟรยาเสมอ
+15556	Enter Adventurer Guild Declaration	เข้าสู่การประกาศกิลด์นักผจญภัย
+15557	I can't stand unreasonable people!	จะทนคนไร้เหตุผลไม่ได้แล้ว!
+15558	I hope this journey goes smoothly.	หวังว่าการเดินทางครั้งนี้จะราบรื่นนะครับ
+15559	What??? You mean that's cat poop?!	อะไร???หมายถึงขี้แมวเหรอ?!
+15560	Complete Seven-Day Missions to Get	ทำภารกิจเจ็ดวันให้สำเร็จเพื่อรับ
+15561	The Disturbance Deep in the Forest	สิ่งรบกวนในป่าลึก
+15562	Gain the Offline Auto-Battle Bonus	รับโบนัสการต่อสู้อัตโนมัติออฟไลน์
+15563	${1} Terminated ${2}'s Killstreak!	${1}ยุติ Killstreak ของ${2}แล้ว!
+15564	Phase III\nDefend the Ornate Metal	Phase III\nปกป้องโลหะที่หรูหรา
+15565	${1} seconds remain in the Battle!	${1}วินาทียังคงอยู่ในการต่อสู้!
+15566	Eliminate the monsters in the area	กำจัดมอนสเตอร์ในพื้นที่
+15567	Choose another player to link with	เลือกผู้เล่นอื่นที่จะเชื่อมโยงด้วย
+15568	How could you get that move wrong?	คุณทำผิดได้ยังไง?
+15569	Ah! Professor! Professor, save us—	อ่า! ศาสตราจารย์! ศาสตราจารย์ ช่วยพวกเราด้วย—
+15570	Quest incomplete. Unable to claim.	ไม่สมบูรณ์ไม่สามารถเรียกร้องได้
+15571	Give the collected herbs to Rhine.	มอบสมุนไพรที่รวบรวมไว้ให้กับแม่น้ำไรน์
+15572	Suggested: Monster Conquest (Misc)	แนะนำ: Monster Conquest (เบ็ดเตล็ด)
+15573	The event is not currently active.	กิจกรรมไม่ได้ใช้งานอยู่ในขณะนี้
+15574	Fafnir - Dragon Roar (Performance)	Fafnir - มังกรคำราม (Performance)
+15575	Apply Skill DMG Buff to the Dragon	ใช้ทักษะ DMG Buff กับมังกร
+15576	Combat NPC Turret Cast Skill (AOE)	ทักษะการร่ายป้อม NPC ต่อสู้ (AOE)
+15577	Send Stage Message: Memory Warning	ส่งข้อความสเตจ: คำเตือนหน่วยความจำ
+15578	Applies to all Territory War modes	ใช้กับโหมด Territory War ทั้งหมด
+15579	Find the Source of the Disturbance	ค้นหาแหล่งที่มาของการรบกวน
+15580	Learn About Kafra: Survivor Battle	เรียนรู้เกี่ยวกับ Kafra: Survivor Battle
+15581	Learn About the Commendation Vault	เรียนรู้เกี่ยวกับห้องนิรภัยชมเชย
+15582	Wait for the situation to play out	รอให้สถานการณ์คลี่คลาย
+15583	Defeat MVP Doppelganger in a party	เอาชนะ Doppelganger MVP ในปาร์ตี้
+15584	Say hello to Miss Smile for Dumby.	ทักทายคุณสไมล์เพื่อดัมบี้
+15585	Description of the Sylvanas Statue	คำอธิบายของรูปปั้นซิลวานัส
+15586	PATCH_BUILD_CHECK_SUM_REMOTE_ERROR	PATCH_BUILD_CHECK_SUM_REMOTE_ERROR
+15587	Divine Arts Totem Reset Materials.	วัสดุรีเซ็ตโทเท็มศิลปะศักดิ์สิทธิ์
+15588	A gemstone that emits a pink glow.	อัญมณีที่เปล่งประกายสีชมพู
+15589	A sweet, highly nutritious liquid.	ของเหลวที่มีรสหวานและมีคุณค่าทางโภชนาการสูง
+15590	@{1}-star cards cannot be returned	@{1}-บัตรดาวไม่สามารถคืนได้
+15591	Pet is already assigned as support	Pet ได้รับการกำหนดให้เป็นผู้ช่วยเหลือแล้ว
+15592	A wand inhabited by a wind spirit.	ไม้กายสิทธิ์ที่มีวิญญาณแห่งลมอาศัยอยู่
+15593	The Terrace of Fluttering Curtains	ระเบียงม่านพลิ้วไหว
+15594	Select a Divine Art Totem to equip	เลือก Divine Art Totem ที่จะสวมใส่
+15595	Enter the Divine Totem skill name.	ป้อนชื่อทักษะ Divine Totem
+15596	Pet Shard: Tough Rainbow Nightmare	Pet Shard: ฝันร้ายสายรุ้งอันแข็งแกร่ง
+15597	Standard Gift Box@{1} (Deprecated)	กล่องของขวัญมาตรฐาน@{1}(เลิกใช้แล้ว)
+15598	Don't show again during this login	อย่าแสดงอีกระหว่างการเข้าสู่ระบบนี้
+15599	Redeem at the Survivor Battle Shop	แลกได้ที่ Survivor Battle Shop
+15600	Guild Design - All Cities in Order	- เมืองทั้งหมดตามลำดับ
+15601	【Adventure Party】Realm of the Gods	【ปาร์ตี้ผจญภัย】อาณาจักรแห่งเทพเจ้า
+15602	Stat Reset Stone (No Function Yet)	หินรีเซ็ตสถานะ (ยังไม่มีฟังก์ชัน)
+15603	Treasure Clue: Unfulfilled Promise	เบาะแสสมบัติ: คำสัญญาที่ไม่บรรลุผล
+15604	Treasure Clue: Butterfly's Promise	เบาะแสสมบัติ: คำสัญญาของผีเสื้อ
+15605	Treasure Clue: Bridge Center Cache	Treasure Clue: แคช Bridge Center
+15606	Life Percentage · Accessory-Orange	Life Percentage · อุปกรณ์เสริม-สีส้ม
+15607	Life Percentage · Accessory-Purple	Life Percentage · อุปกรณ์เสริม-สีม่วง
+15608	God of War Scroll · Accessory-Blue	God of War Scroll · อุปกรณ์เสริม-สีน้ำเงิน
+15609	Golden Realmguard Scroll·Armor-Red	Golden Realmguard Scroll·เกราะ-แดง
+15610	Hummingbird Scroll·Off-Hand-Orange	Hummingbird Scroll·นอกมือ-สีส้ม
+15611	Hummingbird Scroll·Off-Hand-Purple	Hummingbird Scroll·นอกมือ-ม่วง
+15612	Eagle Eye Scroll·One-Handed-Orange	Eagle Eye Scroll·มือเดียว-สีส้ม
+15613	Eagle Eye Scroll·One-Handed-Purple	Eagle Eye Scroll·มือเดียว-ม่วง
+15614	Hummingbird Scroll·One-Handed-Blue	Hummingbird Scroll·มือเดียว-น้ำเงิน
+15615	Eagle Eye Scroll·Dual-Wield-Orange	Eagle Eye Scroll·มือคู่-สีส้ม
+15616	Eagle Eye Scroll·Dual-Wield-Purple	Eagle Eye Scroll·ด้ามคู่-ม่วง
+15617	Destiny Scroll · Dual Wield - Blue	Destiny Scroll · อาวุธคู่ - สีน้ำเงิน
+15618	Required MVP not defeated together	Required MVP ไม่แพ้ด้วยกัน
+15619	Not enough activated Talent Points	คะแนนความสามารถพิเศษที่เปิดใช้งานไม่เพียงพอ
+15620	The default role cannot be changed	ไม่สามารถเปลี่ยนบทบาทดีฟอลต์ได้
+15621	${1}<color=#fff7dc>Highest</color>	${1}<color=#fff7dc>Highest</color>
+15622	Increases gathering speed by @{1}%	เพิ่มความเร็วในการรวบรวมโดย@{1}%
+15623	Movement of the God of Nature · II	การเคลื่อนไหวของเทพเจ้าแห่งธรรมชาติ · II
+15624	Cross Exorciser [Triggered Effect]	Cross Exorciser [เอฟเฟกต์ที่ถูกกระตุ้น]
+15625	Vulcan Cannon Floors Listener @{1}	ผู้ฟังพื้นปืนใหญ่วัลแคน@{1}
+15626	Intermediate Live Coal - Live Coal	ถ่านหินสดระดับกลาง - ถ่านหินสด
+15627	Shield Bash - Chance to Become AoE	Shield Bash - โอกาสที่จะเป็น AoE
+15628	Blessing of Odin, King of the Gods	พรของโอดิน ราชาแห่งทวยเทพ
+15629	Protection Orbit Effect (Not Full)	เอฟเฟกต์วงโคจรป้องกัน (ไม่เต็ม)
+15630	Weapon Deflection Mechanic Callout	คำบรรยายภาพกลไกการโก่งตัวของอาวุธ
+15631	Continuously displays a red tether	Continuously displays a red tether
+15632	Blue Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอ Bubble สีฟ้า
+15633	Rolling Cutter Cooldown Reset Buff	บัฟรีเซ็ตคูลดาวน์ของโรลลิ่งคัตเตอร์
+15634	Not enough pet search attempts${1}	พยายามค้นหาสัตว์เลี้ยงไม่เพียงพอ${1}
+15635	Clear Stage ${1} of Offline Battle	เคลียร์สเตจ${1}ของการต่อสู้ออฟไลน์
+15636	${1} has accepted your invitation.	${1}ตอบรับคำเชิญของคุณแล้ว
+15637	${1} has Declined your invitation.	${1}ปฏิเสธคำเชิญของคุณ
+15638	Decline invitations for 10 minutes	ปฏิเสธคำเชิญเป็นเวลา 10 นาที
+15639	Someone else bought the item first	คนอื่นซื้อสินค้าก่อน
+15640	Friend group Member limit exceeded	กลุ่มเพื่อน สมาชิกเกินขีดจำกัดแล้ว
+15641	Skill target has the wrong Faction	มีฝ่ายผิด
+15642	Invalid Dummy NPC attribute value.	ค่าแอตทริบิวต์ Dummy NPC ไม่ถูกต้อง
+15643	Target player is not in the guild.	ผู้เล่นเป้าหมายไม่ได้อยู่ในกิลด์
+15644	The Guild Leader cannot be kicked.	หัวหน้ากิลด์ไม่สามารถถูกเตะได้
+15645	Not a responding Adventurer Group.	ไม่ใช่กลุ่มนักผจญภัยที่ตอบสนอง
+15646	Select a Soul Echo (click or drag)	เลือก Soul Echo (คลิกหรือลาก)
+15647	Gathering resource already learned	รวบรวมทรัพยากรที่เรียนรู้แล้ว
+15648	Life Skill Vigor is not configured	Life Skill Vigor ไม่ได้ถูกกำหนดค่า
+15649	This talent has not been unlocked.	ความสามารถพิเศษนี้ยังไม่ได้ปลดล็อค
+15650	The event period is already active	ระยะเวลากิจกรรมเปิดใช้งานแล้ว
+15651	Invalid escort wagon configuration	การกำหนดค่าเกวียนคุ้มกันไม่ถูกต้อง
+15652	This Get Help request has expired.	คำร้องขอรับความช่วยเหลือนี้หมดอายุแล้ว
+15653	${1}: This feature is unavailable.	${1}: คุณลักษณะนี้ไม่พร้อมใช้งาน
+15654	No Rank Reward available to Claim.	ไม่มีรางวัลอันดับให้รับสิทธิ์
+15655	Not enough ID Tags. Revive failed.	แท็ก ID ไม่เพียงพอการฟื้นคืนชีพล้มเหลว
+15656	Master Smith's Blessing - Vitality	พรของอาจารย์สมิธ - ความมีชีวิตชีวา
+15657	^{1}Beginner Spell Calibration^{2}	^{1}การสอบเทียบการสะกดเริ่มต้น^{2}
+15658	Only whitelisted players may enter	เฉพาะผู้เล่นที่ได้รับอนุญาตเท่านั้นที่สามารถเข้าร่วมได้
+15659	Invalid data type for adding items	ประเภทข้อมูลไม่ถูกต้องสำหรับการเพิ่มรายการ
+15660	Single-use Limit has been reached.	ถึงขีดจำกัดการใช้ครั้งเดียวแล้ว
+15661	scenemgr failed to create the area	scenemgr ล้มเหลวในการสร้างพื้นที่
+15662	Area mismatch during teleportation	พื้นที่ไม่ตรงกันระหว่างการเคลื่อนย้ายมวลสาร
+15663	Stage 3\nCapture the Control Point	ด่าน 3\nจับจุดควบคุม
+15664	A new Member has joined the party.	สมาชิกใหม่ได้เข้าร่วมปาร์ตี้แล้ว
+15665	Channels healing around the target	ช่องรักษารอบเป้าหมาย
+15666	You cannot like or assist yourself	คุณไม่สามารถชอบหรือช่วยเหลือตัวเองได้
+15667	The listed item's name is invalid.	ชื่อของรายการที่แสดงไม่ถูกต้อง
+15668	Equipment Refining Parameter error	ข้อผิดพลาดพารามิเตอร์การปรับแต่งอุปกรณ์
+15669	Not enough item crafting materials	วัสดุการประดิษฐ์ไอเทมไม่เพียงพอ
+15670	This player is not awaiting Revive	ผู้เล่นคนนี้ไม่ได้รอการฟื้นคืนชีพ
+15671	You are already at the guild base.	คุณอยู่ที่ฐานกิลด์แล้ว
+15672	The invitation is no longer valid.	คำเชิญใช้ไม่ได้อีกต่อไป
+15673	This player is already in a guild.	ผู้เล่นนี้อยู่ในกิลด์แล้ว
+15674	You have blocked the other player.	คุณได้บล็อกผู้เล่นอื่น
+15675	Backpack is full. Unable to claim.	กระเป๋าเป้สะพายหลังเต็มแล้วไม่สามารถเรียกร้องได้
+15676	Mail configuration does not exist.	Mail
+15677	Unlock · Orchid Waterside Pavilion	· ศาลากล้วยไม้ริมน้ำ
+15678	(Bows) May you sleep well tonight.	(คำนับ) ขอให้คุณนอนหลับฝันดีคืนนี้
+15679	I'm here to investigate the Relic.	ฉันมาที่นี่เพื่อตรวจสอบวัตถุโบราณ
+15680	Arena Function unlocks at Lv. ${1}	Arena Function unlocks at Lv.${1}
+15681	Level-up successful! Reached ${1}.	ยกระดับสำเร็จแล้ว!ถึง${1}แล้ว
+15682	Each stack increases ATK by ${2}%.	แต่ละสแต็คจะเพิ่ม ATK ขึ้น${2}%
+15683	Water damage taken -^{1}${1}%^{2}.	ได้รับความเสียหายจากน้ำ -^{1}${1}%^{2}
+15684	Physical/Magic ATK -^{1}${1}%^{2}.	พลังโจมตีกายภาพ/เวทมนตร์ -^{1}${1}%^{2}
+15685	Physical/Magic ATK +^{1}${1}%^{2}.	พลังโจมตีกายภาพ/เวทมนตร์ +^{1}${1}%^{2}
+15686	Physical/Magic DEF +^{1}${1}%^{2}.	DEF กายภาพ/เวทมนตร์ +^{1}${1}%^{2}
+15687	Ranged Damage Taken +^{1}${1}%^{2}	ความเสียหายระยะไกลที่ได้รับ +^{1}${1}%^{2}
+15688	Movement Speed decreases by ${1}%.	ความเร็วในการเคลื่อนที่ลดลง${1}%
+15689	Deals damage and inflicts Paralyze	สร้างความเสียหายและทำให้เป็นอัมพาต
+15690	Reduces Physical DEF and Magic DEF	ลด DEF กายภาพและ DEF เวทมนตร์
+15691	Healing received reduced by ${1}%.	การรักษาที่ได้รับลดลง${1}%
+15692	Movement Speed increased by ${1}%.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}%
+15693	Musical Instrument Death Animation	เครื่องดนตรีแอนิเมชั่นความตาย
+15694	Call the Adventurer Group Members?	โทรหาสมาชิกกลุ่มนักผจญภัยเหรอ?
+15695	Invite ${1} to use the ${2} action?	เชิญ${1}ให้ใช้การกระทำ${2}หรือไม่
+15696	Nine-Tone Mantra: Awaiting the Moon	มนต์เก้าโทน รอพระจันทร์
+15697	Currently unavailable. Coming soon.	ไม่พร้อมใช้งานในขณะนี้เร็วๆ นี้.
+15698	[Rift Crisis] Commendation Gift Box	[Rift Crisis] กล่องของขวัญชมเชย
+15699	Call all Guild Members to assemble!	เรียกสมาชิกกิลด์ทุกคนมารวมตัวกัน!
+15700	Damage Reduction from Undead Race %	การลดความเสียหายจาก Undead Race %
+15701	Damage Reduction from Insect Race %	การลดความเสียหายจากเผ่าพันธุ์แมลง %
+15702	Damage Reduction from Dragon Race %	การลดความเสียหายจาก Dragon Race %
+15703	Extended Category @{1} Shield Value	ขยายหมวดหมู่@{1}ค่าชิลด์
+15704	Get @{1} assists on the battlefield	รับ@{1}ช่วยเหลือในสนามรบ
+15705	Earn @{1} points on the battlefield	รับคะแนน@{1}ในสนามรบ
+15706	Earn an A rating on the battlefield	ได้รับคะแนน A ในสนามรบ
+15707	Reach Refinement Resonance Lv. @{1}	ไปถึงระดับ Resonance Resonance@{1}
+15708	Say hello to the Butcher for Dumby.	ทักทาย Butcher for Dumby
+15709	Enhance the weapon slot to Lv. @{1}	เสริมช่องอาวุธเป็น Lv.@{1}
+15710	Own @{1} pets at Lv. @{2} or higher	เป็นเจ้าของสัตว์เลี้ยง@{1}ที่ Lv.@{2}หรือสูงกว่า
+15711	Say goodbye to the caravan Members.	บอกลาสมาชิกคาราวาน
+15712	Win Pet Tower a total of @{1} times	รับรางวัล Pet Tower รวม@{1}ครั้ง
+15713	Go to Granny Gwen's house together.	ไปบ้านย่าเกว็นด้วยกัน
+15714	It's time to make the final choice.	ถึงเวลาตัดสินใจขั้นสุดท้ายแล้ว
+15715	Let the giant ant catch your scent.	ให้มดยักษ์จับกลิ่นคุณ
+15716	Novice Poring Drop-@{1}-Time Reward	Novice Poring Drop-@{1}-รางวัลเวลา
+15717	Rare Reward-Angeling-Illusion Limit	รางวัลหายาก-นางฟ้า-ภาพลวงตาจำกัด
+15718	Rare Reward-Deviling-Illusion Limit	รางวัลหายาก-ปีศาจ-ภาพลวงตาจำกัด
+15719	Rare Reward-Orc Hero-Illusion Limit	รางวัลหายาก-ขีดจำกัดฮีโร่ออร์ค-ภาพลวงตา
+15720	Rare Reward-Phreeoni-Illusion Limit	รางวัลหายาก - Phreeoni - ขีดจำกัดภาพลวงตา
+15721	Rare Reward-Orc Lord-Illusion Limit	รางวัลหายาก-ออร์คลอร์ด-ภาพลวงตาจำกัด
+15722	Rare Reward-Goblin Leader-MVP Limit	รางวัลหายาก-Goblin Leader-MVP ขีดจำกัด
+15723	Rare Reward-Mistress-Illusion Limit	รางวัลหายาก - นายหญิง - ภาพลวงตา จำกัด
+15724	Rare Reward-Dracula Baron-MVP Limit	รางวัลหายาก-Dracula Baron-MVP จำกัด
+15725	Rare Reward-Baphomet-Illusion Limit	รางวัลหายาก-บาโฟเมต-ภาพลวงตาจำกัด
+15726	Collect Magic Crystals +@{1} Points	รวบรวม Magic Crystals + คะแนน@{1}
+15727	Participate in the Guild Escort War	เข้าร่วมสงครามคุ้มกันกิลด์
+15728	Defeat Final Trial Ishti in a party	เอาชนะ Final Trial Ishti ในปาร์ตี้
+15729	Kill @{1} Boa to obtain Snake Galls	ฆ่า@{1}Boa เพื่อรับน้ำดีงู
+15730	Collect fur from the defeated Eddga	เก็บขนจาก Eddga ที่พ่ายแพ้
+15731	Search for the Caravan Party Leader	ค้นหาหัวหน้าปาร์ตี้คาราวาน
+15732	Bobo seems to have something to say	โบโบดูเหมือนจะมีเรื่องจะพูด
+15733	Ask the Soldier about the situation	ถามทหารเกี่ยวกับสถานการณ์
+15734	Follow Bobo to Rent a Cart Merchant	ติดตาม Bobo เพื่อเช่าพ่อค้ารถเข็น
+15735	Reach Lv. @{1} by Season Settlement	ถึงระดับ@{1}โดยข้อตกลงตามฤดูกาล
+15736	Converted to other elemental damage	แปลงเป็นความเสียหายธาตุอื่น
+15737	Affects your damage against players	ส่งผลต่อความเสียหายของคุณต่อผู้เล่น
+15738	Affects your Chance of being Frozen	ส่งผลต่อโอกาสในการถูกแช่แข็ง
+15739	Affects your Chance to inflict Fear	ส่งผลต่อโอกาสในการสร้างความกลัว
+15740	Affects your Chance of being Feared	ส่งผลต่อโอกาสที่คุณจะถูกกลัว
+15741	Moves ${1} Distance every @{1} sec.	ย้ายระยะทาง${1}ทุกๆ@{1}วินาที
+15742	Increases your damage dealt by ${1}	เพิ่มความเสียหายของคุณที่สร้างโดย${1}
+15743	Reduces melee Physical damage taken	ลดความเสียหายทางกายภาพระยะประชิดที่ได้รับ
+15744	This player's friends list is full.	รายชื่อเพื่อนของผู้เล่นคนนี้เต็มแล้ว
+15745	10-Player Dungeon Ranking Test Mail	จดหมายทดสอบอันดับดันเจี้ยนสำหรับผู้เล่น 10 คน
+15746	Top 10 Guilds Ranking Event Rewards	รางวัลกิจกรรมอันดับกิลด์ 10 อันดับแรก
+15747	Pass Gift Success Confirmation Mail	Pass จดหมายยืนยันความสำเร็จของของขวัญ
+15748	South Gate Reunion Invitation Notes	บันทึกคำเชิญงานชุมนุมประตูทางใต้
+15749	Temporary Plaza Dance Activity Task	งานกิจกรรมเต้นรำพลาซ่าชั่วคราว
+15750	You are not on a Territory War map.	คุณไม่ได้อยู่ในแผนที่ Territory War
+15751	No items can be sold from this tab.	ไม่มีสินค้าที่สามารถขายได้จากแท็บนี้
+15752	Adventurer Guild Nameplate Unlocked	ปลดล็อคป้ายชื่อกิลด์นักผจญภัยแล้ว
+15753	Right-click to open combat settings	คลิกขวาเพื่อเปิดการตั้งค่าการต่อสู้
+15754	Right-click to open potion settings	คลิกขวาเพื่อเปิดการตั้งค่ายา
+15755	This movement is not yet available.	เครื่องนี้ยังไม่มีจำหน่าย
+15756	Five-Player Challenge - Savage Land	ความท้าทายสำหรับผู้เล่นห้าคน - ดินแดนอันโหดเหี้ยม
+15757	5-Player Challenge - Land of Nature	ความท้าทายสำหรับผู้เล่น 5 คน - ดินแดนแห่งธรรมชาติ
+15758	Unknown error occurred during login	เกิดข้อผิดพลาดที่ไม่รู้จักระหว่างการเข้าสู่ระบบ
+15759	Give the collected herbs to Rhine.*	มอบสมุนไพรที่รวบรวมไว้ให้กับแม่น้ำไรน์*
+15760	Clear the fourth floor of the tower	เคลียร์หอคอยชั้นสี่
+15761	Give the Snake Gallbladders to Boya	มอบถุงน้ำดีงูให้โบย่า
+15762	Defeat any monster in the Ant Hell*	กำจัดสัตว์ประหลาดใน Ant Hell*
+15763	Examine the note left on the ground	ตรวจสอบโน้ตที่เหลืออยู่บนพื้น
+15764	Learn more of the truth from Bragis	เรียนรู้ความจริงเพิ่มเติมจาก Bragis
+15765	Costume System is not yet available	Costume System ยังไม่มีให้บริการ
+15766	You have successfully Revived ${1}!	คุณฟื้นคืนชีพ${1}สำเร็จแล้ว!
+15767	Regional Capital War Auction - Open	การประมูลสงครามทุนระดับภูมิภาค - เปิด
+15768	Equip the item before enhancing it.	ติดตั้งไอเท็มก่อนเสริมประสิทธิภาพ
+15769	Tap Reforge to reroll 3 attributes.	แตะสร้างใหม่เพื่อสุ่มแอตทริบิวต์ 3 รายการอีกครั้ง
+15770	\nYou enjoyed fine food ${1} times.	\nคุณเพลิดเพลินกับอาหารรสเลิศ${1}ครั้ง
+15771	Realm Campaign · Midterm Settlement	· การชำระหนี้กลางภาค
+15772	Deals damage using Cart Revolution.	สร้างความเสียหายโดยใช้ Cart Revolution
+15773	Use Aimed Bolt for piercing damage.	ใช้ Aimed Bolt เพื่อเจาะความเสียหาย
+15774	Pre-purchase Settlement in progress	อยู่ระหว่างดำเนินการชำระเงินล่วงหน้า
+15775	Please select a Stunt to filter by.	โปรดเลือกการแสดงความสามารถที่จะกรอง
+15776	S@{1} Large Card Pool - New Version	S@{1}การ์ดพูลขนาดใหญ่ - เวอร์ชันใหม่
+15777	Obtain the Mount [${1}] permanently	รับ Mount [${1}] อย่างถาวร
+15778	Season Treasure Hunt Stage 1 Reward	ซีซั่นล่าสมบัติสเตจ 1
+15779	Guild Weekly Activity Reward Tier 1	รางวัลกิจกรรมกิลด์รายสัปดาห์ระดับ 1
+15780	Guild Weekly Activity Reward Tier 3	รางวัลกิจกรรมกิลด์รายสัปดาห์ระดับ 3
+15781	Guild Weekly Activity Reward Tier 4	ระดับ 4
+15782	Guild Weekly Activity Reward Tier 5	ระดับ 5
+15783	Auction won! ${1} has been occupied	Auction won!${1}ถูกครอบครองแล้ว
+15784	Spend ${2} skill points on Job ${1}	ใช้คะแนนทักษะ${2}ในงาน${1}
+15785	Deploy ${2} Totems with ${1} skills	ปรับใช้ Totem${2}ด้วยทักษะ${1}
+15786	The recruitment message is too long	ข้อความการรับสมัครยาวเกินไป
+15787	That player has not joined a guild.	ผู้เล่นนั้นยังไม่ได้เข้าร่วมกิลด์
+15788	This facility has reached Max level	สิ่งอำนวยความสะดวกนี้ถึงระดับสูงสุดแล้ว
+15789	This building has reached Max level	อาคารนี้ถึงระดับสูงสุดแล้ว
+15790	Guild Funds limit increased to ${1}	เพิ่มขึ้นเป็น${1}
+15791	Incorrect main story path selected.	เลือกเส้นทางเรื่องราวหลักไม่ถูกต้อง
+15792	Must not be mounted on ^{1}${1}^{2}	บน ^{1}${1}^{2}
+15793	Cannon Enhance lasts for @{1} uses.	Cannon Enhance มีอายุการใช้งาน@{1}
+15794	Obtain a Giant Transformation item.	รับไอเทม Giant Transformation
+15795	Obtain a Dwarf Transformation item.	รับไอเทมแปลงร่างคนแคระ
+15796	Damage taken while Silenced -@{1}%.	ความเสียหายที่ได้รับขณะเงียบ -@{1}%
+15797	Ranged Physical damage taken -@{1}%	ได้รับความเสียหายทางกายภาพระยะไกล -@{1}%
+15798	Max Life and Holy Resistance +@{1}%	พลังชีวิตสูงสุดและความต้านทานศักดิ์สิทธิ์ +@{1}%
+15799	Changes your armor to Holy property	เปลี่ยนชุดเกราะของคุณเป็นทรัพย์สินศักดิ์สิทธิ์
+15800	Increases your and your allies' DEF	เพิ่ม DEF ของคุณและพันธมิตร
+15801	Increases your and your allies' ATK	เพิ่ม ATK ของคุณและพันธมิตร
+15802	Greatly increases MSPD and attacks.	เพิ่ม MSPD และการโจมตีอย่างมาก
+15803	Radiant Poring Normal Attack - Holy	Radiant Poring การโจมตีปกติ - ศักดิ์สิทธิ์
+15804	Fallen Poring Normal Attack - Earth	Fallen Poring การโจมตีปกติ - Earth
+15805	Skill@{1}Conducting Circular Target	@{1}การทำเป้าหมายแบบวงกลม
+15806	Skill@{1} Clone Monster Spawn Flash	@{1}แฟลชวางไข่สัตว์ประหลาดโคลน
+15807	Skill@{1} Battle Royale Preparation	@{1}การเตรียมการ Battle Royale
+15808	Kun Spits Out Players (Boss Action)	Kun ถ่มน้ำลายผู้เล่น (Boss Action)
+15809	Golden Thief Bug Normal Attack-Fire	Golden Thief Bug โจมตีปกติ-ไฟ
+15810	Falling Explosive Barrels @{1} sec.	ถังระเบิดที่ตกลงมา@{1}วินาที
+15811	Stone Pillar Random Point Selection	การเลือกจุดสุ่มเสาหิน
+15812	Petrifying Cleave - Four Directions	Petrifying Cleave - สี่ทิศทาง
+15813	Cooldown Placeholder Skill@{1} sec.	ทักษะตัวยึดตำแหน่งคูลดาวน์@{1}วินาที
+15814	Moonlight Flower Rapid-Fire Bullets	กระสุนยิงรัวดอกแสงจันทร์
+15815	Dance Machine_Remove Transform Buff	Dance Machine_ลบบัฟการแปลงร่าง
+15816	Up Down Left Right-Correct Feedback	ขึ้น ลง ซ้าย ขวา-คำติชมที่ถูกต้อง
+15817	Create Interaction Magic Circle@{1}	สร้างวงกลมเวทย์มนตร์โต้ตอบ@{1}
+15818	Interwoven Light and Dark: Physical	ผสานแสงและความมืดเข้าด้วยกัน: กายภาพ
+15819	Praiser Priest Hymn: Divine Remnant	เพลงสรรเสริญพระสงฆ์: เศษศักดิ์สิทธิ์
+15820	When a mace is equipped, AGI +${1}.	เมื่อติดตั้งกระบอง AGI +${1}
+15821	Changes armor to the Wind property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติลม
+15822	Changes armor to the Fire property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติไฟ
+15823	Reduces Wind damage taken by ${1}%.	ลดความเสียหายจากลมที่ได้รับโดย${1}%
+15824	Reduces Fire damage taken by ${1}%.	ลดความเสียหายจากไฟที่ได้รับโดย${1}%
+15825	Reduces Holy damage taken by ${1}%.	ลดความเสียหายศักดิ์สิทธิ์ที่ได้รับโดย${1}%
+15826	Inactive without an off-hand weapon	ไม่ใช้งานหากไม่มีอาวุธรอง
+15827	Prontera Defense Guild Donation NPC	บริจาค NPC กิลด์ป้องกันพรอนเทรา
+15828	Lv. @{1} Multiplayer Test @{2}/@{3}	เลเวลการทดสอบผู้เล่นหลายคน@{1}@{2}/@{3}
+15829	Clue Treasure Map: Tent and Bonfire	แผนที่สมบัติเบาะแส: เต็นท์และกองไฟ
+15830	Note Pillar@{1}-Prontera South Gate	หมายเหตุเสา@{1}-Prontera South Gate
+15831	Note Pillar@{1}-Prontera North Gate	หมายเหตุเสา@{1}-ประตูทิศเหนือ Prontera
+15832	Vine Puppet Type A - Chaotic Hunter	Vine Puppet Type A - นักล่าวุ่นวาย
+15833	Rock Puppet Type A - Chaotic Knight	Rock Puppet Type A - อัศวินวุ่นวาย
+15834	MVP Magic Circle_Mistress Slow Zone	MVP Magic Circle_Mistress Slow Zone
+15835	Universal - Grand Gift Magic Circle	Universal - วงเวทย์มนตร์ของขวัญอันยิ่งใหญ่
+15836	Careful! The ship is about to tilt!	ระวัง!เรือกำลังจะเอียง!
+15837	Oh no, the Obeaune really are here!	ไม่นะ Obeaune อยู่ที่นี่จริงๆ!
+15838	You haven't accepted the quest yet~	คุณยังไม่ได้รับภารกิจ~
+15839	Deep in the Forest - Flying Trigger	ลึกเข้าไปในป่า - ทริกเกอร์บิน
+15840	Magic Circle_Orc Hero Ground Cleave	Magic Circle_Orc Hero Ground Cleave
+15841	MVP Magic Circle_Mistress Slow Area	MVP Magic Circle_Mistress Slow Area
+15842	Moonlight Flower-Transparent Anchor	ดอกไม้แสงจันทร์-สมอใส
+15843	An ornament worn on a Clown's nose.	เครื่องประดับที่สวมอยู่บนจมูกของตัวตลก
+15844	An adorable, extra-large bow scarf.	ผ้าพันคอรูปโบว์ขนาดใหญ่พิเศษสุดน่ารัก
+15845	Damage Reduction from Wind Monsters	การลดความเสียหายจากมอนสเตอร์แห่งลม
+15846	Damage Reduction from Fire Monsters	การลดความเสียหายจากมอนสเตอร์ไฟ
+15847	Damage Reduction from Holy Monsters	การลดความเสียหายจากมอนสเตอร์ศักดิ์สิทธิ์
+15848	Damage Reduction from Formless Race	การลดความเสียหายจากการแข่งขันที่ไม่มีรูปแบบ
+15849	Eliminate the Threat East of Geffen	กำจัดภัยคุกคามทางตะวันออกของเกฟเฟน
+15850	Visit the Item Merchant (@{1}/@{2})	เยี่ยมชมผู้ขายรายการ (@{1}/@{2})
+15851	Visit the Gift Merchant (@{1}/@{2})	เยี่ยมชมร้านขายของที่ระลึก (@{1}/@{2})
+15852	Guild Event - Ilmata, God of Nature	- อิลมาตา เทพเจ้าแห่งธรรมชาติ
+15853	Guild Activities - Wedding Crashers	กิจกรรมกิลด์ - นักจัดงานแต่งงาน
+15854	[Symphony of Genesis] Movement @{1}	การเคลื่อนไหว [Symphony of Genesis]@{1}
+15855	Unlocks at Incubation Room Lv. ${1}	ปลดล็อคที่ห้องบ่มเพาะ Lv.${1}
+15856	Unlock the Nine-Tone Mantra Costume	ปลดล็อคชุด Mantra Nine-Tone
+15857	Obtain a Costume for the first time	รับชุดเป็นครั้งแรก
+15858	Whoa, the Divine Totem is unlocked.	โอ้โห Totem ศักดิ์สิทธิ์ถูกปลดล็อคแล้ว
+15859	Come Learn about Life Skills, bobo~	มาเรียนรู้ทักษะชีวิตกันเถอะ โบโบ้~
+15860	Great! Now tap Confirm to place it.	เยี่ยมมาก!ตอนนี้แตะยืนยันเพื่อวาง
+15861	This is in speech-bubble format@{1}	นี่คือรูปแบบฟองคำพูด@{1}
+15862	Hello, Novice! Welcome to Prontera!	สวัสดีมือใหม่!ยินดีต้อนรับสู่พรอนเทรา!
+15863	His safety is our highest priority.	His safety is our highest priority.
+15864	Insist on Taking the Professor Back	ยืนกรานที่จะรับศาสตราจารย์กลับมา
+15865	Aster of the Wind sings for no one.	Aster of the Wind ร้องเพลงให้ใครไม่ได้
+15866	Buying monster drops at top prices!	ซื้อมอนสเตอร์ดรอปในราคาสูงสุด!
+15867	Complete ${1} more tasks to advance	ทำงาน${1}ให้สำเร็จเพื่อความก้าวหน้า
+15868	I'm not easily moved, but art is...	ไม่หวั่นไหวง่าย แต่ศิลปะคือ...
+15869	It's exam season. Business is good.	ถึงฤดูกาลสอบแล้วธุรกิจก็ดี
+15870	Would you like to leave the palace?	คุณต้องการออกจากวังหรือไม่?
+15871	My luck has been terrible lately...	ช่วงนี้โชคไม่ดีเลย...
+15872	Want to hear about my new Discover?	ต้องการทราบเกี่ยวกับ Discover ใหม่ของฉันหรือไม่
+15873	Previous difficulty not yet cleared	ความยากก่อนหน้ายังไม่เคลียร์
+15874	Combine Using Cross-Level Materials	รวมโดยใช้วัสดุข้ามระดับ
+15875	Ability Acquired: Madogear Piloting	ความสามารถที่ได้รับ: Madogear Piloting
+15876	Ability Gained: Arcane Acceleration	ความสามารถที่ได้รับ: Arcane Acceleration
+15877	Phase III\nDestroy the Ornate Metal	Phase III\nทำลายโลหะที่หรูหรา
+15878	Watch out for the spirits' attacks.	ระวังการโจมตีของวิญญาณ
+15879	Guild League begins in @{1} minutes	Guild League เริ่มใน@{1}นาที
+15880	Mock Battle begins in @{1} minutes.	Mock Battle begins in@{1}minutes.
+15881	Bobo\nWhere could the professor be?	Bobo\nอาจารย์อยู่ไหน?
+15882	Enter the mysterious cave entrance.	เข้าสู่ทางเข้าถ้ำลึกลับ
+15883	Increased Damage to Medium Monsters	เพิ่มความเสียหายให้กับมอนสเตอร์ขนาดกลาง
+15884	@{1} Season Settlement Quest - @{2}	เควสการชำระซีซั่น@{1}-@{2}
+15885	The Monster That Frightened the Dog	สัตว์ประหลาดที่ทำให้สุนัขหวาดกลัว
+15886	Defeat MVP Goblin Leader in a party	เอาชนะ MVP Goblin Leader ในปาร์ตี้
+15887	Clear Dark Land dungeons @{1} times	เคลียร์ดันเจี้ยน Dark Land@{1}ครั้ง
+15888	Clear Wildlands dungeons @{1} times	เคลียร์ดันเจี้ยน Wildlands@{1}ครั้ง
+15889	Say hello to Sebu Yalian for Dumby.	ทักทาย Sebu Yalian สำหรับ Dumby
+15890	PATCH_CLIENT_FILE_MISSING_TIPS_@{1}	PATCH_CLIENT_FILE_MISSING_TIPS_@{1}
+15891	Open to receive a random Soul Echo.	เปิดเพื่อรับ Soul Echo แบบสุ่ม
+15892	Open to obtain a Card: Savage Babe.	เปิดเพื่อรับการ์ด: Savage Babe
+15893	Invalid request. Invalid signature.	คำขอไม่ถูกต้องลายเซ็นไม่ถูกต้อง
+15894	The finest Tier @{1} Red Equipment.	อุปกรณ์ระดับที่ดีที่สุด@{1}สีแดง
+15895	Grants Equipment Forging materials.	มอบอุปกรณ์การตีวัสดุ
+15896	A high-quality silver Pocket Watch.	นาฬิกาพกสีเงินคุณภาพสูง
+15897	Rare materials for title promotion.	วัสดุหายากสำหรับการโปรโมตชื่อเรื่อง
+15898	Invalid Collection card star rating	ระดับดาวของการ์ดคอลเลกชันไม่ถูกต้อง
+15899	Long boots that protect the ankles.	รองเท้าบูทยาวที่ช่วยปกป้องข้อเท้า
+15900	Flowing Water at the North Entrance	น้ำไหลที่ทางเข้าทิศเหนือ
+15901	Can add skills to Divine Art Totems	สามารถเพิ่มทักษะให้กับ Divine Art Totems
+15902	T@{1} Orange Weapon Selection Chest	T@{1}กล่องเลือกอาวุธสีส้ม
+15903	Chance to unlock a new Enchant slot	โอกาสในการปลดล็อคสล็อต Enchant ใหม่
+15904	Advanced All-Member Guild Gift Pack	ชุดของขวัญกิลด์สมาชิกขั้นสูงทั้งหมด
+15905	Treasure Clue: Dummy's Old Contract	Treasure Cue: สัญญาเก่าของ Dummy
+15906	Treasure Map Fragment (Destination)	ชิ้นส่วนแผนที่สมบัติ (ปลายทาง)
+15907	God of War Scroll · Accessory-Green	God of War Scroll · อุปกรณ์เสริม-สีเขียว
+15908	Azure Realm Ward Scroll · Shoes-Red	Azure Realm Ward Scroll · รองเท้า-สีแดง
+15909	Azure Realm Ward Scroll · Cloak-Red	Azure Realm Ward Scroll · เสื้อคลุม-แดง
+15910	Emerald Realmguard Scroll·Armor-Red	Emerald Realmguard Scroll·เกราะ-แดง
+15911	Crimson Realmguard Scroll·Armor-Red	Crimson Realmguard Scroll·เกราะ-แดง
+15912	Hummingbird Scroll·One-Handed-Green	Hummingbird Scroll·มือเดียว-เขียว
+15913	Life Percentage · Dual Wield - Blue	Life Percentage · ด้ามคู่ - สีน้ำเงิน
+15914	Mountain Scroll · Dual Wield - Blue	Mountain Scroll · ด้ามคู่ - สีน้ำเงิน
+15915	Destiny Scroll · Dual Wield - Green	Destiny Scroll · อาวุธคู่ - สีเขียว
+15916	Not enough MVP event participations	การเข้าร่วมกิจกรรม MVP ไม่เพียงพอ
+15917	Not enough GVE event participations	การเข้าร่วมกิจกรรม GVE ไม่เพียงพอ
+15918	Equipment slot Refine Level too low	ช่องอุปกรณ์ ระดับการปรับแต่งต่ำเกินไป
+15919	Gathering count requirement not met	ไม่เป็นไปตามข้อกำหนดการนับการรวบรวม
+15920	Boss Kill count requirement not met	ไม่เป็นไปตามข้อกำหนดการนับการสังหารบอส
+15921	Skill point requirement Not Reached	ไม่ถึงเกณฑ์คะแนนทักษะ
+15922	Not enough regional rewards claimed	รับรางวัลระดับภูมิภาคไม่เพียงพอ
+15923	War of Emperium Vehicle Permissions	สิทธิ์อนุญาตยานพาหนะ War of Emperium
+15924	Alberta Western Capital - Base @{1}	อัลเบอร์ตาเวสเทิร์นแคปิตอล - ฐาน@{1}
+15925	Alberta Eastern Capital - Base @{1}	อัลเบอร์ตาตะวันออกเมืองหลวง - ฐาน@{1}
+15926	Unlocks when Knowledge reaches ${1}	ปลดล็อคเมื่อความรู้ถึง${1}
+15927	Do Not Show Again During This Login	ไม่แสดงอีกในระหว่างการเข้าสู่ระบบนี้
+15928	Standard Cards Collected: ${1}/${2}	ที่รวบรวม:${1}/${2}
+15929	Chapter Reading Reward Not Unlocked	รางวัลการอ่านบทไม่ถูกปลดล็อค
+15930	Reset Crescent Blade Wheel Cooldown	รีเซ็ตคูลดาวน์ล้อใบมีดพระจันทร์เสี้ยว
+15931	Season Vulcan Cannon Switch BD @{1}	Season Vulcan Cannon Switch BD@{1}
+15932	S@{1} Vulcan Cannon Floors Listener	S@{1}ผู้ฟังพื้นปืนใหญ่วัลแคน
+15933	Spear Mastery Increased Holy Damage	Spear Mastery เพิ่มความเสียหายศักดิ์สิทธิ์
+15934	Increased Base Battle Chant Effects	เพิ่มเอฟเฟกต์การสวดมนต์ฐานการต่อสู้
+15935	BDTarget_AttriTransformRule_BigType	BDTarget_AttriTransformRule_BigType
+15936	For players familiar with RO Online	สำหรับผู้เล่นที่คุ้นเคยกับ RO Online
+15937	Party/Raid Information Display Area	พื้นที่แสดงข้อมูลปาร์ตี้/การจู่โจม
+15938	Boss Skill information display area	พื้นที่แสดงข้อมูลทักษะบอส
+15939	Quick Target Selection Display Area	พื้นที่แสดงการเลือกเป้าหมายด่วน
+15940	Inflict Freeze on Frozen Target HIT	แช่แข็งเป้าหมาย HIT ที่แช่แข็ง
+15941	Goblin Leader ST Target Lock Marker	Goblin Leader ST เครื่องหมายล็อคเป้า
+15942	Green Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอฟองสีเขียว
+15943	Enhanced Psychic Astrolabe Listener	ผู้ฟัง Psychic Astrolabe ที่ปรับปรุงแล้ว
+15944	Joint Beat Movement Speed Reduction	การลดความเร็วในการเคลื่อนที่ของ Joint Beat
+15945	Reach slot Reinforcement level ${1}	ช่องต่อระดับเสริมแรง${1}
+15946	Click to join the Tavern room: ${1}	คลิกเพื่อเข้าร่วมห้องโรงเตี๊ยม:${1}
+15947	There are currently no new Taverns.	ขณะนี้ไม่มีโรงเตี๊ยมใหม่
+15948	Hunting Challenge - Speedrun Report	Hunting Challenge - รายงาน Speedrun
+15949	Not in the close friends Group Chat	ไม่อยู่ในแชทกลุ่มเพื่อนสนิท
+15950	Stalls are not allowed in this area	ไม่อนุญาตให้มีแผงลอยในบริเวณนี้
+15951	The room owner cannot leave the mic	เจ้าของห้องทิ้งไมค์ไม่ได้
+15952	This player is no longer in Blocks.	ผู้เล่นนี้ไม่ได้อยู่ในบล็อกอีกต่อไป
+15953	You cannot send a gift to yourself.	คุณไม่สามารถส่งของขวัญให้ตัวเองได้
+15954	Bonus time is not currently active.	เวลาโบนัสไม่ได้ใช้งานอยู่ในขณะนี้
+15955	Not in an Adventurer Group dungeon.	ไม่ได้อยู่ในดันเจี้ยนกลุ่มนักผจญภัย
+15956	Already joined an Adventurer Group.	เข้าร่วมกลุ่มนักผจญภัยแล้ว
+15957	The Merge Guild request has expired	คำขอรวมกิลด์หมดอายุแล้ว
+15958	Already responded to another guild.	ตอบกลับไปยังกิลด์อื่นแล้ว
+15959	Required journey days not completed	วันเดินทางที่ต้องการไม่เสร็จสิ้น
+15960	Daily prize pool draw limit reached	ถึงขีดจำกัดการจับรางวัลรายวันแล้ว
+15961	Season refinement is not configured	Season refinement is not configured
+15962	Failed to generate a Get Help code.	ไม่สามารถสร้างรหัสรับความช่วยเหลือ
+15963	No teammates remain. Revive failed.	ไม่มีเพื่อนร่วมทีมเหลืออยู่การฟื้นคืนชีพล้มเหลว
+15964	The free Revive period has expired.	ระยะเวลาฟื้นฟูฟรีหมดอายุแล้ว
+15965	Repeat invitations are not allowed.	ไม่อนุญาตให้ทำซ้ำคำเชิญ
+15966	Signature contains sensitive words.	มีคำที่ละเอียดอ่อน
+15967	Hundredfold Tempering - Arcane Arts	การแบ่งเบาร้อยเท่า - Arcane Arts
+15968	Hundredfold Tempering - Destruction	การแบ่งเบาบรรเทาร้อยเท่า - การทำลายล้าง
+15969	Master Smith's Blessing - Keen Edge	พรของอาจารย์ Smith - Keen Edge
+15970	Participate in Guild GvE ${1} times	เข้าร่วมกิลด์ GvE${1}ครั้ง
+15971	Adventure Group must reach Lv. ${1}	กลุ่มผจญภัยจะต้องมีเลเวลถึง${1}
+15972	Instance initialization data error.	ข้อผิดพลาดข้อมูลการเริ่มต้นอินสแตนซ์
+15973	This skill is on the disabled list.	ทักษะนี้อยู่ในรายการที่ถูกปิดใช้งาน
+15974	Increases Max Life by ^{1}${1}^{2}.	เพิ่มพลังชีวิตสูงสุดโดย ^{1}${1}^{2}
+15975	After use, increases MSPD by @{1}%.	หลังการใช้งาน เพิ่ม MSPD ขึ้น@{1}%
+15976	Card Collection Progress: ${1}/${2}	:${1}/${2}
+15977	Not enough items to unlock the slot	มีรายการไม่เพียงพอที่จะปลดล็อคช่อง
+15978	Revive is not allowed in this area.	Revive ไม่ได้รับอนุญาตในพื้นที่นี้
+15979	The Revive penalty is still active.	บทลงโทษ Revive ยังคงทำงานอยู่
+15980	The recipient already has the Pass.	ผู้รับมี Pass อยู่แล้ว
+15981	The building has reached Max level.	อาคารถึงระดับสูงสุดแล้ว
+15982	You have already joined this guild.	คุณได้เข้าร่วมกิลด์นี้แล้ว
+15983	Mail body contains sensitive words.	เนื้อหาของเมลมีคำที่ละเอียดอ่อน
+15984	Platform service returned an error.	ส่งคืนข้อผิดพลาด
+15985	Welcome to RO Ragnarok Online @{1}!	ยินดีต้อนรับสู่ RO Ragnarok Online@{1}!
+15986	Please Select a Quest for This Week	โปรดเลือกภารกิจสำหรับสัปดาห์นี้
+15987	Tap the map to select a Spawn: ${1}	แตะแผนที่เพื่อเลือกวางไข่:${1}
+15988	Waiting for the game to start: ${1}	กำลังรอให้เกมเริ่ม:${1}
+15989	Kafra: Battle of Survivors Currency	Kafra: สกุลเงินการต่อสู้ของผู้รอดชีวิต
+15990	Zones Closed/Total Zones: ${1}/${2}	โซนปิด/โซนรวม:${1}/${2}
+15991	I'm here on the Professor's behalf.	ฉันมาในนามของศาสตราจารย์
+15992	Obtained This Week: ${1}  ${2}/${3}	ได้รับในสัปดาห์นี้:${1}${2}/${3}
+15993	Adventure Group Members (${1}/${2})	สมาชิกกลุ่มผจญภัย (${1}/${2})
+15994	The rescue target has been revived.	เป้าหมายการช่วยเหลือได้รับการฟื้นคืนชีพแล้ว
+15995	Target out of range. Rescue failed.	เป้าหมายอยู่นอกระยะการช่วยเหลือล้มเหลว
+15996	Each stack increases MSPD by ${1}%.	แต่ละสแต็กจะเพิ่ม MSPD ขึ้น${1}%
+15997	HP Lock effect's internal Cooldown.	คูลดาวน์ภายในของเอฟเฟกต์ HP Lock
+15998	Movement Speed is reduced by @{1}%.	ความเร็วในการเคลื่อนที่ลดลง@{1}%
+15999	Buff duration extended by ${1} sec.	ระยะเวลาบัฟขยายออกไป${1}วินาที
+16000	Nearby allies recover continuously.	พันธมิตรที่อยู่ใกล้เคียงจะฟื้นตัวอย่างต่อเนื่อง

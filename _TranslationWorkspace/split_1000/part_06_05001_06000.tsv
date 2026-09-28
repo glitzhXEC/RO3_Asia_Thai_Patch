@@ -1,0 +1,1001 @@
+﻿Index	English	Thai_Translation
+5001	Defending Aura	ออร่าแห่งการปกป้อง
+5002	Absolute Judex	ยูเด็กซ์ล้วนๆ
+5003	Shield Pursuit	โล่ไล่ล่า
+5004	Crest of Light	ตราแห่งแสง
+5005	Chase Distance	ระยะไล่ล่า
+5006	Go to Settings	ไปที่การตั้งค่า
+5007	Casting Method	วิธีการหล่อ
+5008	Normal Casting	การหล่อแบบปกติ
+5009	Damage Numbers	หมายเลขความเสียหาย
+5010	Sound Settings	การตั้งค่าเสียง
+5011	Semi-Soft Lock	กึ่งซอฟท์ล็อค
+5012	Full Soft Lock	ซอฟท์ล็อคแบบเต็มตัว
+5013	Skill Callouts	คำบรรยายภาพทักษะ
+5014	Always Display	แสดงเสมอ
+5015	Self and Party	ตัวเองและปาร์ตี้
+5016	Mouse Left Tap	แตะซ้ายของเมาส์
+5017	Powerful Drain	ท่อระบายน้ำอันทรงพลัง
+5018	Fan-Shaped AOE	AOE รูปพัดลม
+5019	Horizontal AOE	AOE แนวนอน
+5020	Brass Talisman	ยันต์ทองเหลือง
+5021	Clone Entrance	ทางเข้าโคลน
+5022	Kun Moves @{1}	คุนขยับ@{1}
+5023	Spotlight @{1}	สปอตไลท์@{1}
+5024	Rift Knockback	กันล้ม Rift
+5025	Launch Missile	เปิดตัวขีปนาวุธ
+5026	Rapidness Shot	ช็อตที่รวดเร็ว
+5027	Battle Command	คำสั่งการต่อสู้
+5028	Emergency Call	โทรฉุกเฉิน
+5029	Falcon Assault	การโจมตีเหยี่ยว
+5030	Sharp Shooting	การยิงที่คมชัด
+5031	Yggdrasil Leaf	ใบไม้อิกดราซิล
+5032	Doragon Launch	Doragon
+5033	Lightning Bolt	สายฟ้าฟาด
+5034	Fire@{1}-Rapid	ไฟ@{1}-รวดเร็ว
+5035	Greedy Bigfoot	บิ๊กฟุตโลภ
+5036	Greedy Phoenix	โลภฟีนิกซ์
+5037	Live Ammo Test	การทดสอบกระสุนสด
+5038	Eclipse Skills	ทักษะคราส
+5039	Gryphon Skills	ทักษะกริฟฟอน
+5040	Realm of Light	อาณาจักรแห่งแสง
+5041	Petrify Cleave	ผ่าหิน
+5042	Hornet Assault	การโจมตีของแตน
+5043	Summon Pyramid	อัญเชิญพีระมิด
+5044	Dark Corrosion	การกัดกร่อนแบบเข้ม
+5045	Bell Resonance	เสียงสะท้อนของกระดิ่ง
+5046	Charging Blade	ใบมีดชาร์จ
+5047	Likes Received	กดไลค์แล้ว
+5048	Heaven's Drive	ไดรฟ์แห่งสวรรค์
+5049	Dance of Death	การเต้นรำแห่งความตาย
+5050	Blazing Thrust	แรงขับอันแรงกล้า
+5051	Flame Eruption	เปลวไฟปะทุ
+5052	Nether Phantom	เนเธอร์แฟนธอม
+5053	Dancing Blades	ใบมีดเต้นรำ
+5054	Lingering Echo	เสียงสะท้อนที่ค้างอยู่
+5055	${1} Resources	ทรัพยากร${1}
+5056	Privacy Policy	นโยบายความเป็นส่วนตัว
+5057	Summon Puppets	อัญเชิญหุ่นเชิด
+5058	Dark Pulse@{1}	พัลส์มืด@{1}
+5059	Refresh Horong	รีเฟรช Horong
+5060	Furious Strike	การโจมตีที่รุนแรง
+5061	Rhythmic Stomp	กระทืบเป็นจังหวะ
+5062	Hold Skill VFX	กด VFX ของทักษะ
+5063	Skill@{1}Shout	@{1}ตะโกน
+5064	Final Movement	การเคลื่อนไหวครั้งสุดท้าย
+5065	Musical Phrase	วลีดนตรี
+5066	Brilliant Nova	บริลเลี่ยนโนวา
+5067	Rhythmic Arrow	ลูกศรเป็นจังหวะ
+5068	Flowing Shadow	เงาไหลลื่น
+5069	Neon Spotlight	สปอร์ตไลท์นีออน
+5070	Divine Remnant	เศษเหลือศักดิ์สิทธิ์
+5071	Seismic Cleave	รอยแยกแผ่นดินไหว
+5072	Hellhound King	เฮลฮาวด์ คิง
+5073	Brandish Spear	หอกแบรนดิช
+5074	Piercing Blast	ระเบิดเจาะ
+5075	Double Counter	เครื่องนับคู่
+5076	Dragon Howling	มังกรหอน
+5077	Pickup Trigger	ปิ๊กอัพทริกเกอร์
+5078	Increase Dodge	เพิ่มการหลบหลีก
+5079	Venom Splasher	เวนอม สแปลชเชอร์
+5080	Chain Reaction	ปฏิกิริยาลูกโซ่
+5081	Fireball Burst	ลูกไฟระเบิด
+5082	Fire Explosion	ไฟไหม้ระเบิด
+5083	Trophy Journey	การเดินทางถ้วยรางวัล
+5084	Create Bonfire	สร้างกองไฟ
+5085	Card Promotion	กู้คืนการ์ด
+5086	Card Taken off	การ์ดถูกถอดออก
+5087	Confirm Return	ยืนยันการคืนสินค้า
+5088	Bulk Dismantle	การแยกชิ้นส่วนจำนวนมาก
+5089	Result Preview	ประเภทผลลัพธ์
+5090	Elite Settings	Elite
+5091	Run a Business	ดำเนินธุรกิจ
+5092	Reward: Random	รางวัล: สุ่ม
+5093	Male Character	Male Character
+5094	${1} Tradeable	${1}ซื้อขายได้
+5095	Abandoned Mine	ของฉันที่ถูกทิ้งร้าง
+5096	Master Effects	มาสเตอร์เอฟเฟกต์
+5097	Key Attributes	การตั้งค่าคีย์
+5098	Cooldown: ${1}	คูลดาวน์:${1}คูลดาวน์
+5099	Build Counters	สร้างตัวนับ
+5100	Current Stage:	ระยะปัจจุบัน:
+5101	Go Add Friend!	ไปเพิ่มเพื่อน!
+5102	Tap to type...	แตะเพื่อพิมพ์...
+5103	Blue Light Orb	ออร์บแสงสีฟ้า
+5104	Strange Device	อุปกรณ์แปลกๆ
+5105	Spear Crusader	หอกครูเซเดอร์
+5106	Elemental Mage	เวทย์ธาตุ
+5107	Revival Mirror	กระจก Revival
+5108	Steel Madogear	เหล็ก Madogear
+5109	Field of Light	สนามแห่งแสง
+5110	Guard Guardian	การ์ดผู้พิทักษ์
+5111	Raydric Archer	เรย์ดริก อาร์เชอร์
+5112	Lv. @{1} Plant	เลเวลโรงงาน@{1}
+5113	Allied Airship	เรือเหาะพันธมิตร
+5114	The ⑦th Summer	ฤดูร้อนครั้งที่ 2
+5115	Moonlit Beauty	งามแสงจันทร์
+5116	Training Dummy	หุ่นฝึกซ้อม
+5117	Novice - Andre	สามเณร - อังเดร
+5118	Crazy Gift Box	กล่องของขวัญสุดบ้า
+5119	Berserk Poring	เบอร์เซิร์ก พอริ่ง
+5120	Wraith Phantom	เจตภูตผี
+5121	Lv. @{1} Dummy	เลเวล@{1}หุ่นจำลอง
+5122	Deviling Clone	โคลนปีศาจ
+5123	Elite Skeleton	Elite Skeleton
+5124	Fruit Merchant	พ่อค้าผลไม้
+5125	Sharp-Eyed Boy	หนุ่มตาคม
+5126	Trade Merchant	ผู้ค้าขาย
+5127	Person Resting	คนกำลังพักผ่อน
+5128	Sound Asleeper	เสียงหลับไหล
+5129	Mjolnir Garden	สวนมโยลเนียร์
+5130	Archer Village	หมู่บ้านนักธนู
+5131	Western Morroc	เวสเทิร์นมอร์ร็อค
+5132	Professor Ryan	ศาสตราจารย์ไรอัน
+5133	Caravan Member	สมาชิกคาราวาน
+5134	Suspicious Man	ชายน่าสงสัย
+5135	Sandstorm@{1}m	พายุทราย@{1}ม
+5136	Red Bubble NPC	NPC บับเบิ้ลแดง
+5137	Nasha - Normal	นาชา - ปกติ
+5138	Nasha - Finale	นาชา - ตอนจบ
+5139	Mirko - Normal	Mirko - ปกติ
+5140	Mirko - Finale	มีร์โก - ตอนจบ
+5141	Marsh of Abyss	บึงแห่งอบิส
+5142	Mistress-Final	นายหญิง-รอบชิงชนะเลิศ
+5143	Maya-Very Hard	มายา-ยากมาก
+5144	Maya-Nightmare	มายา-ฝันร้าย
+5145	Pharaoh-Normal	ฟาโรห์-นอร์มอล
+5146	Baphomet-Final	Baphomet-รอบชิงชนะเลิศ
+5147	Current Level:	ระดับปัจจุบัน:
+5148	Edit Formation	แก้ไขรูปแบบ
+5149	Invalid Floors	พื้นไม่ถูกต้อง
+5150	Honor Rankings	อันดับเกียรติยศ
+5151	Reward Preview	ตัวอย่างรางวัล
+5152	Male Hairstyle	Male Hairstyle
+5153	Platinum Range	กลุ่มแพลตตินัม
+5154	Treasure Chest	หีบสมบัติ
+5155	Teammate: ${1}	เพื่อนร่วมทีม:${1}
+5156	Attack Enhance	Attack Enhance
+5157	Monsterologist	นักสัตว์ประหลาด
+5158	Stall Duration	ระยะเวลาแผงลอย
+5159	Player Message	ข้อความผู้เล่น
+5160	Event Calendar	ปฏิทินกิจกรรม
+5161	Daily Must-Dos	สิ่งที่ต้องทำประจำวัน
+5162	Starts in ${1}	เริ่มต้นใน${1}
+5163	Starts at ${1}	เริ่มต้นที่${1}
+5164	Event Rewards:	:
+5165	Skill Cooldown	พารามิเตอร์ที่สำคัญของทักษะ
+5166	Neutral Damage	ความเสียหายที่เป็นกลาง
+5167	Garden of Time	สวนแห่งกาลเวลา
+5168	Currency Cost:	ต้นทุนสกุลเงิน:
+5169	Tactic Details	รายละเอียดแทคติก
+5170	Tactic Library	ห้องสมุดยุทธวิธี
+5171	Escort Station	สถานีคุ้มกัน
+5172	Claim Dividend	ขอรับเงินปันผล
+5173	About to start	กำลังจะเริ่มต้นแล้ว
+5174	In Progress...	อยู่ระหว่างดำเนินการ...
+5175	Player invited	ผู้เล่นได้รับเชิญ
+5176	Guild Dividend	เงินปันผลกิลด์
+5177	War Technology	เทคโนโลยีสงคราม
+5178	Guild Activity	กิจกรรมกิลด์
+5179	Guild Prestige	กิลด์เพรสทีจ
+5180	Guild Supplies	อุปกรณ์กิลด์
+5181	Send an Invite	ส่งคำเชิญ
+5182	No Invitations	ไม่มีคำเชิญ
+5183	Inviting Party	ปาร์ตี้เชิญ
+5184	Pets - Star Up	สัตว์เลี้ยง - สตาร์อัพ
+5185	Go, Kafra, Go!	ไป คาฟรา ไป!
+5186	Equip a Weapon	ติดตั้งอาวุธ
+5187	Job Prediction	การทำนายงาน
+5188	Newfound Power	ขุมพลังที่ค้นพบใหม่
+5189	The Road Ahead	ถนนข้างหน้า
+5190	Rescue Mission	ภารกิจกู้ภัย
+5191	Reach Lv. @{1}	ถึงระดับ@{1}
+5192	Helpful Hunter	นักล่าผู้ช่วยเหลือ
+5193	Boarding Alert	การแจ้งเตือนการขึ้นเครื่อง
+5194	Together Again	รวมตัวกันอีกครั้ง
+5195	Find the Relic	ค้นหาของที่ระลึก
+5196	Return to Gwen	กลับไปหาเกวน
+5197	At the Banquet	At the Banquet
+5198	Night Watchman	ยามกลางคืน
+5199	Unleash Talent	ปลดปล่อยความสามารถ
+5200	Obtain a Mount	รับพาหนะ
+5201	Fly, Fly Wing!	บิน ปีกบิน!
+5202	Novice's Trial	การทดลองของมือใหม่
+5203	Request Reward	ขอรับรางวัล
+5204	Next Objective	วัตถุประสงค์ถัดไป
+5205	Landing Failed	การลงจอดล้มเหลว
+5206	Crisis Strikes	วิกฤตการณ์
+5207	Danger Averted	หลีกเลี่ยงอันตรายแล้ว
+5208	Boarding Check	การตรวจสอบขึ้นเครื่อง
+5209	Return to Camp	กลับสู่แคมป์
+5210	Gain 10 Levels	ได้รับ 10 ระดับ
+5211	Support Effect	รองรับเอฟเฟกต์
+5212	Utility Slot 1	1
+5213	Utility Slot 2	2
+5214	Utility Slot 3	3
+5215	Advanced Hatch	ฟักขั้นสูง
+5216	Free This Time	ฟรีในครั้งนี้
+5217	Permanent Pool	พูลถาวร
+5218	Level-up Time:	เวลาอัพเลเวล:
+5219	Hatching Notes	บันทึกการฟักไข่
+5220	Growth Preview	ดูตัวอย่างการเติบโต
+5221	Skill Level-up	เลเวลอัพทักษะ
+5222	(${1} seconds)	(${1}วินาที)
+5223	Elite@{1} Tier	Elite@{1}เทียร์
+5224	Select Alpaca.	เลือกอัลปาก้า
+5225	Choosing a Job	การเลือกงาน
+5226	Loading Video…	กำลังโหลดวิดีโอ...
+5227	Demonic Dragon	มังกรปีศาจ
+5228	Battle Fafnir.	แบทเทิลฟาฟเนียร์
+5229	I'm not ready.	ฉันยังไม่พร้อม
+5230	Turn and Leave	เลี้ยวและออก
+5231	Enter the Lair	เข้าสู่ถ้ำ
+5232	Take me there.	พาฉันไปที่นั่น
+5233	No, I haven't.	ไม่ ฉันยังไม่มี
+5234	Getting Better	เริ่มดีขึ้น
+5235	Growth Rewards	รางวัลการเติบโต
+5236	Title Overview	ตัวอย่างหัวข้อ
+5237	To the Academy	สู่อคาเดมี
+5238	Daily Requests	คำขอรายวัน
+5239	Use Group Warp	ใช้ Group Warp
+5240	What happened?	เกิดอะไรขึ้น?
+5241	Need any help?	ต้องการความช่วยเหลือหรือไม่?
+5242	Y-you're okay?	คะ-คุณสบายดีไหม?
+5243	Wave ${1}/${2}	เวฟ${1}/${2}
+5244	Resets in ${1}	รีเซ็ตใน${1}
+5245	Confirm Revive	ยืนยันการฟื้นคืนชีพ
+5246	Manage Markers	จัดการเครื่องหมาย
+5247	Gathering Area	พื้นที่รวมตัว
+5248	Nightmare Mode	โหมดฝันร้าย
+5249	${1} EXP +${2}	${1}EXP +${2}
+5250	Return to Game	กลับสู่เกม
+5251	Expressionless	ไร้อารมณ์
+5252	Auto-Dismantle	Auto-Dismantle
+5253	Battle Starts!	การต่อสู้เริ่มต้นแล้ว!
+5254	I'll help you!	ฉันจะช่วยคุณ!
+5255	Soaring Sky II	ทะยานฟ้า II
+5256	Soaring Sky IV	ทะยานฟ้า IV
+5257	It's so hot...	ร้อนจัง...
+5258	Reward claimed	รับรางวัลแล้ว
+5259	Reflect Damage	สะท้อนความเสียหาย
+5260	Radiance Orbit	วงโคจรเรเดียนซ์
+5261	Auctioned item	สินค้าประมูล
+5262	Bid Multiplier	ตัวคูณการเสนอราคา
+5263	Current Price:	ราคาปัจจุบัน:
+5264	Auction Status	Auction Status
+5265	Start Crafting	เริ่มการประดิษฐ์
+5266	Engraving Plan	แผนการแกะสลัก
+5267	Current Preset	ค่าที่ตั้งล่วงหน้าปัจจุบัน
+5268	No ranking yet	ยังไม่มีอันดับ
+5269	Apprentice III	Apprentice III
+5270	Welcome to RO3	ยินดีต้อนรับสู่ RO3
+5271	Battle Results	ผลการต่อสู้
+5272	Guild Members:	:
+5273	Final Matchups	การจับคู่ครั้งสุดท้าย
+5274	Kill the Guard	ฆ่าการ์ด
+5275	Current Points	คะแนนปัจจุบัน
+5276	One-Handed Axe	ขวานมือเดียว
+5277	Two-Handed Axe	ขวานสองมือ
+5278	Book Page Item	รายการหน้าหนังสือ
+5279	Enchant Scroll	ใบเสริมเสน่ห์
+5280	Valhalla Items	ไอเทม Valhalla
+5281	Arcane Crystal	Arcane Crystal
+5282	Character name	ชื่อตัวละคร
+5283	Equipment Name	ชื่ออุปกรณ์
+5284	Random Dungeon	ดันเจี้ยนสุ่ม
+5285	Prontera Areas	พื้นที่พรอนเทรา
+5286	Medicine Items	รายการยา
+5287	Collector Card	การ์ดสะสม
+5288	Normal Message	ข้อความปกติ
+5289	Location Share	แชร์ตำแหน่ง
+5290	System Message	ระบบ
+5291	Tavern Message	ข้อความโรงเตี๊ยม
+5292	Featured Event	กิจกรรมเด่น
+5293	Need a Big Bro	ต้องการพี่ใหญ่
+5294	Poison Attacks	การโจมตีด้วยพิษ
+5295	Open Ambulance	รถพยาบาลเปิด
+5296	Take her hand.	จับมือเธอไว้
+5297	Cleaving Slash	ฟันผ่า
+5298	Phantom Thrust	Phantom Thrust
+5299	Rain of Spears	ฝนแห่งหอก
+5300	Magic Infusion	เมจิก อินฟิวชั่น
+5301	Vehicle Shield	ชิลด์หน้ารถ
+5302	Area Detection	การตรวจจับพื้นที่
+5303	Soul Expansion	การขยายตัวของจิตวิญญาณ
+5304	White Imprison	คุกสีขาว
+5305	Crystal Prison	คริสตัลคุก
+5306	Blooming Flame	เปลวไฟบาน
+5307	Shield - Spawn	โล่ - วางไข่
+5308	Lava Heat Wave	คลื่นความร้อนลาวา
+5309	Shaking Bubble	ฟองสบู่สั่น
+5310	Explosive Tide	กระแสน้ำระเบิด
+5311	Exalted Status	สถานะที่สูงส่ง
+5312	Air-Drop Point	จุดดรอปอากาศ
+5313	Prontera S@{1}	พรอนเทรา S@{1}
+5314	Current Battle	การต่อสู้ปัจจุบัน
+5315	Blackhole Mode	โหมดหลุมดำ
+5316	Skill Training	การฝึกทักษะ
+5317	Frame Rate Cap	ขีดจำกัดอัตราเฟรม
+5318	Ironwood Chunk	ไม้ไอรอนวู้ด
+5319	Ironwood Blank	ไม้ไอรอนวูด เปล่า
+5320	Woolen Padding	เบาะทำด้วยผ้าขนสัตว์
+5321	Sacred Padding	เบาะศักดิ์สิทธิ์
+5322	Celestial Star	เซเลสเชียล สตาร์
+5323	Learn Refining	เรียนรู้การขัดเกลา
+5324	Seek the Truth	ค้นหาความจริง
+5325	Crisis Averted	หลีกเลี่ยงวิกฤตแล้ว
+5326	Nagging Doubts	ข้อสงสัยที่จู้จี้จุกจิก
+5327	The Final Step	ขั้นตอนสุดท้าย
+5328	Lost and Found	สูญหายและพบ
+5329	Time to Deduce	ถึงเวลาอนุมาน
+5330	Watch Cutscene	ดูคัตซีน
+5331	Skill Learning	การเรียนรู้ทักษะ
+5332	Repair Station	สถานีซ่อม
+5333	Forced Petrify	บังคับกลายเป็นหิน
+5334	Skill Movement	ทักษะการเคลื่อนที่
+5335	Party Assembly	ปาร์ตี้สมัชชา
+5336	Wild Hemp Vine	เถากัญชาป่า
+5337	Expert Forager	ผู้เชี่ยวชาญด้านอาหารสัตว์
+5338	Rapid Crafting	การประดิษฐ์อย่างรวดเร็ว
+5339	Yellow quartz.	ควอตซ์สีเหลือง
+5340	Save Selection	บันทึกการเลือก
+5341	Goddess's Hint	คำแนะนำของเทพธิดา
+5342	Stellar Matrix	เมทริกซ์ดาวฤกษ์
+5343	Hunting Season	ฤดูล่าสัตว์
+5344	The Hanged Man	ชายผู้ถูกแขวนคอ
+5345	Supreme Throne	บัลลังก์สูงสุด
+5346	Disguise Trick	เคล็ดลับการปลอมตัว
+5347	Abundant Magic	เวทมนตร์อันอุดมสมบูรณ์
+5348	Vengeful Magic	เวทมนตร์อาฆาต
+5349	Divine Message	ข้อความศักดิ์สิทธิ์
+5350	Baron Fragment	ชิ้นส่วนบารอน
+5351	Alien Fragment	ชิ้นส่วนเอเลี่ยน
+5352	Einherjar Coin	เหรียญไอน์เฮอร์จาร์
+5353	MVP Loot Chest	กล่องสมบัติ MVP
+5354	Old Card Album	อัลบั้มการ์ดเก่า
+5355	Surprise Chest	กล่องเซอร์ไพรส์
+5356	Headgear Chest	กล่องใส่หมวก
+5357	Conqueror Pack	แพ็คผู้พิชิต
+5358	Oridecon-Clear	Oridecon-เคลียร์
+5359	Requested ${2}	ที่ร้องขอ${2}คำขอ
+5360	Moon Jellyfish	แมงกะพรุนพระจันทร์
+5361	Thief Portrait	ภาพเหมือนของโจร
+5362	Meteorite Grip	ปลอกแฮนด์อุกกาบาต
+5363	Crafting Notes	บันทึกการประดิษฐ์
+5364	Legendary Pelt	หนังในตำนาน
+5365	Test Skill@{1}	ทักษะการทดสอบ@{1}
+5366	Totem Fragment	ชิ้นส่วนโทเทม
+5367	Blue Equipment	อุปกรณ์สีน้ำเงิน
+5368	Airship Ticket	ตั๋วเรือเหาะ
+5369	Glossy Jellopy	สีเจลลี่เคลือบเงา
+5370	Talent Remnant	พรสวรรค์ที่เหลืออยู่
+5371	Pulsating Mass	มวลเป็นจังหวะ
+5372	Lipid Tentacle	หนวดไลปิด
+5373	Dopey Pink Gem	พลอยชมพูโดปี้
+5374	Deviling Emoji	เอโมจิปีศาจ
+5375	Star Diamond V	สตาร์ ไดมอนด์ วี
+5376	Star Diamond I	สตาร์ ไดมอนด์ I
+5377	Crystal of Joy	คริสตัลแห่งความสุข
+5378	Proof of Trial	หลักฐานการทดลองใช้
+5379	Pathfinder Ant	มดผู้เบิกทาง
+5380	Deviruchi Horn	เดวิรุจิฮอร์น
+5381	Quest Fly Wing	เควส ฟลายวิง
+5382	Shield Crystal	ชิลด์คริสตัล
+5383	Feather Spirit	วิญญาณขนนก
+5384	Lv. @{1} Katar	เลเวล@{1}กาตาร์
+5385	Lv. @{1} Staff	เลเวลพนักงาน@{1}
+5386	Superior Katar	กาตาร์สุพีเรีย
+5387	Advanced Katar	กาตาร์ขั้นสูง
+5388	Replace (${1})	แทนที่ (${1})
+5389	Bunny Slippers	รองเท้าแตะกระต่าย
+5390	Fricco's Shoes	รองเท้า Fricco
+5391	Novice Greaves	สนับสามเณร
+5392	Novice Sandals	รองเท้าแตะมือใหม่
+5393	Leather Jacket	เสื้อแจ็คเก็ตหนัง
+5394	Thorny Buckler	บัคเลอร์หนาม
+5395	Novice Buckler	บัคเลอร์มือใหม่
+5396	Wizardry Staff	เจ้าหน้าที่เวทมนตร์
+5397	Smash's Hammer	ค้อนทุบ
+5398	Dragutin Spear	หอกดรากูติน
+5399	Treasure Sword	ดาบสมบัติ
+5400	Already firing	เริ่มทำงานแล้ว
+5401	Novice Credits	เครดิตมือใหม่
+5402	Card: Penomena	การ์ด: เพโนมีนา
+5403	Card: Metaller	การ์ด: เมทัลเลอร์
+5404	Card: Orc Lady	การ์ด: ออร์คเลดี้
+5405	Card: Plankton	การ์ด: แพลงก์ตอน
+5406	Card: Scorpion	การ์ด: แมงป่อง
+5407	Card: Poporing	การ์ด: กำลังเปิด
+5408	Card: Chonchon	การ์ด : ชลชล
+5409	Weekly Rewards	รางวัลประจำสัปดาห์
+5410	Ranking Rules:	:
+5411	Select a Build	เลือกบิลด์
+5412	Revive Details	รายละเอียดการฟื้นคืนชีพ
+5413	Reward Details	ตัวอย่างรางวัล
+5414	Ilmatar Turret	ป้อมปืนอิลมาทาร์
+5415	Average Power:	กำลังเฉลี่ย:
+5416	Shared Rewards	แบ่งปันรางวัล
+5417	Lv. ${1}: ${2}	เลเวล${1}:${2}
+5418	Enter Directly	ป้อนโดยตรง
+5419	Challenge Role	บทบาทการท้าทาย
+5420	Daily Activity	กิจกรรมประจำวัน
+5421	Echo Dismantle	รื้อเอคโค่
+5422	Naisha's Trial	การทดลองของ Naisha
+5423	Blooming Waves	คลื่นเบ่งบาน
+5424	Musical Frenzy	ดนตรีสุดมันส์
+5425	Dance together	เต้นกัน
+5426	Backup Dancers	นักเต้นสำรอง
+5427	Demonic Pillar	เสาปีศาจ
+5428	Ocean Concerto	โอเชียนคอนแชร์โต้
+5429	Hornet Advance	แตนแอดวานซ์
+5430	Shield Defense	โล่ป้องกัน
+5431	Divine Insight	ความเข้าใจอันศักดิ์สิทธิ์
+5432	Revive Players	ฟื้นผู้เล่น
+5433	Highest Rating	เรตติ้งสูงสุด
+5434	Miracle Healer	มิราเคิลฮีลเลอร์
+5435	Test of Mettle	การทดสอบความกล้าหาญ
+5436	Mighty War God	เทพเจ้าสงครามอันยิ่งใหญ่
+5437	Oracle Revival	การฟื้นฟูของออราเคิล
+5438	Backcap Expert	ผู้เชี่ยวชาญแบ็คแคป
+5439	Point Captured	จับจุดแล้ว
+5440	Triple Triumph	ทริปเปิ้ลไทรอัมพ์
+5441	Fastest Runner	วิ่งเร็วที่สุด
+5442	Initial Effect	ผลเริ่มต้น
+5443	Unlock Rewards	ปลดล็อครางวัล
+5444	Codex Unlocked	Codex ปลดล็อคแล้ว
+5445	Meteor Assault	การโจมตีด้วยดาวตก
+5446	Soul Destroyer	เครื่องทำลายวิญญาณ
+5447	Stellar Vortex	สเตลลาร์ วอร์เท็กซ์
+5448	Swift Blessing	พรที่รวดเร็ว
+5449	Cart Accessory	อุปกรณ์เสริมรถเข็น
+5450	Terminate Stun	ยุติการมึนงง
+5451	Body Tempering	การแบ่งเบาบรรเทาร่างกาย
+5452	Weapon Mastery	ความชำนาญด้านอาวุธ
+5453	Finishing Blow	จบการเป่า
+5454	Weapon Enhance	เสริมอาวุธ
+5455	Cannon Refresh	รีเฟรชปืนใหญ่
+5456	Size Increased	ขนาดเพิ่มขึ้น
+5457	Shrinking Item	สินค้าหดตัว
+5458	SP Consumption	SP ปริมาณการใช้
+5459	Add Attributes	เพิ่มคุณสมบัติ
+5460	Swift Movement	การเคลื่อนไหวที่รวดเร็ว
+5461	Poring Poring!	ปอริ่ง ปอริ่ง!
+5462	Gain DEF Boost	ได้รับบูสต์ DEF
+5463	Back to Bottom	กลับไปด้านล่าง
+5464	Tab Management	การจัดการแท็บ
+5465	Gameplay Phase	ระยะการเล่นเกม
+5466	Gameplay Alert	พื้นที่แสดงการแจ้งเตือนการเล่นเกม
+5467	Merge All Tabs	รวมแท็บทั้งหมด
+5468	Soul Combo SFX	โซลคอมโบ SFX
+5469	Storm Gust SFX	ลมกระโชกแรง SFX
+5470	Ganbantein SFX	กันบันไทน์ SFX
+5471	Earthfire Mark	เครื่องหมายแผ่นดินไหว
+5472	Acid Corrosion	การกัดกร่อนของกรด
+5473	Undead Phantom	อันเดดแฟนธอม
+5474	Taunting Tease	หยอกล้อล้อเลียน
+5475	Scorched Armor	เกราะไหม้เกรียม
+5476	Alicel - Blade	อลิซ - เบลด
+5477	Fairy Blessing	นางฟ้าอวยพร
+5478	Fairy - Shield	นางฟ้า - โล่
+5479	Stat Reduction	การลดสถิติ
+5480	Samurai Charge	ซามูไรชาร์จ
+5481	Same Old Trick	เคล็ดลับเดิมๆ
+5482	Sandstorm Slow	พายุทรายช้า
+5483	Increase Aggro	เพิ่ม Aggro
+5484	Initial Shield	ชิลด์เริ่มต้น
+5485	Slash Mode@{1}	โหมดสแลช@{1}
+5486	Shoot an arrow	ยิงธนู
+5487	Missile Charge	ขีปนาวุธพุ่ง
+5488	Reduce Healing	ลดการรักษา
+5489	Sand Puff Slow	พัฟทรายช้า
+5490	Venom Creation	การสร้างพิษ
+5491	Filter Taverns	โรงเตี๊ยมกรอง
+5492	Switch Taverns	สวิตช์โรงเตี๊ยม
+5493	Mic Management	การจัดการไมค์
+5494	Tavern Members	สมาชิกโรงเตี๊ยม
+5495	Speaking Order	ลำดับการพูด
+5496	Kill ${1} ${2}	ฆ่า${1}${2}
+5497	We found them.	เราเจอแล้ว
+5498	Talent Upgrade	อัพเกรดความสามารถพิเศษ
+5499	Dummy Settings	การตั้งค่าจำลอง
+5500	Challenge Mode	โหมดท้าทาย
+5501	Misc Objective	วัตถุประสงค์เบ็ดเตล็ด
+5502	Search Details	ค้นหารายละเอียด
+5503	Ranking Repeat	การจัดอันดับซ้ำ
+5504	No empty slots	ไม่มีช่องว่าง
+5505	Open Your Eyes	เปิดตาของคุณ
+5506	Unknown error.	ข้อผิดพลาดที่ไม่รู้จัก
+5507	Invalid talent	พรสวรรค์ไม่ถูกต้อง
+5508	Request failed	ล้มเหลว
+5509	Item inserted.	แทรกรายการแล้ว
+5510	Revive failed.	การฟื้นฟูล้มเหลว
+5511	Item unlocked.	ปลดล็อคไอเท็มแล้ว
+5512	Fortifying Cry	ฟอร์ติฟายอิ้ง คราย
+5513	Pierce Enhance	เจาะเสริม
+5514	Hela's Bargain	การต่อรองราคาของ Hela
+5515	Player is dead	ผู้เล่นเสียชีวิต
+5516	Season Rewards	รางวัลประจำฤดูกาล
+5517	Vehicle Access	การเข้าถึงยานพาหนะ
+5518	Allied Players	ผู้เล่นฝ่ายสัมพันธมิตร
+5519	Healing Volume	ปริมาณการรักษา
+5520	War Management	การจัดการสงคราม
+5521	Revive Point A	รีไวฟ์ จุด A
+5522	Revive Point B	รีไวฟ์ พอยท์บี
+5523	Revive Point C	รีไวฟ์พอยต์ซี
+5524	Revive Point D	รีไวฟ์พอยต์ D
+5525	Revive Point E	รีไวฟ์พอยท์อี
+5526	Use the Turret	ใช้ป้อมปืน
+5527	End Transform.	สิ้นสุดการแปลง
+5528	${1}'s Profile	โปรไฟล์ของ${1}
+5529	NPC not found.	ไม่พบ NPC
+5530	Item not found	ไม่พบรายการ
+5531	Mail conflict.	เมลขัดแย้งกัน
+5532	Three Costumes	สามชุด
+5533	Fashion Legend	ตำนานแฟชั่น
+5534	Fashion Leader	ผู้นำด้านแฟชั่น
+5535	Fashion Rookie	แฟชั่นมือใหม่
+5536	Wine and Tales	ไวน์และนิทาน
+5537	Savor the Wine	ดื่มด่ำไปกับไวน์
+5538	MVP Terminator	MVP เทอร์มิเนเตอร์
+5539	Talent Mastery	ความเชี่ยวชาญด้านพรสวรรค์
+5540	Refine: Legend	ปรับแต่ง: ตำนาน
+5541	Refine: Expert	ปรับแต่ง: ผู้เชี่ยวชาญ
+5542	First Illusion	ภาพลวงตาครั้งแรก
+5543	Crimson Legend	สีแดงเข้ม ตำนาน
+5544	Acolyte Mentor	ศิษย์พี่เลี้ยง
+5545	Lord of Amatsu	เจ้าแห่งอามัตสึ
+5546	Rhine sent me.	Rhine ส่งมาครับ
+5547	Damage/Healing	Damage/Healing
+5548	Skill Supplies	อุปกรณ์ทักษะ
+5549	Victory Points	แต้มชัยชนะ
+5550	Spectator Mode	โหมดผู้ชม
+5551	R-Rabbit head?	R-หัวกระต่าย?
+5552	Cancel Changes	ยกเลิกการเปลี่ยนแปลง
+5553	Sapling Status	สถานะต้นอ่อน
+5554	Quest accepted	ยอมรับภารกิจแล้ว
+5555	Skill upgraded	อัปเกรดทักษะแล้ว
+5556	Pirate Phantom	แฟนทอมโจรสลัด
+5557	Damage Sharing	การแบ่งปันความเสียหาย
+5558	Birchwood Cart	รถเข็นไม้เบิร์ช
+5559	Party Training	การฝึกอบรมปาร์ตี้
+5560	Not Configured	ไม่ได้กำหนดค่า
+5561	PATK increased	PATK เพิ่มขึ้น
+5562	Generic Freeze	การตรึงทั่วไป
+5563	Potion Healing	ยารักษา
+5564	Luck Resonance	เสียงสะท้อนโชคลาภ
+5565	Warg Accessory	อุปกรณ์เสริม Warg
+5566	Not Challenged	ไม่ถูกท้าทาย
+5567	Rising Resolve	แก้ไขที่เพิ่มขึ้น
+5568	Continual Burn	เบิร์นอย่างต่อเนื่อง
+5569	Blackhole Pull	ตัวดึงหลุมดำ
+5570	Turn Left @{1}	เลี้ยวซ้าย@{1}
+5571	Outer Ring AOE	วงแหวนรอบนอก AOE
+5572	Silk Spit @{1}	ไหมถ่มน้ำลาย@{1}
+5573	Enter Wormhole	เข้าสู่รูหนอน
+5574	Haze Formation	การก่อตัวของหมอกควัน
+5575	Samurai's Fury	ความโกรธเกรี้ยวของซามูไร
+5576	Execution Time	เวลาดำเนินการ
+5577	Demonic Miasma	ปีศาจร้าย
+5578	Law of Offense	กฎหมายความผิด
+5579	Life Extension	การยืดอายุ
+5580	Rapid Recovery	การกู้คืนอย่างรวดเร็ว
+5581	Stunning Smash	ทุบอย่างน่าทึ่ง
+5582	Falcon's Might	พลังของเหยี่ยว
+5583	Entrapping Net	ตาข่ายดักจับ
+5584	Double Assault	โจมตีสองครั้ง
+5585	Stroke of Luck	จังหวะแห่งโชค
+5586	Rolling Cutter	เครื่องตัดโรลลิ่งส
+5587	Slow Dimension	มิติที่ช้า
+5588	[Hard-Pharaoh]	[ฮาร์ด-ฟาโรห์]
+5589	[Normal-Nasha]	[ปกติ-นาชา]
+5590	[Normal-Mirko]	[ปกติ-Mirko]
+5591	[Normal-Drake]	[ธรรมดา-เดรก]
+5592	Dewata Village	หมู่บ้านเดวาตา
+5593	Level Increased	เพิ่มขึ้น
+5594	${1}${2} X ${3}	${1}${2}X${3}
+5595	Function locked	ล็อคฟังก์ชันแล้ว
+5596	Forbidden Wilds	ป่าต้องห้าม
+5597	Feature Preview	ดูตัวอย่างคุณสมบัติ
+5598	Speedrun Report	รายงานสปีดรัน
+5599	Bunny Hair Band	ยางรัดผมกระต่าย
+5600	Golden Headwear	หมวกทองคำ
+5601	Vampire Hairpin	กิ๊บติดผมแวมไพร์
+5602	Academy Journal	วารสารวิชาการ
+5603	Reaper's Scythe	เคียวของยมทูต
+5604	Giant Bow Scarf	ผ้าพันคอโบว์ยักษ์
+5605	Goddess of Hope	เทพีแห่งความหวัง
+5606	Hodremlin Sword	ดาบฮอเดรมลิน
+5607	Hundred Million	ร้อยล้าน
+5608	Redemption Rate	การแลก
+5609	Skeleton Worker	คนงานโครงกระดูก
+5610	Pirate Skeleton	โครงกระดูกโจรสลัด
+5611	Archer Skeleton	โครงกระดูกธนู
+5612	Goblin (Dagger)	ก็อบลิน (กริช)
+5613	Goblin (Hammer)	ก็อบลิน (ค้อน)
+5614	Unseal for Free	Unseal for Free
+5615	Advanced Unseal	การปิดผนึกขั้นสูง
+5616	Ultimate Unseal	สุดยอดการปิดผนึก
+5617	Begin Unsealing	เริ่มการเปิดผนึก
+5618	Not enough ${1}	ไม่เพียงพอ${1}
+5619	Cargo Placement	การจัดวางสินค้า
+5620	View My Journey	ดูการเดินทางของฉัน
+5621	Trophy Showcase	ตู้โชว์ถ้วยรางวัล
+5622	Stage ${1}/${2}	สเตจ${1}/${2}
+5623	Totem Magic ATK	พลังโจมตีเวทย์โทเทม
+5624	Crit Resistance	ต้านทานคริติคอล
+5625	Hunting Mastery	ความเชี่ยวชาญด้านการล่าสัตว์
+5626	Neutral Damage%	ความเสียหายที่เป็นกลาง%
+5627	Stun Resistance	ต้านทานการสตัน
+5628	Burn Resistance	ต้านทานการเผาไหม้
+5629	Fear Resistance	ต้านทานความกลัว
+5630	Dark Resistance	ต้านทานความมืด
+5631	Slow Resistance	ต้านทานช้า
+5632	Can Take Damage	สามารถรับความเสียหายได้
+5633	Darkness Radius	รัศมีความมืด
+5634	Selection Range	ช่วงการเลือก
+5635	Encounter Eddga	เผชิญหน้า Eddga
+5636	Feed the Deniro	ให้อาหารเดนิโร
+5637	Monsters Attack	การโจมตีของมอนสเตอร์
+5638	Season Overview	ภาพรวมฤดูกาล
+5639	Season Trophies	Season Trophies
+5640	Veteran Rewards	รางวัลทหารผ่านศึก
+5641	Ranks ${1}-${2}	อันดับ${1}-${2}
+5642	Appearance Gift	ของขวัญรูปลักษณ์
+5643	Advanced Attack	การโจมตีขั้นสูง
+5644	% FLEE Increase	% ระยะโจมตีเพิ่มขึ้น
+5645	% CRIT Increase	% เพิ่มคริติคอล
+5646	% Skill MP Cost	% ค่าใช้จ่าย MP ทักษะ
+5647	Ride the Deniro	ขี่เดนิโร
+5648	Defeat Baphomet	เอาชนะบาโฟเมต
+5649	Prototype Trial	การทดลองต้นแบบ
+5650	Listing Removed	ลบรายการออกแล้ว
+5651	Guild disbanded	กิลด์ถูกยุบ
+5652	Ranking Rewards	กฎการจัดอันดับ
+5653	Cancel Auto-Bid	ยกเลิกการประมูลอัตโนมัติ
+5654	Purchase Failed	ล้มเหลว
+5655	Guild Gift Pack	ชุดของขวัญกิลด์
+5656	Revive Disabled	Revive ปิดใช้งานอยู่
+5657	Sylvanas Statue	รูปปั้นซิลวานัส
+5658	Redemption Code	รหัสแลกรางวัล
+5659	Enter gift code	ใส่รหัสของขวัญ
+5660	Survey Deadline	กำหนดเวลาการสำรวจ
+5661	Participate Now	เข้าร่วมทันที
+5662	Valhalla Trials	การทดลอง Valhalla
+5663	Organize (${1})	จัดระเบียบ (${1})
+5664	Sort by Quality	เรียงตามคุณภาพ
+5665	Job Restriction	ข้อจำกัดงาน
+5666	Attribute Range	ช่วงแอตทริบิวต์
+5667	Faceless Singer	นักร้องไร้หน้า
+5668	Starlight Crown	มงกุฎสตาร์ไลท์
+5669	Moonlight Crown	มงกุฎแสงจันทร์
+5670	Potion Settings	การตั้งค่าโพชั่น
+5671	Exploration Map	แผนที่สำรวจ
+5672	Donate Crystals	บริจาคคริสตัล
+5673	Obtain Crystals	รับคริสตัล
+5674	Invite to Party	เชิญมาปาร์ตี้
+5675	Invite to Guild	เชิญเข้ากิลด์
+5676	Return to Login	กลับสู่การเข้าสู่ระบบ
+5677	Earn a C rating	ได้รับคะแนน C
+5678	Earn a B Rating	ได้รับคะแนน B
+5679	Find the Client	ค้นหาลูกค้า
+5680	Go to the Scene	ไปที่ฉาก
+5681	Attack No. @{1}	Attack No.@{1}
+5682	Face the crisis	เผชิญวิกฤติ
+5683	Read the letter	อ่านจดหมาย
+5684	Reset succeeded	รีเซ็ตสำเร็จแล้ว
+5685	Tap to activate	แตะเพื่อเปิดใช้งาน
+5686	Level-up Effect	เอฟเฟกต์การเลเวลอัป
+5687	Shadow Assassin	นักฆ่าเงา
+5688	Ice and Thunder	น้ำแข็งและฟ้าร้อง
+5689	Increase Attack	เพิ่มพลังโจมตี
+5690	Points Are King	คะแนนคือราชา
+5691	Instant respawn	เกิดใหม่ทันที
+5692	Teleport Prompt	พร้อมท์เทเลพอร์ต
+5693	Right Accessory	อุปกรณ์เสริมด้านขวา
+5694	Don't Downgrade	อย่าดาวน์เกรด
+5695	Enhance Lv.${1}	เสริมเลเวล${1}
+5696	MINI Activities	กิจกรรมมินิ
+5697	War of Emperium	สงครามเอ็มเพอเรียม
+5698	Standard Search	กฎการอัญเชิญพูลมาตรฐาน
+5699	Dracula's Bride	เจ้าสาวของแดร็กคูล่า
+5700	Universal Mount	ตัวยึดอเนกประสงค์
+5701	Stat Priorities	สถิติ
+5702	Survivor Battle	การต่อสู้ของผู้รอดชีวิต
+5703	Dumby's Request	คำขอของดัมบี้
+5704	Book Collection	ชุดหนังสือ
+5705	Appearance Shop	ลักษณะร้าน
+5706	Rift in the Sky	รอยแยกบนท้องฟ้า
+5707	Pending Listing	รายการรอดำเนินการ
+5708	Free after ${1}	ฟรีหลังจาก${1}
+5709	Penalty Details	รายละเอียดบทลงโทษ
+5710	Frozen Proceeds	รายได้ที่แช่แข็ง
+5711	Purchase Price:	ราคาซื้อ:
+5712	Collection Card	การ์ดคอลเลกชัน
+5713	Other Materials	วัสดุอื่นๆ
+5714	Deluxe Gift Box	กล่องของขวัญดีลักซ์
+5715	Max Vigor +@{1}	พลังสูงสุด +@{1}
+5716	Player is dead.	ผู้เล่นเสียชีวิต
+5717	Dear PlayerName	เรียนผู้เล่นทุกท่าน
+5718	Sprout Emblem I	สัญลักษณ์ Sprout I
+5719	Sprouting Stage	ระยะการแตกหน่อ
+5720	Rental Canceled	ยกเลิกการเช่าแล้ว
+5721	Dummy Challenge	ท้าดัมมี่
+5722	Search History:	ประวัติการค้นหา:
+5723	Remaining: ${1}	ที่เหลืออยู่:${1}
+5724	Exchange failed	ล้มเหลว
+5725	No chat history	ไม่มีประวัติการแชท
+5726	${1} is online!	${1}ออนไลน์อยู่!
+5727	Search Results:	ผลการค้นหา:
+5728	Intimacy Level:	ระดับความใกล้ชิด:
+5729	Already Friends	เป็นเพื่อนกันแล้ว
+5730	Top Ten Players	ผู้เล่นสิบอันดับแรก
+5731	Mute Voice Chat	ปิดเสียงแชท
+5732	Convert to Raid	แปลงเป็นการโจมตี
+5733	Lv.${1}~Lv.${2}	เลเวล${1}~เลเวล${2}
+5734	Party Objective	วัตถุประสงค์ของพรรค
+5735	${1}d ${2}h ago	${1}และ${2}มาแล้ว
+5736	${1}h ${2}m ago	${1}ชม${2}ม.ที่แล้ว
+5737	Confirm Changes	ยืนยันการเปลี่ยนแปลง
+5738	Purchase Orders	ใบสั่งซื้อ
+5739	Supply Quantity	ปริมาณการจัดหา
+5740	Process Request	ดำเนินการร้องขอ
+5741	Escort Supplies	อุปกรณ์คุ้มกัน
+5742	Stored Supplies	วัสดุสิ้นเปลืองที่จัดเก็บ
+5743	Resetting: ${1}	กำลังรีเซ็ต:${1}
+5744	Enable Auto-Bid	เปิดใช้งานการเสนอราคาอัตโนมัติ
+5745	Wind Resistance	กันลม
+5746	Fire Resistance	ทนไฟ
+5747	Holy Resistance	ความต้านทานอันศักดิ์สิทธิ์
+5748	Cancel Response	ยกเลิกการตอบกลับ
+5749	Valid for: ${1}	ใช้ได้กับ:${1}
+5750	Display Filters	ตัวกรองการแสดงผล
+5751	Weekly Activity	กิจกรรมรายสัปดาห์
+5752	Confirm Removal	ยืนยันการลบออก
+5753	Over ${1} hours	เกิน${1}ชั่วโมง
+5754	Change Position	เปลี่ยนตำแหน่ง
+5755	${1} months ago	${1}หลายเดือนก่อน
+5756	Loading...${1}%	กำลังโหลด...${1}%
+5757	Opens Wednesday	เปิดวันพุธ
+5758	My Aid Requests	คำขอความช่วยเหลือของฉัน
+5759	Guild Inventory	สินค้าคงคลังกิลด์
+5760	Actual Earnings	รายได้จริง
+5761	Online Members:	สมาชิกออนไลน์:
+5762	Multiplayer PvP	PvP ผู้เล่นหลายคน
+5763	Training Ground	สนามฝึกซ้อม
+5764	Whaleback Chute	รางน้ำหลังวาฬ
+5765	Yggdrasil Totem	อิกดราซิล โทเท็ม
+5766	Card: Ambernite	การ์ด: แอมเบอร์ไนต์
+5767	Healing Ranking	อันดับการรักษา
+5768	Card: Peco Peco	การ์ด: Peco Peco
+5769	Card: Dustiness	การ์ด: ฝุ่น
+5770	Card: Frilldora	การ์ด: Frilldora
+5771	Card: Wild Rose	การ์ด: กุหลาบป่า
+5772	Card: Stem Worm	การ์ด: สเต็มเวิร์ม
+5773	Card: Alligator	การ์ด: จระเข้
+5774	Card: Sasquatch	การ์ด: แซสควอทช์
+5775	Card: Swordfish	การ์ด: ปลานาก
+5776	Card: Ghostring	การ์ด: โกสต์ริง
+5777	Card: Pot Dofle	การ์ด: หม้อโดฟเฟิล
+5778	Card: Mastering	: การเรียนรู้
+5779	Card: Nine-Tail	การ์ด: เก้าหาง
+5780	Card: Nightmare	การ์ด: ฝันร้าย
+5781	Card: Deviruchi	การ์ด: เดวิรุจิ
+5782	Ball Catch Buff	บัฟจับบอล
+5783	Reply @{1}% HP.	ตอบ@{1}% HP
+5784	Transform: Blue	การแปลง: สีน้ำเงิน
+5785	Impositio Manus	ความไม่แน่นอนมนัส
+5786	Cart Remodeling	การปรับปรุงรถเข็น
+5787	Cart Revolution	การปฏิวัติรถเข็น
+5788	Gunpowder Throw	ขว้างดินปืน
+5789	Adrenaline Rush	อะดรีนาลีนพุ่งพล่าน
+5790	Heavy Axe Smash	ทุบขวานหนัก
+5791	Throw Live Coal	ขว้างถ่านหินสด
+5792	Jupitel Thunder	จูปิเทล ธันเดอร์
+5793	Double Pressure	แรงดันสองเท่า
+5794	Pinpoint Attack	ระบุการโจมตี
+5795	Attack in Place	Attack in Place
+5796	Character Voice	เสียงตัวละคร
+5797	Target Priority	ลำดับความสำคัญเป้าหมาย
+5798	Selected Target	เป้าหมายที่เลือก
+5799	You and Enemies	คุณและศัตรู
+5800	General Display	จอแสดงผลทั่วไป
+5801	System Settings	ร้านระบบ
+5802	Follow-Up Logic	ลอจิกติดตามผล
+5803	Restore default	คืนค่าเริ่มต้น
+5804	Slide Shockwave	สไลด์โช๊คเวฟ
+5805	Jellyfish Spawn	วางไข่แมงกะพรุน
+5806	Skill@{1} Sleep	ทักษะ@{1}นอนหลับ
+5807	Cluster Missile	ขีปนาวุธคลัสเตอร์
+5808	Chain Lightning	โซ่สายฟ้า
+5809	Explosive Arrow	ลูกศรระเบิด
+5810	Wobbling Goblin	ก็อบลินโยกเยก
+5811	Doragon Landing	โดรากอนแลนดิ้ง
+5812	Greedy Fire Ant	มดไฟโลภ
+5813	Summon Bombring	อัญเชิญระเบิด
+5814	Terrifying Roar	เสียงคำรามอันน่าสะพรึงกลัว
+5815	Blade Whirlwind	ใบมีดลมกรด
+5816	Petrifying Mist	สเปรย์หิน
+5817	Stinger Assault	การโจมตีด้วยเหล็กไน
+5818	Stinger Barrage	เขื่อนกั้นน้ำเหล็กไน
+5819	Tracking Horong	ติดตาม Horong
+5820	Falling Beehive	รังผึ้งร่วงหล่น
+5821	Coffin Eruption	การปะทุของโลงศพ
+5822	Roaming Tempest	พายุโรมมิ่ง
+5823	Tap to continue	แตะเพื่อดำเนินการต่อ
+5824	Overall Ranking	อันดับโดยรวม
+5825	Faction Ranking	การจัดอันดับฝ่าย
+5826	Available Time:	Available Time:
+5827	Stunning Tremor	อาการสั่นที่น่าทึ่ง
+5828	Abominable Roar	คำรามที่น่ารังเกียจ
+5829	Spreading Curse	คำสาปที่แพร่กระจาย
+5830	Malicious Curse	Malicious Curse
+5831	Nightmare Stomp	ฝันร้ายกระทืบ
+5832	Lightning Surge	ไฟกระชากฟ้าผ่า
+5833	Iron Ball Smash	ทุบลูกเหล็ก
+5834	Multiple Damage	ความเสียหายหลายรายการ
+5835	Beginner Season	ฤดูกาลเริ่มต้น
+5836	Americas Server	เซิร์ฟเวอร์อเมริกา
+5837	Invitation Code	รหัสเชิญ
+5838	Blink Alternate	กะพริบสลับกัน
+5839	Rockbreaker@{1}	ร็อคเกอร์@{1}
+5840	Mark Target@{1}	ทำเครื่องหมายเป้าหมาย@{1}
+5841	Player Link@{1}	ลิงค์ผู้เล่น@{1}ข้อความผู้เล่น
+5842	Ultimate - Easy	สุดยอด - ง่าย
+5843	Horong Tracking	การติดตาม Horong
+5844	Full-Arena Wave	คลื่นเต็มอารีน่า
+5845	Obtain Red Note	รับบันทึกสีแดง
+5846	Knight Note@{1}	ไนท์โน้ต@{1}
+5847	Hunter Note@{1}	ฮันเตอร์โน้ต@{1}
+5848	Priest Note@{1}	หมายเหตุนักบวช@{1}
+5849	Unyielding Will	ความตั้งใจอันแน่วแน่
+5850	Wolf Pack Disco	Wolf Pack ดิสโก้
+5851	Piercing Shadow	เงาเจาะ
+5852	Remix Resonance	รีโซแนนซ์รีโซแนนซ์
+5853	Resonance Focus	โฟกัสเรโซแนนซ์
+5854	Angel Incarnate	นางฟ้าจุติ
+5855	S@{1}Soul Burst	S@{1}วิญญาณระเบิด
+5856	Eddga New Skill	Eddga ทักษะใหม่
+5857	Dragon Training	การฝึกมังกร
+5858	Supersonic Blow	ระเบิดเหนือเสียง
+5859	Envenomed Blade	ใบมีดพิษ
+5860	Elemental Shock	โช้คธาตุ
+5861	Frost Explosion	การระเบิดของน้ำแข็ง
+5862	Element Control	การควบคุมองค์ประกอบ
+5863	(Trophy Series)	(ชุดถ้วยรางวัล)
+5864	Trophy Level-up	ถ้วยรางวัลระดับขึ้น
+5865	Six Stats +${1}	หกสถิติ +${1}
+5866	Letter Received	ได้รับจดหมายแล้ว
+5867	${1} Conditions	เงื่อนไข${1}
+5868	Card Leveled up	การ์ดเลเวลอัพแล้ว
+5869	Currently Using	กำลังใช้งานอยู่
+5870	No active Bonds	ไม่มีพันธบัตรที่ใช้งานอยู่
+5871	No Bonds active	ไม่มีพันธบัตรที่ใช้งานอยู่
+5872	Active (${1}/3)	ใช้งานอยู่ (${1}/3)
+5873	${1} Collection	${1}คอลเลคชั่น
+5874	Prefecture @{1}	จังหวัด@{1}
+5875	Growth Training	การฝึกการเติบโต
+5876	Change Off-Hand	เปลี่ยนมือรอง
+5877	Batch Appraisal	การประเมินแบทช์
+5878	Costume Preview	ตัวอย่างเครื่องแต่งกาย
+5879	EXP Gain: ${1}%	EXP ที่ได้รับ:${1}%
+5880	Gathering Tribe	รวมเผ่า
+5881	Undersea Tunnel	อุโมงค์ใต้ทะเล
+5882	Map Coordinates	พิกัดแผนที่
+5883	Recovery Skills	ทักษะการฟื้นฟู
+5884	Priority Skills	ทักษะลำดับความสำคัญ
+5885	Lineup Settings	โบนัสสถิติผู้เล่นตัวจริง
+5886	Build Resonance	สร้างเสียงสะท้อน
+5887	System Function	เมนูฟังก์ชั่นระบบ
+5888	No new messages	ไม่มีข้อความใหม่
+5889	Release to Send	ปล่อยเพื่อส่ง
+5890	Channel Members	สมาชิกช่อง
+5891	Note Pillar@{1}	หมายเหตุเสา@{1}
+5892	Shield Crusader	ชิลด์ ครูเซเดอร์
+5893	Ambush Assassin	ซุ่มโจมตีนักฆ่า
+5894	Blessing Priest	ถวายพระพร
+5895	Greedy Oshitose	โอชิโตสโลภ
+5896	Fafnir's Scales	เครื่องชั่งของ Fafnir
+5897	Fixed Direction	ทิศทางคงที่
+5898	Singing NPC@{1}	ร้องเพลง NPC@{1}
+5899	Rocket Launcher	เครื่องยิงจรวด
+5900	Lightning Raven	สายฟ้าอีกา
+5901	Knight Guardian	อัศวินผู้พิทักษ์
+5902	Archer Guardian	อาร์เชอร์การ์เดียน
+5903	Stronghold Flag	ธงฐานที่มั่น
+5904	Zombie Prisoner	นักโทษซอมบี้
+5905	Kindhearted Man	ผู้ชายใจดี
+5906	Focused Fengbao	เน้นเฟิงเปา
+5907	Combat Supplies	อุปกรณ์การต่อสู้
+5908	Elite Megalodon	อีลิท เมกาโลดอน
+5909	HP Dragon Blood	HP เลือดมังกร
+5910	Knight's Member	สมาชิกอัศวิน
+5911	Shrimp Merchant	พ่อค้ากุ้ง
+5912	Rewards Manager	ผู้จัดการรางวัล
+5913	Morroc Villager	ชาวบ้าน Morroc
+5914	Quest Timed Out	หมดเวลา
+5915	Southeast Payon	ตะวันออกเฉียงใต้ Payon
+5916	Southern Sograt	โซกราตใต้
+5917	Grand Cathedral	มหาวิหารใหญ่
+5918	Territory War-I	สงครามดินแดน-I
+5919	Territory War-V	สงครามดินแดน-V
+5920	Strange Machine	เครื่องประหลาด
+5921	Puddle of Honey	แอ่งน้ำน้ำผึ้ง
+5922	Marching Hornet	แตนเดินทัพ
+5923	Blue Bubble NPC	บลู บับเบิ้ล NPC
+5924	Demo Test Dummy	หุ่นทดสอบสาธิต
+5925	Mistress-Normal	นายหญิง-ปกติ
+5926	Baphomet-Normal	บาโฟเมต-ปกติ
+5927	Drake-Very Hard	Drake-ยากมาก
+5928	Drake-Nightmare	เดรค-ไนท์แมร์
+5929	Starting Lineup	รายการเริ่มต้น
+5930	Clear Time ${1}	เวลาเคลียร์${1}
+5931	Go to Formation	ไปที่รูปแบบ
+5932	Quick Challenge	ความท้าทายด่วน
+5933	Confirm Filters	ยืนยันตัวกรอง
+5934	Back to Current	กลับสู่ปัจจุบัน
+5935	Ragnarok Online	Ragnarok Online
+5936	Fated Encounter	การเผชิญหน้าแห่งโชคชะตา
+5937	Kindred Spirits	คินเรด สปิริต
+5938	Matching Hearts	หัวใจที่ตรงกัน
+5939	Challenge Again	ท้าทายอีกครั้ง
+5940	Total Earnings:	รายได้รวม:
+5941	About to start…	กำลังจะเริ่มต้น…
+5942	Level: No Limit	: ไม่มีขีดจำกัด
+5943	Damage Increase	ความเสียหายเพิ่มขึ้น
+5944	Critical Chance	โอกาสวิกฤติ
+5945	Current Ability	ความสามารถปัจจุบัน
+5946	Challenge Eddga	ท้าทาย Eddga
+5947	Tritura Academy	สถาบันทริทูรา
+5948	Core Management	การจัดการหลัก
+5949	Approval Method	Approval Method
+5950	Guild Prestige:	ศักดิ์ศรีกิลด์:
+5951	Cancel Creation	ยกเลิกการสร้าง
+5952	Donation Amount	จำนวนบริจาค
+5953	Guild Activity:	:
+5954	Invite Not Sent	ไม่ได้ส่งคำเชิญ
+5955	After the merge	หลังจากการควบรวมกิจการ
+5956	No Applications	ไม่มีแอปพลิเคชัน
+5957	Adventurer Camp	ค่ายนักผจญภัย
+5958	Battle Baphomet	แบทเทิลบาโฟเมต
+5959	A Fond Farewell	การอำลาด้วยความรัก
+5960	Monsters Appear	มอนสเตอร์ปรากฏตัว
+5961	Space-Time Gate	ประตูอวกาศ-เวลา
+5962	New Inspiration	แรงบันดาลใจใหม่
+5963	Allen's Request	คำขอของอัลเลน
+5964	Plan Successful	สำเร็จ
+5965	Bob's Thank You	ขอบคุณบ๊อบ
+5966	Strivers' Guild	กิลด์ Strivers
+5967	Return the Ring	คืนวงแหวน
+5968	Wine Like Blood	ไวน์ดุจเลือด
+5969	Fight Alongside	สู้เคียงข้าง
+5970	Typewriter @{1}	@{1}สเกล UI
+5971	Learning Skills	ทักษะการเรียนรู้
+5972	Glowing Compass	เข็มทิศเรืองแสง
+5973	Crashed Airship	เรือเหาะตก
+5974	Activated Stats	สถิติที่เปิดใช้งาน
+5975	Can be unlocked	สามารถปลดล็อคได้
+5976	Next Star Level	ระดับดาวถัดไป
+5977	After Unlocking	หลังจากปลดล็อค
+5978	Go to Dismantle	ไปที่การรื้อถอน
+5979	Hatching Chance	โอกาสฟักไข่
+5980	Cooldown: ${1}s	:${1}วินาที
+5981	Draw ${1} Times	วาด${1}ครั้ง
+5982	Rookie@{1} Rank	Rookie อันดับ@{1}
+5983	Enter here, bo~	เข้ามาที่นี่ โบ~
+5984	Select Ostrich.	เลือกนกกระจอกเทศ
+5985	Ready to Enter!	พร้อมเข้าอยู่!
+5986	Enter Realm Map	เข้าสู่แผนที่อาณาจักร
+5987	Please be safe.	ขอให้ปลอดภัยนะครับ
+5988	Phew... Phew...	ฟิ้ว... ฟิ้ว...
+5989	Deliver Vehicle	ส่งมอบรถ
+5990	Submit Supplies	ส่งวัสดุสิ้นเปลือง
+5991	I like you too!	ฉันก็ชอบคุณเหมือนกัน!
+5992	Cough, cough...	ไอ ไอ...
+5993	Reset Challenge	รีเซ็ตความท้าทาย
+5994	Auction Rewards	Auction Rewards
+5995	Start Challenge	เริ่มการท้าทาย
+5996	Confirm Abandon	ยืนยันการละทิ้ง
+5997	Bonfire Ability	ความสามารถกองไฟ
+5998	Cooking Rewards	รางวัลการทำอาหาร
+5999	Large Emote@{1}	อิโมติคอนขนาดใหญ่@{1}
+6000	Nothing, really	ไม่มีอะไรจริงๆ

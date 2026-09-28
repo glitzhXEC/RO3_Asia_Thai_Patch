@@ -1,0 +1,245 @@
+[
+  {
+    "part": 1,
+    "filename": "part_01_00001_01000.tsv",
+    "items": 1000,
+    "total_chars": 4776,
+    "already_translated": 927,
+    "min_len": 1,
+    "max_len": 7
+  },
+  {
+    "part": 2,
+    "filename": "part_02_01001_02000.tsv",
+    "items": 1000,
+    "total_chars": 8107,
+    "already_translated": 964,
+    "min_len": 7,
+    "max_len": 9
+  },
+  {
+    "part": 3,
+    "filename": "part_03_02001_03000.tsv",
+    "items": 1000,
+    "total_chars": 10345,
+    "already_translated": 969,
+    "min_len": 9,
+    "max_len": 11
+  },
+  {
+    "part": 4,
+    "filename": "part_04_03001_04000.tsv",
+    "items": 1000,
+    "total_chars": 11727,
+    "already_translated": 975,
+    "min_len": 11,
+    "max_len": 12
+  },
+  {
+    "part": 5,
+    "filename": "part_05_04001_05000.tsv",
+    "items": 1000,
+    "total_chars": 13182,
+    "already_translated": 980,
+    "min_len": 12,
+    "max_len": 14
+  },
+  {
+    "part": 6,
+    "filename": "part_06_05001_06000.tsv",
+    "items": 1000,
+    "total_chars": 14408,
+    "already_translated": 981,
+    "min_len": 14,
+    "max_len": 15
+  },
+  {
+    "part": 7,
+    "filename": "part_07_06001_07000.tsv",
+    "items": 1000,
+    "total_chars": 15678,
+    "already_translated": 977,
+    "min_len": 15,
+    "max_len": 16
+  },
+  {
+    "part": 8,
+    "filename": "part_08_07001_08000.tsv",
+    "items": 1000,
+    "total_chars": 17164,
+    "already_translated": 979,
+    "min_len": 16,
+    "max_len": 18
+  },
+  {
+    "part": 9,
+    "filename": "part_09_08001_09000.tsv",
+    "items": 1000,
+    "total_chars": 18583,
+    "already_translated": 974,
+    "min_len": 18,
+    "max_len": 19
+  },
+  {
+    "part": 10,
+    "filename": "part_10_09001_10000.tsv",
+    "items": 1000,
+    "total_chars": 20189,
+    "already_translated": 977,
+    "min_len": 19,
+    "max_len": 21
+  },
+  {
+    "part": 11,
+    "filename": "part_11_10001_11000.tsv",
+    "items": 1000,
+    "total_chars": 21858,
+    "already_translated": 971,
+    "min_len": 21,
+    "max_len": 23
+  },
+  {
+    "part": 12,
+    "filename": "part_12_11001_12000.tsv",
+    "items": 1000,
+    "total_chars": 23736,
+    "already_translated": 975,
+    "min_len": 23,
+    "max_len": 25
+  },
+  {
+    "part": 13,
+    "filename": "part_13_12001_13000.tsv",
+    "items": 1000,
+    "total_chars": 25899,
+    "already_translated": 971,
+    "min_len": 25,
+    "max_len": 27
+  },
+  {
+    "part": 14,
+    "filename": "part_14_13001_14000.tsv",
+    "items": 1000,
+    "total_chars": 28155,
+    "already_translated": 972,
+    "min_len": 27,
+    "max_len": 29
+  },
+  {
+    "part": 15,
+    "filename": "part_15_14001_15000.tsv",
+    "items": 1000,
+    "total_chars": 30847,
+    "already_translated": 968,
+    "min_len": 29,
+    "max_len": 32
+  },
+  {
+    "part": 16,
+    "filename": "part_16_15001_16000.tsv",
+    "items": 1000,
+    "total_chars": 33846,
+    "already_translated": 979,
+    "min_len": 32,
+    "max_len": 35
+  },
+  {
+    "part": 17,
+    "filename": "part_17_16001_17000.tsv",
+    "items": 1000,
+    "total_chars": 37321,
+    "already_translated": 974,
+    "min_len": 35,
+    "max_len": 39
+  },
+  {
+    "part": 18,
+    "filename": "part_18_17001_18000.tsv",
+    "items": 1000,
+    "total_chars": 41564,
+    "already_translated": 961,
+    "min_len": 39,
+    "max_len": 44
+  },
+  {
+    "part": 19,
+    "filename": "part_19_18001_19000.tsv",
+    "items": 1000,
+    "total_chars": 46212,
+    "already_translated": 968,
+    "min_len": 44,
+    "max_len": 49
+  },
+  {
+    "part": 20,
+    "filename": "part_20_19001_20000.tsv",
+    "items": 1000,
+    "total_chars": 51950,
+    "already_translated": 971,
+    "min_len": 49,
+    "max_len": 55
+  },
+  {
+    "part": 21,
+    "filename": "part_21_20001_21000.tsv",
+    "items": 1000,
+    "total_chars": 59716,
+    "already_translated": 979,
+    "min_len": 55,
+    "max_len": 65
+  },
+  {
+    "part": 22,
+    "filename": "part_22_21001_22000.tsv",
+    "items": 1000,
+    "total_chars": 70328,
+    "already_translated": 971,
+    "min_len": 65,
+    "max_len": 77
+  },
+  {
+    "part": 23,
+    "filename": "part_23_22001_23000.tsv",
+    "items": 1000,
+    "total_chars": 84620,
+    "already_translated": 975,
+    "min_len": 77,
+    "max_len": 94
+  },
+  {
+    "part": 24,
+    "filename": "part_24_23001_24000.tsv",
+    "items": 1000,
+    "total_chars": 106594,
+    "already_translated": 983,
+    "min_len": 94,
+    "max_len": 120
+  },
+  {
+    "part": 25,
+    "filename": "part_25_24001_25000.tsv",
+    "items": 1000,
+    "total_chars": 140316,
+    "already_translated": 982,
+    "min_len": 120,
+    "max_len": 165
+  },
+  {
+    "part": 26,
+    "filename": "part_26_25001_26000.tsv",
+    "items": 1000,
+    "total_chars": 202179,
+    "already_translated": 987,
+    "min_len": 165,
+    "max_len": 259
+  },
+  {
+    "part": 27,
+    "filename": "part_27_26001_26615.tsv",
+    "items": 615,
+    "total_chars": 268903,
+    "already_translated": 603,
+    "min_len": 259,
+    "max_len": 4783
+  }
+]

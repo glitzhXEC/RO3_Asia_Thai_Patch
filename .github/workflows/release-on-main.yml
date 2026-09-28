@@ -1,0 +1,175 @@
+name: Release on main
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-main
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: windows-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate Thai translation payload
+        shell: pwsh
+        run: |
+          python scripts/validate-thai-payload.py
+          if ($LASTEXITCODE -ne 0) { throw 'Thai payload validation failed' }
+
+      - name: Test installer and recovery
+        shell: pwsh
+        run: |
+          python scripts/test-installer-paths.py
+          if ($LASTEXITCODE -ne 0) { throw 'Installer tests failed' }
+          python scripts/test-recovery.py
+          if ($LASTEXITCODE -ne 0) { throw 'Recovery tests failed' }
+
+      - name: Require rebuilt patcher DLL when patcher source changes
+        shell: pwsh
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          if ([string]::IsNullOrWhiteSpace($env:BEFORE_SHA) -or
+              $env:BEFORE_SHA -match '^0+$') {
+            Write-Host 'No usable previous SHA; skipping source/DLL pairing guard.'
+            exit 0
+          }
+          $changed = @(git diff --name-only $env:BEFORE_SHA $env:GITHUB_SHA)
+          $sourceChanged = @($changed | Where-Object {
+            $_ -like 'src/RO3.LocalizationTablePatcher/*.cs'
+          }).Count -gt 0
+          $dllChanged = $changed -contains 'Client/BepInEx/plugins/RO3.LocalizationTablePatcher.dll'
+          if ($sourceChanged -and -not $dllChanged) {
+            throw 'Patcher source changed without the tracked RO3.LocalizationTablePatcher.dll being rebuilt.'
+          }
+          Write-Host "Patcher source changed: $sourceChanged"
+          Write-Host "Tracked patcher DLL changed: $dllChanged"
+
+      - name: Resolve release version
+        id: version
+        shell: pwsh
+        run: |
+          $bangkok = [TimeZoneInfo]::ConvertTimeBySystemTimeZoneId(
+            [DateTimeOffset]::UtcNow,
+            'SE Asia Standard Time')
+          $version = $bangkok.ToString('yyyy.MM.dd') + '.' + $env:GITHUB_RUN_NUMBER
+          "version=$version" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          "tag=v$version" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          Write-Host "Release version: $version"
+
+      - name: Download and verify previous release runtime base
+        id: base
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $headers = @{
+            Authorization = "Bearer $env:GH_TOKEN"
+            Accept = 'application/vnd.github+json'
+            'X-GitHub-Api-Version' = '2022-11-28'
+            'User-Agent' = 'RO3-Asia-Thai-Patch-Release-Workflow'
+          }
+          $repo = '${{ github.repository }}'
+          $assetPattern = '^RO3_Asia_Thai_Patch_.+\.zip$'
+          try {
+            $release = Invoke-RestMethod `
+              -Uri "https://api.github.com/repos/$repo/releases/latest" `
+              -Headers $headers
+          }
+          catch {
+            # Bootstrap the first Thai release from the established Japanese runtime.
+            $repo = 'MiKoP4/RO3_Asia_Japanese_Patch'
+            $assetPattern = '^RO3_Asia_Japanese_Patch_.+\.zip$'
+            $release = Invoke-RestMethod `
+              -Uri "https://api.github.com/repos/$repo/releases/latest" `
+              -Headers $headers
+          }
+          $assets = @($release.assets | Where-Object {
+            [string]$_.name -match $assetPattern
+          })
+          if ($assets.Count -ne 1) {
+            throw "Expected exactly one ZIP in latest release, found $($assets.Count)."
+          }
+
+          $asset = $assets[0]
+          New-Item -ItemType Directory -Path '.ci-base' -Force | Out-Null
+          $zip = Join-Path (Resolve-Path '.ci-base').Path ([string]$asset.name)
+          Invoke-WebRequest `
+            -Uri ([string]$asset.browser_download_url) `
+            -Headers $headers `
+            -OutFile $zip
+
+          if ($asset.size -and (Get-Item -LiteralPath $zip).Length -ne [long]$asset.size) {
+            throw 'Base release ZIP size mismatch.'
+          }
+          $digest = [string]$asset.digest
+          if ($digest -match '^sha256:([0-9a-fA-F]{64})$') {
+            $expected = $matches[1].ToLowerInvariant()
+            $actual = (Get-FileHash -Algorithm SHA256 -LiteralPath $zip).Hash.ToLowerInvariant()
+            if ($actual -ne $expected) {
+              throw "Base release SHA-256 mismatch: $actual != $expected"
+            }
+            Write-Host "Verified base release SHA-256: $actual"
+          }
+          "zip=$zip" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          Write-Host "Runtime base: $($release.tag_name) / $($asset.name)"
+
+      - name: Build release package from previous runtime base
+        shell: pwsh
+        run: |
+          & ./scripts/Build-ReleaseFromBase.ps1 `
+            -Version '${{ steps.version.outputs.version }}' `
+            -BaseReleaseZip '${{ steps.base.outputs.zip }}'
+
+      - name: Verify release assets
+        id: assets
+        shell: pwsh
+        run: |
+          $version = '${{ steps.version.outputs.version }}'
+          $zip = (Resolve-Path "dist/RO3_Asia_Thai_Patch_$version.zip").Path
+          $sha = (Resolve-Path "dist/RO3_Asia_Thai_Patch_$version.sha256.txt").Path
+          $hashLine = (Get-Content -LiteralPath $sha -Raw).Trim()
+          if ($hashLine -notmatch '^([0-9A-F]{64})  (.+\.zip)$') {
+            throw "Unexpected SHA-256 file format: $hashLine"
+          }
+          $actual = (Get-FileHash -Algorithm SHA256 -LiteralPath $zip).Hash.ToUpperInvariant()
+          if ($actual -ne $matches[1]) {
+            throw "Release ZIP SHA-256 mismatch: $actual != $($matches[1])"
+          }
+          "zip=$zip" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          "sha=$sha" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          Write-Host "Release ZIP SHA-256: $actual"
+
+      - name: Publish GitHub Release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $version = '${{ steps.version.outputs.version }}'
+          $tag = '${{ steps.version.outputs.tag }}'
+          gh release create $tag `
+            '${{ steps.assets.outputs.zip }}' `
+            '${{ steps.assets.outputs.sha }}' `
+            --repo '${{ github.repository }}' `
+            --target $env:GITHUB_SHA `
+            --title "RO3 Asia Thai Patch $version" `
+            --generate-notes `
+            --latest

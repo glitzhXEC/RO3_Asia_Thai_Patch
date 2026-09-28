@@ -1,0 +1,1001 @@
+﻿Index	English	Thai_Translation
+7001	Leave the Turret	ออกจากป้อมปืน
+7002	Cannot Be Marked	ไม่สามารถทำเครื่องหมายได้
+7003	Treasure Hunting	ล่าสมบัติ
+7004	Kunkka ultimate.	คุนคา สุดยอด.
+7005	Show Unread Only	แสดงยังไม่ได้อ่านเท่านั้น
+7006	Owned by Default	เป็นเจ้าของโดยค่าเริ่มต้น
+7007	Premium Benefits	สิทธิประโยชน์ระดับพรีเมียม
+7008	Gladly accepted!	ยินดีรับไว้!
+7009	One-Year Promise	สัญญาหนึ่งปี
+7010	Fashion Vanguard	กองหน้าแฟชั่น
+7011	Fashion Beginner	แฟชั่นมือใหม่
+7012	Wine Connoisseur	นักเลงไวน์
+7013	A New Friendship	มิตรภาพใหม่
+7014	First MVP Defeat	พ่ายแพ้ MVP ครั้งแรก
+7015	Hatch Egg Maniac	ฟักไข่บ้าคลั่ง
+7016	100 Eggs Hatched	ฟักไข่ 100 ฟอง
+7017	Nine S-Rank Pets	สัตว์เลี้ยงระดับ S เก้าตัว
+7018	Four S-Rank Pets	สัตว์เลี้ยงระดับ S สี่ตัว
+7019	First S-Rank Pet	สัตว์เลี้ยงระดับ S ตัวแรก
+7020	Echoes Assembled	Echo ประกอบแล้ว
+7021	Illusion Arrives	ภาพลวงตามาถึงแล้ว
+7022	Refine: Pinnacle	ปรับแต่ง: พินนาเคิล
+7023	Refine: Advanced	ปรับแต่ง: ขั้นสูง
+7024	Appraisal Basics	Appraisal Basics
+7025	First Rare Items	ไอเทมหายากชิ้นแรก
+7026	Swordsman Mentor	ที่ปรึกษานักดาบ
+7027	Point Protection	การป้องกันจุด
+7028	First Match Only	นัดแรกเท่านั้น
+7029	Victory Rankings	อันดับชัยชนะ
+7030	Countdown: ${1}s	นับถอยหลัง:${1}
+7031	Enemy Drop Point	จุดดรอปของศัตรู
+7032	Next Zone Shrink	โซนถัดไปหดตัว
+7033	Select a mission	เลือกภารกิจ
+7034	Th-That many...?	ท-เยอะขนาดนั้น...?
+7035	View Declaration	ดูการประกาศ
+7036	Apply to Support	นำไปใช้กับฝ่ายสนับสนุน
+7037	Withdraw Support	ถอนการสนับสนุน
+7038	Remind to Create	เตือนให้สร้าง
+7039	Battlefield Info	ข้อมูลสนามรบ
+7040	Star Crown Orbit	วงโคจรมงกุฎดาว
+7041	Frosty Sky Orbit	วงโคจรท้องฟ้าหนาวจัด
+7042	Blue Ocean Orbit	วงโคจรมหาสมุทรสีน้ำเงิน
+7043	Head Crush Slow.	การกระแทกหัวช้า
+7044	Dance Move Right	ท่าเต้นไปทางขวา
+7045	Nothing Selected	ไม่ได้เลือกอะไร
+7046	New Build Preset	พรีเซ็ตบิลด์ใหม่
+7047	Select Equipment	เลือกอุปกรณ์
+7048	Faction Settings	การตั้งค่าฝ่าย
+7049	Disable Messages	ปิดการใช้งานข้อความ
+7050	Flame of Fortune	เปลวไฟแห่งโชคลาภ
+7051	Not yet achieved	ยังไม่สำเร็จ
+7052	Challenge · Isti	Challenge · อยู่
+7053	Challenge · Irmo	Challenge · ไม่รู้สิ
+7054	Full Steam Ahead	เดินหน้าเต็มที่
+7055	Fatigue Immunity	ภูมิคุ้มกันความเหนื่อยล้า
+7056	Cloud Connection	การเชื่อมต่อคลาวด์
+7057	Party-Wipe Skill	ทักษะการล้างปาร์ตี้
+7058	Turn Toward @{1}	เลี้ยวไปทาง@{1}
+7059	Poring Transform	การแปลงรูพรุน
+7060	Distribute Gifts	แจกของขวัญ
+7061	Blazing Radiance	เปล่งประกายเจิดจ้า
+7062	Fatal Temptation	สิ่งล่อใจร้ายแรง
+7063	Nightfall Finale	ตอนจบค่ำคืน
+7064	Battle Axe Smash	ขวานรบทุบ
+7065	Mace Proficiency	ความเชี่ยวชาญด้านกระบอง
+7066	Add New Products	เพิ่มผลิตภัณฑ์ใหม่
+7067	Open More Stalls	เปิดแผงลอยเพิ่มเติม
+7068	Sixfold Blessing	พรหกเท่า
+7069	Create Ambulance	สร้างรถพยาบาล
+7070	Hidden Land Boss	บอสดินแดนที่ซ่อนอยู่
+7071	[Normal-Pharaoh]	[ธรรมดา-ฟาโรห์]
+7072	Bonfire Blessing	กองไฟขอพร
+7073	Lucky Koi Enters	Lucky Koi เข้ามา
+7074	Entry Time: ${1}	เวลาเข้า:${1}
+7075	Friendly Reminder	การแจ้งเตือนที่เป็นมิตร
+7076	${1}d ${2}h ${3}m	${1}d${2}ชม${3}ม.
+7077	Hunting Challenge	ความท้าทายในการล่าสัตว์
+7078	Battlefield Skill	ทักษะสนามรบ
+7079	Partywide Silence	ความเงียบทั่วทั้งปาร์ตี้
+7080	Sage's Stone Helm	หมวกหินของปราชญ์
+7081	Lovely Sleep Mask	เลิฟลี่ สลีป มาส์ก
+7082	Fruit Tree Turtle	เต่าผลไม้
+7083	Silver Moon Witch	แม่มดพระจันทร์สีเงิน
+7084	Number of Affixes	จำนวนส่วนต่อท้าย
+7085	Base EXP Increase	EXP ฐานเพิ่มขึ้น
+7086	Wave Refresh Time	เวลารีเฟรชเวฟ
+7087	Goblin Steamrider	ก็อบลินสตีมไรเดอร์
+7088	Head to the Scene	มุ่งหน้าสู่ที่เกิดเหตุ
+7089	Challenge Success	ท้าทายความสำเร็จ
+7090	Vice Guild Master	รองหัวหน้ากิลด์
+7091	Damage Reduction%	การลดความเสียหาย%
+7092	Magic Penetration	การเจาะเวทย์มนตร์
+7093	Freeze Resistance	ความต้านทานการแช่แข็ง
+7094	Poison Resistance	ต้านทานพิษ
+7095	Immobilize Attack	หยุดการโจมตี
+7096	Monster EXP Bonus	โบนัส EXP มอนสเตอร์
+7097	Monster Challenge	ความท้าทายของสัตว์ประหลาด
+7098	^{1}Phase One^{2}	^{1}เฟสหนึ่ง^{2}
+7099	^{1}Phase Two^{2}	^{1}เฟสสอง^{2}
+7100	Next Tier Rewards	รางวัลระดับถัดไป
+7101	Not yet available	ยังไม่มีให้บริการ
+7102	Season Settlement	Season Settlement
+7103	Conqueror Rewards	รางวัลผู้พิชิต
+7104	Season Shop\n${1}	ซีซั่นช็อป\n${1}
+7105	Conqueror's Proof	หลักฐานของผู้พิชิต
+7106	Estimated Rewards	รางวัลโดยประมาณ
+7107	Defeat Wind Ghost	กำจัดผีลม
+7108	MVP-Dracula Baron	MVP-แดร็กคูล่าบารอน
+7109	MVP-Goblin Leader	MVP-ผู้นำก็อบลิน
+7110	Refine @{1} times	ปรับแต่ง@{1}ครั้ง
+7111	Have @{1} friends	มีเพื่อน@{1}
+7112	Equipment Forging	อุปกรณ์การตีขึ้นรูป
+7113	Kill @{1} Rockers	ฆ่า@{1}Rockers
+7114	Fly Wing Tutorial	สอนทำปีกบิน
+7115	Current Encounter	การเผชิญหน้าในปัจจุบัน
+7116	Talk to the woman	คุยกับผู้หญิงคนนั้น
+7117	Capture the Thief	จับโจร
+7118	Inspect the cargo	ตรวจสอบสินค้า
+7119	Ask the Professor	Ask the Professor
+7120	Permanently Owned	เป็นเจ้าของอย่างถาวร
+7121	Second Job Change	เปลี่ยนงานครั้งที่สอง
+7122	Change Guild Name	เปลี่ยนชื่อกิลด์
+7123	Appoint as Leader	Appoint as Leader
+7124	Become an Officer	รับสมัครเจ้าหน้าที่
+7125	Alliance Ballista	พันธมิตรบัลลิสต้า
+7126	World's Best Lute	พิณที่ดีที่สุดในโลก
+7127	Spirit Tower Shop	ร้านสปิริตทาวเวอร์
+7128	Realm of the Gods	อาณาจักรแห่งเทพเจ้า
+7129	Building Level-up	ยกระดับอาคาร
+7130	Equipment Details	รายละเอียดอุปกรณ์
+7131	After Restoration	หลังจากการบูรณะ
+7132	Black Iron Emblem	สัญลักษณ์เหล็กสีดำ
+7133	Quick Use Potions	ยาใช้ด่วน
+7134	Chapter Objective	วัตถุประสงค์ของบท
+7135	10-Player Dungeon	ดันเจี้ยนผู้เล่น 10 คน
+7136	Remove from Party	ลบออกจากปาร์ตี้
+7137	Banish from Guild	เนรเทศออกจากกิลด์
+7138	Board the Airship	ขึ้นเรือเหาะ
+7139	Head to the Relic	มุ่งหน้าไปยังโบราณวัตถุ
+7140	Complete the race	จบการแข่งขัน
+7141	Go to the Wildcat	ไปที่แมวป่า
+7142	Use skill points*	ใช้คะแนนทักษะ*
+7143	Go to the Pyramid	ไปที่พีระมิด
+7144	Equipment & Other	อุปกรณ์&อื่นๆ
+7145	Activation Effect	ผลการเปิดใช้งาน
+7146	Path of Adventure	เส้นทางแห่งการผจญภัย
+7147	Spinning Assassin	นักฆ่าหมุนตัว
+7148	Damage Reflection	การสะท้อนความเสียหาย
+7149	Battleground Info	ข้อมูลสมรภูมิ
+7150	Waiting to Revive	รอการฟื้นคืนชีพ
+7151	Next Refresh Time	เวลารีเฟรชถัดไป
+7152	Refinement Failed	การปรับแต่งล้มเหลว
+7153	Equipment Upgrade	อัพเกรดอุปกรณ์
+7154	Refine Level ${1}	ปรับแต่งระดับ${1}
+7155	Season Refinement	การปรับแต่งซีซั่น
+7156	Mount Trait Entry	รายการลักษณะสัตว์พาหนะ
+7157	Appearance Preset	ลักษณะที่ปรากฏล่วงหน้า
+7158	Character Effects	เอฟเฟกต์ตัวละคร
+7159	Life Skill - Chef	ทักษะชีวิต - เชฟ
+7160	Friend Group Chat	แชทกลุ่มเพื่อน
+7161	Monster Hunt Shop	ร้านล่ามอนสเตอร์
+7162	No mail to claim.	ไม่มีจดหมายให้รับสิทธิ์
+7163	Recommended Price	ราคาแนะนำ
+7164	No search history	ไม่มีประวัติการค้นหา
+7165	Search Help Title	ค้นหาหัวข้อความช่วยเหลือ
+7166	Today's Tax Rate:	อัตราภาษีวันนี้:
+7167	Retrieval Overdue	การดึงข้อมูลเกินกำหนด
+7168	Pre-purchase List	รายการซื้อล่วงหน้า
+7169	Penalty Duration:	ระยะเวลาการลงโทษ:
+7170	Totem Development	การพัฒนาโทเท็ม
+7171	Cooking Materials	วัสดุทำอาหาร
+7172	Beginner Emblem I	ตราสัญลักษณ์เริ่มต้น I
+7173	New Leaf Emblem I	สัญลักษณ์ใบไม้ใหม่ I
+7174	Rental Successful	การเช่าสำเร็จ
+7175	Right Tap to Open	แตะขวาเพื่อเปิด
+7176	Search Point Mall	ค้นหาพอยท์มอลล์
+7177	Confirm exchange?	ยืนยันการแลกเปลี่ยน?
+7178	Price - Ascending	ราคา - จากน้อยไปมาก
+7179	Tap to enter text	แตะเพื่อป้อนข้อความ
+7180	Create Group Chat	สร้างแชทกลุ่ม
+7181	Number of Members	จำนวนสมาชิก
+7182	Popularity: +${1}	ความนิยม: +${1}
+7183	Enter player name	ใส่ชื่อผู้เล่น
+7184	${1} went offline	${1}ออฟไลน์แล้ว
+7185	Objective Filter:	ตัวกรองวัตถุประสงค์:
+7186	Enter keywords...	ป้อนคำสำคัญ...
+7187	Player is offline	Player ออฟไลน์อยู่
+7188	Stronghold Battle	การต่อสู้ฐานที่มั่น
+7189	Request Processed	ดำเนินการแล้ว
+7190	Preparation Phase	ขั้นตอนการเตรียมการ
+7191	Log in ${1} times	เข้าสู่ระบบ${1}ครั้ง
+7192	Kill ${1} Players	ฆ่าผู้เล่น${1}
+7193	Shadow Resistance	ต้านทานเงา
+7194	Benefits Overview	ภาพรวมสิทธิประโยชน์
+7195	Response canceled	การตอบกลับถูกยกเลิก
+7196	Impeachment ended	สิ้นสุดลงแล้ว
+7197	Edit Announcement	แก้ไขประกาศ
+7198	Moderately Active	ใช้งานปานกลาง
+7199	Current Position:	ตำแหน่งปัจจุบัน:
+7200	No news available	ไม่มีข่าวสาร
+7201	Facility Level-up	ยกระดับสิ่งอำนวยความสะดวก
+7202	Departure Rewards	รางวัลออกเดินทาง
+7203	Assistance Reward	Assistance Reward
+7204	Event in Progress	เหตุการณ์
+7205	Awaiting Response	Awaiting Response
+7206	Wandering Caravan	คาราวานพเนจร
+7207	Guild Permissions	คะแนนกิลด์
+7208	Job Advance Scene	ฉากความก้าวหน้างาน
+7209	Sky Temple (Test)	วัดท้องฟ้า (ทดสอบ)
+7210	Hope Beach (Test)	โฮปบีช (ทดสอบ)
+7211	Temple of Cadence	วิหารแห่งจังหวะ
+7212	Place Bet: Failed	วางเดิมพัน: ล้มเหลว
+7213	Card: Savage Babe	การ์ด: ซาเวจ เบ๊บ
+7214	Card: Beetle King	การ์ด: ราชาด้วง
+7215	Final Blow Reward	รางวัลการโจมตีครั้งสุดท้าย
+7216	Most Damage Taken	ได้รับความเสียหายมากที่สุด
+7217	Show updated only	แสดงการอัปเดตเท่านั้น
+7218	Sketch Card: Maya	การ์ดสเก็ตช์: มายา
+7219	Card: Rotar Zairo	การ์ด: โรตาร์ ไซโร
+7220	Card: Side Winder	การ์ด: เครื่องม้วนด้านข้าง
+7221	Card: Dark Priest	การ์ด: ดาร์คพรีสต์
+7222	Card: Desert Wolf	การ์ด: หมาป่าทะเลทราย
+7223	Card: Creamy Fear	การ์ด: ความกลัวอันเป็นครีม
+7224	Card: Maya Purple	การ์ด : มายา ม่วง
+7225	Card: King Dramoh	: คิงดราโมห์
+7226	Shadow Card: Maya	การ์ดเงา: มายา
+7227	Competition Medal	เหรียญแข่งขัน
+7228	Novice Yalt Sword	ดาบยัลต์มือใหม่
+7229	Novice Greatsword	ดาบใหญ่มือใหม่
+7230	Immune to 【Slow】.	ภูมิคุ้มกันต่อ 【ช้า】
+7231	Immune to 【Stun】.	ภูมิคุ้มกันต่อ 【สตัน】
+7232	Internal Cooldown	คูลดาวน์ภายใน
+7233	Transform: Poring	การแปลง: การเจาะ
+7234	Immune to damage.	ภูมิคุ้มกันต่อความเสียหาย
+7235	Damage Reduction.	การลดความเสียหาย
+7236	Magnus Exorcismus	แมกนัส เอ็กซอร์ซิสมัส
+7237	Radiant Sanctuary	เขตศักดิ์สิทธิ์เปล่งประกาย
+7238	Double Holy Light	ไฟศักดิ์สิทธิ์คู่
+7239	Holy Spirit Surge	ไฟกระชากวิญญาณศักดิ์สิทธิ์
+7240	Weaponry Research	การวิจัยอาวุธยุทโธปกรณ์
+7241	High-Energy Pulse	พัลส์พลังงานสูง
+7242	Divine Punishment	การลงโทษอันศักดิ์สิทธิ์
+7243	Heavy Cannon Shot	ยิงปืนใหญ่หนัก
+7244	Keyboard Movement	การเคลื่อนไหวของคีย์บอร์ด
+7245	You and Your Team	คุณและทีมงานของคุณ
+7246	Graphics Settings	การตั้งค่ากราฟิก
+7247	Build Shield Wall	สร้างกำแพงโล่
+7248	Summon Thief Bugs	อัญเชิญแมลงจอมโจร
+7249	Mine Magic Circle	วงกลมเวทย์มนตร์ของฉัน
+7250	Berserk Injection	การฉีดเบอร์เซิร์ก
+7251	Normal Attack@{1}	การโจมตีปกติ@{1}
+7252	Sea Urchin Bullet	กระสุนเม่นทะเล
+7253	Hunter Charge@{1}	ฮันเตอร์ชาร์จ@{1}
+7254	Skill@{1} Fin Mix	ทักษะ@{1}ฟินมิกซ์
+7255	Statue Laser @{1}	รูปปั้นเลเซอร์@{1}รูปปั้น
+7256	Holy Light Strike	แสงศักดิ์สิทธิ์ฟาด
+7257	Massive Area Heal	การรักษาพื้นที่ขนาดใหญ่
+7258	Blazing Formation	รูปแบบอันน่าทึ่ง
+7259	Protective Shield	ชิลด์ป้องกัน
+7260	End of ID Section	สิ้นสุดส่วน ID
+7261	Shadow Siphon@{1}	กาลักน้ำเงา@{1}
+7262	Nether Pact Brand	ยี่ห้อ Nether Pact
+7263	King of the Wargs	ราชาแห่งสงคราม
+7264	Enhance Warg Hunt	เพิ่มประสิทธิภาพการล่าวาร์ก
+7265	Warg Hunt (Melee)	ล่าวาร์ก (ประชิด)
+7266	Gluttonous Spider	แมงมุมตะกละ
+7267	Greedy Black Kite	ว่าวดำโลภ
+7268	Dragon Fly Skills	ทักษะการบินมังกร
+7269	Realm of Darkness	อาณาจักรแห่งความมืด
+7270	Stone Glyph Slash	สลักหินหิน
+7271	Intimidating Roar	เสียงคำรามอันน่ากลัว
+7272	Inferno Explosion	ระเบิดนรก
+7273	Dark Magnum Break	ดาร์กแม็กนั่มเบรค
+7274	Tribal Protection	การคุ้มครองชนเผ่า
+7275	Goat's Protection	อุปกรณ์ป้องกันแพะ
+7276	Abomination Blade	ใบมีดอันน่ารังเกียจ
+7277	Abominable Shriek	กรี๊ดดด
+7278	Soul's Protection	การปกป้องแห่งวิญญาณ
+7279	Iron Ball Rampage	ลูกเหล็กอาละวาด
+7280	Forest's Blessing	พรแห่งป่า
+7281	Tree Spirit Curse	คำสาปต้นไม้วิญญาณ
+7282	Resource Download	รายการทรัพยากร
+7283	Missing Resources	ทรัพยากรหายไป
+7284	Service Agreement	ข้อผิดพลาดบริการ
+7285	Activation failed	การเปิดใช้งานล้มเหลว
+7286	Obtain Greatblade	รับ Greatblade
+7287	Drake Water Blade	ใบมีดน้ำ Drake
+7288	Beehive Throw@{1}	โยนรังผึ้ง@{1}
+7289	Swarming Bees@{1}	ฝูงผึ้ง@{1}
+7290	Summon Horong@{1}	อัญเชิญโหร่ง@{1}
+7291	Grasp of the Dead	คว้าความตาย
+7292	Laser Coffin Shot	การยิงโลงศพด้วยเลเซอร์
+7293	Mummy Cone Attack	มัมมี่โคนโจมตี
+7294	Launch Red Bubble	เปิดตัว Red Bubble
+7295	P@{1} Blue Bubble	P@{1}ฟองสีน้ำเงิน
+7296	Ground Red Bubble	พื้นสีแดง Bubble
+7297	Skill@{1}Call@{2}	ทักษะ@{1}โทร@{2}ทักษะ
+7298	Obtain Green Note	รับบันทึกสีเขียว
+7299	Lock-On Rectangle	สี่เหลี่ยมล็อคออน
+7300	Skill@{1} Variant	ตัวแปร@{1}ทักษะ
+7301	Crusader Note@{1}	ครูเซเดอร์หมายเหตุ@{1}
+7302	Assassin Note@{1}	โน้ตนักฆ่า@{1}
+7303	Merchant Note@{1}	หมายเหตุผู้ขาย@{1}
+7304	Melody Tidal Wave	คลื่นเมโลดี้
+7305	Infinite Rhapsody	แร็ปโซดีไม่มีที่สิ้นสุด
+7306	Destructive Flame	เปลวไฟทำลายล้าง
+7307	Jack Frost (Copy)	แจ็ค ฟรอสต์ (คัดลอก)
+7308	Voice of the Soul	เสียงแห่งจิตวิญญาณ
+7309	S@{1}Flamethrower	S@{1}
+7310	S@{1}Demonic Roar	S@{1}เสียงคำรามปีศาจ
+7311	S@{1}Shadow Guard	S@{1}การ์ดเงา
+7312	Pharaoh New Skill	ฟาโรห์ทักษะใหม่
+7313	Maya Purple Skill	สกิลมายาม่วง
+7314	Dark Priest Skill	ทักษะนักบวชแห่งความมืด
+7315	Passive Skill@{1}	ทักษะติดตัว@{1}
+7316	Pirate King Slash	ราชาโจรสลัดสแลช
+7317	Elemental Pursuit	การแสวงหาธาตุ
+7318	Reading Spellbook	อ่านหนังสือคาถา
+7319	Achievement Level	ระดับความสำเร็จ
+7320	Players Completed	ผู้เล่นเสร็จสิ้น
+7321	Life Regen +${1}%	อัตราฟื้นฟูพลังชีวิต +${1}%
+7322	No suitable cards	ไม่มีการ์ดที่เหมาะสม
+7323	Current Equipment	อุปกรณ์ปัจจุบัน
+7324	Edit Active Bonds	แก้ไขพันธบัตรที่ใช้งานอยู่
+7325	Show less Compare	แสดงน้อยลง เปรียบเทียบ
+7326	Title Description	คำอธิบายชื่อเรื่อง
+7327	Teammate's ID Tag	แท็ก ID เพื่อนร่วมทีม
+7328	Level Requirement	ข้อกำหนดระดับ
+7329	Used for Exchange	ใช้สำหรับการแลกเปลี่ยน
+7330	Midgard Continent	ทวีปมิดการ์ด
+7331	Max Level Preview	ดูตัวอย่างระดับสูงสุด
+7332	Recommended Build	รุ่นที่แนะนำ
+7333	Edit Private Chat	แก้ไขการแชทส่วนตัว
+7334	Tap to Join Party	แตะเพื่อเข้าร่วมปาร์ตี้
+7335	Research Notebook	สมุดบันทึกการวิจัย
+7336	Military Supplies	เสบียงทหาร
+7337	Musical Note Clue	โน้ตดนตรีเบาะแส
+7338	【Boss】Greedy Maya	【บอส】มายาโลภ
+7339	Anti-Aircraft Gun	ปืนต่อต้านอากาศยาน
+7340	Lv. @{1} Ore Vein	เลเวล@{1}แร่หลอดเลือดดำ
+7341	Sanctified Ground	พื้นที่ศักดิ์สิทธิ์
+7342	Toad Magic Circle	คางคกเมจิกเซอร์เคิล
+7343	Wedding Assistant	ผู้ช่วยแต่งงาน
+7344	Airship Passenger	ผู้โดยสารเรือเหาะ
+7345	Middle-Aged Woman	หญิงวัยกลางคน
+7346	Merchant for Hire	พ่อค้าให้เช่า
+7347	Life Skill Mentor	ที่ปรึกษาด้านทักษะชีวิต
+7348	Wedding Officiant	พิธีกรงานแต่งงาน
+7349	Mysterious Person	บุคคลลึกลับ
+7350	Geffen North Gate	เกฟเฟน ประตูทิศเหนือ
+7351	Abandoned Village	หมู่บ้านร้าง
+7352	Papuchicha Forest	ป่าปาปูชิชา
+7353	Pharos Lighthouse	ประภาคารฟารอส
+7354	Territory War-III	ดินแดนสงคราม-III
+7355	Novice Instructor	ผู้สอนมือใหม่
+7356	Headwear Merchant	พ่อค้าอุปกรณ์สวมศีรษะ
+7357	Guild Area Statue	รูปปั้นพื้นที่กิลด์
+7358	Charge Projectile	กระสุนพุ่ง
+7359	Horong Projectile	โพรเจกไทล์ Horong
+7360	Yellow Bubble NPC	บับเบิ้ลสีเหลือง NPC
+7361	Isti - Apocalypse	Isti - คติ
+7362	Collect Blue Note	เก็บ Blue Note
+7363	Full-Arena Circle	วงเวียนฟูลอารีน่า
+7364	Adeline von Crest	อเดลีน ฟอน เครสต์
+7365	Lord of Vermilion	ลอร์ดแห่งชาด
+7366	Gravitation Field	สนามแรงโน้มถ่วง
+7367	Enhance Land Mine	ปรับปรุงทุ่นระเบิด
+7368	Blue-Haired Kafra	คาฟราผมสีฟ้า
+7369	Minor Speed Boost	เพิ่มความเร็วเล็กน้อย
+7370	Major Speed Boost	เพิ่มความเร็วหลัก
+7371	Flame Trap Hunter	นักล่ากับดักเปลวไฟ
+7372	Pharaoh-Very Hard	ฟาโรห์-ยากมาก
+7373	Pharaoh-Nightmare	ฟาโรห์-ฝันร้าย
+7374	Rational Analysis	การวิเคราะห์เชิงเหตุผล
+7375	Complete Stranger	คนแปลกหน้าที่สมบูรณ์
+7376	Next Stage (${1})	สเตจต่อไป (${1})
+7377	Trade Tax Details	รายละเอียดภาษีการค้า
+7378	Close your Stall?	ปิดแผงลอยของคุณ?
+7379	Challenge Dracula	ท้าทายแดร็กคูล่า
+7380	Current Objective	วัตถุประสงค์ปัจจุบัน
+7381	Approval Required	Approval Required
+7382	Guild Information	ข้อมูลกิลด์
+7383	Claimed This Week	อ้างสิทธิ์ในสัปดาห์นี้
+7384	Save Guild Emblem	บันทึก Guild Emblem
+7385	Dungeon Adventure	ผจญภัยดันเจี้ยน
+7386	Activity Dividend	กิจกรรมการจ่ายเงินปันผล
+7387	Emblem Background	ขอบป้าย
+7388	Guild Declaration	ประกาศกิลด์
+7389	Guild Recruitment	รับสมัครกิลด์
+7390	Receive an invite	รับคำเชิญ
+7391	Member Adjustment	การปรับสมาชิก
+7392	Honor Advancement	ความก้าวหน้าแห่งเกียรติยศ
+7393	Go to Izlude Port	ไปที่ท่าเรือ Izlude
+7394	Recover the Cargo	กู้คืนสินค้า
+7395	Deliver the Cargo	ส่งสินค้า
+7396	Compile the Intel	คอมไพล์ Intel
+7397	Browse the Market	เรียกดูตลาด
+7398	The Missing Lunch	อาหารกลางวันที่หายไป
+7399	Unexpected Letter	ตัวอักษรที่ไม่คาดคิด
+7400	Pet the Stray Cat	เลี้ยงแมวจรจัด
+7401	The Second Letter	ตัวอักษรตัวที่สอง
+7402	Rusty Bell Hammer	ค้อนกระดิ่งขึ้นสนิม
+7403	Conquer the World	พิชิตโลก
+7404	Boost to Lv. @{1}	เพิ่มเป็น Lv.@{1}บูท
+7405	The Greatest City	เมืองที่ยิ่งใหญ่ที่สุด
+7406	Academy Sanctuary	เขตรักษาพันธุ์อะคาเดมี
+7407	The First Request	คำขอแรก
+7408	Submit Snake Gall	ส่งน้ำดีงู
+7409	Deep in the Grass	ลึกลงไปในหญ้า
+7410	Fly Wing, whoosh!	ฟลายวิง โห่!
+7411	Prepare to Depart	เตรียมออกเดินทาง
+7412	Caravan in Crisis	คาราวานในภาวะวิกฤติ
+7413	Annoying Chonchon	กวนชลชล
+7414	Complete Training	การฝึกอบรมที่สมบูรณ์
+7415	Pet Level-up Info	ข้อมูลการอัพเลเวลสัตว์เลี้ยง
+7416	Pet has Respawned	สัตว์เลี้ยงได้เกิดใหม่แล้ว
+7417	Advancing Success	ความสำเร็จที่ก้าวหน้า
+7418	Slot not unlocked	ไม่ได้ปลดล็อคสล็อต
+7419	Total Power Bonus	โบนัสพลังรวม
+7420	Beginner Benefits	สิทธิประโยชน์สำหรับผู้เริ่มต้น
+7421	Chance Disclosure	การเปิดเผยโอกาส
+7422	Deployed Pet ${1}	นำสัตว์เลี้ยงไปใช้แล้ว${1}
+7423	After Advancement	หลังความก้าวหน้า
+7424	Enable Pet Follow	เปิดใช้งานการติดตามสัตว์เลี้ยง
+7425	Limited-Time Pool	พูลแบบจำกัดเวลา
+7426	Hatching Complete	การฟักเสร็จสมบูรณ์
+7427	Total Codex Stats	สถิติ Codex ทั้งหมด
+7428	Limited-Time ${1}	เวลาจำกัด${1}
+7429	Select Wild Boar.	เลือกหมูป่า
+7430	Tap the Fly Wing.	แตะปีกบิน
+7431	Class Unavailable	ชั้นเรียนไม่พร้อมใช้งาน
+7432	Ms. Emma sent me.	คุณเอ็มม่าส่งมาให้ฉัน
+7433	^{1}I'm ready^{2}	^{1}พร้อมแล้ว^{2}
+7434	Pick Up the Notes	หยิบบันทึกย่อ
+7435	Weekly: ${1}/${2}	รายสัปดาห์:${1}/${2}
+7436	Growth Curriculum	หลักสูตรการเติบโต
+7437	Advanced to ${1}!	ขั้นสูงถึง${1}!
+7438	^{1}View Clue^{2}	^{1}ดูเบาะแส^{2}
+7439	Ow, that hurts...	โอ้ยเจ็บ...
+7440	What did she say?	เธอพูดว่าอะไรนะ?
+7441	Arrange the Cargo	Arrange the Cargo
+7442	Woof! Woof, woof!	โฮ่ง!วู้ วู้!
+7443	Leave the dungeon	ออกจากดันเจี้ยน
+7444	Next Event Begins	กิจกรรมถัดไปเริ่มต้นขึ้น
+7445	Enter Battlefield	เข้าสู่สนามรบ
+7446	Unlock Difficulty	ปลดล็อคความยาก
+7447	Rally All Members	ชุมนุมสมาชิกทุกคน
+7448	Abandon Challenge	ละทิ้งความท้าทาย
+7449	Title Skill Bonus	โบนัสทักษะตำแหน่ง
+7450	Draw Second Prize	จับรางวัลที่สอง
+7451	The party is over	ปาร์ตี้จบลงแล้ว
+7452	Available Amount:	Available Amount:
+7453	Capture the Flag!	ยึดธง!
+7454	Star Traveler III	สตาร์นักเดินทาง III
+7455	Woof, woof, woof!	โฮ่ง โฮ่ง โฮ่ง!
+7456	Meow, meow! Meow!	เหมียว เหมียว!เหมียว!
+7457	Meow, meow~ Meow!	เหมียว เหมียว~ เหมียว!
+7458	You lost, lackey!	แพ้แล้ว เจ้าขี้ข้า!
+7459	Meow, meow, meow!	เหมียว เหมียว เหมียว!
+7460	Ouch, that hurts!	อุ๊ย เจ็บนะ!
+7461	Advancement Quest	เควสความก้าวหน้า
+7462	Item Pre-purchase	รายการสั่งซื้อล่วงหน้า
+7463	Show Bidding Only	แสดงการประมูลเท่านั้น
+7464	System Stall Name	ชื่อแผงลอยของระบบ
+7465	Save to This Plan	บันทึกลงในแผนนี้
+7466	Preparation Time:	:
+7467	Deliver the Flag:	ส่งมอบธง:
+7468	Battlefield Honor	เกียรติยศสนามรบ
+7469	Top Three Overall	สามอันดับแรกโดยรวม
+7470	Enter the League.	เข้าสู่ลีก
+7471	Echo Growth Quest	ภารกิจการเติบโตของเสียงสะท้อน
+7472	Collection Points	ตัวอย่างคอลเลกชัน
+7473	Mount Unlock Item	Mount ปลดล็อคไอเทม
+7474	Secret Cache Gift	ของขวัญแคชลับ
+7475	Guild Leader Name	ชื่อหัวหน้ากิลด์
+7476	Damage per Second	ความเสียหายต่อวินาที
+7477	Debuff Resistance	ความต้านทานดีบัฟ
+7478	Contributor Badge	การควบคุม
+7479	DMG vs Demi-Human	DMG กับ กึ่งมนุษย์
+7480	Party Recruitment	รับสมัครปาร์ตี้
+7481	Large Chat Emotes	อีโมติคอนแชทขนาดใหญ่
+7482	Need a Sweet Girl	ต้องการสาวหวาน
+7483	Photo Enthusiasts	ผู้ชื่นชอบการถ่ายภาพ
+7484	Harmony at Dawn	Harmony at Dawn
+7485	Cross Bombardment	การโจมตีข้าม
+7486	Deliver Fireworks	ส่งมอบดอกไม้ไฟ
+7487	Blessing of Light	พรแห่งแสงสว่าง
+7488	Earthshaking Rift	รอยแยกแผ่นดินไหว
+7489	Blessing of Water	พรแห่งน้ำ
+7490	Generic - Suicide	ทั่วไป - การฆ่าตัวตาย
+7491	Pass the Dynamite	แซงไดนาไมต์
+7492	Eddga-Placeholder	Eddga-ตัวยึดตำแหน่ง
+7493	Horong Disappears	โฮรองหายไป
+7494	Ironwood Wrapping	ไม้ห่อเนื้อเหล็ก
+7495	Sacred Wood Chunk	Sacred Wood Chunk
+7496	Sacred Wood Blank	Sacred Wood Blank
+7497	Fluffy Fiber Tuft	กระจุกไฟเบอร์ฟูฟวี่
+7498	Woolen Cloth Roll	ม้วนผ้าขนสัตว์
+7499	Sacred Cloth Roll	ม้วนผ้าศักดิ์สิทธิ์
+7500	Pick Up the Cargo	รับสินค้า
+7501	Snake Gallbladder	ถุงน้ำดีงู
+7502	^{1}[Faction]^{2}	^{1}[ฝ่าย]^{2}
+7503	The Relic's Power	พลังแห่งของที่ระลึก
+7504	Anomalous Arrival	การมาถึงที่ผิดปกติ
+7505	Reunited with Her	กลับมารวมตัวกับเธออีกครั้ง
+7506	Baphomet's Ambush	การซุ่มโจมตีของบาโฟเมต
+7507	The Terrified Man	ชายผู้หวาดกลัว
+7508	Find the Entrance	ค้นหาทางเข้า
+7509	Alchemy Materials	วัสดุเล่นแร่แปรธาตุ
+7510	Item Use Disabled	การใช้รายการถูกปิดใช้งาน
+7511	Movement Disabled	การเคลื่อนไหวถูกปิดใช้งาน
+7512	DOWNLOADING_TITLE	กำลังดาวน์โหลด_TITLE
+7513	Focused Gathering	การรวบรวมที่มุ่งเน้น
+7514	Material Recovery	การกู้คืนวัสดุ
+7515	Lossless Crafting	การสร้างแบบไม่สูญเสีย
+7516	Vivify Multiplier	เพิ่มตัวคูณ
+7517	Life Skill Expert	ผู้เชี่ยวชาญด้านทักษะชีวิต
+7518	Peak Productivity	ผลผลิตสูงสุด
+7519	A fine Soul Echo.	เสียงสะท้อนวิญญาณที่ดี
+7520	Collection failed	ล้มเหลว
+7521	Invalid operation	การดำเนินการไม่ถูกต้อง
+7522	Oracle Star Chain	ออราเคิลสตาร์เชน
+7523	A Traveler's Rest	การพักผ่อนของนักเดินทาง
+7524	War God's Raiment	เสื้อคลุมเทพสงคราม
+7525	Select Skill Book	เลือกหนังสือทักษะ
+7526	Continuous Shield	ชิลด์ต่อเนื่อง
+7527	Desperate Defense	การป้องกันที่สิ้นหวัง
+7528	Fortitude Defense	การป้องกันความแข็งแกร่ง
+7529	Abundant Strength	ความแข็งแกร่งอันมากมาย
+7530	Vengeful Strength	ความแข็งแกร่งแห่งความพยาบาท
+7531	Nature's Blessing	พรแห่งธรรมชาติ
+7532	Pet Shard: Poring	ชิ้นส่วนสัตว์เลี้ยง: Poring
+7533	Pet Shard: Bongun	ชิ้นส่วนสัตว์เลี้ยง: บงกุน
+7534	Pet Shard: Alicel	ชิ้นส่วนสัตว์เลี้ยง: อลิซ
+7535	Pet Shard: Miguel	ชิ้นส่วนสัตว์เลี้ยง: มิเกล
+7536	Pet Shard: Deadre	ชิ้นส่วนสัตว์เลี้ยง: Deadre
+7537	Death Witch Shard	ชิ้นส่วนแม่มดแห่งความตาย
+7538	Dig - Co-op Chest	Dig - กล่อง Co-op
+7539	Random Card Album	อัลบั้มการ์ดสุ่ม
+7540	Chili Beast Steak	สเต็กพริกสัตว์
+7541	Vanilla Hot Cocoa	โกโก้ร้อนวานิลลา
+7542	Colorful Lollipop	อมยิ้มสีสันสดใส
+7543	Mixed Fruit Juice	น้ำผลไม้รวม
+7544	Woody Grape Drink	น้ำองุ่น วู้ดดี้
+7545	Whale Potion Pack	น้ำยาปลาวาฬ
+7546	Enchant Materials	วัสดุเสริมเสน่ห์
+7547	Slot Not Unlocked	ไม่ได้ปลดล็อค
+7548	Crusader Portrait	ภาพเหมือนของ Crusader
+7549	Assassin Portrait	Assassin Portrait
+7550	Merchant Portrait	ภาพผู้ขาย
+7551	Mechanic Portrait	ภาพช่างกล
+7552	Shiitake Mushroom	เห็ดหอม
+7553	Radiant Gold Grip	ด้ามจับ Radiant Gold
+7554	Luminous Gold Ore	แร่ทองคำเรืองแสง
+7555	Sobbing Starlight	แสงดาวสะอื้น
+7556	Embers of Insight	ถ่านแห่งความเข้าใจ
+7557	Discarded Uniform	เครื่องแบบทิ้ง
+7558	Shimmering Liquid	ของเหลวแวววาว
+7559	Super Solid Shell	เปลือกแข็งพิเศษ
+7560	Hard Insect Shell	เปลือกแมลงแข็ง
+7561	Little Red Flower	ดอกไม้เล็กสีแดง
+7562	Three-Leaf Clover	โคลเวอร์สามใบ
+7563	Equipment Crystal	อุปกรณ์คริสตัล
+7564	Red Card Fragment	ชิ้นส่วนการ์ดแดง
+7565	Starlight Silk IX	สตาร์ไลท์ ซิลค์ IX
+7566	Starlight Silk VI	สตาร์ไลท์ ซิลค์ VI
+7567	Starlight Silk IV	สตาร์ไลท์ ซิลค์ IV
+7568	Starlight Silk II	สตาร์ไลท์ ซิลค์ II
+7569	Star Diamond VIII	สตาร์ ไดมอนด์ VIII
+7570	Blessed Armor Ore	แร่เกราะศักดิ์สิทธิ์
+7571	Enriched Oridecon	ออไรด์คอนเข้มข้น
+7572	Rare Treasure Map	แผนที่ขุมทรัพย์หายาก
+7573	Box of the Future	กล่องแห่งอนาคต
+7574	Crystal of Regret	คริสตัลแห่งความเสียใจ
+7575	Professor's Notes	บันทึกของศาสตราจารย์
+7576	Expired Flatbread	Flatbread ที่หมดอายุ
+7577	Whispering Flower	ดอกไม้กระซิบ
+7578	Sparkling Balloon	ลูกโป่งสปาร์คกลิ้ง
+7579	Magic DEF Crystal	เมจิก DEF คริสตัล
+7580	Lv. @{1} @{2} Bow	เลเวล@{1}@{2}โบว์
+7581	Super Arena Katar	ซูเปอร์อารีน่า กาตาร์
+7582	Armored Pauldrons	Armored Pauldrons
+7583	Adventurer's Suit	ชุดนักผจญภัย
+7584	Valkyrja's Shield	โล่ของวาลคีร์จา
+7585	Wind Spirit Katar	วินด์สปิริต กาตาร์
+7586	Hypnotist's Staff	พนักงานสะกดจิต
+7587	Lich's Bone Staff	ไม้เท้ากระดูกลิช
+7588	Novice Battle Axe	ขวานรบมือใหม่
+7589	Bloody Battle Axe	ขวานศึกนองเลือด
+7590	Double-Bladed Axe	ขวานสองคม
+7591	Wind Spirit Spear	หอกวิญญาณแห่งลม
+7592	Wind Spirit Sword	ดาบวิญญาณแห่งลม
+7593	Final Vow Chalice	ถ้วยคำสาบานครั้งสุดท้าย
+7594	Not yet completed	ยังไม่แล้วเสร็จ
+7595	Subjugation Medal	เหรียญปราบ
+7596	Card: Orc Warrior	การ์ด: นักรบออร์ค
+7597	Card: Super Picky	: สุดพิถีพิถัน
+7598	Unlock Appearance	ปลดล็อคลักษณะที่ปรากฏ
+7599	Tavern Room Rules	กฎของห้องโรงเตี๊ยม
+7600	Card Advancement:	ความก้าวหน้าของการ์ด:
+7601	Collection Cards:	การ์ดสะสม:
+7602	Equipment Loadout	การโหลดอุปกรณ์
+7603	First Clear Party	เคลียร์ปาร์ตี้ครั้งแรก
+7604	Reward Count:${1}	จำนวนรางวัล:${1}รายละเอียดรางวัล
+7605	Auction Countdown	นับถอยหลังการประมูล
+7606	${1} won the item	${1}ชนะรายการ
+7607	Ready check sent.	ส่งเช็คพร้อมแล้ว
+7608	Recommended Setup	การตั้งค่าที่แนะนำ
+7609	Advanced Crafting	การประดิษฐ์ขั้นสูง
+7610	Enhance Gathering	เพิ่มประสิทธิภาพการรวบรวม
+7611	Quicksand Tornado	พายุทอร์นาโดทรายดูด
+7612	Advancing Hornets	ฮอร์เน็ตส์ที่ก้าวหน้า
+7613	Giant-Blade Kunai	คุไนใบมีดยักษ์
+7614	Jellyfish Requiem	บังสุกุลแมงกะพรุน
+7615	Ultra Shield Bash	ทุบโล่อัลตร้า
+7616	First Death Bonus	โบนัสการตายครั้งแรก
+7617	Kill Streak: @{1}	ฆ่าสตรีค:@{1}
+7618	Damage Over @{1}M	ความเสียหายมากกว่า@{1}M
+7619	Damage Over @{1}K	สร้างความเสียหายมากกว่า@{1}K
+7620	Most Cannon Shots	ยิงปืนใหญ่มากที่สุด
+7621	Kind and Generous	ใจดีและใจกว้าง
+7622	Dominate the Game	ครองเกม
+7623	Over @{1}m Damage	มากกว่า@{1}m ความเสียหาย
+7624	Over @{1}k Damage	มากกว่า@{1}k ความเสียหาย
+7625	Kill Streak X${1}	ฆ่าสตรีค X${1}
+7626	Most Damage Dealt	สร้างความเสียหายได้มากที่สุด
+7627	Promotion Preview	ตัวอย่างโปรโมชั่น
+7628	Obtain Book Pages	รับหน้าหนังสือ
+7629	No Matching Cards	ไม่มีการ์ดที่ตรงกัน
+7630	No Matching Books	ไม่มีหนังสือที่ตรงกัน
+7631	Increase Affinity	เพิ่มความสัมพันธ์
+7632	Spirit Tower Race	การแข่งขันหอคอยวิญญาณ
+7633	Political Content	เนื้อหาเกี่ยวกับการเมือง
+7634	High Attack Speed	ความเร็วในการโจมตีสูง
+7635	Charging Momentum	โมเมนตัมการชาร์จ
+7636	Steel Fur Grizzly	ขนเหล็ก Grizzly
+7637	Card Magnum Break	การ์ดแม็กนั่มเบรก
+7638	Charge Up Passive	ชาร์จอัพแบบพาสซีฟ
+7639	Fake Damage Count	จำนวนความเสียหายปลอม
+7640	Spatial Dimension	มิติเชิงพื้นที่
+7641	Shadow Step Trail	เส้นทางก้าวเงา
+7642	Lightning Release	ปล่อยสายฟ้า
+7643	Lope Start Marker	Lope Start Marker
+7644	Spawn Effect @{1}	เอฟเฟกต์การวางไข่@{1}
+7645	Gain an ATK Boost	ได้รับ ATK Boost
+7646	Status Check Buff	เอฟเฟกต์สถานะ
+7647	Lock Skill Hotbar	ล็อคแถบลัดทักษะ
+7648	Combat Assistance	ช่วยเหลือการต่อสู้
+7649	Buff Display Area	พื้นที่แสดงบัฟ
+7650	Interaction Skill	ทักษะการโต้ตอบ
+7651	Mechanic Feedback	ข้อเสนอแนะด้านกลไก
+7652	Right-click to Go	คลิกขวาเพื่อไป
+7653	Custom Action Bar	แถบการดำเนินการแบบกำหนดเอง
+7654	Spellbook - Comet	คัมภีร์คาถา - ดาวหาง
+7655	Remove @{1} Pages	ลบเพจ@{1}
+7656	Thunder Shockwave	Thunder ช็อคเวฟ
+7657	Magic Calibration	การสอบเทียบเมจิก
+7658	Mandragora Attack	การโจมตีแมนดราโกร่า
+7659	Scythe Channeling	การแชนเนลเคียว
+7660	Voice of the Dead	เสียงแห่งความตาย
+7661	Harvesting Scythe	เคียวเก็บเกี่ยว
+7662	Bobo's Protection	การคุ้มครองของ Bobo
+7663	Nightmare Passive	ไนท์แมร์ พาสซีฟ
+7664	Wild Rose Passive	กุหลาบป่า พาสซีฟ
+7665	Light of Scrutiny	แสงแห่งการตรวจสอบข้อเท็จจริง
+7666	Anti-Flicker Buff	บัฟป้องกันการสั่นไหว
+7667	Dancing NPC Check	ตรวจ NPC เต้น
+7668	Harmony Self Buff	บัฟ Harmony Self
+7669	Organon Self Buff	Organon บัฟตัวเอง
+7670	Persistent Shield	ชิลด์ถาวร
+7671	Wolf Hunt: BD@{1}	ล่าหมาป่า: BD@{1}
+7672	Overpower Passive	โอเวอร์พาวเวอร์ พาสซีฟ
+7673	Switch Soul Burst	สวิตช์ Soul Burst
+7674	Healing Reduction	ลดการรักษา
+7675	Guide Line Effect	เอฟเฟกต์เส้นไกด์
+7676	Double Attack@{1}	โจมตีสองครั้ง@{1}
+7677	Katar Mastery@{1}	กาตาร์มาสเตอรี@{1}
+7678	Magic Convergence	เมจิกคอนเวอร์เจนซ์
+7679	Compliance Notice	ประกาศการปฏิบัติตามข้อกำหนด
+7680	Member Management	การจัดการสมาชิก
+7681	Deliver ${1} ${2}	ส่งมอบ${1}${2}
+7682	Have ${1} friends	มีเพื่อน${1}
+7683	Refine ${1} times	ปรับแต่ง${1}ครั้ง
+7684	^{1}[Referee]^{2}	^{1}[ผู้ตัดสิน]^{2}
+7685	Misc Flow Details	รายละเอียดการไหลอื่นๆ
+7686	Rift Crisis Rules	กฎเกณฑ์วิกฤตความแตกแยก
+7687	Preparation Level	ระดับการเตรียมการ
+7688	Play Introduction	เล่นบทนำ
+7689	Sky Hunt Overview	ภาพรวม Sky Hunt
+7690	Event Description	กิจกรรม
+7691	Job Not Available	งานไม่ว่าง
+7692	Ranking not found	ไม่พบการจัดอันดับ
+7693	Batch Bid failed.	Batch Bid ล้มเหลว
+7694	Repeat Group Chat	ทำซ้ำการแชทเป็นกลุ่ม
+7695	Price has changed	ราคามีการเปลี่ยนแปลง
+7696	Tavern data error	ข้อผิดพลาดของข้อมูลโรงเตี๊ยม
+7697	Invalid Soul Echo	เสียงสะท้อนวิญญาณไม่ถูกต้อง
+7698	Max level reached	ถึงระดับสูงสุดแล้ว
+7699	Invalid SNS token	โทเค็น SNS ไม่ถูกต้อง
+7700	Already purchased	ซื้อเรียบร้อยแล้ว
+7701	^{1}Mammonite^{2}	^{1}แมมโมไนต์^{2}
+7702	^{1}Cart Slam^{2}	^{1}สแลมรถเข็น^{2}
+7703	Survival Instinct	สัญชาตญาณการเอาชีวิตรอด
+7704	Joint Destruction	การทำลายข้อต่อ
+7705	Penetration Curse	คำสาปเจาะทะลุ
+7706	^{1}Ice Spike^{2}	^{1}ไอซ์สไปค์^{2}
+7707	${1}${2} Unlocked	${1}${2}ปลดล็อคแล้ว
+7708	Invalid server ID	ID เซิร์ฟเวอร์ไม่ถูกต้อง
+7709	Trade in progress	อยู่ระหว่างดำเนินการซื้อขาย
+7710	Switching scenes.	สลับฉาก.
+7711	Shrink the target	ย่อเป้าหมาย
+7712	Withdraw Garrison	ถอนทหารรักษาการณ์
+7713	Attack Successful	Attack Successful
+7714	Drop real blades.	ใบมีดดรอปแท้
+7715	Drop fake blades.	ดรอปใบมีดปลอม
+7716	Adventure History	ประวัติศาสตร์การผจญภัย
+7717	${1}'s Card Album	อัลบั้มการ์ดของ${1}
+7718	Card Preset error	ข้อผิดพลาดการตั้งค่าการ์ดล่วงหน้า
+7719	Seven-Day Promise	สัญญาเจ็ดวัน
+7720	Accessory Mastery	ความเชี่ยวชาญด้านอุปกรณ์เสริม
+7721	Laughing Together	หัวเราะด้วยกัน
+7722	First Purple Card	การ์ดสีม่วงใบแรก
+7723	1,000-Card Legend	ตำนานการ์ด 1,000 ใบ
+7724	Craft Grandmaster	คราฟต์ปรมาจารย์
+7725	This Week's Limit	ขีดจำกัดของสัปดาห์นี้
+7726	Protection Points	จุดคุ้มครอง
+7727	Survival Duration	ระยะเวลาการเอาชีวิตรอด
+7728	Equipment Quality	คุณภาพอุปกรณ์
+7729	Onward and Upward	เป็นต้นไปและขึ้นไป
+7730	Ends in ${1} days	สิ้นสุดใน${1}วัน
+7731	This hair band...	ยางรัดผมนี่...
+7732	It's worth a try.	น่าลองครับ
+7733	Complete Creation	การสร้างเสร็จสมบูรณ์
+7734	Share Recruitment	แบ่งปันการรับสมัคร
+7735	Invited to follow	ขอเชิญติดตาม
+7736	Players Remaining	ผู้เล่นที่เหลืออยู่
+7737	Evil Eye Emissary	ทูตตาปีศาจ
+7738	Violet Moon Orbit	วงโคจรดวงจันทร์สีม่วง
+7739	Coffin uses skill	โลงศพใช้ทักษะ
+7740	Share to Get Help	แบ่งปันเพื่อรับความช่วยเหลือ
+7741	Recommended Stats	สถิติที่แนะนำ
+7742	Extreme Challenge	ความท้าทายสุดขีด
+7743	Suggested Talents	ความสามารถพิเศษที่แนะนำ
+7744	Immobilize effect	เอฟเฟ็กต์ตรึงการเคลื่อนที่
+7745	Agility Resonance	เสียงสะท้อนความคล่องตัว
+7746	Challenge · Nessa	ความท้าทาย · เนสซ่า
+7747	Challenge · Mirko	ความท้าทาย · Mirko
+7748	Hunter Spawn Buff	บัฟการเกิดของนักล่า
+7749	Magnificent Burst	ระเบิดอันอลังการ
+7750	Skill @{1}—Circle	ทักษะ @{1}—วงกลม
+7751	Minorous AOE-Fire	AOE-ไฟเล็กน้อย
+7752	Path of Execution	ของการดำเนินการ
+7753	Holy Light Pierce	Holy Light Pierce
+7754	Holy Divine Light	แสงศักดิ์สิทธิ์ศักดิ์สิทธิ์
+7755	Precision Surgery	ศัลยกรรมแม่นยำ
+7756	Holy Light Prayer	สวดมนต์แสงศักดิ์สิทธิ์
+7757	Holy Light Domain	โดเมนแสงศักดิ์สิทธิ์
+7758	Silence Dimension	มิติความเงียบ
+7759	[Normal-Mistress]	[ธรรมดา-เมียน้อย]
+7760	[Normal-Baphomet]	[ธรรมดา-บาโฟเมต]
+7761	[Normal-Orc Hero]	[ฮีโร่ออร์คธรรมดา]
+7762	Continue Crafting	ประดิษฐ์ต่อ
+7763	Stopped meditating	หยุดนั่งสมาธิแล้ว
+7764	Savage Hinterlands	ป่าเถื่อนอันโหดเหี้ยม
+7765	Last Battle Report	รายงานการต่อสู้ครั้งสุดท้าย
+7766	Command Skill Kill	ทักษะคำสั่งฆ่า
+7767	Screen Obscuration	การบดบังหน้าจอ
+7768	Helmet of Orc Hero	หมวกของ Orc Hero
+7769	Goblin Leader Mask	หน้ากากผู้นำก็อบลิน
+7770	Master of the Game	เจ้าแห่งเกม
+7771	Bonnie's Afternoon	ช่วงบ่ายของบอนนี่
+7772	Crab You Very Much	ปูคุณมากครับ
+7773	Strawberry Macaron	มาการองสตรอเบอร์รี่
+7774	Insufficient Power	Insufficient Power
+7775	Enter your account	เข้าสู่บัญชีของคุณ
+7776	Hidden Trove 68003	ซ่อน Trove 68003
+7777	Hidden Trove 68004	ซ่อน Trove 68004
+7778	Hidden Trove 68005	ซ่อน Trove 68005
+7779	Additional rewards	ผลตอบแทนเพิ่มเติม
+7780	Next Event Opening	การเปิดกิจกรรมถัดไป
+7781	Hidden Trove 68030	ซ่อน Trove 68030
+7782	Simplified Chinese	จีนตัวย่อ
+7783	Ritual Affiliation	ความร่วมมือทางพิธีกรรม
+7784	All stages cleared	เคลียร์ทุกขั้นตอนแล้ว
+7785	Totem Physical ATK	โทเทม โจมตีกายภาพ
+7786	Magic Penetration%	การเจาะเวทมนตร์%
+7787	Hunting Protection	อุปกรณ์ป้องกันการล่าสัตว์
+7788	Double Crit Chance	โอกาสคริติคอลสองเท่า
+7789	Silence Resistance	ต้านทานความเงียบ
+7790	Petrify Resistance	ความต้านทานกลายเป็นหิน
+7791	HP Lock Percentage	HP ล็อคเปอร์เซ็นต์
+7792	Encounter Baphomet	เผชิญหน้ากับบาโฟเมต
+7793	Find the Professor	ค้นหาศาสตราจารย์
+7794	Aboard the Airship	บนเรือเหาะ
+7795	Opens in ${1} days	เปิดใน${1}วัน
+7796	Log in to the game	เข้าสู่ระบบเกม
+7797	Help the poor man.	ช่วยเหลือชายยากจน
+7798	Ride the Fox mount	ขี่สุนัขจิ้งจอก
+7799	Equipment Refining	การกลั่นอุปกรณ์
+7800	MVP Activity Quest	ภารกิจกิจกรรม MVP
+7801	Take a look around	ลองดูรอบๆ
+7802	Failed Impeachment	การฟ้องร้องล้มเหลว
+7803	Low Guild Activity	กิจกรรมกิลด์ต่ำ
+7804	MVP Reward Reissue	MVP ออกรางวัลใหม่
+7805	Auction Settlement	Auction Settlement
+7806	Trade Exchange Ban	ห้ามการแลกเปลี่ยนการค้า
+7807	AFK Activity Quest	ภารกิจกิจกรรม AFK
+7808	Supplies Delivered	แล้ว
+7809	Remaining Supplies	วัสดุคงเหลือ
+7810	Cannot Be Attacked	ไม่สามารถโจมตีได้
+7811	Dwarven Bone Flute	ขลุ่ยกระดูกคนแคระ
+7812	Equipment Merchant	ผู้ค้าอุปกรณ์
+7813	Monsters Remaining	มอนสเตอร์ที่เหลืออยู่
+7814	Before Restoration	ก่อนการบูรณะ
+7815	Rusty Bell Clapper	ลูกตุ้มกระดิ่งขึ้นสนิม
+7816	Auto Mode Settings	การตั้งค่าโหมดอัตโนมัติ
+7817	^{1}Local Hero^{2}	^{1}ฮีโร่ท้องถิ่น^{2}
+7818	Moonlit Challenger	ชาเลนเจอร์แสงจันทร์
+7819	Monster Split Show	การแสดงแยกสัตว์ประหลาด
+7820	Come Back Tomorrow	กลับมาพรุ่งนี้
+7821	Remove from Blocks	ลบออกจากบล็อก
+7822	Remove from Tavern	นำออกจากโรงเตี๊ยม
+7823	MTR Route Analysis	การวิเคราะห์เส้นทาง MTR
+7824	Tactical Warehouse	คลังสินค้าทางยุทธวิธี
+7825	Guild Black Market	ตลาดมืดกิลด์
+7826	Prepare for battle	เตรียมพร้อมรบ
+7827	Star Core No. @{1}	สตาร์คอร์ No.@{1}
+7828	Go to South Morroc	ไปที่เซาท์มอร์ร็อค
+7829	Talk to the Mentor	พูดคุยกับที่ปรึกษา
+7830	Defeat the Pharaoh	เอาชนะฟาโรห์
+7831	Insufficient items	รายการไม่เพียงพอ
+7832	Pending activation	รอการเปิดใช้งาน
+7833	Replacement Effect	เอฟเฟกต์การเปลี่ยน
+7834	Sand Puff Assassin	นักฆ่าพัฟทราย
+7835	Finding a match...	กำลังหาคู่...
+7836	Career Total Kills	การสังหารรวมในอาชีพ
+7837	Not Enough Revives	ฟื้นคืนชีพไม่เพียงพอ
+7838	Remaining Quantity	ปริมาณคงเหลือ
+7839	Refinement Lv.${1}	ขั้นปรับแต่ง${1}
+7840	Enhance Five Times	ปรับปรุงห้าครั้ง
+7841	Special Class Item	ไอเทมคลาสพิเศษ
+7842	Commendation Vault	ห้องนิรภัยชมเชย
+7843	Party/Raid Buttons	ปุ่มปาร์ตี้/บุก
+7844	Life Skill - Miner	ทักษะชีวิต - คนงานเหมือง
+7845	Special Offer Shop	ร้านค้าข้อเสนอพิเศษ
+7846	Personal Signature	ลายเซ็นส่วนตัว
+7847	High magic damage.	ความเสียหายเวทย์มนตร์สูง
+7848	No mail to delete.	ไม่มีเมลให้ลบ
+7849	No mail right now.	ไม่มีเมลในขณะนี้
+7850	Items Under Review	รายการอยู่ระหว่างตรวจทาน
+7851	Current Reputation	ชื่อเสียงปัจจุบัน
+7852	Totem (Identified)	Totem (ระบุแล้ว)
+7853	JOB EXP: Max level	JOB EXP: ระดับสูงสุด
+7854	Machines Destroyed	ถูกทำลาย
+7855	Battlefield Rating	เรตติ้งสนามรบ
+7856	Hello, PlayerName:	สวัสดี ชื่อผู้เล่น:
+7857	Return to Backpack	กลับไปที่กระเป๋าเป้
+7858	Unlock Requirement	ไม่เป็นไปตามข้อกำหนดการปลดล็อค
+7859	Not enough [${1}]~	ไม่เพียงพอ [${1}]~
+7860	${1} hr. remaining	${1}ชม. ที่เหลืออยู่
+7861	Price - Descending	ราคา - จากมากไปน้อย
+7862	Heart Points +${1}	คะแนนคาร์ดิโอ +${1}
+7863	Submit Anonymously	ส่งโดยไม่ระบุชื่อ
+7864	Intimacy with ${1}	ความใกล้ชิดกับ${1}
+7865	Delete this group?	ลบกลุ่มนี้?
+7866	Recently Teamed Up	เพิ่งร่วมมือกัน
+7867	The Journey Begins	การเดินทางเริ่มต้นขึ้น
+7868	Invitation Message	ข้อความเชิญ
+7869	Follow Raid Leader	ติดตามหัวหน้าหน่วยจู่โจม
+7870	Party Description:	ปาร์ตี้คำอธิบาย:
+7871	Open Bidding Phase	ขั้นตอนการประมูลแบบเปิด
+7872	Go to Increase Bid	ไปที่เพิ่มราคาเสนอ
+7873	Escort Supply Cart	รถเข็นเสบียงคุ้มกัน
+7874	Northern Mountains	เทือกเขาภาคเหนือ
+7875	Fatigue: ${1}/${2}	ความเหนื่อยล้า:${1}/${2}
+7876	Battle in Progress	อยู่ระหว่างการต่อสู้
+7877	Current Lowest Bid	ราคาเสนอต่ำสุดปัจจุบัน
+7878	Armacia Weak Value	Armacia Weak Value
+7879	Neutral Resistance	แนวต้านเป็นกลาง
+7880	CRIT DMG Reduction	ลดความเสียหายจากคริติคอล
+7881	Go Submit Supplies	ไปส่งวัสดุ
+7882	Cancel Impeachment	ยกเลิกการฟ้องร้อง
+7883	Cancel Appointment	ยกเลิกการนัดหมาย
+7884	Clear Appointments	ล้างนัดหมาย
+7885	Help limit reached	ความช่วยเหลือถึงขีดจำกัดแล้ว
+7886	Please do it first	กรุณาดำเนินการก่อน
+7887	Power Requirement:	:
+7888	Prontera West Gate	พรอนเทรา เวสต์เกต
+7889	Culvert Floor @{1}	พื้นท่อระบายน้ำ@{1}
+7890	Shine! Alpaca Girl	ส่อง!สาวอัลปาก้า
+7891	Chaos Realm (Test)	อาณาจักรแห่งความโกลาหล (ทดสอบ)
+7892	S@{1}-GVE-@{2}boss	S@{1}-GVE- เจ้านาย@{2}
+7893	First Strike Owner	เจ้าของการประท้วงครั้งแรก
+7894	Map Appeared: ${1}	ปรากฏ:${1}
+7895	MVP status updated	แล้ว
+7896	Card: Baphomet Jr.	การ์ด: บาโฟเมต จูเนียร์
+7897	Sketch Card: Eddga	การ์ดสเก็ตช์: Eddga
+7898	Card: Elder Willow	การ์ด: เอ็ลเดอร์วิลโลว์
+7899	Sketch Card: Drake	การ์ดร่าง: Drake
+7900	Shadow Card: Drake	การ์ดเงา: Drake
+7901	Shadow Card: Eddga	การ์ดเงา: Eddga
+7902	Card: Doppelganger	การ์ด: ดอพเพลแกงเกอร์
+7903	HP is already full	HP เต็มแล้ว
+7904	City Fallen Debuff	ดีบัฟที่ล่มสลายของเมือง
+7905	Physical ATK +@{1}	พลังโจมตีกายภาพ +@{1}
+7906	Physical ATK +${1}	พลังโจมตีกายภาพ +${1}
+7907	Crit Chance +@{1}%	โอกาสคริติคอล +@{1}%
+7908	Not currently used	ยังไม่ได้ใช้งาน
+7909	Radiant Holy Light	แสงศักดิ์สิทธิ์อันเปล่งประกาย
+7910	Divine Retribution	การลงโทษอันศักดิ์สิทธิ์
+7911	High-Energy Impact	ผลกระทบด้านพลังงานสูง
+7912	Aerial Bombardment	การทิ้งระเบิดทางอากาศ
+7913	Collect Live Coals	รวบรวมถ่านหินที่มีชีวิต
+7914	Earth Poring Split	เครื่องแยกรูพรุนดิน
+7915	Monster Resistance	ต้านทานมอนสเตอร์
+7916	Display UI Buttons	แสดงปุ่ม UI
+7917	All Nearby Targets	เป้าหมายใกล้เคียงทั้งหมด
+7918	Rotating Mechanism	กลไกการหมุน
+7919	Crossbow Mechanism	กลไกหน้าไม้
+7920	Targeted Explosion	ระเบิดแบบกำหนดเป้าหมาย
+7921	Cooldown Reduction	ลดคูลดาวน์
+7922	Skill@{1} Teleport	ทักษะ@{1}เทเลพอร์ต
+7923	Circle of the Dead	วงกลมแห่งความตาย
+7924	Unlimited Shooting	ยิงได้ไม่จำกัด
+7925	Warg Hunt (Ranged)	ล่าวาร์ก (ระยะไกล)
+7926	Burrow Underground	โพรงใต้ดิน
+7927	Jump into the Cave	กระโดดเข้าไปในถ้ำ
+7928	Phantom of Despair	ปีศาจแห่งความสิ้นหวัง
+7929	Maya Purple Skills	ทักษะมายาม่วง
+7930	Dark Priest Skills	ทักษะนักบวชแห่งความมืด
+7931	Toad Normal Attack	คางคกโจมตีปกติ
+7932	Bombring Explosion	เหตุระเบิด
+7933	Gravity Totem Pull	โทเท็มแรงโน้มถ่วง
+7934	Highest Killstreak	การฆ่าต่อเนื่องสูงสุด
+7935	Rending Tiger Roar	เรนเดอร์ เสือคำราม
+7936	Enraged Tiger Roar	เสือคำรามอย่างโกรธเกรี้ยว
+7937	Demonic Aura Surge	ไฟกระชากออร่าปีศาจ
+7938	Demonic Aura Burst	ระเบิดออร่าปีศาจ
+7939	Spectral Wandering	สเปกตรัมพเนจร
+7940	Tainted Soul Slash	เฉือนวิญญาณที่แปดเปื้อน
+7941	Undead Convergence	การบรรจบกันของอันเดด
+7942	Silver Moon Strike	ซิลเวอร์ มูน สไตรค์
+7943	Account Management	การจัดการบัญชี
+7944	Sign in with Apple	ลงชื่อเข้าใช้ด้วย Apple
+7945	Link Guest Account	เชื่อมโยงบัญชีผู้เยี่ยมชม
+7946	Scenario Base Pack	ชุดฐานสถานการณ์
+7947	Flying Blade Check	การตรวจสอบใบมีดบิน
+7948	Falling Cannonball	ลูกปืนใหญ่ล้ม
+7949	Drake Water Pillar	เสาน้ำ Drake
+7950	Falling Explosives	วัตถุระเบิดที่ตกลงมา
+7951	Hornet Assault@{1}	การโจมตีของแตน@{1}
+7952	Maya Normal Attack	มายา โจมตีปกติ
+7953	Silk Spit Tutorial	การสอน Silk Spit
+7954	Teleport to Center	เทเลพอร์ตไปยังศูนย์กลาง
+7955	Bandage Ambush@{1}	ผ้าพันแผลซุ่มโจมตี@{1}
+7956	Launch Blue Bubble	เปิดตัว Blue Bubble
+7957	P@{1} Applies Buff	P@{1}ใช้บัฟ
+7958	P@{1} Green Bubble	P@{1}ฟองสีเขียว
+7959	Ground Blue Bubble	ฟองพื้นสีน้ำเงิน
+7960	Down_Trigger Check	ตรวจสอบ Down_Trigger
+7961	Left_Trigger Check	ตรวจสอบ Left_Trigger
+7962	Skill@{1}Charge Up	@{1}ชาร์จเต็มแล้ว
+7963	Skill@{1}Shout@{2}	ทักษะ@{1}ตะโกน@{2}
+7964	Obtain Yellow Note	รับหมายเหตุสีเหลือง
+7965	Normal Attack_@{1}	การโจมตีปกติ_@{1}
+7966	Triple Strike_@{1}	ทริปเปิลสไตรค์_@{1}
+7967	Melody Bombardment	ระเบิดเมโลดี้
+7968	Rhythmic Wolf King	ราชาหมาป่าลีลา
+7969	Celestial Symphony	เซเลสเชียล ซิมโฟนี
+7970	Thunderclap (Copy)	Thunderclap (คัดลอก)
+7971	Elemental Ensemble	วงดนตรีธาตุ
+7972	Coordinated Attack	การโจมตีแบบประสานงาน
+7973	Camouflage Enhance	เสริมลายพราง
+7974	Orc Hero New Skill	ทักษะใหม่ของฮีโร่ออร์ค
+7975	Baphomet New Skill	บาโฟเมต สกิลใหม่
+7976	Dual-Wield Mastery	ความเชี่ยวชาญในการใช้อาวุธคู่
+7977	Continuous Healing	การรักษาอย่างต่อเนื่อง
+7978	Spatial Distortion	การบิดเบือนเชิงพื้นที่
+7979	No cards available	ไม่มีการ์ด
+7980	Deployment Effects	ผลการปรับใช้
+7981	Collection Effects	ตัวอย่างคอลเลกชัน
+7982	No Bonds collected	ไม่มีการรวบรวมพันธบัตร
+7983	Collection Preview	ดูตัวอย่างคอลเลกชัน
+7984	Cancel Interaction	ยกเลิกการโต้ตอบ
+7985	Approve Membership	Approve Membership
+7986	Member Recruitment	รับสมัครสมาชิก
+7987	PV Hunting Command	PV คำสั่งการล่าสัตว์
+7988	Level Requirement:	:
+7989	Reward: Guaranteed	รางวัล: รับประกัน
+7990	Reward: Selectable	รางวัล: เลือกได้
+7991	Gender Restriction	การจำกัดเพศ
+7992	Expires after ${1}	หมดอายุหลังจาก${1}
+7993	Default Build ${1}	บิลด์เริ่มต้น${1}
+7994	Reset Skill Points	รีเซ็ตคะแนนทักษะ
+7995	Skill Point Preset	พรีเซ็ตแต้มทักษะ
+7996	Activate Resonance	เปิดใช้งานเสียงสะท้อน
+7997	Reason for Report:	เหตุผลในการรายงาน:
+7998	You were mentioned	คุณถูกกล่าวถึง
+7999	Advanced Live Coal	ถ่านหินสดขั้นสูง
+8000	Wandering Merchant	พ่อค้าพเนจร

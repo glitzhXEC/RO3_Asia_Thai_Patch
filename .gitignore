@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generator caches / backups
+_TranslationWorkspace/translations_cache.json
+_TranslationWorkspace/import/*.bak
+Client/BepInEx/Translation/ja/Text/*.before-import-*.bak
+
+# Diagnostics / local outputs
+tools/diagnostics/*.dll
+tools/diagnostics/*.exe
+_TranslationWorkspace/Language.constants.txt
+_TranslationWorkspace/Localization_en.constants.txt
+_TranslationWorkspace/LuaNameplateModuleInspector.dll
+_TranslationWorkspace/inspect_localization_access.txt
+Client/BepInEx/config/RO3.WorldNameTranslations.tsv
+Client/BepInEx/plugins/RO3.WorldNameTranslator.dll
+Client/BepInEx/plugins/RO3.LuaNameplateModuleInspector.dll
+Client/BepInEx/patchers/
+*.log
+*.tmp
+*.bak
+
+# Build/distribution outputs
+dist/
+release/
+*.zip
+*.7z
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1001 @@
+﻿Index	English	Thai_Translation
+21001	Follow the pathfinder ant to the entrance of the queen ant's nest	เดินตามมดผู้บุกเบิกไปยังทางเข้ารังมดราชินี
+21002	Ji explains that multiple parallel timelines exist in this world.	Ji อธิบายว่าโลกนี้มีไทม์ไลน์คู่ขนานหลายเส้น
+21003	Obtain a wealth of resources and provide Guild Coins to the guild	รับทรัพยากรมากมายและมอบเหรียญกิลด์ให้กับกิลด์
+21004	Tap to Follow a party member participating in the Caravan Escort.	แตะเพื่อติดตามสมาชิกปาร์ตี้ที่เข้าร่วมใน Caravan Escort
+21005	The current gameplay experience does not represent final quality.	ประสบการณ์การเล่นเกมในปัจจุบันไม่ได้แสดงถึงคุณภาพขั้นสุดท้าย
+21006	Tap to select items to sell. Press and hold to view item details.	แตะเพื่อเลือกรายการที่จะขายกดค้างไว้เพื่อดูรายละเอียดรายการ
+21007	Resetting will remove all smelting attributes from the equipment.	การรีเซ็ตจะลบคุณลักษณะการถลุงทั้งหมดออกจากอุปกรณ์
+21008	Entry requirements not met. Unable to reach the destination area.	ไม่เป็นไปตามข้อกำหนดรายการไม่สามารถไปถึงพื้นที่ปลายทางได้
+21009	The Professor has something important to tell You. Go talk to him	ศาสตราจารย์มีเรื่องสำคัญจะบอกคุณไปคุยกับเขาสิ
+21010	A client configuration update was detected. You must Restart Now.	ตรวจพบการอัปเดตการกำหนดค่าไคลเอ็นต์ คุณต้องรีสตาร์ททันที
+21011	Guild Members gain ^{1}@{1}%^{2} combat power during City Defense	จะได้รับ ^{1}@{1}%^{2}พลังการต่อสู้ระหว่างการป้องกันเมือง
+21012	^{1}^{2}^{3}Physical^{4}^{5}^{6}\n^{7}^{8}^{9}Buff^{10}^{11}^{12}	^{1}^{2}^{3}กายภาพ^{4}^{5}^{6}\n^{7}^{8}^{9}บัฟ^{10}^{11}^{12}
+21013	An exhilarating @{1} VS @{2} showdown! Come join the Competition!	การประลองระหว่าง@{1}VS@{2}สุดเร้าใจ!มาร่วมการแข่งขัน!
+21014	Invitations received during this login will be saved to the list.	คำเชิญที่ได้รับระหว่างการเข้าสู่ระบบนี้จะถูกบันทึกลงในรายการ
+21015	Stronghold-holding guilds can purchase supplies from other guilds	กิลด์ที่ยึดฐานที่มั่นสามารถซื้อของจากกิลด์อื่นได้
+21016	No grounds for impeachment. The Guild Master cannot be impeached.	ไม่มีเหตุผลสำหรับการกล่าวโทษGuild Master ไม่สามารถถูกกล่าวโทษได้
+21017	${1}noticed your Get Help request and helped you submit the item.	${1}สังเกตเห็นคำขอรับความช่วยเหลือของคุณ และช่วยคุณส่งสินค้า
+21018	The maximum number of players who can Place Bet has been reached.	ถึงจำนวนผู้เล่นสูงสุดที่สามารถวางเดิมพันได้แล้ว
+21019	Damage against all Orcs +@{1}% (excluding Orc Lord and Orc Hero).	สร้างความเสียหายต่อ Orc ทั้งหมด +@{1}% (ไม่รวม Orc Lord และ Orc Hero)
+21020	Transform: Poring, reducing Movement Speed and preventing attacks	Transform: เจาะ ลดความเร็วในการเคลื่อนที่ และป้องกันการโจมตี
+21021	Continuously restores a large amount of Life and increases damage	ฟื้นฟูพลังชีวิตจำนวนมากอย่างต่อเนื่องและเพิ่มความเสียหาย
+21022	Damage Increase: ${1}% while fighting alongside ^{1}【Falcon】^{2}.	เพิ่มความเสียหาย:${1}% ขณะต่อสู้เคียงข้าง ^{1}【Falcon】^{2}
+21023	<color=#63A22B>Download Speed: ${1}</color>  File Size: ${2}/${3}	<color=#63A22B>Download Speed: ${1}</color>  File Size: ${2}/${3}
+21024	^{1}^{2}[Shield Boomerang]^{3}^{4} ricochets an Extra ${1} times.	^{1}^{2}[Shield Boomerang]^{3}^{4}เด้งกลับพิเศษ${1}ครั้ง
+21025	Converts @{1}% of the sum of Physical ATK and Magic ATK into Life	แปลง@{1}% ของผลรวมของ ATK กายภาพและ ATK เวทย์เป็นชีวิต
+21026	Increases Max HP by ${1}% of the total PATK and MATK, up to ${2}.	เพิ่ม Max HP โดย${1}% ของ PATK และ MATK ทั้งหมด สูงสุด${2}
+21027	Unique Effect: CRIT DMG +${1}%. Each stack grants an Extra ${2}%.	เอฟเฟกต์เฉพาะ: CRIT DMG +${1}% แต่ละสแต็กให้${2}% พิเศษ
+21028	Third-Prize Announcement @{2} ms after Campfire Phase @{1} begins	ประกาศรางวัลที่สาม@{2}ms หลังจากระยะแคมป์ไฟ@{1}เริ่มต้นขึ้น
+21029	First-Prize Announcement @{2} ms after Campfire Phase @{1} begins	ประกาศรางวัลที่หนึ่ง@{2}ms หลังจากระยะแคมป์ไฟ@{1}เริ่มต้นขึ้น
+21030	A decorative eggshell worn on the head. It's surprisingly sturdy.	เปลือกไข่ประดับที่สวมอยู่บนศีรษะ มันแข็งแกร่งอย่างน่าประหลาดใจ
+21031	A radiant, sacred unicorn that looks enchanting from every angle.	ยูนิคอร์นที่เปล่งประกายและศักดิ์สิทธิ์ที่ดูน่าหลงใหลจากทุกมุม
+21032	Flames bloom wherever you tread, each step writing a poem in ash.	เปลวไฟเบ่งบานทุกที่ที่คุณเหยียบ แต่ละขั้นตอนเขียนบทกวีด้วยขี้เถ้า
+21033	Emergency Call is an exclusive skill for the Vice Guild Master.	Emergency Call เป็นทักษะพิเศษสำหรับ Vice Guild Master
+21034	"Consuming a ""Yggdrasil Berry"" instantly restores @{1}% HP and SP."	"Consuming a ""Yggdrasil Berry"" instantly restores@{1}% HP and SP."
+21035	Guild Management Members cannot be removed with Banish from Guild	สมาชิกการจัดการกิลด์ไม่สามารถลบออกโดย Banish ออกจากกิลด์
+21036	Automatically Ride the Ostrich Mount After the Balloon Is Removed	ขี่ Ostrich Mount โดยอัตโนมัติหลังจากถอดบอลลูนออก
+21037	Not enough materials. Please obtain the required materials first.	วัสดุไม่เพียงพอกรุณารับวัสดุที่จำเป็นก่อน
+21038	Limited-Time Hatchery time remaining: <color=#ff993f>${1}</color>	เวลาฟักไข่แบบจำกัดเวลาที่เหลืออยู่:<color=#ff993f>${1}</color>
+21039	Complete your second Job Advance to unlock a more powerful class.	ทำ Job Advance ครั้งที่สองให้เสร็จสิ้นเพื่อปลดล็อกคลาสที่ทรงพลังยิ่งขึ้น
+21040	Activate all Resonance effects for any @{1} Elements in Soul Echo	เปิดใช้งานเอฟเฟกต์ Resonance ทั้งหมดสำหรับองค์ประกอบ@{1}ใด ๆ ใน Soul Echo
+21041	Confirm deployment. Feel that power surging through you! Hee-hee~	ยืนยันการปรับใช้สัมผัสถึงพลังที่พุ่งทะยานผ่านตัวคุณ!ฮิฮิ~
+21042	Try Save Preset first. You can make further changes after saving.	ลองบันทึกค่าที่ตั้งไว้ล่วงหน้าก่อนคุณสามารถทำการเปลี่ยนแปลงเพิ่มเติมได้หลังจากบันทึก
+21043	How can a Merchant go without their own Cart Merchant? Follow me!	ผู้ค้าจะไปโดยไม่มีผู้ค้ารถเข็นของตนเองได้อย่างไรติดตามฉัน!
+21044	Wow! It's so beautiful here! Much comfier than Master's Backpack~	ว้าว!ที่นี่สวยมาก!สบายกว่ากระเป๋าเป้ของอาจารย์มาก~
+21045	Please claim your unclaimed Rank Reward from the previous Season.	โปรดรับรางวัลอันดับที่คุณยังไม่มีการอ้างสิทธิ์จากฤดูกาลที่แล้ว
+21046	You ranked No. ${1} in this event. Please claim the prizes below!	คุณอยู่ในอันดับที่${1}ในกิจกรรมนี้กรุณารับรางวัลด้านล่าง!
+21047	Don't worry, we've got this! We'll go pick the flowers right now!	ไม่ต้องกังวล เรามีสิ่งนี้!เราจะไปเก็บดอกไม้กันเดี๋ยวนี้!
+21048	Sir! Don't squeeze that. If you damage it, you'll have to buy it!	ท่าน!อย่าบีบอันนั้นถ้าเสียหายก็ต้องซื้อ!
+21049	You'll have to meet my requirements before you can Trade with me.	คุณจะต้องปฏิบัติตามข้อกำหนดของฉันก่อนจึงจะสามารถซื้อขายกับฉันได้
+21050	Well done. You've grasped your new skills faster than I expected.	ทำได้ดีมากคุณเข้าใจทักษะใหม่ของคุณเร็วกว่าที่ฉันคาดไว้
+21051	Oh? So you're the rookie she Suggested? You certainly look eager.	อ้าว?คุณเป็นมือใหม่ที่เธอแนะนำเหรอ?คุณดูกระตือรือร้นอย่างแน่นอน
+21052	All right, All right! Another errand, just as expected. Let's go!	เอาล่ะเอาล่ะ! อีกหนึ่งภารกิจตามที่คาดไว้ ไปกันเลย!
+21053	"What does she mean by ""run errands""? She's gone a little too far."	"""ไปทำธุระ"" เธอหมายถึงอะไร?เธอไปไกลไปหน่อย"
+21054	Huh? The guy vanished and left his Clothes here? What's going on?	หือ?ชายคนนั้นหายตัวไปและทิ้งเสื้อผ้าของเขาไว้ที่นี่เหรอ?เกิดอะไรขึ้น?
+21055	It's back? Oh my gosh... You really brought it back in one piece!	กลับมาแล้วเหรอ?โอ้พระเจ้า... คุณเอามันกลับมาเป็นชิ้นเดียวจริงๆ!
+21056	The Dungeon is not open yet. Contact Guild Management to open it.	ดันเจี้ยนยังไม่เปิดติดต่อฝ่ายจัดการกิลด์เพื่อเปิด
+21057	Deviling\nThe entrance to the Pirate's Hidden Treasure has closed	Deviling\nทางเข้าสมบัติที่ซ่อนอยู่ของโจรสลัดปิดแล้ว
+21058	Tap above a wormhole to enter it and emerge from another wormhole	แตะเหนือรูหนอนเพื่อเข้าไปและโผล่ออกมาจากรูหนอนอื่น
+21059	^{1}[${1}]^{2} added an accelerant, replacing [${2}] with [${3}].	^{1}[${1}]^{2}เพิ่มตัวเร่งความเร็ว โดยแทนที่ [${2}] ด้วย [${3}]
+21060	An exciting moment is approaching!\nPlayers in 【${1}】, get ready!	ช่วงเวลาที่น่าตื่นเต้นกำลังใกล้เข้ามา!ผู้เล่น\nใน 【${1}】 เตรียมตัวให้พร้อม!
+21061	Bobo\nSomething's wrong with these flames! Don't stand too close!	Bobo\nมีบางอย่างผิดปกติกับเปลวไฟเหล่านี้!อย่ายืนใกล้เกินไป!
+21062	We can't go on like this. If only someone nearby could help us...	เราไปกันแบบนี้ไม่ได้แล้วถ้ามีคนใกล้ตัวช่วยเราได้...
+21063	Bobo\nThat's the professor's voice! Let's hurry and get him down!	Bobo\nนั่นเสียงศาสตราจารย์นะ!รีบพาเขาลงไปกันเถอะ!
+21064	Bobo\nThat must be the Relic up ahead! Whew, we finally found it!	Bobo\nนั่นคงเป็น Relic ที่อยู่ข้างหน้าอย่างแน่นอน!ว้าว ในที่สุดเราก็พบมันแล้ว!
+21065	Church Knight\nYou couldn't have come at a worse time. Watch out!	Church Knight\nคุณไม่มีทางมาในเวลาที่แย่กว่านี้อีกแล้วระวัง!
+21066	Currently equipped appearance: <color=#cc762a><u>${1}</u></color>	Currently equipped appearance: <color=#cc762a><u>${1}</u></color>
+21067	Participate in the Guild Event: Ilmatar, God of Nature @{1} times	เข้าร่วมกิจกรรมกิลด์: อิลมาทาร์ เทพเจ้าแห่งธรรมชาติ@{1}ครั้ง
+21068	Permanently unlock the Mechanical Set - Body Accessory appearance	ปลดล็อค Mechanical Set อย่างถาวร - รูปลักษณ์ของ Body Accessory
+21069	Activate the Sweetheart Tea Party Costume Appearance (Permanent).	เปิดใช้งานรูปลักษณ์เครื่องแต่งกายของ Sweetheart Tea Party (ถาวร)
+21070	Open this gift box to obtain a large number of progression items.	เปิดกล่องของขวัญนี้เพื่อรับไอเทมความก้าวหน้าจำนวนมาก
+21071	A premium, colorful, and delicious sea bream used in many dishes.	ปลาทะเลคุณภาพเยี่ยม สีสันสวยงาม และอร่อยที่ใช้ประกอบอาหารได้หลากหลาย
+21072	Common silk thread used to sew clothing or light cloth equipment.	ด้ายไหมทั่วไปใช้เย็บเสื้อผ้าหรืออุปกรณ์ผ้าบาง
+21073	Similar to a Large Jellopy, but with a brighter crystalline glow.	คล้ายกับเยลลี่ขนาดใหญ่ แต่มีแสงคริสตัลที่สว่างกว่า
+21074	A gemstone that emits a Blue glow. Can be exchanged for Headwear.	อัญมณีที่เปล่งแสงสีน้ำเงิน สามารถเปลี่ยนเป็น Headwear ได้
+21075	A gemstone that emits a pink glow. Can be exchanged for Headwear.	อัญมณีที่เปล่งประกายสีชมพู สามารถเปลี่ยนเป็น Headwear ได้
+21076	${1} successfully performs the beautiful movement of Overture III	${1}ทำการเคลื่อนไหวที่สวยงามของ Overture III ได้สำเร็จ
+21077	An axe designed to overcome the slow attack speed common to axes.	ขวานที่ออกแบบมาเพื่อเอาชนะความเร็วการโจมตีที่ช้าซึ่งเหมือนกับขวานทั่วไป
+21078	First prize must be drawn from players using the Poring Transform	จะต้องจับรางวัลที่หนึ่งจากผู้เล่นที่ใช้ Poring Transform
+21079	Third prize must be drawn from players using the Poring Transform	รางวัลที่สามจะต้องมาจากผู้เล่นที่ใช้ Poring Transform
+21080	Event Period: Sundays on even-numbered weeks, @{1}:@{2}~@{3}:@{4}	ระยะเวลากิจกรรม: วันอาทิตย์ในสัปดาห์เลขคู่@{1}:@{2}~@{3}:@{4}
+21081	You already have an unclaimed gift containing the same appearance	คุณมีของขวัญที่ยังไม่มีผู้อ้างสิทธิ์ซึ่งมีรูปลักษณ์เดียวกันอยู่แล้ว
+21082	Auto-battle time was too short. No earnings summary is available.	เวลาการต่อสู้อัตโนมัติสั้นเกินไปNo earnings summary is available.
+21083	This guild is on Merge Guild cooldown and cannot Merge Guild yet.	กิลด์นี้อยู่ในคูลดาวน์ผสานกิลด์และยังไม่สามารถรวมกิลด์ได้
+21084	You have already joined a guild. Failed to cancel the application	คุณได้เข้าร่วมกิลด์แล้วไม่สามารถยกเลิกใบสมัครได้
+21085	The attribute selected by the client does not exist on the server	ไม่มีแอตทริบิวต์ที่เลือกโดยไคลเอ็นต์บนเซิร์ฟเวอร์
+21086	Response failed. You cannot respond to your own Get Help request.	ล้มเหลวคุณไม่สามารถตอบสนองต่อการร้องขอความช่วยเหลือของคุณเองได้
+21087	Too many requests. Please wait before starting matchmaking again.	มีคำขอมากเกินไปกรุณารอก่อนที่จะเริ่มการจับคู่อีกครั้ง
+21088	Nickname does not meet the length requirements. Please try again.	ชื่อเล่นไม่ตรงตามข้อกำหนดด้านความยาวโปรดลองอีกครั้ง
+21089	Uses a Burst of speed to move ${1} m in the designated direction.	ใช้ความเร็วต่อเนื่องเพื่อเคลื่อน${1}m ไปในทิศทางที่กำหนด
+21090	You can participate in this event the day after you Join a guild.	คุณสามารถเข้าร่วมกิจกรรมนี้ได้ในวันถัดไปหลังจากที่คุณเข้าร่วมกิลด์
+21091	Let's split up and meet back here once we've gathered everything!	แยกย้ายแล้วกลับมาพบกันที่นี่เมื่อรวบรวมครบแล้ว!
+21092	For every @{1} skills on this Totem, gain @{2}% damage reduction.	สำหรับทุกทักษะของ@{1}บนโทเทมนี้ ได้รับการลดความเสียหายของ@{2}%
+21093	Magic damage against targets below @{1}% Life increased by @{2}%.	ความเสียหายเวทย์มนตร์ต่อเป้าหมายที่ต่ำกว่า@{1}% พลังชีวิตเพิ่มขึ้น@{2}%
+21094	Movement Speed +@{1}%. Touch a red bubble to gain a damage bonus.	ความเร็วในการเคลื่อนที่ +@{1}%แตะฟองสีแดงเพื่อรับโบนัสความเสียหาย
+21095	Reduces damage taken from players' Normal Attack skills by ${1}%.	ลดความเสียหายที่ได้รับจากทักษะการโจมตีปกติของผู้เล่นลง${1}%
+21096	Traps one player inside a Bell, then attacks the Bell with an AOE	จับผู้เล่นหนึ่งคนไว้ในกระดิ่ง แล้วโจมตีระฆังด้วย AOE
+21097	Target three players and drop cross-shaped cannon blasts on them.	กำหนดเป้าหมายผู้เล่นสามคนแล้วปล่อยปืนใหญ่รูปกากบาทใส่พวกเขา
+21098	Assistance request sent to the <color=#F4F2E9>${1}</color> Channel	Assistance request sent to the <color=#F4F2E9>${1}</color> Channel
+21099	You haven't cleared this round yet. Are you sure you want to quit?	คุณยังไม่ได้เคลียร์รอบนี้คุณแน่ใจหรือว่าต้องการเลิก?
+21100	Fight in the Territory War and earn bountiful rewards for victory.	ต่อสู้ในสงครามอาณาเขตและรับรางวัลมากมายสำหรับชัยชนะ
+21101	^{1}Attack Almakia with the Heavy Cannon until it becomes Weak^{2}	^{1}โจมตีอัลมาเกียด้วยปืนใหญ่หนักจนกระทั่งมันอ่อนแอ^{2}
+21102	There's an Adventurer camp nearby. Go there to gather information.	มีแคมป์นักผจญภัยอยู่ใกล้ๆไปที่นั่นเพื่อรวบรวมข้อมูล
+21103	Touch the memory entity prototype and fall into another dimension.	สัมผัสต้นแบบเอนทิตีหน่วยความจำแล้วตกไปสู่อีกมิติหนึ่ง
+21104	【Challenge】 Defeat an MVP with any Member of your Adventure Party.	【ท้าทาย】 เอาชนะ MVP ด้วยสมาชิกปาร์ตี้ผจญภัยของคุณ
+21105	This player is masked. You cannot view their personal information.	เครื่องเล่นนี้ถูกสวมหน้ากากคุณไม่สามารถดูข้อมูลส่วนบุคคลของพวกเขาได้
+21106	Randomly grants <color=#cc762a>${1}-${2}</color> Unseal Card Slots	Randomly grants <color=#cc762a>${1}-${2}</color> Unseal Card Slots
+21107	"Spend <sprite name=""${1}""> <color=#cc762a>x${2}</color> to Revive?"	"Spend <sprite name=""${1}""> <color=#cc762a>x${2}</color> to Revive?"
+21108	Enhancement attributes take effect once the equipment is equipped.	จะมีผลเมื่อติดตั้งอุปกรณ์แล้ว
+21109	The displayed review time varies based on the player's Reputation.	เวลาตรวจสอบที่แสดงจะแตกต่างกันไปขึ้นอยู่กับชื่อเสียงของผู้เล่น
+21110	For every @{1} professions that reach Grandmaster, Max Vigor +@{2}	สำหรับทุกอาชีพ@{1}ที่เข้าถึงปรมาจารย์ Max Vigor +@{2}
+21111	Automatically use when HP falls below <color=#cc762a>${1}%</color>	Automatically use when HP falls below <color=#cc762a>${1}%</color>
+21112	Automatically use when SP falls below <color=#cc762a>${1}%</color>	Automatically use when SP falls below <color=#cc762a>${1}%</color>
+21113	This player is in an instance and cannot accept Party invitations.	ผู้เล่นนี้อยู่ในอินสแตนซ์และไม่สามารถรับคำเชิญปาร์ตี้ได้
+21114	Invitations are being sent too frequently. Please try again later.	คำเชิญถูกส่งบ่อยเกินไปโปรดลองอีกครั้งในภายหลัง
+21115	Targets are being switched too frequently. Please try again later.	เป้าหมายถูกสลับบ่อยเกินไปโปรดลองอีกครั้งในภายหลัง
+21116	Please enter a recruitment message of no more than ${1} characters	กรุณากรอกข้อความรับสมัครไม่เกินตัวอักษร${1}
+21117	Load <color=#a6e26c>6/7/8</color> items to earn Additional rewards	Load <color=#a6e26c>6/7/8</color> items to earn Additional rewards
+21118	The entry period has ended. You can no longer enter the Gala Quiz.	ระยะเวลาการเข้าสิ้นสุดลงแล้วคุณไม่สามารถเข้าร่วม Gala Quiz ได้อีกต่อไป
+21119	Damage taken by this unit from the next hit is increased by ${1}%.	ความเสียหายที่ได้รับจากยูนิตนี้จากการโจมตีครั้งต่อไปจะเพิ่มขึ้น${1}%
+21120	I have read and agree to the Service Agreement and Privacy Policy.	ฉันได้อ่านและยอมรับข้อตกลงการบริการและนโยบายความเป็นส่วนตัวแล้ว
+21121	A new game version is available. Please launch the game to update.	มีเกมเวอร์ชั่นใหม่ให้ใช้งานแล้ว กรุณาเปิดเกมเพื่ออัปเดต
+21122	When ^{1}^{2}[Basilica]^{3}^{4} reaches Lv. ${1}, MDEF/PDEF +${2}.	เมื่อ ^{1}^{2}[มหาวิหาร]^{3}^{4}ถึง Lv.${1}, MDEF/PDEF +${2}.
+21123	Learning ^{1}^{2}[Spear Mastery]^{3}^{4} grants ${1}% Holy Damage.	การเรียนรู้ ^{1}^{2}[ความชำนาญหอก]^{3}^{4}ให้${1}% ความเสียหายศักดิ์สิทธิ์
+21124	PATK +@{1}, and ^{1}^{2}[Sacrifice]^{3}^{4} no longer consumes HP.	PATK +@{1}และ ^{1}^{2}[Sacrifice]^{3}^{4}ไม่สิ้นเปลือง HP อีกต่อไป
+21125	^{1}^{2}[Brandish Spear]^{3}^{4} gains an Extra ${1}% Crit Chance.	^{1}^{2}[หอกแบรนด์]^{3}^{4}ได้รับโอกาสคริติคอลพิเศษ${1}%
+21126	Second-Prize Announcement @{2} ms after Campfire Phase @{1} begins	Second-Prize Announcement@{2}ms after Campfire Phase@{1}begins
+21127	A theatrical prop Helmet that frightens others when worn normally.	หมวกพร็อพแสดงละครที่ทำให้ผู้อื่นหวาดกลัวเมื่อสวมใส่ตามปกติ
+21128	A mustache that gives you a sincere and dependable look when worn.	หนวดที่ช่วยให้คุณดูจริงใจและไว้วางใจได้เมื่อสวมใส่
+21129	Expedition Duration <#c2ff7a><size=36>${1}</size></color>/${2} min	Expedition Duration <#c2ff7a><size=36>${1}</size></color>/${2} min
+21130	Guild Activities - (Auction Eligibility) Guild League - Semifinals	กิจกรรมกิลด์ - (สิทธิ์การประมูล) ลีกกิลด์ - รอบรองชนะเลิศ
+21131	Deploy 3 pets from the same Faction to activate the Faction bonus.	ปรับใช้สัตว์เลี้ยง 3 ตัวจากฝ่ายเดียวกันเพื่อเปิดใช้งานโบนัสฝ่าย
+21132	This pet is currently in a Utility Slot. Change it to a Main Slot?	สัตว์เลี้ยงตัวนี้อยู่ในช่องยูทิลิตี้เปลี่ยนเป็นสล็อตหลักหรือไม่?
+21133	This pet is currently in a Main Slot. Change it to a Utility Slot?	สัตว์เลี้ยงตัวนี้อยู่ในช่องหลักเปลี่ยนเป็น Slot Utility หรือไม่?
+21134	Next, let's Learn how to equip a Potion to a quick slot. Tap here.	ต่อไป เรามาเรียนรู้วิธีติดตั้ง Potion ในช่องด่วนกันดีกว่าแตะที่นี่
+21135	Now, drag the Potion into the empty slot like this. Give it a try!	ตอนนี้ ลาก Potion ลงในช่องว่างแบบนี้ลองดูสิ!
+21136	Talents can quickly make you stronger. Come take a look with Bobo!	พรสวรรค์สามารถทำให้คุณแข็งแกร่งขึ้นได้อย่างรวดเร็วมาดูกับโบโบ้กันเถอะ!
+21137	Huh? Is something still not ready? Bobo can't wait any longer, bo!	หือ?มีอะไรยังไม่พร้อมหรือเปล่า?Bobo แทบรอไม่ไหวแล้ว โบ!
+21138	A gift from ${1}. Here is what ${1} would like to say to you: ${2}	ของขวัญจาก${1}. นี่คือสิ่งที่${1}อยากบอกคุณ:${2}
+21139	I'm a professional gem appraiser, and I only sell the finest gems!	ฉันเป็นผู้ประเมินอัญมณีมืออาชีพ และฉันขายเฉพาะอัญมณีที่ดีที่สุดเท่านั้น!
+21140	I really enjoy volunteering. Helping others gives my Life meaning.	ฉันสนุกกับการเป็นอาสาสมัครจริงๆการช่วยเหลือผู้อื่นทำให้ชีวิตของฉันมีความหมาย
+21141	Worn-out soles can be replaced, and a wrong turn can be corrected~	พื้นรองเท้าที่สึกหรอสามารถเปลี่ยนได้ และการเลี้ยวผิดสามารถแก้ไขได้~
+21142	...Wait. This contradicts what was written in the previous volume.	...รอ. สิ่งนี้ขัดแย้งกับสิ่งที่เขียนไว้ในเล่มที่แล้ว
+21143	Quests complete. Hawke, Thank You for the intelligence and backup.	เสร็จสมบูรณ์ฮอว์ก ขอบคุณสำหรับข่าวกรองและการสำรองข้อมูล
+21144	Come, Kill some Nearby monsters and show me your current strength.	มาเถอะ ฆ่ามอนสเตอร์ที่อยู่ใกล้ๆ แล้วแสดงความแข็งแกร่งของคุณในปัจจุบันให้ฉันดู
+21145	Waiting for the administrator to begin or for the countdown to end	รอให้ผู้ดูแลระบบเริ่มต้นหรือสิ้นสุดการนับถอยหลัง
+21146	Bee Cavalry will target players and charge. Watch your positioning	Bee Cavalry จะกำหนดเป้าหมายไปที่ผู้เล่นและพุ่งเข้าโจมตีดูตำแหน่งของคุณ
+21147	${1} voluntarily left the battlefield. Their ID Tag is now invalid	${1}ออกจากสนามรบโดยสมัครใจ แท็ก ID ของพวกเขาไม่ถูกต้องแล้ว
+21148	The party's Third Prize will be drawn in @{1} seconds. Stay tuned!	รางวัลที่สามของปาร์ตี้จะถูกจับใน@{1}วินาทีคอยติดตาม!
+21149	The party's First Prize will be drawn in @{1} seconds. Stay tuned!	รางวัลแรกของปาร์ตี้จะถูกจับใน@{1}วินาทีคอยติดตาม!
+21150	Attention!\nA group of little monsters carrying treasure is ready!	โปรดทราบ!\nกลุ่มสัตว์ประหลาดตัวน้อยถือสมบัติพร้อมแล้ว!
+21151	Bobo\nIt's too narrow here for the ant. Should we squeeze through?	Bobo\nที่นี่แคบเกินไปสำหรับมดเราควรจะผ่านมันไปดีไหม?
+21152	Martha\nDarn it! We almost won. Louie, let's challenge them again!	มาร์ธา\nให้ตายเถอะ!เราเกือบจะชนะแล้วลูอี มาท้าทายพวกเขาอีกครั้งกันเถอะ!
+21153	Cockroach Researcher\nUgh, stupid dog! Go away! Stay away from me!	นักวิจัยแมลงสาบ\nฮึ เจ้าหมาโง่!ไปให้พ้น!อยู่ห่างจากฉัน!
+21154	Activate the Dinner Date matching Facewear Appearance (Permanent).	เปิดใช้งานวันที่รับประทานอาหารค่ำที่ตรงกับลักษณะที่ปรากฏของใบหน้า (ถาวร)
+21155	A lavish gift awarded to active participants in the Territory War.	ของขวัญฟุ่มเฟือยที่มอบให้แก่ผู้เข้าร่วมที่แข็งขันในสงครามอาณาเขต
+21156	A toenail clipped from a wolf's paw. Available from the Collector.	เล็บเท้าถูกตัดออกจากอุ้งเท้าของหมาป่า มีจำหน่ายจากนักสะสม
+21157	A feline favorite used to draw items in Mine Planet Treasure Hunt.	แมวตัวโปรดที่ใช้ในการวาดไอเท็มในเกม Mine Planet Treasure Hunt
+21158	A gemstone that emits a White glow. Can be exchanged for Headwear.	อัญมณีที่เปล่งแสงสีขาวออกมา สามารถเปลี่ยนเป็น Headwear ได้
+21159	Fur from a Flying monster or Brute. Can be exchanged for Headwear.	ขนจากสัตว์ประหลาดที่บินได้หรือสัตว์เดรัจฉานสามารถเปลี่ยนเป็น Headwear ได้
+21160	Overture I rings out as ${1} successfully contributes music energy	Overture ฉันดังขึ้นเมื่อ ${1} มีส่วนร่วมกับพลังทางดนตรีได้สำเร็จ
+21161	Pet must reach the maximum star rating before it can be dismantled	สัตว์เลี้ยงต้องมีดาวสูงสุดก่อนจึงจะสามารถถอดประกอบได้
+21162	Points obtained by defeating monsters in the ^{1}Payon^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Payon^{2}
+21163	Used to offset Net Victory Points deducted in Survivor Battle Misc	ใช้เพื่อชดเชยคะแนนชัยชนะสุทธิที่หักใน Survivor Battle Misc
+21164	Third prize must be drawn from players using the Lunatic Transform	รางวัลที่สามจะต้องได้รับจากผู้เล่นที่ใช้ Lunatic Transform
+21165	Second prize must be drawn from players using the Poring Transform	Second prize must be drawn from players using the Poring Transform
+21166	Activate Lower-Left @{1} Invisible Wall @{2} when the event begins	เปิดใช้งาน@{1}ผนังที่มองไม่เห็นด้านซ้ายล่าง@{2}เมื่อกิจกรรมเริ่มต้นขึ้น
+21167	Activate Upper-Left @{1} Invisible Wall @{2} when the event begins	เปิดใช้งาน@{1}ผนังที่มองไม่เห็นด้านซ้ายบน@{2}เมื่อกิจกรรมเริ่มต้นขึ้น
+21168	The player has another action in progress. Please try again later.	ผู้เล่นมีการดำเนินการอื่นที่กำลังดำเนินการอยู่โปรดลองอีกครั้งในภายหลัง
+21169	Joining an Adventurer Group is on cooldown (time remaining: ${1}).	การเข้าร่วมกลุ่มนักผจญภัยอยู่ในช่วงคูลดาวน์ (เวลาที่เหลืออยู่:${1})
+21170	Please water a sapling displaying an Adventurer Group declaration.	โปรดรดน้ำต้นอ่อนที่แสดงคำประกาศของกลุ่มนักผจญภัย
+21171	This guild's activity rating was too low last week to Merge Guild.	คะแนนกิจกรรมของกิลด์นี้ต่ำเกินไปในสัปดาห์ที่แล้วที่จะรวมกิลด์ได้
+21172	You have reached the limit for guild responses to your application	คุณมีการตอบสนองกิลด์ต่อใบสมัครของคุณถึงขีดจำกัดแล้ว
+21173	Failed to create NPC. Invalid reason -- internal server error code	ไม่สามารถสร้าง NPCเหตุผลที่ไม่ถูกต้อง -- รหัสข้อผิดพลาดเซิร์ฟเวอร์ภายใน
+21174	You have reached today's request limit. Please try again Tomorrow.	คุณได้มาถึงขีดจำกัดคำขอของวันนี้แล้วโปรดลองอีกครั้งพรุ่งนี้
+21175	This Member is currently using a war machine. Revoke their access?	สมาชิกคนนี้กำลังใช้เครื่องจักรสงครามอยู่เพิกถอนการเข้าถึงของพวกเขา?
+21176	This item is in the public listing period and cannot be purchased.	สินค้านี้อยู่ในช่วงรายการสาธารณะและไม่สามารถซื้อได้
+21177	(Puts hands on hips) Young man! True love must be put to the test!	(วางมือบนสะโพก) หนุ่มน้อย! รักแท้ต้องถูกทดสอบ!
+21178	Oh, it's you. Would you like to review the second-job class paths?	อ๋อ คุณนั่นเอง.คุณต้องการตรวจสอบเส้นทางคลาสงานที่สองหรือไม่?
+21179	We're here to investigate the Relic! Don't worry about our safety.	เรามาที่นี่เพื่อตรวจสอบ Relic!ไม่ต้องกังวลเรื่องความปลอดภัยของเรา
+21180	Come see me again... tomorrow. Perhaps it's time you learned more.	มาเจอกันใหม่...พรุ่งนี้ครับบางทีอาจถึงเวลาที่คุณจะต้องเรียนรู้เพิ่มเติม
+21181	Normal Attack, Talent Skills, and Derived Skills cannot be edited.	การโจมตีปกติ ทักษะความสามารถพิเศษ และทักษะที่ได้รับ ไม่สามารถแก้ไขได้
+21182	Epic Battle ${1} difficulty is now available!\nAnswer the summons?	Epic Battle ความยาก${1}มาแล้ว!\nรับหมายเรียกไหม?
+21183	Learn 【Advanced Katar Mastery】 to gain an Extra ${1} Physical ATK.	เรียนรู้ 【ขั้นสูง Katar Mastery】 เพื่อรับพลังโจมตีกายภาพพิเศษ${1}
+21184	Movement Speed +@{1}%. Touch a blue bubble to gain a damage bonus.	ความเร็วในการเคลื่อนที่ +@{1}%แตะฟองสีน้ำเงินเพื่อรับโบนัสความเสียหาย
+21185	Items you no longer own were automatically removed from the build.	รายการที่คุณไม่ได้เป็นเจ้าของอีกต่อไปจะถูกลบออกจากบิลด์โดยอัตโนมัติ
+21186	Granted by the Fox Fairy. Increases damage dealt by ^{1}${1}%^{2}.	ได้รับจาก Fox Fairyเพิ่มความเสียหายที่สร้างโดย ^{1}${1}%^{2}
+21187	Increases damage reduction from Demi-Human monsters by ${1}%~${2}%	เพิ่มการลดความเสียหายจากมอนสเตอร์กึ่งมนุษย์โดย${1}%~${2}%
+21188	^{1}Use Lope to dodge attacks and slide all the way to the end!^{2}	^{1}ใช้ Lope เพื่อหลบการโจมตีและเลื่อนไปจนสุดทาง!^{2}
+21189	The Professor mentions a strange young girl nearby. Go take a look.	ศาสตราจารย์กล่าวถึงเด็กสาวแปลกหน้าที่อยู่ใกล้ๆไปดูสิ.
+21190	With the rat problem solved, Grandpa Bob decided to join your side.	เมื่อปัญหาหนูได้รับการแก้ไข คุณปู่บ๊อบจึงตัดสินใจเข้าร่วมเคียงข้างคุณ
+21191	In the letter, the Job Advance Mentor asks you to meet in Prontera.	ในจดหมาย Job Advance Mentor ขอให้คุณไปพบที่ Prontera
+21192	Give the materials to the Adventurer so he can create a tracker ant	มอบวัสดุให้กับนักผจญภัยเพื่อสร้างมดติดตาม
+21193	Increases the Shield effect by ${1} when affected by a Shield skill	เพิ่มเอฟเฟกต์โล่ขึ้น${1}เมื่อได้รับผลจากทักษะโล่
+21194	Some players must repair the Dragon-Hunting Turrets on the platform	ผู้เล่นบางคนจะต้องซ่อมแซมป้อมปืนล่ามังกรบนแพลตฟอร์ม
+21195	Head to the outskirts of the arena and Pick up Dragonblood Crystals	มุ่งหน้าไปยังบริเวณรอบนอกของสนามกีฬาแล้วเก็บ Dragonblood Crystals
+21196	Switch stat builds. This version currently supports only one build.	สลับการสร้างสถิติปัจจุบันเวอร์ชันนี้รองรับเพียงบิลด์เดียวเท่านั้น
+21197	Please confirm the item information and quantity before purchasing.	โปรดยืนยันข้อมูลรายการและปริมาณก่อนซื้อ
+21198	This exceeds the maximum quantity per listing. Please select again.	เกินปริมาณสูงสุดต่อรายการโปรดเลือกอีกครั้ง
+21199	Gift sent successfully. Please wait for the recipient to accept it.	ส่งของขวัญเรียบร้อยแล้วโปรดรอให้ผู้รับยอมรับ
+21200	Maximum bid cannot be less than ${1} times the minimum starting bid	ราคาเสนอสูงสุดต้องไม่ต่ำกว่า${1}คูณราคาเสนอเริ่มต้นขั้นต่ำ
+21201	Leave this screen?\nYour selections will be cleared when you leave.	ออกจากหน้าจอนี้?\nการเลือกของคุณจะถูกล้างเมื่อคุณออกไป
+21202	Spend ${1} Guild Funds to Level-up the ${2} building to level ${3}?	ใช้กองทุนกิลด์${1}เพื่อยกระดับอาคาร${2}ให้เป็นระดับ${3}?
+21203	You are already on the Map Appeared for this MVP. Find it yourself!	คุณอยู่บนแผนที่แล้วซึ่งปรากฏสำหรับ MVP นี้ค้นหาด้วยตัวคุณเอง!
+21204	When a one-handed or two-handed staff is equipped, Magic ATK +${1}.	เมื่อติดตั้งไม้พลองมือเดียวหรือสองมือ Magic ATK +${1}
+21205	When ^{1}^{2}[Arcane Mastery]^{3}^{4} reaches Lv. ${1}, MATK +${2}.	เมื่อ ^{1}^{2}[ศาสตร์แห่งเวทมนตร์]^{3}^{4}ถึง Lv.${1}, MATK +${2}.
+21206	Hidden Realm Boss skills are the same as those of the General Boss.	ทักษะบอสขอบเขตที่ซ่อนอยู่นั้นเหมือนกับทักษะของบอสทั่วไป
+21207	"The ""Ice Wall"" (Wall of Ice) skill can be broken by certain skills."	"ทักษะ ""กำแพงน้ำแข็ง"" (กำแพงน้ำแข็ง) สามารถถูกทำลายได้ด้วยทักษะบางอย่าง"
+21208	In RO, the Apple Headgear is the most iconic look for Mage classes.	ใน RO หมวก Apple เป็นรูปลักษณ์ที่โดดเด่นที่สุดสำหรับคลาส Mage
+21209	In RO, the more slots a piece of equipment has, the higher its DEF.	ใน RO ยิ่งอุปกรณ์มีช่องมากเท่าใด DEF ก็จะยิ่งสูงขึ้นเท่านั้น
+21210	Soul Echoes that have undergone Level-up are unavailable for Trade.	Soul Echoes ที่ได้รับการเลื่อนระดับแล้วจะไม่สามารถแลกเปลี่ยนได้
+21211	All Heroes, Enter the Inner Area for the Final Showdown with Fafnir	ฮีโร่ทั้งหมด เข้าสู่พื้นที่ชั้นในเพื่อเผชิญหน้าครั้งสุดท้ายกับฟาฟเนียร์
+21212	Automatically Ride the Wild Boar Mount After the Balloon Is Removed	ขี่หมูป่าโดยอัตโนมัติหลังจากถอดบอลลูนออก
+21213	Pet must be unlocked and complete a Level-up before it can Respawn.	สัตว์เลี้ยงจะต้องได้รับการปลดล็อคและเลื่อนระดับให้สำเร็จก่อนจึงจะสามารถเกิดใหม่ได้
+21214	Activates the Main Battle Skill of the pet in the Main Battle slot.	เปิดใช้งานทักษะการต่อสู้หลักของสัตว์เลี้ยงในช่องการต่อสู้หลัก
+21215	Outnumber the enemy inside the circle to capture the control point.	เอาชนะศัตรูในวงกลมเพื่อยึดจุดควบคุม
+21216	When a great crisis approaches, it will guide you. Use it wisely...	เมื่อวิกฤติใหญ่มาเยือน มันจะนำทางคุณใช้มันอย่างชาญฉลาด...
+21217	Don't worry! When the time comes, you can hide behind Bobo, Master!	ไม่ต้องกังวล!เมื่อถึงเวลาคุณสามารถซ่อนตัวอยู่ข้างหลัง Bobo ได้ อาจารย์!
+21218	Tell me which day you drink~\nAnd I'll tell you which day I drink~.	บอกฉันมาว่าคุณดื่มวันไหน~\nแล้วฉันจะบอกคุณว่าฉันดื่มวันไหน~
+21219	And now my friends and I have so much less to talk about. Honestly~	และตอนนี้ฉันกับเพื่อนมีเรื่องให้คุยกันน้อยมากจริงๆนะ~
+21220	I'm not bragging. It's true! Go ask one of the veteran Adventurers.	ฉันไม่ได้โม้มันเป็นเรื่องจริง!ลองไปถามนักผจญภัยผู้มีประสบการณ์คนหนึ่งสิ
+21221	They've defiled the freedom of flight. Someday, they'll pay for it.	พวกเขาทำให้เสรีภาพในการบินเป็นมลทินสักวันพวกเขาจะจ่ายเงินเพื่อมัน
+21222	Exactly! You need to take care of yourself, or who'll protect me...	Exactly!ต้องดูแลตัวเองหรือใครจะปกป้องฉัน...
+21223	Affixes? That sounds so technical... Come on! Let's check them out!	ติด? ฟังดูเป็นเทคนิคมาก... เอาน่า! มาตรวจสอบกันดีกว่า!
+21224	You've already seen the vision the compass showed you, haven't you?	คุณได้เห็นนิมิตที่เข็มทิศแสดงให้คุณเห็นแล้วใช่ไหม?
+21225	You can reenter from the event screen after exiting. Exit the area?	คุณสามารถกลับเข้ามาใหม่ได้จากหน้าจอเหตุการณ์หลังจากออกแล้วออกจากพื้นที่?
+21226	The Bonfire's blessing has faded. Please exit in an orderly fashion	พรจากกองไฟได้จางหายไปกรุณาออกไปอย่างเป็นระเบียบ
+21227	The movement is complete! Dodge in the order shown by the warnings!	การเคลื่อนไหวเสร็จสมบูรณ์!หลบตามลำดับที่คำเตือน!
+21228	Step onto the staff of rhythm. One wrong move means eternal silence	ก้าวเข้าสู่ไม้เท้าแห่งจังหวะการเคลื่อนไหวผิดครั้งเดียวหมายถึงความเงียบชั่วนิรันดร์
+21229	The party's Second Prize will be drawn in @{1} seconds. Stay tuned!	รางวัลที่สองของปาร์ตี้จะถูกจับใน@{1}วินาทีคอยติดตาม!
+21230	Gain the Shrink effect and choose You or an Other player to Shrink.	รับเอฟเฟกต์การย่อขนาดและเลือกคุณหรือผู้เล่นอื่นที่จะย่อขนาด
+21231	The ${1} Guild's Elite Treasure Cart has been completely destroyed!	รถเข็นสมบัติชั้นยอดของกิลด์${1}ถูกทำลายไปหมดแล้ว!
+21232	Bobo\nWhew, we're finally back! I'm going to get some beauty sleep!	Bobo\nเย้ ในที่สุดเราก็กลับมาแล้ว!ฉันจะไปนอนเสริมสวย!
+21233	Bobo\nMaster, look at these claw marks... Baphomet might be nearby.	Bobo\nอาจารย์ ดูรอยเล็บพวกนี้สิ... บาโฟเมตอาจจะอยู่ใกล้ๆ
+21234	Rhine\nAdventurers here for the Novice Trial, please come this way!	Rhine\nนักผจญภัยที่มาร่วมการทดสอบมือใหม่ เชิญทางนี้!
+21235	Bobo\nWhoa! There are so many people up ahead. What are they doing?	โบโบ\nอ้าว!ข้างหน้ามีคนมากมายพวกเขากำลังทำอะไรอยู่?
+21236	Bobo\nHuh? He stopped. Is he scared of that swarm of bats up ahead?	โบโบ้\nหือ?เขาหยุดเขากลัวฝูงค้างคาวที่อยู่ข้างหน้าหรือเปล่า?
+21237	Your bid on ${1} has been surpassed. Your Funds have been Refunded.	เกินราคาเสนอซื้อ${1}ของคุณแล้วเงินของคุณได้รับการคืนเงินแล้ว
+21238	You are no longer in the guild holding this auction and cannot bid.	คุณไม่ได้อยู่ในกิลด์ที่จัดการประมูลนี้อีกต่อไปและไม่สามารถเสนอราคาได้
+21239	The auction has not officially started yet. Please try again later.	การประมูลยังไม่เริ่มอย่างเป็นทางการโปรดลองอีกครั้งในภายหลัง
+21240	Pet Shards can be used to unlock and star up the corresponding Pet.	สามารถใช้เพื่อปลดล็อคและติดดาวสัตว์เลี้ยงที่เกี่ยวข้องได้
+21241	A detailed Equipment Crafting Blueprint used for Equipment Forging.	พิมพ์เขียวการสร้างอุปกรณ์โดยละเอียดที่ใช้สำหรับการตีอุปกรณ์
+21242	A mysterious potion that cures nearly every negative status effect.	ยาลึกลับที่รักษาเอฟเฟกต์ด้านลบได้เกือบทุกแบบ
+21243	Points obtained by defeating monsters in the ^{1}Geffen^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Geffen^{2}
+21244	Points obtained by defeating monsters in the ^{1}Morroc^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Morroc^{2}
+21245	Second prize must be drawn from players using the Lunatic Transform	รางวัลที่สองจะต้องสุ่มมาจากผู้เล่นที่ใช้ Lunatic Transform
+21246	Activate Upper-Right @{1} Invisible Wall @{2} when the event begins	เปิดใช้งานด้านบนขวา@{1}ผนังที่มองไม่เห็น@{2}เมื่อกิจกรรมเริ่มต้นขึ้น
+21247	Activate Lower-Right @{1} Invisible Wall @{2} when the event begins	เปิดใช้งาน@{1}ผนังที่มองไม่เห็นด้านขวาล่าง@{2}เมื่อกิจกรรมเริ่มต้นขึ้น
+21248	Member does not exist in the friend group. Failed to remove Member.	Member does not exist in the friend group.ลบสมาชิกไม่สำเร็จ
+21249	Room ownership cannot be transferred to a player on the Blocks list	ความเป็นเจ้าของห้องไม่สามารถโอนไปยังผู้เล่นที่อยู่ในรายการบล็อกได้
+21250	This Adventurer Group has reached the application acceptance limit.	กลุ่มนักผจญภัยนี้ถึงขีดจำกัดการยอมรับการสมัครแล้ว
+21251	This recruitment listing has expired. Please refresh and try again.	รายการรับสมัครนี้หมดอายุแล้วโปรดรีเฟรชและลองอีกครั้ง
+21252	The Inviting Party was not in a guild when the invite was confirmed	The Inviting Party ไม่ได้อยู่ในกิลด์เมื่อคำเชิญได้รับการยืนยัน
+21253	Are you sure you want to consume upgraded Soul Echoes for Level-up?	คุณแน่ใจหรือไม่ว่าต้องการใช้ Soul Echoes ที่อัปเกรดแล้วเพื่ออัพเลเวล?
+21254	Your party includes an Offline player. Unable to start matchmaking.	ปาร์ตี้ของคุณมีผู้เล่นออฟไลน์ด้วยไม่สามารถเริ่มการจับคู่ได้
+21255	A radiant magic orb. Use to permanently increase Magic ATK by @{1}.	ลูกแก้ววิเศษที่เปล่งประกาย ใช้เพื่อเพิ่ม Magic ATK อย่างถาวรโดย@{1}
+21256	After a brief cast, summons several Thief Bugs to follow and attack	หลังจากร่ายช่วงสั้นๆ เรียก Thief Bugs หลายตัวมาติดตามและโจมตี
+21257	...You know, it's rude to stare at someone like that for no reason.	...รู้ไหม การจ้องมองคนแบบนั้นโดยไม่มีเหตุผลเป็นเรื่องหยาบคาย
+21258	(Suddenly blushes) E-Even though it singed off a lock of my hair...	(หน้าแดงก่ำ) จ-ถึงแม้มันจะหลุดออกจากเส้นผมของฉันก็ตาม...
+21259	The world you see is but one of countless leaves on the World Tree.	โลกที่คุณเห็นเป็นเพียงใบไม้จำนวนนับไม่ถ้วนบนต้นไม้โลก
+21260	The Dancer loved your tip and granted you 15 seconds of bonus time.	นักเต้นชอบเคล็ดลับของคุณและให้เวลาโบนัสแก่คุณ 15 วินาที
+21261	Maximum Floors of all your Physical damage buffs increased by @{1}.	ชั้นสูงสุดของบัฟความเสียหายกายภาพทั้งหมดของคุณเพิ่มขึ้น@{1}
+21262	【Meteor Assault】's 【Stun】 and 【Darkness】 Chance increased by ${1}%.	【Meteor Assault】 ของ 【Stun】 และ 【Darkness】 โอกาสเพิ่มขึ้น${1}%
+21263	Increases the 【Venom】 damage triggered by 【Deadly Poison】 by ${1}%.	เพิ่มความเสียหายของ 【Venom】 ที่เกิดจาก 【Deadly Poison】 เป็น${1}%
+21264	Grants a shield equal to @{1}% of damage taken during King's Grace.	ได้รับโล่เท่ากับ@{1}% ของความเสียหายที่ได้รับระหว่าง King's Grace
+21265	Movement Speed +@{1}%. Touch a green bubble to gain a damage bonus.	ความเร็วในการเคลื่อนที่ +@{1}%แตะฟองสีเขียวเพื่อรับโบนัสความเสียหาย
+21266	Uses the higher of Physical ATK and Magic ATK when calculating ATK.	ใช้ ATK กายภาพและ ATK ที่สูงกว่าเมื่อคำนวณ ATK
+21267	Increases the target's Physical DEF and Magic DEF by ^{1}${1}%^{2}.	เพิ่ม DEF กายภาพและ DEF เวทมนตร์ของเป้าหมายโดย ^{1}${1}%^{2}
+21268	Granted by Alio. This unit's attacks gain the Surgical Mark effect.	ได้รับจาก Alioการโจมตีของยูนิตนี้จะได้รับเอฟเฟกต์ Surgical Mark
+21269	The Boss was defeated, and the treasure was taken by other players.	บอสพ่ายแพ้แล้ว และสมบัติก็ถูกผู้เล่นคนอื่นยึดไป
+21270	Enjoy the Bonfire EXP blessing while waiting for the raffle to begin	เพลิดเพลินไปกับการอวยพร Bonfire EXP ในขณะที่รอการจับฉลากเริ่มต้น
+21271	Adventurers whose <color=#987f53>${1}</color> attribute is below 50%	Adventurers whose <color=#987f53>${1}</color> attribute is below 50%
+21272	Talk to the younger sister and enter the Adventure Group declaration	คุยกับน้องสาวแล้วเข้าประกาศ Adventure Group
+21273	The Professor has been captured by Maya. Return to camp for Utility.	ศาสตราจารย์โดนมายาจับตัวไปกลับไปที่ค่ายเพื่อยูทิลิตี้
+21274	Search for the Relic using the information provided by the Soldiers.	ค้นหาโบราณวัตถุโดยใช้ข้อมูลที่ทหารให้ไว้
+21275	A Pharaoh suddenly leaps out of the Relic. Find a way to defeat him.	ทันใดนั้นฟาโรห์ก็กระโดดออกจากโบราณวัตถุ หาวิธีที่จะเอาชนะเขา
+21276	Ask Hawk about his new Clue and continue searching for the professor	ถาม Hawk เกี่ยวกับเบาะแสใหม่ของเขาและค้นหาศาสตราจารย์ต่อไป
+21277	Maya suddenly abducts the Professor, leaving you all frozen in shock	จู่ๆ Maya ก็ลักพาตัวศาสตราจารย์ไป ทำให้คุณทุกคนตกตะลึงด้วยความตกใจ
+21278	It's the man from earlier. Ask if he knows how to find the professor	ผู้ชายจากเมื่อก่อนครับถามว่าเขารู้วิธีหาอาจารย์หรือไม่
+21279	The professor is overflowing with gratitude. Hear what he has to say	อาจารย์เปี่ยมล้นด้วยความกตัญญูฟังสิ่งที่เขาพูด
+21280	You've made a major leap in power and can now advance to Trans. 2nd.	คุณได้ก้าวกระโดดครั้งใหญ่ในด้านอำนาจ และตอนนี้สามารถก้าวไปสู่ ​​Trans ได้แล้ว2.
+21281	The professor's cargo went missing at the North Gate. Go investigate	สินค้าของศาสตราจารย์หายไปที่ประตูทิศเหนือไปสอบสวน
+21282	Affects the chance of being hit by Normal Attacks and certain skills	ส่งผลต่อโอกาสที่จะถูกโจมตีด้วยการโจมตีปกติและทักษะบางอย่าง
+21283	Increases damage dealt when your attack element is at a disadvantage	เพิ่มความเสียหายที่ทำได้เมื่อองค์ประกอบการโจมตีของคุณเสียเปรียบ
+21284	Chance to trigger an Extra critical hit after landing a critical hit	โอกาสที่จะทำให้เกิดการโจมตีแบบคริติคอลพิเศษหลังจากโจมตีแบบคริติคอล
+21285	You've grown much stronger. You're ready for your second job change.	คุณแข็งแกร่งขึ้นมากคุณพร้อมสำหรับการเปลี่ยนงานครั้งที่สองแล้ว
+21286	Your party has begun escorting supplies. ${1} is the current leader.	ปาร์ตี้ของคุณเริ่มคุ้มกันเสบียงแล้ว${1}เป็นผู้นำในปัจจุบัน
+21287	Head to the entrance to Culvert Floor @{1} and meet the investigator	มุ่งหน้าไปยังทางเข้า Culvert Floor@{1}และพบกับผู้ตรวจสอบ
+21288	You were not selected. Tap below to reclaim your Pre-purchase funds.	คุณไม่ได้ถูกเลือกแตะด้านล่างเพื่อเรียกคืนเงินที่ซื้อล่วงหน้าของคุณ
+21289	For unsolved note puzzles, tap the puzzle to select a note manually.	สำหรับปริศนาตัวโน้ตที่ยังไม่แก้ ให้แตะตัวต่อเพื่อเลือกบันทึกด้วยตนเอง
+21290	This exceeds the maximum quantity per purchase. Please select again.	เกินปริมาณสูงสุดต่อการซื้อโปรดเลือกอีกครั้ง
+21291	After renting, tap Ride in the lower-left corner of the main screen.	หลังจากเช่าแล้ว ให้แตะ Ride ที่มุมซ้ายล่างของหน้าจอหลัก
+21292	This player is on your Blocks list, so you cannot send them messages	ผู้เล่นนี้อยู่ในรายการบล็อกของคุณ ดังนั้นคุณจึงไม่สามารถส่งข้อความถึงพวกเขาได้
+21293	You haven't made the rankings yet, so there are no rewards to claim.	คุณยังไม่ได้จัดอันดับ ดังนั้นจึงไม่มีรางวัลให้รับรางวัล
+21294	At least ${1} Guild Members from the same guild must be in the party	อย่างน้อยสมาชิกกิลด์${1}จากกิลด์เดียวกันจะต้องอยู่ในปาร์ตี้
+21295	You cannot respond to Follow or Rally requests in the quiz Location.	คุณไม่สามารถตอบสนองต่อคำขอติดตามหรือแรลลี่ในตำแหน่งแบบทดสอบได้
+21296	All MVPs share the same Reward Count\nReward Count resets daily at 5	MVP ทั้งหมดมีจำนวนรางวัลเท่ากัน\nจำนวนรางวัลจะรีเซ็ตทุกวันที่ 5
+21297	Party does not meet the required number of Members of the same class	Party ไม่ตรงตามจำนวนสมาชิกของคลาสเดียวกันที่ต้องการ
+21298	^{1}^{2}Adrenaline Rush^{3}^{4} Lv. ${1} increases your STR by ${1}.	^{1}^{2}อะดรีนาลีนรัช^{3}^{4}Lv.${1}เพิ่ม STR ของคุณโดย${1}
+21299	When ^{1}^{2}[Impositio Manus]^{3}^{4} reaches Lv. ${1}, MATK +${2}.	เมื่อ ^{1}^{2}[Impositio Manus]^{3}^{4}ถึง Lv.${1}, MATK +${2}.
+21300	When HP is above ${1}%, increases Magic ATK by 【Character Lv.*${2}】.	เมื่อ HP มากกว่า${1}% จะเพิ่ม Magic ATK เป็น 【Character Lv.*${2}】
+21301	Is everyone okay? It looks like the airship crashed in the Reef Sea.	ทุกคนสบายดีมั้ย?ดูเหมือนเรือเหาะจะตกลงในทะเล Reef
+21302	A magnificent headpiece made from the wing feathers of a Grand Peco.	เครื่องประดับศีรษะอันงดงามที่ทำจากขนปีกของ Grand Peco
+21303	In the Renewal version of Ragnarok Online, the maximum ASPD is @{1}.	ใน Ragnarok Online เวอร์ชันต่ออายุ ค่า ASPD สูงสุดคือ@{1}
+21304	The guild name contains prohibited words. Please enter another name.	ชื่อกิลด์มีคำต้องห้ามกรุณากรอกชื่ออื่น
+21305	Guild Activities - (Auction Eligibility) Guild League - Eliminations	กิจกรรมกิลด์ - (สิทธิ์ในการประมูล) ลีกกิลด์ - การคัดออก
+21306	Guild Activities - (Auction Eligibility) Guild League - Grand Finals	กิจกรรมกิลด์ - (สิทธิ์ในการประมูล) ลีกกิลด์ - รอบชิงชนะเลิศ
+21307	Insufficient Required Materials. Please obtain more materials first.	Insufficient Required Materials.กรุณารับวัสดุเพิ่มเติมก่อน
+21308	Obtain any @{1} pieces of Headwear, Facewear, Mouthwear, or Backwear	รับชิ้นส่วนอุปกรณ์สวมศีรษะ เสื้อผ้าสวมหน้า หมวกปาก หรือเป้สะพายหลังของ@{1}
+21309	Tap here with all your might! If it fails, don't blame this demon...	แตะที่นี่ด้วยสุดกำลังของคุณ!ถ้าล้มเหลวอย่าโทษปีศาจตัวนี้เลย...
+21310	Here~ This is where you accept quests. A brand-new adventure awaits!	ที่นี่~ นี่คือที่ที่คุณรับภารกิจ การผจญภัยครั้งใหม่กำลังรออยู่!
+21311	This old compass is yours. It will warn you before disaster strikes.	เข็มทิศเก่านี้เป็นของคุณมันจะเตือนคุณก่อนเกิดภัยพิบัติ
+21312	Investigator! You're back! That look on your face... Could it be...?	เจ้าหน้าที่สืบสวน!คุณกลับมาแล้ว!สีหน้าของคุณแบบนั้น... เป็นไปได้ไหม...?
+21313	Some say they have their own language and culture, just like humans.	บางคนบอกว่าพวกเขามีภาษาและวัฒนธรรมเป็นของตัวเอง เช่นเดียวกับมนุษย์
+21314	Which day is best for drinking?\nWhy do I only get to drink one day?	ดื่มวันไหนดีที่สุด?\nทำไมได้ดื่มแค่วันเดียว?
+21315	Um... I was sent here... to work on... the reconstruction of Morroc.	อืม... ฉันถูกส่งมาที่นี่... เพื่อทำงาน... การฟื้นฟู Morroc
+21316	(Whispering) I sell some secret equipment here. Want to take a look?	(กระซิบ) ฉันขายอุปกรณ์ลับบางอย่างที่นี่ ต้องการที่จะดู?
+21317	I saw a commission flyer a few days ago. The reward was pretty good.	ฉันเห็นใบปลิวค่าคอมมิชชั่นเมื่อไม่กี่วันก่อนผลตอบแทนค่อนข้างดี
+21318	Equip your new Weapon, and you can begin your commission. Stay safe.	ติดตั้งอาวุธใหม่ของคุณ และคุณสามารถเริ่มคอมมิชชันของคุณได้อยู่อย่างปลอดภัย
+21319	We meet again. It seems you've found the second piece of the puzzle.	เรากลับมาพบกันอีกครั้งดูเหมือนว่าคุณจะค้นพบชิ้นส่วนที่สองของปริศนาแล้ว
+21320	A room! Put it on that stinky old Professor Rhein's tab! He sent us.	ห้อง! วางไว้บนแท็บของศาสตราจารย์ไรน์เฒ่าเหม็นนั่น! พระองค์ทรงส่งเรามา
+21321	Come. Now I'll teach you how to unlock the Commendation Vault event.	มาครับตอนนี้ฉันจะสอนวิธีปลดล็อคกิจกรรม Commendation Vault
+21322	^{1}The flag-bearing Boss has appeared! Defeat it to claim the flag!	^{1}บอสผู้ถือธงปรากฏตัวแล้ว!เอาชนะมันเพื่อยึดธง!
+21323	The battle for @{1} State Capital has ended. View the battle report?	การต่อสู้เพื่อชิงเมืองหลวงของรัฐ@{1}สิ้นสุดลงแล้วดูรายงานการต่อสู้?
+21324	The leader of ^{1}${1} Adventure Party^{2} has been changed to ${2}.	ผู้นำ ^{1}${1}Adventure Party^{2}ได้เปลี่ยนเป็น${2}แล้ว
+21325	The Bonfire Party has come to a successful close. See you next time!	ปาร์ตี้กองไฟปิดฉากลงด้วยความสำเร็จแล้วเจอกันครั้งหน้า!
+21326	A huge wave of treasure-laden Porings is being drawn to the Bonfire!	Porings ขุมทรัพย์จำนวนมหาศาลกำลังถูกดึงดูดเข้าสู่กองไฟ!
+21327	Supply Transport Ends\n${1} Guild has finished transporting supplies	การขนส่งเสบียงสิ้นสุดแล้ว\n${1}Guild ได้ขนส่งเสบียงเสร็จแล้ว
+21328	Bobo\nDid you hear something? It sounded like it came from up ahead.	โบโบ\nคุณได้ยินอะไรไหม?เสียงเหมือนดังมาจากข้างหน้า
+21329	Gruff Voice\nSo you're the ones who ruined my plans, huh? Take this!	เสียงห้าว\nนี่แกต่างหากที่ทำลายแผนการของฉันใช่ไหม?รับสิ่งนี้!
+21330	You are a guild elite. We recommend heading to the Main Battlefield.	คุณเป็นกิลด์ชั้นยอดเราขอแนะนำให้มุ่งหน้าไปยังสนามรบหลัก
+21331	Once you Join a guild, you can participate in its scheduled matches.	เมื่อคุณเข้าร่วมกิลด์ คุณสามารถเข้าร่วมการแข่งขันตามกำหนดการได้
+21332	Activate the Dunhuang Theme Nine-Tone Mantra Appearance (Permanent).	เปิดใช้งานรูปลักษณ์มนต์เก้าโทนธีมตุนหวง (ถาวร)
+21333	Use to Activate the Land of Lilies of the Valley Name Card Location.	ใช้เพื่อเปิดใช้งานตำแหน่งนามบัตร Land of Lily of the Valley
+21334	A device used to Hatch Eggs, but you have no idea how to use it yet.	อุปกรณ์ที่ใช้ในการฟักไข่ แต่คุณไม่รู้ว่าจะใช้มันอย่างไร
+21335	A special Magic item that can predict and reveal the distant future.	ไอเทมเวทมนตร์พิเศษที่สามารถทำนายและเปิดเผยอนาคตอันไกลโพ้นได้
+21336	Liquid oozing from damaged Tree Bark. Can be exchanged for Headwear.	ของเหลวไหลออกมาจากเปลือกไม้ที่เสียหาย สามารถเปลี่ยนเป็น Headwear ได้
+21337	Use to unlock the guild emblem design: Order of Ten Thousand Cities.	ใช้เพื่อปลดล็อคการออกแบบสัญลักษณ์กิลด์: Order of Ten Thousand Cities
+21338	The top 3 players in each class receive a limited-time title reward.	ผู้เล่น 3 อันดับแรกในแต่ละคลาสจะได้รับรางวัลฉายาในเวลาจำกัด
+21339	You are already Queuing for other content. Cancel the current queue?	คุณกำลังเข้าคิวสำหรับเนื้อหาอื่นอยู่แล้วยกเลิกคิวปัจจุบัน?
+21340	When your title is Moonlit Challenger, gain @{1} Extra main products	เมื่อชื่อของคุณคือ Moonlit Challenger รับผลิตภัณฑ์หลักพิเศษ@{1}
+21341	Lead your Pet in a Challenge of the Spirit Tower and push the limits	นำสัตว์เลี้ยงของคุณไปสู่ความท้าทายของ Spirit Tower และก้าวข้ามขีดจำกัด
+21342	Monitor Arm Cannon Mode Removal of Season Vulcan Arm Explosion Boost	การนำโหมดปืนใหญ่ของแขนมอนิเตอร์ออกของบูสต์การระเบิดของแขนวัลแคนในฤดูกาล
+21343	Display area for expanded skills such as the Skill Bar and Pet Skill	พื้นที่แสดงสำหรับทักษะเพิ่มเติม เช่น แถบทักษะและทักษะสัตว์เลี้ยง
+21344	Everyone can currently speak. Speaking privileges cannot be revoked.	ทุกคนสามารถพูดได้ในขณะนี้สิทธิพิเศษในการพูดไม่สามารถเพิกถอนได้
+21345	Oh, come on! I purified them. They're nothing like they were before.	เอาน่า!ฉันทำให้พวกเขาบริสุทธิ์พวกเขาไม่มีอะไรเหมือนเมื่อก่อน
+21346	Head to the center of the arena and Kill Boss to earn lots of points	มุ่งหน้าไปยังศูนย์กลางของอารีน่าและสังหารบอสเพื่อรับคะแนนมากมาย
+21347	The recruitment text contains sensitive words. Please enter it again	ข้อความรับสมัครงานมีคำที่ละเอียดอ่อนกรุณากรอกใหม่อีกครั้ง
+21348	You have reached today's receiving limit. Please try again Tomorrow.	คุณถึงขีดจำกัดการรับของวันนี้แล้วโปรดลองอีกครั้งพรุ่งนี้
+21349	The display case limit has been reached. Deselect another one first.	ถึงขีดจำกัดตัวแสดงแล้วยกเลิกการเลือกรายการอื่นก่อน
+21350	Can be borrowed when Affection reaches ${1}. Current Affection: ${2}	สามารถยืมได้เมื่อค่าเสน่หาถึง${1}ความรักในปัจจุบัน:${2}
+21351	Solo Mode matchmaking is underway. You cannot open the Party Finder.	การจับคู่โหมด Solo อยู่ระหว่างดำเนินการคุณไม่สามารถเปิด Party Finder ได้
+21352	Teammate ${1} left the battlefield. Their ID Tag is no longer valid.	เพื่อนร่วมทีม${1}ออกจากสนามรบแท็ก ID ของพวกเขาใช้ไม่ได้อีกต่อไป
+21353	A participant did not confirm. Matchmaking has been Initiated again.	ผู้เข้าร่วมไม่ได้ยืนยัน การจับคู่ได้เริ่มต้นขึ้นอีกครั้ง
+21354	Physical damage against targets below @{1}% Life increased by @{2}%.	ความเสียหายทางกายภาพต่อเป้าหมายที่ต่ำกว่า@{1}% พลังชีวิตเพิ่มขึ้น@{2}%
+21355	For every @{1} skills on this Totem, Physical ATK increases by @{2}.	สำหรับทุกทักษะของ@{1}บน Totem นี้ พลังโจมตีทางกายภาพจะเพิ่มขึ้น@{2}
+21356	Using skills or Normal Attacks deals Extra damage to nearby enemies.	การใช้ทักษะหรือการโจมตีปกติจะสร้างความเสียหายเพิ่มเติมให้กับศัตรูที่อยู่ใกล้เคียง
+21357	Surrounded by Psalms, granting a universal damage absorption shield.	ล้อมรอบด้วยบทสดุดี ให้เกราะดูดซับความเสียหายสากล
+21358	Movement Speed +@{1}%. Touch a yellow bubble to gain a damage bonus.	ความเร็วในการเคลื่อนที่ +@{1}%แตะฟองสีเหลืองเพื่อรับโบนัสความเสียหาย
+21359	You need at least three party Members to create an Adventurer Group.	คุณต้องมีสมาชิกปาร์ตี้อย่างน้อยสามคนจึงจะสร้างกลุ่มนักผจญภัยได้
+21360	There are no matching points available, so placement is not possible.	ไม่มีจุดที่ตรงกัน ดังนั้นจึงไม่สามารถวางตำแหน่งได้
+21361	Discover a Research Notebook that appears to belong to the Professor.	ค้นหาสมุดบันทึกการวิจัยที่ดูเหมือนจะเป็นของศาสตราจารย์
+21362	Stroll through Prontera and listen to the nearby vendors calling out.	เดินเล่นในพรอนเทราและฟังพ่อค้าขายของในบริเวณใกล้เคียงตะโกนเรียก
+21363	Reduces damage taken when your defensive element is at a disadvantage	ลดความเสียหายที่ได้รับเมื่อองค์ประกอบการป้องกันของคุณเสียเปรียบ
+21364	Pulled into a mysterious space by a giant hand that suddenly appeared	ถูกดึงเข้าไปในพื้นที่ลึกลับด้วยมือขนาดยักษ์ที่จู่ๆ ก็ปรากฏขึ้น
+21365	You still have daily commissions left to complete. Go accept one now?	คุณยังมีค่าคอมมิชชั่นรายวันเหลือให้ดำเนินการให้เสร็จสิ้นไปยอมรับตอนนี้เลยเหรอ?
+21366	You cannot accept any more requests today. Please come back Tomorrow.	คุณไม่สามารถยอมรับคำขอเพิ่มเติมได้ในวันนี้กรุณากลับมาพรุ่งนี้.
+21367	This well-trained Peco Peco is the exclusive combat mount for knights	Peco Peco ที่ผ่านการฝึกฝนมาเป็นอย่างดีนี้เป็นพาหนะต่อสู้พิเศษสำหรับอัศวิน
+21368	Try to Pick up scattered battlefield supplies to gain powerful skills	พยายามเก็บเสบียงในสนามรบที่กระจัดกระจายเพื่อรับทักษะอันทรงพลัง
+21369	Network connection failed. Check your network settings and reconnect.	การเชื่อมต่อเครือข่ายล้มเหลวตรวจสอบการตั้งค่าเครือข่ายของคุณและเชื่อมต่อใหม่
+21370	Client Repair complete. The game will close. Please restart the game.	ลูกค้าซ่อมเสร็จแล้ว เกมจะปิดตัวลง กรุณารีสตาร์ทเกม
+21371	Clear the client's local Data? The client will restart automatically.	ล้างข้อมูลในเครื่องของลูกค้าหรือไม่ไคลเอนต์จะรีสตาร์ทโดยอัตโนมัติ
+21372	The recommended price has been updated. Please note the price change.	ราคาแนะนำปรับปรุงแล้วโปรดทราบการเปลี่ยนแปลงราคา
+21373	Trade has been reset, and all items have been automatically delisted.	ได้รับการรีเซ็ตแล้ว และรายการทั้งหมดถูกเพิกถอนโดยอัตโนมัติ
+21374	Item-based healing is temporarily disabled. Use potions with caution.	การรักษาตามไอเท็มถูกปิดใช้งานชั่วคราว ใช้ยาด้วยความระมัดระวัง
+21375	Active in Guild Stronghold Battles, Escort Battles, and Siege Battles	ใช้งานในการรบฐานที่มั่นกิลด์ การรบคุ้มกัน และการรบปิดล้อม
+21376	Party requests are being sent too frequently. Please try again later.	มีการส่งบ่อยเกินไปโปรดลองอีกครั้งในภายหลัง
+21377	Linked to the Guild Shop. Determines item unlocks and purchase limits	เชื่อมโยงกับร้านค้ากิลด์กำหนดรายการปลดล็อคและจำกัดการซื้อ
+21378	Neutral damage taken -@{1}%. Damage taken from other elements +@{2}%.	ได้รับความเสียหายเป็นกลาง -@{1}%ความเสียหายที่ได้รับจากองค์ประกอบอื่น +@{2}%
+21379	Become Giant for @{1} sec., recovering @{3}% Max Life every @{2} sec.	กลายเป็นยักษ์เป็นเวลา@{1}วินาที ฟื้นฟู@{3}% พลังชีวิตสูงสุดทุกๆ@{2}วินาที
+21380	Damage Increase: @{1}%. Damage taken increases by @{2}% every second.	เพิ่มความเสียหาย:@{1}%ความเสียหายที่ได้รับเพิ่มขึ้น@{2}% ทุกๆ วินาที
+21381	^{1}^{2}[Bowling Bash]^{3}^{4}'s Cooldown is changed to ${1} seconds.	^{1}^{2}[Bowling Bash]^{3}^ คูลดาวน์ของ{4}ถูกเปลี่ยนเป็น${1}วินาที
+21382	For every @{1} refine levels on the Current Equipment slot, INT +${1}	สำหรับทุกระดับการปรับแต่ง@{1}บนสล็อตอุปกรณ์ปัจจุบัน INT +${1}
+21383	When equipped with a katar, Crit Modifier increases by ^{1}${4}%^{2}.	เมื่อสวมใส่ Katar ตัวปรับค่าคริติคอลจะเพิ่มขึ้น ^{1}${4}%^{2}
+21384	Excels at healing allies and specializes in defensive and buff magic.	เชี่ยวชาญการรักษาพันธมิตรและเชี่ยวชาญด้านเวทมนตร์ป้องกันและบัฟ
+21385	We have the worst luck... We actually crashed in Obeaune territory...	เราโชคร้ายที่สุด... เราเกิดอุบัติเหตุในดินแดน Obeaune จริงๆ...
+21386	A Nurse Cap worn by nurses who care for patients in place of doctors.	หมวกพยาบาลที่สวมใส่โดยพยาบาลที่ดูแลผู้ป่วยแทนแพทย์
+21387	Metal Poring strikes fear into players with its extremely high ATK.	Metal Poring สร้างความหวาดกลัวให้กับผู้เล่นด้วย ATK ที่สูงมาก
+21388	"The EXP boost buff granted by the ""Dumby"" NPC lasts for @{1} minutes."	"บัฟเพิ่ม EXP ที่ได้รับจาก NPC ""Dumby"" จะคงอยู่เป็นเวลา@{1}นาที"
+21389	The item being purchased has changed. Refresh the page and try again.	รายการที่กำลังซื้อมีการเปลี่ยนแปลงรีเฟรชหน้านี้แล้วลองอีกครั้ง
+21390	The Utility Pet's Passive Skill effects are granted to the Adventurer	เอฟเฟกต์ทักษะติดตัวของสัตว์เลี้ยงยูทิลิตี้จะมอบให้กับนักผจญภัย
+21391	There's something good in your Backpack. Open it and take a look, bo!	มีอะไรดีๆ อยู่ในกระเป๋าเป้ของคุณลองเปิดดูสิโบ้!
+21392	For step @{1}, tap this item to place it on the board. Give it a try!	สำหรับขั้นตอน@{1}ให้แตะรายการนี้เพื่อวางไว้บนกระดานลองดูสิ!
+21393	Mm-hmm, just leave it there... Wait, aren't you here to deliver food?	อืม ปล่อยไว้ตรงนั้น... เดี๋ยวนะ คุณไม่ได้มาส่งอาหารเหรอ?
+21394	You've just received the following items. Please claim them promptly!	คุณได้รับสินค้าดังต่อไปนี้กรุณารับสิทธิ์ทันที!
+21395	The road of adventure is long, so fill your belly before you set out!	เส้นทางแห่งการผจญภัยอีกยาวไกล ดังนั้นเติมพุงให้เต็มอิ่มก่อนออกเดินทาง!
+21396	So this is the Midgard Continent? It looks a little like my homeland.	นี่คือทวีป Midgard เหรอ?มันดูคล้ายกับบ้านเกิดของฉันเล็กน้อย
+21397	Someone from Juno? Isn't the Professor a scholar of the Rune Kingdom?	มีคนจากจูโนเหรอ?ศาสตราจารย์ไม่ใช่นักวิชาการของอาณาจักรรูนไม่ใช่หรือ?
+21398	Our ^{1}${1}^{2} dealt the final blow to the left-lane ^{3}Guard^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนซ้าย ^{3}Guard^{4}!
+21399	^{1}${2}^{2}'s banner HP is below ^{3}${4}^{4}. Seize the opportunity	^{1}${2}^ แบนเนอร์ของ{2}HP อยู่ด้านล่าง ^{3}${4}^{4}.คว้าโอกาสนี้ไว้
+21400	“Whoa... W-we’re so high up! The houses below look like tiny dots...”	“ว้าว... เราอยู่สูงขึ้นมาก! บ้านด้านล่างดูเหมือนจุดเล็ก ๆ…”
+21401	The portal to the Pirate's Hidden Treasure will close in ${1} seconds	พอร์ทัลไปยังสมบัติที่ซ่อนของโจรสลัดจะปิดใน${1}วินาที
+21402	Collect Live Coals and add them to the Bonfire\nPrepare for the party	รวบรวมถ่านหินสดและเพิ่มลงในกองไฟ\nเตรียมพร้อมสำหรับปาร์ตี้
+21403	Gain the Enlarge effect and choose You or an Other player to Enlarge.	รับเอฟเฟกต์ขยาย และเลือกคุณหรือผู้เล่นอื่นเพื่อขยาย
+21404	Supply Transport will begin in @{1} minutes. Every Member, get ready!	การขนส่งพัสดุจะเริ่มในอีก @{1} นาที สมาชิกทุกท่านเตรียมตัวให้พร้อม!
+21405	Guild Supply Transport has begun. Tap to go to the corresponding map.	การขนส่ง Guild Supply ได้เริ่มขึ้นแล้ว แตะเพื่อไปยังแผนที่ที่เกี่ยวข้อง
+21406	Captain\nIt's those damn air pirates! They just won't leave us alone!	กัปตัน\nนั่นมันพวกโจรสลัดอากาศเวรนั่น!พวกเขาจะไม่ทิ้งเราไว้ตามลำพัง!
+21407	Moonlight Flower\nI didn't know you were so good! I had a great time~	Moonlight Flower\nฉันไม่รู้ว่าคุณเก่งขนาดนี้!ฉันมีช่วงเวลาที่ดี~
+21408	Bobo\nCome on, hurry! Let's get on the airship already. I can't wait!	Bobo\nเอาน่า รีบหน่อย!ขึ้นเรือเหาะได้แล้วฉันรอไม่ไหวแล้ว!
+21409	Bobo\nAaargh! There are more?! Adventurer, you have to hang in there!	โบโบ\nอ๊า!ยังมีอีกเหรอ?!นักผจญภัย เจ้าต้องอยู่ในนั้นให้ได้!
+21410	Reach @{1} progress toward collecting all Morroc Monster Hunt rewards	เข้าถึงความคืบหน้าของ@{1}เพื่อรับรางวัล Morroc Monster Hunt ทั้งหมด
+21411	Activate the Academy Diary matching Mouthwear Appearance (Permanent).	เปิดใช้งาน Academy Diary ที่ตรงกับรูปลักษณ์ของชุดปาก (ถาวร)
+21412	Activate the Night Judgment matching Facewear Appearance (Permanent).	เปิดใช้งาน Night Judgement ที่ตรงกับรูปลักษณ์ของ Facewear (ถาวร)
+21413	Permanently unlocks the Costume - World-Scorching Feathers appearance	ปลดล็อกเครื่องแต่งกายอย่างถาวร - รูปลักษณ์ขนนกที่แผดเผาโลก
+21414	Open to select and receive 1 piece of T@{1} Red upper-body equipment.	เปิดเลือกรับอุปกรณ์ตัวบนสีแดง T@{1}จำนวน 1 ชิ้น
+21415	Armor plating forged from ordinary Metal, providing basic protection.	การชุบเกราะที่สร้างจากโลหะธรรมดา ให้การปกป้องขั้นพื้นฐาน
+21416	A viscous liquid with a glaring color. It really stands out at night.	ของเหลวหนืดที่มีสีเด่นชัด มันโดดเด่นจริงๆในตอนกลางคืน
+21417	A gemstone that emits a deep Red glow. Can be exchanged for Headwear.	อัญมณีที่เปล่งแสงสีแดงเข้ม สามารถเปลี่ยนเป็น Headwear ได้
+21418	A magical necklace that fills your entire body with Vivify when worn.	สร้อยคอวิเศษที่จะเติมเต็มร่างกายของคุณด้วย Viviify เมื่อสวมใส่
+21419	A club that makes each blow feel like several clubs striking at once.	ไม้กอล์ฟที่ทำให้การตีแต่ละครั้งรู้สึกเหมือนไม้กอล์ฟหลายอันตีพร้อมกัน
+21420	Points obtained by defeating monsters in the ^{1}Prontera^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Prontera^{2}
+21421	This skill is already in the Divine Arts Totem. Save your Skill Book.	ทักษะนี้มีอยู่ใน Divine Arts Totem แล้วบันทึกหนังสือทักษะของคุณ
+21422	The boss battle has begun. You cannot Enter Battlefield at this time.	การต่อสู้ของบอสได้เริ่มขึ้นแล้วคุณไม่สามารถเข้าสู่ Battlefield ได้ในขณะนี้
+21423	After successfully mining Lv. @{1} ore, gain @{2} Extra main products	หลังจากขุด Lv. ได้สำเร็จ  แร่@{1}ได้รับผลิตภัณฑ์หลักพิเศษ@{2}
+21424	We've received your feedback and will address it as soon as possible.	เราได้รับคำติชมของคุณแล้ว และจะแก้ไขโดยเร็วที่สุด
+21425	The Adventurer Group has not selected a sapling yet (regular Member).	กลุ่มนักผจญภัยยังไม่ได้คัดเลือกต้นอ่อน (สมาชิกปกติ)
+21426	The guild name contains invalid characters. Please enter another name	ชื่อกิลด์มีอักขระที่ไม่ถูกต้องกรุณากรอกชื่ออื่น
+21427	There are no cards left to draw in this Adventure. Skipping the draw.	ไม่มีการ์ดเหลือให้จั่วในการผจญภัยครั้งนี้ข้ามการจับฉลาก
+21428	During the event, each player can Collect Live Coal up to @{1} times.	ในช่วงกิจกรรม ผู้เล่นแต่ละคนสามารถรวบรวม Live Coal ได้สูงสุด@{1}เท่า
+21429	Your guild already occupies this Stronghold. Bidding is Not Required.	กิลด์ของคุณครอบครองฐานที่มั่นนี้แล้วการเสนอราคาไม่จำเป็น
+21430	You have not joined a guild yet, so you cannot select a guild Faction	คุณยังไม่ได้เข้าร่วมกิลด์ ดังนั้นคุณจึงไม่สามารถเลือกฝ่ายกิลด์ได้
+21431	Unable to respond because the requester deleted the Get Help request.	ไม่สามารถตอบสนองได้เนื่องจากผู้ร้องขอลบคำร้องขอรับความช่วยเหลือ
+21432	Your Backpack has reached its weight limit. Unable to purchase items.	กระเป๋าเป้ของคุณมีน้ำหนักถึงขีดจำกัดแล้วไม่สามารถซื้อสินค้าได้
+21433	Cannot equip this Job item until the prerequisite quest is completed.	ไม่สามารถจัดเตรียมไอเท็มงานนี้ได้จนกว่าภารกิจที่จำเป็นจะเสร็จสิ้น
+21434	Randomly transform into one of @{1} Porings, with @{2} possible forms	สุ่มแปลงเป็นหนึ่งใน Poring@{1}โดยมีรูปแบบที่เป็นไปได้@{2}ช่วง
+21435	You have reached the follow limit and cannot follow any more targets.	คุณติดตามถึงขีดจำกัดแล้ว และไม่สามารถติดตามเป้าหมายได้อีก
+21436	The merchant brings out a Bunny Hair Band, a School Hat, and Antlers.	พ่อค้านำที่คาดผมกระต่าย หมวกนักเรียน และเขากวางออกมา
+21437	He doesn't look fine at all... Oh well, let's go see what's up ahead.	เขาดูไม่ค่อยดีเลย... เอาล่ะ มาดูกันว่าข้างหน้าจะเป็นอย่างไร
+21438	You did not confirm your participation. This match has been canceled.	คุณไม่ได้ยืนยันการเข้าร่วมของคุณนัดนี้ถูกยกเลิกแล้ว
+21439	This preset is invalid and cannot be viewed. We recommend deleting it	ค่าที่ตั้งล่วงหน้านี้ไม่ถูกต้องและไม่สามารถดูได้เราขอแนะนำให้ลบออก
+21440	Your favorite actions have not been saved. Save and close this screen?	การกระทำที่คุณชื่นชอบยังไม่ได้รับการบันทึกบันทึกและปิดหน้าจอนี้ใช่ไหม
+21441	Check an action to add it to your favorites. Press and hold to preview	ตรวจสอบการดำเนินการเพื่อเพิ่มลงในรายการโปรดของคุณกดค้างไว้เพื่อดูตัวอย่าง
+21442	This chapter's journey is complete. Chapter ${1} unlocks at ${2}05:00.	การเดินทางของบทนี้เสร็จสมบูรณ์แล้วบทที่${1}ปลดล็อคที่${2}05:00
+21443	The Novice Swordsman invites you to travel to the Eden Group together.	The Novice Swordsman ขอเชิญคุณเดินทางสู่ Eden Group ด้วยกัน
+21444	You awaken from the darkness and find yourself back in the real world.	คุณตื่นจากความมืดมิดและพบว่าตัวเองกลับมาอยู่ในโลกแห่งความเป็นจริง
+21445	This well-trained Falcon is the exclusive combat companion for hunters	Falcon ที่ได้รับการฝึกฝนมาเป็นอย่างดีนี้เป็นคู่ต่อสู้สำหรับนักล่าโดยเฉพาะ
+21446	<color=#FA983A>${1} Function</color> is not available yet. Stay tuned!	<color=#FA983A>${1} Function</color> is not available yet. Stay tuned!
+21447	Guild rewards can only be claimed once Personal Activity reaches ${1}.	สามารถรับรางวัลได้เมื่อกิจกรรมส่วนตัวถึง${1}เท่านั้น
+21448	When attacking, has a @{1}% Chance to restore @{2} HP with no cooldown	เมื่อโจมตีมีโอกาส@{1}% ที่จะฟื้นฟู HP ของ@{2}โดยไม่มีคูลดาวน์
+21449	Your mailbox is full and cannot receive new mail. Clear out some mail.	กล่องจดหมายของคุณเต็มและไม่สามารถรับจดหมายใหม่ได้เคลียร์เมลหน่อย
+21450	Skill guaranteed when this Divine Art Totem is obtained or synthesized	รับประกันทักษะเมื่อได้รับหรือสังเคราะห์ Divine Art Totem นี้
+21451	Mechanics information becomes available after the dungeon is unlocked.	จะพร้อมใช้งานหลังจากปลดล็อคดันเจี้ยนแล้ว
+21452	The target you're watching no longer exists. Please refresh and retry.	เป้าหมายที่คุณกำลังดูไม่มีอยู่อีกต่อไปโปรดรีเฟรชและลองอีกครั้ง
+21453	Invalid bid. Please check the starting price and your available funds.	การเสนอราคาไม่ถูกต้องโปรดตรวจสอบราคาเริ่มต้นและเงินทุนที่มีอยู่ของคุณ
+21454	Your current maximum bid is below the qualifying bid. Please adjust it	ราคาเสนอสูงสุดในปัจจุบันของคุณต่ำกว่าราคาเสนอที่เข้าเกณฑ์กรุณาปรับมัน
+21455	Applications have been sent to all eligible guilds on the current list	ได้ถูกส่งไปยังกิลด์ที่มีสิทธิ์ทั้งหมดในรายการปัจจุบันแล้ว
+21456	No Impeachment is currently underway. You may Impeach the Guild Leader	ไม่มีการฟ้องร้องอยู่ระหว่างดำเนินการคุณสามารถฟ้องหัวหน้ากิลด์ได้
+21457	You are currently in combat. Are you sure you want to leave this area?	คุณกำลังอยู่ในการต่อสู้คุณแน่ใจหรือไม่ว่าต้องการออกจากพื้นที่นี้
+21458	Gain Falcon's Eye, revealing hidden targets within a @{1}-meter radius	ได้รับ Falcon's Eye เผยให้เห็นเป้าหมายที่ซ่อนอยู่ภายในรัศมี@{1}เมตร
+21459	For every ${1} additional skills on this Divine Arts Totem, Life +${2}	สำหรับทุกทักษะเพิ่มเติมของ${1}บน Divine Arts Totem, Life +${2}
+21460	For every ${1} Stunts on equipped gear, CRIT +${2} (up to ${3} Stunts)	สำหรับ${1}Stunts ทุกอันบนอุปกรณ์ที่ติดตั้ง, CRIT +${2}(สูงสุด${3}Stunts)
+21461	You are switching Skill Builds too frequently. Please try again later.	คุณกำลังเปลี่ยน Skill Builds บ่อยเกินไปโปรดลองอีกครั้งในภายหลัง
+21462	A Helmet topped with goat horns and steeped in religious significance.	หมวกเกราะที่มีเขาแพะและมีความหมายทางศาสนามากมาย
+21463	You can only claim rewards after exploring for more than ${1} minutes.	คุณสามารถรับรางวัลได้หลังจากสำรวจมานานกว่า${1}นาทีเท่านั้น
+21464	Your reputation score is too low. Go to the Trade Exchange to view it.	คะแนนชื่อเสียงของคุณต่ำเกินไปไปที่การแลกเปลี่ยนการค้าเพื่อดู
+21465	Activated stat skills gain ranks when the pet's star rating increases.	ทักษะสถิติที่เปิดใช้งานจะได้รับอันดับเมื่อระดับดาวของสัตว์เลี้ยงเพิ่มขึ้น
+21466	When a gold-quality pet is obtained, it accounts for 50% of the Chance	เมื่อได้สัตว์เลี้ยงคุณภาพระดับทองมา จะคิดเป็น 50% ของโอกาส
+21467	Stat Bonus Overview provided to the Adventurer by current Support Pets	ที่มอบให้กับนักผจญภัยโดยสัตว์เลี้ยงสนับสนุนปัจจุบัน
+21468	You can tap here whenever you want to open the Growth Badge again, bo~	คุณสามารถแตะที่นี่ได้ทุกเมื่อที่คุณต้องการเปิด Growth Badge อีกครั้ง โบ~
+21469	Drag each note onto the matching pattern in the measure to fill it in.	ลากบันทึกย่อแต่ละรายการไปยังรูปแบบที่ตรงกันในหน่วยวัดเพื่อเติมข้อมูล
+21470	Hey, I'm really curious. Do you give these same tasks to every Novice?	เฮ้ ฉันอยากรู้จริงๆคุณมอบงานเดียวกันนี้ให้กับมือใหม่ทุกคนหรือไม่?
+21471	^{1}PlayerName^{2}! Your Job Advance is imminent. We must act at once.	^{1}ชื่อผู้เล่น^{2}!Job Advance ของคุณใกล้เข้ามาแล้วเราต้องดำเนินการทันที
+21472	Captain! We got the gyroscope, and ^{1}PlayerName^{2} did a great job!	กัปตัน!เราได้ไจโรสโคปแล้ว และ ^{1}PlayerName^{2}ทำได้ดีมาก!
+21473	It's not equipment! It's alive! There's something alive in that crate!	ไม่ใช่อุปกรณ์!มันยังมีชีวิตอยู่!มีบางสิ่งที่ยังมีชีวิตอยู่อยู่ในลังนั้น!
+21474	Almost there. I'll sell a little longer, then Close Stall for the day.	เกือบจะถึงแล้ว ฉันจะขายอีกหน่อยแล้วปิดแผงสำหรับวันนั้น
+21475	Which direction is the Relic? Could you mark it on our map? Thank You!	พระธาตุ ทิศไหน?คุณช่วยทำเครื่องหมายไว้บนแผนที่ของเราได้ไหม?ขอบคุณ!
+21476	Stat bonuses will <color=#C26B47>reset when the Season changes</color>	Stat bonuses will <color=#C26B47>reset when the Season changes</color>
+21477	^{1}【Warning】^{2}The enemy has finished setting up the [Right Ladder].	^{1}【คำเตือน】^{2}ศัตรูได้ตั้งค่า [บันไดขวา] เสร็จแล้ว
+21478	Our ^{1}${1}^{2} dealt the final blow to the right-lane ^{3}Guard^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนขวา ^{3}Guard^{4}!
+21479	Baphomet will continuously unleash scythes. Keep moving to dodge them!	Baphomet จะปล่อยเคียวอย่างต่อเนื่องเคลื่อนที่ต่อไปเพื่อหลบพวกมัน!
+21480	^{1}${2}^{2} has reached ^{3}${3}^{4} points! Victory is within reach!	^{1}${2}^{2}ถึง ^{3}${3}^{4}คะแนน!ชัยชนะอยู่แค่เอื้อม!
+21481	${1} spent ${2} Guild Supplies to activate the ${4} strategy for ${3}.	${1}ใช้${2}Guild Supplies เพื่อเปิดใช้งานกลยุทธ์${4}สำหรับ${3}
+21482	^{1}${1}^{2} used Enlarge on ^{3}${2}^{4}, making them big and mighty!	^{1}${1}^{2}ใช้ Enlarge บน ^{3}${2}^{4}ทำให้ใหญ่โตและทรงพลัง!
+21483	Bobo\nUgh, I don't understand any of this. Let's go ask the Professor.	Bobo\nฮึ ฉันไม่เข้าใจอะไรทั้งนั้นลองไปถามศาสตราจารย์ดูสิ
+21484	Bobo\nUgh, I don't understand any of this. Let's go ask the Professor!	Bobo\nฮึ ฉันไม่เข้าใจอะไรทั้งนั้นไปถามศาสตราจารย์กันเถอะ!
+21485	Bobo\nWaaaah! It's a huge Sandstorm! We can't dodge it! I'll help You!	โบโบ\nว้าว!พายุทรายลูกใหญ่!เราหลบมันไม่ได้!ฉันจะช่วยคุณ!
+21486	You actually lost that? You're not even smart enough to be a lackey...	คุณแพ้มันไปแล้วจริงๆเหรอ?คุณไม่ฉลาดพอที่จะเป็นขี้ข้า...
+21487	The next season's tier is determined by the previous season's results.	ระดับของฤดูกาลถัดไปจะถูกกำหนดโดยผลการแข่งขันของฤดูกาลที่แล้ว
+21488	Season points and rankings can be viewed after the Locate Matches end.	Season points and rankings can be viewed after the Locate Matches end.
+21489	You cannot make purchases because your identity has not been verified.	คุณไม่สามารถทำการซื้อได้เนื่องจากข้อมูลประจำตัวของคุณยังไม่ได้รับการยืนยัน
+21490	Magnificent Purple Equipment, clearly crafted by a Moonlit Challenger.	อุปกรณ์สีม่วงอันงดงาม สร้างขึ้นโดยผู้ท้าชิงแสงจันทร์อย่างชัดเจน
+21491	"An extremely intricate component stamped ""ジュノー製"" on the bottom."	"ส่วนประกอบที่ซับซ้อนอย่างยิ่งมีตราประทับ ""ジュノー製"" ที่ด้านล่าง"
+21492	A beautiful melody rings out as ${1} successfully performs Overture II	ท่วงทำนองอันไพเราะดังขึ้นเมื่อ${1}แสดง Overture II ได้สำเร็จ
+21493	Equip it to a Constellation in Astral Level to gain attribute bonuses.	ติดตั้งมันให้กับกลุ่มดาวในระดับดาวเพื่อรับโบนัสคุณสมบัติ
+21494	They say this is an extremely expensive medicinal ingredient in Payon.	ว่ากันว่านี่เป็นส่วนผสมยาที่มีราคาแพงมากใน Payon
+21495	Its accurate shots and high damage make it a favorite among its users.	การยิงที่แม่นยำและความเสียหายสูงทำให้เป็นที่ชื่นชอบในหมู่ผู้ใช้
+21496	Rewards for completing Guild Quests, used for guild building Level-up.	สำหรับการทำภารกิจกิลด์สำเร็จ ใช้สำหรับการสร้างเลเวลอัพกิลด์
+21497	All equipment Enchant attributes will be removed when the Season ends.	คุณสมบัติ Enchant อุปกรณ์ทั้งหมดจะถูกลบออกเมื่อฤดูกาลสิ้นสุดลง
+21498	First prize must be drawn from players using the Savage Babe Transform	จะต้องจับรางวัลที่หนึ่งจากผู้เล่นที่ใช้ Savage Babe Transform
+21499	Third prize must be drawn from players using the Savage Babe Transform	รางวัลที่สามจะต้องมาจากผู้เล่นที่ใช้ Savage Babe Transform
+21500	Complete the Commission Quests Post by Daidai to earn tons of rewards.	ทำภารกิจคอมมิชชั่นโพสต์โดย Daidai ให้สำเร็จเพื่อรับรางวัลมากมาย
+21501	The host has disabled microphones. You cannot turn on your microphone.	โฮสต์ปิดใช้งานไมโครโฟนคุณไม่สามารถเปิดไมโครโฟนของคุณได้
+21502	Insufficient stock (not enough stock at the specified purchase price).	มีสต็อกไม่เพียงพอ (มีสต็อกไม่เพียงพอในราคาซื้อที่ระบุ)
+21503	The other guild is on Merge Guild cooldown and cannot Merge Guild yet.	อีกกิลด์อยู่ในคูลดาวน์ผสานกิลด์และยังไม่สามารถรวมกิลด์ได้
+21504	This item's healing effect is currently ineffective. Use with caution.	เอฟเฟกต์การรักษาของไอเท็มนี้ไม่ได้ผลในขณะนี้ใช้ด้วยความระมัดระวัง
+21505	You cannot travel there from the current Dungeon. Leave and try again.	คุณไม่สามารถเดินทางไปที่นั่นจากดันเจี้ยนปัจจุบันได้ออกแล้วลองอีกครั้ง
+21506	Throw the supply cart forward, inflicting Stun on enemies in its path.	โยนรถเข็นเสบียงไปข้างหน้า ทำให้ศัตรูที่ขวางทางมึนงง
+21507	Delivers a heavy blow to the currently targeted player within the grid	มอบการโจมตีอย่างหนักให้กับผู้เล่นที่เป็นเป้าหมายในปัจจุบันภายในกริด
+21508	Maya Launches a cross-shaped blade wave forward, damaging players hit.	Maya ปล่อยคลื่นดาบรูปกากบาทไปข้างหน้าสร้างความเสียหายแก่ผู้เล่นที่โดน
+21509	Pick up the giant blade dropped by Orc Lord and launch a counterattack	หยิบดาบยักษ์ที่ Orc Lord ทิ้งไว้แล้วโจมตีโต้กลับ
+21510	Your character is temporarily unable to list items. Unseal time: ${1}.	ตัวละครของคุณไม่สามารถแสดงรายการได้ชั่วคราวเวลาเปิดผนึก:${1}
+21511	Failed to retrieve item information before adding it to the watchlist.	ไม่สามารถดึงข้อมูลรายการก่อนที่จะเพิ่มลงในรายการเฝ้าดู
+21512	What could possibly bring anyone to someone living such a lonely Life?	อะไรจะนำพาใครมาพบกับคนที่ใช้ชีวิตอย่างโดดเดี่ยวขนาดนี้ได้?
+21513	${1} quality is currently selected. You cannot select a lower quality.	คุณภาพ${1}ถูกเลือกอยู่ในขณะนี้ คุณไม่สามารถเลือกคุณภาพที่ต่ำกว่าได้
+21514	Boya? (Strokes beard) Haha! It seems that young lady is quite popular.	โบย่า?(ลูบเครา) ฮ่าๆ!ดูเหมือนว่าหญิงสาวจะได้รับความนิยมค่อนข้างมาก
+21515	Kiddo, what brings you all alone to a remote place like Payon Village?	Kiddo อะไรพาคุณมาคนเดียวยังสถานที่ห่างไกลอย่างหมู่บ้านพยอน?
+21516	Can I help you? Unauthorized personnel are not allowed near this area.	มีอะไรให้ช่วยไหม?ไม่อนุญาตให้บุคลากรที่ไม่ได้รับอนุญาตเข้ามาใกล้บริเวณนี้
+21517	Increases Movement Speed by @{1}% and 【Dragon Breath】 damage by @{2}%.	เพิ่มความเร็วในการเคลื่อนที่โดย@{1}% และความเสียหายจาก 【Dragon Breath】 โดย@{2}%
+21518	You picked up the Orc's prized blade. Face the boss and use the skill.	คุณหยิบดาบอันล้ำค่าของออร์คขึ้นมาเผชิญหน้ากับบอสและใช้ทักษะ
+21519	This preset has expired and cannot be viewed. We recommend deleting it	ค่าที่ตั้งล่วงหน้านี้หมดอายุแล้วและไม่สามารถดูได้เราขอแนะนำให้ลบออก
+21520	Ranking rewards will be issued during Settlement after the event ends.	จะมอบให้ระหว่างการชำระบัญชีหลังกิจกรรมสิ้นสุดลง
+21521	Can be purchased after activating the corresponding Kafra Support Perk.	สามารถซื้อได้หลังจากเปิดใช้งาน Kafra Support Perk ที่เกี่ยวข้อง
+21522	You've grown much stronger. Now go take on some Eden Group commissions.	คุณแข็งแกร่งขึ้นมากตอนนี้ไปรับค่าคอมมิชชั่นของกลุ่ม Eden
+21523	Affects the chance for Normal Attacks and certain skills to HIT targets	ส่งผลต่อโอกาสในการโจมตีปกติและทักษะบางอย่างต่อเป้าหมาย HIT
+21524	Increases damage dealt by your Physical Skills or Basic Attacks by ${1}	เพิ่มความเสียหายที่สร้างโดยทักษะกายภาพหรือการโจมตีพื้นฐานของคุณโดย${1}
+21525	A Crusader's mount that combines a Lion and an eagle. Pretty cool, too!	พาหนะของ Crusader ที่รวมสิงโตและนกอินทรีเข้าด้วยกัน สวยเท่เหมือนกัน!
+21526	After reaching Refinement +${1}, failure will not reduce it below +${2}	หลังจากถึง Refinement +${1}แล้ว ความล้มเหลวจะไม่ลดลงต่ำกว่า +${2}
+21527	Purchasing certain items also consumes an equal amount of Credit Points	การซื้อสินค้าบางรายการยังใช้คะแนนเครดิตเท่ากันอีกด้วย
+21528	You have already placed a Pre-purchase order and cannot purchase again.	คุณได้ส่งคำสั่งซื้อล่วงหน้าแล้วและไม่สามารถซื้อซ้ำได้
+21529	Select an unlocked appearance in the Wardrobe to equip or switch to it.	เลือกรูปลักษณ์ที่ปลดล็อคแล้วในตู้เสื้อผ้าเพื่อติดตั้งหรือเปลี่ยนไปใช้
+21530	Adventurers can use the active skills of pets assigned to active slots.	นักผจญภัยสามารถใช้ทักษะใช้งานของสัตว์เลี้ยงที่กำหนดในช่องใช้งานได้
+21531	Move more than ${1} Distance away to automatically relinquish ownership	ย้ายมากกว่า${1}ระยะห่างเพื่อสละสิทธิ์การเป็นเจ้าของโดยอัตโนมัติ
+21532	Moderately Active: <color=#7E7361>${1} ≤ Weekly Activity ≤ ${2}</color>	ใช้งานปานกลาง:<color=#7E7361>${1}≤ กิจกรรมรายสัปดาห์ ≤${2}</color>
+21533	Already protected by the Sacred Tree Spirit. Cannot be triggered again.	ได้รับการปกป้องโดย Sacred Tree Spirit แล้วไม่สามารถถูกกระตุ้นได้อีก
+21534	^{1}^{2}【Maximize Power】^{3}^{4} increases nearby allies' PATK by ${1}.	^{1}^{2}【เพิ่มพลังสูงสุด】^{3}^{4}เพิ่ม PATK ของพันธมิตรที่อยู่ใกล้เคียงโดย${1}
+21535	^{1}^{2}【Maximum Over Thrust】^{3}^{4}grants an Extra ${1}% Crit Chance.	^{1}^{2}【แรงขับเกินสูงสุด】^{3}^{4}ให้โอกาสพิเศษ${1}% Crit
+21536	Raises the quality of all players' currently equipped gear by one tier.	เพิ่มคุณภาพของอุปกรณ์ที่ติดตั้งในปัจจุบันของผู้เล่นทุกคนขึ้นหนึ่งระดับ
+21537	Extremely high Physical Defense, but highly vulnerable to Magic attacks	การป้องกันกายภาพสูงมาก แต่เสี่ยงต่อการโจมตีด้วยเวทย์มนตร์สูง
+21538	Extremely high Magic Defense, but highly vulnerable to Physical attacks	พลังป้องกันเวทย์มนตร์สูงมาก แต่เสี่ยงต่อการโจมตีทางกายภาพสูง
+21539	Skill@{1}_Summon Circle@{2}+Transform+Circle-Stepping Interaction Skill	@{1}_อัญเชิญวงกลม@{2}+ การแปลง + ทักษะการโต้ตอบแบบก้าวเป็นวงกลม
+21540	Allies within ^{1}^{2}[Sanctuary]^{3}^{4}'s area gain PDEF/MDEF +${1}%.	พันธมิตรภายใน ^{1}^{2}[Sanctuary]^{3}^ พื้นที่ของ{4}ได้รับ PDEF/MDEF +${1}%
+21541	When HP is above ${1}%, increases Physical ATK by 【Character Lv.*${2}】.	เมื่อ HP มากกว่า${1}% จะเพิ่ม Physical ATK ขึ้นตาม 【Character Lv.*${2}】
+21542	Increases the maximum Floors of the Defense buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟ Defense บน Totem นี้ขึ้น${1}
+21543	Increases the maximum Floors of the Healing buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟการรักษาบน Totem นี้ขึ้น${1}
+21544	Each Soul Echo element^{1} grants ${1} Extra ATK (up to ${2} elements).	แต่ละองค์ประกอบ Soul Echo^{1}ให้พลังโจมตีพิเศษแก่${1}(สูงสุด${2}องค์ประกอบ)
+21545	Each Soul Echo element^{1} grants ${1} Extra DEF (up to ${2} elements).	แต่ละองค์ประกอบ Soul Echo^{1}ให้${1}Extra DEF (สูงสุด${2}องค์ประกอบ)
+21546	Second prize must be drawn from players using the Savage Babe Transform	รางวัลที่สองจะต้องมาจากผู้เล่นที่ใช้ Savage Babe Transform
+21547	After resetting, the card's rank will return to 0. \nEnter “YES” below.	หลังจากรีเซ็ต อันดับของการ์ดจะกลับไปเป็น 0\nป้อน “ใช่” ด้านล่าง
+21548	High-rate idle mode offers generous rewards. Tap here to view them now.	โหมดว่างอัตราสูงมอบรางวัลมากมายแตะที่นี่เพื่อดูตอนนี้
+21549	I've created a new guild, 【${1}】! Adventurers, come show your support!!	ฉันได้สร้างกิลด์ใหม่แล้ว 【${1}】!นักผจญภัยทั้งหลาย มาให้กำลังใจกันเถอะ!!
+21550	The Guild Institute determines the unlock progress of Guild Technology.	สถาบันกิลด์เป็นผู้กำหนดความคืบหน้าในการปลดล็อคเทคโนโลยีกิลด์
+21551	Hold the left mouse button and drag to adjust the incubator temperature	กดปุ่มซ้ายของเมาส์ค้างไว้แล้วลากเพื่อปรับอุณหภูมิตู้ฟัก
+21552	"Hmph~ It's the ""Equipment Enhancement"" button. Don't tap the wrong one."	"ฮึ่ม~ มันคือปุ่ม ""เพิ่มประสิทธิภาพอุปกรณ์""อย่าแตะผิดอัน"
+21553	Let Bobo help you! First, choose my favorite slot and deploy the totem.	ให้โบโบ้ช่วยคุณ!ขั้นแรก เลือกช่องโปรดของฉันและปรับใช้โทเท็ม
+21554	Once unlocked, you can rent it for free. It's an exclusive Benefit, bo~	เมื่อปลดล็อคแล้วสามารถเช่าได้ฟรีมันเป็นสิทธิประโยชน์สุดพิเศษ โบ~
+21555	Wow, now you can craft even stronger equipment! Come learn how with me!	ว้าว ตอนนี้คุณสามารถประดิษฐ์อุปกรณ์ที่แข็งแกร่งยิ่งขึ้นได้แล้ว!มาเรียนรู้วิธีกับฉัน!
+21556	You're a quick thinker, young man. All right, I'll trust you this once.	คุณเป็นคนคิดเร็วนะพ่อหนุ่มเอาล่ะ ฉันจะเชื่อใจคุณอีกครั้ง
+21557	This is my house. See if you can lure them into the woods to the south.	นี่คือบ้านของฉันดูว่าคุณสามารถล่อพวกมันเข้าไปในป่าทางใต้ได้หรือไม่
+21558	Can you feel it? Something incredible and unpredictable is happening...	รู้สึกได้ไหม?มีเรื่องเหลือเชื่อและคาดเดาไม่ได้เกิดขึ้น...
+21559	I hear the bronze statue in that fountain was sculpted in his likeness.	ฉันได้ยินว่ารูปปั้นทองสัมฤทธิ์ในน้ำพุนั้นแกะสลักตามลักษณะของเขา
+21560	When's a good time for a drink~?\nOn the days of earth, sun, and moon~?	ดื่มเมื่อไหร่ดี~?\nบนโลก พระอาทิตย์ พระจันทร์~?
+21561	Sold out or not, I'll Close Stall when it's time. No need to overdo it.	ขายหมดหรือไม่ปิดร้านเมื่อถึงเวลาไม่จำเป็นต้องหักโหมจนเกินไป
+21562	If you meet like-minded Adventurers, form an Adventurer Guild together!	หากคุณพบนักผจญภัยที่มีใจเดียวกัน ก่อตั้งกิลด์นักผจญภัยด้วยกัน!
+21563	Why is the Knight Guild holding a ball? Fighting would be way more fun.	ทำไมกิลด์อัศวินถึงถือลูกบอล?การต่อสู้คงจะสนุกกว่านี้มาก
+21564	What are you staring at me for? Hurry up and get this dog away from me!	มองฉันทำไม?รีบเอาสุนัขตัวนี้ไปจากฉันเร็ว ๆ นี้!
+21565	Whoa... We're Flying s-so high! The houses below look like tiny dots...	โอ้โห... เรากำลังบินได้สูงมาก!บ้านด้านล่างดูเหมือนจุดเล็กๆ...
+21566	Understood. Take Me there immediately so I can provide Utility support.	เข้าใจแล้วพาฉันไปที่นั่นทันทีเพื่อที่ฉันจะได้ให้การสนับสนุนด้านยูทิลิตี้
+21567	Uh-oh. Teaching someone to gamble is asking to get struck by lightning~	เอ่อ..การสอนคนเล่นการพนันคือการขอให้โดนฟ้าผ่า~
+21568	Our ^{1}${1}^{2} dealt the final blow to the center-lane ^{3}Guard^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนกลาง ^{3}Guard^{4}!
+21569	The Demonic Dragon and Dragonblood Crystal will appear in ${1} seconds!	Demonic Dragon และ Dragonblood Crystal จะปรากฏใน${1}วินาที!
+21570	${1} has transferred leadership of ^{1}${2} Adventure Party^{2} to you.	${1}ได้โอนความเป็นผู้นำ ^{1}${2}Adventure Party^{2}ให้กับคุณแล้ว
+21571	Everyone successfully repelled the BOSS!\n[${1}] landed the final blow!	ทุกคนขับไล่ BOSS ได้สำเร็จ!\n[${1}] โจมตีครั้งสุดท้าย!
+21572	Everyone, use Water skills if you can! They're effective against Eddga!	ทุกคน ใช้ทักษะทางน้ำถ้าทำได้!พวกมันได้ผลกับ Eddga!
+21573	Bobo\nMaster~ That hunk of junk is glowing again... This can't be good!	Bobo\nอาจารย์~ ขยะก้อนใหญ่นั่นเปล่งประกายอีกแล้ว... ไม่ดีเลย!
+21574	A 5-player party dungeon you can challenge weekly to obtain Rare items.	ดันเจี้ยนปาร์ตี้สำหรับผู้เล่น 5 คนที่คุณสามารถท้าทายทุกสัปดาห์เพื่อรับไอเท็มหายาก
+21575	Activate the Afternoon Stroll matching Headwear Appearance (Permanent).	เปิดใช้งานลักษณะหมวกที่เข้าคู่กับ Afternoon Stroll (ถาวร)
+21576	Use to Activate the Victory of the Covenant Portrait Frame (Permanent).	ใช้เพื่อเปิดใช้งานกรอบรูปแห่งชัยชนะแห่งพันธสัญญา (ถาวร)
+21577	Open the Card album to receive @{1} random Green or Blue Quality Cards.	เปิดอัลบั้มการ์ดเพื่อรับการ์ดคุณภาพสีเขียวหรือสีน้ำเงินแบบสุ่ม@{1}
+21578	Open this gift box to randomly obtain one of the following Soul Echoes.	เปิดกล่องของขวัญนี้เพื่อสุ่มรับหนึ่งใน Soul Echoes ต่อไปนี้
+21579	Open this Pack to obtain @{1} Star Diamond I and @{2} Starlight Silk I.	เปิดแพ็กนี้เพื่อรับ@{1}Star Diamond I และ@{2}Starlight Silk I
+21580	The guild spent ${1} Guild Funds to Level-up building ${2} to Lv. ${3}.	กิลด์ได้ใช้กองทุนกิลด์${1}เพื่อยกระดับการสร้าง${2}ให้เป็น Lv.${3}.
+21581	A Normal Tier @{1} Green Weapon capable of handling Low-grade monsters.	อาวุธสีเขียวระดับปกติ@{1}ที่สามารถจัดการมอนสเตอร์ระดับต่ำได้
+21582	A filthy uniform and pair of shoes. Who knows who left them lying here?	เครื่องแบบสกปรกและรองเท้าคู่หนึ่ง ใครจะรู้ว่าใครปล่อยให้พวกเขานอนอยู่ที่นี่?
+21583	A large, beautiful, and extremely Rare Feather from a Peco Peco's wing.	ขนนกขนาดใหญ่ สวยงาม และหายากอย่างยิ่งจากปีกของ Peco Peco
+21584	Used to purchase items from the shop during the Novice Challenge event.	ใช้ซื้อสินค้าจากร้านค้าในช่วงงาน Novice Challenge
+21585	A sword with a long, slender blade designed specifically for thrusting.	ดาบที่มีใบมีดเรียวยาวซึ่งออกแบบมาเพื่อแทงโดยเฉพาะ
+21586	Use powerful soul energy to control and damage enemies in a small area.	ใช้พลังวิญญาณอันทรงพลังเพื่อควบคุมและสร้างความเสียหายให้กับศัตรูในพื้นที่ขนาดเล็ก
+21587	<color=#63A22B>(Unlocks after the Current Server's First Clear)</color>	<color=#63A22B>(Unlocks after the Current Server's First Clear)</color>
+21588	First prize must be drawn from players using the Baphomet Jr. Transform	จะต้องจับรางวัลที่หนึ่งจากผู้เล่นที่ใช้ Baphomet Jr. Transform
+21589	Third prize must be drawn from players using the Baphomet Jr. Transform	รางวัลที่สามจะต้องมาจากผู้เล่นที่ใช้ Baphomet Jr. Transform
+21590	Consume Vigor to gather open-world resources and craft Tradeable items.	Consume Vigor to gather open-world resources and craft Tradeable items.
+21591	Event Period: During the Ignition Test, Sunday from @{1}:@{2}~@{3}:@{4}	: ระหว่างการทดสอบการจุดระเบิด วันอาทิตย์จาก@{1}:@{2}~@{3}:@{4}ระยะเวลากิจกรรม
+21592	Event Period: During the Ignition Test, Friday from @{1}:@{2}~@{3}:@{4}	: ระหว่างการทดสอบการจุดระเบิด วันศุกร์จาก@{1}:@{2}~@{3}:@{4}ระยะเวลากิจกรรม
+21593	Maximum number of tabs reached. Unable to create a new Tavern chat tab.	ถึงจำนวนแท็บสูงสุดแล้วไม่สามารถสร้างแท็บแชทโรงเตี๊ยมใหม่ได้
+21594	You or a teammate must use disguise items ${1} times in Kafra Survival.	คุณหรือเพื่อนร่วมทีมต้องใช้ไอเท็มปลอมตัว${1}ครั้งใน Kafra Survival
+21595	The Share Function is on cooldown. Please do not use it too frequently.	ฟังก์ชั่นแชร์อยู่ในคูลดาวน์กรุณาอย่าใช้บ่อยเกินไป.
+21596	The other guild's activity rating was too low last week to Merge Guild.	คะแนนกิจกรรมของกิลด์อื่นต่ำเกินไปในสัปดาห์ที่แล้วที่จะรวมกิลด์
+21597	The recruitment text contains invalid characters. Please enter it again	ข้อความการรับสมัครมีอักขระที่ไม่ถูกต้องกรุณากรอกใหม่อีกครั้ง
+21598	This player is under a matchmaking penalty and cannot join matchmaking.	ผู้เล่นนี้อยู่ภายใต้บทลงโทษในการค้นหาแมตช์ และไม่สามารถเข้าร่วมการค้นหาแมตช์ได้
+21599	After use, causes the selected Guild Battlefield Boss to Enter Berserk.	หลังการใช้งาน จะทำให้บอส Guild Battlefield ที่เลือกเข้าสู่ Berserk
+21600	Use First Aid on yourself, restoring a fixed ^{1}${1}^{2} ^{3}Life^{4}.	ใช้การปฐมพยาบาลเบื้องต้นกับตัวคุณเอง คืนค่าค่าคงที่ ^{1}${1}^{2}^{3}Life^{4}
+21601	Immediately receive the following <color=#fbcd7e>powerful perks</color>	Immediately receive the following <color=#fbcd7e>powerful perks</color>
+21602	Hello, everyone! I'm Miss Smile. Is there anything I can help you with?	สวัสดีทุกคน!ฉันชื่อมิสสไมล์มีอะไรที่ฉันสามารถช่วยคุณได้?
+21603	(Ruffles Allen's hair) Enough with this nonsense. Get back to training!	(ขย่มผมของอัลเลน) พอแล้วกับเรื่องไร้สาระนี้ กลับมาซ้อมได้แล้ว!
+21604	The boss's shield, used to block the flying blades launched by the boss	โล่ของบอส ใช้สำหรับป้องกันใบมีดบินที่บอสยิง
+21605	Reduces Movement Speed by @{1}% and continuously damages nearby enemies	ลดความเร็วในการเคลื่อนที่ลง@{1}% และสร้างความเสียหายให้กับศัตรูใกล้เคียงอย่างต่อเนื่อง
+21606	This Season has ended. Time until matchmaking begins for the new Season:	ซีซั่นนี้สิ้นสุดแล้วเวลาก่อนที่การจับคู่จะเริ่มต้นสำหรับฤดูกาลใหม่:
+21607	You meet Sprakki again and discover that she's the Academy receptionist.	คุณพบกับ Sprakki อีกครั้งและพบว่าเธอเป็นพนักงานต้อนรับของ Academy
+21608	Allen has gathered the materials too. Meet him at the Headgear Merchant.	อัลเลนได้รวบรวมวัตถุดิบด้วย พบเขาที่พ่อค้าหมวก
+21609	Decide to take down the scalpers from within, starting with Granny Gwen.	ตัดสินใจกำจัดพวกถลกหนังจากภายใน โดยเริ่มจาก Granny Gwen
+21610	The professor's important instrument is missing, and they need your help	อุปกรณ์สำคัญของศาสตราจารย์หายไป และพวกเขาต้องการความช่วยเหลือจากคุณ
+21611	Ji'ang refuses to go any farther. Defeat the terrifying monsters for him	Ji'ang ปฏิเสธที่จะไปไกลกว่านี้กำจัดสัตว์ประหลาดที่น่ากลัวเพื่อเขา
+21612	Increases damage dealt by your Physical Skills or Basic Attacks by ${1}%	เพิ่มความเสียหายที่เกิดจากทักษะกายภาพหรือการโจมตีพื้นฐานของคุณ${1}%
+21613	Attack supply transport carts to seize Military Supplies for your guild.	โจมตีรถเข็นขนส่งเสบียงเพื่อยึดเสบียงทหารสำหรับกิลด์ของคุณ
+21614	This well-trained Grand Peco is the exclusive combat mount for Crusader.	Grand Peco ที่ผ่านการฝึกฝนมาเป็นอย่างดีนี้เป็นพาหนะต่อสู้พิเศษสำหรับ Crusader
+21615	This equipment cannot be used by your current class. Appraise it anyway?	อุปกรณ์นี้ไม่สามารถใช้ได้ในคลาสปัจจุบันของคุณประเมินกันหรือยัง?
+21616	Incomplete client cache files were detected. Please Download them again.	ตรวจพบไฟล์แคชไคลเอ็นต์ที่ไม่สมบูรณ์กรุณาดาวน์โหลดอีกครั้ง
+21617	This item has been delisted. Your Pre-purchase funds have been refunded.	รายการนี้ได้ถูกเพิกถอนแล้วเงินที่ซื้อล่วงหน้าของคุณได้รับการคืนเงินแล้ว
+21618	Resetting is free. After a reset, all allocated points will be refunded.	การรีเซ็ตฟรีหลังจากรีเซ็ตแล้ว คะแนนที่จัดสรรทั้งหมดจะได้รับคืน
+21619	When Vigor drops to @{1}, there is a @{2}% Chance to restore @{3}% Vigor	เมื่อ Vigor ลดลงเหลือ@{1}มีโอกาส@{2}% ที่จะฟื้นฟู@{3}% Vigor
+21620	Messages can only be Sent once every ${1} hours. Please try again later.	สามารถส่งข้อความได้หนึ่งครั้งทุกๆ${1}ชั่วโมงเท่านั้นโปรดลองอีกครั้งในภายหลัง
+21621	Revives remaining after clearing the dungeon do not meet the requirement	การฟื้นคืนชีพที่เหลือหลังจากการเคลียร์ดันเจี้ยนไม่เป็นไปตามข้อกำหนด
+21622	Gain @{1} chances to become immune to movement-impairing status effects.	ได้รับโอกาส@{1}ที่จะมีภูมิคุ้มกันต่อเอฟเฟกต์สถานะที่ทำให้การเคลื่อนไหวบกพร่อง
+21623	^{1}^{2}[Weaponry Research]^{3}^{4} At Lv. @{1}, increases PATK by ${1}.	^{1}^{2}[การวิจัยอาวุธ]^{3}^{4}ที่ระดับ@{1}เพิ่ม PATK ขึ้น${1}
+21624	While ^{1}^{2}【True Sight】^{3}^{4} is Active, Physical DMG Bonus +${1}%.	ในขณะที่ ^{1}^{2}【True Sight】^{3}^{4}ทำงานอยู่ โบนัส DMG กายภาพ +${1}%
+21625	Card slot successfully unsealed. Insert a card to enhance the equipment.	ช่องเสียบการ์ดเปิดออกเรียบร้อยแล้วใส่การ์ดเพื่อเสริมประสิทธิภาพอุปกรณ์
+21626	Only one card with the same name can be socketed. Already socketed: ${1}	สามารถเสียบการ์ดที่มีชื่อเดียวกันได้เพียงการ์ดเดียวเท่านั้นเสียบแล้ว:${1}
+21627	Pharaoh's Pyramid fires ^{1}beams^{2} that damage enemies in their path.	พีระมิดของฟาโรห์ยิง ^{1}คาน^{2}สร้างความเสียหายให้กับศัตรูที่ขวางทาง
+21628	"Owned: <sprite name=""valhalla_img_item_01""> x<color=#cc762a>${1}</color>"	"Owned: <sprite name=""valhalla_img_item_01""> x<color=#cc762a>${1}</color>"
+21629	Automatically return to the main city when Bonus AFK Points are depleted	กลับสู่เมืองหลักโดยอัตโนมัติเมื่อคะแนนโบนัส AFK หมดลง
+21630	After you Kill an MVP, a treasure chest remains at the spot as a marker.	หลังจากที่คุณสังหาร MVP แล้ว หีบสมบัติจะยังคงอยู่ที่จุดนั้นเพื่อเป็นเครื่องหมาย
+21631	The Boss Radar displays the locations of Respawned MVPs on the Mini Map.	เรดาร์บอสจะแสดงตำแหน่งของ MVP ที่เกิดใหม่บนแผนที่ย่อ
+21632	You cannot Job Advance while your Stall is open. Close your Stall first.	คุณไม่สามารถเลื่อนงานได้ในขณะที่แผงลอยของคุณเปิดอยู่ปิดร้านของคุณก่อน
+21633	Obtain any Headwear, Facewear, Mouthwear, or Backwear for the first time	รับชุดสวมศีรษะ ชุดสวมหน้า ชุดปาก หรือชุดสวมหลังเป็นครั้งแรก
+21634	Click to activate the AFK System. You'll earn tons of rewards while AFK!	คลิกเพื่อเปิดใช้งานระบบ AFKคุณจะได้รับรางวัลมากมายในขณะที่ AFK!
+21635	Wow, it's a VIT +@{1} affix! Equipment affixes provide additional stats.	ว้าว มันคือ VIT +@{1}affix!การติดอุปกรณ์ให้ค่าสถานะเพิ่มเติม
+21636	Tell you what—give me @{1} Crystal, and I'll reveal which job suits you!	บอกคุณว่าอะไร—เอา@{1}Crystal มาให้ฉัน แล้วฉันจะเปิดเผยว่างานไหนที่เหมาะกับคุณ!
+21637	Let's go. The airship wreckage recovery team should have arrived by now.	ไปเลยครับ.ทีมเก็บซากเรือเหาะน่าจะมาถึงแล้ว
+21638	Ahh... It's hard to find work these days. I'm sure you know that, right?	อ่า... ช่วงนี้หางานยากครับ ฉันแน่ใจว่าคุณรู้ใช่ไหม?
+21639	(flipping back) It does contradict it... Did the author not even notice?	(พลิกกลับ) มันแย้งเลย...ผู้เขียนไม่สังเกตเลยเหรอ?
+21640	My master says fighting Ant Eggs is the best way to train at this stage.	อาจารย์ของฉันบอกว่าการต่อสู้กับไข่มดเป็นวิธีที่ดีที่สุดในการฝึกฝนในระยะนี้
+21641	I'll work hard and defeat all 9,999 of them. I won't let my master down.	ฉันจะทำงานหนักและเอาชนะพวกมันทั้ง 9,999 ตัวให้ได้ฉันจะไม่ทำให้เจ้านายผิดหวัง
+21642	Well? Got it memorized? If you're worried about getting lost, buy a map.	เหรอ?จำได้แล้วเหรอ?หากคุณกังวลว่าจะหลงทางก็ซื้อแผนที่
+21643	Every Adventurer is part of the reason the continent of Midgard endures.	นักผจญภัยทุกคนเป็นส่วนหนึ่งของเหตุผลที่ทวีป Midgard ดำรงอยู่
+21644	At my age, I never thought I'd be made a fool of by a White Mouse. Sigh.	ในวัยของฉัน ฉันไม่เคยคิดเลยว่าจะถูก White Mouse หลอกได้ถอนหายใจ
+21645	Come on, ^{1}PlayerName^{2}. It's time for the two of us to shine again.	เอาน่า ^{1}PlayerName^{2}.ถึงเวลาที่เราสองคนจะเปล่งประกายอีกครั้ง
+21646	You lunatic! Are you even listening? I already told you I'm not his Pet!	ไอ้บ้า!คุณยังฟังอยู่หรือเปล่า?ฉันบอกคุณแล้วว่าฉันไม่ใช่สัตว์เลี้ยงของเขา!
+21647	Let's form a pact. Then, whenever danger strikes, we can fight together.	มาทำข้อตกลงกันแล้วเมื่อมีอันตรายเกิดขึ้นเราก็จะสู้ไปด้วยกัน
+21648	Do we have to? Why not just beat them until they lose their memories...?	เราต้องทำมั้ย?ทำไมไม่ทุบตีพวกเขาจนสูญเสียความทรงจำล่ะ...?
+21649	Curse you, Baphomet! If I were only stronger, I'd skin that beast alive!	สาปแช่งคุณ บาโฟเมต!ถ้าฉันแข็งแกร่งขึ้น ฉันจะถลกหนังสัตว์ตัวนั้นทั้งเป็น!
+21650	You cannot join a battle already in progress. Please wait until it ends.	คุณไม่สามารถเข้าร่วมการต่อสู้ที่กำลังดำเนินการอยู่ได้กรุณารอจนกว่าจะสิ้นสุด
+21651	Fafnir has entered Battle Status. The portal will close in @{1} seconds.	Fafnir ได้เข้าสู่สถานะการต่อสู้แล้วพอร์ทัลจะปิดใน@{1}วินาที
+21652	Fafnir has left Battle Status. The encounter will reset in @{1} seconds.	Fafnir ออกจากสถานะการต่อสู้แล้วการเผชิญหน้าจะรีเซ็ตใน@{1}วินาที
+21653	Enemy ^{1}${1}^{2} has defeated the ^{3}City Guard^{4} in the left lane!	ศัตรู ^{1}${1}^{2}เอาชนะ ^{3}City Guard^{4}ในเลนซ้าย!
+21654	Tap the Start Battle Button and Start Battle once all Members are Ready.	แตะปุ่มเริ่มการต่อสู้และเริ่มการต่อสู้เมื่อสมาชิกทุกคนพร้อม
+21655	Mistress is Angry! Infantry and cavalry will appear together. Watch out!	นายหญิงโกรธ!ทหารราบและทหารม้าจะปรากฏขึ้นพร้อมกันระวัง!
+21656	Pharaoh is unleashing Cleansing Light! Quickly, hide behind the Pyramid!	ฟาโรห์ปล่อยแสงคลีนซิ่งออกมา!ซ่อนตัวอยู่หลังพีระมิดเร็วเข้า!
+21657	Enter the circles in order to compose the melody. ${1} seconds remaining	เข้าสู่วงกลมเพื่อแต่งทำนองเหลือ${1}วินาที
+21658	Congratulations and best wishes for prosperity! ${1} won the ${2} Prize!	ขอแสดงความยินดีและขอพรให้เจริญรุ่งเรือง!${1}ได้รับรางวัล${2}!
+21659	Warning! A high-level rift has appeared in ${1}. Destroy it immediately!	คำเตือน!เกิดรอยแยกระดับสูงใน${1}ทำลายมันทันที!
+21660	Boya\nHa! When we work together, those air pirates don't stand a chance!	โบย่า\nฮ่า!เมื่อเราร่วมมือกัน พวกโจรสลัดทางอากาศไม่มีโอกาสเลย!
+21661	Bobo\nThere's someone over there! Could he be looking for the goods too?	โบโบ\nมีคนอยู่ทางนั้น!เขาอาจจะมองหาสินค้าด้วยหรือเปล่า?
+21662	A crystal obtained from certain monsters. Can be exchanged for Headwear.	คริสตัลที่ได้รับจากมอนสเตอร์บางชนิด สามารถเปลี่ยนเป็น Headwear ได้
+21663	${1} completes Overture I, increasing music energy for the Entire Server	${1}เสร็จสิ้น Overture I ซึ่งจะเป็นการเพิ่มพลังทางดนตรีให้กับทั้งเซิร์ฟเวอร์
+21664	Magical Stickers that can be used to decorate your Profile once obtained	สติกเกอร์วิเศษที่สามารถใช้เพื่อตกแต่งโปรไฟล์ของคุณเมื่อได้รับแล้ว
+21665	Points obtained by defeating monsters in the ^{1}Mt. Mjolnir^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Mt. Mjolnir^{2}
+21666	Points obtained by defeating monsters in the ^{1}Sunken Ship^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Sunken Ship^{2}
+21667	Points obtained by defeating monsters in the ^{1}Orc Village^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Orc Village^ ภูมิภาค{2}
+21668	Refining will <color=#C26B47>randomly increase or decrease stats</color>	Refining will <color=#C26B47>randomly increase or decrease stats</color>
+21669	The current scroll's star rating is too low to unlock a new Enchant slot	ระดับดาวของคัมภีร์ปัจจุบันต่ำเกินไปที่จะปลดล็อคสล็อต Enchant ใหม่
+21670	Current Equipment already has an Enchant with the same name. Replace it?	อุปกรณ์ปัจจุบันมี Enchant ชื่อเดียวกันอยู่แล้วแทนที่มัน?
+21671	After successfully logging Lv. @{1} trees, gain @{2} Extra main products	หลังจากบันทึกเลเวลสำเร็จแล้ว  ต้นไม้@{1}ได้รับผลิตภัณฑ์หลักพิเศษ@{2}
+21672	Until fate reveals itself once more, you must never stop moving Forward.	จนกว่าโชคชะตาจะเปิดเผยอีกครั้ง คุณต้องไม่หยุดก้าวไปข้างหน้า
+21673	Second prize must be drawn from players using the Baphomet Jr. Transform	Second prize must be drawn from players using the Baphomet Jr. Transform
+21674	You didn't expect that? So you really didn't consider our safety at all!	คุณไม่คาดคิดเหรอ?คุณไม่ได้คำนึงถึงความปลอดภัยของเราเลยจริงๆ!
+21675	This item is not currently being auctioned. Fixed price purchase failed.	สินค้านี้ไม่ได้ถูกประมูลอยู่ในขณะนี้การซื้อราคาคงที่ล้มเหลว
+21676	Items at Stalls are temporarily unavailable for purchase on this server.	รายการที่แผงลอยไม่สามารถซื้อได้ชั่วคราวบนเซิร์ฟเวอร์นี้
+21677	Your character is temporarily unable to open a Stall. Unseal time: ${1}.	ตัวละครของคุณไม่สามารถเปิดแผงลอยได้ชั่วคราวเวลาเปิดผนึก:${1}
+21678	The Adventurer Group quest does not exist or has already been completed.	ภารกิจ Adventurer Group ไม่มีอยู่หรือสำเร็จแล้ว
+21679	The text of the Announcement of Merging does not meet the specifications	ข้อความประกาศการรวมไม่ตรงตามข้อกำหนด
+21680	AFK timeout: Extended inactivity is not allowed during the Escort phase.	หมดเวลา AFK: ไม่อนุญาตให้ไม่มีการใช้งานแบบขยายในระหว่างช่วง Escort
+21681	You can switch after going ${1} seconds without attacking another player	คุณสามารถสลับได้หลังจากผ่านไป${1}วินาทีโดยไม่โจมตีผู้เล่นอื่น
+21682	Matchmaking was canceled because a party Member entered another Dungeon.	การจับคู่ถูกยกเลิกเนื่องจากสมาชิกปาร์ตี้เข้าสู่ดันเจี้ยนอื่น
+21683	A heavy bronze shield. Use to permanently increase Physical DEF by @{1}.	โล่ทองสัมฤทธิ์หนัก ใช้เพื่อเพิ่ม Physical DEF อย่างถาวรโดย@{1}
+21684	Your party must include at least ${1} Guild Members from the same guild.	ปาร์ตี้ของคุณต้องมีสมาชิกกิลด์${1}จากกิลด์เดียวกันเป็นอย่างน้อย
+21685	Change your Pushcart's appearance by choosing a special design you like.	เปลี่ยนรูปลักษณ์รถเข็นของคุณโดยเลือกดีไซน์พิเศษที่คุณชอบ
+21686	Provides the player and the Supply Cart with an exceptional speed boost.	มอบความเร็วที่เหนือชั้นให้กับผู้เล่นและรถเข็นเสบียง
+21687	Pick up the shield dropped by the Orc Lord to withstand the next attack.	หยิบโล่ที่ Orc Lord ทิ้งไว้เพื่อต้านทานการโจมตีครั้งต่อไป
+21688	Next, I'll show you the truth... Whether you can accept it is up to you.	ต่อไป ฉันจะแสดงความจริงให้คุณดู... คุณจะรับได้ไหมก็ขึ้นอยู่กับคุณ
+21689	He studied in Juno for over a decade. He might as well be a foreigner...	เขาศึกษาที่จูโนมานานกว่าทศวรรษเขาอาจจะเป็นชาวต่างชาติก็ได้...
+21690	Your teammates are still fighting and need your encouragement. Continue?	เพื่อนร่วมทีมของคุณยังคงต่อสู้และต้องการกำลังใจจากคุณดำเนินการต่อ?
+21691	Learning 【Katar Mastery】 and 【Dual-Wield Mastery】 grants ${1} Extra AGI.	การเรียนรู้ 【Katar Mastery】 และ 【Dual-Wield Mastery】 มอบ${1}Extra AGI
+21692	When hit by a melee Physical Attack, unleash a spectacular Auto Counter!	เมื่อถูกโจมตีทางกายภาพระยะประชิด ปล่อยตัวนับอัตโนมัติอันน่าทึ่ง!
+21693	Movement Speed increased by @{1}% and Slow Resistance increased by @{2}.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น@{1}% และความต้านทานการสโลว์เพิ่มขึ้น@{2}
+21694	Marked by Harmony. Triggers healing when the source casts Highness Heal.	ทำเครื่องหมายโดย Harmonyเรียกใช้การรักษาเมื่อแหล่งที่มาร่ายการรักษา Highness
+21695	When you Kill an enemy, cast [Curse of Malice] at the target's location.	เมื่อคุณสังหารศัตรู ร่าย [Curse of Malice] ไปยังตำแหน่งของเป้าหมาย
+21696	For @{1}s, hitting a marked enemy grants @{2} stacks of increased damage	สำหรับ@{1}s การโจมตีศัตรูที่ถูกทำเครื่องหมายจะทำให้@{2}ได้รับความเสียหายเพิ่มขึ้น
+21697	^{1}^{2}【Mystical Amplification】^{3}^{4} grants ^{5}${1}^{6} Extra MATK.	^{1}^{2}【การขยายสัญญาณลึกลับ】^{3}^{4}ให้สิทธิ์ ^{5}${1}^{6}Extra MATK
+21698	After successfully rescuing the Professor, you earn the Captain's praise.	หลังจากช่วยเหลือศาสตราจารย์ได้สำเร็จ คุณจะได้รับการยกย่องจากกัปตัน
+21699	With your Job Advance path decided, go touch the Book of Job Advancement.	เมื่อตัดสินใจเส้นทาง Job Advance แล้ว ให้แตะ Book of Job Advancement
+21700	The server is under maintenance. Please check the official announcements.	เซิร์ฟเวอร์อยู่ระหว่างการบำรุงรักษาโปรดตรวจสอบประกาศอย่างเป็นทางการ
+21701	Meet the Professor at the Nail of Order in the northwest part of the city	พบกับศาสตราจารย์ที่ Nail of Order ทางตะวันตกเฉียงเหนือของเมือง
+21702	Place the instrument beside the Nail of Order and get Ready to operate it	วางเครื่องมือไว้ข้าง Nail of Order และเตรียมพร้อมในการใช้งาน
+21703	This Trade violated the System's Trade rules. A penalty has been applied.	การค้านี้ละเมิดกฎการค้าของระบบมีการใช้บทลงโทษ
+21704	For every @{1} professions that reach Moonlit Challenger, Max Vigor +@{2}	สำหรับทุกอาชีพ@{1}ที่ไปถึง Moonlit Challenger, Max Vigor +@{2}
+21705	Linked to Guild Skills. Determines the Skill Level limit for Guild Skills	เชื่อมโยงกับทักษะกิลด์กำหนดขีดจำกัดระดับทักษะสำหรับทักษะกิลด์
+21706	Awakens the power of dragonblood, becoming immune to targeting and damage	ปลุกพลังเลือดมังกร ต้านทานการกำหนดเป้าหมายและความเสียหาย
+21707	This conflicts with the shortcut for Function ${1}. Swap their shortcuts?	สิ่งนี้ขัดแย้งกับทางลัดสำหรับ Function${1}สลับทางลัดของพวกเขา?
+21708	Gain ${1} PATK for each learned level of ^{1}^{2}[Spear Mastery]^{3}^{4}.	ได้รับ${1}PATK สำหรับแต่ละระดับการเรียนรู้ของ ^{1}^{2}[Spear Mastery]^{3}^{4}
+21709	The PATK granted by ^{1}^{2}【Deadly Poison】^{3}^{4} is increased by ${1}.	PATK ที่ได้รับจาก ^{1}^{2}【Deadly Poison】^{3}^{4}เพิ่มขึ้น${1}
+21710	No skills have been assigned to the current Skill Build. Set them up now?	ไม่มีการกำหนดทักษะให้กับ Skill Build ปัจจุบันตั้งค่าตอนนี้เลยไหม?
+21711	In Ragnarok Online, reaching @{1} DEX allows skills to be cast instantly.	ใน Ragnarok Online การไปถึง@{1}DEX จะทำให้สามารถใช้ทักษะได้ทันที
+21712	"In RO, players often use ""Chat Rooms"" to view the Entire Server rankings."	"ใน RO ผู้เล่นมักใช้ ""ห้องสนทนา"" เพื่อดูอันดับเซิร์ฟเวอร์ทั้งหมด"
+21713	"In RO, ""UB"" is short for a Ghostring Suit (Ghostring Card + Formal Suit)."	"ใน RO ""UB"" ย่อมาจาก Ghostring Suit (การ์ด Ghostring + ชุดทางการ)"
+21714	The Stall name contains restricted words. Please change it and try again.	ชื่อ Stall มีคำที่จำกัดโปรดเปลี่ยนและลองอีกครั้ง
+21715	The guild announcement contains prohibited words. Please enter a new one.	ประกาศกิลด์มีคำต้องห้ามกรุณากรอกใหม่
+21716	You've used all Group Mail attempts for today. Please try again Tomorrow.	คุณได้ใช้ Group Mail ไปแล้วทั้งหมดในวันนี้โปรดลองอีกครั้งพรุ่งนี้
+21717	Stat Bonus Overview provided to the Adventurer by currently Deployed Pets	ภาพรวมโบนัสสถิติที่มอบให้กับนักผจญภัยโดยสัตว์เลี้ยงที่ถูกนำไปใช้ในปัจจุบัน
+21718	Tap here to start the Challenge! I can't wait! I'll take on ten at once!!	แตะที่นี่เพื่อเริ่มการท้าทาย!ฉันรอไม่ไหวแล้ว!ผมจะตีสิบทีเดียว!!
+21719	Why is it raining? Because thinking of you has me sweating buckets, meow!	ทำไมฝนตก?เพราะการคิดถึงเธอทำให้ฉันเหงื่อแตกพลั่ก เหมียว!
+21720	Where the stars converge, the Starshatter Dragon shall descend once more.	เมื่อดวงดาวมาบรรจบกัน มังกรสลายดวงดาวจะลงมาอีกครั้ง
+21721	Once you pass the trial, you can head To Prontera for your Job Advance...	เมื่อคุณผ่านการทดสอบแล้ว คุณสามารถไปที่ Prontera เพื่อเลื่อนตำแหน่งงานของคุณได้...
+21722	Keeping your equipment up to date will be a great help in future battles.	การทำให้อุปกรณ์ของคุณทันสมัยอยู่เสมอจะช่วยได้มากในการต่อสู้ในอนาคต
+21723	Uh... Adventurer? Thank You for helping me, but may I ask who you are...?	เอ่อ... นักผจญภัยเหรอ?ขอบคุณที่ช่วยฉัน แต่ฉันขอถามได้ไหมว่าคุณเป็นใคร...?
+21724	Oh, you're here... Thank You for rescuing me. You were a tremendous help.	โอ้ คุณอยู่นี่แล้ว... ขอบคุณที่ช่วยเหลือฉันคุณช่วยได้มากจริงๆ
+21725	There was once a time when people here struggled just to eat and survive.	มีครั้งหนึ่งที่ผู้คนที่นี่ดิ้นรนเพียงเพื่อกินและอยู่รอด
+21726	There's a bird's nest in that tree. Could you walk a little more quietly?	มีรังนกอยู่บนต้นไม้นั้นคุณช่วยเดินเงียบๆ อีกหน่อยได้ไหม?
+21727	Now, complete your first Stat Distribution based on your job's strengths.	ตอนนี้ ทำการแจกแจงสถิติครั้งแรกของคุณให้เสร็จสิ้นตามจุดแข็งของงานของคุณ
+21728	Excellent work, rookie. Thanks to your help, we can take off immediately.	ผลงานเยี่ยมครับมือใหม่ขอบคุณความช่วยเหลือของคุณ เราสามารถออกเดินทางได้ทันที
+21729	The next time we meet... I hope you'll bring Me a more interesting Story.	คราวหน้าเจอกัน... ฉันหวังว่าคุณจะนำเรื่องราวที่น่าสนใจกว่านี้มาให้ฉันบ้าง
+21730	Hahaha! That's my enlightened, motivated, and courageous Chief assistant!	ฮ่าๆ!นั่นคือผู้ช่วยหัวหน้าผู้รู้แจ้ง มีแรงบันดาลใจ และกล้าหาญของฉัน!
+21731	Please wait for the Guild Master or Vice Guild Master to start the event.	โปรดรอให้ Guild Master หรือ Vice Guild Master เริ่มกิจกรรม
+21732	Our ^{1}${1}^{2} dealt the final blow to the left-lane ^{3}Protector^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนซ้าย ^{3}Protector^{4}!
+21733	Your teammate ${1} is trapped in a coffin! Break it open and rescue them!	เพื่อนร่วมทีมของคุณ${1}ติดอยู่ในโลงศพ!ทำลายมันเปิดออกและช่วยเหลือพวกเขา!
+21734	Talking to Themselves\n...Is that streetlamp singing? Am I seeing things?	คุยกับตัวเอง\n...ไฟข้างถนนร้องเพลงเหรอ?ฉันเห็นสิ่งต่าง ๆ หรือไม่?
+21735	Bobo\nThe sand is moving... No good, I'm being sucked in! Quick, save Me!	Bobo\nทรายขยับ... ไม่ดี ฉันถูกดูดเข้าไป!เร็วเข้า ช่วยฉันด้วย!
+21736	Bobo\n(Cries echo from nearby) Waaah! ^{1}PlayerName^{2}, are you there?!	Bobo\n(เสียงร้องดังก้องจากบริเวณใกล้เคียง) ว้าว!^{1}PlayerName^{2}อยู่ไหม!
+21737	Captain\nIf the wind blows you off the airship, don't blame me! Hahahaha!	กัปตัน\nถ้าลมพัดคุณลงจากเรือเหาะ อย่าโทษฉันนะ!ฮ่าๆๆๆ!
+21738	"Eden Group Leader\nCould it be the Desert Eagles? Aren't we just ""lucky""?"	"หัวหน้ากลุ่ม Eden\nอาจเป็น Desert Eagles หรือเปล่า?เราแค่ ""โชคดี"" ไม่ใช่เหรอ?"
+21739	Bobo\nWhy did he stop again? I hope it's not because of food this time...	Bobo\nทำไมเขาถึงหยุดอีก?หวังว่าคงไม่ใช่เพราะอาหารครั้งนี้นะ...
+21740	An essential Season progression System that greatly increases your Power.	ระบบความก้าวหน้าของฤดูกาลที่จำเป็นซึ่งเพิ่มพลังของคุณอย่างมาก
+21741	Enhance the Bonfire Blessing to gain an Extra @{2} EXP every @{1} seconds	ปรับปรุง Bonfire Blessing เพื่อรับ EXP พิเศษ@{2}ทุกๆ@{1}วินาที
+21742	Fine Blue Equipment with impressive offensive and defensive capabilities.	Fine Blue Equipment พร้อมความสามารถในการรุกและการป้องกันที่น่าประทับใจ
+21743	A common Arrow that can be found anywhere. Can be exchanged for Headwear.	ลูกศรทั่วไปที่สามารถพบได้ทุกที่ สามารถเปลี่ยนเป็น Headwear ได้
+21744	Restores Character HP. Instantly restores @{1} HP. Cooldown: @{2} seconds	ฟื้นฟู HP ตัวละครฟื้นฟู@{1}HP ทันทีคูลดาวน์:@{2}วินาที
+21745	A somewhat rugged-looking shield with its entire front covered in spikes.	โล่ที่ดูค่อนข้างแข็งแกร่งและมีหนามแหลมปกคลุมด้านหน้าทั้งหมด
+21746	A katar designed for assassination that seeks out an enemy's weak points.	กาตาร์ที่ออกแบบมาเพื่อลอบสังหารโดยค้นหาจุดอ่อนของศัตรู
+21747	A katar crafted using ancient secret arts. Its blades constantly vibrate.	กาตาร์ที่สร้างขึ้นโดยใช้ศิลปะลับโบราณ ใบมีดของมันสั่นสะเทือนตลอดเวลา
+21748	A staff made from a mistletoe branch and imbued with the power of nature.	ไม้เท้าที่ทำจากกิ่งมิสเซิลโทและเปี่ยมด้วยพลังแห่งธรรมชาติ
+21749	Once used as a two-handed Spear, it was redesigned as a one-handed Spear.	เมื่อใช้เป็นหอกสองมือแล้ว ก็ได้รับการออกแบบใหม่ให้เป็นหอกมือเดียว
+21750	A terrifying two-handed sword that has beheaded many condemned prisoners.	ดาบสองมือที่น่าสะพรึงกลัวซึ่งตัดหัวนักโทษที่ถูกประณามมากมาย
+21751	Progress rewards based on the number of digs during Treasure Hunt events.	รางวัลความคืบหน้าขึ้นอยู่กับจำนวนการขุดระหว่างกิจกรรม Treasure Hunt
+21752	Event Period: During the Ignition Test, Thursday from @{1}:@{2}~@{3}:@{4}	: ระหว่างการทดสอบการจุดระเบิด วันพฤหัสบดี จาก@{1}:@{2}~@{3}:@{4}ระยะเวลากิจกรรม
+21753	The report Description is too short. Please enter at least 10 characters.	คำอธิบายรายงานสั้นเกินไปกรุณากรอกอย่างน้อย 10 ตัวอักษร
+21754	You're my only hope, my adventuring buddy~ Don't worry! The pay is great.	คุณคือความหวังเดียวของฉัน เพื่อนนักผจญภัยของฉัน~ ไม่ต้องกังวล!การจ่ายเงินดีมาก
+21755	Be careful not to touch it with your fingers. It doesn't look very clean.	ระวังอย่าให้นิ้วสัมผัสโดนมันดูไม่สะอาดมาก
+21756	Day ${2} After the Entire Server's First Clear of the 10-Player Raid ${1}	วัน${2}หลังจากการเคลียร์การโจมตีผู้เล่น 10 คนครั้งแรกของเซิร์ฟเวอร์${1}
+21757	Siege War - Battle for the Royal Capital: About to start! Head there now!	Siege War - การต่อสู้เพื่อเมืองหลวง: กำลังจะเริ่มต้น!มุ่งหน้าไปที่นั่นเดี๋ยวนี้!
+21758	Reach Lv. ${1} to immediately receive <color=#ff993f>${2}</color> rewards	Reach Lv. ${1} to immediately receive <color=#ff993f>${2}</color> rewards
+21759	For every @{1} skills on this Totem, your Physical ATK increases by @{2}.	สำหรับทุกทักษะของ@{1}บน Totem นี้ พลังโจมตีทางกายภาพของคุณจะเพิ่มขึ้น@{2}
+21760	Increases the Chance of triggering 【Venom】 with 【Deadly Poison】 by ${1}%.	เพิ่มโอกาสในการกระตุ้น 【Venom】 ด้วย 【Deadly Poison】 เป็น${1}%
+21761	Takes damage every @{1} seconds. Each stack reduces damage dealt by @{2}%	รับความเสียหายทุกๆ@{1}วินาทีแต่ละสแต็คจะลดความเสียหายที่เกิดขึ้นโดย@{2}%
+21762	Job Advance requirements not met. Base Lv. ${1} and Job Lv. ${2} required.	Job Advanceเลเวลพื้นฐาน${1}และ Job Lv.ต้องมี${2}
+21763	Rewards for all completed Trophies can be claimed after Season Settlement.	รางวัลสำหรับถ้วยรางวัลที่ทำสำเร็จทั้งหมดสามารถรับได้หลังจากการชำระบัญชีฤดูกาล
+21764	You encounter the mysterious woman again, and she asks you to look around.	คุณพบกับผู้หญิงลึกลับอีกครั้ง และเธอขอให้คุณมองไปรอบๆ
+21765	After the Relic appeared, the monsters in the area began growing restless.	หลังจากที่ Relic ปรากฏตัว มอนสเตอร์ในพื้นที่ก็เริ่มกระสับกระส่าย
+21766	Ki explains that multiple parallel space-times exist within this universe.	Ki อธิบายว่ากาล-อวกาศคู่ขนานมีอยู่หลายครั้งในจักรวาลนี้
+21767	Find a supply cart on the battlefield and attack it to seize its supplies!	ค้นหารถเข็นเสบียงในสนามรบแล้วโจมตีเพื่อยึดเสบียงของมัน!
+21768	Backpack full. Please organize your Backpack before opening the gift pack.	กระเป๋าเป้เต็มใบ.กรุณาจัดระเบียบกระเป๋าเป้สะพายหลังของคุณก่อนที่จะเปิดชุดของขวัญ
+21769	Purchase Successful! Your item has been sent by mail. Be sure to claim it.	ซื้อสำเร็จ! รายการของคุณถูกส่งทางไปรษณีย์แล้ว อย่าลืมอ้างสิทธิ์
+21770	Develop Echoes during the event and complete Event Quests to earn rewards!	พัฒนาเสียงสะท้อนในระหว่างกิจกรรมและทำภารกิจกิจกรรมให้สำเร็จเพื่อรับรางวัล!
+21771	Weapon damaged. All Main/Off-Hand Weapon stats and Affixes are not Active.	อาวุธเสียหายสถิติและส่วนเสริมอาวุธหลัก/รองทั้งหมดจะไม่ทำงาน
+21772	Kill Fish and Shellfish monsters to restore @{1} MP. No internal Cooldown.	ฆ่ามอนสเตอร์ประเภทปลาและหอยเพื่อฟื้นฟู MP ของ@{1}ไม่มีคูลดาวน์ภายใน
+21773	You feel fatigued, impairing your ability to explore. (Broadcast required)	คุณรู้สึกเหนื่อยล้า ทำให้ความสามารถในการสำรวจลดลง(จำเป็นต้องออกอากาศ)
+21774	Your position in the queue is <color=#fdab5b><size=50>${1}</size></color>.	Your position in the queue is <color=#fdab5b><size=50>${1}</size></color>.
+21775	^{1}^{2}[Heal]^{3}^{4} and ^{5}^{6}[Sanctuary]^{7}^{8} Variable CT -${1}%.	^{1}^{2}[รักษา]^{3}^{4}และ ^{5}^{6}[เขตรักษาพันธุ์สัตว์ป่า]^{7}^{8}ตัวแปร CT -${1}%.
+21776	While ^{1}^{2}[Auto Guard]^{3}^{4} is active, PATK +${1} and Max HP +${2}.	ขณะที่ ^{1}^{2}[การป้องกันอัตโนมัติ]^{3}^{4}ทำงานอยู่ PATK +${1}และ Max HP +${2}
+21777	While ^{1}^{2}[Parry]^{3}^{4} is active, gain an Extra ${1} PDEF and MDEF.	ขณะที่ ^{1}^{2}[Parry]^{3}^{4}ทำงานอยู่ จะได้รับ${1}PDEF และ MDEF พิเศษ
+21778	For every ${1} Stunts on equipped gear, Max Life +${2} (up to ${3} Stunts)	สำหรับทุก${1}Stunts บนอุปกรณ์ที่ติดตั้ง Max Life +${2}(สูงสุด${3}Stunts)
+21779	Learn ^{1}^{2}【Advanced Katar Mastery】^{3}^{4} to gain an Extra ${1} PATK.	เรียนรู้ ^{1}^{2}【ความเชี่ยวชาญ Katar ขั้นสูง】^{3}^{4}เพื่อรับ${1}PATK พิเศษ
+21780	Osiris lashes^{1}@{1} areas ahead with bandages^{2}, damaging targets hit.	ขนตา Osiris^{1}@{1}บริเวณข้างหน้ามีผ้าพันแผล^{2}ทำลายเป้าหมายที่โดน
+21781	A pair of small red-accented hair ribbons that make girls look even cuter.	ริบบิ้นติดผมสีแดงเล็กๆ ที่ทำให้สาวๆ ดูน่ารักยิ่งขึ้น
+21782	The Growth Badge will guide your progress. Open it up and take a look, bo!	ป้ายการเติบโตจะนำทางความก้าวหน้าของคุณลองเปิดดูสิพี่!
+21783	Fill them all in to unlock a story quest. Don't forget to complete it, bo!	กรอกข้อมูลทั้งหมดเพื่อปลดล็อกภารกิจเรื่องราวอย่าลืมทำให้เสร็จนะโบ!
+21784	Eliminate the source of the strange odor in the Culvert: Golden Thief Bug.	กำจัดต้นตอของกลิ่นแปลก ๆ ใน Culvert: Golden Thief Bug
+21785	It's okay! Master just got scared by some ants earlier, that's all~ Right?	ไม่เป็นไร!ก่อนหน้านี้อาจารย์เพิ่งกลัวมดบางตัว แค่นั้น~ ใช่ไหม?
+21786	Everything's just about ready. Now let's see if the Rockers take the bait.	ทุกอย่างพร้อมแล้วมาดูกันว่า Rockers จะตกเป็นเหยื่อหรือไม่
+21787	We have the finest flowers in Prontera! Adventurer, why not buy a bouquet?	เรามีดอกไม้ที่ดีที่สุดในพรอนเทรา!นักผจญภัย ทำไมไม่ซื้อช่อดอกไม้ล่ะ?
+21788	Now that I'm in Izlude, I've got a good feeling about this. Heh... Appear!	ตอนนี้ฉันอยู่ที่ Izlude ฉันก็รู้สึกดีกับเรื่องนี้เฮ่... ปรากฏตัว!
+21789	Don't get the wrong idea. Not everyone in Payon is as talkative as she is.	อย่าเข้าใจผิดไม่ใช่ทุกคนใน Payon จะช่างพูดเก่งเหมือนเธอ
+21790	I really have No idea what kind of people the Eden Group is looking for...	ไม่รู้จริงๆว่า Eden Group ตามหาคนแบบไหน...
+21791	I never had the chance to study when I was young, but now I have the time.	ตอนเด็กๆ ไม่เคยมีโอกาสเรียนเลย แต่ตอนนี้พอมีเวลา
+21792	What could possibly matter more than family? I just don't understand Hawk.	อะไรจะสำคัญไปกว่าครอบครัว?ฉันแค่ไม่เข้าใจฮอว์ก
+21793	Fine, fine, we'll do it your way. Rookie, I'll meet you in Southern Payon!	เอาล่ะ เราจะทำมันในแบบของคุณมือใหม่ ฉันจะไปพบคุณที่พยอนใต้!
+21794	I see. You must be the new recruit who helped them get the tickets, right?	เข้าใจแล้วคุณต้องเป็นคนรับสมัครใหม่ที่ช่วยพวกเขาซื้อตั๋วใช่ไหม?
+21795	Go see Hollgrehenn. He has a gift from Tritura Academy for every Beginner.	ไปดู Hollgrehenn.เขามีของขวัญจากสถาบัน Tritura สำหรับผู้เริ่มต้นทุกคน
+21796	Automatically dismantle equipment that meets all the following conditions.	รื้ออุปกรณ์ที่ตรงตามเงื่อนไขทั้งหมดต่อไปนี้โดยอัตโนมัติ
+21797	Items that meet all the above conditions will be selected for dismantling.	รายการที่ตรงตามเงื่อนไขข้างต้นทั้งหมดจะถูกเลือกสำหรับการรื้อ
+21798	Fafnir is about to go berserk! It will destroy everything in @{1} seconds!	ฟาฟเนียร์กำลังจะบ้าดีเดือด!มันจะทำลายทุกสิ่งใน@{1}วินาที!
+21799	Our ^{1}${1}^{2} dealt the final blow to the right-lane ^{3}Protector^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนขวา ^{3}Protector^{4}!
+21800	Our ^{1}${1}^{2} dealt the final blow to the enemy ^{3}Madogear Pilot^{4}!	^{1}${1}ของเรา ^{2}จัดการการโจมตีครั้งสุดท้ายใส่ศัตรู ^{3}Madogear Pilot^{4}!
+21801	Baphomet will Charge toward a player! Quickly, hide behind a Stone Pillar!	Baphomet จะพุ่งเข้าหาผู้เล่น!ซ่อนตัวอยู่หลังเสาหินเร็วเข้า!
+21802	“Hey, newbie! What do you think? This view—the scenery—is amazing, right?”	“เฮ้ มือใหม่!คุณคิดอย่างไร?วิวนี้—ทิวทัศน์—น่าทึ่งมากใช่ไหม?”
+21803	The items you listed on the Trade Exchange have expired and been returned.	รายการที่คุณระบุไว้ใน Trade Exchange หมดอายุและถูกส่งคืนแล้ว
+21804	[Pirate King] will spawn a ^{1}[Surprise Chest]^{2} nearby in ${1} seconds	[Pirate King] จะวางไข่ ^{1}[กล่องเซอร์ไพรส์]^{2}ใกล้ๆ ใน${1}วินาที
+21805	Deviling\nThe fate-changing [Mystery Cube] has appeared on the battlefield	Deviling\n[Mystery Cube] ที่พลิกชะตาได้ปรากฏตัวในสนามรบแล้ว
+21806	Rhine\nHey, Adventurer! Are You here for the Novice Trial? Come over here.	Rhine\nเฮ้ นักผจญภัย!คุณมาที่นี่เพื่อทดลองใช้งานมือใหม่หรือไม่?มาที่นี่
+21807	Bobo\nThere's a man over there covered in dirt. Could he be the Professor?	Bobo\nมีชายคนหนึ่งเปื้อนดินอยู่ตรงนั้นเขาจะเป็นศาสตราจารย์ได้ไหม?
+21808	Fixed price purchases will become available after the listing period ends.	การซื้อในราคาคงที่จะสามารถใช้ได้หลังจากสิ้นสุดระยะเวลารายการ
+21809	Enhance the Bonfire Blessing to gain an Extra @{2} Zeny every @{1} seconds	ปรับปรุง Bonfire Blessing เพื่อรับ@{2}Zeny พิเศษทุกๆ@{1}วินาที
+21810	Activate the Silverwing Covenant matching Facewear Appearance (Permanent).	เปิดใช้งาน Silverwing Covenant ที่เข้าคู่กับรูปลักษณ์ของ Facewear (ถาวร)
+21811	Activate the Silverwing Covenant matching Headwear Appearance (Permanent).	เปิดใช้งานรูปลักษณ์หมวกที่เข้าคู่กับ Silverwing Covenant (ถาวร)
+21812	Activate the Worldscorch Feather matching Backwear Appearance (Permanent).	เปิดใช้งานรูปลักษณ์ของ Backwear ที่เข้าคู่กับ Worldscorch Feather (ถาวร)
+21813	Activate the Worldscorch Feather matching Headwear Appearance (Permanent).	เปิดใช้งานรูปลักษณ์หมวกที่เข้าคู่กับ Worldscorch Feather (ถาวร)
+21814	Open this gift box to obtain a certain number of Candles of Contemplation.	เปิดกล่องของขวัญนี้เพื่อรับเทียนแห่งการไตร่ตรองจำนวนหนึ่ง
+21815	Common Tier @{1} Blue Equipment that can protect against ordinary enemies.	Common Tier@{1}Blue อุปกรณ์ที่สามารถป้องกันศัตรูธรรมดาได้
+21816	A highly intelligent, purple-skinned Demon Poring who's very close to you!	ปีศาจ Poring ผิวสีม่วงที่ชาญฉลาดและใกล้ชิดคุณมาก!
+21817	<color=#fffefc><size=32>Entire Server's Total Music Energy:</size></color>	<color=#fffefc><size=32>Entire Server's Total Music Energy:</size></color>
+21818	Eddga surely never imagined someone would do this to him for such a reason	Eddga ไม่เคยคิดเลยว่าจะมีคนทำสิ่งนี้กับเขาด้วยเหตุผลเช่นนี้
+21819	Use on a map where Caravan Escort is active to Go to Map's nearest outpost	ใช้บนแผนที่ที่ Caravan Escort ทำงานอยู่เพื่อไปยังด่านหน้าที่ใกล้ที่สุดของแผนที่
+21820	An inexpensive leather jacket that develops a distinctive patina with age.	แจ็กเก็ตหนังราคาไม่แพงที่พัฒนาคราบอันโดดเด่นตามอายุ
+21821	Points obtained by defeating monsters in the ^{1}Byalan Island^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Byalan Island^ ภูมิภาค{2}
+21822	Points obtained by defeating monsters in the ^{1}Sograt Desert^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Sograt Desert^ ภูมิภาค{2}
+21823	After combining, stats and skills are randomized. Please play responsibly.	หลังจากรวมแล้ว สถิติและทักษะจะถูกสุ่ม กรุณาเล่นอย่างมีความรับผิดชอบ
+21824	Divine Words: Wipe the inscription clean to decipher the Totem attributes.	Divine Words: ล้างคำจารึกให้สะอาดเพื่อถอดรหัสคุณลักษณะ Totem
+21825	Harness the power of all four elements to counter large groups of enemies.	ควบคุมพลังขององค์ประกอบทั้งสี่เพื่อตอบโต้ศัตรูกลุ่มใหญ่
+21826	Matchmaking is already in progress. Cancel it and start matching for ${1}?	การจับคู่อยู่ระหว่างดำเนินการแล้วยกเลิกและเริ่มการจับคู่สำหรับ${1}?
+21827	Successfully crafting orange cloth has a @{1}% Chance to double the output	ประดิษฐ์ผ้าสีส้มได้สำเร็จมีโอกาส@{1}% ที่จะส่งออกเป็นสองเท่า
+21828	Successfully crafting orange Metal has a @{1}% Chance to double the output	ประดิษฐ์โลหะสีส้มได้สำเร็จมีโอกาส@{1}% ที่จะเพิ่มเอาต์พุตเป็นสองเท่า
+21829	After gathering successfully, has a @{1}% Chance to receive double rewards	หลังจากรวบรวมสำเร็จ มีโอกาส@{1}% ที่จะได้รับรางวัลสองเท่า
+21830	Muted players cannot use their mic or send messages in the current tavern.	ผู้เล่นที่ถูกปิดเสียงจะไม่สามารถใช้ไมโครโฟนหรือส่งข้อความในร้านเหล้าปัจจุบันได้
+21831	Invitation failed. You have reached the limit for sent Merge Guild invites	ล้มเหลวคุณส่งคำเชิญ Merge Guild ถึงขีดจำกัดแล้ว
+21832	${1} is currently under a matchmaking penalty and cannot join matchmaking.	ขณะนี้${1}อยู่ภายใต้บทลงโทษในการค้นหาแมตช์ และไม่สามารถเข้าร่วมการค้นหาแมตช์ได้
+21833	This server has reached its character limit. Please choose another server.	เซิร์ฟเวอร์นี้มีจำนวนอักขระถึงขีดจำกัดแล้วโปรดเลือกเซิร์ฟเวอร์อื่น
+21834	This item is temporarily unavailable to your character. Unseal time: ${1}.	ไอเท็มนี้ไม่สามารถใช้งานได้กับตัวละครของคุณชั่วคราวเวลาเปิดผนึก:${1}
+21835	Cannot follow into a Guild Dungeon because you belong to different guilds.	ไม่สามารถติดตาม Guild Dungeon ได้เนื่องจากคุณอยู่ในกิลด์อื่น
+21836	Deviling gathers dark energy, damaging players in a fan-shaped area ahead.	Deviling รวบรวมพลังงานมืดสร้างความเสียหายให้กับผู้เล่นในพื้นที่รูปพัดที่อยู่ข้างหน้า
+21837	Deals ATK * ^{1}@{2}%^{2} damage to the designated ST enemy within @{1} m.	สร้างความเสียหายต่อ ATK * ^{1}@{2}%^{2}สร้างความเสียหายให้กับศัตรู ST ที่กำหนดภายใน@{1}m
+21838	Your character is temporarily unable to purchase items. Unseal time: ${1}.	ตัวละครของคุณไม่สามารถซื้อสินค้าได้ชั่วคราวเวลาเปิดผนึก:${1}
+21839	Reach the next DPS target in Challenge Mode to earn the following rewards:	บรรลุเป้าหมาย DPS ถัดไปในโหมด Challenge เพื่อรับรางวัลต่อไปนี้:
+21840	A shield granted by Little Isis. Increases DEF while the shield is active.	โล่ที่มอบให้โดย Little Isis เพิ่ม DEF ในขณะที่โล่ทำงาน
+21841	<color=#FF993F>Treasure Discovered! Dig here to see what you find.</color>	<color=#FF993F>Treasure Discovered! Dig here to see what you find.</color>
+21842	Only Tier 2 or higher equipment of Purple Quality or higher can be smelted.	เฉพาะอุปกรณ์ระดับ 2 หรือสูงกว่าที่มีคุณภาพสีม่วงหรือสูงกว่าเท่านั้นที่สามารถหลอมได้
+21843	Violation time: ${1}-${2}-${3} ${4}.\nFreeze end time: ${1}-${2}-${3} ${4}.	เวลาที่ละเมิด:${1}-${2}-${3}${4}\nหยุดเวลาสิ้นสุด:${1}-${2}-${3}${4}
+21844	Take part in all kinds of exciting events and Claim fantastic Grand Prizes!	เข้าร่วมในกิจกรรมที่น่าตื่นเต้นทุกประเภทและรับรางวัลใหญ่สุดวิเศษ!
+21845	Head to the Guild Territory and join the Bonfire Party to earn tons of EXP!	มุ่งหน้าไปยังดินแดนกิลด์และเข้าร่วม Bonfire Party เพื่อรับ EXP มากมาย!
+21846	Auto-Bid will gradually increase the bid after you drop off the leaderboard	การเสนอราคาอัตโนมัติจะค่อยๆ เพิ่มการเสนอราคาหลังจากที่คุณออกจากกระดานผู้นำ
+21847	The auction has entered its final stage and may end at any time within ${1}	การประมูลได้เข้าสู่ขั้นตอนสุดท้ายและอาจสิ้นสุดเมื่อใดก็ได้ภายใน${1}
+21848	Your party must include at least ${1} Members from the same Adventure Guild	ปาร์ตี้ของคุณต้องมีสมาชิก${1}อย่างน้อยจาก Adventure Guild เดียวกัน
+21849	Participate in Battle of Dragon Coffin Island or Survivor Battle ${1} times	เข้าร่วม Battle of Dragon Coffin Island หรือ Survivor Battle${1}ครั้ง
+21850	A Guild Member must Join a guild at least ${1} days before they can Impeach	สมาชิกกิลด์จะต้องเข้าร่วมกิลด์อย่างน้อย${1}วันก่อนจึงจะสามารถฟ้องร้องได้
+21851	Are you sure you want to remove <color=#C26B47>${1}</color> from the guild?	Are you sure you want to remove <color=#C26B47>${1}</color> from the guild?
+21852	Each stack increases your Physical ATK, Physical DEF, and Magic DEF by @{1}	แต่ละสแต็คจะเพิ่ม Physical ATK, Physical DEF และ Magic DEF ของคุณ@{1}
+21853	Every @{1} sec, loses HP equal to @{2}% of the applier's Fire Magic Damage.	ทุกๆ@{1}วินาที จะสูญเสีย HP เท่ากับ@{2}% ของความเสียหายเวทย์ไฟของผู้ใช้งาน
+21854	Loses HP equal to a certain amount of Fire Magic damage every @{1} seconds.	สูญเสีย HP เท่ากับจำนวนความเสียหายของ Fire Magic ทุก ๆ@{1}วินาที
+21855	You are in a Safe Zone. You cannot take damage, but you also cannot attack.	คุณอยู่ในโซนปลอดภัยคุณไม่สามารถรับความเสียหายได้ แต่คุณไม่สามารถโจมตีได้เช่นกัน
+21856	A new version is available. Please update for a better gameplay experience.	มีเวอร์ชันใหม่ให้ใช้งานแล้ว โปรดอัปเดตเพื่อประสบการณ์การเล่นเกมที่ดีขึ้น
+21857	For every ${1} Stunts on equipped gear, Magic ATK +${2} (up to ${3} Stunts)	สำหรับทุก${1}Stunts บนอุปกรณ์ที่ติดตั้ง Magic ATK +${2}(สูงสุด${3}Stunts)
+21858	For every ${1} Stunts on equipped gear, CRIT DMG +${2}% (up to ${3} Stunts)	สำหรับทุก${1}Stunts บนอุปกรณ์ที่สวมใส่ CRIT DMG +${2}% (สูงสุด${3}Stunts)
+21859	Unique Effect: CRIT DMG Reduction +${1}%. Each stack grants an Extra ${2}%.	: ลดความเสียหายคริติคอล +${1}%แต่ละสแต็กให้${2}% พิเศษ
+21860	When 【Fire Ball】 hits the primary target, triggers @{1} Lv${1} 【Fire Bolt】.	เมื่อ 【Fire Ball】 โดนเป้าหมายหลัก ทริกเกอร์@{1}Lv${1}【Fire Bolt】
+21861	Baphomet unleashes a ^{1}scythe slash^{2} that damages targets in its path.	Baphomet ปล่อย ^{1}เคียวเฉือน^{2}ที่สร้างความเสียหายให้กับเป้าหมายที่ขวางทาง
+21862	Open Monday through Thursday, Saturday, and Sunday from @{1}:@{2}~@{3}:@{4}	เปิดวันจันทร์ถึงพฤหัสบดี เสาร์ และอาทิตย์ ตั้งแต่@{1}:@{2}~@{3}:@{4}
+21863	It looks like a kitten's tail. Will wearing it turn you into a real kitten?	ลักษณะคล้ายหางลูกแมวใส่แล้วจะเปลี่ยนเป็นลูกแมวจริงมั้ย?
+21864	All bonus points have been consumed. Auto-battle rewards have been reduced.	คะแนนโบนัสทั้งหมดถูกใช้ไปแล้ว รางวัลการต่อสู้อัตโนมัติลดลง
+21865	TE WoE is limited to Trans. 2nd classes and below and is held every Sunday.	TE WoE จำกัดเฉพาะทรานส์ชั้น 2 และต่ำกว่า และจัดขึ้นทุกวันอาทิตย์
+21866	"The BGM for ""Prontera Church"" is the first track that plays when RO starts."	"BGM สำหรับ ""Prontera Church"" เป็นแทร็กแรกที่เล่นเมื่อเริ่ม RO"
+21867	Repel the monsters' attack and protect the Dragon Seal from being destroyed	ขับไล่การโจมตีของสัตว์ประหลาดและปกป้อง Dragon Seal จากการถูกทำลาย
+21868	The guild announcement cannot contain only numbers. Please enter a new one.	ประกาศกิลด์ไม่สามารถมีเฉพาะตัวเลขได้กรุณากรอกใหม่
+21869	Learn a Life Skill to make more Materials and recipes to aid you in Battle.	เรียนรู้ทักษะชีวิตเพื่อสร้างวัตถุดิบและสูตรอาหารเพิ่มเติมเพื่อช่วยคุณในการต่อสู้
+21870	Wow, a Butterfly Wing! Bobo will show you how to use it. First, click here!	ว้าว ปีกผีเสื้อ!Bobo จะแสดงวิธีใช้ให้คุณดูขั้นแรกคลิกที่นี่!
+21871	Now that we're out in the field, let's mount the Flying mount you just got!	ตอนนี้เราออกภาคสนามแล้ว มาขี่ Flying mount ที่คุณเพิ่งได้มากันเถอะ!
+21872	Head to the main lecture hall. The Mentor is already waiting for you there.	มุ่งหน้าไปยังห้องบรรยายหลักพี่เลี้ยงกำลังรอคุณอยู่ที่นั่นแล้ว
+21873	Just keep moving forward. Alphonse will help you complete your Job Advance.	แค่เดินหน้าต่อไปAlphonse จะช่วยคุณทำงานให้สำเร็จ
+21874	For a new Adventurer, the ^{1}【Eden Group】^{2} is an excellent place to go.	สำหรับนักผจญภัยหน้าใหม่ ^{1}【Eden Group】^{2}เป็นสถานที่ที่ดีเยี่ยมในการไป
+21875	I finally managed to find some samples, but then... uh, I nearly got eaten.	ในที่สุดฉันก็หาตัวอย่างเจอ แต่แล้ว... เอ่อ ฉันเกือบถูกกินแล้ว
+21876	It a-absolutely won't! I'm confident there won't be any problems this time.	ไม่มีทางเด็ดขาด!ฉันมั่นใจว่าครั้งนี้จะไม่มีปัญหาใดๆ
+21877	Um... if you don't mind, could you tell me who took it? I'm really curious.	อืม... ถ้าไม่รังเกียจ บอกหน่อยได้ไหมว่าใครเอาไป?ฉันอยากรู้จริงๆ
+21878	This is Geffen, the City of Magic. Welcome! Would you like an introduction?	นี่คือเกฟเฟน เมืองแห่งเวทมนตร์ยินดีต้อนรับ!คุณต้องการการแนะนำตัวไหม?
+21879	Welcome to Izlude Island, a satellite city. Would you like an introduction?	ยินดีต้อนรับสู่เกาะ Izlude เมืองบริวารคุณต้องการการแนะนำตัวไหม?
+21880	Thank You for flying with Valkyrie Air. Would you like to board an airship?	ขอบคุณที่บินกับ Valkyrie Airคุณต้องการจะขึ้นเรือเหาะหรือไม่?
+21881	Welcome to Morroc, the Desert City! Would you like me to tell you about it?	ยินดีต้อนรับสู่ Morroc เมืองแห่งทะเลทราย!คุณต้องการให้ฉันบอกคุณเกี่ยวกับเรื่องนี้หรือไม่?
+21882	Whoa there, old friend. You can't go saying things like that in the street.	อ้าวเพื่อนเก่าคุณไม่สามารถพูดแบบนั้นบนถนนได้
+21883	But after looking it over, I have even less of an idea which one to choose.	แต่หลังจากดูจบแล้ว ฉันก็แทบไม่มีไอเดียว่าจะเลือกอันไหนดี
+21884	Wow, this set looks way better than the last one! Put it on and let me see~	ว้าว ชุดนี้ดูดีกว่าชุดที่แล้วมาก!ใส่แล้วให้ผมดู~
+21885	Oh? So you're the one. Boya has mentioned you several times in her letters.	อ้าว?ดังนั้นคุณคือคนนั้นBoya กล่าวถึงคุณหลายครั้งในจดหมายของเธอ
+21886	Our ^{1}${1}^{2} dealt the final blow to the center-lane ^{3}Protector^{4}!	^{1}${1}^{2}ของเราจัดการการโจมตีครั้งสุดท้ายที่เลนกลาง ^{3}Protector^{4}!
+21887	Tap the Commander Button and Start Battle once all Guild Members are Ready.	แตะปุ่มผู้บัญชาการและเริ่มการต่อสู้เมื่อสมาชิกกิลด์ทุกคนพร้อม
+21888	Pharaoh is about to unleash powerful Damage Skills. Get behind an obstacle!	ฟาโรห์กำลังจะปล่อยทักษะความเสียหายอันทรงพลังหลบหลังสิ่งกีดขวาง!
+21889	“They’ve defiled the freedom of the skies. Someday, they’ll pay the price.”	“พวกมันทำให้เสรีภาพแห่งท้องฟ้าเป็นมลทิน สักวันหนึ่ง พวกมันจะต้องชดใช้”
+21890	The notes will disappear in @{1} seconds. Memorize their positions quickly!	บันทึกย่อจะหายไปใน@{1}วินาทีจดจำตำแหน่งของพวกเขาอย่างรวดเร็ว!
+21891	Prontera could not withstand the Goddess's massive invasion and has fallen!	Prontera ไม่สามารถทนต่อการรุกรานครั้งใหญ่ของ Goddess ได้และล้มลงแล้ว!
+21892	Louie\nWell, well. I'm surprised you managed to follow us all the way here.	หลุย\nเอาล่ะฉันแปลกใจมากที่คุณตามเรามาจนถึงที่นี่
+21893	Siege equipment reserves can be viewed even when the Siege War is not open.	สามารถดูคลังอุปกรณ์ Siege ได้แม้ว่าสงครามยึดครองจะไม่เปิดก็ตาม
+21894	Reach @{1} progress toward the Prontera Monster Hunt full collection reward	เข้าถึง@{1}ความคืบหน้าไปสู่รางวัลสะสมมอนสเตอร์ Prontera
+21895	Activate the Sweetheart Tea Party matching Headwear Appearance (Permanent).	เปิดใช้งาน Sweetheart Tea Party ที่เข้าคู่กับชุดสวมศีรษะ (ถาวร)
+21896	Activate the Worldscorch Feather matching Hairstyle Appearance (Permanent).	เปิดใช้งานลักษณะทรงผมที่เข้ากันกับขนนก Worldscorch (ถาวร)
+21897	An eight-legged mollusk. It will Launch ink when threatened, so be careful.	หอยแปดขามันจะปล่อยหมึกออกมาเมื่อถูกคุกคาม ดังนั้นควรระวังด้วย
+21898	A stone shield obtained by Thor after he slew Hrungnir, king of the giants.	โล่หินที่ Thor ได้รับหลังจากที่เขาสังหาร Hrungnir ราชาแห่งยักษ์
+21899	A bow made from a blend of various materials, designed to deal high damage.	ธนูที่ทำจากวัสดุหลากหลายชนิด ออกแบบมาเพื่อสร้างความเสียหายสูง
+21900	A staff covered in ancient runes that can unleash powerful elemental magic.	ไม้เท้าที่ปกคลุมไปด้วยอักษรรูนโบราณที่สามารถปลดปล่อยเวทมนตร์ธาตุอันทรงพลังออกมาได้
+21901	A halberd made specifically for hunting, distinguished by its three blades.	ง้าวที่สร้างขึ้นเพื่อการล่าสัตว์โดยเฉพาะ โดดเด่นด้วยใบมีดสามใบ
+21902	After successfully gathering Lv. @{1} plants, gain @{2} Extra main products	หลังจากรวบรวม Lv. ได้สำเร็จ  พืช@{1}ได้รับผลิตภัณฑ์หลักพิเศษ@{2}
+21903	Complete a Royal Caravan Departure to earn Personal Rewards and Guild Funds	ออกเดินทางจาก Royal Caravan เพื่อรับรางวัลส่วนบุคคลและกองทุนกิลด์
+21904	All right, it's done. Just place this into ^{1}【the device next to me】^{2}.	เอาล่ะ เสร็จแล้ว เพียงวางสิ่งนี้ลงใน ^{1}【อุปกรณ์ข้างๆ ฉัน】^{2}.
+21905	This server is temporarily unable to purchase items from the World Auction.	เซิร์ฟเวอร์นี้ไม่สามารถซื้อสินค้าจากการประมูลโลกได้ชั่วคราว
+21906	This server is temporarily unable to purchase items from the Guild Auction.	เซิร์ฟเวอร์นี้ไม่สามารถซื้อสินค้าจากการประมูลกิลด์ได้ชั่วคราว
+21907	The build name contains inappropriate language. Please choose another name.	ชื่อบิลด์มีภาษาที่ไม่เหมาะสมโปรดเลือกชื่ออื่น
+21908	Someone declined the instance entry request. Please join matchmaking again.	มีคนปฏิเสธคำขอรายการอินสแตนซ์กรุณาเข้าร่วมการจับคู่อีกครั้ง
+21909	The picked-up style matches your current style. Your style will not change.	สไตล์หยิบมาตรงกับสไตล์ปัจจุบันของคุณสไตล์ของคุณจะไม่เปลี่ยนแปลง
+21910	Angeling gathers light energy, damaging players in a fan-shaped area ahead.	Angeling รวบรวมพลังงานแสงสร้างความเสียหายให้กับผู้เล่นในพื้นที่รูปพัดที่อยู่ข้างหน้า
+21911	Permanently increases Physical ATK by ^{1}${1}^{2} and DEX by ^{3}${2}^{4}.	เพิ่ม ATK ทางกายภาพอย่างถาวรโดย ^{1}${1}^{2}และ DEX โดย ^{3}${2}^{4}
+21912	Bobo deals Physical ATK*^{1} to the designated ST enemy within ${1} meters.	Bobo สร้างความเสียหายทางกายภาพ*^{1}กับศัตรู ST ที่กำหนดภายในระยะ${1}เมตร
+21913	Rapidly restores Life, restoring ^{1}${2} Life^{2} per second for ${1} sec.	ฟื้นฟูพลังชีวิตอย่างรวดเร็ว โดยฟื้นฟู ^{1}${2}Life^{2}ต่อวินาทีเป็นเวลา${1}วินาที
+21914	Unlock the following <color=#fbcd7e>premium rewards</color> as you level up	Unlock the following <color=#fbcd7e>premium rewards</color> as you level up
+21915	Checks the target's status before damage is dealt and increases the damage.	ตรวจสอบสถานะของเป้าหมายก่อนที่จะสร้างความเสียหายและเพิ่มความเสียหาย
+21916	Increases Max Life based on VIT. Every ${1} VIT increases Max Life by ${2}.	เพิ่มพลังชีวิตสูงสุดตาม VITทุก ๆ${1}VIT จะเพิ่มพลังชีวิตสูงสุดโดย${2}
+21917	You need at least three nearby party Members to create an Adventurer Group.	คุณต้องมีสมาชิกปาร์ตี้ใกล้เคียงอย่างน้อยสามคนเพื่อสร้างกลุ่มนักผจญภัย
+21918	After the tremor, a glowing Relic appeared in Goblin Forest. Go investigate.	หลังจากแรงสั่นสะเทือน Relic ที่เรืองแสงก็ปรากฏขึ้นในป่าก็อบลิน ไปสอบสวน.
+21919	Can be unlocked after activating all Stars in the prerequisite Constellation	สามารถปลดล็อคได้หลังจากเปิดใช้งานดาวทั้งหมดในกลุ่มดาวที่จำเป็น
+21920	Failed to retrieve the remote configuration file. Network connection failed.	ไม่สามารถเรียกข้อมูลไฟล์การกำหนดค่าระยะไกลการเชื่อมต่อเครือข่ายล้มเหลว
+21921	Leave this screen?\nLeaving will automatically clear your elite appointments	ออกจากหน้าจอนี้?\nการออกจะล้างการนัดหมายระดับหัวกะทิของคุณโดยอัตโนมัติ
+21922	Today's Reward Count has been exhausted. You cannot receive any more rewards	จำนวนรางวัลของวันนี้หมดแล้วคุณไม่สามารถรับรางวัลได้อีก
+21923	Increases Movement Speed by @{1}% and grants immunity to slows for @{2} sec.	เพิ่มความเร็วในการเคลื่อนที่ขึ้น@{1}% และให้ภูมิคุ้มกันในการสโลว์เป็นเวลา@{2}วินาที
+21924	${1}% Chance to evade ${2}% of incoming damage. Built-in cooldown: ${3} sec.	${1}% โอกาสในการหลบเลี่ยง${2}% ของความเสียหายที่เข้ามา คูลดาวน์ในตัว:${3}วินาที
+21925	Increases the maximum Floors of the Magic buff on the current Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟเวทมนตร์บน Totem ปัจจุบันขึ้น${1}
+21926	The trigger Chance of ^{1}^{2}【Double Attack】^{3}^{4} is increased by ${1}%.	โอกาสทริกเกอร์ของ ^{1}^{2}【การโจมตีสองครั้ง】^{3}^{4}เพิ่มขึ้น${1}%
+21927	Mistress summons a ^{1}Hornet formation^{2} to perform ^{3}@{1}^{4} charges.	นายหญิงเรียก ^{1}รูปแบบแตน^{2}เพื่อดำเนินการ ^{3}@{1}^{4}ชาร์จ
+21928	<color=#FF993F>${1}</color> has invited you to join the guild voice channel.	<color=#FF993F>${1}</color> has invited you to join the guild voice channel.
+21929	He comes from the slowly rising light.\nWorldscorch Feather · Theme Facewear	เขามาจากแสงที่ค่อยๆ ส่องสว่าง\nWorldscorch Feather · หน้ากากแบบมีธีม
+21930	Shadow Equipment is a purely cosmetic system and provides no stat bonuses.	Shadow Equipment เป็นระบบตกแต่งล้วนๆ และไม่มีโบนัสสเตตัส
+21931	After unlocking a pet, activate its Codex entry to gain a global stat bonus.	หลังจากปลดล็อคสัตว์เลี้ยงแล้ว ให้เปิดใช้งานรายการ Codex เพื่อรับโบนัสสถิติโดยรวม
+21932	Complete your Trans. 2nd to further enhance your class and Build experience.	ทำทรานส์ของคุณให้สมบูรณ์อันดับที่ 2 เพื่อยกระดับชั้นเรียนและสร้างประสบการณ์ของคุณให้ดียิ่งขึ้น
+21933	Tap the button to open the auto-battle settings and enjoy hands-free combat~	แตะปุ่มเพื่อเปิดการตั้งค่าการต่อสู้อัตโนมัติและสนุกไปกับการต่อสู้แบบแฮนด์ฟรี~
+21934	Tap here again! You'll be able to allocate stat points in just a moment, bo.	แตะที่นี่อีกครั้ง!คุณจะสามารถจัดสรรแต้มสถิติได้ในเวลาเพียงชั่วครู่ โบ้
+21935	Recommend Daily activities unlocked! Tons of Misc content and rewards await!	แนะนำกิจกรรมรายวันปลดล็อค! เนื้อหาและรางวัลเบ็ดเตล็ดมากมายรออยู่!
+21936	Bobo's class is now in session! Let's learn about Monster Hunts. Click here!	ชั้นเรียนของ Bobo อยู่ในเซสชันแล้ว!มาเรียนรู้เกี่ยวกับการล่ามอนสเตอร์กันเถอะคลิกที่นี่!
+21937	There are @{1} types of notes, which you can obtain by exploring field maps.	มีบันทึกย่อประเภท@{1}ซึ่งคุณสามารถหาได้จากการสำรวจแผนที่ภาคสนาม
+21938	Perhaps you could test how much you've grown in the ^{1}Tower of Trials^{2}.	บางทีคุณอาจทดสอบได้ว่าคุณเติบโตขึ้นมากแค่ไหนใน ^{1}Tower of Trials^{2}
+21939	Time... is a one-way road for your kind. But every so often, ripples appear.	Time... เป็นถนนเดินรถทางเดียวสำหรับคุณแต่บ่อยครั้งก็มีระลอกคลื่นปรากฏขึ้น
+21940	Never mind. Good thing I have a backup. Let's head back to Prontera for now.	ไม่เป็นไรดีที่ฉันมีตัวสำรองกลับไปที่พรอนเทรากันเถอะ
+21941	Thank You for fighting bravely at the stronghold. Please accept this reward!	ขอบคุณสำหรับการต่อสู้อย่างกล้าหาญที่ฐานที่มั่นโปรดรับรางวัลนี้!
+21942	Monsters are overrunning Sograt Desert. Help me take some of them out first.	สัตว์ประหลาดกำลังบุกรุกทะเลทราย Sogratช่วยเอาบางส่วนออกไปก่อน
+21943	You don't have any Magic Crystals yet. Come back when you've collected some.	คุณยังไม่มี Magic Crystals เลยกลับมาเมื่อคุณรวบรวมบางส่วนแล้ว
+21944	I heard there's a bard near the city gate who can't sing. Have you seen him?	ฉันได้ยินมาว่ามีกวีอยู่ใกล้ประตูเมืองที่ไม่สามารถร้องเพลงได้คุณเคยเห็นเขาไหม?
+21945	In Al De Baran, there is a skilled weaponsmith who lives with his four sons.	ใน Al De Baran มีช่างทำอาวุธผู้ชำนาญซึ่งอาศัยอยู่กับลูกชายทั้งสี่คน
+21946	Then my darling will drop everything and come running straight to me, right?	แล้วที่รักจะทิ้งทุกอย่างแล้ววิ่งตรงมาหาฉันใช่ไหม?
+21947	Welcome to Payon, the Mountain City! Would you like me to tell you about it?	ยินดีต้อนรับสู่ Payon เมืองแห่งขุนเขา!คุณต้องการให้ฉันบอกคุณเกี่ยวกับเรื่องนี้หรือไม่?
+21948	Young people run Outside the City every day now. No idea what they're after.	คนหนุ่มสาววิ่งนอกเมืองทุกวันตอนนี้ไม่รู้ว่าพวกเขากำลังตามหาอะไร
+21949	Hey, money's been tight Recent, hasn't it? I can see the worry on your face.	เฮ้ เงินช่วงนี้ตึงตัวใช่ไหมล่ะ?ฉันเห็นความกังวลบนใบหน้าของคุณ
+21950	I earned First Place in my local assessment. I have no reason to be nervous.	ฉันได้รับอันดับหนึ่งจากการประเมินในพื้นที่ของฉันฉันไม่มีเหตุผลที่จะต้องกังวล
+21951	What a beautiful note! Let the melody ring out, from one moment to the next.	เป็นโน้ตที่สวยงามจริงๆ!ปล่อยให้ทำนองดังขึ้นจากช่วงเวลาหนึ่งไปยังอีกช่วงเวลาหนึ่ง
+21952	What exactly is this huge black Stone? Won't making Contact with it harm us?	หินสีดำขนาดใหญ่นี้คืออะไรกันแน่?จะไม่ติดต่อกับมันทำร้ายเราเหรอ?
+21953	Kill the dragonlings summoned by Fafnir quickly, or their ATK will increase!	ฆ่าลูกมังกรที่ Fafnir เรียกมาอย่างรวดเร็ว ไม่เช่นนั้น ATK ของพวกมันจะเพิ่มขึ้น!
+21954	Stronghold barrier activated. The stronghold will be locked in @{1} minutes.	เปิดใช้งานแผงกั้นฐานที่มั่นแล้วฐานที่มั่นจะถูกล็อคใน@{1}นาที
+21955	Grappling line secured! Use Interaction on the rope to reach the other side!	สายต่อสู้ปลอดภัยแล้ว!ใช้การโต้ตอบบนเชือกเพื่อไปถึงอีกด้านหนึ่ง!
+21956	Activate two Safe Zones simultaneously. ${1} seconds until the beat explodes	เปิดใช้งานโซนปลอดภัยสองโซนพร้อมกัน${1}วินาทีจนกระทั่งจังหวะระเบิด
+21957	There's only one option left. Let's hope there are other Adventurers nearby.	เหลือทางเลือกเดียวเท่านั้นหวังว่าคงมีนักผจญภัยท่านอื่นอยู่ใกล้ๆ
+21958	Injured Soldier\nI almost couldn't hold out any longer. Good thing you came.	ทหารที่ได้รับบาดเจ็บ\nฉันแทบจะทนไม่ไหวอีกต่อไปหวัดดีคุณมา
+21959	Your guild has not yet been assigned a division or matched for the schedule.	กิลด์ของคุณยังไม่ได้รับการกำหนดแผนกหรือตรงกับกำหนดการ
+21960	Complete @{1} to accept this Quest. This Quest cannot currently be completed	ทำ@{1}ให้สมบูรณ์เพื่อยอมรับภารกิจนี้ภารกิจนี้ไม่สามารถสำเร็จได้ในขณะนี้
+21961	Open the gift box to receive 1 random Purple-, Blue-, or Green-quality card.	เปิดกล่องของขวัญเพื่อรับการ์ดคุณภาพสีม่วง น้ำเงิน หรือเขียวแบบสุ่ม 1 ใบ
+21962	An eel renowned for its strength. One of the best fish for restoring energy.	ปลาไหลที่มีชื่อเสียงในด้านความแข็งแกร่งหนึ่งในปลาที่ดีที่สุดสำหรับการฟื้นฟูพลังงาน
+21963	Obtained by dismantling blue and green cards. Can be used to purchase cards.	ได้มาจากการแยกการ์ดสีน้ำเงินและสีเขียวสามารถใช้ซื้อบัตรได้
+21964	Proof that you passed the Novice Trial! You'll need it for your Job Advance~	พิสูจน์ว่าคุณผ่านการทดสอบมือใหม่!คุณจะต้องใช้มันเพื่อเลื่อนตำแหน่งงาน~
+21965	A bow adorned with pure white wings as beautiful as a peacock's fanned tail.	คันธนูที่ประดับด้วยปีกสีขาวบริสุทธิ์สวยงามราวกับหางที่พัดของนกยูง
+21966	A hypnotist's wand that uses hypnosis to make novices feel like great mages.	ไม้กายสิทธิ์ของนักสะกดจิตที่ใช้การสะกดจิตเพื่อทำให้มือใหม่รู้สึกเหมือนเป็นนักเวทย์ผู้ยิ่งใหญ่
+21967	An easy-to-handle two-handed Spear that can be swung in many different ways.	หอกสองมือที่ถือง่ายซึ่งสามารถเหวี่ยงได้หลากหลายวิธี
+21968	"Unlock monsters to obtain <sprite name=""${1}"">${2} and unlock research tasks"	"Unlock monsters to obtain <sprite name=""${1}"">${2} and unlock research tasks"
+21969	Event Period: During the Ignition Test, opens daily from @{1}:@{2}~@{3}:@{4}	ระยะเวลากิจกรรม: ในระหว่างการทดสอบการจุดระเบิด เปิดทุกวันตั้งแต่@{1}:@{2}~@{3}:@{4}
+21970	The host has enabled microphones. Players in the mic queue may speak freely.	โฮสต์เปิดใช้งานไมโครโฟนแล้วผู้เล่นที่อยู่ในคิวไมค์อาจพูดได้อย่างอิสระ
+21971	Your character is temporarily unable to list Stall items. Unseal time: ${1}.	ตัวละครของคุณไม่สามารถแสดงรายการในแผงลอยได้ชั่วคราวเวลาเปิดผนึก:${1}
+21972	The Starshatter Dragon spreads its wings and soars toward a glorious future!	มังกรสลายดาวสยายปีกและทะยานไปสู่อนาคตอันรุ่งโรจน์!
+21973	Complete one Kafra: Battle of the Survivors with ^{1}@{1} Guild Members^{2}.	เคลียร์ Kafra: Battle of the Survivors หนึ่งรายการด้วย ^{1}@{1}Guild Members^{2}
+21974	Haha! She disliked every gift I gave her, and you still dare ask my opinion?	ฮ่าๆ!เธอไม่ชอบของขวัญทุกอย่างที่ฉันให้เธอ แล้วเธอยังกล้าถามความคิดเห็นของฉันอีกเหรอ?
+21975	Are you sure you want to transfer leadership of the Adventure Group to ${1}?	คุณแน่ใจหรือไม่ว่าต้องการโอนความเป็นผู้นำของกลุ่ม Adventure ไปยัง${1}
+21976	Moonlight Flower is preparing to select a target. Stay out of the moonlight!	Moonlight Flower กำลังเตรียมเลือกเป้าหมายอยู่ห่างจากแสงจันทร์!
+21977	Increases 【Soul Destroyer】 damage by ${1}% and reduces variable CT by ${2}%.	เพิ่มความเสียหายของ 【Soul Destroyer】 โดย${1}% และลด CT ตัวแปรลง${2}%
+21978	Enveloped by Sacred Chorus Musical Notes, gaining a damage-absorbing Shield.	ถูกห่อหุ้มด้วย Sacred Chorus Musical Notes ได้รับโล่ดูดซับความเสียหาย
+21979	Increases Wind/Earth/Water/Fire/Neutral/Ghost damage dealt by ^{1}${1}%^{2}.	เพิ่มความเสียหายจากลม/ดิน/น้ำ/ไฟ/เป็นกลาง/ผี ที่สร้างโดย ^{1}${1}%^{2}
+21980	Deals ${2}% Neutral melee Physical damage to an ST enemy within ${1} meters.	สร้างความเสียหายทางกายภาพระยะประชิดทางกายภาพ${2}% ให้กับศัตรู ST ในระยะ${1}เมตร
+21981	A specially trained Peco Peco, exclusively used as a combat mount by Knights.	Peco Peco ที่ได้รับการฝึกฝนเป็นพิเศษ ใช้เป็นพาหนะต่อสู้โดยอัศวินโดยเฉพาะ
+21982	<color=#FDAB5B>Revive Point activates in:</color><color=#76C233>${1}s</color>	<color=#FDAB5B>Revive Point activates in:</color><color=#76C233>${1}s</color>
+21983	Increases ^{1}Damage Increase by @{1}%^{2} and ^{3}DMG Reduction by @{2}%^{4}	เพิ่ม ^{1}ความเสียหายเพิ่มขึ้นโดย@{1}%^{2}และ ^{3}การลดความเสียหายโดย@{2}%^{4}
+21984	You must Clear all items from the Cart Merchant before you can Cancel Rental.	คุณต้องเคลียร์สินค้าทั้งหมดจากผู้ขายรถเข็นก่อนจึงจะสามารถยกเลิกการเช่าได้
+21985	Friends can increase Friendship by teaming up for activities or sending gifts	เพื่อนสามารถเพิ่มมิตรภาพได้ด้วยการรวมทีมเพื่อทำกิจกรรมหรือส่งของขวัญ
+21986	Once selected, click to mark a target, or drag to mark an area on the ground.	เมื่อเลือกแล้ว คลิกเพื่อทำเครื่องหมายเป้าหมาย หรือลากเพื่อทำเครื่องหมายพื้นที่บนพื้น
+21987	Refresh all items that haven't been submitted or used Get Help? Are you sure?	รีเฟรชรายการทั้งหมดที่ยังไม่ได้ส่งหรือใช้งาน รับความช่วยเหลือหรือไม่คุณแน่ใจเหรอ?
+21988	When an item is sold, the System will charge ${1} of the total price as a fee	เมื่อขายสินค้าแล้ว ระบบจะเรียกเก็บเงิน${1}จากราคารวมเป็นค่าธรรมเนียม
+21989	Deals damage to nearby enemies every @{1} sec. and Freezes them for @{2} sec.	สร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียงทุก ๆ@{1}วินาทีและค้างเป็นเวลา@{2}วินาที
+21990	Immune to damage and debuffs. This effect ends upon attacking another target.	ภูมิคุ้มกันต่อความเสียหายและดีบัฟเอฟเฟกต์นี้จะสิ้นสุดลงเมื่อโจมตีเป้าหมายอื่น
+21991	【Frost Diver】 and 【Jupitel Thunder】's maximum Cooldown decreases by ${1} sec.	【Frost Diver】 และ 【Jupitel Thunder】 คูลดาวน์สูงสุดลดลง${1}วินาที
+21992	When Orc Hero uses this skill, players ^{1}must not approach one another^{2}.	เมื่อ Orc Hero ใช้ทักษะนี้ ผู้เล่น ^{1}จะต้องไม่เข้าใกล้กัน^{2}
+21993	Your message contains inappropriate language. Please revise it and try again.	ข้อความของคุณมีภาษาที่ไม่เหมาะสมโปรดแก้ไขและลองอีกครั้ง
+21994	"Zombie and ""Bongun"" have a master-disciple relationship in the world of RO."	"Zombie และ ""Bongun"" มีความสัมพันธ์ระดับปรมาจารย์ในโลกของ RO"
+21995	Payon has two versions, Old Payon and New Payon, each with different terrain.	Payon มีสองเวอร์ชัน คือ Payon เก่าและ Payon ใหม่ ซึ่งแต่ละเวอร์ชันมีภูมิประเทศที่แตกต่างกัน
+21996	The shared message contains restricted words. Please change it and try again.	ข้อความที่แชร์มีคำที่ถูกจำกัดโปรดเปลี่ยนและลองอีกครั้ง
+21997	The guild name cannot consist entirely of numbers. Please enter another name.	ชื่อกิลด์ไม่สามารถประกอบด้วยตัวเลขทั้งหมดได้กรุณากรอกชื่ออื่น
+21998	All Main Slots are full. Remove a pet or drag another pet here to replace it.	ช่องหลักทั้งหมดเต็มแล้ว นำสัตว์เลี้ยงออกหรือลากสัตว์เลี้ยงตัวอื่นมาที่นี่เพื่อแทนที่
+21999	Equip Headwear, Facewear, Mouthwear, a Costume, and Backwear at the same time	สวมใส่หมวก, เสื้อผ้าหน้า, เสื้อผ้าปาก, เครื่องแต่งกายและ Backwear ในเวลาเดียวกัน
+22000	Come on! I'll teach you the ultimate way to make your equipment stronger, bo!	เอาน่า!ฉันจะสอนวิธีที่ดีที่สุดในการทำให้อุปกรณ์ของคุณแข็งแกร่งขึ้นเอง!
