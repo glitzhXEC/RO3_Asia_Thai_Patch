@@ -12,7 +12,7 @@ using UnityEngine.SceneManagement;
 
 namespace RO3.JapaneseMod
 {
-    [BepInPlugin("com.ro3.localizationtablepatcher", "RO3 Localization Table Patcher", "2.7.36")]
+    [BepInPlugin("com.ro3.localizationtablepatcher", "RO3 Localization Table Patcher", "2.7.37")]
     public sealed partial class LocalizationTablePatcherPlugin : BaseUnityPlugin
     {
         private sealed class ReferenceComparer<T> : IEqualityComparer<T> where T : class
@@ -1695,12 +1695,21 @@ namespace RO3.JapaneseMod
                 {
                     string[] parts = line.TrimStart('\uFEFF').Split(new[] { '\t' }, 3);
                     if (parts.Length != 3 || parts[0].StartsWith("#", StringComparison.Ordinal)) continue;
-                    if (!parts[0].StartsWith("100800", StringComparison.Ordinal) && !parts[0].StartsWith("106801", StringComparison.Ordinal)
+                    bool description = parts[0].StartsWith("101103", StringComparison.Ordinal)
+                        || parts[0].StartsWith("102203", StringComparison.Ordinal)
+                        || parts[0].StartsWith("108001", StringComparison.Ordinal)
+                        || parts[0].StartsWith("123901", StringComparison.Ordinal)
+                        || parts[0].StartsWith("100501", StringComparison.Ordinal)
+                        || parts[0].StartsWith("131500", StringComparison.Ordinal)
+                        || parts[0].StartsWith("131502", StringComparison.Ordinal)
+                        || parts[0].StartsWith("131506", StringComparison.Ordinal);
+                    if (!description && !parts[0].StartsWith("100800", StringComparison.Ordinal) && !parts[0].StartsWith("106801", StringComparison.Ordinal)
                         && !parts[0].StartsWith("104700", StringComparison.Ordinal) && !parts[0].StartsWith("105300", StringComparison.Ordinal)
                         && !parts[0].StartsWith("123900", StringComparison.Ordinal)
                         && !parts[0].StartsWith("101102", StringComparison.Ordinal)
                         && !parts[0].StartsWith("117700", StringComparison.Ordinal)) continue;
-                    _displayTranslator.Add(parts[0], parts[1], parts[2]);
+                    if (description) _displayTranslator.AddTerminalEnglish(parts[1], parts[2]);
+                    else _displayTranslator.Add(parts[0], parts[1], parts[2]);
                     aliases++;
                 }
             }

@@ -32,7 +32,7 @@
 21031	A radiant, sacred unicorn that looks enchanting from every angle.	A radiant, sacred unicorn that looks enchanting from every angle.
 21032	Flames bloom wherever you tread, each step writing a poem in ash.	Flames bloom wherever you tread, each step writing a poem in ash.
 21033	Emergency Call is an exclusive skill for the Vice Guild Master.	Emergency Call is an exclusive skill for the Vice Guild Master.
-21034	"Consuming a ""Yggdrasil Berry"" instantly restores @{1}% HP and SP."	"Consuming a ""Yggdrasil Berry"" instantly restores @{1}% HP and SP."
+21034	Consuming a "Yggdrasil Berry" instantly restores @{1}% HP and SP.	Consuming a "Yggdrasil Berry" instantly restores @{1}% HP and SP.
 21035	Guild Management Members cannot be removed with Banish from Guild	Guild Management Members cannot be removed with Banish from Guild
 21036	Automatically Ride the Ostrich Mount After the Balloon Is Removed	Automatically Ride the Ostrich Mount After the Balloon Is Removed
 21037	Not enough materials. Please obtain the required materials first.	Not enough materials. Please obtain the required materials first.
@@ -51,7 +51,7 @@
 21050	Well done. You've grasped your new skills faster than I expected.	Well done. You've grasped your new skills faster than I expected.
 21051	Oh? So you're the rookie she Suggested? You certainly look eager.	Oh? So you're the rookie she Suggested? You certainly look eager.
 21052	All right, All right! Another errand, just as expected. Let's go!	All right, All right! Another errand, just as expected. Let's go!
-21053	"What does she mean by ""run errands""? She's gone a little too far."	"What does she mean by ""run errands""? She's gone a little too far."
+21053	What does she mean by "run errands"? She's gone a little too far.	What does she mean by "run errands"? She's gone a little too far.
 21054	Huh? The guy vanished and left his Clothes here? What's going on?	Huh? The guy vanished and left his Clothes here? What's going on?
 21055	It's back? Oh my gosh... You really brought it back in one piece!	It's back? Oh my gosh... You really brought it back in one piece!
 21056	The Dungeon is not open yet. Contact Guild Management to open it.	The Dungeon is not open yet. Contact Guild Management to open it.
@@ -105,7 +105,7 @@
 21104	【Challenge】 Defeat an MVP with any Member of your Adventure Party.	【Challenge】 เอาชนะ MVP ด้วยสมาชิกปาร์ตี้ผจญภัยของคุณ
 21105	This player is masked. You cannot view their personal information.	This player is masked. You cannot view their personal information.
 21106	Randomly grants <color=#cc762a>${1}-${2}</color> Unseal Card Slots	Randomly grants <color=#cc762a>${1}-${2}</color> Unseal Card Slots
-21107	"Spend <sprite name=""${1}""> <color=#cc762a>x${2}</color> to Revive?"	"Spend <sprite name=""${1}""> <color=#cc762a>x${2}</color> to Revive?"
+21107	Spend <sprite name="${1}"> <color=#cc762a>x${2}</color> to Revive?	Spend <sprite name="${1}"> <color=#cc762a>x${2}</color> to Revive?
 21108	Enhancement attributes take effect once the equipment is equipped.	Enhancement attributes take effect once the equipment is equipped.
 21109	The displayed review time varies based on the player's Reputation.	The displayed review time varies based on the player's Reputation.
 21110	For every @{1} professions that reach Grandmaster, Max Vigor +@{2}	For every @{1} professions that reach Grandmaster, Max Vigor +@{2}
@@ -205,7 +205,7 @@
 21204	When a one-handed or two-handed staff is equipped, Magic ATK +${1}.	เมื่อติดตั้งไม้พลองมือเดียวหรือสองมือ Magic ATK +${1}
 21205	When ^{1}^{2}[Arcane Mastery]^{3}^{4} reaches Lv. ${1}, MATK +${2}.	เมื่อ ^{1}^{2}[Arcane Mastery]^{3}^{4}ถึง Lv.${1}, MATK +${2}.
 21206	Hidden Realm Boss skills are the same as those of the General Boss.	Hidden Realm Boss skills are the same as those of the General Boss.
-21207	"The ""Ice Wall"" (Wall of Ice) skill can be broken by certain skills."	"The ""Ice Wall"" (Wall of Ice) skill can be broken by certain skills."
+21207	The "Ice Wall" (Wall of Ice) skill can be broken by certain skills.	The "Ice Wall" (Wall of Ice) skill can be broken by certain skills.
 21208	In RO, the Apple Headgear is the most iconic look for Mage classes.	In RO, the Apple Headgear is the most iconic look for Mage classes.
 21209	In RO, the more slots a piece of equipment has, the higher its DEF.	In RO, the more slots a piece of equipment has, the higher its DEF.
 21210	Soul Echoes that have undergone Level-up are unavailable for Trade.	Soul Echoes that have undergone Level-up are unavailable for Trade.
@@ -379,14 +379,14 @@
 21378	Neutral damage taken -@{1}%. Damage taken from other elements +@{2}%.	ได้รับความเสียหายเป็นกลาง -@{1}%ความเสียหายที่ได้รับจากองค์ประกอบอื่น +@{2}%
 21379	Become Giant for @{1} sec., recovering @{3}% Max Life every @{2} sec.	กลายเป็นยักษ์เป็นเวลา@{1}วินาที ฟื้นฟู@{3}% พลัง Life สูงสุดทุกๆ@{2}วินาที
 21380	Damage Increase: @{1}%. Damage taken increases by @{2}% every second.	เพิ่มความเสียหาย:@{1}%ความเสียหายที่ได้รับเพิ่มขึ้น@{2}% ทุกๆ วินาที
-21381	^{1}^{2}[Bowling Bash]^{3}^{4}'s Cooldown is changed to ${1} seconds.	^{1}^{2}[Bowling Bash]^{3}^ คูลดาวน์ของ{4}ถูกเปลี่ยนเป็น${1}วินาที
+21381	^{1}^{2}[Bowling Bash]^{3}^{4}'s Cooldown is changed to ${1} seconds.	^{1}^{2}[Bowling Bash]^{3}^ คูลดาวน์ของ^{4}ถูกเปลี่ยนเป็น${1}วินาที
 21382	For every @{1} refine levels on the Current Equipment slot, INT +${1}	สำหรับทุกระดับการปรับแต่ง@{1}บนสล็อตอุปกรณ์ปัจจุบัน INT +${1}
 21383	When equipped with a katar, Crit Modifier increases by ^{1}${4}%^{2}.	เมื่อสวมใส่ Katar ตัวปรับค่าคริติคอลจะเพิ่มขึ้น ^{1}${4}%^{2}
 21384	Excels at healing allies and specializes in defensive and buff magic.	Excels at healing allies and specializes in defensive and buff magic.
 21385	We have the worst luck... We actually crashed in Obeaune territory...	We have the worst luck... We actually crashed in Obeaune territory...
 21386	A Nurse Cap worn by nurses who care for patients in place of doctors.	A Nurse Cap worn by nurses who care for patients in place of doctors.
 21387	Metal Poring strikes fear into players with its extremely high ATK.	Metal Poring strikes fear into players with its extremely high ATK.
-21388	"The EXP boost buff granted by the ""Dumby"" NPC lasts for @{1} minutes."	"The EXP boost buff granted by the ""Dumby"" NPC lasts for @{1} minutes."
+21388	The EXP boost buff granted by the "Dumby" NPC lasts for @{1} minutes.	The EXP boost buff granted by the "Dumby" NPC lasts for @{1} minutes.
 21389	The item being purchased has changed. Refresh the page and try again.	The item being purchased has changed. Refresh the page and try again.
 21390	The Utility Pet's Passive Skill effects are granted to the Adventurer	The Utility Pet's Passive Skill effects are granted to the Adventurer
 21391	There's something good in your Backpack. Open it and take a look, bo!	There's something good in your Backpack. Open it and take a look, bo!
@@ -489,7 +489,7 @@
 21488	Season points and rankings can be viewed after the Locate Matches end.	Season points and rankings can be viewed after the Locate Matches end.
 21489	You cannot make purchases because your identity has not been verified.	You cannot make purchases because your identity has not been verified.
 21490	Magnificent Purple Equipment, clearly crafted by a Moonlit Challenger.	Purple Equipment อันงดงาม สร้างขึ้นโดยผู้ท้าชิงแสงจันทร์อย่างชัดเจน
-21491	"An extremely intricate component stamped ""ジュノー製"" on the bottom."	"An extremely intricate component stamped ""ジュノー製"" on the bottom."
+21491	An extremely intricate component stamped "ジュノー製" on the bottom.	An extremely intricate component stamped "ジュノー製" on the bottom.
 21492	A beautiful melody rings out as ${1} successfully performs Overture II	A beautiful melody rings out as ${1} successfully performs Overture II
 21493	Equip it to a Constellation in Astral Level to gain attribute bonuses.	ติดตั้งมันให้กับ Constellation ในระดับดาวเพื่อรับโบนัสคุณสมบัติ
 21494	They say this is an extremely expensive medicinal ingredient in Payon.	ว่ากันว่านี่เป็นส่วนผสมยาที่มีราคาแพงมากใน Payon
@@ -538,7 +538,7 @@
 21537	Extremely high Physical Defense, but highly vulnerable to Magic attacks	การป้องกันกายภาพสูงมาก แต่เสี่ยงต่อการโจมตีด้วยเวทย์มนตร์สูง
 21538	Extremely high Magic Defense, but highly vulnerable to Physical attacks	พลังป้องกันเวทย์มนตร์สูงมาก แต่เสี่ยงต่อการโจมตีทางกายภาพสูง
 21539	Skill@{1}_Summon Circle@{2}+Transform+Circle-Stepping Interaction Skill	Skill@{1}_Summon Circle@{2}+Transform+Circle-Stepping Interaction Skill
-21540	Allies within ^{1}^{2}[Sanctuary]^{3}^{4}'s area gain PDEF/MDEF +${1}%.	พันธมิตรภายใน ^{1}^{2}[Sanctuary]^{3}^ พื้นที่ของ{4}ได้รับ PDEF/MDEF +${1}%
+21540	Allies within ^{1}^{2}[Sanctuary]^{3}^{4}'s area gain PDEF/MDEF +${1}%.	พันธมิตรภายใน ^{1}^{2}[Sanctuary]^{3}^ พื้นที่ของ^{4}ได้รับ PDEF/MDEF +${1}%
 21541	When HP is above ${1}%, increases Physical ATK by 【Character Lv.*${2}】.	เมื่อ HP มากกว่า${1}% จะเพิ่ม Physical ATK ขึ้นตาม 【Character Lv.*${2}】
 21542	Increases the maximum Floors of the Defense buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟ Defense บน Totem นี้ขึ้น${1}
 21543	Increases the maximum Floors of the Healing buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟการรักษาบน Totem นี้ขึ้น${1}
@@ -550,7 +550,7 @@
 21549	I've created a new guild, 【${1}】! Adventurers, come show your support!!	I've created a new guild, 【${1}】! Adventurers, come show your support!!
 21550	The Guild Institute determines the unlock progress of Guild Technology.	The Guild Institute determines the unlock progress of Guild Technology.
 21551	Hold the left mouse button and drag to adjust the incubator temperature	Hold the left mouse button and drag to adjust the incubator temperature
-21552	"Hmph~ It's the ""Equipment Enhancement"" button. Don't tap the wrong one."	"Hmph~ It's the ""Equipment Enhancement"" button. Don't tap the wrong one."
+21552	Hmph~ It's the "Equipment Enhancement" button. Don't tap the wrong one.	Hmph~ It's the "Equipment Enhancement" button. Don't tap the wrong one.
 21553	Let Bobo help you! First, choose my favorite slot and deploy the totem.	Let Bobo help you! First, choose my favorite slot and deploy the totem.
 21554	Once unlocked, you can rent it for free. It's an exclusive Benefit, bo~	Once unlocked, you can rent it for free. It's an exclusive Benefit, bo~
 21555	Wow, now you can craft even stronger equipment! Come learn how with me!	Wow, now you can craft even stronger equipment! Come learn how with me!
@@ -626,7 +626,7 @@
 21625	Card slot successfully unsealed. Insert a card to enhance the equipment.	Card slot successfully unsealed. Insert a card to enhance the equipment.
 21626	Only one card with the same name can be socketed. Already socketed: ${1}	Only one card with the same name can be socketed. Already socketed: ${1}
 21627	Pharaoh's Pyramid fires ^{1}beams^{2} that damage enemies in their path.	Pharaoh's Pyramid fires ^{1}beams^{2} that damage enemies in their path.
-21628	"Owned: <sprite name=""valhalla_img_item_01""> x<color=#cc762a>${1}</color>"	"Owned: <sprite name=""valhalla_img_item_01""> x<color=#cc762a>${1}</color>"
+21628	Owned: <sprite name="valhalla_img_item_01"> x<color=#cc762a>${1}</color>	Owned: <sprite name="valhalla_img_item_01"> x<color=#cc762a>${1}</color>
 21629	Automatically return to the main city when Bonus AFK Points are depleted	Automatically return to the main city when Bonus AFK Points are depleted
 21630	After you Kill an MVP, a treasure chest remains at the spot as a marker.	After you Kill an MVP, a treasure chest remains at the spot as a marker.
 21631	The Boss Radar displays the locations of Respawned MVPs on the Mini Map.	The Boss Radar displays the locations of Respawned MVPs on the Mini Map.
@@ -665,7 +665,7 @@
 21664	Magical Stickers that can be used to decorate your Profile once obtained	สติกเกอร์วิเศษที่สามารถใช้เพื่อตกแต่งโปรไฟล์ของคุณเมื่อได้รับแล้ว
 21665	Points obtained by defeating monsters in the ^{1}Mt. Mjolnir^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Mt. Mjolnir^{2}
 21666	Points obtained by defeating monsters in the ^{1}Sunken Ship^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Sunken Ship^{2}
-21667	Points obtained by defeating monsters in the ^{1}Orc Village^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Orc Village^ ภูมิภาค{2}
+21667	Points obtained by defeating monsters in the ^{1}Orc Village^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Orc Village^ ภูมิภาค^{2}
 21668	Refining will <color=#C26B47>randomly increase or decrease stats</color>	Refining will <color=#C26B47>randomly increase or decrease stats</color>
 21669	The current scroll's star rating is too low to unlock a new Enchant slot	The current scroll's star rating is too low to unlock a new Enchant slot
 21670	Current Equipment already has an Enchant with the same name. Replace it?	Current Equipment already has an Enchant with the same name. Replace it?
@@ -710,8 +710,8 @@
 21709	The PATK granted by ^{1}^{2}【Deadly Poison】^{3}^{4} is increased by ${1}.	PATK ที่ได้รับจาก ^{1}^{2}【Deadly Poison】^{3}^{4}เพิ่มขึ้น${1}
 21710	No skills have been assigned to the current Skill Build. Set them up now?	No skills have been assigned to the current Skill Build. Set them up now?
 21711	In Ragnarok Online, reaching @{1} DEX allows skills to be cast instantly.	In Ragnarok Online, reaching @{1} DEX allows skills to be cast instantly.
-21712	"In RO, players often use ""Chat Rooms"" to view the Entire Server rankings."	"In RO, players often use ""Chat Rooms"" to view the Entire Server rankings."
-21713	"In RO, ""UB"" is short for a Ghostring Suit (Ghostring Card + Formal Suit)."	"In RO, ""UB"" is short for a Ghostring Suit (Ghostring Card + Formal Suit)."
+21712	In RO, players often use "Chat Rooms" to view the Entire Server rankings.	In RO, players often use "Chat Rooms" to view the Entire Server rankings.
+21713	In RO, "UB" is short for a Ghostring Suit (Ghostring Card + Formal Suit).	In RO, "UB" is short for a Ghostring Suit (Ghostring Card + Formal Suit).
 21714	The Stall name contains restricted words. Please change it and try again.	The Stall name contains restricted words. Please change it and try again.
 21715	The guild announcement contains prohibited words. Please enter a new one.	The guild announcement contains prohibited words. Please enter a new one.
 21716	You've used all Group Mail attempts for today. Please try again Tomorrow.	You've used all Group Mail attempts for today. Please try again Tomorrow.
@@ -736,7 +736,7 @@
 21735	Bobo\nThe sand is moving... No good, I'm being sucked in! Quick, save Me!	Bobo\nThe sand is moving... No good, I'm being sucked in! Quick, save Me!
 21736	Bobo\n(Cries echo from nearby) Waaah! ^{1}PlayerName^{2}, are you there?!	Bobo\n(Cries echo from nearby) Waaah! ^{1}PlayerName^{2}, are you there?!
 21737	Captain\nIf the wind blows you off the airship, don't blame me! Hahahaha!	Captain\nIf the wind blows you off the airship, don't blame me! Hahahaha!
-21738	"Eden Group Leader\nCould it be the Desert Eagles? Aren't we just ""lucky""?"	"Eden Group Leader\nCould it be the Desert Eagles? Aren't we just ""lucky""?"
+21738	Eden Group Leader\nCould it be the Desert Eagles? Aren't we just "lucky"?	Eden Group Leader\nCould it be the Desert Eagles? Aren't we just "lucky"?
 21739	Bobo\nWhy did he stop again? I hope it's not because of food this time...	Bobo\nWhy did he stop again? I hope it's not because of food this time...
 21740	An essential Season progression System that greatly increases your Power.	An essential Season progression System that greatly increases your Power.
 21741	Enhance the Bonfire Blessing to gain an Extra @{2} EXP every @{1} seconds	Enhance the Bonfire Blessing to gain an Extra @{2} EXP every @{1} seconds
@@ -819,8 +819,8 @@
 21818	Eddga surely never imagined someone would do this to him for such a reason	Eddga ไม่เคยคิดเลยว่าจะมีคนทำสิ่งนี้กับเขาด้วยเหตุผลเช่นนี้
 21819	Use on a map where Caravan Escort is active to Go to Map's nearest outpost	ใช้บนแผนที่ที่ Caravan Escort ทำงานอยู่เพื่อไปยังด่านหน้าที่ใกล้ที่สุดของแผนที่
 21820	An inexpensive leather jacket that develops a distinctive patina with age.	แจ็กเก็ตหนังราคาไม่แพงที่พัฒนาคราบอันโดดเด่นตามอายุ
-21821	Points obtained by defeating monsters in the ^{1}Byalan Island^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Byalan Island^ ภูมิภาค{2}
-21822	Points obtained by defeating monsters in the ^{1}Sograt Desert^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Sograt Desert^ ภูมิภาค{2}
+21821	Points obtained by defeating monsters in the ^{1}Byalan Island^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Byalan Island^ ภูมิภาค^{2}
+21822	Points obtained by defeating monsters in the ^{1}Sograt Desert^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Sograt Desert^ ภูมิภาค^{2}
 21823	After combining, stats and skills are randomized. Please play responsibly.	After combining, stats and skills are randomized. Please play responsibly.
 21824	Divine Words: Wipe the inscription clean to decipher the Totem attributes.	Divine Words: Wipe the inscription clean to decipher the Totem attributes.
 21825	Harness the power of all four elements to counter large groups of enemies.	Harness the power of all four elements to counter large groups of enemies.
@@ -864,7 +864,7 @@
 21863	It looks like a kitten's tail. Will wearing it turn you into a real kitten?	It looks like a kitten's tail. Will wearing it turn you into a real kitten?
 21864	All bonus points have been consumed. Auto-battle rewards have been reduced.	All bonus points have been consumed. Auto-battle rewards have been reduced.
 21865	TE WoE is limited to Trans. 2nd classes and below and is held every Sunday.	TE WoE is limited to Trans. 2nd classes and below and is held every Sunday.
-21866	"The BGM for ""Prontera Church"" is the first track that plays when RO starts."	"The BGM for ""Prontera Church"" is the first track that plays when RO starts."
+21866	The BGM for "Prontera Church" is the first track that plays when RO starts.	The BGM for "Prontera Church" is the first track that plays when RO starts.
 21867	Repel the monsters' attack and protect the Dragon Seal from being destroyed	Repel the monsters' attack and protect the Dragon Seal from being destroyed
 21868	The guild announcement cannot contain only numbers. Please enter a new one.	The guild announcement cannot contain only numbers. Please enter a new one.
 21869	Learn a Life Skill to make more Materials and recipes to aid you in Battle.	Learn a Life Skill to make more Materials and recipes to aid you in Battle.
@@ -966,7 +966,7 @@
 21965	A bow adorned with pure white wings as beautiful as a peacock's fanned tail.	คันธนูที่ประดับด้วยปีกสีขาวบริสุทธิ์สวยงามราวกับหางที่พัดของนกยูง
 21966	A hypnotist's wand that uses hypnosis to make novices feel like great mages.	ไม้กายสิทธิ์ของนักสะกดจิตที่ใช้การสะกดจิตเพื่อทำให้มือใหม่รู้สึกเหมือนเป็นนักเวทย์ผู้ยิ่งใหญ่
 21967	An easy-to-handle two-handed Spear that can be swung in many different ways.	Spear สองมือที่ถือง่ายซึ่งสามารถเหวี่ยงได้หลากหลายวิธี
-21968	"Unlock monsters to obtain <sprite name=""${1}"">${2} and unlock research tasks"	"Unlock monsters to obtain <sprite name=""${1}"">${2} and unlock research tasks"
+21968	Unlock monsters to obtain <sprite name="${1}">${2} and unlock research tasks	Unlock monsters to obtain <sprite name="${1}">${2} and unlock research tasks
 21969	Event Period: During the Ignition Test, opens daily from @{1}:@{2}~@{3}:@{4}	Event Period: During the Ignition Test, opens daily from @{1}:@{2}~@{3}:@{4}
 21970	The host has enabled microphones. Players in the mic queue may speak freely.	The host has enabled microphones. Players in the mic queue may speak freely.
 21971	Your character is temporarily unable to list Stall items. Unseal time: ${1}.	Your character is temporarily unable to list Stall items. Unseal time: ${1}.
@@ -992,7 +992,7 @@
 21991	【Frost Diver】 and 【Jupitel Thunder】's maximum Cooldown decreases by ${1} sec.	【Frost Diver】 และ 【Jupitel Thunder】 คูลดาวน์สูงสุดลดลง${1}วินาที
 21992	When Orc Hero uses this skill, players ^{1}must not approach one another^{2}.	When Orc Hero uses this skill, players ^{1}must not approach one another^{2}.
 21993	Your message contains inappropriate language. Please revise it and try again.	Your message contains inappropriate language. Please revise it and try again.
-21994	"Zombie and ""Bongun"" have a master-disciple relationship in the world of RO."	"Zombie and ""Bongun"" have a master-disciple relationship in the world of RO."
+21994	Zombie and "Bongun" have a master-disciple relationship in the world of RO.	Zombie and "Bongun" have a master-disciple relationship in the world of RO.
 21995	Payon has two versions, Old Payon and New Payon, each with different terrain.	Payon has two versions, Old Payon and New Payon, each with different terrain.
 21996	The shared message contains restricted words. Please change it and try again.	The shared message contains restricted words. Please change it and try again.
 21997	The guild name cannot consist entirely of numbers. Please enter another name.	The guild name cannot consist entirely of numbers. Please enter another name.

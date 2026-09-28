@@ -39,6 +39,7 @@ LANGUAGE_KV_FILE = WORKSPACE / "LanguageKV_full_en.tsv"
 WORLD_ALIAS_SOURCE = WORKSPACE / "world_label_aliases.json"
 ITEM_ALIAS_SOURCE = WORKSPACE / "item_name_aliases.json"
 SKILL_ALIAS_SOURCE = WORKSPACE / "skill_name_aliases.json"
+DESCRIPTION_ALIAS_SOURCE = WORKSPACE / "description_aliases.json"
 LOCALIZATION_ALIAS_FILE = ROOT / "Client" / "BepInEx" / "config" / "RO3.LocalizationAliases.tsv"
 
 
@@ -199,6 +200,11 @@ SKILL_STYLED_LINK = re.compile(r"((?:\^\{\d+\})+)(?:【([^】]+)】|\[([^\]]+)\]
 
 
 def validate_skill_terms(translations: dict[str, str]) -> None:
+    # The Japanese terminology lock applies only to the upstream Japanese
+    # dataset. The Thai project keeps English labels and validates its own
+    # scope in scripts/validate-thai-payload.py.
+    if any(re.search(r"[\u0E00-\u0E7F]", value) for value in translations.values()):
+        return
     for english, japanese in translations.items():
         if english in SKILL_TERMS and japanese != SKILL_TERMS[english]:
             raise ImportErrorWithContext(f"inconsistent skill name: {english!r}")
@@ -862,9 +868,12 @@ def read_split_files() -> tuple[dict[str, str], dict[int, str], int, int]:
 
         with path.open("r", encoding="utf-8-sig", newline="") as handle:
             reader = csv.DictReader(handle, delimiter="\t")
-            if reader.fieldnames != ["Index", "English", "Japanese_Translation"]:
+            if reader.fieldnames not in (
+                ["Index", "English", "Japanese_Translation"],
+                ["Index", "English", "Thai_Translation"],
+            ):
                 raise ImportErrorWithContext(
-                    f"{path.name}: expected exactly 3 TSV columns, got {reader.fieldnames}"
+                    f"{path.name}: expected Index, English and a translation column, got {reader.fieldnames}"
                 )
             rows = list(reader)
 
@@ -883,7 +892,8 @@ def read_split_files() -> tuple[dict[str, str], dict[int, str], int, int]:
                 ) from exc
 
             english = row["English"] or ""
-            japanese = row["Japanese_Translation"] or ""
+            translation_column = "Japanese_Translation" if "Japanese_Translation" in row else "Thai_Translation"
+            japanese = row[translation_column] or ""
             if not english:
                 raise ImportErrorWithContext(
                     f"{path.name}:{row_number}: English is empty"
@@ -921,11 +931,13 @@ def iter_import_pairs(path: Path, index_to_english: dict[int, str]):
         return
 
     # Header-style TSV from split_1000 or external translation tools.
-    if lines[0].split("\t")[:3] == ["Index", "English", "Japanese_Translation"]:
+    header = lines[0].split("\t")[:3]
+    if header in (["Index", "English", "Japanese_Translation"], ["Index", "English", "Thai_Translation"]):
         reader = csv.DictReader(lines, delimiter="\t")
         for row in reader:
             english = row.get("English") or ""
-            japanese = row.get("Japanese_Translation") or ""
+            translation_column = "Japanese_Translation" if "Japanese_Translation" in row else "Thai_Translation"
+            japanese = row.get(translation_column) or ""
             if english and japanese:
                 yield english, japanese
         return
@@ -1918,6 +1930,30 @@ def build_item_alias_rows(translations: dict[str, str]) -> list[tuple[str, str, 
     return build_localized_alias_rows(translations, ITEM_ALIAS_SOURCE, ("123900",))
 
 
+def build_description_alias_rows() -> list[tuple[str, str, str]]:
+    """Map substantial Chinese descriptions to their official English text.
+
+    These terminal aliases are used only for the description ID families the
+    patch localizes. Short Chinese vocabulary is intentionally left alone.
+    """
+    source = json.loads(DESCRIPTION_ALIAS_SOURCE.read_text(encoding="utf-8"))
+    candidates: set[tuple[str, str, str]] = set()
+    targets: dict[str, set[str]] = {}
+    for key, english, simplified, traditional in source["rows"]:
+        if not key.startswith(("101103", "102203", "108001", "123901", "100501", "131500", "131502", "131506")):
+            continue
+        for alias in (simplified, traditional):
+            if not alias or alias == english or sum("\u3400" <= char <= "\u9fff" for char in alias) < 6:
+                continue
+            if any(char in alias + english for char in "\t\r\n"):
+                continue
+            if set(PROTECTED_RE.findall(alias)) != set(PROTECTED_RE.findall(english)):
+                continue
+            candidates.add((key, alias, english))
+            targets.setdefault(alias, set()).add(english)
+    return sorted(row for row in candidates if len(targets[row[1]]) == 1)
+
+
 def build_skill_alias_rows(translations: dict[str, str]) -> list[tuple[str, str, str]]:
     existing: dict[str, set[str]] = {}
     for _, source, target in build_world_alias_rows(translations) + build_item_alias_rows(translations):
@@ -2005,10 +2041,11 @@ def write_outputs(
         LOCALIZATION_PATCH_FILE,
         "\n".join(localization_patch_lines) + "\n",
     )
-    aliases = ["# ID<TAB>Original zh_CN/zh_TW label<TAB>Japanese; generated from signed localization tables"]
+    aliases = ["# ID<TAB>Original zh_CN/zh_TW label<TAB>English description or name; generated from signed localization tables"]
     aliases.extend("\t".join(row) for row in build_world_alias_rows(translations))
     aliases.extend("\t".join(row) for row in build_item_alias_rows(translations))
     aliases.extend("\t".join(row) for row in build_skill_alias_rows(translations))
+    aliases.extend("\t".join(row) for row in build_description_alias_rows())
     atomic_write_text(LOCALIZATION_ALIAS_FILE, "\n".join(aliases) + "\n")
 
     cache_text = json.dumps(translations, ensure_ascii=False, indent=1, sort_keys=True) + "\n"

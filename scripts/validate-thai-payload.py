@@ -4,6 +4,7 @@ from __future__ import annotations
 from collections import Counter
 from pathlib import Path
 import csv
+import json
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -133,6 +134,17 @@ if thai_targets < 3500:
 # Aliases are retained only to normalize non-English source names to English.
 if any(THAI.search(target) for _, _, target in aliases):
     raise SystemExit("an alias target is still Thai; names must normalize to English")
+description_aliases = [row for row in aliases if row[0].startswith(ALLOWED_PREFIXES)]
+if len(description_aliases) < 1000:
+    raise SystemExit(f"too few Chinese description aliases: {len(description_aliases)}")
+description_source = json.loads((ROOT / "_TranslationWorkspace/description_aliases.json").read_text(encoding="utf-8"))
+english_by_id = {row[0]: row[1] for row in description_source["rows"]}
+for localization_id, source, target in description_aliases:
+    if target != english_by_id.get(localization_id):
+        raise SystemExit(f"description alias does not resolve to its English ID value: {localization_id}")
+    if sum("\u3400" <= char <= "\u9fff" for char in source) < 6:
+        raise SystemExit(f"description alias is too short to be prose: {localization_id}: {source!r}")
+check_tokens("description aliases", [(source, target) for _, source, target in description_aliases])
 workspace_rows = 0
 workspace_failures = []
 for path in sorted(SPLIT.glob("part_*.tsv")):
@@ -151,4 +163,4 @@ if workspace_rows != 26615:
     raise SystemExit(f"workspace row count is {workspace_rows}, expected 26615")
 if workspace_failures:
     raise SystemExit("workspace translates text outside description scope:\n" + "\n".join(f"  {p}: {s!r} -> {t!r}" for p, s, t in workspace_failures))
-print(f"Description-only Thai payload OK: canonical={len(canonical)}, overrides={len(overrides)}, aliases={len(aliases)}, Thai descriptions={thai_targets}, workspace={workspace_rows}")
+print(f"Description-only Thai payload OK: canonical={len(canonical)}, overrides={len(overrides)}, aliases={len(aliases)}, English Chinese-description aliases={len(description_aliases)}, Thai descriptions={thai_targets}, workspace={workspace_rows}")

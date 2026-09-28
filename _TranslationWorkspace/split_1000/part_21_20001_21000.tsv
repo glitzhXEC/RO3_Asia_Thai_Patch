@@ -127,7 +127,7 @@
 20126	Cast Time increased by @{1}, MP Cost increased by @{2}%.	เวลาร่ายเพิ่มขึ้น@{1}ค่าใช้จ่าย MP เพิ่มขึ้น@{2}%
 20127	Detects hidden enemies within @{1} meters of the Ranger.	ตรวจจับศัตรูที่ซ่อนอยู่ภายในระยะ@{1}เมตรของ Ranger
 20128	Adventure Group response recruitment posted successfully	Adventure Group response recruitment posted successfully
-20129	"Get <sprite name=""${3}"">${4} with help from other players"	"Get <sprite name=""${3}"">${4} with help from other players"
+20129	Get <sprite name="${3}">${4} with help from other players	Get <sprite name="${3}">${4} with help from other players
 20130	Continue chasing Dracula, and watch out for falling rocks	ไล่ตาม Dracula ต่อไป และระวังหินที่ตกลงมา
 20131	Reach a total Refinement Lv. of @{1} across all equipment	ถึงระดับการปรับแต่งทั้งหมดของ@{1}ในทุกอุปกรณ์
 20132	Complete the Novice Trial and obtain proof of completion.	ทดลองใช้งานมือใหม่และรับหลักฐานการสำเร็จ
@@ -163,7 +163,7 @@
 20162	This activity is unavailable on the day you change guilds	This activity is unavailable on the day you change guilds
 20163	Not enough Guild Members from the same guild in the party	Not enough Guild Members from the same guild in the party
 20164	Insufficient Kills of monsters at the corresponding level	Insufficient Kills of monsters at the corresponding level
-20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}【Bow】^ ตัวคูณความเสียหายของทักษะ{2}เพิ่มขึ้น${1}%
+20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}【Bow】^ ตัวคูณความเสียหายของทักษะ^{2}เพิ่มขึ้น${1}%
 20166	Physical damage dealt to Brute and Insect monsters +${1}%	ความเสียหายทางกายภาพที่ทำกับสัตว์ประหลาดสัตว์เดรัจฉานและแมลง +${1}%
 20167	Play Event Closure @{2} after Campfire Phase @{1} begins!	Play Event Closure @{2} after Campfire Phase @{1} begins!
 20168	Second Prize will always be drawn from Baby Desert Wolves	Second Prize will always be drawn from Baby Desert Wolves
@@ -175,7 +175,7 @@
 20174	Strouf is furious! Keep your footing and dodge the waves!	Strouf is furious! Keep your footing and dodge the waves!
 20175	Auto-battle time has ended. Return to town automatically?	Auto-battle time has ended. Return to town automatically?
 20176	AFK time is about to reset. Return to town automatically?	AFK time is about to reset. Return to town automatically?
-20177	"In RO, ""@{1}"" is shorthand for a certain Sage-line class."	"In RO, ""@{1}"" is shorthand for a certain Sage-line class."
+20177	In RO, "@{1}" is shorthand for a certain Sage-line class.	In RO, "@{1}" is shorthand for a certain Sage-line class.
 20178	Please manually switch to Channel ${1} before proceeding.	Please manually switch to Channel ${1} before proceeding.
 20179	Capture the control point, then attack the Glorious Metal	Capture the control point, then attack the Glorious Metal
 20180	Do not accept invitations from this player for 30 minutes	Do not accept invitations from this player for 30 minutes
@@ -315,7 +315,7 @@
 20314	Louis\nLet's start the game! Guess where my cat will move!	Louis\nLet's start the game! Guess where my cat will move!
 20315	Bobo\nUgh, why do these Chonchons keep following us? Shoo!	Bobo\nUgh, why do these Chonchons keep following us? Shoo!
 20316	Experience the new version's smooth, seamless storytelling	Experience the new version's smooth, seamless storytelling
-20317	"Achieving a ""@{1}-second cast"" requires special equipment."	"Achieving a ""@{1}-second cast"" requires special equipment."
+20317	Achieving a "@{1}-second cast" requires special equipment.	Achieving a "@{1}-second cast" requires special equipment.
 20318	Use to Activate the Spirit Conqueror title for @{1} hours.	ใช้เพื่อเปิดใช้งานฉายา Spirit Conqueror เป็นเวลา@{1}ชั่วโมง
 20319	Use to Activate the Ten Great Heroes title for @{1} hours.	ใช้เพื่อเปิดใช้งานชื่อ Ten Great Heroes เป็นเวลา@{1}ชั่วโมง
 20320	Use to Activate the Star of Rekenber Portrait (Permanent).	ใช้เพื่อเปิดใช้งาน Star of Rekenber Portrait (ถาวร)
@@ -404,7 +404,7 @@
 20403	Damage against ${1} Resonance <color=#50A22B>+${2}%</color>	Damage against ${1} Resonance <color=#50A22B>+${2}%</color>
 20404	Damage against ${1} Resonance <color=#B05142>-${2}%</color>	Damage against ${1} Resonance <color=#B05142>-${2}%</color>
 20405	You have not joined an expedition and cannot claim rewards.	You have not joined an expedition and cannot claim rewards.
-20406	"Two core classes for ""Autocast"" builds are Mage and Wizard."	"Two core classes for ""Autocast"" builds are Mage and Wizard."
+20406	Two core classes for "Autocast" builds are Mage and Wizard.	Two core classes for "Autocast" builds are Mage and Wizard.
 20407	Spend materials to incubate and open ${1} Pet Eggs at once?	Spend materials to incubate and open ${1} Pet Eggs at once?
 20408	Equipment Refining greatly improves your equipment's stats.	Equipment Refining greatly improves your equipment's stats.
 20409	Tap the Mount button to ride your adorable, charming mount!	Tap the Mount button to ride your adorable, charming mount!
@@ -613,7 +613,7 @@
 20612	Adds an Extra attack that ignores DEF when calculating damage	Adds an Extra attack that ignores DEF when calculating damage
 20613	Increases the effects of Shield Skills applied to you by ${1}	Increases the effects of Shield Skills applied to you by ${1}
 20614	Increases the Shield effect of Shield skills you cast by ${1}	Increases the Shield effect of Shield skills you cast by ${1}
-20615	"Unlocked after using the item ""Netherworld - Shattered Tower"""	"Unlocked after using the item ""Netherworld - Shattered Tower"""
+20615	Unlocked after using the item "Netherworld - Shattered Tower"	Unlocked after using the item "Netherworld - Shattered Tower"
 20616	The professor is probably at the location marked in the notes	อาจารย์น่าจะอยู่ที่ตำแหน่งที่ทำเครื่องหมายไว้ในบันทึก
 20617	Go to the port and help the Caravan Members arrange the cargo	ไปที่ท่าเรือและช่วย Caravan Members ในการจัดเตรียมสินค้า
 20618	Refine attributes take effect once the equipment is equipped.	Refine attributes take effect once the equipment is equipped.
@@ -751,7 +751,7 @@
 20750	The whirlpool's coming! Group up and watch out for pufferfish!	The whirlpool's coming! Group up and watch out for pufferfish!
 20751	Congratulations on reaching the top floor of the Spirit Tower!	Congratulations on reaching the top floor of the Spirit Tower!
 20752	Shuka Bain's Black Cat Ears. Exquisitely crafted and adorable.	Shuka Bain's Black Cat Ears. Exquisitely crafted and adorable.
-20753	"In RO, the ""Vending"" Stall Function is exclusive to Merchants."	"In RO, the ""Vending"" Stall Function is exclusive to Merchants."
+20753	In RO, the "Vending" Stall Function is exclusive to Merchants.	In RO, the "Vending" Stall Function is exclusive to Merchants.
 20754	Are you sure you want to spend ${1} to purchase ${2}×${3}${4}?	Are you sure you want to spend ${1} to purchase ${2}×${3}${4}?
 20755	Select an item from the Backpack list on the right to list it.	Select an item from the Backpack list on the right to list it.
 20756	There are no items left in the display, so it can't be shared~	There are no items left in the display, so it can't be shared~
@@ -906,7 +906,7 @@
 20905	${1} is currently used in a build. Use it for synthesis anyway?	${1} is currently used in a build. Use it for synthesis anyway?
 20906	The requester deleted their Get Help request. Unable to submit.	The requester deleted their Get Help request. Unable to submit.
 20907	Reduces Ranged Physical damage taken by ${2}% for ${3} seconds.	ลดความเสียหายทางกายภาพระยะไกลที่ได้รับโดย${2}% เป็นเวลา${3}วินาที
-20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}MATK สูงสุด ^{3}${2}^ สแต็ก{4}
+20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}MATK สูงสุด ^{3}${2}^ สแต็ก^{4}
 20909	Are you sure you want to Apply to Support this Adventure Guild?	Are you sure you want to Apply to Support this Adventure Guild?
 20910	You're performing actions too frequently. Please try again later	You're performing actions too frequently. Please try again later
 20911	[Rift Crisis] Special Commendation has reached This Week's Limit	[Rift Crisis] Special Commendation has reached This Week's Limit
@@ -938,7 +938,7 @@
 20937	Based on an analysis of the strange fluctuations in the Ant Hell	Based on an analysis of the strange fluctuations in the Ant Hell
 20938	Gospel Resonance is unaffected by Counters and other Resonances.	Gospel Resonance is unaffected by Counters and other Resonances.
 20939	Not enough Wishing Coins. Challenge Heroic Spirits to earn more.	Not enough Wishing Coins. Challenge Heroic Spirits to earn more.
-20940	"In Ragnarok Online, ""Payon Cave"" refers to the dungeon in Payon."	"In Ragnarok Online, ""Payon Cave"" refers to the dungeon in Payon."
+20940	In Ragnarok Online, "Payon Cave" refers to the dungeon in Payon.	In Ragnarok Online, "Payon Cave" refers to the dungeon in Payon.
 20941	Poporing (Fat Poring) is best known for being incredibly fast.	Poporing (Fat Poring) is best known for being incredibly fast.
 20942	No Stall spaces are currently available. Please try again later.	No Stall spaces are currently available. Please try again later.
 20943	Your reputation score is too low to purchase items from a Stall.	Your reputation score is too low to purchase items from a Stall.

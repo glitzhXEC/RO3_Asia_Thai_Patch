@@ -76,6 +76,7 @@ namespace RO3.JapaneseMod
         }
 
         private readonly Dictionary<string, string> exact = new Dictionary<string, string>(StringComparer.Ordinal);
+        private readonly Dictionary<string, string> terminalEnglish = new Dictionary<string, string>(StringComparer.Ordinal);
         private readonly Dictionary<string, string> offlineExact = new Dictionary<string, string>(StringComparer.Ordinal);
         private readonly Dictionary<string, string> itemNames = new Dictionary<string, string>(StringComparer.Ordinal);
         private readonly Dictionary<string, string> skillNames = new Dictionary<string, string>(StringComparer.Ordinal);
@@ -285,6 +286,12 @@ namespace RO3.JapaneseMod
             }
         }
 
+        public void AddTerminalEnglish(string source, string english)
+        {
+            if (!String.IsNullOrEmpty(source) && !String.IsNullOrEmpty(english))
+                terminalEnglish[source.Replace(@"\n", "\n")] = english.Replace(@"\n", "\n");
+        }
+
         private void AddDynamicVariants(string source, string target, bool worldName, bool mapName, bool canonical)
         {
             if (!RuntimeToken.IsMatch(source)) return;
@@ -435,6 +442,8 @@ namespace RO3.JapaneseMod
         private string Translate(string text, int depth)
         {
             if (String.IsNullOrEmpty(text)) return text;
+            string terminal;
+            if (terminalEnglish.TryGetValue(text, out terminal)) return terminal;
             if (depth >= 16) return text;
             if (rulesNeedSorting)
             {

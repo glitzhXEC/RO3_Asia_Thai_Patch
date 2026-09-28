@@ -34,6 +34,12 @@ jobs:
           python scripts/validate-thai-payload.py
           if ($LASTEXITCODE -ne 0) { throw 'Thai payload validation failed' }
 
+      - name: Verify Chinese description aliases resolve directly to English
+        shell: pwsh
+        run: |
+          python scripts/test-english-description-aliases.py
+          if ($LASTEXITCODE -ne 0) { throw 'English description alias verification failed' }
+
       - name: Test installer and recovery
         shell: pwsh
         run: |

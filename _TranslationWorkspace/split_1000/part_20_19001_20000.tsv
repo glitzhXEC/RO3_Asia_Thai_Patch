@@ -107,7 +107,7 @@
 19106	Strikes the currently targeted player in the grid	โจมตีผู้เล่นที่เป็นเป้าหมายในตาราง
 19107	Cross-shaped AoE, vertical first, then horizontal	AoE รูปกากบาท แนวตั้งก่อน แล้วจึงแนวนอน
 19108	Cross-shaped AoE, first vertical, then horizontal	AoE รูปกากบาท แนวตั้งแรก จากนั้นเป็นแนวนอน
-19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}【Reading】^{3}^ สถานะ{4}
+19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}【Reading】^{3}^ สถานะ^{4}
 19110	Unable to find the Luxury Dragon configuration ID	Unable to find the Luxury Dragon configuration ID
 19111	Equipment in this Equipment Preset does not exist	Equipment in this Equipment Preset does not exist
 19112	Attempted to remove a player who is not a friend.	Attempted to remove a player who is not a friend.
@@ -919,7 +919,7 @@
 19918	Challenge the Phantom Realm Protector: Golden Thief Bug	Challenge the Phantom Realm Protector: Golden Thief Bug
 19919	Challenge the Phantom Realm Protector: Moonlight Flower	Challenge the Phantom Realm Protector: Moonlight Flower
 19920	Guild Emblem Frame not unlocked. Please select another.	Guild Emblem Frame not unlocked. Please select another.
-19921	"Cost: <sprite name=""${1}""><color=${2}>${3}</color>/${4}"	"Cost: <sprite name=""${1}""><color=${2}>${3}</color>/${4}"
+19921	Cost: <sprite name="${1}"><color=${2}>${3}</color>/${4}	Cost: <sprite name="${1}"><color=${2}>${3}</color>/${4}
 19922	Guild Activities - (Auction Eligibility) Royal City War	Guild Activities - (Auction Eligibility) Royal City War
 19923	Guild Activities - (Auction Eligibility) Stronghold War	Guild Activities - (Auction Eligibility) Stronghold War
 19924	Connect Quest - Team Up to Defeat Hard Golden Thief Bug	Connect Quest - Team Up to Defeat Hard Golden Thief Bug
@@ -928,12 +928,12 @@
 19927	Adds 6.9% of the deployed pet's stats to the Adventurer	Adds 6.9% of the deployed pet's stats to the Adventurer
 19928	Tap here to deploy me automatically. I'm really strong!	Tap here to deploy me automatically. I'm really strong!
 19929	Confirm deployment. Feel the power surging through you!	Confirm deployment. Feel the power surging through you!
-19930	"This is it, bo! ""Battle of Survivors""! Go check it out!"	"This is it, bo! ""Battle of Survivors""! Go check it out!"
-19931	"Hmph~ It's the ""Pet"" button. Don't click the wrong one."	"Hmph~ It's the ""Pet"" button. Don't click the wrong one."
+19930	This is it, bo! "Battle of Survivors"! Go check it out!	This is it, bo! "Battle of Survivors"! Go check it out!
+19931	Hmph~ It's the "Pet" button. Don't click the wrong one.	Hmph~ It's the "Pet" button. Don't click the wrong one.
 19932	You got something good! Open it up and take a look, bo!	You got something good! Open it up and take a look, bo!
 19933	Stop opposing Members from entering the contested point	Stop opposing Members from entering the contested point
 19934	Don't go pining after me. I'm out of your league, meow.	Don't go pining after me. I'm out of your league, meow.
-19935	"Oh? You mean Elder Bob? We've already ""bought him off""!"	"Oh? You mean Elder Bob? We've already ""bought him off""!"
+19935	Oh? You mean Elder Bob? We've already "bought him off"!	Oh? You mean Elder Bob? We've already "bought him off"!
 19936	Did you finish today's task? You can claim your reward!	Did you finish today's task? You can claim your reward!
 19937	D-don't come any closer... I'm a little seasick. Ugh...	D-don't come any closer... I'm a little seasick. Ugh...
 19938	I failed the second time... but I know what went wrong.	I failed the second time... but I know what went wrong.
