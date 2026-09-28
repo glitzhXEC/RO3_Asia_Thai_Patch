@@ -2,12 +2,12 @@
 16001	Increases Physical DEF by ${1}~${2}	เพิ่ม DEF ทางกายภาพโดย${1}~${2}
 16002	Increases Physical ATK by ${1}~${2}	เพิ่ม ATK ทางกายภาพโดย${1}~${2}
 16003	Physical Damage increased by ${1}%.	เพิ่มขึ้น${1}%
-16004	Recruitment withdrawn successfully.	ถอนการรับสมัครเรียบร้อยแล้ว
-16005	Not enough items. Unable to unlock!	รายการไม่เพียงพอปลดล็อคไม่ได้!
-16006	Not enough Vivify. Unable to craft!	Vivify ไม่เพียงพอไม่สามารถประดิษฐ์ได้!
-16007	Action ${1} Unlock Requirement: ${2}	ข้อกำหนดในการปลดล็อคการดำเนินการ${1}:${2}
-16008	Closes automatically in ${1} seconds	ปิดโดยอัตโนมัติใน${1}วินาที
-16009	Waiting for the new Season to begin.	กำลังรอให้ซีซั่นใหม่เริ่มต้นขึ้น
+16004	Recruitment withdrawn successfully.	Recruitment withdrawn successfully.
+16005	Not enough items. Unable to unlock!	Not enough items. Unable to unlock!
+16006	Not enough Vivify. Unable to craft!	Not enough Vivify. Unable to craft!
+16007	Action ${1} Unlock Requirement: ${2}	Action ${1} Unlock Requirement: ${2}
+16008	Closes automatically in ${1} seconds	Closes automatically in ${1} seconds
+16009	Waiting for the new Season to begin.	Waiting for the new Season to begin.
 16010	^{1}Defeat Ilmata, God of Nature^{2}	^{1}เอาชนะอิลมาตา เทพเจ้าแห่งธรรมชาติ^{2}
 16011	Complete @{1} Equipment Enchantments	เสริมพลังอุปกรณ์@{1}สำเร็จ
 16012	Say hello to Leiya Bulian for Dumby.	ทักทาย Leiya Bulian สำหรับ Dumby
@@ -28,71 +28,71 @@
 16027	Encounter the mysterious woman again	พบกับหญิงสาวลึกลับอีกครั้ง
 16028	Complete the Phantom Realm Challenge	พิชิต Phantom Realm Challenge
 16029	Follow Bobo to Rent a Madogear Pilot	ติดตาม Bobo เพื่อเช่า Madogear Pilot
-16030	Please select ${1} Encounters first.	โปรดเลือกการเผชิญหน้า${1}ก่อน
-16031	Affects your damage against monsters	ส่งผลต่อความเสียหายของคุณต่อมอนสเตอร์
-16032	Affects your Chance to inflict Curse	ส่งผลต่อโอกาสที่คุณจะติดคำสาป
-16033	Affects your Chance to inflict Blind	ส่งผลต่อโอกาสในการทำให้ตาบอด
-16034	Reduces ranged Physical damage taken	ลดความเสียหายทางกายภาพที่ได้รับจากระยะไกล
-16035	Increases your damage dealt by ${1}%	เพิ่มความเสียหายที่คุณทำได้${1}%
-16036	Go to the fork and see what happened	ไปที่ทางแยกแล้วดูว่าเกิดอะไรขึ้น
-16037	Retrieve the Professor's instrument.	รับเครื่องดนตรีของ Professor
-16038	Take up the position as Guild Master	รับตำแหน่ง Guild Master
-16039	Passive Stall Closure (Time Expired)	การปิดแผงลอยแบบ Passive (หมดเวลา)
-16040	Season Settlement: Conqueror Rewards	ข้อตกลงซีซั่น: รางวัลผู้พิชิต
-16041	Guild League Elite Settings Reminder	การแจ้งเตือนการตั้งค่า Guild League Elite
-16042	Delisted Due to Trade Market Closure	ถูกเพิกถอนเนื่องจากการปิดตลาดการค้า
+16030	Please select ${1} Encounters first.	Please select ${1} Encounters first.
+16031	Affects your damage against monsters	Affects your damage against monsters
+16032	Affects your Chance to inflict Curse	Affects your Chance to inflict Curse
+16033	Affects your Chance to inflict Blind	Affects your Chance to inflict Blind
+16034	Reduces ranged Physical damage taken	Reduces ranged Physical damage taken
+16035	Increases your damage dealt by ${1}%	Increases your damage dealt by ${1}%
+16036	Go to the fork and see what happened	Go to the fork and see what happened
+16037	Retrieve the Professor's instrument.	Retrieve the Professor's instrument.
+16038	Take up the position as Guild Master	Take up the position as Guild Master
+16039	Passive Stall Closure (Time Expired)	Passive Stall Closure (Time Expired)
+16040	Season Settlement: Conqueror Rewards	Season Settlement: Conqueror Rewards
+16041	Guild League Elite Settings Reminder	Guild League Elite Settings Reminder
+16042	Delisted Due to Trade Market Closure	Delisted Due to Trade Market Closure
 16043	Talk to the Mentor about Job Advance	Talk กับที่ปรึกษาเกี่ยวกับ Job Advance
-16044	Member Removed from Adventurer Guild	ถูกนำออกจาก GuildAdventurer
-16045	No equipment available for smelting.	ไม่มีอุปกรณ์สำหรับการถลุง
-16046	You can save the current attributes.	คุณสามารถบันทึกแอ็ตทริบิวต์ปัจจุบันได้
-16047	Rank ${1}: ${2}, Final Score: ${3}\n	อันดับ${1}:${2}, คะแนนสุดท้าย:${3}\n
+16044	Member Removed from Adventurer Guild	Member Removed from Adventurer Guild
+16045	No equipment available for smelting.	No equipment available for smelting.
+16046	You can save the current attributes.	You can save the current attributes.
+16047	Rank ${1}: ${2}, Final Score: ${3}\n	Rank ${1}: ${2}, Final Score: ${3}\n
 16048	Listen to what the Hunter has to say	ฟังสิ่งที่ Hunter พูด
 16049	Collect fur from the defeated Eddga*	เก็บขนจาก Eddga ที่พ่ายแพ้*
 16050	Ask the Woman what this is all about	ถาม Woman ว่านี่เป็นเรื่องเกี่ยวกับอะไร
-16051	No other Star Cores in your Backpack	ไม่มี Star Core อื่นในกระเป๋าเป้ของคุณ
-16052	Increases Move Speed---/Attack Speed	เพิ่มความเร็วในการเคลื่อนที่---/ความเร็วในการโจมตี
-16053	Loading remote configuration file...	กำลังโหลดไฟล์การกำหนดค่าระยะไกล...
-16054	Error verifying version differences.	เกิดข้อผิดพลาดในการตรวจสอบความแตกต่างของเวอร์ชัน
-16055	Regional Capital War Auction - Ready	การประมูลสงครามทุนระดับภูมิภาค - พร้อมแล้ว
-16056	Regional Capital War Auction - Final	การประมูลสงครามทุนระดับภูมิภาค - รอบชิงชนะเลิศ
-16057	\nYou bought new clothes ${1} times.	\n คุณซื้อเสื้อผ้าใหม่${1}ครั้ง
-16058	Restrict Selling on the Trade Market	จำกัดการขายในตลาดการค้า
-16059	Adventure Party Function Information	ข้อมูลฟังก์ชั่นปาร์ตี้ผจญภัย
-16060	Season Exploration Event - Go to Map	- ไปที่แผนที่
-16061	Please select an entry to filter by.	โปรดเลือกรายการที่จะกรอง
-16062	This item cannot be Put in the Cart.	สินค้ารายการนี้ไม่สามารถใส่ลงตะกร้าได้
-16063	Wing items cannot be used while dead	ไอเทมปีกไม่สามารถใช้งานได้ในขณะที่ตาย
-16064	Mounts cannot be obtained repeatedly	Mounts ไม่สามารถรับซ้ำได้
-16065	You've reached the Add Friend limit.	คุณเพิ่มเพื่อนถึงขีดจำกัดแล้ว
-16066	You cannot send messages to yourself	คุณไม่สามารถส่งข้อความถึงตัวคุณเองได้
-16067	Confirm transferring raid leadership	ยืนยันการโอนผู้นำการโจมตี
-16068	Drag into the area to place a marker	ลากเข้าไปในพื้นที่เพื่อวางเครื่องหมาย
-16069	Start a raid Placement confirmation?	เริ่มการยืนยันตำแหน่งการโจมตีหรือไม่
-16070	Stronghold War bidding opens in ${1}	Stronghold War ใน${1}
-16071	Supply Transport - Preparation Phase	การขนส่งอุปทาน - ขั้นตอนการเตรียมการ
-16072	There are currently no Trade orders.	ขณะนี้ไม่มีคำสั่งซื้อขาย
-16073	No bidding eligibility for this ${1}	ไม่มีสิทธิ์ประมูลสำหรับ${1}นี้
-16074	Activate the pet Faction ${1} effect	เปิดใช้งานเอฟเฟกต์สัตว์เลี้ยง Faction${1}
-16075	Points you can earn today: ${1}/${2}	คะแนนที่คุณสามารถรับได้วันนี้:${1}/${2}
-16076	Not enough items to create the guild	ไอเท็มไม่เพียงพอที่จะสร้างกิลด์
-16077	You have not responded to this guild	คุณยังไม่ได้ตอบกลับกิลด์นี้
-16078	Do not post my content in Guild News	อย่าโพสต์เนื้อหาของฉันใน Guild News
-16079	Guild Member limit increased to ${1}	ขีดจำกัดสมาชิก Guild เพิ่มขึ้นเป็น${1}
-16080	Black Gold prices have soared today.	Black Gold ราคาพุ่งสูงขึ้นวันนี้
-16081	Pet Protection Effect Trigger - Buff	ทริกเกอร์เอฟเฟกต์การปกป้องสัตว์เลี้ยง - บัฟ
-16082	Insufficient buff Floors^{1}${1}^{2}	พื้นบัฟไม่เพียงพอ^{1}${1}^{2}
-16083	First Clear time requirement not met	ไม่เป็นไปตามข้อกำหนดเวลาในการเคลียร์ครั้งแรก
-16084	Insufficient Guild GvE participation	การเข้าร่วม Guild GvE ไม่เพียงพอ
-16085	Not enough Guild Siege points earned	คะแนน Guild Siege ที่ได้รับไม่เพียงพอ
-16086	Requires the ${2} professional title	ต้องมีชื่อระดับมืออาชีพ${2}
-16087	Interaction is currently unavailable	ไม่พร้อมใช้งานในขณะนี้
+16051	No other Star Cores in your Backpack	No other Star Cores in your Backpack
+16052	Increases Move Speed---/Attack Speed	Increases Move Speed---/Attack Speed
+16053	Loading remote configuration file...	Loading remote configuration file...
+16054	Error verifying version differences.	Error verifying version differences.
+16055	Regional Capital War Auction - Ready	Regional Capital War Auction - Ready
+16056	Regional Capital War Auction - Final	Regional Capital War Auction - Final
+16057	\nYou bought new clothes ${1} times.	\nYou bought new clothes ${1} times.
+16058	Restrict Selling on the Trade Market	Restrict Selling on the Trade Market
+16059	Adventure Party Function Information	Adventure Party Function Information
+16060	Season Exploration Event - Go to Map	Season Exploration Event - Go to Map
+16061	Please select an entry to filter by.	Please select an entry to filter by.
+16062	This item cannot be Put in the Cart.	This item cannot be Put in the Cart.
+16063	Wing items cannot be used while dead	Wing items cannot be used while dead
+16064	Mounts cannot be obtained repeatedly	Mounts cannot be obtained repeatedly
+16065	You've reached the Add Friend limit.	You've reached the Add Friend limit.
+16066	You cannot send messages to yourself	You cannot send messages to yourself
+16067	Confirm transferring raid leadership	Confirm transferring raid leadership
+16068	Drag into the area to place a marker	Drag into the area to place a marker
+16069	Start a raid Placement confirmation?	Start a raid Placement confirmation?
+16070	Stronghold War bidding opens in ${1}	Stronghold War bidding opens in ${1}
+16071	Supply Transport - Preparation Phase	Supply Transport - Preparation Phase
+16072	There are currently no Trade orders.	There are currently no Trade orders.
+16073	No bidding eligibility for this ${1}	No bidding eligibility for this ${1}
+16074	Activate the pet Faction ${1} effect	Activate the pet Faction ${1} effect
+16075	Points you can earn today: ${1}/${2}	Points you can earn today: ${1}/${2}
+16076	Not enough items to create the guild	Not enough items to create the guild
+16077	You have not responded to this guild	You have not responded to this guild
+16078	Do not post my content in Guild News	Do not post my content in Guild News
+16079	Guild Member limit increased to ${1}	Guild Member limit increased to ${1}
+16080	Black Gold prices have soared today.	Black Gold prices have soared today.
+16081	Pet Protection Effect Trigger - Buff	Pet Protection Effect Trigger - Buff
+16082	Insufficient buff Floors^{1}${1}^{2}	Insufficient buff Floors^{1}${1}^{2}
+16083	First Clear time requirement not met	First Clear time requirement not met
+16084	Insufficient Guild GvE participation	Insufficient Guild GvE participation
+16085	Not enough Guild Siege points earned	Not enough Guild Siege points earned
+16086	Requires the ${2} professional title	Requires the ${2} professional title
+16087	Interaction is currently unavailable	Interaction is currently unavailable
 16088	This unit's Physical DEF is reduced.	DEF กายภาพของยูนิตนี้ลดลง
 16089	Frozen in ice. Cannot move or attack	แช่แข็งในน้ำแข็งไม่สามารถเคลื่อนที่หรือโจมตีได้
 16090	Dragon's Highest-Aggro Target Effect	เอฟเฟกต์เป้าหมาย Aggro สูงสุดของมังกร
 16091	Increases damage reduction by @{1}%.	เพิ่มการลดความเสียหายโดย@{1}%
-16092	Drag UI elements to reposition them.	ลากองค์ประกอบ UI เพื่อเปลี่ยนตำแหน่ง
+16092	Drag UI elements to reposition them.	Drag UI elements to reposition them.
 16093	Skill@{1}Flying Goblet Row Slam-Easy	Skill@{1}Flying Goblet Row Slam-Easy
-16094	Please enter a valid invitation code	โปรดป้อนรหัสเชิญที่ถูกต้อง
+16094	Please enter a valid invitation code	Please enter a valid invitation code
 16095	Heavy Shield Defense - Shield Raised	Heavy Shield Defense - Shield Raised
 16096	Ghost Ship Grand Charge Vertical@{1}	Ghost Ship Grand Charge Vertical@{1}
 16097	Falling Cross Cannonballs (Vertical)	Falling Cross Cannonballs (Vertical)
@@ -107,98 +107,98 @@
 16106	Reduces Earth damage taken by ${1}%.	ลดความเสียหายของโลกที่ได้รับโดย${1}%
 16107	Reduces Water damage taken by ${1}%.	ลดความเสียหายจากน้ำที่ได้รับโดย${1}%
 16108	Reduces Ghost damage taken by ${1}%.	ลดความเสียหายของ Ghost ที่ได้รับโดย${1}%
-16109	Click to add cards to the Collection	คลิกเพื่อเพิ่มการ์ดลงในคอลเลกชัน
-16110	This area has not been unlocked yet.	พื้นที่นี้ยังไม่ได้ปลดล็อค
-16111	You may enter up to ${1} characters.	คุณสามารถป้อนอักขระได้สูงสุด${1}
-16112	Learn prerequisite skill ${1} first.	เรียนรู้ทักษะเบื้องต้น${1}ก่อน
-16113	Open Friday from @{1}:@{2}~@{3}:@{4}	Open วันศุกร์ตั้งแต่@{1}:@{2}~@{3}:@{4}
-16114	Join a guild to chat in this channel	เข้าร่วมกิลด์เพื่อแชทในช่องนี้
-16115	Failed to send message to the server	ไม่สามารถส่งข้อความไปยังเซิร์ฟเวอร์
-16116	You haven't joined a mentorship yet!	คุณยังไม่ได้เข้าร่วมการให้คำปรึกษา!
+16109	Click to add cards to the Collection	Click to add cards to the Collection
+16110	This area has not been unlocked yet.	This area has not been unlocked yet.
+16111	You may enter up to ${1} characters.	You may enter up to ${1} characters.
+16112	Learn prerequisite skill ${1} first.	Learn prerequisite skill ${1} first.
+16113	Open Friday from @{1}:@{2}~@{3}:@{4}	Open Friday from @{1}:@{2}~@{3}:@{4}
+16114	Join a guild to chat in this channel	Join a guild to chat in this channel
+16115	Failed to send message to the server	Failed to send message to the server
+16116	You haven't joined a mentorship yet!	You haven't joined a mentorship yet!
 16117	Rock Puppet Type A - Chaotic Watcher	Rock Puppet Type A - Chaotic Watcher
 16118	Resource Management Department Staff	Resource Management Department Staff
 16119	Same-Color Collision Bubble NPC Left	Same-Color Collision Bubble NPC Left
 16120	Same-Color Collision Bubble NPC Down	Same-Color Collision Bubble NPC Down
-16121	Show Only Monsters with Purple Cards	แสดงเฉพาะมอนสเตอร์ที่มี Purple Cards
-16122	Unsold items have been sent by mail.	สินค้าที่ขายไม่ออกได้ส่งทางไปรษณีย์แล้ว
-16123	This item cannot be sold at a Stall.	สินค้าชิ้นนี้ไม่สามารถขายที่แผงลอยได้
-16124	Damage Reduction from Earth Monsters	การลดความเสียหายจากมอนสเตอร์ดิน
-16125	Damage Reduction from Water Monsters	การลดความเสียหายจากมอนสเตอร์น้ำ
-16126	Damage Reduction from Ghost Monsters	การลดความเสียหายจาก Ghost Monsters
-16127	Shield Bonus Received (Basis Points)	Shield Bonus ที่ได้รับ (คะแนนพื้นฐาน)
-16128	Guild application sent successfully.	เรียบร้อยแล้ว
-16129	No items available for Purchase Item	ไม่มีสินค้าสำหรับซื้อสินค้า
-16130	Visit the Monsterologist (@{1}/@{2})	เยี่ยมชมนักสัตว์ประหลาด (@{1}/@{2})
-16131	【Guild Co-op】Realm of the Gods Quest	【Guild Co-op】ภารกิจ Realm of the Gods
-16132	Guild Activities - Hunting Challenge	กิจกรรม Guild - ท้าทายการล่าสัตว์
-16133	[Adventure Party] Divine Realm Quest	[Adventure Party] ภารกิจอาณาจักรศักดิ์สิทธิ์
-16134	No Pet Shards available to dismantle	ไม่มีชิ้นส่วนสัตว์เลี้ยงให้ถอดออก
-16135	Swipe Through the Grass to Find Pets	ปัดผ่านหญ้าเพื่อค้นหาสัตว์เลี้ยง
-16136	You've reached today's search limit.	คุณถึงขีดจำกัดการค้นหาของวันนี้แล้ว
-16137	Unlock the Rapid Incubation Function	ปลดล็อกฟังก์ชันการฟักตัวอย่างรวดเร็ว
-16138	Craft high-Rarity equipment quickly.	ประดิษฐ์อุปกรณ์หายากสูงอย่างรวดเร็ว
-16139	Obtain a Red Card for the first time	ได้รับ Red Card เป็นครั้งแรก
+16121	Show Only Monsters with Purple Cards	Show Only Monsters with Purple Cards
+16122	Unsold items have been sent by mail.	Unsold items have been sent by mail.
+16123	This item cannot be sold at a Stall.	This item cannot be sold at a Stall.
+16124	Damage Reduction from Earth Monsters	Damage Reduction from Earth Monsters
+16125	Damage Reduction from Water Monsters	Damage Reduction from Water Monsters
+16126	Damage Reduction from Ghost Monsters	Damage Reduction from Ghost Monsters
+16127	Shield Bonus Received (Basis Points)	Shield Bonus Received (Basis Points)
+16128	Guild application sent successfully.	Guild application sent successfully.
+16129	No items available for Purchase Item	No items available for Purchase Item
+16130	Visit the Monsterologist (@{1}/@{2})	Visit the Monsterologist (@{1}/@{2})
+16131	【Guild Co-op】Realm of the Gods Quest	【Guild Co-op】Realm of the Gods Quest
+16132	Guild Activities - Hunting Challenge	Guild Activities - Hunting Challenge
+16133	[Adventure Party] Divine Realm Quest	[Adventure Party] Divine Realm Quest
+16134	No Pet Shards available to dismantle	No Pet Shards available to dismantle
+16135	Swipe Through the Grass to Find Pets	Swipe Through the Grass to Find Pets
+16136	You've reached today's search limit.	You've reached today's search limit.
+16137	Unlock the Rapid Incubation Function	Unlock the Rapid Incubation Function
+16138	Craft high-Rarity equipment quickly.	Craft high-Rarity equipment quickly.
+16139	Obtain a Red Card for the first time	Obtain a Red Card for the first time
 16140	Clear Floor @{1} of the Spirit Tower	พื้นใส@{1}ของ Spirit Tower
-16141	Defeat Isti in the Realm of the Gods	เอาชนะ Isti ใน Realm of the Gods
-16142	Defeat Ilmo in the Realm of the Gods	เอาชนะ Ilmo ใน Realm of the Gods
-16143	Reach Favor Lv. @{1} with any friend	บรรลุความโปรดปราน Lv.@{1}กับเพื่อนคนไหนก็ได้
-16144	Free the Professor from the ant egg.	ปล่อย Professor จากไข่มด
-16145	Open the treasure collected by Maya.	Open ขุมทรัพย์ที่ Maya รวบรวมไว้
-16146	Tap to claim the title quest reward.	แตะเพื่อรับรางวัลภารกิจฉายา
-16147	Tap here to view the detailed rules.	แตะที่นี่เพื่อดูกฎโดยละเอียด
-16148	Defend the gate until time runs out.	ป้องกันประตูจนกว่าเวลาจะหมด
-16149	The time has come. Begin the ritual.	ถึงเวลาแล้วเริ่มพิธีกรรม.
-16150	Guild name changed from ${1} to ${2}	ชื่อ Guild เปลี่ยนจาก${1}เป็น${2}
-16151	Safe travels, and return victorious!	เดินทางปลอดภัย และกลับมามีชัย!
-16152	Appear! Please, hurry up and appear!	ปรากฏตัว! กรุณารีบปรากฏตัว!
-16153	But it's all worth it for Shilude...	แต่ก็คุ้มนะสำหรับ Shilude...
-16154	No idea how she's been doing Recent.	ไม่รู้ว่าเธอเป็นยังไงบ้าง ล่าสุด.
-16155	Hey, rookie! Here to take a request?	เฮ้ มือใหม่! นี่จะขอเหรอ?
-16156	I want to create an Adventurer Guild	ฉันต้องการสร้าง GuildAdventurer
-16157	Would you like to leave the Academy?	คุณอยากจะออกจาก Academy หรือไม่?
-16158	These woods are perfect for hunting.	ไม้เหล่านี้เหมาะสำหรับการล่าสัตว์
-16159	This mission is sure to go smoothly!	ภารกิจนี้ราบรื่นแน่นอน!
-16160	Take her hand (Click to dance again)	จับมือเธอ (คลิกเต้นอีกครั้ง)
-16161	Calm down and tell me what happened.	ใจเย็นๆ แล้วบอกฉันว่าเกิดอะไรขึ้น
-16162	Purchase Standard + Premium Together	ซื้อ Standard + Premium ร่วมกัน
-16163	Waiting for the Guild Leader to Open	กำลังรอหัวหน้า GuildOpen
-16164	Select the class you want to replace	เลือกคลาสที่คุณต้องการแทนที่
-16165	The strings are beginning to vibrate	สตริงเริ่มสั่น
-16166	A stone monument has been activated!	อนุสาวรีย์หินถูกเปิดใช้งานแล้ว!
-16167	The BOSS will spawn in ${1} seconds!	บอสจะเกิดใน${1}วินาที!
-16168	^{1}${2}^{2} eliminated ^{3}${4}^{4}	^{1}${2}^{2}ตัดออก ^{3}${4}^{4}
-16169	Bombard the puppets with cannon fire	ยิงปืนใหญ่ใส่หุ่นเชิด
-16170	Mock Battle has begun. Go there now?	Mock Battle ได้เริ่มขึ้นแล้ว ไปที่นั่นตอนนี้เหรอ?
-16171	Bobo\nWhoa! Watch out for its claws!	โบโบ\n อ้าว! ระวังกรงเล็บของมัน!
-16172	Bobo\nQuick, hide behind the pillar!	Bobo\n เร็วเข้า ซ่อนหลังเสา!
-16173	Bobo\nWe're rich! What a haul! Hehe!	Bobo\n เรารวย! ช่างลากอะไร! อิอิ!
-16174	Bobo\nGot it! Let's get out of here~	Bobo\n ได้เลย! ออกไปจากที่นี่กันเถอะ~
-16175	Tsk, tsk. It's only the first round.	จุ๊ จุ๊นี่แค่รอบแรกเท่านั้น
-16176	Follow Me. See that door over there?	ติดตามฉันมาเห็นประตูนั่นไหม?
-16177	Quest not unlocked. Unable to claim.	ภารกิจไม่ได้ปลดล็อค ไม่สามารถเรียกร้องได้
-16178	Are you sure you want to spend ${1}?	คุณแน่ใจหรือไม่ว่าต้องการใช้จ่าย${1}
-16179	Local Server League Screen Help Text	ค้นหา
-16180	You are not on the Main Battlefield.	คุณไม่ได้อยู่ในสนามรบหลัก
-16181	On cooldown. Please try again later.	เมื่อคูลดาวน์โปรดลองอีกครั้งในภายหลัง
+16141	Defeat Isti in the Realm of the Gods	Defeat Isti in the Realm of the Gods
+16142	Defeat Ilmo in the Realm of the Gods	Defeat Ilmo in the Realm of the Gods
+16143	Reach Favor Lv. @{1} with any friend	Reach Favor Lv. @{1} with any friend
+16144	Free the Professor from the ant egg.	Free the Professor from the ant egg.
+16145	Open the treasure collected by Maya.	Open the treasure collected by Maya.
+16146	Tap to claim the title quest reward.	Tap to claim the title quest reward.
+16147	Tap here to view the detailed rules.	Tap here to view the detailed rules.
+16148	Defend the gate until time runs out.	Defend the gate until time runs out.
+16149	The time has come. Begin the ritual.	The time has come. Begin the ritual.
+16150	Guild name changed from ${1} to ${2}	Guild name changed from ${1} to ${2}
+16151	Safe travels, and return victorious!	Safe travels, and return victorious!
+16152	Appear! Please, hurry up and appear!	Appear! Please, hurry up and appear!
+16153	But it's all worth it for Shilude...	But it's all worth it for Shilude...
+16154	No idea how she's been doing Recent.	No idea how she's been doing Recent.
+16155	Hey, rookie! Here to take a request?	Hey, rookie! Here to take a request?
+16156	I want to create an Adventurer Guild	I want to create an Adventurer Guild
+16157	Would you like to leave the Academy?	Would you like to leave the Academy?
+16158	These woods are perfect for hunting.	These woods are perfect for hunting.
+16159	This mission is sure to go smoothly!	This mission is sure to go smoothly!
+16160	Take her hand (Click to dance again)	Take her hand (Click to dance again)
+16161	Calm down and tell me what happened.	Calm down and tell me what happened.
+16162	Purchase Standard + Premium Together	Purchase Standard + Premium Together
+16163	Waiting for the Guild Leader to Open	Waiting for the Guild Leader to Open
+16164	Select the class you want to replace	Select the class you want to replace
+16165	The strings are beginning to vibrate	The strings are beginning to vibrate
+16166	A stone monument has been activated!	A stone monument has been activated!
+16167	The BOSS will spawn in ${1} seconds!	The BOSS will spawn in ${1} seconds!
+16168	^{1}${2}^{2} eliminated ^{3}${4}^{4}	^{1}${2}^{2} eliminated ^{3}${4}^{4}
+16169	Bombard the puppets with cannon fire	Bombard the puppets with cannon fire
+16170	Mock Battle has begun. Go there now?	Mock Battle has begun. Go there now?
+16171	Bobo\nWhoa! Watch out for its claws!	Bobo\nWhoa! Watch out for its claws!
+16172	Bobo\nQuick, hide behind the pillar!	Bobo\nQuick, hide behind the pillar!
+16173	Bobo\nWe're rich! What a haul! Hehe!	Bobo\nWe're rich! What a haul! Hehe!
+16174	Bobo\nGot it! Let's get out of here~	Bobo\nGot it! Let's get out of here~
+16175	Tsk, tsk. It's only the first round.	Tsk, tsk. It's only the first round.
+16176	Follow Me. See that door over there?	Follow Me. See that door over there?
+16177	Quest not unlocked. Unable to claim.	Quest not unlocked. Unable to claim.
+16178	Are you sure you want to spend ${1}?	Are you sure you want to spend ${1}?
+16179	Local Server League Screen Help Text	Local Server League Screen Help Text
+16180	You are not on the Main Battlefield.	You are not on the Main Battlefield.
+16181	On cooldown. Please try again later.	On cooldown. Please try again later.
 16182	Combat NPC Turret Cast Skill (Shell)	Combat NPC Turret Cast Skill (Shell)
-16183	Mass Territory War: Royal City Siege	สงครามดินแดนมวลชน: ล้อมเมืองหลวง
+16183	Mass Territory War: Royal City Siege	Mass Territory War: Royal City Siege
 16184	Open a total of @{1} treasure chests	Open หีบสมบัติ@{1}ทั้งหมด
-16185	Description of the Alliance Ballista	คำอธิบายของ Alliance Ballista
+16185	Description of the Alliance Ballista	Description of the Alliance Ballista
 16186	A gemstone that emits a purple glow.	อัญมณีที่เปล่งแสงสีม่วงออกมา
 16187	Material used to Craft an Accessory.	วัสดุที่ใช้สร้างเครื่องประดับ
-16188	Pet has not reached the maximum rank	สัตว์เลี้ยงยังไม่ถึงระดับสูงสุด
-16189	Pet Level too low. Requires Lv. @{1}	ระดับสัตว์เลี้ยงต่ำเกินไปต้องมีเลเวล@{1}
+16188	Pet has not reached the maximum rank	Pet has not reached the maximum rank
+16189	Pet Level too low. Requires Lv. @{1}	Pet Level too low. Requires Lv. @{1}
 16190	A luxurious ring set with a diamond.	แหวนหรูหราประดับเพชร
 16191	A ring imbued with mysterious magic.	แหวนที่เต็มไปด้วยเวทมนตร์ลึกลับ
 16192	An extremely large and heavy shield.	โล่ที่ใหญ่และหนักมาก
 16193	A one-handed Spear used by infantry.	Spear มือเดียวที่ทหารราบใช้
 16194	TBD: A widely used one-handed Spear.	TBD: Spear มือเดียวที่ใช้กันอย่างแพร่หลาย
 16195	A dagger with a gently curved blade.	กริชที่มีใบมีดโค้งเล็กน้อย
-16196	Unlocks when Base Level reaches ${1}	ปลดล็อคเมื่อระดับพื้นฐานถึง${1}
+16196	Unlocks when Base Level reaches ${1}	Unlocks when Base Level reaches ${1}
 16197	Secret History of Prontera@{1}: @{2}	Secret History of Prontera@{1}: @{2}
-16198	Discover the Forgotten Treasure Room	ค้นพบห้องสมบัติที่ถูกลืม
-16199	Obtain from the Growth Support event	รับจากกิจกรรมสนับสนุนการเติบโต
-16200	Regional Capital War (Auction Check)	สงครามทุนภูมิภาค (ตรวจสอบการประมูล)
+16198	Discover the Forgotten Treasure Room	Discover the Forgotten Treasure Room
+16199	Obtain from the Growth Support event	Obtain from the Growth Support event
+16200	Regional Capital War (Auction Check)	Regional Capital War (Auction Check)
 16201	God of War Scroll · Accessory-Orange	God of War Scroll · Accessory-Orange
 16202	God of War Scroll · Accessory-Purple	God of War Scroll · Accessory-Purple
 16203	Siegebreaker Scroll · Accessory-Blue	Siegebreaker Scroll · Accessory-Blue
@@ -212,68 +212,68 @@
 16211	Eagle Eye Scroll · Dual Wield - Blue	Eagle Eye Scroll · Dual Wield - Blue
 16212	Life Percentage · Dual Wield - Green	Life Percentage · Dual Wield - Green
 16213	Mountain Scroll · Dual Wield - Green	Mountain Scroll · Dual Wield - Green
-16214	Must claim Tower Climb sweep rewards	ต้องรับรางวัลกวาด Tower Climb
-16215	Not enough MINI event participations	การเข้าร่วมกิจกรรม MINI ไม่เพียงพอ
-16216	Not enough active days in the Tavern	จำนวนวันใช้งานใน Tavern ไม่เพียงพอ
-16217	Play While Downloading not completed	เล่นขณะดาวน์โหลดไม่เสร็จสมบูรณ์
-16218	Item consumption requirement not met	ไม่เป็นไปตามข้อกำหนดการใช้รายการ
-16219	Not enough Guild Members on the team	สมาชิก Guild ในทีมไม่เพียงพอ
-16220	Not enough Appearance types unlocked	ปลดล็อคประเภทลักษณะที่ปรากฏไม่เพียงพอ
-16221	Enter Dungeon once everyone is ready	เข้าสู่ดันเจี้ยนเมื่อทุกคนพร้อม
-16222	Alberta Southern Capital - Base @{1}	Alberta เซาเทิร์นแคปิตอล - ฐาน@{1}
-16223	Collector Cards Collected: ${1}/${2}	ที่รวบรวมได้:${1}/${2}
+16214	Must claim Tower Climb sweep rewards	Must claim Tower Climb sweep rewards
+16215	Not enough MINI event participations	Not enough MINI event participations
+16216	Not enough active days in the Tavern	Not enough active days in the Tavern
+16217	Play While Downloading not completed	Play While Downloading not completed
+16218	Item consumption requirement not met	Item consumption requirement not met
+16219	Not enough Guild Members on the team	Not enough Guild Members on the team
+16220	Not enough Appearance types unlocked	Not enough Appearance types unlocked
+16221	Enter Dungeon once everyone is ready	Enter Dungeon once everyone is ready
+16222	Alberta Southern Capital - Base @{1}	Alberta Southern Capital - Base @{1}
+16223	Collector Cards Collected: ${1}/${2}	Collector Cards Collected: ${1}/${2}
 16224	Divine Light/Sanctuary [Buff Effect]	Divine Light/Sanctuary [Buff Effect]
 16225	Basilica [Cast Completion Detection]	Basilica [Cast Completion Detection]
-16226	Crazy Uproar - Mind and Body Renewal	Crazy Uproar - การฟื้นฟูจิตใจและร่างกาย
-16227	High Speed Cart Ram Replacement Mode	โหมดการเปลี่ยน Ram รถเข็นความเร็วสูง
-16228	Season Vulcan Cannon CRIT Boost Buff	บัฟ Vulcan Cannon CRIT ฤดูกาล
-16229	S@{1} Vulcan Cannon Mode Replacement	S@{1}การเปลี่ยนโหมด Cannon วัลแคน
-16230	S@{1} High-Energy Impact Mode Switch	S@{1}สวิตช์โหมดแรงกระแทกพลังงานสูง
-16231	Spear Mastery Increased Physical ATK	Spear Mastery เพิ่มพลังโจมตีทางกายภาพ
-16232	Transform into a Blue Note underfoot	แปลงร่างเป็น Blue Note ใต้ฝ่าเท้า
-16233	Little Note Counterclockwise Skill 2	หมายเหตุเล็กๆ น้อยๆ ทักษะทวนเข็มนาฬิกา 2
-16234	Little Note Counterclockwise Skill 3	หมายเหตุเล็กๆ น้อยๆ ทักษะทวนเข็มนาฬิกา 3
-16235	Skill and Misc cast bar display area	พื้นที่แสดงแถบร่ายทักษะและเบ็ดเตล็ด
-16236	MVP Skill Reset After Leaving Combat	รีเซ็ตทักษะ MVP หลังจากออกจากการต่อสู้
-16237	Transform: Poring Cannot Be Attacked	: ไม่สามารถโจมตี Poring ได้
-16238	Yellow Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอ Yellow Bubble
-16239	Advanced Hundred Spear Counter S@{1}	เครื่องนับ Spear ขั้นสูง S@{1}
-16240	Assassin Talent Placeholder@{1}-@{2}	Placeholder นักฆ่าผู้มีพรสวรรค์@{1}-@{2}
-16241	Complete Cat Hand Caravan ${1} times	คาราวานมือ Cat ครบชุด${1}ครั้ง
-16242	Participate in GVE events ${1} times	เข้าร่วมกิจกรรม GVE${1}ครั้ง
-16243	Participate in MVP events ${1} times	เข้าร่วมกิจกรรม MVP${1}ครั้ง
-16244	Hunting Challenge - No Report Notice	ความท้าทายในการล่าสัตว์ - ไม่มีการแจ้งเตือนรายงาน
-16245	Dual-Front Offense and Defense Guide	คู่มือการโจมตีและป้องกันสองหน้า
-16246	Achievement reward has been received	ได้รับรางวัลความสำเร็จแล้ว
-16247	Muted. Unable to use the microphone.	ปิดเสียงไม่สามารถใช้ไมโครโฟนได้
-16248	The Adventurer Group does not exist.	ไม่มีกลุ่ม Adventurer
-16249	Insufficient Guild Auction Supplies.	อุปกรณ์การประมูล Guild ไม่เพียงพอ
-16250	The guild is not currently escorting	กิลด์ไม่ได้คุ้มกันในขณะนี้
-16251	A party member canceled matchmaking.	สมาชิกปาร์ตี้ยกเลิกการจับคู่
-16252	You cannot Revive others while dead.	คุณไม่สามารถชุบชีวิตผู้อื่นในขณะที่ตายไปแล้วได้
-16253	This Function has not been unlocked.	ฟังก์ชันนี้ยังไม่ได้ปลดล็อค
-16254	Hundredfold Tempering - Power Strike	การแบ่งเบาบรรเทาร้อยเท่า - Power Strike
-16255	Clear Floor ${1} of the Spirit Tower	พื้นใส${1}ของ Spirit Tower
-16256	Challenge opens on ${1}/${2} at ${3}	Challenge เปิดบน${1}/${2}ที่${3}
-16257	This item is temporarily unavailable	สินค้านี้ไม่สามารถใช้ได้ชั่วคราว
-16258	Instance matchmaking Parameter error	ข้อผิดพลาดของพารามิเตอร์การจับคู่อินสแตนซ์
-16259	The instance teleport skill is full.	ทักษะการเทเลพอร์ตอินสแตนซ์เต็มแล้ว
-16260	Already collected by another player.	รวบรวมโดยผู้เล่นอื่นแล้ว
+16226	Crazy Uproar - Mind and Body Renewal	Crazy Uproar - Mind and Body Renewal
+16227	High Speed Cart Ram Replacement Mode	High Speed Cart Ram Replacement Mode
+16228	Season Vulcan Cannon CRIT Boost Buff	Season Vulcan Cannon CRIT Boost Buff
+16229	S@{1} Vulcan Cannon Mode Replacement	S@{1} Vulcan Cannon Mode Replacement
+16230	S@{1} High-Energy Impact Mode Switch	S@{1} High-Energy Impact Mode Switch
+16231	Spear Mastery Increased Physical ATK	Spear Mastery Increased Physical ATK
+16232	Transform into a Blue Note underfoot	Transform into a Blue Note underfoot
+16233	Little Note Counterclockwise Skill 2	Little Note Counterclockwise Skill 2
+16234	Little Note Counterclockwise Skill 3	Little Note Counterclockwise Skill 3
+16235	Skill and Misc cast bar display area	Skill and Misc cast bar display area
+16236	MVP Skill Reset After Leaving Combat	MVP Skill Reset After Leaving Combat
+16237	Transform: Poring Cannot Be Attacked	Transform: Poring Cannot Be Attacked
+16238	Yellow Bubble Screen Tracking Effect	Yellow Bubble Screen Tracking Effect
+16239	Advanced Hundred Spear Counter S@{1}	Advanced Hundred Spear Counter S@{1}
+16240	Assassin Talent Placeholder@{1}-@{2}	Assassin Talent Placeholder@{1}-@{2}
+16241	Complete Cat Hand Caravan ${1} times	Complete Cat Hand Caravan ${1} times
+16242	Participate in GVE events ${1} times	Participate in GVE events ${1} times
+16243	Participate in MVP events ${1} times	Participate in MVP events ${1} times
+16244	Hunting Challenge - No Report Notice	Hunting Challenge - No Report Notice
+16245	Dual-Front Offense and Defense Guide	Dual-Front Offense and Defense Guide
+16246	Achievement reward has been received	Achievement reward has been received
+16247	Muted. Unable to use the microphone.	Muted. Unable to use the microphone.
+16248	The Adventurer Group does not exist.	The Adventurer Group does not exist.
+16249	Insufficient Guild Auction Supplies.	Insufficient Guild Auction Supplies.
+16250	The guild is not currently escorting	The guild is not currently escorting
+16251	A party member canceled matchmaking.	A party member canceled matchmaking.
+16252	You cannot Revive others while dead.	You cannot Revive others while dead.
+16253	This Function has not been unlocked.	This Function has not been unlocked.
+16254	Hundredfold Tempering - Power Strike	Hundredfold Tempering - Power Strike
+16255	Clear Floor ${1} of the Spirit Tower	Clear Floor ${1} of the Spirit Tower
+16256	Challenge opens on ${1}/${2} at ${3}	Challenge opens on ${1}/${2} at ${3}
+16257	This item is temporarily unavailable	This item is temporarily unavailable
+16258	Instance matchmaking Parameter error	Instance matchmaking Parameter error
+16259	The instance teleport skill is full.	The instance teleport skill is full.
+16260	Already collected by another player.	Already collected by another player.
 16261	Use to leap back onto the city wall.	ใช้กระโดดกลับเข้ากำแพงเมือง
 16262	Use to leap down from the city wall.	ใช้กระโดดลงมาจากกำแพงเมือง
 16263	Feed the Deniro Fluorescent Supplies	ป้อนวัสดุฟลูออเรสเซนต์ Deniro
 16264	Locate Orc Lord and use Auto Counter	Locate Orc Lord และใช้ Auto Counter
 16265	Immobilizes the target for @{1} sec.	ตรึงเป้าหมายเป็นเวลา@{1}วินาที
-16266	You have already provided assistance	คุณได้ให้ความช่วยเหลือแล้ว
-16267	Invalid number of pets for the tower	จำนวนสัตว์เลี้ยงสำหรับหอคอยไม่ถูกต้อง
+16266	You have already provided assistance	You have already provided assistance
+16267	Invalid number of pets for the tower	Invalid number of pets for the tower
 16268	Return Rate <size=#36>${1}</size>  %	Return Rate <size=#36>${1}</size>  %
 16269	Gift to: <color=#ff993f>${1}</color>	Gift to: <color=#ff993f>${1}</color>
-16270	Repeat participation in impeachment.	มีส่วนร่วมในการฟ้องร้องซ้ำ
-16271	The guild is in the response period.	กิลด์อยู่ในช่วงตอบรับ
-16272	Mail title contains sensitive words.	ชื่อเมลมีคำที่ละเอียดอ่อน
-16273	Drag outside the Backpack to discard	ลากออกไปด้านนอกกระเป๋าเป้สะพายหลังเพื่อทิ้ง
-16274	The rescue target has been defeated.	เป้าหมายการช่วยเหลือพ่ายแพ้แล้ว
-16275	Using an ID Tag to Revive a teammate	การใช้แท็ก ID เพื่อชุบชีวิตเพื่อนร่วมทีม
+16270	Repeat participation in impeachment.	Repeat participation in impeachment.
+16271	The guild is in the response period.	The guild is in the response period.
+16272	Mail title contains sensitive words.	Mail title contains sensitive words.
+16273	Drag outside the Backpack to discard	Drag outside the Backpack to discard
+16274	The rescue target has been defeated.	The rescue target has been defeated.
+16275	Using an ID Tag to Revive a teammate	Using an ID Tag to Revive a teammate
 16276	Increases your damage dealt by @{1}%	เพิ่มความเสียหายที่คุณทำได้@{1}%
 16277	Transform: Poring cannot be attacked	: ไม่สามารถโจมตี Poring ได้
 16278	<color=#97E553> ${1} </color>Expired	<color=#97E553> ${1} </color>Expired
@@ -283,20 +283,20 @@
 16282	Increases Magic ATK by ^{1}${1}^{2}.	เพิ่มพลังโจมตีเวทย์โดย ^{1}${1}^{2}
 16283	Increases Wind damage taken by @{1}%	เพิ่มความเสียหายจากลมที่ได้รับโดย@{1}%
 16284	Increases Fire damage taken by @{1}%	เพิ่มความเสียหายทางไฟที่ได้รับโดย@{1}%
-16285	Baby Desert Wolf Reward Boost Lv@{1}	รางวัลบูสต์ Baby Desert Wolf Lv@{1}
+16285	Baby Desert Wolf Reward Boost Lv@{1}	Baby Desert Wolf Reward Boost Lv@{1}
 16286	Archer Skeleton Normal Attack-Undead	Archer Skeleton Normal Attack-Undead
-16287	Not enough items. Unable to refresh!	รายการไม่เพียงพอไม่สามารถรีเฟรชได้!
-16288	Not enough Vivify. Unable to gather!	Vivify ไม่เพียงพอรวบรวมไม่ได้!
-16289	The koi you bet on took first place!	ปลาคราฟที่คุณเดิมพันเกิดขึ้นที่หนึ่ง!
-16290	Hunting Challenge - Preparation Phase	ความท้าทายในการล่าสัตว์ - ขั้นตอนการเตรียมการ
+16287	Not enough items. Unable to refresh!	Not enough items. Unable to refresh!
+16288	Not enough Vivify. Unable to gather!	Not enough Vivify. Unable to gather!
+16289	The koi you bet on took first place!	The koi you bet on took first place!
+16290	Hunting Challenge - Preparation Phase	Hunting Challenge - Preparation Phase
 16291	World-Scorching Feather · Golden Crow	World-Scorching Feather · Golden Crow
-16292	Damage Reduction from Wind Monsters %	การลดความเสียหายจากมอนสเตอร์ลม %
-16293	Damage Reduction from Fire Monsters %	การลดความเสียหายจากมอนสเตอร์ไฟ %
-16294	Damage Reduction from Holy Monsters %	การลดความเสียหายจากมอนสเตอร์ศักดิ์สิทธิ์ %
-16295	Damage Reduction from Formless Race %	การลดความเสียหายจากการแข่งขันที่ไม่มีรูปแบบ %
-16296	Damage Reduction from BOSS Monsters %	การลดความเสียหายจากมอนสเตอร์ BOSS %
-16297	^{1}Tranquil Dragon Coffin Island^{2}	^{1}เกาะโลงศพมังกรอันเงียบสงบ^{2}
-16298	Cannot exchange items during preview.	ไม่สามารถแลกเปลี่ยนรายการระหว่างการแสดงตัวอย่าง
+16292	Damage Reduction from Wind Monsters %	Damage Reduction from Wind Monsters %
+16293	Damage Reduction from Fire Monsters %	Damage Reduction from Fire Monsters %
+16294	Damage Reduction from Holy Monsters %	Damage Reduction from Holy Monsters %
+16295	Damage Reduction from Formless Race %	Damage Reduction from Formless Race %
+16296	Damage Reduction from BOSS Monsters %	Damage Reduction from BOSS Monsters %
+16297	^{1}Tranquil Dragon Coffin Island^{2}	^{1}Tranquil Dragon Coffin Island^{2}
+16298	Cannot exchange items during preview.	Cannot exchange items during preview.
 16299	Activate @{1} Season Refinement slots	เปิดใช้งานสล็อต@{1}Season Refinement
 16300	Socket @{2} Tier @{1} or higher cards	การ์ด@{2}เทียร์@{1}หรือสูงกว่า
 16301	Say hello to the Young Man for Dumby.	ทักทาย Young Man เพื่อดัมบี้
@@ -309,16 +309,16 @@
 16308	Defeat Mistress on Normal in a party.	เอาชนะ Mistress ในระดับ Normal ในปาร์ตี้
 16309	Something unexpected suddenly happens	มีบางอย่างที่ไม่คาดคิดเกิดขึ้น
 16310	Ask around about the situation nearby	สอบถามสถานการณ์บริเวณใกล้เคียง
-16311	Increases your magic recovery by ${1}	เพิ่มการฟื้นฟูเวทมนตร์ของคุณโดย${1}
-16312	Affects your Chance of being Silenced	ส่งผลต่อโอกาสที่คุณจะติดใบ้
-16313	Affects your Chance to inflict Freeze	ส่งผลต่อโอกาสที่คุณจะติดสถานะแช่แข็ง
-16314	Join the Adventurers and defeat Eddga	เข้าร่วม Adventurers และเอาชนะ Eddga
-16315	Rescue the Professor from the ant egg	ช่วย Professor จากไข่มด
-16316	Complete the opening dance with Luna.	เต้นเปิดเพลงกับ Luna
-16317	Beginner Challenge Event End Reminder	การแจ้งเตือนการสิ้นสุดกิจกรรมการท้าทายระดับเริ่มต้น
-16318	Pre-Season Warm-Up Event Wish Rewards	รางวัลกิจกรรมอุ่นเครื่องก่อนเปิดฤดูกาล
-16319	Festival Invitation Place Bet Rewards	เทศกาลเชิญ วางเดิมพันรางวัล
-16320	Evil Boss Barrels Rolling Attack Buff	บอสชั่วร้ายบาร์เรลบัฟการโจมตีแบบกลิ้ง
+16311	Increases your magic recovery by ${1}	Increases your magic recovery by ${1}
+16312	Affects your Chance of being Silenced	Affects your Chance of being Silenced
+16313	Affects your Chance to inflict Freeze	Affects your Chance to inflict Freeze
+16314	Join the Adventurers and defeat Eddga	Join the Adventurers and defeat Eddga
+16315	Rescue the Professor from the ant egg	Rescue the Professor from the ant egg
+16316	Complete the opening dance with Luna.	Complete the opening dance with Luna.
+16317	Beginner Challenge Event End Reminder	Beginner Challenge Event End Reminder
+16318	Pre-Season Warm-Up Event Wish Rewards	Pre-Season Warm-Up Event Wish Rewards
+16319	Festival Invitation Place Bet Rewards	Festival Invitation Place Bet Rewards
+16320	Evil Boss Barrels Rolling Attack Buff	Evil Boss Barrels Rolling Attack Buff
 16321	<color=#97e533>${1}</color> Remaining	<color=#97e533>${1}</color> Remaining
 16322	<color=#00FF2E>Leaving Combat</color>	<color=#00FF2E>Leaving Combat</color>
 16323	Defeat Willows and collect Tree Bark*	กำจัดต้นหลิวและรวบรวม Tree Bark*
@@ -326,30 +326,30 @@
 16325	Move forward and assess the situation	เดินหน้าและประเมินสถานการณ์
 16326	Talk to the familiar Woman before you	คุยกับ Woman ที่คุ้นเคยตรงหน้าคุณ
 16327	Increases allies' MP recovery by @{1}	เพิ่มการฟื้นฟู MP ของพันธมิตรโดย@{1}
-16328	I'm so happy I could spin in circles!	ฉันมีความสุขมากที่ได้หมุนเป็นวงกลม!
-16329	Weekly Rewards Claim Count: ${1}/${2}	จำนวนการรับรางวัลรายสัปดาห์:${1}/${2}
-16330	Tap the map to start auto-navigation.	แตะแผนที่เพื่อเริ่มการนำทางอัตโนมัติ
-16331	Do not remind again during this login	อย่าเตือนอีกครั้งระหว่างการเข้าสู่ระบบนี้
-16332	Realm of the Gods · Flawless Speedrun	Realm of the Gods · Speedrun ไร้ที่ติ
-16333	You received new mail. Check it soon.	คุณได้รับจดหมายใหม่โปรดตรวจสอบเร็วๆ นี้
-16334	Today's data is updated daily at 5:00	ข้อมูลวันนี้อัพเดททุกวัน เวลา 05:00 น
-16335	Season Exploration Event (Deprecated)	กิจกรรมสำรวจฤดูกาล (เลิกใช้งาน)
-16336	This item is temporarily unavailable.	สินค้านี้ไม่สามารถใช้ได้ชั่วคราว
-16337	No friends available to receive gifts	ไม่มีเพื่อนที่พร้อมรับของขวัญ
-16338	Maximum number of Group Chats reached	ถึงจำนวนการแชทกลุ่มสูงสุดแล้ว
-16339	You cannot view your own information.	คุณไม่สามารถดูข้อมูลของคุณเองได้
-16340	${1} marked ${3} with the number ${2}	${1}ทำเครื่องหมาย${3}ด้วยหมายเลข${2}
-16341	You have been removed from the party.	คุณถูกลบออกจากปาร์ตี้แล้ว
-16342	${1} has invited you to join a Party.	${1}ขอเชิญคุณเข้าร่วมปาร์ตี้
-16343	The target is too far away to target.	เป้าหมายอยู่ไกลเกินเป้าหมาย
-16344	Unable to retrieve player information	ไม่สามารถดึงข้อมูลผู้เล่นได้
-16345	${1} transferred Party Leader to ${2}	${1}ย้าย Party Leader ไปที่${2}
-16346	Use Play While Downloading ${1} times	ใช้การเล่นขณะดาวน์โหลด${1}ครั้ง
-16347	Equip ${1} pieces of gear with Stunts	ติดตั้งชิ้นส่วนเกียร์${1}พร้อม Stunts
+16328	I'm so happy I could spin in circles!	I'm so happy I could spin in circles!
+16329	Weekly Rewards Claim Count: ${1}/${2}	Weekly Rewards Claim Count: ${1}/${2}
+16330	Tap the map to start auto-navigation.	Tap the map to start auto-navigation.
+16331	Do not remind again during this login	Do not remind again during this login
+16332	Realm of the Gods · Flawless Speedrun	Realm of the Gods · Flawless Speedrun
+16333	You received new mail. Check it soon.	You received new mail. Check it soon.
+16334	Today's data is updated daily at 5:00	Today's data is updated daily at 5:00
+16335	Season Exploration Event (Deprecated)	Season Exploration Event (Deprecated)
+16336	This item is temporarily unavailable.	This item is temporarily unavailable.
+16337	No friends available to receive gifts	No friends available to receive gifts
+16338	Maximum number of Group Chats reached	Maximum number of Group Chats reached
+16339	You cannot view your own information.	You cannot view your own information.
+16340	${1} marked ${3} with the number ${2}	${1} marked ${3} with the number ${2}
+16341	You have been removed from the party.	You have been removed from the party.
+16342	${1} has invited you to join a Party.	${1} has invited you to join a Party.
+16343	The target is too far away to target.	The target is too far away to target.
+16344	Unable to retrieve player information	Unable to retrieve player information
+16345	${1} transferred Party Leader to ${2}	${1} transferred Party Leader to ${2}
+16346	Use Play While Downloading ${1} times	Use Play While Downloading ${1} times
+16347	Equip ${1} pieces of gear with Stunts	Equip ${1} pieces of gear with Stunts
 16348	"Unit Price: <sprite name=""${1}""> ${2}"	"Unit Price: <sprite name=""${1}""> ${2}"
-16349	Pet Protection: Actual Effect Trigger	การป้องกันสัตว์เลี้ยง: ทริกเกอร์เอฟเฟกต์จริง
-16350	Corresponding Appearance not unlocked	ลักษณะที่ปรากฏที่สอดคล้องกันไม่ได้ปลดล็อค
-16351	No Connect Bond with any party Member	ไม่มีพันธะเชื่อมต่อกับสมาชิกฝ่ายใด ๆ
+16349	Pet Protection: Actual Effect Trigger	Pet Protection: Actual Effect Trigger
+16350	Corresponding Appearance not unlocked	Corresponding Appearance not unlocked
+16351	No Connect Bond with any party Member	No Connect Bond with any party Member
 16352	This unit continuously restores Life.	ยูนิตนี้จะฟื้นฟูพลัง Life อย่างต่อเนื่อง
 16353	Reduces Physical ATK and DEF by ${1}%	ลด ATK และ DEF กายภาพลง${1}%
 16354	Changes your armor's element to Holy.	เปลี่ยนองค์ประกอบของชุดเกราะของคุณเป็นศักดิ์สิทธิ์
@@ -357,7 +357,7 @@
 16356	Immune to crowd control and knockback	ภูมิคุ้มกันต่อการควบคุมฝูงชนและการกระเด็นกลับ
 16357	The Madogear Pilot is being repaired.	Madogear Pilot กำลังได้รับการซ่อมแซม
 16358	Damage Reduction and Damage Increase.	การลดความเสียหายและเพิ่มความเสียหาย
-16359	Press 【BackSpace】 to clear a shortcut	กด 【BackSpace】 เพื่อล้างทางลัด
+16359	Press 【BackSpace】 to clear a shortcut	Press 【BackSpace】 to clear a shortcut
 16360	Golden Thief Bug Normal Attack - Fire	Golden Thief Bug Normal Attack - Fire
 16361	Skill@{1}Spinning Bagpipe Sound Blade	Skill@{1}Spinning Bagpipe Sound Blade
 16362	Skill@{1}Lute Rectangle Clone Monster	Skill@{1}Lute Rectangle Clone Monster
@@ -373,97 +373,97 @@
 16372	Reduces Poison damage taken by ${1}%.	ลดความเสียหายจากพิษที่ได้รับโดย${1}%
 16373	Reduces Shadow damage taken by ${1}%.	ลดความเสียหายจากเงาที่ได้รับโดย${1}%
 16374	Reduces Undead damage taken by ${1}%.	ลดความเสียหายของ Undead ที่ได้รับโดย${1}%
-16375	Rewards for adding Advanced Live Coal	สำหรับการเพิ่ม Advanced Live Coal
-16376	This channel is full. Unable to join.	ช่องนี้เต็มครับไม่สามารถเข้าร่วมได้
-16377	Points cannot be reset during combat.	คะแนนไม่สามารถรีเซ็ตได้ระหว่างการต่อสู้
-16378	Drag skills into slots to equip them.	ลากทักษะลงในช่องเพื่อสวมใส่
-16379	Reduces ${1} Resonance damage by ${2}	ลดความเสียหายของเรโซแนนซ์${1}โดย${2}
-16380	Open Tuesday from @{1}:@{2}~@{3}:@{4}	Open วันอังคาร ตั้งแต่@{1}:@{2}~@{3}:@{4}
+16375	Rewards for adding Advanced Live Coal	Rewards for adding Advanced Live Coal
+16376	This channel is full. Unable to join.	This channel is full. Unable to join.
+16377	Points cannot be reset during combat.	Points cannot be reset during combat.
+16378	Drag skills into slots to equip them.	Drag skills into slots to equip them.
+16379	Reduces ${1} Resonance damage by ${2}	Reduces ${1} Resonance damage by ${2}
+16380	Open Tuesday from @{1}:@{2}~@{3}:@{4}	Open Tuesday from @{1}:@{2}~@{3}:@{4}
 16381	Clue Treasure Map: Small Wooden Table	Clue Treasure Map: Small Wooden Table
 16382	Vessel Protector (Cannot Be Attacked)	Vessel Protector (Cannot Be Attacked)
 16383	Sand Puppet Type A - Chaotic Wanderer	Sand Puppet Type A - Chaotic Wanderer
 16384	Moonlight Flower Spotlight Projectile	Moonlight Flower Spotlight Projectile
-16385	A Hat modeled after Moonlight Flower.	หมวกที่ออกแบบตาม Moonlight Flower
-16386	Dinner Date · Matching Theme Facewear	Dinner Date · หน้ากากธีมที่เข้ากัน
-16387	You cannot set up a Stall while dead.	คุณไม่สามารถสร้างแผงลอยในขณะที่ตายได้
-16388	Damage Reduction from Poison Monsters	การลดความเสียหายจากมอนสเตอร์พิษ
-16389	Damage Reduction from Shadow Monsters	การลดความเสียหายจาก Shadow Monsters
-16390	Damage Reduction from Undead Monsters	การลดความเสียหายจากมอนสเตอร์ Undead
-16391	Damage Reduction from Demi-Human Race	การลดความเสียหายจากเผ่าพันธุ์กึ่งมนุษย์
-16392	Eliminate the Threat in Eastern Payon	กำจัดภัยคุกคามใน Payon ตะวันออก
-16393	Guild Recruitment posted successfully	การรับสมัคร Guild โพสต์สำเร็จแล้ว
-16394	You must Join a guild to participate.	คุณต้องเข้าร่วมกิลด์จึงจะเข้าร่วมได้
-16395	[Adventure Party] Phantom Realm Quest	[Adventure Party] ภารกิจอาณาจักร Phantom
-16396	Complete Equipment Forging @{1} times	อุปกรณ์การตีขึ้นรูป@{1}เสร็จสมบูรณ์ครั้ง
-16397	Defeat Nasha in the Realm of the Gods	เอาชนะ Nasha ใน Realm of the Gods
-16398	Defeat Mirko in the Realm of the Gods	เอาชนะ Mirko ใน Realm of the Gods
-16399	Tap here to view auto-battle monsters	แตะที่นี่เพื่อดูมอนสเตอร์ต่อสู้อัตโนมัติ
-16400	Hurry and use it to obtain the mount.	รีบใช้มันเพื่อรับพาหนะ
-16401	You can view potions in your Backpack	คุณสามารถดูยาในกระเป๋าเป้สะพายหลังของคุณ
-16402	Tap here to enter the First Movement.	แตะที่นี่เพื่อเข้าสู่การเคลื่อนไหวครั้งแรก
-16403	Go see which build you'd like to use.	ไปดูว่าคุณต้องการใช้บิลด์ใด
-16404	Click Level-up to grow even stronger!	คลิกเพิ่มเลเวลเพื่อเติบโตให้แข็งแกร่งยิ่งขึ้น!
-16405	Use a Fly Wing to teleport instantly!	ใช้ Fly Wing เพื่อเทเลพอร์ตทันที!
+16385	A Hat modeled after Moonlight Flower.	A Hat modeled after Moonlight Flower.
+16386	Dinner Date · Matching Theme Facewear	Dinner Date · Matching Theme Facewear
+16387	You cannot set up a Stall while dead.	You cannot set up a Stall while dead.
+16388	Damage Reduction from Poison Monsters	Damage Reduction from Poison Monsters
+16389	Damage Reduction from Shadow Monsters	Damage Reduction from Shadow Monsters
+16390	Damage Reduction from Undead Monsters	Damage Reduction from Undead Monsters
+16391	Damage Reduction from Demi-Human Race	Damage Reduction from Demi-Human Race
+16392	Eliminate the Threat in Eastern Payon	Eliminate the Threat in Eastern Payon
+16393	Guild Recruitment posted successfully	Guild Recruitment posted successfully
+16394	You must Join a guild to participate.	You must Join a guild to participate.
+16395	[Adventure Party] Phantom Realm Quest	[Adventure Party] Phantom Realm Quest
+16396	Complete Equipment Forging @{1} times	Complete Equipment Forging @{1} times
+16397	Defeat Nasha in the Realm of the Gods	Defeat Nasha in the Realm of the Gods
+16398	Defeat Mirko in the Realm of the Gods	Defeat Mirko in the Realm of the Gods
+16399	Tap here to view auto-battle monsters	Tap here to view auto-battle monsters
+16400	Hurry and use it to obtain the mount.	Hurry and use it to obtain the mount.
+16401	You can view potions in your Backpack	You can view potions in your Backpack
+16402	Tap here to enter the First Movement.	Tap here to enter the First Movement.
+16403	Go see which build you'd like to use.	Go see which build you'd like to use.
+16404	Click Level-up to grow even stronger!	Click Level-up to grow even stronger!
+16405	Use a Fly Wing to teleport instantly!	Use a Fly Wing to teleport instantly!
 16406	Select Prontera to begin fast travel!	Select Prontera to begin fast travel!
-16407	You got some equipment! Go put it on!	คุณมีอุปกรณ์แล้ว! ไปใส่เลย!
-16408	Hey~ Hurry and Tap to view the quest.	เฮ้~ รีบแตะเพื่อดูภารกิจ
-16409	My name is Zenji, and I like origami.	ฉันชื่อเซนจิ และฉันชอบพับกระดาษโอริกามิ
-16410	It looks like a jumbled pile of junk.	ดูเหมือนกองขยะที่กองกันยุ่ง
-16411	I'll definitely pass the Novice exam!	ฉันจะผ่านการสอบ Novice แน่นอน!
-16412	Excitement, of course. They're young.	ตื่นเต้นแน่นอนพวกเขายังเด็ก
-16413	Mmm, Delicious! Absolutely Delicious!	อืม อร่อย! อร่อยอย่างแน่นอน!
-16414	I need a little more time to prepare.	ฉันต้องการเวลาเตรียมตัวอีกเล็กน้อย
-16415	Let's set out and return to Prontera.	ออกเดินทางและกลับไปที่พรอนเทรากันเถอะ
-16416	It's almost time. You should go back.	ใกล้จะถึงเวลาแล้วคุณควรกลับไป
-16417	Meow, meow, meow, meow... Meow, meow!	Meow Meow Meow... Meow Meow!
-16418	Relax and enjoy the rest of the party	ผ่อนคลายและเพลิดเพลินกับปาร์ตี้ที่เหลือ
-16419	Combine is successful. Obtained ${1}.	การรวมสำเร็จได้รับ${1}แล้ว
-16420	Monster DEF increases after @{1} sec.	DEF ของมอนสเตอร์เพิ่มขึ้นหลังจาก@{1}วินาที
-16421	Epic Campaign (Easy), Begin Challenge	Epic Campaign (ง่าย) เริ่มการท้าทาย
-16422	${1} Killed ${2} and became Peerless.	${1}ฆ่า${2}และกลายเป็นผู้ไม่มีใครเทียบได้
-16423	The Demonic Dragon Soul has appeared!	Demonic Dragon Soul ปรากฏตัวแล้ว!
-16424	The Dragonblood Crystal has appeared!	Dragonblood Crystal ปรากฏตัวแล้ว!
-16425	Shadow of Agony\nNo one can Judex me!	เงาแห่งความทุกข์ทรมาน\n ไม่มีใครสามารถตัดสินฉันได้!
-16426	Mechanic alert above message bar test	การแจ้งเตือนกลไกเหนือการทดสอบแถบข้อความ
-16427	^{1}${2}^{2} has captured Point ${3}!	^{1}${2}^{2}ได้ยึดจุดแล้ว${3}!
-16428	Territory War escort Trade has ended.	การค้าคุ้มกันสงครามดินแดนสิ้นสุดลงแล้ว
-16429	The Boss will use the recorded skills	บอสจะใช้ทักษะที่บันทึกไว้
-16430	Bobo\nSorry, that's the wrong answer~	Bobo\n ขออภัย นั่นเป็นคำตอบที่ผิด~
-16431	Call for backup! I'll heal him first~	โทรสำรอง! ฉันจะรักษาเขาก่อน~
-16432	Bobo\nWe almost won. Let's Try Again!	Bobo\n เราเกือบชนะแล้วมาลองอีกครั้ง!
-16433	Complete this chapter's quests first.	ทำภารกิจของบทนี้ให้สำเร็จก่อน
-16434	Complete the Golden Thief Bug Dungeon	สำเร็จดันเจี้ยน Golden Thief Bug
-16435	Someone else purchased the item first	มีคนอื่นซื้อสินค้าก่อน
-16436	Request Items from Friends and Allies	ขอไอเทมจากเพื่อนและพันธมิตร
-16437	Field Auto-Battle Challenge @{1}-@{2}	การท้าทายการต่อสู้อัตโนมัติในสนาม@{1}-@{2}กฎการสลายตัวของการต่อสู้อัตโนมัติของสนาม
+16407	You got some equipment! Go put it on!	You got some equipment! Go put it on!
+16408	Hey~ Hurry and Tap to view the quest.	Hey~ Hurry and Tap to view the quest.
+16409	My name is Zenji, and I like origami.	My name is Zenji, and I like origami.
+16410	It looks like a jumbled pile of junk.	It looks like a jumbled pile of junk.
+16411	I'll definitely pass the Novice exam!	I'll definitely pass the Novice exam!
+16412	Excitement, of course. They're young.	Excitement, of course. They're young.
+16413	Mmm, Delicious! Absolutely Delicious!	Mmm, Delicious! Absolutely Delicious!
+16414	I need a little more time to prepare.	I need a little more time to prepare.
+16415	Let's set out and return to Prontera.	Let's set out and return to Prontera.
+16416	It's almost time. You should go back.	It's almost time. You should go back.
+16417	Meow, meow, meow, meow... Meow, meow!	Meow, meow, meow, meow... Meow, meow!
+16418	Relax and enjoy the rest of the party	Relax and enjoy the rest of the party
+16419	Combine is successful. Obtained ${1}.	Combine is successful. Obtained ${1}.
+16420	Monster DEF increases after @{1} sec.	Monster DEF increases after @{1} sec.
+16421	Epic Campaign (Easy), Begin Challenge	Epic Campaign (Easy), Begin Challenge
+16422	${1} Killed ${2} and became Peerless.	${1} Killed ${2} and became Peerless.
+16423	The Demonic Dragon Soul has appeared!	The Demonic Dragon Soul has appeared!
+16424	The Dragonblood Crystal has appeared!	The Dragonblood Crystal has appeared!
+16425	Shadow of Agony\nNo one can Judex me!	Shadow of Agony\nNo one can Judex me!
+16426	Mechanic alert above message bar test	Mechanic alert above message bar test
+16427	^{1}${2}^{2} has captured Point ${3}!	^{1}${2}^{2} has captured Point ${3}!
+16428	Territory War escort Trade has ended.	Territory War escort Trade has ended.
+16429	The Boss will use the recorded skills	The Boss will use the recorded skills
+16430	Bobo\nSorry, that's the wrong answer~	Bobo\nSorry, that's the wrong answer~
+16431	Call for backup! I'll heal him first~	Call for backup! I'll heal him first~
+16432	Bobo\nWe almost won. Let's Try Again!	Bobo\nWe almost won. Let's Try Again!
+16433	Complete this chapter's quests first.	Complete this chapter's quests first.
+16434	Complete the Golden Thief Bug Dungeon	Complete the Golden Thief Bug Dungeon
+16435	Someone else purchased the item first	Someone else purchased the item first
+16436	Request Items from Friends and Allies	Request Items from Friends and Allies
+16437	Field Auto-Battle Challenge @{1}-@{2}	Field Auto-Battle Challenge @{1}-@{2}
 16438	Combat NPC Ice Turret Cast Skill (ST)	Combat NPC Ice Turret Cast Skill (ST)
 16439	Complete Trans. 2nd Class Advancement	ทรานส์สมบูรณ์ความก้าวหน้าชั้นที่ 2
 16440	Spend @{1} minutes in any Tavern room	ใช้เวลา@{1}นาทีในห้อง Tavern ใดก็ได้
-16441	Description of the Dwarven Bone Flute	คำอธิบายของขลุ่ยกระดูกคนแคระ
+16441	Description of the Dwarven Bone Flute	Description of the Dwarven Bone Flute
 16442	MINIENGINE_LESS_THAN_REMOTE_ERROR_WIN	MINIENGINE_LESS_THAN_REMOTE_ERROR_WIN
 16443	Mount · Fox can be unlocked upon use.	Mount · สามารถปลดล็อค Fox ได้เมื่อใช้งาน
 16444	Use to Activate Composer (Permanent).	ใช้เพื่อเปิดใช้งาน Composer (ถาวร)
-16445	Guest accounts cannot make purchases.	บัญชี Guest ไม่สามารถซื้อสินค้าได้
-16446	Crafting Moonlit Challenger - Forging	การประดิษฐ์ผู้ท้าชิงแสงจันทร์ - การตีขึ้นรูป
-16447	Crafting Moonlit Challenger - Carving	Crafting Moonlit Challenger - งานแกะสลัก
+16445	Guest accounts cannot make purchases.	Guest accounts cannot make purchases.
+16446	Crafting Moonlit Challenger - Forging	Crafting Moonlit Challenger - Forging
+16447	Crafting Moonlit Challenger - Carving	Crafting Moonlit Challenger - Carving
 16448	Blue material used to craft headgear.	วัสดุสีน้ำเงินใช้ประดิษฐ์หมวก
 16449	A feather imbued with alluring magic.	ขนนกที่เต็มไปด้วยเวทมนตร์อันน่าหลงใหล
 16450	A tough piece of hide from a monster.	ชิ้นส่วนที่ซ่อนยากจากสัตว์ประหลาด
-16451	The Clue is nearby. Search carefully!	เบาะแสอยู่ใกล้ๆค้นหาอย่างระมัดระวัง!
-16452	Not enough materials to breakthrough.	วัสดุไม่เพียงพอต่อการพัฒนา
+16451	The Clue is nearby. Search carefully!	The Clue is nearby. Search carefully!
+16452	Not enough materials to breakthrough.	Not enough materials to breakthrough.
 16453	A weapon fitted with numerous blades.	อาวุธที่ติดตั้งใบมีดจำนวนมาก
 16454	A Spear with an inward-curving blade.	Spear ที่มีใบมีดโค้งเข้าด้านใน
 16455	A Spear made exclusively for knights.	Spear ที่สร้างขึ้นเพื่ออัศวินโดยเฉพาะ
 16456	A versatile sword with a thick blade.	ดาบอเนกประสงค์ที่มีใบมีดหนา
 16457	Premium Currency for the Season Shop.	สกุลเงินพรีเมียมสำหรับร้านค้าซีซั่น
-16458	Chance to obtain the following skills	โอกาสที่จะได้รับทักษะดังต่อไปนี้
+16458	Chance to obtain the following skills	Chance to obtain the following skills
 16459	Deluxe Pack-Test Cross-Season Removal	Deluxe Pack-Test Cross-Season Removal
 16460	Test Item Repeat Acquisition Function	Test Item Repeat Acquisition Function
-16461	You cannot gift Crystals to yourself.	คุณไม่สามารถมอบคริสตัลเป็นของขวัญให้ตัวเองได้
+16461	You cannot gift Crystals to yourself.	You cannot gift Crystals to yourself.
 16462	Tier @{1} Equipment Forging Blueprint	Tier @{1} Equipment Forging Blueprint
 16463	【Guild Joint Battle】Realm of the Gods	【Guild Joint Battle】Realm of the Gods
-16464	Guild League - Finals (Auction Check)	Guild League - รอบชิงชนะเลิศ (ตรวจสอบการประมูล)
-16465	Irmata, God of Nature (Auction Check)	Irmata เทพเจ้าแห่งธรรมชาติ (ตรวจสอบการประมูล)
+16464	Guild League - Finals (Auction Check)	Guild League - Finals (Auction Check)
+16465	Irmata, God of Nature (Auction Check)	Irmata, God of Nature (Auction Check)
 16466	Magic Breaker Scroll · Accessory-Blue	Magic Breaker Scroll · Accessory-Blue
 16467	Siegebreaker Scroll · Accessory-Green	Siegebreaker Scroll · Accessory-Green
 16468	Emerald Realm Ward Scroll · Shoes-Red	Emerald Realm Ward Scroll · Shoes-Red
@@ -472,99 +472,99 @@
 16471	Crimson Realm Ward Scroll · Cloak-Red	Crimson Realm Ward Scroll · Cloak-Red
 16472	Golden Realmguard Scroll·Off-Hand-Red	Golden Realmguard Scroll·Off-Hand-Red
 16473	Eagle Eye Scroll · Dual Wield - Green	Eagle Eye Scroll · Dual Wield - Green
-16474	Select the equipment slot to Enchant.	เลือกช่องอุปกรณ์ที่จะเสริมพลัง
-16475	Not enough pets of the required level	มีสัตว์เลี้ยงไม่เพียงพอในระดับที่กำหนด
-16476	Not enough time spent in field combat	ใช้เวลาไม่เพียงพอในการต่อสู้ภาคสนาม
-16477	Not enough Divine Art Totems deployed	โทเทมศิลปะศักดิ์สิทธิ์ใช้งานไม่เพียงพอ
+16474	Select the equipment slot to Enchant.	Select the equipment slot to Enchant.
+16475	Not enough pets of the required level	Not enough pets of the required level
+16476	Not enough time spent in field combat	Not enough time spent in field combat
+16477	Not enough Divine Art Totems deployed	Not enough Divine Art Totems deployed
 16478	Consumption count requirement not met	Consumption count requirement not met
-16479	Not enough Reward Vault participation	การเข้าร่วม Reward Vault ไม่เพียงพอ
-16480	This Appearance has not been unlocked	ลักษณะที่ปรากฏนี้ยังไม่ได้ปลดล็อค
-16481	Totem skill count requirement not met	ไม่ตรงตามข้อกำหนดการนับทักษะ Totem
-16482	War of Emperium Artillery Permissions	สิทธิ์อนุญาตสงครามปืนใหญ่ Emperium
-16483	Party size exceeds the dungeon limit.	ขนาดปาร์ตี้เกินขีดจำกัดดันเจี้ยน
-16484	BOSS Reward Count has been exhausted.	BOSS หมดแล้ว
-16485	Cannot be used in your current state.	ไม่สามารถใช้ในสถานะปัจจุบันของคุณได้
-16486	Unlock this skill to view its details	ปลดล็อคทักษะนี้เพื่อดูรายละเอียด
-16487	Purchase from the Magic Fashion Shop.	ซื้อจากร้าน Magic Fashion
-16488	Maximum Over Thrust - Critical Strike	Maximum Over Thrust - การโจมตีแบบคริติคอล
-16489	Spear Mastery - Increased Holy Damage	Spear Mastery - เพิ่มความเสียหายศักดิ์สิทธิ์
+16479	Not enough Reward Vault participation	Not enough Reward Vault participation
+16480	This Appearance has not been unlocked	This Appearance has not been unlocked
+16481	Totem skill count requirement not met	Totem skill count requirement not met
+16482	War of Emperium Artillery Permissions	War of Emperium Artillery Permissions
+16483	Party size exceeds the dungeon limit.	Party size exceeds the dungeon limit.
+16484	BOSS Reward Count has been exhausted.	BOSS Reward Count has been exhausted.
+16485	Cannot be used in your current state.	Cannot be used in your current state.
+16486	Unlock this skill to view its details	Unlock this skill to view its details
+16487	Purchase from the Magic Fashion Shop.	Purchase from the Magic Fashion Shop.
+16488	Maximum Over Thrust - Critical Strike	Maximum Over Thrust - Critical Strike
+16489	Spear Mastery - Increased Holy Damage	Spear Mastery - Increased Holy Damage
 16490	BDDictionary_enum@{1}_Tag_AddSubtract	BDDictionary_enum@{1}_Tag_AddSubtract
-16491	Restores @{1}% of Max Life per second	คืนค่า@{1}% ของพลัง Life สูงสุดต่อวินาที
-16492	Boss @{1} Persistent Water Orb Effect	Boss@{1}เอฟเฟกต์ลูกแก้วน้ำถาวร
-16493	Assassin Talent@{1}-@{2} Support Buff	Assassin Talent@{1}- บัฟสนับสนุน@{2}
-16494	Reach Refinement Resonance Level ${1}	เข้าถึงระดับเรโซแนนซ์การปรับแต่ง${1}
-16495	Participate in MINI events ${1} times	เข้าร่วมกิจกรรม MINI${1}ครั้ง
-16496	Have ${1} Pets of the specified level	มีสัตว์เลี้ยง${1}ตามระดับที่กำหนด
-16497	Gender does not meet the requirements	เพศไม่ตรงตามข้อกำหนด
-16498	Faction Mission points are ${1} short	นั้นสั้น${1}
-16499	Territory War Settlement Instructions	คำแนะนำในการยุติสงครามดินแดน
-16500	Phantom Realm - Reward Count Details:	Phantom Realm - รายละเอียดการนับรางวัล:
-16501	Cannot mount or dismount while Flying	ไม่สามารถขึ้นหรือลงจากหลังม้าขณะบินได้
-16502	Close friends Group Chat list is full	รายการแชทกลุ่มเพื่อนสนิทเต็มแล้ว
-16503	Invalid friend group Member operation	การดำเนินการของสมาชิกกลุ่มเพื่อนไม่ถูกต้อง
-16504	Already on the request-to-speak list.	อยู่ในรายการขอพูดแล้ว
-16505	This monster is already in Favorites.	มอนสเตอร์ตัวนี้อยู่ในรายการโปรดแล้ว
-16506	This item cannot be listed right now.	ไม่สามารถแสดงรายการนี้ได้ในขณะนี้
-16507	Invalid Adventurer Group declaration.	การประกาศกลุ่ม Adventurer ไม่ถูกต้อง
-16508	Temporary Members cannot be appointed	ไม่สามารถแต่งตั้งสมาชิกชั่วคราวได้
-16509	No Soul Echoes are currently deployed	ไม่มี Soul Echoes ที่ใช้งานอยู่ในขณะนี้
-16510	Gift order has already been processed	คำสั่งซื้อของขวัญได้รับการประมวลผลแล้ว
-16511	Life Skill title requirements not met	ไม่ตรงตามข้อกำหนดชื่อทักษะ Life
-16512	Life Skill title skill does not exist	ทักษะฉายาทักษะ Life ไม่มีอยู่
-16513	This build cannot be submitted again.	build นี้ไม่สามารถส่งอีกครั้งได้
-16514	Preset name contains sensitive words.	ชื่อที่ตั้งไว้ล่วงหน้ามีคำที่ละเอียดอ่อน
-16515	Master Smith's Blessing - Arcane Arts	Blessing ของอาจารย์ Smith - Arcane Arts
-16516	Master Smith's Blessing - Destruction	Blessing ของ Master Smith - การทำลายล้าง
-16517	Participate in Guild Siege ${1} times	เข้าร่วม Guild Siege${1}ครั้ง
-16518	Character is already pending deletion	อักขระอยู่ระหว่างรอการลบ
-16519	Cannot perform this action while dead	ไม่สามารถดำเนินการนี้ได้ในขณะที่ไม่ทำงาน
-16520	Invalid data type for consuming items	ประเภทข้อมูลไม่ถูกต้องสำหรับการบริโภครายการ
-16521	Hotbar equipment is already equipped.	อุปกรณ์ Hotbar มีการติดตั้งไว้แล้ว
-16522	Defeat the Archer Guardian +${1} sec.	กำจัด Archer Guardian +${1}วินาที
-16523	Cannot teleport while riding a mount.	ไม่สามารถเทเลพอร์ตขณะขี่สัตว์พาหนะได้
-16524	Phase Two\nDefeat the Knight Guardian	เฟสสอง\n กำจัด Knight Guardian
-16525	Stage 4\nDefend the Magnificent Metal	Stage 4\n ปกป้องโลหะอันงดงาม
-16526	This special Job item does not exist.	ไม่มีรายการงานพิเศษนี้
+16491	Restores @{1}% of Max Life per second	Restores @{1}% of Max Life per second
+16492	Boss @{1} Persistent Water Orb Effect	Boss @{1} Persistent Water Orb Effect
+16493	Assassin Talent@{1}-@{2} Support Buff	Assassin Talent@{1}-@{2} Support Buff
+16494	Reach Refinement Resonance Level ${1}	Reach Refinement Resonance Level ${1}
+16495	Participate in MINI events ${1} times	Participate in MINI events ${1} times
+16496	Have ${1} Pets of the specified level	Have ${1} Pets of the specified level
+16497	Gender does not meet the requirements	Gender does not meet the requirements
+16498	Faction Mission points are ${1} short	Faction Mission points are ${1} short
+16499	Territory War Settlement Instructions	Territory War Settlement Instructions
+16500	Phantom Realm - Reward Count Details:	Phantom Realm - Reward Count Details:
+16501	Cannot mount or dismount while Flying	Cannot mount or dismount while Flying
+16502	Close friends Group Chat list is full	Close friends Group Chat list is full
+16503	Invalid friend group Member operation	Invalid friend group Member operation
+16504	Already on the request-to-speak list.	Already on the request-to-speak list.
+16505	This monster is already in Favorites.	This monster is already in Favorites.
+16506	This item cannot be listed right now.	This item cannot be listed right now.
+16507	Invalid Adventurer Group declaration.	Invalid Adventurer Group declaration.
+16508	Temporary Members cannot be appointed	Temporary Members cannot be appointed
+16509	No Soul Echoes are currently deployed	No Soul Echoes are currently deployed
+16510	Gift order has already been processed	Gift order has already been processed
+16511	Life Skill title requirements not met	Life Skill title requirements not met
+16512	Life Skill title skill does not exist	Life Skill title skill does not exist
+16513	This build cannot be submitted again.	This build cannot be submitted again.
+16514	Preset name contains sensitive words.	Preset name contains sensitive words.
+16515	Master Smith's Blessing - Arcane Arts	Master Smith's Blessing - Arcane Arts
+16516	Master Smith's Blessing - Destruction	Master Smith's Blessing - Destruction
+16517	Participate in Guild Siege ${1} times	Participate in Guild Siege ${1} times
+16518	Character is already pending deletion	Character is already pending deletion
+16519	Cannot perform this action while dead	Cannot perform this action while dead
+16520	Invalid data type for consuming items	Invalid data type for consuming items
+16521	Hotbar equipment is already equipped.	Hotbar equipment is already equipped.
+16522	Defeat the Archer Guardian +${1} sec.	Defeat the Archer Guardian +${1} sec.
+16523	Cannot teleport while riding a mount.	Cannot teleport while riding a mount.
+16524	Phase Two\nDefeat the Knight Guardian	Phase Two\nDefeat the Knight Guardian
+16525	Stage 4\nDefend the Magnificent Metal	Stage 4\nDefend the Magnificent Metal
+16526	This special Job item does not exist.	This special Job item does not exist.
 16527	Tree Spirit ^{1}^{2}[Respawn]^{3}^{4}	ต้นไม้วิญญาณ ^{1}^{2}[Respawn]^{3}^{4}
-16528	The text contains sensitive language.	ข้อความมีภาษาที่ละเอียดอ่อน
-16529	Appraised equipment cannot be listed.	ไม่สามารถแสดงรายการอุปกรณ์ประเมินได้
-16530	Class-specific items cannot be Traded	ไอเทมเฉพาะคลาสไม่สามารถแลกเปลี่ยนได้
-16531	Equipment Enchantment Parameter error	ข้อผิดพลาดพารามิเตอร์การเสริมเสน่ห์อุปกรณ์
-16532	Not enough equipment repair materials	วัสดุซ่อมแซมอุปกรณ์ไม่เพียงพอ
-16533	The equipment is not in your Backpack	อุปกรณ์ไม่ได้อยู่ในกระเป๋าเป้สะพายหลังของคุณ
-16534	This is for you. No need to thank me!	นี่สำหรับคุณไม่จำเป็นต้องขอบคุณฉัน!
+16528	The text contains sensitive language.	The text contains sensitive language.
+16529	Appraised equipment cannot be listed.	Appraised equipment cannot be listed.
+16530	Class-specific items cannot be Traded	Class-specific items cannot be Traded
+16531	Equipment Enchantment Parameter error	Equipment Enchantment Parameter error
+16532	Not enough equipment repair materials	Not enough equipment repair materials
+16533	The equipment is not in your Backpack	The equipment is not in your Backpack
+16534	This is for you. No need to thank me!	This is for you. No need to thank me!
 16535	Remaining <color=#DD563F>${1}</color>	Remaining <color=#DD563F>${1}</color>
-16536	Friend's character ID does not exist.	ไม่มี ID ตัวละครของเพื่อน
-16537	Mail has been deleted or has expired.	เมลถูกลบหรือหมดอายุแล้ว
-16538	Unlock · Lord of the Starry Firmament	ปลดล็อค · เจ้าแห่งนภาดวงดาว
-16539	A-A free Mount? Hurry and Receive it!	A-A ฟรีเมาท์เหรอ? รีบและรับมัน!
-16540	Come on. Let's head back to Prontera.	มาเลยกลับไปที่ Prontera กันเถอะ
-16541	Tap the left side to record your oath	แตะด้านซ้ายเพื่อบันทึกคำสาบานของคุณ
-16542	Tap the right side to enter your oath	แตะทางด้านขวาเพื่อสาบาน
-16543	Adventure Group reaches Lv. ${1}/${2}	กลุ่มผจญภัยถึงเลเวลแล้ว${1}/${2}
-16544	${1} is using an ID Tag to Revive you	${1}กำลังใช้ ID Tag เพื่อฟื้นคืนชีพคุณ
-16545	You've already reminded this teammate	คุณได้เตือนเพื่อนร่วมทีมคนนี้แล้ว
-16546	Default guild emblem background frame	กรอบพื้นหลังสัญลักษณ์กิลด์เริ่มต้น
+16536	Friend's character ID does not exist.	Friend's character ID does not exist.
+16537	Mail has been deleted or has expired.	Mail has been deleted or has expired.
+16538	Unlock · Lord of the Starry Firmament	Unlock · Lord of the Starry Firmament
+16539	A-A free Mount? Hurry and Receive it!	A-A free Mount? Hurry and Receive it!
+16540	Come on. Let's head back to Prontera.	Come on. Let's head back to Prontera.
+16541	Tap the left side to record your oath	Tap the left side to record your oath
+16542	Tap the right side to enter your oath	Tap the right side to enter your oath
+16543	Adventure Group reaches Lv. ${1}/${2}	Adventure Group reaches Lv. ${1}/${2}
+16544	${1} is using an ID Tag to Revive you	${1} is using an ID Tag to Revive you
+16545	You've already reminded this teammate	You've already reminded this teammate
+16546	Default guild emblem background frame	Default guild emblem background frame
 16547	Increases your Poison damage by @{1}%	เพิ่มความเสียหายพิษของคุณโดย@{1}%
 16548	Add a sound effect at maximum stacks.	เพิ่มเอฟเฟกต์เสียงที่สแต็คสูงสุด
 16549	Increases Holy damage dealt by @{1}%.	เพิ่มความเสียหายศักดิ์สิทธิ์ที่ทำได้@{1}%
 16550	Life cannot fall below ^{1}${1}%^{2}.	Life ไม่ตกต่ำกว่า ^{1}${1}%^{2}.
-16551	Select an original build on the left.	เลือกโครงสร้างดั้งเดิมทางด้านซ้าย
+16551	Select an original build on the left.	Select an original build on the left.
 16552	Reach <color=#63a22b>${1}</color> DPS	Reach <color=#63a22b>${1}</color> DPS
 16553	Physical/Magic DEF decreases by @{1}%	DEF กายภาพ/เวทมนตร์ลดลง@{1}%
 16554	Resets all skills upon leaving combat	รีเซ็ตทักษะทั้งหมดเมื่อออกจากการต่อสู้
 16555	Increases Life by ${1}~${2} when used	เพิ่มพลัง Life โดย${1}~${2}เมื่อใช้
 16556	Increases Cast Speed by ^{1}${1}^{2}.	เพิ่มความเร็วในการร่ายโดย ^{1}${1}^{2}
 16557	Increases Ghost damage dealt by @{1}%	เพิ่มความเสียหายของ Ghost ที่สร้างโดย@{1}%
-16558	The event ends in less than one hour.	กิจกรรมสิ้นสุดในเวลาไม่ถึงหนึ่งชั่วโมง
+16558	The event ends in less than one hour.	The event ends in less than one hour.
 16559	Blade Deflection - Repeat Until Death	Blade Deflection - Repeat Until Death
-16560	Job Level too low. Unable to advance!	ระดับงานต่ำเกินไปก้าวหน้าไม่ได้!
-16561	Daily quests refresh at ${1} o'clock.	รีเฟรชเควสรายวันเวลา${1}โมง
-16562	Damage Reduction from Earth Monsters %	การลดความเสียหายจากมอนสเตอร์ดิน %
-16563	Damage Reduction from Water Monsters %	การลดความเสียหายจากมอนสเตอร์น้ำ %
-16564	Damage Reduction from Ghost Monsters %	การลดความเสียหายจาก Ghost Monsters %
-16565	Reach the deepest part of the ant nest	เข้าถึงส่วนที่ลึกที่สุดของรังมด
-16566	^{1}Battle of Dragon Coffin Island^{2}	^{1}ศึกเกาะโลงศพมังกร^{2}
+16560	Job Level too low. Unable to advance!	Job Level too low. Unable to advance!
+16561	Daily quests refresh at ${1} o'clock.	Daily quests refresh at ${1} o'clock.
+16562	Damage Reduction from Earth Monsters %	Damage Reduction from Earth Monsters %
+16563	Damage Reduction from Water Monsters %	Damage Reduction from Water Monsters %
+16564	Damage Reduction from Ghost Monsters %	Damage Reduction from Ghost Monsters %
+16565	Reach the deepest part of the ant nest	Reach the deepest part of the ant nest
+16566	^{1}Battle of Dragon Coffin Island^{2}	^{1}Battle of Dragon Coffin Island^{2}
 16567	Move Forward and catch up with Dracula	ก้าวไปข้างหน้าและไล่ตาม Dracula ให้ทัน
 16568	Deploy @{1} pets at Lv. @{2} or higher	ปรับใช้สัตว์เลี้ยง@{1}ที่ระดับ@{2}หรือสูงกว่า
 16569	Obtain @{1} activated attribute skills	รับทักษะคุณลักษณะที่เปิดใช้งาน@{1}
@@ -573,9 +573,9 @@
 16572	Activate @{1} Lv. @{2} Echo Resonances	เปิดใช้งาน@{1}เลเวล@{2}เสียงสะท้อน
 16573	Head to the professor's research site.	มุ่งหน้าไปยังเว็บไซต์วิจัยของอาจารย์
 16574	Find out why the stray cat is meowing.	หาคำตอบว่าทำไมแมวจรจัดถึงร้องเหมียว
-16575	Rare Reward-Golden Thief Bug-MVP Limit	รางวัลหายาก-Golden Thief Bug-ขีดจำกัด MVP
-16576	Rare Reward-Moonlight Flower-MVP Limit	รางวัลหายาก-Moonlight Flower-ขีดจำกัด MVP
-16577	Novice Tutorial-Eddga-@{1}-Time Reward	บทช่วยสอนมือใหม่-Eddga-@{1}-รางวัลเวลา
+16575	Rare Reward-Golden Thief Bug-MVP Limit	Rare Reward-Golden Thief Bug-MVP Limit
+16576	Rare Reward-Moonlight Flower-MVP Limit	Rare Reward-Moonlight Flower-MVP Limit
+16577	Novice Tutorial-Eddga-@{1}-Time Reward	Novice Tutorial-Eddga-@{1}-Time Reward
 16578	Return to the NPC to claim your reward	กลับไปที่ NPC เพื่อรับรางวัลของคุณ
 16579	Participate in the guild bonfire event	ร่วมกิจกรรมกองไฟกิลด์
 16580	Form a party and defeat Drake on Hard.	จัดปาร์ตี้และเอาชนะ Drake ในระดับฮาร์ด
@@ -590,63 +590,63 @@
 16589	Meet up with the Chivalry investigator	พบกับนักสืบอัศวิน
 16590	The professor asks for your help again	อาจารย์ขอความช่วยเหลืออีกครั้ง
 16591	Follow Bobo to learn about Auto-Battle	ติดตาม Bobo เพื่อเรียนรู้เกี่ยวกับ Auto-Battle
-16592	Converted to the character's Magic ATK	แปลงเป็นพลังโจมตีเวทย์ของตัวละคร
-16593	Affects your damage taken from players	ส่งผลต่อความเสียหายที่ได้รับจากผู้เล่น
-16594	Affects your Chance to inflict Silence	ส่งผลต่อโอกาสในการสร้างความเงียบ
-16595	Affects your Chance to inflict Petrify	ส่งผลต่อโอกาสในการสร้างสถานะกลายเป็นหิน
-16596	Affects your Chance of being Petrified	ส่งผลต่อโอกาสในการกลายเป็นหิน
-16597	Guild creation failed. Items returned.	การสร้าง Guild ล้มเหลวสินค้าถูกส่งคืน
-16598	Passive Stall Closure (Items Sold Out)	การปิดแผงลอยแบบ Passive (สินค้าจำหน่ายหมดแล้ว)
-16599	Delisted Due to Character Restrictions	ถูกเพิกถอนเนื่องจากข้อจำกัดของอักขระ
-16600	[War of Emperium] Participation Reward	[War of Emperium] รางวัลการเข้าร่วม
-16601	Prontera Defense Guild Ranking Rewards	Prontera Defense
-16602	Tribute of Echoes Event Reward Reissue	การออกรางวัลกิจกรรม Tribute of Echoes ใหม่
+16592	Converted to the character's Magic ATK	Converted to the character's Magic ATK
+16593	Affects your damage taken from players	Affects your damage taken from players
+16594	Affects your Chance to inflict Silence	Affects your Chance to inflict Silence
+16595	Affects your Chance to inflict Petrify	Affects your Chance to inflict Petrify
+16596	Affects your Chance of being Petrified	Affects your Chance of being Petrified
+16597	Guild creation failed. Items returned.	Guild creation failed. Items returned.
+16598	Passive Stall Closure (Items Sold Out)	Passive Stall Closure (Items Sold Out)
+16599	Delisted Due to Character Restrictions	Delisted Due to Character Restrictions
+16600	[War of Emperium] Participation Reward	[War of Emperium] Participation Reward
+16601	Prontera Defense Guild Ranking Rewards	Prontera Defense Guild Ranking Rewards
+16602	Tribute of Echoes Event Reward Reissue	Tribute of Echoes Event Reward Reissue
 16603	Temporary Battle Royale Activity Quest	ภารกิจ Activity Battle Royale ชั่วคราว
-16604	The location will be shown on the map.	ตำแหน่งจะแสดงบนแผนที่
-16605	Tap to Move to the caravan's Location.	แตะเพื่อย้ายไปยังตำแหน่งของคาราวาน
+16604	The location will be shown on the map.	The location will be shown on the map.
+16605	Tap to Move to the caravan's Location.	Tap to Move to the caravan's Location.
 16606	[Current <color=#c27b47>+${1}</color>]	[Current <color=#c27b47>+${1}</color>]
-16607	Press and hold to open potion settings	กดค้างไว้เพื่อเปิดการตั้งค่ายา
+16607	Press and hold to open potion settings	Press and hold to open potion settings
 16608	<color=#FF0000>Entering Combat</color>	<color=#FF0000>Entering Combat</color>
 16609	Clear out the Nearby Deniro and Piere*	เคลียร์ Deniro และ Piere ที่อยู่ใกล้เคียง*
 16610	Go to Ant Hell and find Professor Ryan	ไปที่ Ant Hell แล้วค้นหา Professor Ryan
 16611	Examine the cargo crate on the ground*	ตรวจสอบลังสินค้าบนพื้น*
 16612	Bragis has appeared again. Talk to her	Bragis ปรากฏตัวอีกครั้งคุยกับเธอ
-16613	Extra World Paragon Level bonus: ${1}%	โบนัสระดับพารากอน Extra World:${1}%
-16614	Increases Movement Speed---/HP recover	เพิ่มความเร็วในการเคลื่อนที่---/ฟื้นฟู HP
-16615	\nYou transported supplies ${1} times.	\n คุณขนส่งวัสดุสิ้นเปลือง${1}ครั้ง
-16616	\nYou enjoyed ${1} artistic activities	\n คุณเพลิดเพลินกับกิจกรรมทางศิลปะของ${1}
-16617	Territory War Guild Points Leaderboard	กระดานคะแนน Guild สงครามดินแดน
-16618	Appearance Shop - Mining Star Treasure	ลักษณะร้านค้า - สมบัติ Mining ดาว
-16619	Combine Earth and Fire for AoE damage.	รวม Earth และ Fire เพื่อสร้างความเสียหายแบบ AoE
-16620	This mail has no attachments to claim.	เมลนี้ไม่มีไฟล์แนบที่จะอ้างสิทธิ์
-16621	Decreases by @{1}% daily, up to @{2}%.	ลดลง@{1}% ทุกวัน สูงสุด@{2}%
-16622	Obtain Crystals by participating daily	รับคริสตัลจากการเข้าร่วมทุกวัน
-16623	You can refresh again in ${1} seconds!	คุณสามารถรีเฟรชได้อีกครั้งใน${1}วินาที!
-16624	Use 1 Yggdrasil Leaf to Revive 【${1}】?	ใช้ใบไม้ Yggdrasil 1 ใบเพื่อฟื้นคืนชีพ 【${1}】?
-16625	Realm of the Gods · No-Revive Speedrun	Realm of the Gods · Speedrun ที่ไม่มีการฟื้นคืนชีพ
-16626	Enter a friend's name or UID to search	ใส่ชื่อเพื่อนหรือ UID เพื่อค้นหา
-16627	Selected (<color=#cc762a>${1}</color>)	เลือกแล้ว (<color=#cc762a>${1}</color>)
-16628	Tap a player's Portrait to Add Friend.	แตะรูปผู้เล่นเพื่อเพิ่มเพื่อน
-16629	Please set a default mount before use.	โปรดตั้งค่าการเมานท์เริ่มต้นก่อนใช้งาน
-16630	No microphone detected on this device.	ตรวจไม่พบไมโครโฟนในอุปกรณ์นี้
-16631	Call your party members to follow you?	โทรหาสมาชิกปาร์ตี้ของคุณให้ติดตามคุณเหรอ?
+16613	Extra World Paragon Level bonus: ${1}%	Extra World Paragon Level bonus: ${1}%
+16614	Increases Movement Speed---/HP recover	Increases Movement Speed---/HP recover
+16615	\nYou transported supplies ${1} times.	\nYou transported supplies ${1} times.
+16616	\nYou enjoyed ${1} artistic activities	\nYou enjoyed ${1} artistic activities
+16617	Territory War Guild Points Leaderboard	Territory War Guild Points Leaderboard
+16618	Appearance Shop - Mining Star Treasure	Appearance Shop - Mining Star Treasure
+16619	Combine Earth and Fire for AoE damage.	Combine Earth and Fire for AoE damage.
+16620	This mail has no attachments to claim.	This mail has no attachments to claim.
+16621	Decreases by @{1}% daily, up to @{2}%.	Decreases by @{1}% daily, up to @{2}%.
+16622	Obtain Crystals by participating daily	Obtain Crystals by participating daily
+16623	You can refresh again in ${1} seconds!	You can refresh again in ${1} seconds!
+16624	Use 1 Yggdrasil Leaf to Revive 【${1}】?	Use 1 Yggdrasil Leaf to Revive 【${1}】?
+16625	Realm of the Gods · No-Revive Speedrun	Realm of the Gods · No-Revive Speedrun
+16626	Enter a friend's name or UID to search	Enter a friend's name or UID to search
+16627	Selected (<color=#cc762a>${1}</color>)	Selected (<color=#cc762a>${1}</color>)
+16628	Tap a player's Portrait to Add Friend.	Tap a player's Portrait to Add Friend.
+16629	Please set a default mount before use.	Please set a default mount before use.
+16630	No microphone detected on this device.	No microphone detected on this device.
+16631	Call your party members to follow you?	Call your party members to follow you?
 16632	Unlocks at <color=#fdab5b>${1}</color>	Unlocks at <color=#fdab5b>${1}</color>
-16633	Stronghold War - Qualification Bidding	Stronghold War - การประมูลคุณสมบัติ
-16634	Activate ${1} Lv. ${1} Echo Resonances	เปิดใช้งาน${1}เลเวล${1}เสียงสะท้อน
-16635	Reach Resonance Lv. ${1} for all slots	ถึงระดับเรโซแนนซ์${1}สำหรับทุกช่อง
-16636	You have reached the application limit	คุณมีการสมัครถึงขีดจำกัดแล้ว
-16637	You have already applied to this guild	คุณได้สมัครเข้าร่วมกิลด์นี้แล้ว
-16638	${1} building has not reached Lv. ${2}	อาคาร${1}ยังไม่ถึง Lv.${2}
-16639	Pet Protection Effect Trigger - Shield	ทริกเกอร์เอฟเฟกต์การปกป้องสัตว์เลี้ยง - โล่
-16640	Insufficient Guild Siege participation	การเข้าร่วม Guild Siege ไม่เพียงพอ
-16641	Not all objectives have been completed	วัตถุประสงค์ยังไม่เสร็จสมบูรณ์ทั้งหมด
+16633	Stronghold War - Qualification Bidding	Stronghold War - Qualification Bidding
+16634	Activate ${1} Lv. ${1} Echo Resonances	Activate ${1} Lv. ${1} Echo Resonances
+16635	Reach Resonance Lv. ${1} for all slots	Reach Resonance Lv. ${1} for all slots
+16636	You have reached the application limit	You have reached the application limit
+16637	You have already applied to this guild	You have already applied to this guild
+16638	${1} building has not reached Lv. ${2}	${1} building has not reached Lv. ${2}
+16639	Pet Protection Effect Trigger - Shield	Pet Protection Effect Trigger - Shield
+16640	Insufficient Guild Siege participation	Insufficient Guild Siege participation
+16641	Not all objectives have been completed	Not all objectives have been completed
 16642	Physical DEF +${1} and Max Life +${2}.	DEF กายภาพ +${1}และพลัง Life สูงสุด +${2}
 16643	Gain ${1}% Magic ATK and Physical ATK.	ได้รับ${1}% พลังโจมตีเวทย์มนตร์และพลังโจมตีกายภาพ
 16644	Grant All Players Full Mini Map Vision	มอบการมองเห็นแผนที่ย่อแบบเต็มให้กับผู้เล่นทุกคน
 16645	Blessing Angel Persistent Magic Circle	วงเวทย์ศักดิ์สิทธิ์ Blessing Angel
 16646	Decreases Cooldown Reduction by @{1}%.	ลดการ Cooldown Reduction ลง@{1}%
 16647	An Archer has their sights set on you.	นักธนูมุ่งเป้าไปที่คุณ
-16648	The queue timed out. Please try again.	คิวหมดเวลาโปรดลองอีกครั้ง
+16648	The queue timed out. Please try again.	The queue timed out. Please try again.
 16649	Heavy Shield Defense - Full-screen AOE	Heavy Shield Defense - Full-screen AOE
 16650	Ghost Ship Grand Charge Horizontal@{1}	Ghost Ship Grand Charge Horizontal@{1}
 16651	Moonlight Flower Four-Corner Bell Hard	Moonlight Flower Four-Corner Bell Hard
@@ -658,89 +658,89 @@
 16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม Lv. ตัวละคร*${1}】
 16658	Reduces Neutral damage taken by ${1}%.	ลดความเสียหายที่เป็นกลางที่ได้รับโดย${1}%
 16659	Magic damage dealt increases by ${1}%.	ความเสียหายเวทย์ที่สร้างเพิ่มขึ้น${1}%
-16660	Find the missing Caravan Party Leader.	ค้นหา Caravan Party Leader ที่หายไป
-16661	Help the caravan with Cargo Placement.	ช่วยคาราวานด้วย Cargo Placement
-16662	When phase @{1} begins, play Fireworks	เมื่อเฟส@{1}เริ่มต้น ให้เล่น Fireworks
-16663	Send Boss Death Notification to Client	ส่งการแจ้งเตือนการตายของบอสให้กับลูกค้า
-16664	Title level is already at the maximum.	ระดับหัวเรื่องอยู่ที่ระดับสูงสุดแล้ว
-16665	Fly Wings cannot be used in this area.	Fly Wings ไม่สามารถใช้ได้ในบริเวณนี้
-16666	You cannot switch channels while dead.	คุณไม่สามารถเปลี่ยนช่องในขณะที่ตายได้
-16667	Skills default to their maximum level.	มีค่าเริ่มต้นเป็นระดับสูงสุด
-16668	Open Thursday from @{1}:@{2}~@{3}:@{4}	Open วันพฤหัสบดีตั้งแต่@{1}:@{2}~@{3}:@{4}
-16669	You can enter up to ${1} items at once	คุณสามารถป้อนรายการได้สูงสุด${1}ในครั้งเดียว
-16670	You haven't added any Group Chats yet!	คุณยังไม่ได้เพิ่มการแชทกลุ่มเลย!
+16660	Find the missing Caravan Party Leader.	Find the missing Caravan Party Leader.
+16661	Help the caravan with Cargo Placement.	Help the caravan with Cargo Placement.
+16662	When phase @{1} begins, play Fireworks	When phase @{1} begins, play Fireworks
+16663	Send Boss Death Notification to Client	Send Boss Death Notification to Client
+16664	Title level is already at the maximum.	Title level is already at the maximum.
+16665	Fly Wings cannot be used in this area.	Fly Wings cannot be used in this area.
+16666	You cannot switch channels while dead.	You cannot switch channels while dead.
+16667	Skills default to their maximum level.	Skills default to their maximum level.
+16668	Open Thursday from @{1}:@{2}~@{3}:@{4}	Open Thursday from @{1}:@{2}~@{3}:@{4}
+16669	You can enter up to ${1} items at once	You can enter up to ${1} items at once
+16670	You haven't added any Group Chats yet!	You haven't added any Group Chats yet!
 16671	【Magic Damage Reduction】Greedy Phoenix	【Magic Damage Reduction】Greedy Phoenix
 16672	Moonlight Flower Bell Cage Deathrattle	Moonlight Flower Bell Cage Deathrattle
-16673	Complete the prerequisite stage first.	ดำเนินการขั้นตอนเบื้องต้นให้เสร็จสมบูรณ์ก่อน
-16674	There are currently no chests to open.	ขณะนี้ไม่มีหีบให้เปิด
-16675	Not enough Currency for the Stall fee~	สกุลเงินไม่เพียงพอสำหรับค่าธรรมเนียมแผงลอย~
-16676	Please open a Stall before sharing it~	โปรดเปิดแผงลอยก่อนที่จะแชร์~
-16677	Damage Reduction from Other Attributes	การลดความเสียหายจากคุณสมบัติอื่น
-16678	Damage Reduction from Neutral Monsters	การลดความเสียหายจากมอนสเตอร์ที่เป็นกลาง
-16679	Defeat All Monsters in Stage @{1}-@{2}	กำจัดมอนสเตอร์ทั้งหมดในระยะ@{1}-@{2}
-16680	Automatically Approve Support Requests	อนุมัติคำขอการสนับสนุนโดยอัตโนมัติ
-16681	Invite all Elite Members to the party?	เชิญสมาชิก Elite ทุกคนมางานปาร์ตี้เหรอ?
-16682	Visit the Prontera Soldier (@{1}/@{2})	เยี่ยมชม Soldier พรอนเทรา (@{1}/@{2})
-16683	Visit the Foreign Merchant (@{1}/@{2})	เยี่ยมชมร้านค้าต่างประเทศ (@{1}/@{2})
-16684	[Adventure Guild] Daily Watering Quest	[Adventure Guild] ภารกิจรดน้ำประจำวัน
-16685	【Adventure Party】Kafra Survivor Battle	【Adventure Party】การต่อสู้ของผู้รอดชีวิต Kafra
-16686	Increase the star rating of All Skills	เพิ่มระดับดาวของทักษะทั้งหมด
-16687	Obtain Orange Cards for the first time	ได้รับ Orange Cards เป็นครั้งแรก
-16688	Equip @{1} Cards across all Card slots	ติดตั้งการ์ด@{1}ในช่องการ์ดทั้งหมด
-16689	Choose a Job Talent for the first time	เลือกผู้มีความสามารถพิเศษในการทำงานเป็นครั้งแรก
-16690	Reach Wardrobe Fashion Rating Lv. @{1}	ตู้เสื้อผ้า Reach ระดับแฟชั่น Lv.@{1}
-16691	Unlock the Worldscorch Feather Costume	ปลดล็อคชุด Feather Worldscorch
-16692	Unlock the Silverwing Covenant Costume	ปลดล็อคชุด Silverwing Covenant
-16693	We're almost done. Tap here, tap here.	เกือบเสร็จแล้วแตะที่นี่ แตะที่นี่
-16694	Go check out the tower-climbing quest.	ไปลองดูภารกิจปีนหอคอย
-16695	Breach the gate within the time limit.	ฝ่าฝืนประตูภายในเวลาที่กำหนด
-16696	Some of the roads don't exist anymore~	ถนนบางสายไม่มีอีกต่อไป~
-16697	All right, all right. Izlude is great.	เอาล่ะเอาล่ะ อิซลูเด้เก่งมาก
-16698	Only the brave can become Adventurers.	มีเพียงผู้กล้าเท่านั้นที่สามารถเป็น Adventurers ได้
-16699	Restricted government area. Keep away.	พื้นที่ราชการที่ถูกจำกัด ให้ห่างกัน.
-16700	(All you hear is the clash of blades.)	(สิ่งที่คุณได้ยินคือการปะทะกันของใบมีด)
-16701	Getting enough rest is very important.	การพักผ่อนให้เพียงพอเป็นสิ่งสำคัญมาก
-16702	Cannot claim outside the Event Period.	ไม่สามารถรับสิทธิ์ได้นอกระยะเวลากิจกรรม
-16703	Huh? 30%? Has someone not arrived yet?	หือ?30%? มีใครยังมาไม่ถึงหรือเปล่า?
+16673	Complete the prerequisite stage first.	Complete the prerequisite stage first.
+16674	There are currently no chests to open.	There are currently no chests to open.
+16675	Not enough Currency for the Stall fee~	Not enough Currency for the Stall fee~
+16676	Please open a Stall before sharing it~	Please open a Stall before sharing it~
+16677	Damage Reduction from Other Attributes	Damage Reduction from Other Attributes
+16678	Damage Reduction from Neutral Monsters	Damage Reduction from Neutral Monsters
+16679	Defeat All Monsters in Stage @{1}-@{2}	Defeat All Monsters in Stage @{1}-@{2}
+16680	Automatically Approve Support Requests	Automatically Approve Support Requests
+16681	Invite all Elite Members to the party?	Invite all Elite Members to the party?
+16682	Visit the Prontera Soldier (@{1}/@{2})	Visit the Prontera Soldier (@{1}/@{2})
+16683	Visit the Foreign Merchant (@{1}/@{2})	Visit the Foreign Merchant (@{1}/@{2})
+16684	[Adventure Guild] Daily Watering Quest	[Adventure Guild] Daily Watering Quest
+16685	【Adventure Party】Kafra Survivor Battle	【Adventure Party】Kafra Survivor Battle
+16686	Increase the star rating of All Skills	Increase the star rating of All Skills
+16687	Obtain Orange Cards for the first time	Obtain Orange Cards for the first time
+16688	Equip @{1} Cards across all Card slots	Equip @{1} Cards across all Card slots
+16689	Choose a Job Talent for the first time	Choose a Job Talent for the first time
+16690	Reach Wardrobe Fashion Rating Lv. @{1}	Reach Wardrobe Fashion Rating Lv. @{1}
+16691	Unlock the Worldscorch Feather Costume	Unlock the Worldscorch Feather Costume
+16692	Unlock the Silverwing Covenant Costume	Unlock the Silverwing Covenant Costume
+16693	We're almost done. Tap here, tap here.	We're almost done. Tap here, tap here.
+16694	Go check out the tower-climbing quest.	Go check out the tower-climbing quest.
+16695	Breach the gate within the time limit.	Breach the gate within the time limit.
+16696	Some of the roads don't exist anymore~	Some of the roads don't exist anymore~
+16697	All right, all right. Izlude is great.	All right, all right. Izlude is great.
+16698	Only the brave can become Adventurers.	Only the brave can become Adventurers.
+16699	Restricted government area. Keep away.	Restricted government area. Keep away.
+16700	(All you hear is the clash of blades.)	(All you hear is the clash of blades.)
+16701	Getting enough rest is very important.	Getting enough rest is very important.
+16702	Cannot claim outside the Event Period.	Cannot claim outside the Event Period.
+16703	Huh? 30%? Has someone not arrived yet?	Huh? 30%? Has someone not arrived yet?
 16704	<color=#FF6161>Time Until Exit</color>	<color=#FF6161>Time Until Exit</color>
-16705	Tap an area on the map to add a marker	แตะพื้นที่บนแผนที่เพื่อเพิ่มเครื่องหมาย
-16706	The auction will open after Settlement	การประมูลจะเปิดหลังจากการชำระบัญชี
-16707	${1} is the first to reach @{1} Kills!	${1}เป็นคนแรกที่เข้าถึง@{1}Kills!
-16708	The Base Vehicle has been activated!!!	Base Vehicle เปิดใช้งานแล้ว!!!
-16709	${1} seconds until the dream collapses	${1}วินาทีจนกระทั่งความฝันพังทลาย
-16710	Almachia's minions are coming for you!	สมุนของ Almachia กำลังมาหาคุณ!
-16711	Bobo\nCongratulations! That's correct!	โบโบ\n ยินดีด้วย! ถูกต้อง!
-16712	Welcome, ${1}, to the Adventure Party!	ยินดีต้อนรับ${1}สู่ปาร์ตี้ผจญภัย!
-16713	Mysterious Voice\nSing! Sing for me...	เสียงลึกลับ\n ร้องเพลง! ร้องเพลงให้ฉัน...
-16714	Bobo\n(Weakly) Am I... still alive...?	Bobo\n(อ่อนแอ) ฉัน... ยังมีชีวิตอยู่ไหม...?
-16715	Your eyesight is terrible! Hahahahaha!	สายตาคุณแย่มาก! ฮ่าๆๆๆ!
-16716	Bobo\nAdventurer! Adventurer! Wake up!	โบโบะ\nAdventurer!Adventurer! ตื่น!
-16717	Weak Voice\nHelp me... I need water...	เสียงอ่อน\n ช่วยด้วย... ฉันต้องการน้ำ...
-16718	The ball is about to begin. Get ready!	ลูกบอลกำลังจะเริ่มแล้วเตรียมตัวให้พร้อม!
-16719	@{1} VS @{2}—an electrifying showdown!	@{1}VS@{2}—การเผชิญหน้าที่น่าตื่นเต้น!
+16705	Tap an area on the map to add a marker	Tap an area on the map to add a marker
+16706	The auction will open after Settlement	The auction will open after Settlement
+16707	${1} is the first to reach @{1} Kills!	${1} is the first to reach @{1} Kills!
+16708	The Base Vehicle has been activated!!!	The Base Vehicle has been activated!!!
+16709	${1} seconds until the dream collapses	${1} seconds until the dream collapses
+16710	Almachia's minions are coming for you!	Almachia's minions are coming for you!
+16711	Bobo\nCongratulations! That's correct!	Bobo\nCongratulations! That's correct!
+16712	Welcome, ${1}, to the Adventure Party!	Welcome, ${1}, to the Adventure Party!
+16713	Mysterious Voice\nSing! Sing for me...	Mysterious Voice\nSing! Sing for me...
+16714	Bobo\n(Weakly) Am I... still alive...?	Bobo\n(Weakly) Am I... still alive...?
+16715	Your eyesight is terrible! Hahahahaha!	Your eyesight is terrible! Hahahahaha!
+16716	Bobo\nAdventurer! Adventurer! Wake up!	Bobo\nAdventurer! Adventurer! Wake up!
+16717	Weak Voice\nHelp me... I need water...	Weak Voice\nHelp me... I need water...
+16718	The ball is about to begin. Get ready!	The ball is about to begin. Get ready!
+16719	@{1} VS @{2}—an electrifying showdown!	@{1} VS @{2}—an electrifying showdown!
 16720	Combat NPC Ice Turret Cast Skill (AOE)	Combat NPC Ice Turret Cast Skill (AOE)
-16721	Main Screen and Control Mode Selection	หน้าจอหลักและการเลือกโหมด Control
+16721	Main Screen and Control Mode Selection	Main Screen and Control Mode Selection
 16722	Defeat MVP Moonlight Flower in a party	เอาชนะ MVP Moonlight Flower ในปาร์ตี้
 16723	Clear Natural Land dungeons @{1} times	เคลียร์ดันเจี้ยน Natural Land@{1}ครั้ง
-16724	Invincible and Untargetable by Enemies	Invincible และไม่ตกเป็นเป้าหมายของศัตรู
+16724	Invincible and Untargetable by Enemies	Invincible and Untargetable by Enemies
 16725	Mount · Lion can be unlocked upon use.	Mount · Lion สามารถปลดล็อคได้เมื่อใช้งาน
 16726	Open to receive Dig Boss Kill Rewards.	Open รับรางวัล Dig Boss Kill
 16727	Green material used to craft headgear.	วัสดุสีเขียวใช้ประดิษฐ์หมวก
 16728	Quest Items: Poring's medicinal herbs.	ไอเทมเควส: สมุนไพรของ Poring
 16729	A Rare mineral that emits a blue glow.	แร่ธาตุหายากที่เปล่งแสงสีน้ำเงิน
 16730	Unlocks in <color=#76c233>${1}</color>	Unlocks in <color=#76c233>${1}</color>
-16731	Hatchery level too low for Quick Hatch	ระดับโรงฟักต่ำเกินไปสำหรับ Quick Hatch
+16731	Hatchery level too low for Quick Hatch	Hatchery level too low for Quick Hatch
 16732	Professor Ryan's experimental results.	ผลการทดลองของ Professor Ryan
-16733	A pet in the Pet Preset does not exist	ไม่มีสัตว์เลี้ยงใน Pet Preset
+16733	A pet in the Pet Preset does not exist	A pet in the Pet Preset does not exist
 16734	A shield that can block enemy attacks.	โล่ที่สามารถป้องกันการโจมตีของศัตรูได้
 16735	A katar made from sharp, thorny vines.	กาตาร์ทำจากเถาวัลย์ที่มีหนามแหลมคม
 16736	Standard Currency for the Season Shop.	สกุลเงินมาตรฐานสำหรับร้านค้าซีซั่น
-16737	Two Divine Art Totems have been added.	เพิ่มโทเทม Divine Art สองอันแล้ว
-16738	Tap a totem on the left to replace it.	แตะโทเท็มทางด้านซ้ายเพื่อแทนที่
-16739	Please select the attribute to reroll.	โปรดเลือกแอตทริบิวต์ที่จะสุ่มซ้ำ
-16740	Unleash Aimed Bolt for piercing damage	ปล่อย Aimed Bolt เพื่อเจาะความเสียหาย
-16741	You've alerted an ultra-powerful boss!	คุณได้รับการแจ้งเตือนจากบอสสุดแกร่ง!
-16742	This Crystal has already been donated.	คริสตัลนี้ได้รับการบริจาคแล้ว
+16737	Two Divine Art Totems have been added.	Two Divine Art Totems have been added.
+16738	Tap a totem on the left to replace it.	Tap a totem on the left to replace it.
+16739	Please select the attribute to reroll.	Please select the attribute to reroll.
+16740	Unleash Aimed Bolt for piercing damage	Unleash Aimed Bolt for piercing damage
+16741	You've alerted an ultra-powerful boss!	You've alerted an ultra-powerful boss!
+16742	This Crystal has already been donated.	This Crystal has already been donated.
 16743	Cross Impact Guillotine Cross Portrait	Cross Impact Guillotine Cross Portrait
 16744	Orange Soul Echo (Two Matching Colors)	Orange Soul Echo (Two Matching Colors)
 16745	Universal Emotes Unlock (Limited-Time)	Universal Emotes Unlock (Limited-Time)
@@ -750,86 +750,86 @@
 16749	Emerald Realmguard Scroll·Off-Hand-Red	Emerald Realmguard Scroll·Off-Hand-Red
 16750	Crimson Realmguard Scroll·Off-Hand-Red	Crimson Realmguard Scroll·Off-Hand-Red
 16751	Hummingbird Scroll · Dual Wield - Blue	Hummingbird Scroll · Dual Wield - Blue
-16752	Randomly replaces an existing Enchant.	สุ่มแทนที่ Enchant ที่มีอยู่
-16753	Growth Badge level requirement not met	ไม่เป็นไปตามข้อกำหนดระดับป้ายการเติบโต
+16752	Randomly replaces an existing Enchant.	Randomly replaces an existing Enchant.
+16753	Growth Badge level requirement not met	Growth Badge level requirement not met
 16754	Dragon Coffin Island Protection Points	Dragon Coffin Island Protection Points
-16755	${1} declined the dungeon ready check.	${1}ปฏิเสธการตรวจสอบความพร้อมของดันเจี้ยน
+16755	${1} declined the dungeon ready check.	${1} declined the dungeon ready check.
 16756	Glast Heim Underground Cave Floor @{1}	Glast Heim Underground Cave Floor @{1}
-16757	Chapter [${2}] of Book [${1}] unlocked	บทที่ [${2}] ของหนังสือ [${1}] ปลดล็อคแล้ว
-16758	Season Vulcan Cannon Damage Boost Buff	บัฟเพิ่มความเสียหายของ Cannon วัลแคนฤดูกาล
-16759	Play Season Standard Cannon Hit Effect	เล่นเอฟเฟกต์การยิง Cannon มาตรฐานในฤดูกาล
-16760	Play Season Enhanced Cannon Hit Effect	เล่นเอฟเฟกต์การยิง Cannon ที่ปรับปรุงฤดูกาล
-16761	Increased Grand Cross and Other Damage	เพิ่ม Grand Cross และความเสียหายอื่น ๆ
-16762	Spear Mastery - Increased Physical ATK	Spear Mastery - เพิ่ม ATK ทางกายภาพ
-16763	Increased Max Life During Battle Chant	เพิ่มพลัง Life สูงสุดในระหว่างการสวดมนต์การต่อสู้
-16764	Phase 1 Goddess Large Musical Note@{1}	เฟส 1 เจ้าแม่ Musical Note ขนาดใหญ่@{1}
-16765	Little Note Counterclockwise Skill@{1}	หมายเหตุเล็กๆ น้อยๆ ทักษะทวนเข็มนาฬิกา@{1}
-16766	Battle Royale Transition Player Effect	เอฟเฟกต์ผู้เล่นเปลี่ยน Battle Royale
-16767	Skill and Combat Resource Display Area	พื้นที่แสดงทรัพยากรทักษะและการต่อสู้
-16768	Main Gameplay Information Display Area	พื้นที่แสดงข้อมูลการเล่นเกมหลัก
-16769	Invincible and Untargetable Deprecated	Invincible และเลิกใช้แล้วไม่สามารถกำหนดเป้าหมายได้
-16770	Lightning Strike Damage Increase Stack	ความเสียหายจาก Lightning Strike เพิ่มสแต็ค
-16771	Corrupted Wander Man Exclusive Passive	Corrupted Wander Man เอกสิทธิ์เฉพาะ
-16772	Gravity Impact Continuous Ghost Attack	แรงโน้มถ่วงส่งผลกระทบต่อการโจมตีของผีอย่างต่อเนื่อง
-16773	Complete War of Survivors ${1} time(s)	สงครามผู้รอดชีวิตเสร็จสิ้น${1}ครั้ง
-16774	Reach ${1} Monster Collection progress	เข้าถึงความคืบหน้าของคอลเลกชันสัตว์ประหลาด${1}
-16775	Unlock ${1} monsters in the Collection	ปลดล็อคสัตว์ประหลาด${1}ในคอลเลกชัน
-16776	Reach a total Refinement Level of ${1}	เข้าถึงระดับการปรับแต่งรวมของ${1}
-16777	Have ${1} Pets of the specified Rarity	มีสัตว์เลี้ยง${1}ในระดับความหายากที่ระบุ
-16778	Spacetime Epic Settlement Instructions	คำแนะนำในการยุติข้อตกลง Spacetime Epic
-16779	No Auction Dividend available to claim	ไม่มีเงินปันผลจากการประมูลให้ขอรับได้
-16780	The other player's friend list is full	รายชื่อเพื่อนผู้เล่นอื่นเต็มแล้ว
-16781	Friend recommendations are on cooldown	การแนะนำเพื่อนอยู่ในคูลดาวน์
-16782	This appearance has not been activated	ลักษณะที่ปรากฏนี้ยังไม่ได้เปิดใช้งาน
-16783	Not enough Distance from another Stall	ระยะทางจากแผงอื่นไม่เพียงพอ
-16784	The selected Totems cannot be combined	Totem ที่เลือกไม่สามารถรวมกันได้
-16785	The gift recipient has left the Tavern	ผู้รับของขวัญออกจาก Tavern แล้ว
-16786	The Pre-purchase order does not exist.	ไม่มีคำสั่งซื้อล่วงหน้า
-16787	Sorry, your purchase was unsuccessful.	ขออภัย การซื้อของคุณไม่สำเร็จ
-16788	Adventurer Group name cannot be empty.	ชื่อกลุ่ม Adventurer ต้องไม่เว้นว่าง
-16789	Guild Supplies have reached the limit.	Guild Supplies ถึงขีดจำกัดแล้ว
-16790	Cannot Repeat a Merge Guild invitation	ไม่สามารถทำซ้ำคำเชิญ Merge Guild
-16791	Guild activity dividend reward claimed	รับรางวัลเงินปันผลจากกิจกรรม Guild แล้ว
-16792	Not enough Currency to purchase levels	สกุลเงินไม่เพียงพอที่จะซื้อระดับ
-16793	Challenge configuration does not exist	Challenge
-16794	Lifetime prize pool draw limit reached	ถึงขีดจำกัดการจับรางวัลตลอดชีพแล้ว
-16795	Master Smith's Blessing - Power Strike	Blessing ของ Master Smith - Power Strike
-16796	Item is outside its valid usage period	รายการอยู่นอกระยะเวลาการใช้งานที่ถูกต้อง
-16797	Skill Level exceeds the maximum level.	เกินระดับสูงสุด
-16798	The rally is full. Unable to teleport.	แรลลี่เต็มแล้วไม่สามารถเทเลพอร์ตได้
-16799	Phase 1\nBreak Through the Castle Gate	Phase 1\n ทะลุผ่าน Gate ปราสาท
-16800	Phase Two\nFortify the Knight Guardian	ระยะที่สอง\n เสริมกำลัง Knight Guardian
-16801	Cannot equip this Job item: Wrong Job.	ไม่สามารถติดตั้งรายการงานนี้: ผิดงาน
-16802	You've reached today's Donation limit.	คุณบริจาคถึงขีดจำกัดการบริจาคของวันนี้แล้ว
+16757	Chapter [${2}] of Book [${1}] unlocked	Chapter [${2}] of Book [${1}] unlocked
+16758	Season Vulcan Cannon Damage Boost Buff	Season Vulcan Cannon Damage Boost Buff
+16759	Play Season Standard Cannon Hit Effect	Play Season Standard Cannon Hit Effect
+16760	Play Season Enhanced Cannon Hit Effect	Play Season Enhanced Cannon Hit Effect
+16761	Increased Grand Cross and Other Damage	Increased Grand Cross and Other Damage
+16762	Spear Mastery - Increased Physical ATK	Spear Mastery - Increased Physical ATK
+16763	Increased Max Life During Battle Chant	Increased Max Life During Battle Chant
+16764	Phase 1 Goddess Large Musical Note@{1}	Phase 1 Goddess Large Musical Note@{1}
+16765	Little Note Counterclockwise Skill@{1}	Little Note Counterclockwise Skill@{1}
+16766	Battle Royale Transition Player Effect	Battle Royale Transition Player Effect
+16767	Skill and Combat Resource Display Area	Skill and Combat Resource Display Area
+16768	Main Gameplay Information Display Area	Main Gameplay Information Display Area
+16769	Invincible and Untargetable Deprecated	Invincible and Untargetable Deprecated
+16770	Lightning Strike Damage Increase Stack	Lightning Strike Damage Increase Stack
+16771	Corrupted Wander Man Exclusive Passive	Corrupted Wander Man Exclusive Passive
+16772	Gravity Impact Continuous Ghost Attack	Gravity Impact Continuous Ghost Attack
+16773	Complete War of Survivors ${1} time(s)	Complete War of Survivors ${1} time(s)
+16774	Reach ${1} Monster Collection progress	Reach ${1} Monster Collection progress
+16775	Unlock ${1} monsters in the Collection	Unlock ${1} monsters in the Collection
+16776	Reach a total Refinement Level of ${1}	Reach a total Refinement Level of ${1}
+16777	Have ${1} Pets of the specified Rarity	Have ${1} Pets of the specified Rarity
+16778	Spacetime Epic Settlement Instructions	Spacetime Epic Settlement Instructions
+16779	No Auction Dividend available to claim	No Auction Dividend available to claim
+16780	The other player's friend list is full	The other player's friend list is full
+16781	Friend recommendations are on cooldown	Friend recommendations are on cooldown
+16782	This appearance has not been activated	This appearance has not been activated
+16783	Not enough Distance from another Stall	Not enough Distance from another Stall
+16784	The selected Totems cannot be combined	The selected Totems cannot be combined
+16785	The gift recipient has left the Tavern	The gift recipient has left the Tavern
+16786	The Pre-purchase order does not exist.	The Pre-purchase order does not exist.
+16787	Sorry, your purchase was unsuccessful.	Sorry, your purchase was unsuccessful.
+16788	Adventurer Group name cannot be empty.	Adventurer Group name cannot be empty.
+16789	Guild Supplies have reached the limit.	Guild Supplies have reached the limit.
+16790	Cannot Repeat a Merge Guild invitation	Cannot Repeat a Merge Guild invitation
+16791	Guild activity dividend reward claimed	Guild activity dividend reward claimed
+16792	Not enough Currency to purchase levels	Not enough Currency to purchase levels
+16793	Challenge configuration does not exist	Challenge configuration does not exist
+16794	Lifetime prize pool draw limit reached	Lifetime prize pool draw limit reached
+16795	Master Smith's Blessing - Power Strike	Master Smith's Blessing - Power Strike
+16796	Item is outside its valid usage period	Item is outside its valid usage period
+16797	Skill Level exceeds the maximum level.	Skill Level exceeds the maximum level.
+16798	The rally is full. Unable to teleport.	The rally is full. Unable to teleport.
+16799	Phase 1\nBreak Through the Castle Gate	Phase 1\nBreak Through the Castle Gate
+16800	Phase Two\nFortify the Knight Guardian	Phase Two\nFortify the Knight Guardian
+16801	Cannot equip this Job item: Wrong Job.	Cannot equip this Job item: Wrong Job.
+16802	You've reached today's Donation limit.	You've reached today's Donation limit.
 16803	Build a shield wall with Dragon Scales	สร้างกำแพงโล่ด้วย Dragon Scales
 16804	Summon a circular water-pillar attack.	เรียกการโจมตีเสาน้ำเป็นวงกลม
-16805	Service error. Please try again later.	ข้อผิดพลาดในการบริการ โปรดลองอีกครั้งในภายหลัง
-16806	Not enough item-based Revive attempts.	ความพยายามในการฟื้นฟูตามไอเท็มไม่เพียงพอ
-16807	Not enough ${1}. Please purchase more.	ไม่เพียงพอ${1}กรุณาซื้อเพิ่มเติม.
-16808	The other player is already in Blocks.	ผู้เล่นอีกคนอยู่ในบล็อกแล้ว
-16809	Current Protected Victory Points: ${1}	คะแนนชัยชนะที่ได้รับการป้องกันในปัจจุบัน:${1}
-16810	No party matchmaking information found	ไม่พบข้อมูลการจับคู่ปาร์ตี้
-16811	My name is Bragis Skjald. I am a bard.	ฉันชื่อ Bragis Skjald ฉันเป็นกวี
-16812	${1} will unlock at ${2}. Please wait.	${1}จะปลดล็อคที่${2}โปรดรอ.
-16813	Safe Zone contraction #${1} has begun.	การหดตัวของ Safe Zone #${1}ได้เริ่มขึ้นแล้ว
-16814	Not enough items in stock to purchase.	มีสินค้าในสต็อกไม่เพียงพอที่จะซื้อ
-16815	Cannot be used while in Battle Status.	ไม่สามารถใช้ได้ขณะอยู่ในสถานะการต่อสู้
-16816	This skill cannot be moved or replaced	ทักษะนี้ไม่สามารถย้ายหรือเปลี่ยนได้
+16805	Service error. Please try again later.	Service error. Please try again later.
+16806	Not enough item-based Revive attempts.	Not enough item-based Revive attempts.
+16807	Not enough ${1}. Please purchase more.	Not enough ${1}. Please purchase more.
+16808	The other player is already in Blocks.	The other player is already in Blocks.
+16809	Current Protected Victory Points: ${1}	Current Protected Victory Points: ${1}
+16810	No party matchmaking information found	No party matchmaking information found
+16811	My name is Bragis Skjald. I am a bard.	My name is Bragis Skjald. I am a bard.
+16812	${1} will unlock at ${2}. Please wait.	${1} will unlock at ${2}. Please wait.
+16813	Safe Zone contraction #${1} has begun.	Safe Zone contraction #${1} has begun.
+16814	Not enough items in stock to purchase.	Not enough items in stock to purchase.
+16815	Cannot be used while in Battle Status.	Cannot be used while in Battle Status.
+16816	This skill cannot be moved or replaced	This skill cannot be moved or replaced
 16817	Increases 【Grimtooth】 damage by ${1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น${1}%
 16818	Increases 【Grimtooth】 damage by @{1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น@{1}%
 16819	Kill an enemy to refresh the Cooldown.	Kill ศัตรูเพื่อรีเฟรชคูลดาวน์
 16820	Physical/Magic DEF decreases by @{1}%.	DEF กายภาพ/เวทมนตร์ลดลง@{1}%
 16821	Poring's bubble shield for its master.	บับเบิ้ลชิลด์ของ Poring สำหรับต้นแบบ
-16822	Create an Adventurer Group named ${1}?	สร้างกลุ่ม Adventurer ชื่อ${1}?
-16823	${1}'s level has increased to Lv. ${2}	เลเวลของ${1}เพิ่มขึ้นเป็น Lv.${2}
-16824	Space is stable. No rifts have appeared	พื้นที่มีเสถียรภาพไม่มีรอยแยกปรากฏ
-16825	I completed the Beginner Challenge ${1}	ฉันพิชิต Beginner Challenge${1}แล้ว
-16826	Damage Reduction from Poison Monsters %	การลดความเสียหายจากมอนสเตอร์พิษ %
-16827	Damage Reduction from Shadow Monsters %	การลดความเสียหายจาก Shadow Monsters %
-16828	Damage Reduction from Undead Monsters %	การลดความเสียหายจากมอนสเตอร์ Undead %
-16829	Damage Reduction from Demi-Human Race %	การลดความเสียหายจากเผ่าพันธุ์กึ่งมนุษย์ %
-16830	^{1}Stronghold Battle Contest Phase^{2}	^{1}ระยะการแข่งขัน Stronghold Battle^{2}
-16831	Season Rank Details Season Rank Details	รายละเอียดอันดับฤดูกาล รายละเอียดอันดับฤดูกาล
+16822	Create an Adventurer Group named ${1}?	Create an Adventurer Group named ${1}?
+16823	${1}'s level has increased to Lv. ${2}	${1}'s level has increased to Lv. ${2}
+16824	Space is stable. No rifts have appeared	Space is stable. No rifts have appeared
+16825	I completed the Beginner Challenge ${1}	I completed the Beginner Challenge ${1}
+16826	Damage Reduction from Poison Monsters %	Damage Reduction from Poison Monsters %
+16827	Damage Reduction from Shadow Monsters %	Damage Reduction from Shadow Monsters %
+16828	Damage Reduction from Undead Monsters %	Damage Reduction from Undead Monsters %
+16829	Damage Reduction from Demi-Human Race %	Damage Reduction from Demi-Human Race %
+16830	^{1}Stronghold Battle Contest Phase^{2}	^{1}Stronghold Battle Contest Phase^{2}
+16831	Season Rank Details Season Rank Details	Season Rank Details Season Rank Details
 16832	^{1}Defeat Ilmata, Primordial Chaos^{2}	^{1}เอาชนะอิลมาตา ความโกลาหลดั่งเดิม^{2}
 16833	Collect Purple Quality Cards @{1} times	รวบรวมการ์ดคุณภาพสีม่วง@{1}เท่า
 16834	Collect Orange Quality cards @{1} times	รวบรวมการ์ดคุณภาพสีส้ม@{1}เท่า
@@ -838,8 +838,8 @@
 16837	Head to the ball and meet up with Luna.	มุ่งหน้าไปที่ลูกบอลแล้วพบกับ Luna
 16838	Place Whispering Flowers along the way.	วาง Whispering Flowers ไว้ข้างทาง
 16839	Learn about the Monster Conquest System	เรียนรู้เกี่ยวกับระบบพิชิตสัตว์ประหลาด
-16840	Rare Reward-Doppelganger-Illusion Limit	รางวัลหายาก-Doppelganger-ภาพลวงตาจำกัด
-16841	Territory War-Weekly Blackhole Attempts	สงครามอาณาเขต - ความพยายาม Blackhole รายสัปดาห์
+16840	Rare Reward-Doppelganger-Illusion Limit	Rare Reward-Doppelganger-Illusion Limit
+16841	Territory War-Weekly Blackhole Attempts	Territory War-Weekly Blackhole Attempts
 16842	Participate in the Guild Stronghold War	เข้าร่วมในสงครามฐานที่มั่น Guild
 16843	Auto-battle in a party for @{1} minutes	ต่อสู้อัตโนมัติในปาร์ตี้เป็นเวลา@{1}นาที
 16844	Defeat Hard Moonlight Flower in a party	กำจัด Hard Moonlight Flower ในปาร์ตี้
@@ -847,53 +847,53 @@
 16846	Learn about the Novice Trial from Rhine	เรียนรู้เกี่ยวกับการทดลองเบื้องต้นจากแม่น้ำ Rhine
 16847	Board the Airship and prepare to depart	ขึ้นเรือเหาะและเตรียมพร้อมออกเดินทาง
 16848	Help the Soldier Deal with the Monsters	ช่วย Soldier จัดการกับสัตว์ประหลาด
-16849	Converted to Physical ATK and Magic ATK	แปลงเป็น ATK กายภาพและ Magic ATK
-16850	Converted to Physical DEF and Magic DEF	แปลงเป็น DEF กายภาพและ DEF เวทมนตร์
-16851	Affects damage taken from Damage Skills	ส่งผลต่อความเสียหายที่ได้รับจากทักษะความเสียหาย
-16852	Affects your damage taken from monsters	ส่งผลต่อความเสียหายที่ได้รับจากมอนสเตอร์
-16853	Increases damage ${1} deals to monsters	เพิ่มความเสียหายที่${1}ทำกับมอนสเตอร์
-16854	Defeat the Peco Peco and rescue Bragis.	เอาชนะ Peco Peco และช่วยเหลือ Bragis
-16855	Season Settlement: Battle Merit Rewards	ข้อตกลงซีซั่น: รางวัล Battle Merit
+16849	Converted to Physical ATK and Magic ATK	Converted to Physical ATK and Magic ATK
+16850	Converted to Physical DEF and Magic DEF	Converted to Physical DEF and Magic DEF
+16851	Affects damage taken from Damage Skills	Affects damage taken from Damage Skills
+16852	Affects your damage taken from monsters	Affects your damage taken from monsters
+16853	Increases damage ${1} deals to monsters	Increases damage ${1} deals to monsters
+16854	Defeat the Peco Peco and rescue Bragis.	Defeat the Peco Peco and rescue Bragis.
+16855	Season Settlement: Battle Merit Rewards	Season Settlement: Battle Merit Rewards
 16856	Open your Backpack and use a Red Potion	Open กระเป๋าเป้สะพายหลังของคุณแล้วใช้ Red Potion
 16857	Temporary Caravan Escort Activity Quest	ภารกิจ Activity คุ้มกันคาราวานชั่วคราว
 16858	Stronghold War Temporary Activity Quest	ภารกิจ Activity ชั่วคราวสงครามฐานที่มั่น
 16859	Royal City War Temporary Activity Quest	ภารกิจ Activity ชั่วคราวสงครามเมืองหลวง
-16860	Reach ${1}/${2} Supply Transport Points	เข้าถึงจุดขนส่งอุปทาน${1}/${2}
-16861	Complete the survey to receive rewards.	ทำแบบสำรวจให้เสร็จสิ้นเพื่อรับรางวัล
-16862	Available on the first day after launch	วางจำหน่ายวันแรกหลังเปิดตัว
-16863	This equipment has no saved attributes.	อุปกรณ์นี้ไม่มีแอตทริบิวต์ที่บันทึกไว้
-16864	Job Advance can unlock more skill slots	Job Advance สามารถปลดล็อกช่องทักษะเพิ่มเติมได้
-16865	Not enough Coins to purchase a Fly Wing	เหรียญไม่เพียงพอที่จะซื้อ Fly Wing
-16866	5-Player Challenge - Savage Hinterlands	ความท้าทายสำหรับผู้เล่น 5 คน - Savage Hinterlands
+16860	Reach ${1}/${2} Supply Transport Points	Reach ${1}/${2} Supply Transport Points
+16861	Complete the survey to receive rewards.	Complete the survey to receive rewards.
+16862	Available on the first day after launch	Available on the first day after launch
+16863	This equipment has no saved attributes.	This equipment has no saved attributes.
+16864	Job Advance can unlock more skill slots	Job Advance can unlock more skill slots
+16865	Not enough Coins to purchase a Fly Wing	Not enough Coins to purchase a Fly Wing
+16866	5-Player Challenge - Savage Hinterlands	5-Player Challenge - Savage Hinterlands
 16867	Speak with the Mentor about Job Advance	พูดคุยกับที่ปรึกษาเกี่ยวกับจ็อบแอดวานซ์
 16868	Give the poor girl some Clothes to wear	มอบเสื้อผ้าให้สาวน้อยผู้น่าสงสาร
 16869	Ask Hollgrehenn about Equipment Forging	ถาม Hollgrehenn เกี่ยวกับการตีอุปกรณ์
-16870	Press and hold to quickly assign points	กดค้างไว้เพื่อกำหนดคะแนนอย่างรวดเร็ว
-16871	\nYou traveled with friends ${1} times.	\n คุณไปเที่ยวกับเพื่อน${1}ครั้ง
-16872	\nYou dressed up for a date ${1} times.	\n คุณแต่งตัวสำหรับการออกเดท${1}ครั้ง
-16873	Summon a Falcon to Fight Alongside you.	เรียกเหยี่ยวมาต่อสู้เคียงข้างคุณ
-16874	Use Sharp Shooting for piercing damage.	ใช้ Sharp Shooting เพื่อเจาะความเสียหาย
-16875	Combine Ice and Thunder for AoE damage.	รวมน้ำแข็งและฟ้าร้องเพื่อสร้างความเสียหายแบบ AoE
-16876	Not enough stall slots. Listing failed.	ช่องแผงไม่เพียงพอลงรายการไม่สำเร็จ
-16877	Restrict Purchasing on the Trade Market	จำกัดการซื้อในตลาดการค้า
-16878	Guild ID: ${1}\nFormer Guild Name: ${2}	รหัส Guild:${1}\n ชื่อ Guild เดิม:${2}ข้อมูล Guild
-16879	Set the Dummy's Race, Size, and element	กำหนดการแข่งขัน ขนาด และองค์ประกอบของหุ่นจำลอง
-16880	Cannot organize during batch processing	ไม่สามารถจัดระเบียบระหว่างการประมวลผลแบตช์
-16881	<color=#cc762a>${1}</color> valid items	<color=#cc762a>${1}</color>รายการที่ถูกต้อง
-16882	The other player's friend list is full.	รายชื่อเพื่อนผู้เล่นอื่นเต็มแล้ว
-16883	Maximum number of group Members reached	ถึงจำนวนสมาชิกกลุ่มสูงสุดแล้ว
-16884	Remove this Member from the Group Chat?	Remove สมาชิกนี้ออกจากการแชทเป็นกลุ่มหรือไม่
-16885	Daily Ranking Reward Settlement at ${1}	การชำระรางวัลอันดับรายวันที่${1}
-16886	Enjoy thrilling battles between guilds~	เพลิดเพลินไปกับการต่อสู้อันน่าตื่นเต้นระหว่างกิลด์~
-16887	${1} removed ${2} as Deputy Raid Leader	${1}ถอด${2}ออกจากตำแหน่งรองหัวหน้าหน่วยจู่โจม
-16888	Attempts remaining This Week: ${1}/${2}	ความพยายามที่เหลืออยู่ในสัปดาห์นี้:${1}/${2}ความพยายาม
-16889	Some Members have not set a declaration	สมาชิกบางคนยังไม่ได้ตั้งค่าการประกาศ
-16890	Load ${1} goods before you can Get Help	โหลดสินค้า${1}ก่อนที่คุณจะสามารถรับความช่วยเหลือได้
-16891	Betting hasn't opened yet. Please wait.	เดิมพันยังไม่เปิดโปรดรอ.
+16870	Press and hold to quickly assign points	Press and hold to quickly assign points
+16871	\nYou traveled with friends ${1} times.	\nYou traveled with friends ${1} times.
+16872	\nYou dressed up for a date ${1} times.	\nYou dressed up for a date ${1} times.
+16873	Summon a Falcon to Fight Alongside you.	Summon a Falcon to Fight Alongside you.
+16874	Use Sharp Shooting for piercing damage.	Use Sharp Shooting for piercing damage.
+16875	Combine Ice and Thunder for AoE damage.	Combine Ice and Thunder for AoE damage.
+16876	Not enough stall slots. Listing failed.	Not enough stall slots. Listing failed.
+16877	Restrict Purchasing on the Trade Market	Restrict Purchasing on the Trade Market
+16878	Guild ID: ${1}\nFormer Guild Name: ${2}	Guild ID: ${1}\nFormer Guild Name: ${2}
+16879	Set the Dummy's Race, Size, and element	Set the Dummy's Race, Size, and element
+16880	Cannot organize during batch processing	Cannot organize during batch processing
+16881	<color=#cc762a>${1}</color> valid items	<color=#cc762a>${1}</color> valid items
+16882	The other player's friend list is full.	The other player's friend list is full.
+16883	Maximum number of group Members reached	Maximum number of group Members reached
+16884	Remove this Member from the Group Chat?	Remove this Member from the Group Chat?
+16885	Daily Ranking Reward Settlement at ${1}	Daily Ranking Reward Settlement at ${1}
+16886	Enjoy thrilling battles between guilds~	Enjoy thrilling battles between guilds~
+16887	${1} removed ${2} as Deputy Raid Leader	${1} removed ${2} as Deputy Raid Leader
+16888	Attempts remaining This Week: ${1}/${2}	Attempts remaining This Week: ${1}/${2}
+16889	Some Members have not set a declaration	Some Members have not set a declaration
+16890	Load ${1} goods before you can Get Help	Load ${1} goods before you can Get Help
+16891	Betting hasn't opened yet. Please wait.	Betting hasn't opened yet. Please wait.
 16892	Secondary Profession Season Rank Points	Secondary Profession Season Rank Points
-16893	Requires the specified number of items.	ต้องระบุจำนวนรายการ
-16894	Insufficient Guild League participation	การเข้าร่วม Guild League ไม่เพียงพอ
-16895	Valhalla ${1} has not been cleared yet.	Valhalla${1}ยังไม่ถูกเคลียร์
+16893	Requires the specified number of items.	Requires the specified number of items.
+16894	Insufficient Guild League participation	Insufficient Guild League participation
+16895	Valhalla ${1} has not been cleared yet.	Valhalla ${1} has not been cleared yet.
 16896	Each stack increases Magic ATK by ${1}.	แต่ละสแต็คจะเพิ่มพลังโจมตีเวทย์ขึ้น${1}
 16897	A red thread now connects you and them.	ด้ายสีแดงเชื่อมโยงคุณและพวกเขาเข้าด้วยกัน
 16898	Increases Movement Speed and HP recover	เพิ่มความเร็วในการเคลื่อนที่และฟื้นฟู HP
@@ -916,57 +916,57 @@
 16915	Ignores ${1}% of the target's Magic DEF	ไม่สนใจ${1}% ของ DEF เวทมนตร์ของเป้าหมาย
 16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม Lv. ตัวละคร*${1}】
 16917	Highest recorded Power is insufficient.	Highest recorded Power is insufficient.
-16918	You must explore this area on your own.	คุณต้องสำรวจพื้นที่นี้ด้วยตัวเอง
-16919	Public channel chat unlocks at Lv. ${1}	แชทช่องสาธารณะจะปลดล็อคที่ระดับ${1}
+16918	You must explore this area on your own.	You must explore this area on your own.
+16919	Public channel chat unlocks at Lv. ${1}	Public channel chat unlocks at Lv. ${1}
 16920	Starshatter Dragon Ritual Administrator	Starshatter Dragon Ritual Administrator
-16921	Tap a Portrait to adjust your Formation	แตะภาพบุคคลเพื่อปรับรูปแบบของคุณ
-16922	List an item before opening your Stall.	ลงรายการก่อนเปิดแผงลอยของคุณ
-16923	First week of the season: ${1}${2}-${3}	สัปดาห์แรกของฤดูกาล:${1}${2}-${3}
-16924	Investigate the Area Around the Culvert	สำรวจพื้นที่รอบๆ Culvert
-16925	Elite Members can tap to join the party	Elite สามารถแตะเพื่อเข้าร่วมปาร์ตี้ได้
+16921	Tap a Portrait to adjust your Formation	Tap a Portrait to adjust your Formation
+16922	List an item before opening your Stall.	List an item before opening your Stall.
+16923	First week of the season: ${1}${2}-${3}	First week of the season: ${1}${2}-${3}
+16924	Investigate the Area Around the Culvert	Investigate the Area Around the Culvert
+16925	Elite Members can tap to join the party	Elite Members can tap to join the party
 16926	<color=#9F433A>Unequip Strategy</color>	<color=#9F433A>Unequip Strategy</color>
-16927	Visit the Life Skill Mentor (@{1}/@{2})	เยี่ยมชม Life Skill Mentor (@{1}/@{2})
-16928	Guild Event - Provincial Capital Battle	กิจกรรม Guild - การต่อสู้ในเมืองหลวงของจังหวัด
-16929	There are currently no Faction effects.	ขณะนี้ไม่มีเอฟเฟกต์ฝ่าย
-16930	Complete Equipment Appraisal @{1} times	ประเมินอุปกรณ์เสร็จสมบูรณ์@{1}ครั้ง
-16931	Obtain a Purple Card for the first time	ได้รับ Purple Card เป็นครั้งแรก
-16932	This is my favorite card slot. Pick it.	นี่คือช่องเสียบการ์ดที่ฉันชอบเลือกมัน
-16933	Tap here to claim Activity rewards, bo~	แตะที่นี่เพื่อรับรางวัล Activity โบ~
-16934	Turn in supplies to earn guild rewards!	มอบเสบียงเพื่อรับรางวัลกิลด์!
-16935	Shilude will return safely, won't they?	ชิลูดจะกลับมาอย่างปลอดภัยใช่ไหม?
-16936	How long did this one live... 87 years.	ตัวนี้อยู่ได้นานแค่ไหน... 87 ปี
-16937	...It's gone. Did someone take it down?	... หายแล้ว. มีใครเอามันลงมั้ย?
-16938	Patrol or rest today—(Flips coin) Rest.	ตระเวนหรือพักผ่อนวันนี้—(พลิกเหรียญ) พักผ่อน
-16939	Lady Irmata is the most exalted of all.	Lady Irmata เป็นผู้สูงส่งที่สุด
-16940	Are you ready to begin the competition?	คุณพร้อมที่จะเริ่มการแข่งขันแล้วหรือยัง?
-16941	What's so special about the White Dove?	มีอะไรพิเศษเกี่ยวกับ White Dove บ้าง?
+16927	Visit the Life Skill Mentor (@{1}/@{2})	Visit the Life Skill Mentor (@{1}/@{2})
+16928	Guild Event - Provincial Capital Battle	Guild Event - Provincial Capital Battle
+16929	There are currently no Faction effects.	There are currently no Faction effects.
+16930	Complete Equipment Appraisal @{1} times	Complete Equipment Appraisal @{1} times
+16931	Obtain a Purple Card for the first time	Obtain a Purple Card for the first time
+16932	This is my favorite card slot. Pick it.	This is my favorite card slot. Pick it.
+16933	Tap here to claim Activity rewards, bo~	Tap here to claim Activity rewards, bo~
+16934	Turn in supplies to earn guild rewards!	Turn in supplies to earn guild rewards!
+16935	Shilude will return safely, won't they?	Shilude will return safely, won't they?
+16936	How long did this one live... 87 years.	How long did this one live... 87 years.
+16937	...It's gone. Did someone take it down?	...It's gone. Did someone take it down?
+16938	Patrol or rest today—(Flips coin) Rest.	Patrol or rest today—(Flips coin) Rest.
+16939	Lady Irmata is the most exalted of all.	Lady Irmata is the most exalted of all.
+16940	Are you ready to begin the competition?	Are you ready to begin the competition?
+16941	What's so special about the White Dove?	What's so special about the White Dove?
 16942	<color=#9ae35a>[Party Blessing]</color>	<color=#9ae35a>[Party Blessing]</color>
-16943	Someone else is already controlling it!	มีคนอื่นควบคุมมันอยู่แล้ว!
-16944	Select an item to dismantle on the left	เลือกรายการที่จะรื้อทางด้านซ้าย
-16945	Epic Campaign (Normal), Begin Challenge	Epic Campaign (ปกติ) เริ่มการท้าทาย
-16946	Help! Hurry and break this coffin open!	ช่วยด้วย! รีบเปิดโลงศพนี้ซะ!
-16947	${1} Terminated ${2}'s Peerless streak.	${1}ยุติแนว Peerless ของ${2}
-16948	Main-screen Notification interface test	การทดสอบอินเทอร์เฟซการแจ้งเตือนบนหน้าจอหลัก
-16949	^{1}The flag-bearing Boss has appeared!	^{1}บอสผู้ถือธงปรากฏตัวแล้ว!
-16950	^{1}Guild League closes in @{1} seconds	^{1}Guild League จะปิดใน@{1}วินาที
-16951	The guards and commander have appeared!	การ์ดและผู้บังคับบัญชาปรากฏตัวแล้ว!
-16952	The strange odor has faded from the air	กลิ่นแปลกๆ จางหายไปจากอากาศ
-16953	The western portal is becoming unstable	พอร์ทัลตะวันตกเริ่มไม่เสถียร
-16954	Heroes, collect the notes on the ground	Heroes รวบรวมโน้ตบนพื้น
-16955	Unfortunately, ${1} has left the guild.	น่าเสียดายที่${1}ออกจากกิลด์แล้ว
-16956	The battlefield closes in ${1} seconds.	สนามรบจะปิดลงใน${1}วินาที
-16957	Quick, we can't hold out much longer...	ด่วนๆ ทนไม่ไหวแล้ว...
-16958	Bobo\nWhatever! Let's defeat her first!	Bobo\n อะไรก็ได้! มาเอาชนะเธอก่อน!
-16959	Boya\nDamn, this Eddga is really tough!	Boya\n ให้ตายเถอะ Eddga นี่ช่างแข็งแกร่งจริงๆ!
-16960	Bobo\nLook! There's a chest over there~	โบโบ\n ดูสิ! มีหน้าอกอยู่ตรงนั้น~
-16961	A huge wave of monsters is approaching!	คลื่นสัตว์ประหลาดขนาดมหึมากำลังใกล้เข้ามา!
-16962	Reach Lv. @{1} to Begin a New Adventure	ถึงระดับ@{1}เพื่อเริ่มต้นการผจญภัยครั้งใหม่
+16943	Someone else is already controlling it!	Someone else is already controlling it!
+16944	Select an item to dismantle on the left	Select an item to dismantle on the left
+16945	Epic Campaign (Normal), Begin Challenge	Epic Campaign (Normal), Begin Challenge
+16946	Help! Hurry and break this coffin open!	Help! Hurry and break this coffin open!
+16947	${1} Terminated ${2}'s Peerless streak.	${1} Terminated ${2}'s Peerless streak.
+16948	Main-screen Notification interface test	Main-screen Notification interface test
+16949	^{1}The flag-bearing Boss has appeared!	^{1}The flag-bearing Boss has appeared!
+16950	^{1}Guild League closes in @{1} seconds	^{1}Guild League closes in @{1} seconds
+16951	The guards and commander have appeared!	The guards and commander have appeared!
+16952	The strange odor has faded from the air	The strange odor has faded from the air
+16953	The western portal is becoming unstable	The western portal is becoming unstable
+16954	Heroes, collect the notes on the ground	Heroes, collect the notes on the ground
+16955	Unfortunately, ${1} has left the guild.	Unfortunately, ${1} has left the guild.
+16956	The battlefield closes in ${1} seconds.	The battlefield closes in ${1} seconds.
+16957	Quick, we can't hold out much longer...	Quick, we can't hold out much longer...
+16958	Bobo\nWhatever! Let's defeat her first!	Bobo\nWhatever! Let's defeat her first!
+16959	Boya\nDamn, this Eddga is really tough!	Boya\nDamn, this Eddga is really tough!
+16960	Bobo\nLook! There's a chest over there~	Bobo\nLook! There's a chest over there~
+16961	A huge wave of monsters is approaching!	A huge wave of monsters is approaching!
+16962	Reach Lv. @{1} to Begin a New Adventure	Reach Lv. @{1} to Begin a New Adventure
 16963	PATCH_REPAIR_CLIENT_FINISH_ANDROID_TIPS	PATCH_REPAIR_CLIENT_FINISH_ANDROID_TIPS
 16964	Permanently unlocks the Pipe appearance	ปลดล็อครูปลักษณ์ของ Pipe อย่างถาวร
 16965	Mount · Hyena can be unlocked upon use.	Mount · Hyena สามารถปลดล็อคได้เมื่อใช้งาน
 16966	Open to receive Dig Elite Kill Rewards.	Open รับรางวัล Dig Elite Kill
 16967	Open to select one T@{1} orange weapon.	Open เพื่อเลือกอาวุธสีส้ม T@{1}หนึ่งอัน
-16968	Crafting Moonlit Challenger - Tailoring	Crafting Moonlit Challenger - การตัดเย็บ
+16968	Crafting Moonlit Challenger - Tailoring	Crafting Moonlit Challenger - Tailoring
 16969	Chance to obtain Blue Quality Headwear.	โอกาสที่จะได้รับ Blue Quality Headwear
 16970	Orange material used to craft headgear.	วัสดุสีส้มใช้ประดิษฐ์หมวก
 16971	Purple material used to craft headgear.	วัสดุสีม่วงใช้ประดิษฐ์หมวก
@@ -974,14 +974,14 @@
 16973	A plant with three heart-shaped leaves.	พืชที่มีใบรูปหัวใจสามใบ
 16974	A bone from an undead Skeleton Soldier.	กระดูกจาก SoldierSkeleton อันเดด
 16975	A Trunk. Can be exchanged for Headwear.	ลำต้น สามารถเปลี่ยนเป็น Headwear ได้
-16976	You can only faintly make out note ${1}	คุณสามารถจดบันทึกได้เพียงแผ่วเบาเท่านั้น${1}
+16976	You can only faintly make out note ${1}	You can only faintly make out note ${1}
 16977	Unlocks <color=#76c233>Tomorrow</color>	Unlocks <color=#76c233>Tomorrow</color>
 16978	Use to receive Advanced Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์ Guild ขั้นสูง
 16979	Use to receive Beginner Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์ Guild มือใหม่
-16980	Pet has reached the maximum star rating	สัตว์เลี้ยงมีระดับดาวสูงสุดแล้ว
+16980	Pet has reached the maximum star rating	Pet has reached the maximum star rating
 16981	Clothing made from high-quality fabric.	เสื้อผ้าผลิตจากผ้าคุณภาพสูง
 16982	Consumed during gathering and crafting.	Consumed during gathering and crafting.
-16983	Not applied: This skill already exists.	ไม่ได้ใช้: ทักษะนี้มีอยู่แล้ว
+16983	Not applied: This skill already exists.	Not applied: This skill already exists.
 16984	Hero Registry (@{1} Hours) Discontinued	Hero Registry (@{1} Hours) Discontinued
 16985	Advanced Treasure Chest@{1}(Deprecated)	Advanced Treasure Chest@{1}(Deprecated)
 16986	Deluxe Pack-Test Cross-Season Allowlist	Deluxe Pack-Test Cross-Season Allowlist
@@ -989,13 +989,13 @@
 16988	Magic Breaker Scroll · Accessory-Orange	Magic Breaker Scroll · Accessory-Orange
 16989	Magic Breaker Scroll · Accessory-Purple	Magic Breaker Scroll · Accessory-Purple
 16990	Hummingbird Scroll · Dual Wield - Green	Hummingbird Scroll · Dual Wield - Green
-16991	Not enough pets of the required quality	มีสัตว์เลี้ยงไม่เพียงพอตามคุณภาพที่ต้องการ
-16992	Not enough offline idle rewards claimed	รับรางวัลเมื่อไม่ได้ใช้งานออฟไลน์ไม่เพียงพอ
+16991	Not enough pets of the required quality	Not enough pets of the required quality
+16992	Not enough offline idle rewards claimed	Not enough offline idle rewards claimed
 16993	Dragon Coffin Island Net Victory Points	Dragon Coffin Island Net Victory Points
-16994	No Revives remaining for this challenge	ไม่มีการฟื้นฟูเหลืออยู่สำหรับการท้าทายนี้
-16995	Complete a Territory War Faction Quest.	สำเร็จภารกิจฝ่ายสงครามอาณาเขต
-16996	Combat Assistance Function Display Area	พื้นที่แสดงผลฟังก์ชันช่วยเหลือการต่อสู้
-16997	Gameplay Phase Information Display Area	พื้นที่แสดงข้อมูลเฟสการเล่นเกม
-16998	Are you sure you want to exit the game?	คุณแน่ใจหรือไม่ว่าต้องการออกจากเกม?
-16999	Different-Color Collision Bubble NPC Up	ฟองการชนกันหลากสี NPC ขึ้น
+16994	No Revives remaining for this challenge	No Revives remaining for this challenge
+16995	Complete a Territory War Faction Quest.	Complete a Territory War Faction Quest.
+16996	Combat Assistance Function Display Area	Combat Assistance Function Display Area
+16997	Gameplay Phase Information Display Area	Gameplay Phase Information Display Area
+16998	Are you sure you want to exit the game?	Are you sure you want to exit the game?
+16999	Different-Color Collision Bubble NPC Up	Different-Color Collision Bubble NPC Up
 17000	Spiritual Melody Purification Self Buff	Spiritual Melody Purification Self Buff

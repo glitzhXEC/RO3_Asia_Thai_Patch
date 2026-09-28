@@ -3,18 +3,18 @@
 5002	Absolute Judex	Absolute Judex
 5003	Shield Pursuit	Shield Pursuit
 5004	Crest of Light	Crest of Light
-5005	Chase Distance	ระยะไล่ล่า
-5006	Go to Settings	ไปที่การตั้งค่า
-5007	Casting Method	วิธีการหล่อ
-5008	Normal Casting	การหล่อแบบปกติ
-5009	Damage Numbers	หมายเลขความเสียหาย
-5010	Sound Settings	การตั้งค่าเสียง
-5011	Semi-Soft Lock	กึ่งซอฟท์ล็อค
-5012	Full Soft Lock	ซอฟท์ล็อคแบบเต็มตัว
-5013	Skill Callouts	คำบรรยายภาพทักษะ
-5014	Always Display	แสดงเสมอ
-5015	Self and Party	ตัวเองและปาร์ตี้
-5016	Mouse Left Tap	แตะซ้ายของ Mouse
+5005	Chase Distance	Chase Distance
+5006	Go to Settings	Go to Settings
+5007	Casting Method	Casting Method
+5008	Normal Casting	Normal Casting
+5009	Damage Numbers	Damage Numbers
+5010	Sound Settings	Sound Settings
+5011	Semi-Soft Lock	Semi-Soft Lock
+5012	Full Soft Lock	Full Soft Lock
+5013	Skill Callouts	Skill Callouts
+5014	Always Display	Always Display
+5015	Self and Party	Self and Party
+5016	Mouse Left Tap	Mouse Left Tap
 5017	Powerful Drain	Powerful Drain
 5018	Fan-Shaped AOE	Fan-Shaped AOE
 5019	Horizontal AOE	Horizontal AOE
@@ -45,7 +45,7 @@
 5044	Dark Corrosion	Dark Corrosion
 5045	Bell Resonance	Bell Resonance
 5046	Charging Blade	Charging Blade
-5047	Likes Received	กดไลค์แล้ว
+5047	Likes Received	Likes Received
 5048	Heaven's Drive	Heaven's Drive
 5049	Dance of Death	Dance of Death
 5050	Blazing Thrust	Blazing Thrust
@@ -53,8 +53,8 @@
 5052	Nether Phantom	Nether Phantom
 5053	Dancing Blades	Dancing Blades
 5054	Lingering Echo	Lingering Echo
-5055	${1} Resources	ทรัพยากร${1}
-5056	Privacy Policy	นโยบายความเป็นส่วนตัว
+5055	${1} Resources	${1} Resources
+5056	Privacy Policy	Privacy Policy
 5057	Summon Puppets	Summon Puppets
 5058	Dark Pulse@{1}	Dark Pulse@{1}
 5059	Refresh Horong	Refresh Horong
@@ -81,26 +81,26 @@
 5080	Chain Reaction	Chain Reaction
 5081	Fireball Burst	Fireball Burst
 5082	Fire Explosion	Fire Explosion
-5083	Trophy Journey	การเดินทางถ้วยรางวัล
-5084	Create Bonfire	สร้าง Bonfire
-5085	Card Promotion	กู้คืนการ์ด
-5086	Card Taken off	การ์ดถูกถอดออก
-5087	Confirm Return	ยืนยันการคืนสินค้า
-5088	Bulk Dismantle	การแยกชิ้นส่วนจำนวนมาก
-5089	Result Preview	ประเภทผลลัพธ์
-5090	Elite Settings	Elite
-5091	Run a Business	ดำเนินธุรกิจ
-5092	Reward: Random	รางวัล: สุ่ม
+5083	Trophy Journey	Trophy Journey
+5084	Create Bonfire	Create Bonfire
+5085	Card Promotion	Card Promotion
+5086	Card Taken off	Card Taken off
+5087	Confirm Return	Confirm Return
+5088	Bulk Dismantle	Bulk Dismantle
+5089	Result Preview	Result Preview
+5090	Elite Settings	Elite Settings
+5091	Run a Business	Run a Business
+5092	Reward: Random	Reward: Random
 5093	Male Character	Male Character
-5094	${1} Tradeable	${1}ซื้อขายได้
+5094	${1} Tradeable	${1} Tradeable
 5095	Abandoned Mine	Abandoned Mine
-5096	Master Effects	มาสเตอร์เอฟเฟกต์
-5097	Key Attributes	การตั้งค่าคีย์
-5098	Cooldown: ${1}	คูลดาวน์:${1}คูลดาวน์
-5099	Build Counters	สร้างตัวนับ
-5100	Current Stage:	ระยะปัจจุบัน:
-5101	Go Add Friend!	ไปเพิ่มเพื่อน!
-5102	Tap to type...	แตะเพื่อพิมพ์...
+5096	Master Effects	Master Effects
+5097	Key Attributes	Key Attributes
+5098	Cooldown: ${1}	Cooldown: ${1}
+5099	Build Counters	Build Counters
+5100	Current Stage:	Current Stage:
+5101	Go Add Friend!	Go Add Friend!
+5102	Tap to type...	Tap to type...
 5103	Blue Light Orb	Blue Light Orb
 5104	Strange Device	Strange Device
 5105	Spear Crusader	Spear Crusader
@@ -145,160 +145,160 @@
 5144	Maya-Nightmare	Maya-Nightmare
 5145	Pharaoh-Normal	Pharaoh-Normal
 5146	Baphomet-Final	Baphomet-Final
-5147	Current Level:	ระดับปัจจุบัน:
-5148	Edit Formation	แก้ไขรูปแบบ
-5149	Invalid Floors	พื้นไม่ถูกต้อง
-5150	Honor Rankings	อันดับเกียรติยศ
-5151	Reward Preview	ตัวอย่างรางวัล
+5147	Current Level:	Current Level:
+5148	Edit Formation	Edit Formation
+5149	Invalid Floors	Invalid Floors
+5150	Honor Rankings	Honor Rankings
+5151	Reward Preview	Reward Preview
 5152	Male Hairstyle	Male Hairstyle
-5153	Platinum Range	กลุ่มแพลตตินัม
-5154	Treasure Chest	หีบสมบัติ
-5155	Teammate: ${1}	เพื่อนร่วมทีม:${1}
+5153	Platinum Range	Platinum Range
+5154	Treasure Chest	Treasure Chest
+5155	Teammate: ${1}	Teammate: ${1}
 5156	Attack Enhance	Attack Enhance
-5157	Monsterologist	นักสัตว์ประหลาด
-5158	Stall Duration	ระยะเวลาแผงลอย
-5159	Player Message	ข้อความผู้เล่น
-5160	Event Calendar	ปฏิทินกิจกรรม
-5161	Daily Must-Dos	สิ่งที่ต้องทำประจำวัน
-5162	Starts in ${1}	เริ่มต้นใน${1}
-5163	Starts at ${1}	เริ่มต้นที่${1}
-5164	Event Rewards:	:
-5165	Skill Cooldown	พารามิเตอร์ที่สำคัญของทักษะ
-5166	Neutral Damage	ความเสียหายที่เป็นกลาง
+5157	Monsterologist	Monsterologist
+5158	Stall Duration	Stall Duration
+5159	Player Message	Player Message
+5160	Event Calendar	Event Calendar
+5161	Daily Must-Dos	Daily Must-Dos
+5162	Starts in ${1}	Starts in ${1}
+5163	Starts at ${1}	Starts at ${1}
+5164	Event Rewards:	Event Rewards:
+5165	Skill Cooldown	Skill Cooldown
+5166	Neutral Damage	Neutral Damage
 5167	Garden of Time	Garden of Time
-5168	Currency Cost:	ต้นทุนสกุลเงิน:
-5169	Tactic Details	รายละเอียดแทคติก
-5170	Tactic Library	Library ยุทธวิธี
-5171	Escort Station	สถานีคุ้มกัน
-5172	Claim Dividend	ขอรับเงินปันผล
-5173	About to start	กำลังจะเริ่มต้นแล้ว
-5174	In Progress...	อยู่ระหว่างดำเนินการ...
-5175	Player invited	ผู้เล่นได้รับเชิญ
-5176	Guild Dividend	เงินปันผล Guild
-5177	War Technology	เทคโนโลยีสงคราม
+5168	Currency Cost:	Currency Cost:
+5169	Tactic Details	Tactic Details
+5170	Tactic Library	Tactic Library
+5171	Escort Station	Escort Station
+5172	Claim Dividend	Claim Dividend
+5173	About to start	About to start
+5174	In Progress...	In Progress...
+5175	Player invited	Player invited
+5176	Guild Dividend	Guild Dividend
+5177	War Technology	War Technology
 5178	Guild Activity	Guild Activity
 5179	Guild Prestige	Guild Prestige
 5180	Guild Supplies	Guild Supplies
-5181	Send an Invite	ส่งคำเชิญ
-5182	No Invitations	ไม่มีคำเชิญ
-5183	Inviting Party	ปาร์ตี้เชิญ
-5184	Pets - Star Up	สัตว์เลี้ยง - สตาร์อัพ
-5185	Go, Kafra, Go!	ไป Kafra ไป!
-5186	Equip a Weapon	ติดตั้งอาวุธ
-5187	Job Prediction	การทำนายงาน
-5188	Newfound Power	ขุมพลังที่ค้นพบใหม่
-5189	The Road Ahead	ถนนข้างหน้า
-5190	Rescue Mission	ภารกิจกู้ภัย
-5191	Reach Lv. @{1}	ถึงระดับ@{1}
-5192	Helpful Hunter	นักล่าผู้ช่วยเหลือ
-5193	Boarding Alert	การแจ้งเตือนการขึ้นเครื่อง
-5194	Together Again	รวมตัวกันอีกครั้ง
-5195	Find the Relic	ค้นหา Relic
-5196	Return to Gwen	กลับไปหา Gwen
+5181	Send an Invite	Send an Invite
+5182	No Invitations	No Invitations
+5183	Inviting Party	Inviting Party
+5184	Pets - Star Up	Pets - Star Up
+5185	Go, Kafra, Go!	Go, Kafra, Go!
+5186	Equip a Weapon	Equip a Weapon
+5187	Job Prediction	Job Prediction
+5188	Newfound Power	Newfound Power
+5189	The Road Ahead	The Road Ahead
+5190	Rescue Mission	Rescue Mission
+5191	Reach Lv. @{1}	Reach Lv. @{1}
+5192	Helpful Hunter	Helpful Hunter
+5193	Boarding Alert	Boarding Alert
+5194	Together Again	Together Again
+5195	Find the Relic	Find the Relic
+5196	Return to Gwen	Return to Gwen
 5197	At the Banquet	At the Banquet
-5198	Night Watchman	ยามกลางคืน
-5199	Unleash Talent	ปลดปล่อยความสามารถ
-5200	Obtain a Mount	รับพาหนะ
-5201	Fly, Fly Wing!	บิน ปีกบิน!
-5202	Novice's Trial	การทดลองของมือใหม่
-5203	Request Reward	ขอรับรางวัล
-5204	Next Objective	วัตถุประสงค์ถัดไป
-5205	Landing Failed	การลงจอดล้มเหลว
-5206	Crisis Strikes	วิกฤตการณ์
-5207	Danger Averted	หลีกเลี่ยงอันตรายแล้ว
-5208	Boarding Check	การตรวจสอบขึ้นเครื่อง
-5209	Return to Camp	กลับสู่แคมป์
-5210	Gain 10 Levels	ได้รับ 10 ระดับ
-5211	Support Effect	รองรับเอฟเฟกต์
-5212	Utility Slot 1	1
-5213	Utility Slot 2	2
-5214	Utility Slot 3	3
-5215	Advanced Hatch	ฟักขั้นสูง
-5216	Free This Time	ฟรีในครั้งนี้
-5217	Permanent Pool	พูลถาวร
-5218	Level-up Time:	เวลาอัพเลเวล:
-5219	Hatching Notes	บันทึกการฟักไข่
-5220	Growth Preview	ดูตัวอย่างการเติบโต
-5221	Skill Level-up	เลเวลอัพทักษะ
-5222	(${1} seconds)	(${1}วินาที)
-5223	Elite@{1} Tier	Elite@{1}เทียร์
-5224	Select Alpaca.	เลือก Alpaca
-5225	Choosing a Job	การเลือกงาน
-5226	Loading Video…	กำลังโหลดวิดีโอ...
-5227	Demonic Dragon	มังกรปีศาจ
-5228	Battle Fafnir.	แบทเทิล Fafnir
-5229	I'm not ready.	ฉันยังไม่พร้อม
-5230	Turn and Leave	เลี้ยวและ Leave
-5231	Enter the Lair	เข้าสู่ถ้ำ
-5232	Take me there.	พาฉันไปที่นั่น
-5233	No, I haven't.	ไม่ ฉันยังไม่มี
-5234	Getting Better	เริ่มดีขึ้น
-5235	Growth Rewards	รางวัลการเติบโต
-5236	Title Overview	ตัวอย่างหัวข้อ
-5237	To the Academy	สู่อคาเดมี
-5238	Daily Requests	คำขอรายวัน
-5239	Use Group Warp	ใช้ Group Warp
-5240	What happened?	เกิดอะไรขึ้น?
-5241	Need any help?	ต้องการความช่วยเหลือหรือไม่?
-5242	Y-you're okay?	คะ-คุณสบายดีไหม?
-5243	Wave ${1}/${2}	Wave${1}/${2}
-5244	Resets in ${1}	รีเซ็ตใน${1}
-5245	Confirm Revive	ยืนยันการฟื้นคืนชีพ
-5246	Manage Markers	จัดการเครื่องหมาย
-5247	Gathering Area	พื้นที่รวมตัว
-5248	Nightmare Mode	โหมด Nightmare
-5249	${1} EXP +${2}	${1}EXP +${2}
-5250	Return to Game	กลับสู่เกม
-5251	Expressionless	ไร้อารมณ์
+5198	Night Watchman	Night Watchman
+5199	Unleash Talent	Unleash Talent
+5200	Obtain a Mount	Obtain a Mount
+5201	Fly, Fly Wing!	Fly, Fly Wing!
+5202	Novice's Trial	Novice's Trial
+5203	Request Reward	Request Reward
+5204	Next Objective	Next Objective
+5205	Landing Failed	Landing Failed
+5206	Crisis Strikes	Crisis Strikes
+5207	Danger Averted	Danger Averted
+5208	Boarding Check	Boarding Check
+5209	Return to Camp	Return to Camp
+5210	Gain 10 Levels	Gain 10 Levels
+5211	Support Effect	Support Effect
+5212	Utility Slot 1	Utility Slot 1
+5213	Utility Slot 2	Utility Slot 2
+5214	Utility Slot 3	Utility Slot 3
+5215	Advanced Hatch	Advanced Hatch
+5216	Free This Time	Free This Time
+5217	Permanent Pool	Permanent Pool
+5218	Level-up Time:	Level-up Time:
+5219	Hatching Notes	Hatching Notes
+5220	Growth Preview	Growth Preview
+5221	Skill Level-up	Skill Level-up
+5222	(${1} seconds)	(${1} seconds)
+5223	Elite@{1} Tier	Elite@{1} Tier
+5224	Select Alpaca.	Select Alpaca.
+5225	Choosing a Job	Choosing a Job
+5226	Loading Video…	Loading Video…
+5227	Demonic Dragon	Demonic Dragon
+5228	Battle Fafnir.	Battle Fafnir.
+5229	I'm not ready.	I'm not ready.
+5230	Turn and Leave	Turn and Leave
+5231	Enter the Lair	Enter the Lair
+5232	Take me there.	Take me there.
+5233	No, I haven't.	No, I haven't.
+5234	Getting Better	Getting Better
+5235	Growth Rewards	Growth Rewards
+5236	Title Overview	Title Overview
+5237	To the Academy	To the Academy
+5238	Daily Requests	Daily Requests
+5239	Use Group Warp	Use Group Warp
+5240	What happened?	What happened?
+5241	Need any help?	Need any help?
+5242	Y-you're okay?	Y-you're okay?
+5243	Wave ${1}/${2}	Wave ${1}/${2}
+5244	Resets in ${1}	Resets in ${1}
+5245	Confirm Revive	Confirm Revive
+5246	Manage Markers	Manage Markers
+5247	Gathering Area	Gathering Area
+5248	Nightmare Mode	Nightmare Mode
+5249	${1} EXP +${2}	${1} EXP +${2}
+5250	Return to Game	Return to Game
+5251	Expressionless	Expressionless
 5252	Auto-Dismantle	Auto-Dismantle
-5253	Battle Starts!	การต่อสู้เริ่มต้นแล้ว!
-5254	I'll help you!	ฉันจะช่วยคุณ!
-5255	Soaring Sky II	ทะยานฟ้า II
-5256	Soaring Sky IV	ทะยานฟ้า IV
-5257	It's so hot...	ร้อนจัง...
-5258	Reward claimed	รับรางวัลแล้ว
+5253	Battle Starts!	Battle Starts!
+5254	I'll help you!	I'll help you!
+5255	Soaring Sky II	Soaring Sky II
+5256	Soaring Sky IV	Soaring Sky IV
+5257	It's so hot...	It's so hot...
+5258	Reward claimed	Reward claimed
 5259	Reflect Damage	Reflect Damage
-5260	Radiance Orbit	วงโคจรเรเดียนซ์
-5261	Auctioned item	สินค้าประมูล
-5262	Bid Multiplier	ตัวคูณการเสนอราคา
-5263	Current Price:	ราคาปัจจุบัน:
+5260	Radiance Orbit	Radiance Orbit
+5261	Auctioned item	Auctioned item
+5262	Bid Multiplier	Bid Multiplier
+5263	Current Price:	Current Price:
 5264	Auction Status	Auction Status
-5265	Start Crafting	เริ่มการประดิษฐ์
-5266	Engraving Plan	แผนการแกะสลัก
-5267	Current Preset	ค่าที่ตั้งล่วงหน้าปัจจุบัน
-5268	No ranking yet	ยังไม่มีอันดับ
+5265	Start Crafting	Start Crafting
+5266	Engraving Plan	Engraving Plan
+5267	Current Preset	Current Preset
+5268	No ranking yet	No ranking yet
 5269	Apprentice III	Apprentice III
-5270	Welcome to RO3	ยินดีต้อนรับสู่ RO3
-5271	Battle Results	ผลการต่อสู้
-5272	Guild Members:	:
-5273	Final Matchups	การจับคู่ครั้งสุดท้าย
-5274	Kill the Guard	Kill การ์ด
-5275	Current Points	คะแนนปัจจุบัน
-5276	One-Handed Axe	ขวานมือเดียว
-5277	Two-Handed Axe	ขวานสองมือ
-5278	Book Page Item	รายการหน้าหนังสือ
-5279	Enchant Scroll	ใบเสริมเสน่ห์
-5280	Valhalla Items	ไอเทม Valhalla
+5270	Welcome to RO3	Welcome to RO3
+5271	Battle Results	Battle Results
+5272	Guild Members:	Guild Members:
+5273	Final Matchups	Final Matchups
+5274	Kill the Guard	Kill the Guard
+5275	Current Points	Current Points
+5276	One-Handed Axe	One-Handed Axe
+5277	Two-Handed Axe	Two-Handed Axe
+5278	Book Page Item	Book Page Item
+5279	Enchant Scroll	Enchant Scroll
+5280	Valhalla Items	Valhalla Items
 5281	Arcane Crystal	Arcane Crystal
-5282	Character name	ชื่อตัวละคร
-5283	Equipment Name	ชื่ออุปกรณ์
-5284	Random Dungeon	ดันเจี้ยนสุ่ม
-5285	Prontera Areas	พื้นที่พรอนเทรา
-5286	Medicine Items	รายการยา
-5287	Collector Card	การ์ดสะสม
-5288	Normal Message	ข้อความปกติ
-5289	Location Share	แชร์ตำแหน่ง
-5290	System Message	ระบบ
-5291	Tavern Message	ข้อความ Tavern
-5292	Featured Event	กิจกรรมเด่น
-5293	Need a Big Bro	ต้องการพี่ใหญ่
-5294	Poison Attacks	การโจมตีด้วยพิษ
-5295	Open Ambulance	รถพยาบาล Open
-5296	Take her hand.	จับมือเธอไว้
+5282	Character name	Character name
+5283	Equipment Name	Equipment Name
+5284	Random Dungeon	Random Dungeon
+5285	Prontera Areas	Prontera Areas
+5286	Medicine Items	Medicine Items
+5287	Collector Card	Collector Card
+5288	Normal Message	Normal Message
+5289	Location Share	Location Share
+5290	System Message	System Message
+5291	Tavern Message	Tavern Message
+5292	Featured Event	Featured Event
+5293	Need a Big Bro	Need a Big Bro
+5294	Poison Attacks	Poison Attacks
+5295	Open Ambulance	Open Ambulance
+5296	Take her hand.	Take her hand.
 5297	Cleaving Slash	Cleaving Slash
 5298	Phantom Thrust	Phantom Thrust
 5299	Rain of Spears	Rain of Spears
-5300	Magic Infusion	เมจิก อินฟิวชั่น
+5300	Magic Infusion	Magic Infusion
 5301	Vehicle Shield	Vehicle Shield
 5302	Area Detection	Area Detection
 5303	Soul Expansion	Soul Expansion
@@ -309,38 +309,38 @@
 5308	Lava Heat Wave	Lava Heat Wave
 5309	Shaking Bubble	Shaking Bubble
 5310	Explosive Tide	Explosive Tide
-5311	Exalted Status	สถานะที่สูงส่ง
-5312	Air-Drop Point	จุดดรอปอากาศ
-5313	Prontera S@{1}	พรอนเทรา S@{1}
-5314	Current Battle	การต่อสู้ปัจจุบัน
-5315	Blackhole Mode	โหมดหลุมดำ
-5316	Skill Training	การฝึกทักษะ
-5317	Frame Rate Cap	ขีดจำกัดอัตราเฟรม
+5311	Exalted Status	Exalted Status
+5312	Air-Drop Point	Air-Drop Point
+5313	Prontera S@{1}	Prontera S@{1}
+5314	Current Battle	Current Battle
+5315	Blackhole Mode	Blackhole Mode
+5316	Skill Training	Skill Training
+5317	Frame Rate Cap	Frame Rate Cap
 5318	Ironwood Chunk	Ironwood Chunk
 5319	Ironwood Blank	Ironwood Blank
 5320	Woolen Padding	Woolen Padding
 5321	Sacred Padding	Sacred Padding
-5322	Celestial Star	เซเลสเชียล สตาร์
-5323	Learn Refining	เรียนรู้การขัดเกลา
-5324	Seek the Truth	ค้นหาความจริง
-5325	Crisis Averted	หลีกเลี่ยงวิกฤตแล้ว
-5326	Nagging Doubts	ข้อสงสัยที่จู้จี้จุกจิก
-5327	The Final Step	ขั้นตอนสุดท้าย
-5328	Lost and Found	สูญหายและพบ
-5329	Time to Deduce	ถึงเวลาอนุมาน
-5330	Watch Cutscene	ดูคัตซีน
-5331	Skill Learning	การเรียนรู้ทักษะ
-5332	Repair Station	สถานีซ่อม
-5333	Forced Petrify	บังคับกลายเป็นหิน
-5334	Skill Movement	ทักษะการเคลื่อนที่
-5335	Party Assembly	ปาร์ตี้สมัชชา
-5336	Wild Hemp Vine	เถากัญชาป่า
-5337	Expert Forager	ผู้เชี่ยวชาญด้านอาหารสัตว์
-5338	Rapid Crafting	การประดิษฐ์อย่างรวดเร็ว
+5322	Celestial Star	Celestial Star
+5323	Learn Refining	Learn Refining
+5324	Seek the Truth	Seek the Truth
+5325	Crisis Averted	Crisis Averted
+5326	Nagging Doubts	Nagging Doubts
+5327	The Final Step	The Final Step
+5328	Lost and Found	Lost and Found
+5329	Time to Deduce	Time to Deduce
+5330	Watch Cutscene	Watch Cutscene
+5331	Skill Learning	Skill Learning
+5332	Repair Station	Repair Station
+5333	Forced Petrify	Forced Petrify
+5334	Skill Movement	Skill Movement
+5335	Party Assembly	Party Assembly
+5336	Wild Hemp Vine	Wild Hemp Vine
+5337	Expert Forager	Expert Forager
+5338	Rapid Crafting	Rapid Crafting
 5339	Yellow quartz.	ควอตซ์สีเหลือง
-5340	Save Selection	บันทึกการเลือก
-5341	Goddess's Hint	คำแนะนำของเทพธิดา
-5342	Stellar Matrix	เมทริกซ์ดาวฤกษ์
+5340	Save Selection	Save Selection
+5341	Goddess's Hint	Goddess's Hint
+5342	Stellar Matrix	Stellar Matrix
 5343	Hunting Season	Hunting Season
 5344	The Hanged Man	The Hanged Man
 5345	Supreme Throne	Supreme Throne
@@ -357,9 +357,9 @@
 5356	Headgear Chest	Headgear Chest
 5357	Conqueror Pack	Conqueror Pack
 5358	Oridecon-Clear	Oridecon-Clear
-5359	Requested ${2}	ที่ร้องขอ${2}คำขอ
+5359	Requested ${2}	Requested ${2}
 5360	Moon Jellyfish	Moon Jellyfish
-5361	Thief Portrait	ภาพเหมือนของโจร
+5361	Thief Portrait	Thief Portrait
 5362	Meteorite Grip	Meteorite Grip
 5363	Crafting Notes	Crafting Notes
 5364	Legendary Pelt	Legendary Pelt
@@ -386,7 +386,7 @@
 5385	Lv. @{1} Staff	Lv. @{1} Staff
 5386	Superior Katar	Superior Katar
 5387	Advanced Katar	Advanced Katar
-5388	Replace (${1})	แทนที่ (${1})
+5388	Replace (${1})	Replace (${1})
 5389	Bunny Slippers	Bunny Slippers
 5390	Fricco's Shoes	Fricco's Shoes
 5391	Novice Greaves	Novice Greaves
@@ -398,7 +398,7 @@
 5397	Smash's Hammer	Smash's Hammer
 5398	Dragutin Spear	Dragutin Spear
 5399	Treasure Sword	Treasure Sword
-5400	Already firing	เริ่มทำงานแล้ว
+5400	Already firing	Already firing
 5401	Novice Credits	Novice Credits
 5402	Card: Penomena	Card: Penomena
 5403	Card: Metaller	Card: Metaller
@@ -407,167 +407,167 @@
 5406	Card: Scorpion	Card: Scorpion
 5407	Card: Poporing	Card: Poporing
 5408	Card: Chonchon	Card: Chonchon
-5409	Weekly Rewards	รางวัลประจำสัปดาห์
-5410	Ranking Rules:	:
-5411	Select a Build	เลือกบิลด์
-5412	Revive Details	รายละเอียดการฟื้นคืนชีพ
-5413	Reward Details	ตัวอย่างรางวัล
-5414	Ilmatar Turret	Turret อิลมาทาร์
-5415	Average Power:	กำลังเฉลี่ย:
-5416	Shared Rewards	แบ่งปันรางวัล
-5417	Lv. ${1}: ${2}	เลเวล${1}:${2}
-5418	Enter Directly	ป้อนโดยตรง
-5419	Challenge Role	บทบาทการท้าทาย
-5420	Daily Activity	Activity ประจำวัน
-5421	Echo Dismantle	รื้อเอคโค่
-5422	Naisha's Trial	การทดลองของ Naisha
-5423	Blooming Waves	คลื่นเบ่งบาน
-5424	Musical Frenzy	ดนตรีสุดมันส์
-5425	Dance together	เต้นกัน
-5426	Backup Dancers	นักเต้นสำรอง
-5427	Demonic Pillar	เสาปีศาจ
-5428	Ocean Concerto	โอเชียนคอนแชร์โต้
-5429	Hornet Advance	Hornet แอดวานซ์
+5409	Weekly Rewards	Weekly Rewards
+5410	Ranking Rules:	Ranking Rules:
+5411	Select a Build	Select a Build
+5412	Revive Details	Revive Details
+5413	Reward Details	Reward Details
+5414	Ilmatar Turret	Ilmatar Turret
+5415	Average Power:	Average Power:
+5416	Shared Rewards	Shared Rewards
+5417	Lv. ${1}: ${2}	Lv. ${1}: ${2}
+5418	Enter Directly	Enter Directly
+5419	Challenge Role	Challenge Role
+5420	Daily Activity	Daily Activity
+5421	Echo Dismantle	Echo Dismantle
+5422	Naisha's Trial	Naisha's Trial
+5423	Blooming Waves	Blooming Waves
+5424	Musical Frenzy	Musical Frenzy
+5425	Dance together	Dance together
+5426	Backup Dancers	Backup Dancers
+5427	Demonic Pillar	Demonic Pillar
+5428	Ocean Concerto	Ocean Concerto
+5429	Hornet Advance	Hornet Advance
 5430	Shield Defense	Shield Defense
 5431	Divine Insight	Divine Insight
-5432	Revive Players	ฟื้นผู้เล่น
-5433	Highest Rating	เรตติ้งสูงสุด
-5434	Miracle Healer	มิราเคิลฮีลเลอร์
-5435	Test of Mettle	การทดสอบความกล้าหาญ
-5436	Mighty War God	เทพเจ้าสงครามอันยิ่งใหญ่
-5437	Oracle Revival	การฟื้นฟูของออราเคิล
-5438	Backcap Expert	ผู้เชี่ยวชาญแบ็คแคป
-5439	Point Captured	จับจุดแล้ว
-5440	Triple Triumph	ทริปเปิ้ลไทรอัมพ์
-5441	Fastest Runner	วิ่งเร็วที่สุด
-5442	Initial Effect	ผลเริ่มต้น
-5443	Unlock Rewards	ปลดล็อครางวัล
-5444	Codex Unlocked	Codex ปลดล็อคแล้ว
+5432	Revive Players	Revive Players
+5433	Highest Rating	Highest Rating
+5434	Miracle Healer	Miracle Healer
+5435	Test of Mettle	Test of Mettle
+5436	Mighty War God	Mighty War God
+5437	Oracle Revival	Oracle Revival
+5438	Backcap Expert	Backcap Expert
+5439	Point Captured	Point Captured
+5440	Triple Triumph	Triple Triumph
+5441	Fastest Runner	Fastest Runner
+5442	Initial Effect	Initial Effect
+5443	Unlock Rewards	Unlock Rewards
+5444	Codex Unlocked	Codex Unlocked
 5445	Meteor Assault	Meteor Assault
 5446	Soul Destroyer	Soul Destroyer
-5447	Stellar Vortex	สเตลลาร์ วอร์เท็กซ์
-5448	Swift Blessing	Blessing ที่รวดเร็ว
-5449	Cart Accessory	อุปกรณ์เสริมรถเข็น
-5450	Terminate Stun	ยุติการมึนงง
-5451	Body Tempering	การแบ่งเบาบรรเทาร่างกาย
-5452	Weapon Mastery	ความชำนาญด้านอาวุธ
-5453	Finishing Blow	จบการเป่า
-5454	Weapon Enhance	เสริมอาวุธ
-5455	Cannon Refresh	รีเฟรช Cannon
-5456	Size Increased	ขนาดเพิ่มขึ้น
-5457	Shrinking Item	สินค้าหดตัว
-5458	SP Consumption	SP ปริมาณการใช้
-5459	Add Attributes	เพิ่มคุณสมบัติ
-5460	Swift Movement	การเคลื่อนไหวที่รวดเร็ว
-5461	Poring Poring!	ปอริ่ง ปอริ่ง!
-5462	Gain DEF Boost	ได้รับ DEF Boost
-5463	Back to Bottom	กลับไปด้านล่าง
-5464	Tab Management	การจัดการแท็บ
-5465	Gameplay Phase	ระยะการเล่นเกม
-5466	Gameplay Alert	พื้นที่แสดงการแจ้งเตือนการเล่นเกม
-5467	Merge All Tabs	รวมแท็บทั้งหมด
-5468	Soul Combo SFX	โซลคอมโบ SFX
+5447	Stellar Vortex	Stellar Vortex
+5448	Swift Blessing	Swift Blessing
+5449	Cart Accessory	Cart Accessory
+5450	Terminate Stun	Terminate Stun
+5451	Body Tempering	Body Tempering
+5452	Weapon Mastery	Weapon Mastery
+5453	Finishing Blow	Finishing Blow
+5454	Weapon Enhance	Weapon Enhance
+5455	Cannon Refresh	Cannon Refresh
+5456	Size Increased	Size Increased
+5457	Shrinking Item	Shrinking Item
+5458	SP Consumption	SP Consumption
+5459	Add Attributes	Add Attributes
+5460	Swift Movement	Swift Movement
+5461	Poring Poring!	Poring Poring!
+5462	Gain DEF Boost	Gain DEF Boost
+5463	Back to Bottom	Back to Bottom
+5464	Tab Management	Tab Management
+5465	Gameplay Phase	Gameplay Phase
+5466	Gameplay Alert	Gameplay Alert
+5467	Merge All Tabs	Merge All Tabs
+5468	Soul Combo SFX	Soul Combo SFX
 5469	Storm Gust SFX	Storm Gust SFX
-5470	Ganbantein SFX	กันบันไทน์ SFX
-5471	Earthfire Mark	เครื่องหมายแผ่นดินไหว
-5472	Acid Corrosion	การกัดกร่อนของกรด
-5473	Undead Phantom	อันเดดแฟนธอม
+5470	Ganbantein SFX	Ganbantein SFX
+5471	Earthfire Mark	Earthfire Mark
+5472	Acid Corrosion	Acid Corrosion
+5473	Undead Phantom	Undead Phantom
 5474	Taunting Tease	Taunting Tease
-5475	Scorched Armor	เกราะไหม้เกรียม
-5476	Alicel - Blade	Alicel - เบลด
-5477	Fairy Blessing	Fairy อวย Blessing
-5478	Fairy - Shield	Fairy - โล่
-5479	Stat Reduction	การลดสถิติ
+5475	Scorched Armor	Scorched Armor
+5476	Alicel - Blade	Alicel - Blade
+5477	Fairy Blessing	Fairy Blessing
+5478	Fairy - Shield	Fairy - Shield
+5479	Stat Reduction	Stat Reduction
 5480	Samurai Charge	Samurai Charge
 5481	Same Old Trick	Same Old Trick
-5482	Sandstorm Slow	SandstormSlow
-5483	Increase Aggro	เพิ่ม Aggro
-5484	Initial Shield	Shield เริ่มต้น
-5485	Slash Mode@{1}	โหมด Slash@{1}
-5486	Shoot an arrow	ยิงธนู
-5487	Missile Charge	Missile พุ่ง
-5488	Reduce Healing	ลดการรักษา
-5489	Sand Puff Slow	Sand PuffSlow
-5490	Venom Creation	การสร้างพิษ
-5491	Filter Taverns	Taverns กรอง
-5492	Switch Taverns	สวิตช์ Taverns
-5493	Mic Management	การจัดการไมค์
-5494	Tavern Members	สมาชิก Tavern
-5495	Speaking Order	ลำดับการพูด
-5496	Kill ${1} ${2}	Kill${1}${2}
-5497	We found them.	เราเจอแล้ว
-5498	Talent Upgrade	อัพเกรดความสามารถพิเศษ
-5499	Dummy Settings	การตั้งค่าจำลอง
-5500	Challenge Mode	โหมดท้าทาย
-5501	Misc Objective	วัตถุประสงค์เบ็ดเตล็ด
-5502	Search Details	ค้นหารายละเอียด
-5503	Ranking Repeat	การจัดอันดับซ้ำ
-5504	No empty slots	ไม่มีช่องว่าง
-5505	Open Your Eyes	Open ตาของคุณ
-5506	Unknown error.	ข้อผิดพลาดที่ไม่รู้จัก
-5507	Invalid talent	พรสวรรค์ไม่ถูกต้อง
-5508	Request failed	ล้มเหลว
-5509	Item inserted.	แทรกรายการแล้ว
-5510	Revive failed.	การฟื้นฟูล้มเหลว
-5511	Item unlocked.	ปลดล็อคไอเท็มแล้ว
-5512	Fortifying Cry	ฟอร์ติฟายอิ้ง คราย
-5513	Pierce Enhance	เจาะเสริม
-5514	Hela's Bargain	การต่อรองราคาของ Hela
-5515	Player is dead	ผู้เล่นเสียชีวิต
-5516	Season Rewards	รางวัลประจำฤดูกาล
-5517	Vehicle Access	การเข้าถึงยานพาหนะ
-5518	Allied Players	ผู้เล่นฝ่ายสัมพันธมิตร
-5519	Healing Volume	ปริมาณการรักษา
-5520	War Management	การจัดการสงคราม
-5521	Revive Point A	รีไวฟ์ จุด A
-5522	Revive Point B	รีไวฟ์ พอยท์บี
-5523	Revive Point C	รีไวฟ์พอยต์ซี
-5524	Revive Point D	รีไวฟ์พอยต์ D
-5525	Revive Point E	รีไวฟ์พอยท์อี
+5482	Sandstorm Slow	Sandstorm Slow
+5483	Increase Aggro	Increase Aggro
+5484	Initial Shield	Initial Shield
+5485	Slash Mode@{1}	Slash Mode@{1}
+5486	Shoot an arrow	Shoot an arrow
+5487	Missile Charge	Missile Charge
+5488	Reduce Healing	Reduce Healing
+5489	Sand Puff Slow	Sand Puff Slow
+5490	Venom Creation	Venom Creation
+5491	Filter Taverns	Filter Taverns
+5492	Switch Taverns	Switch Taverns
+5493	Mic Management	Mic Management
+5494	Tavern Members	Tavern Members
+5495	Speaking Order	Speaking Order
+5496	Kill ${1} ${2}	Kill ${1} ${2}
+5497	We found them.	We found them.
+5498	Talent Upgrade	Talent Upgrade
+5499	Dummy Settings	Dummy Settings
+5500	Challenge Mode	Challenge Mode
+5501	Misc Objective	Misc Objective
+5502	Search Details	Search Details
+5503	Ranking Repeat	Ranking Repeat
+5504	No empty slots	No empty slots
+5505	Open Your Eyes	Open Your Eyes
+5506	Unknown error.	Unknown error.
+5507	Invalid talent	Invalid talent
+5508	Request failed	Request failed
+5509	Item inserted.	Item inserted.
+5510	Revive failed.	Revive failed.
+5511	Item unlocked.	Item unlocked.
+5512	Fortifying Cry	Fortifying Cry
+5513	Pierce Enhance	Pierce Enhance
+5514	Hela's Bargain	Hela's Bargain
+5515	Player is dead	Player is dead
+5516	Season Rewards	Season Rewards
+5517	Vehicle Access	Vehicle Access
+5518	Allied Players	Allied Players
+5519	Healing Volume	Healing Volume
+5520	War Management	War Management
+5521	Revive Point A	Revive Point A
+5522	Revive Point B	Revive Point B
+5523	Revive Point C	Revive Point C
+5524	Revive Point D	Revive Point D
+5525	Revive Point E	Revive Point E
 5526	Use the Turret	ใช้ Turret
 5527	End Transform.	สิ้นสุดการแปลง
-5528	${1}'s Profile	โปรไฟล์ของ${1}
-5529	NPC not found.	ไม่พบ NPC
-5530	Item not found	ไม่พบรายการ
-5531	Mail conflict.	เมลขัดแย้งกัน
-5532	Three Costumes	สามชุด
-5533	Fashion Legend	ตำนานแฟชั่น
-5534	Fashion Leader	Leader ด้านแฟชั่น
-5535	Fashion Rookie	แฟชั่นมือใหม่
-5536	Wine and Tales	ไวน์และนิทาน
-5537	Savor the Wine	ดื่มด่ำไปกับไวน์
-5538	MVP Terminator	MVP เทอร์มิเนเตอร์
-5539	Talent Mastery	ความเชี่ยวชาญด้านพรสวรรค์
-5540	Refine: Legend	ปรับแต่ง: ตำนาน
-5541	Refine: Expert	ปรับแต่ง: ผู้เชี่ยวชาญ
-5542	First Illusion	ภาพลวงตาครั้งแรก
-5543	Crimson Legend	สีแดงเข้ม ตำนาน
+5528	${1}'s Profile	${1}'s Profile
+5529	NPC not found.	NPC not found.
+5530	Item not found	Item not found
+5531	Mail conflict.	Mail conflict.
+5532	Three Costumes	Three Costumes
+5533	Fashion Legend	Fashion Legend
+5534	Fashion Leader	Fashion Leader
+5535	Fashion Rookie	Fashion Rookie
+5536	Wine and Tales	Wine and Tales
+5537	Savor the Wine	Savor the Wine
+5538	MVP Terminator	MVP Terminator
+5539	Talent Mastery	Talent Mastery
+5540	Refine: Legend	Refine: Legend
+5541	Refine: Expert	Refine: Expert
+5542	First Illusion	First Illusion
+5543	Crimson Legend	Crimson Legend
 5544	Acolyte Mentor	Acolyte Mentor
 5545	Lord of Amatsu	Lord of Amatsu
-5546	Rhine sent me.	Rhine ส่งมาครับ
+5546	Rhine sent me.	Rhine sent me.
 5547	Damage/Healing	Damage/Healing
-5548	Skill Supplies	อุปกรณ์ทักษะ
-5549	Victory Points	แต้มชัยชนะ
-5550	Spectator Mode	โหมดผู้ชม
-5551	R-Rabbit head?	R-หัวกระต่าย?
-5552	Cancel Changes	ยกเลิกการเปลี่ยนแปลง
-5553	Sapling Status	สถานะต้นอ่อน
-5554	Quest accepted	ยอมรับภารกิจแล้ว
-5555	Skill upgraded	อัปเกรดทักษะแล้ว
-5556	Pirate Phantom	แฟนทอมโจรสลัด
-5557	Damage Sharing	การแบ่งปันความเสียหาย
-5558	Birchwood Cart	รถเข็นไม้เบิร์ช
-5559	Party Training	การฝึกอบรมปาร์ตี้
-5560	Not Configured	ไม่ได้กำหนดค่า
+5548	Skill Supplies	Skill Supplies
+5549	Victory Points	Victory Points
+5550	Spectator Mode	Spectator Mode
+5551	R-Rabbit head?	R-Rabbit head?
+5552	Cancel Changes	Cancel Changes
+5553	Sapling Status	Sapling Status
+5554	Quest accepted	Quest accepted
+5555	Skill upgraded	Skill upgraded
+5556	Pirate Phantom	Pirate Phantom
+5557	Damage Sharing	Damage Sharing
+5558	Birchwood Cart	Birchwood Cart
+5559	Party Training	Party Training
+5560	Not Configured	Not Configured
 5561	PATK increased	PATK เพิ่มขึ้น
-5562	Generic Freeze	การตรึงทั่วไป
-5563	Potion Healing	ยารักษา
-5564	Luck Resonance	เสียงสะท้อนโชคลาภ
-5565	Warg Accessory	อุปกรณ์เสริม Warg
-5566	Not Challenged	ไม่ถูกท้าทาย
-5567	Rising Resolve	แก้ไขที่เพิ่มขึ้น
-5568	Continual Burn	Burn อย่างต่อเนื่อง
-5569	Blackhole Pull	ตัวดึงหลุมดำ
+5562	Generic Freeze	Generic Freeze
+5563	Potion Healing	Potion Healing
+5564	Luck Resonance	Luck Resonance
+5565	Warg Accessory	Warg Accessory
+5566	Not Challenged	Not Challenged
+5567	Rising Resolve	Rising Resolve
+5568	Continual Burn	Continual Burn
+5569	Blackhole Pull	Blackhole Pull
 5570	Turn Left @{1}	เลี้ยวซ้าย@{1}
 5571	Outer Ring AOE	วงแหวนรอบนอก AOE
 5572	Silk Spit @{1}	Silk Spit@{1}
@@ -576,14 +576,14 @@
 5575	Samurai's Fury	Samurai's Fury
 5576	Execution Time	Execution Time
 5577	Demonic Miasma	Demonic Miasma
-5578	Law of Offense	กฎหมายความผิด
-5579	Life Extension	การยืดอายุ
-5580	Rapid Recovery	การกู้คืนอย่างรวดเร็ว
-5581	Stunning Smash	ทุบอย่างน่าทึ่ง
-5582	Falcon's Might	พลังของเหยี่ยว
-5583	Entrapping Net	ตาข่ายดักจับ
-5584	Double Assault	โจมตีสองครั้ง
-5585	Stroke of Luck	จังหวะแห่งโชค
+5578	Law of Offense	Law of Offense
+5579	Life Extension	Life Extension
+5580	Rapid Recovery	Rapid Recovery
+5581	Stunning Smash	Stunning Smash
+5582	Falcon's Might	Falcon's Might
+5583	Entrapping Net	Entrapping Net
+5584	Double Assault	Double Assault
+5585	Stroke of Luck	Stroke of Luck
 5586	Rolling Cutter	Rolling Cutter
 5587	Slow Dimension	Slow Dimension
 5588	[Hard-Pharaoh]	[Hard-Pharaoh]
@@ -591,12 +591,12 @@
 5590	[Normal-Mirko]	[Normal-Mirko]
 5591	[Normal-Drake]	[Normal-Drake]
 5592	Dewata Village	Dewata Village
-5593	Level Increased	เพิ่มขึ้น
-5594	${1}${2} X ${3}	${1}${2}X${3}
-5595	Function locked	ล็อคฟังก์ชันแล้ว
-5596	Forbidden Wilds	ป่าต้องห้าม
-5597	Feature Preview	ดูตัวอย่างคุณสมบัติ
-5598	Speedrun Report	รายงานสปีดรัน
+5593	Level Increased	Level Increased
+5594	${1}${2} X ${3}	${1}${2} X ${3}
+5595	Function locked	Function locked
+5596	Forbidden Wilds	Forbidden Wilds
+5597	Feature Preview	Feature Preview
+5598	Speedrun Report	Speedrun Report
 5599	Bunny Hair Band	Bunny Hair Band
 5600	Golden Headwear	Golden Headwear
 5601	Vampire Hairpin	Vampire Hairpin
@@ -605,167 +605,167 @@
 5604	Giant Bow Scarf	Giant Bow Scarf
 5605	Goddess of Hope	Goddess of Hope
 5606	Hodremlin Sword	Hodremlin Sword
-5607	Hundred Million	ร้อยล้าน
-5608	Redemption Rate	การแลก
+5607	Hundred Million	Hundred Million
+5608	Redemption Rate	Redemption Rate
 5609	Skeleton Worker	Skeleton Worker
 5610	Pirate Skeleton	Pirate Skeleton
 5611	Archer Skeleton	Archer Skeleton
 5612	Goblin (Dagger)	Goblin (Dagger)
 5613	Goblin (Hammer)	Goblin (Hammer)
 5614	Unseal for Free	Unseal for Free
-5615	Advanced Unseal	การปิดผนึกขั้นสูง
-5616	Ultimate Unseal	สุดยอดการปิดผนึก
-5617	Begin Unsealing	เริ่มการเปิดผนึก
-5618	Not enough ${1}	ไม่เพียงพอ${1}
-5619	Cargo Placement	การจัดวางสินค้า
-5620	View My Journey	ดูการเดินทางของฉัน
-5621	Trophy Showcase	ตู้โชว์ถ้วยรางวัล
-5622	Stage ${1}/${2}	สเตจ${1}/${2}
-5623	Totem Magic ATK	พลังโจมตีเวทย์โทเทม
-5624	Crit Resistance	ต้านทานคริติคอล
+5615	Advanced Unseal	Advanced Unseal
+5616	Ultimate Unseal	Ultimate Unseal
+5617	Begin Unsealing	Begin Unsealing
+5618	Not enough ${1}	Not enough ${1}
+5619	Cargo Placement	Cargo Placement
+5620	View My Journey	View My Journey
+5621	Trophy Showcase	Trophy Showcase
+5622	Stage ${1}/${2}	Stage ${1}/${2}
+5623	Totem Magic ATK	Totem Magic ATK
+5624	Crit Resistance	Crit Resistance
 5625	Hunting Mastery	Hunting Mastery
-5626	Neutral Damage%	ความเสียหายที่เป็นกลาง%
-5627	Stun Resistance	ต้านทานการสตัน
-5628	Burn Resistance	ต้านทานการเผาไหม้
-5629	Fear Resistance	ต้านทานความกลัว
-5630	Dark Resistance	ต้านทานความมืด
-5631	Slow Resistance	ต้านทาน Slow
-5632	Can Take Damage	สามารถรับความเสียหายได้
-5633	Darkness Radius	รัศมี Darkness
-5634	Selection Range	ช่วงการเลือก
-5635	Encounter Eddga	เผชิญหน้า Eddga
-5636	Feed the Deniro	ให้อาหาร Deniro
-5637	Monsters Attack	การโจมตีของมอนสเตอร์
-5638	Season Overview	ภาพรวมฤดูกาล
+5626	Neutral Damage%	Neutral Damage%
+5627	Stun Resistance	Stun Resistance
+5628	Burn Resistance	Burn Resistance
+5629	Fear Resistance	Fear Resistance
+5630	Dark Resistance	Dark Resistance
+5631	Slow Resistance	Slow Resistance
+5632	Can Take Damage	Can Take Damage
+5633	Darkness Radius	Darkness Radius
+5634	Selection Range	Selection Range
+5635	Encounter Eddga	Encounter Eddga
+5636	Feed the Deniro	Feed the Deniro
+5637	Monsters Attack	Monsters Attack
+5638	Season Overview	Season Overview
 5639	Season Trophies	Season Trophies
-5640	Veteran Rewards	รางวัลทหารผ่านศึก
-5641	Ranks ${1}-${2}	อันดับ${1}-${2}
-5642	Appearance Gift	ของขวัญรูปลักษณ์
-5643	Advanced Attack	การโจมตีขั้นสูง
-5644	% FLEE Increase	% ระยะโจมตีเพิ่มขึ้น
-5645	% CRIT Increase	% เพิ่มคริติคอล
-5646	% Skill MP Cost	% ค่าใช้จ่าย MP ทักษะ
+5640	Veteran Rewards	Veteran Rewards
+5641	Ranks ${1}-${2}	Ranks ${1}-${2}
+5642	Appearance Gift	Appearance Gift
+5643	Advanced Attack	Advanced Attack
+5644	% FLEE Increase	% FLEE Increase
+5645	% CRIT Increase	% CRIT Increase
+5646	% Skill MP Cost	% Skill MP Cost
 5647	Ride the Deniro	RideDeniro
 5648	Defeat Baphomet	เอาชนะ Baphomet
 5649	Prototype Trial	Prototype Trial
-5650	Listing Removed	ลบรายการออกแล้ว
-5651	Guild disbanded	Guild ถูกยุบ
-5652	Ranking Rewards	กฎการจัดอันดับ
-5653	Cancel Auto-Bid	ยกเลิกการประมูลอัตโนมัติ
-5654	Purchase Failed	ล้มเหลว
-5655	Guild Gift Pack	ชุดของขวัญ Guild
-5656	Revive Disabled	Revive ปิดใช้งานอยู่
-5657	Sylvanas Statue	รูปปั้นซิลวานัส
-5658	Redemption Code	รหัสแลกรางวัล
-5659	Enter gift code	ใส่รหัสของขวัญ
-5660	Survey Deadline	กำหนดเวลาการสำรวจ
-5661	Participate Now	เข้าร่วมทันที
-5662	Valhalla Trials	การทดลอง Valhalla
-5663	Organize (${1})	จัดระเบียบ (${1})
-5664	Sort by Quality	เรียงตามคุณภาพ
-5665	Job Restriction	ข้อจำกัดงาน
-5666	Attribute Range	ช่วงแอตทริบิวต์
-5667	Faceless Singer	Singer ไร้หน้า
-5668	Starlight Crown	มงกุฎสตาร์ไลท์
-5669	Moonlight Crown	มงกุฎแสงจันทร์
-5670	Potion Settings	การตั้งค่าโพชั่น
-5671	Exploration Map	แผนที่สำรวจ
-5672	Donate Crystals	บริจาคคริสตัล
-5673	Obtain Crystals	รับคริสตัล
-5674	Invite to Party	เชิญมาปาร์ตี้
-5675	Invite to Guild	เชิญเข้า Guild
-5676	Return to Login	กลับสู่การเข้าสู่ระบบ
+5650	Listing Removed	Listing Removed
+5651	Guild disbanded	Guild disbanded
+5652	Ranking Rewards	Ranking Rewards
+5653	Cancel Auto-Bid	Cancel Auto-Bid
+5654	Purchase Failed	Purchase Failed
+5655	Guild Gift Pack	Guild Gift Pack
+5656	Revive Disabled	Revive Disabled
+5657	Sylvanas Statue	Sylvanas Statue
+5658	Redemption Code	Redemption Code
+5659	Enter gift code	Enter gift code
+5660	Survey Deadline	Survey Deadline
+5661	Participate Now	Participate Now
+5662	Valhalla Trials	Valhalla Trials
+5663	Organize (${1})	Organize (${1})
+5664	Sort by Quality	Sort by Quality
+5665	Job Restriction	Job Restriction
+5666	Attribute Range	Attribute Range
+5667	Faceless Singer	Faceless Singer
+5668	Starlight Crown	Starlight Crown
+5669	Moonlight Crown	Moonlight Crown
+5670	Potion Settings	Potion Settings
+5671	Exploration Map	Exploration Map
+5672	Donate Crystals	Donate Crystals
+5673	Obtain Crystals	Obtain Crystals
+5674	Invite to Party	Invite to Party
+5675	Invite to Guild	Invite to Guild
+5676	Return to Login	Return to Login
 5677	Earn a C rating	ได้รับคะแนน C
 5678	Earn a B Rating	ได้รับคะแนน B
 5679	Find the Client	ค้นหาลูกค้า
 5680	Go to the Scene	ไปที่ฉาก
-5681	Attack No. @{1}	Attack No.@{1}
+5681	Attack No. @{1}	Attack No. @{1}
 5682	Face the crisis	เผชิญวิกฤติ
 5683	Read the letter	อ่านจดหมาย
-5684	Reset succeeded	รีเซ็ตสำเร็จแล้ว
-5685	Tap to activate	แตะเพื่อเปิดใช้งาน
-5686	Level-up Effect	เอฟเฟกต์การเลเวลอัป
-5687	Shadow Assassin	นักฆ่าเงา
-5688	Ice and Thunder	น้ำแข็งและฟ้าร้อง
+5684	Reset succeeded	Reset succeeded
+5685	Tap to activate	Tap to activate
+5686	Level-up Effect	Level-up Effect
+5687	Shadow Assassin	Shadow Assassin
+5688	Ice and Thunder	Ice and Thunder
 5689	Increase Attack	เพิ่มพลังโจมตี
-5690	Points Are King	คะแนนคือราชา
-5691	Instant respawn	เกิดใหม่ทันที
-5692	Teleport Prompt	พร้อมท์ Teleport
-5693	Right Accessory	อุปกรณ์เสริมด้านขวา
-5694	Don't Downgrade	อย่าดาวน์เกรด
-5695	Enhance Lv.${1}	เสริมเลเวล${1}
-5696	MINI Activities	กิจกรรมมินิ
+5690	Points Are King	Points Are King
+5691	Instant respawn	Instant respawn
+5692	Teleport Prompt	Teleport Prompt
+5693	Right Accessory	Right Accessory
+5694	Don't Downgrade	Don't Downgrade
+5695	Enhance Lv.${1}	Enhance Lv.${1}
+5696	MINI Activities	MINI Activities
 5697	War of Emperium	War of Emperium
-5698	Standard Search	กฎการอัญเชิญพูลมาตรฐาน
-5699	Dracula's Bride	เจ้าสาวของ Dracula
-5700	Universal Mount	ตัวยึดอเนกประสงค์
-5701	Stat Priorities	สถิติ
-5702	Survivor Battle	การต่อสู้ของผู้รอดชีวิต
-5703	Dumby's Request	คำขอของดัมบี้
-5704	Book Collection	ชุดหนังสือ
-5705	Appearance Shop	ลักษณะร้าน
+5698	Standard Search	Standard Search
+5699	Dracula's Bride	Dracula's Bride
+5700	Universal Mount	Universal Mount
+5701	Stat Priorities	Stat Priorities
+5702	Survivor Battle	Survivor Battle
+5703	Dumby's Request	Dumby's Request
+5704	Book Collection	Book Collection
+5705	Appearance Shop	Appearance Shop
 5706	Rift in the Sky	Rift in the Sky
-5707	Pending Listing	รายการรอดำเนินการ
-5708	Free after ${1}	ฟรีหลังจาก${1}
-5709	Penalty Details	รายละเอียดบทลงโทษ
-5710	Frozen Proceeds	รายได้ที่แช่แข็ง
-5711	Purchase Price:	ราคาซื้อ:
-5712	Collection Card	การ์ดคอลเลกชัน
-5713	Other Materials	วัสดุอื่นๆ
+5707	Pending Listing	Pending Listing
+5708	Free after ${1}	Free after ${1}
+5709	Penalty Details	Penalty Details
+5710	Frozen Proceeds	Frozen Proceeds
+5711	Purchase Price:	Purchase Price:
+5712	Collection Card	Collection Card
+5713	Other Materials	Other Materials
 5714	Deluxe Gift Box	Deluxe Gift Box
-5715	Max Vigor +@{1}	พลังสูงสุด +@{1}
-5716	Player is dead.	ผู้เล่นเสียชีวิต
-5717	Dear PlayerName	เรียนผู้เล่นทุกท่าน
-5718	Sprout Emblem I	สัญลักษณ์ Sprout I
-5719	Sprouting Stage	ระยะการแตกหน่อ
-5720	Rental Canceled	ยกเลิกการเช่าแล้ว
-5721	Dummy Challenge	ท้าดัมมี่
-5722	Search History:	ประวัติการค้นหา:
-5723	Remaining: ${1}	ที่เหลืออยู่:${1}
-5724	Exchange failed	ล้มเหลว
-5725	No chat history	ไม่มีประวัติการแชท
-5726	${1} is online!	${1}ออนไลน์อยู่!
-5727	Search Results:	ผลการค้นหา:
-5728	Intimacy Level:	ระดับความใกล้ชิด:
-5729	Already Friends	เป็นเพื่อนกันแล้ว
-5730	Top Ten Players	ผู้เล่นสิบอันดับแรก
-5731	Mute Voice Chat	ปิดเสียงแชท
-5732	Convert to Raid	แปลงเป็นการโจมตี
-5733	Lv.${1}~Lv.${2}	เลเวล${1}~เลเวล${2}
-5734	Party Objective	วัตถุประสงค์ของพรรค
-5735	${1}d ${2}h ago	${1}และ${2}มาแล้ว
-5736	${1}h ${2}m ago	${1}ชม${2}ม. ที่แล้ว
-5737	Confirm Changes	ยืนยันการเปลี่ยนแปลง
-5738	Purchase Orders	ใบสั่งซื้อ
-5739	Supply Quantity	ปริมาณการจัดหา
-5740	Process Request	ดำเนินการร้องขอ
+5715	Max Vigor +@{1}	Max Vigor +@{1}
+5716	Player is dead.	Player is dead.
+5717	Dear PlayerName	Dear PlayerName
+5718	Sprout Emblem I	Sprout Emblem I
+5719	Sprouting Stage	Sprouting Stage
+5720	Rental Canceled	Rental Canceled
+5721	Dummy Challenge	Dummy Challenge
+5722	Search History:	Search History:
+5723	Remaining: ${1}	Remaining: ${1}
+5724	Exchange failed	Exchange failed
+5725	No chat history	No chat history
+5726	${1} is online!	${1} is online!
+5727	Search Results:	Search Results:
+5728	Intimacy Level:	Intimacy Level:
+5729	Already Friends	Already Friends
+5730	Top Ten Players	Top Ten Players
+5731	Mute Voice Chat	Mute Voice Chat
+5732	Convert to Raid	Convert to Raid
+5733	Lv.${1}~Lv.${2}	Lv.${1}~Lv.${2}
+5734	Party Objective	Party Objective
+5735	${1}d ${2}h ago	${1}d ${2}h ago
+5736	${1}h ${2}m ago	${1}h ${2}m ago
+5737	Confirm Changes	Confirm Changes
+5738	Purchase Orders	Purchase Orders
+5739	Supply Quantity	Supply Quantity
+5740	Process Request	Process Request
 5741	Escort Supplies	Escort Supplies
-5742	Stored Supplies	วัสดุสิ้นเปลืองที่จัดเก็บ
-5743	Resetting: ${1}	กำลังรีเซ็ต:${1}
-5744	Enable Auto-Bid	เปิดใช้งานการเสนอราคาอัตโนมัติ
+5742	Stored Supplies	Stored Supplies
+5743	Resetting: ${1}	Resetting: ${1}
+5744	Enable Auto-Bid	Enable Auto-Bid
 5745	Wind Resistance	Wind Resistance
 5746	Fire Resistance	Fire Resistance
 5747	Holy Resistance	Holy Resistance
-5748	Cancel Response	ยกเลิกการตอบกลับ
-5749	Valid for: ${1}	ใช้ได้กับ:${1}
-5750	Display Filters	ตัวกรองการแสดงผล
-5751	Weekly Activity	Activity รายสัปดาห์
-5752	Confirm Removal	ยืนยันการลบออก
-5753	Over ${1} hours	เกิน${1}ชั่วโมง
-5754	Change Position	เปลี่ยนตำแหน่ง
-5755	${1} months ago	${1}หลายเดือนก่อน
-5756	Loading...${1}%	กำลังโหลด...${1}%
-5757	Opens Wednesday	Opens วันพุธ
-5758	My Aid Requests	คำขอความช่วยเหลือของฉัน
-5759	Guild Inventory	สินค้าคงคลัง Guild
-5760	Actual Earnings	รายได้จริง
-5761	Online Members:	สมาชิกออนไลน์:
+5748	Cancel Response	Cancel Response
+5749	Valid for: ${1}	Valid for: ${1}
+5750	Display Filters	Display Filters
+5751	Weekly Activity	Weekly Activity
+5752	Confirm Removal	Confirm Removal
+5753	Over ${1} hours	Over ${1} hours
+5754	Change Position	Change Position
+5755	${1} months ago	${1} months ago
+5756	Loading...${1}%	Loading...${1}%
+5757	Opens Wednesday	Opens Wednesday
+5758	My Aid Requests	My Aid Requests
+5759	Guild Inventory	Guild Inventory
+5760	Actual Earnings	Actual Earnings
+5761	Online Members:	Online Members:
 5762	Multiplayer PvP	Multiplayer PvP
 5763	Training Ground	Training Ground
 5764	Whaleback Chute	Whaleback Chute
-5765	Yggdrasil Totem	อิกดราซิล โทเท็ม
+5765	Yggdrasil Totem	Yggdrasil Totem
 5766	Card: Ambernite	Card: Ambernite
-5767	Healing Ranking	อันดับการรักษา
+5767	Healing Ranking	Healing Ranking
 5768	Card: Peco Peco	Card: Peco Peco
 5769	Card: Dustiness	Card: Dustiness
 5770	Card: Frilldora	Card: Frilldora
@@ -794,14 +794,14 @@
 5793	Double Pressure	Double Pressure
 5794	Pinpoint Attack	Pinpoint Attack
 5795	Attack in Place	Attack in Place
-5796	Character Voice	เสียงตัวละคร
-5797	Target Priority	ลำดับความสำคัญเป้าหมาย
-5798	Selected Target	เป้าหมายที่เลือก
-5799	You and Enemies	คุณและศัตรู
-5800	General Display	จอแสดงผล General
-5801	System Settings	ร้านระบบ
-5802	Follow-Up Logic	ลอจิกติดตามผล
-5803	Restore default	คืนค่าเริ่มต้น
+5796	Character Voice	Character Voice
+5797	Target Priority	Target Priority
+5798	Selected Target	Selected Target
+5799	You and Enemies	You and Enemies
+5800	General Display	General Display
+5801	System Settings	System Settings
+5802	Follow-Up Logic	Follow-Up Logic
+5803	Restore default	Restore default
 5804	Slide Shockwave	Slide Shockwave
 5805	Jellyfish Spawn	Jellyfish Spawn
 5806	Skill@{1} Sleep	Skill@{1} Sleep
@@ -821,9 +821,9 @@
 5820	Falling Beehive	Falling Beehive
 5821	Coffin Eruption	Coffin Eruption
 5822	Roaming Tempest	Roaming Tempest
-5823	Tap to continue	แตะเพื่อดำเนินการต่อ
-5824	Overall Ranking	อันดับโดยรวม
-5825	Faction Ranking	การจัดอันดับฝ่าย
+5823	Tap to continue	Tap to continue
+5824	Overall Ranking	Overall Ranking
+5825	Faction Ranking	Faction Ranking
 5826	Available Time:	Available Time:
 5827	Stunning Tremor	Stunning Tremor
 5828	Abominable Roar	Abominable Roar
@@ -833,9 +833,9 @@
 5832	Lightning Surge	Lightning Surge
 5833	Iron Ball Smash	Iron Ball Smash
 5834	Multiple Damage	Multiple Damage
-5835	Beginner Season	ฤดูกาลเริ่มต้น
-5836	Americas Server	เซิร์ฟเวอร์อเมริกา
-5837	Invitation Code	รหัสเชิญ
+5835	Beginner Season	Beginner Season
+5836	Americas Server	Americas Server
+5837	Invitation Code	Invitation Code
 5838	Blink Alternate	Blink Alternate
 5839	Rockbreaker@{1}	Rockbreaker@{1}
 5840	Mark Target@{1}	Mark Target@{1}
@@ -861,34 +861,34 @@
 5860	Elemental Shock	Elemental Shock
 5861	Frost Explosion	Frost Explosion
 5862	Element Control	Element Control
-5863	(Trophy Series)	(ชุดถ้วยรางวัล)
-5864	Trophy Level-up	ถ้วยรางวัลระดับขึ้น
+5863	(Trophy Series)	(Trophy Series)
+5864	Trophy Level-up	Trophy Level-up
 5865	Six Stats +${1}	หกสถิติ +${1}
-5866	Letter Received	ได้รับจดหมายแล้ว
-5867	${1} Conditions	เงื่อนไข${1}
-5868	Card Leveled up	การ์ดเลเวลอัพแล้ว
-5869	Currently Using	กำลังใช้งานอยู่
-5870	No active Bonds	ไม่มีพันธบัตรที่ใช้งานอยู่
-5871	No Bonds active	ไม่มีพันธบัตรที่ใช้งานอยู่
-5872	Active (${1}/3)	ใช้งานอยู่ (${1}/3)
-5873	${1} Collection	${1}คอลเลคชั่น
-5874	Prefecture @{1}	จังหวัด@{1}
-5875	Growth Training	การฝึกการเติบโต
-5876	Change Off-Hand	เปลี่ยนมือรอง
-5877	Batch Appraisal	การประเมินแบทช์
-5878	Costume Preview	ตัวอย่างเครื่องแต่งกาย
-5879	EXP Gain: ${1}%	EXP ที่ได้รับ:${1}%
-5880	Gathering Tribe	รวมเผ่า
+5866	Letter Received	Letter Received
+5867	${1} Conditions	${1} Conditions
+5868	Card Leveled up	Card Leveled up
+5869	Currently Using	Currently Using
+5870	No active Bonds	No active Bonds
+5871	No Bonds active	No Bonds active
+5872	Active (${1}/3)	Active (${1}/3)
+5873	${1} Collection	${1} Collection
+5874	Prefecture @{1}	Prefecture @{1}
+5875	Growth Training	Growth Training
+5876	Change Off-Hand	Change Off-Hand
+5877	Batch Appraisal	Batch Appraisal
+5878	Costume Preview	Costume Preview
+5879	EXP Gain: ${1}%	EXP Gain: ${1}%
+5880	Gathering Tribe	Gathering Tribe
 5881	Undersea Tunnel	Undersea Tunnel
-5882	Map Coordinates	พิกัดแผนที่
-5883	Recovery Skills	ทักษะการฟื้นฟู
-5884	Priority Skills	ทักษะลำดับความสำคัญ
-5885	Lineup Settings	โบนัสสถิติผู้เล่นตัวจริง
-5886	Build Resonance	สร้างเสียงสะท้อน
-5887	System Function	เมนูฟังก์ชั่นระบบ
-5888	No new messages	ไม่มีข้อความใหม่
-5889	Release to Send	ปล่อยเพื่อส่ง
-5890	Channel Members	สมาชิกช่อง
+5882	Map Coordinates	Map Coordinates
+5883	Recovery Skills	Recovery Skills
+5884	Priority Skills	Priority Skills
+5885	Lineup Settings	Lineup Settings
+5886	Build Resonance	Build Resonance
+5887	System Function	System Function
+5888	No new messages	No new messages
+5889	Release to Send	Release to Send
+5890	Channel Members	Channel Members
 5891	Note Pillar@{1}	Note Pillar@{1}
 5892	Shield Crusader	Shield Crusader
 5893	Ambush Assassin	Ambush Assassin
@@ -912,7 +912,7 @@
 5911	Shrimp Merchant	Shrimp Merchant
 5912	Rewards Manager	Rewards Manager
 5913	Morroc Villager	Morroc Villager
-5914	Quest Timed Out	หมดเวลา
+5914	Quest Timed Out	Quest Timed Out
 5915	Southeast Payon	Southeast Payon
 5916	Southern Sograt	Southern Sograt
 5917	Grand Cathedral	Grand Cathedral
@@ -927,75 +927,75 @@
 5926	Baphomet-Normal	Baphomet-Normal
 5927	Drake-Very Hard	Drake-Very Hard
 5928	Drake-Nightmare	Drake-Nightmare
-5929	Starting Lineup	รายการเริ่มต้น
-5930	Clear Time ${1}	เวลาเคลียร์${1}
-5931	Go to Formation	ไปที่รูปแบบ
-5932	Quick Challenge	ความท้าทายด่วน
-5933	Confirm Filters	ยืนยันตัวกรอง
-5934	Back to Current	กลับสู่ปัจจุบัน
+5929	Starting Lineup	Starting Lineup
+5930	Clear Time ${1}	Clear Time ${1}
+5931	Go to Formation	Go to Formation
+5932	Quick Challenge	Quick Challenge
+5933	Confirm Filters	Confirm Filters
+5934	Back to Current	Back to Current
 5935	Ragnarok Online	Ragnarok Online
-5936	Fated Encounter	การเผชิญหน้าแห่งโชคชะตา
-5937	Kindred Spirits	คินเรด สปิริต
-5938	Matching Hearts	หัวใจที่ตรงกัน
-5939	Challenge Again	ท้าทายอีกครั้ง
-5940	Total Earnings:	รายได้รวม:
-5941	About to start…	กำลังจะเริ่มต้น…
-5942	Level: No Limit	: ไม่มีขีดจำกัด
-5943	Damage Increase	ความเสียหายเพิ่มขึ้น
-5944	Critical Chance	โอกาสวิกฤติ
-5945	Current Ability	ความสามารถปัจจุบัน
-5946	Challenge Eddga	ท้าทาย Eddga
+5936	Fated Encounter	Fated Encounter
+5937	Kindred Spirits	Kindred Spirits
+5938	Matching Hearts	Matching Hearts
+5939	Challenge Again	Challenge Again
+5940	Total Earnings:	Total Earnings:
+5941	About to start…	About to start…
+5942	Level: No Limit	Level: No Limit
+5943	Damage Increase	Damage Increase
+5944	Critical Chance	Critical Chance
+5945	Current Ability	Current Ability
+5946	Challenge Eddga	Challenge Eddga
 5947	Tritura Academy	Tritura Academy
-5948	Core Management	การจัดการหลัก
+5948	Core Management	Core Management
 5949	Approval Method	Approval Method
-5950	Guild Prestige:	ศักดิ์ศรี Guild:
-5951	Cancel Creation	ยกเลิกการสร้าง
-5952	Donation Amount	จำนวนบริจาค
-5953	Guild Activity:	:
-5954	Invite Not Sent	ไม่ได้ส่งคำเชิญ
-5955	After the merge	หลังจากการควบรวมกิจการ
-5956	No Applications	ไม่มีแอปพลิเคชัน
-5957	Adventurer Camp	ค่าย Adventurer
-5958	Battle Baphomet	แบทเทิล Baphomet
-5959	A Fond Farewell	การอำลาด้วยความรัก
-5960	Monsters Appear	มอนสเตอร์ปรากฏตัว
-5961	Space-Time Gate	Gate อวกาศ-เวลา
-5962	New Inspiration	แรงบันดาลใจใหม่
-5963	Allen's Request	คำขอของ Allen
-5964	Plan Successful	สำเร็จ
-5965	Bob's Thank You	ขอบคุณ Bob
-5966	Strivers' Guild	Guild Strivers
-5967	Return the Ring	คืนวงแหวน
-5968	Wine Like Blood	ไวน์ดุจเลือด
-5969	Fight Alongside	สู้เคียงข้าง
-5970	Typewriter @{1}	@{1}สเกล UI
-5971	Learning Skills	ทักษะการเรียนรู้
-5972	Glowing Compass	เข็มทิศเรืองแสง
-5973	Crashed Airship	เรือเหาะตก
-5974	Activated Stats	สถิติที่เปิดใช้งาน
-5975	Can be unlocked	สามารถปลดล็อคได้
-5976	Next Star Level	ระดับดาวถัดไป
-5977	After Unlocking	หลังจากปลดล็อค
-5978	Go to Dismantle	ไปที่การรื้อถอน
-5979	Hatching Chance	โอกาสฟักไข่
-5980	Cooldown: ${1}s	:${1}วินาที
-5981	Draw ${1} Times	วาด${1}ครั้ง
-5982	Rookie@{1} Rank	Rookie อันดับ@{1}
-5983	Enter here, bo~	เข้ามาที่นี่ โบ~
-5984	Select Ostrich.	เลือก Ostrich
-5985	Ready to Enter!	พร้อมเข้าอยู่!
-5986	Enter Realm Map	เข้าสู่แผนที่อาณาจักร
-5987	Please be safe.	ขอให้ปลอดภัยนะครับ
-5988	Phew... Phew...	ฟิ้ว... ฟิ้ว...
-5989	Deliver Vehicle	ส่งมอบรถ
-5990	Submit Supplies	ส่งวัสดุสิ้นเปลือง
-5991	I like you too!	ฉันก็ชอบคุณเหมือนกัน!
-5992	Cough, cough...	ไอ ไอ...
-5993	Reset Challenge	รีเซ็ตความท้าทาย
+5950	Guild Prestige:	Guild Prestige:
+5951	Cancel Creation	Cancel Creation
+5952	Donation Amount	Donation Amount
+5953	Guild Activity:	Guild Activity:
+5954	Invite Not Sent	Invite Not Sent
+5955	After the merge	After the merge
+5956	No Applications	No Applications
+5957	Adventurer Camp	Adventurer Camp
+5958	Battle Baphomet	Battle Baphomet
+5959	A Fond Farewell	A Fond Farewell
+5960	Monsters Appear	Monsters Appear
+5961	Space-Time Gate	Space-Time Gate
+5962	New Inspiration	New Inspiration
+5963	Allen's Request	Allen's Request
+5964	Plan Successful	Plan Successful
+5965	Bob's Thank You	Bob's Thank You
+5966	Strivers' Guild	Strivers' Guild
+5967	Return the Ring	Return the Ring
+5968	Wine Like Blood	Wine Like Blood
+5969	Fight Alongside	Fight Alongside
+5970	Typewriter @{1}	Typewriter @{1}
+5971	Learning Skills	Learning Skills
+5972	Glowing Compass	Glowing Compass
+5973	Crashed Airship	Crashed Airship
+5974	Activated Stats	Activated Stats
+5975	Can be unlocked	Can be unlocked
+5976	Next Star Level	Next Star Level
+5977	After Unlocking	After Unlocking
+5978	Go to Dismantle	Go to Dismantle
+5979	Hatching Chance	Hatching Chance
+5980	Cooldown: ${1}s	Cooldown: ${1}s
+5981	Draw ${1} Times	Draw ${1} Times
+5982	Rookie@{1} Rank	Rookie@{1} Rank
+5983	Enter here, bo~	Enter here, bo~
+5984	Select Ostrich.	Select Ostrich.
+5985	Ready to Enter!	Ready to Enter!
+5986	Enter Realm Map	Enter Realm Map
+5987	Please be safe.	Please be safe.
+5988	Phew... Phew...	Phew... Phew...
+5989	Deliver Vehicle	Deliver Vehicle
+5990	Submit Supplies	Submit Supplies
+5991	I like you too!	I like you too!
+5992	Cough, cough...	Cough, cough...
+5993	Reset Challenge	Reset Challenge
 5994	Auction Rewards	Auction Rewards
-5995	Start Challenge	เริ่มการท้าทาย
-5996	Confirm Abandon	ยืนยันการละทิ้ง
-5997	Bonfire Ability	ความสามารถ Bonfire
-5998	Cooking Rewards	รางวัลการทำอาหาร
-5999	Large Emote@{1}	อิโมติคอนขนาดใหญ่@{1}
-6000	Nothing, really	ไม่มีอะไรจริงๆ
+5995	Start Challenge	Start Challenge
+5996	Confirm Abandon	Confirm Abandon
+5997	Bonfire Ability	Bonfire Ability
+5998	Cooking Rewards	Cooking Rewards
+5999	Large Emote@{1}	Large Emote@{1}
+6000	Nothing, really	Nothing, really

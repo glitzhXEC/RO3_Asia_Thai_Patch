@@ -1,31 +1,31 @@
 ﻿Index	English	Thai_Translation
-3001	My Auctions	การประมูลของฉัน
-3002	Current bid	ราคาเสนอปัจจุบัน
-3003	Bidding Cap	ฝาประมูล
-3004	Final Price	ราคาสุดท้าย
-3005	Style +${1}	สไตล์ +${1}
-3006	Select Plan	เลือกแผน
-3007	Warrior III	นักรบ III
-3008	Eligibility	คุณสมบัติ
-3009	7-8 Players	ผู้เล่น 7-8 คน
-3010	First Match	นัดแรก
-3011	Daily Quest	ภารกิจรายวัน
-3012	Quest Items	รายการเควส
-3013	Event Items	รายการกิจกรรม
-3014	Class Mount	คลาสเมาท์
-3015	Sage Branch	สาขาเสจ
-3016	Bard Branch	สาขา Bard
-3017	Dancer Line	Dancer ไลน์
-3018	Rogue Class	คลาสอันธพาล
-3019	Two Affixes	สองส่วนต่อท้าย
-3020	Payon Areas	พื้นที่ Payon
-3021	Job Talents	ตำแหน่งงานว่าง
-3022	Tavern Gift	ของขวัญ Tavern
-3023	Collector's	ของนักสะสม
-3024	Need a Tank	ต้องการรถถัง
-3025	Current Job	งานปัจจุบัน
-3026	Skill-Based	ตามทักษะ
-3027	Transfigure	แปลงร่าง
+3001	My Auctions	My Auctions
+3002	Current bid	Current bid
+3003	Bidding Cap	Bidding Cap
+3004	Final Price	Final Price
+3005	Style +${1}	Style +${1}
+3006	Select Plan	Select Plan
+3007	Warrior III	Warrior III
+3008	Eligibility	Eligibility
+3009	7-8 Players	7-8 Players
+3010	First Match	First Match
+3011	Daily Quest	Daily Quest
+3012	Quest Items	Quest Items
+3013	Event Items	Event Items
+3014	Class Mount	Class Mount
+3015	Sage Branch	Sage Branch
+3016	Bard Branch	Bard Branch
+3017	Dancer Line	Dancer Line
+3018	Rogue Class	Rogue Class
+3019	Two Affixes	Two Affixes
+3020	Payon Areas	Payon Areas
+3021	Job Talents	Job Talents
+3022	Tavern Gift	Tavern Gift
+3023	Collector's	Collector's
+3024	Need a Tank	Need a Tank
+3025	Current Job	Current Job
+3026	Skill-Based	Skill-Based
+3027	Transfigure	Transfigure
 3028	Thunderclap	Thunderclap
 3029	Flame Storm	Flame Storm
 3030	Flame Combo	Flame Combo
@@ -35,27 +35,27 @@
 3034	Arrow Smash	Arrow Smash
 3035	Staff Smash	Staff Smash
 3036	Blade Smash	Blade Smash
-3037	Vast Wealth	ความมั่งคั่งมหาศาล
-3038	Crit Chance	โอกาสคริติคอล
-3039	Progression	ความก้าวหน้า
+3037	Vast Wealth	Vast Wealth
+3038	Crit Chance	Crit Chance
+3039	Progression	Progression
 3040	Cotton Tuft	Cotton Tuft
 3041	Woolly Moss	Woolly Moss
 3042	Spirit Silk	Spirit Silk
 3043	Sacred Silk	Sacred Silk
-3044	Purple @{1}	สีม่วง@{1}
-3045	Orange @{1}	สีส้ม@{1}
-3046	Bright Star	ไบร์ทสตาร์
-3047	Suffocation	หายใจไม่ออก
-3048	Forced Stun	บังคับสตัน
-3049	Interaction	การโต้ตอบ
-3050	War Machine	วอร์แมชชีน
+3044	Purple @{1}	Purple @{1}
+3045	Orange @{1}	Orange @{1}
+3046	Bright Star	Bright Star
+3047	Suffocation	Suffocation
+3048	Forced Stun	Forced Stun
+3049	Interaction	Interaction
+3050	War Machine	War Machine
 3051	Mithril Ore	Mithril Ore
-3052	Grandmaster	ปรมาจารย์
-3053	Niu Niu Niu	นิว นิวนิว
+3052	Grandmaster	Grandmaster
+3053	Niu Niu Niu	Niu Niu Niu
 3054	BTN_RESTART	BTN_RESTART
-3055	Connect@{1}	เชื่อมต่อ@{1}
-3056	(Collected)	(รวบรวม)
-3057	Totem Skill	ทักษะโทเท็ม
+3055	Connect@{1}	Connect@{1}
+3056	(Collected)	(Collected)
+3057	Totem Skill	Totem Skill
 3058	Healing Cap	Healing Cap
 3059	Defense Cap	Defense Cap
 3060	Magic Blade	Magic Blade
@@ -114,148 +114,148 @@
 3113	Card: Tarou	Card: Tarou
 3114	Card: Spore	Card: Spore
 3115	Card: Picky	Card: Picky
-3116	Stat Reset:	รีเซ็ตสถิติ:
-3117	Skill Build	การสร้างทักษะ
-3118	Card Preset	การ์ดตั้งค่าล่วงหน้า
-3119	Event Rules	กฎของกิจกรรม
-3120	Match Rules	กฎการแข่งขัน
-3121	Boss Skills	ทักษะบอส
-3122	First Clear	เคลียร์ครั้งแรก
-3123	In Position	อยู่ในตำแหน่ง
-3124	Discard All	ละทิ้งทั้งหมด
-3125	Entry Alert	การแจ้งเตือนรายการ
-3126	Source @{1}	แหล่งที่มา@{1}เหตุการณ์ต้นทาง
-3127	Outfit Draw	การจับฉลากชุด
-3128	Bell Charge	BellCharge
-3129	Summon Bell	ระฆังอัญเชิญ
+3116	Stat Reset:	Stat Reset:
+3117	Skill Build	Skill Build
+3118	Card Preset	Card Preset
+3119	Event Rules	Event Rules
+3120	Match Rules	Match Rules
+3121	Boss Skills	Boss Skills
+3122	First Clear	First Clear
+3123	In Position	In Position
+3124	Discard All	Discard All
+3125	Entry Alert	Entry Alert
+3126	Source @{1}	Source @{1}
+3127	Outfit Draw	Outfit Draw
+3128	Bell Charge	Bell Charge
+3129	Summon Bell	Summon Bell
 3130	Horong Lash	Horong Lash
-3131	Hell Charge	การ Charge นรก
-3132	Pyramid Ray	Pyramid เรย์
-3133	Hornet Army	กองทัพ Hornet
-3134	Memory Game	เกมความจำ
-3135	Beat Prison	เอาชนะคุก
-3136	Cross Score	ครอสสกอร์
-3137	Bubble Link	Bubble ลิงค์
-3138	Summon Evil	อัญเชิญความชั่วร้าย
-3139	Hidden Bell	กระดิ่งซ่อน
-3140	Coffin Trap	กับดักโลงศพ
+3131	Hell Charge	Hell Charge
+3132	Pyramid Ray	Pyramid Ray
+3133	Hornet Army	Hornet Army
+3134	Memory Game	Memory Game
+3135	Beat Prison	Beat Prison
+3136	Cross Score	Cross Score
+3137	Bubble Link	Bubble Link
+3138	Summon Evil	Summon Evil
+3139	Hidden Bell	Hidden Bell
+3140	Coffin Trap	Coffin Trap
 3141	Shield Cast	Shield Cast
 3142	Earth Drive	Earth Drive
 3143	Earthshaker	Earthshaker
-3144	BOSS Damage	ความเสียหายของบอส
-3145	Unstoppable	หยุดไม่ได้
-3146	First Blood	เลือดหยดแรก
-3147	Tier 4 Cart	รถเข็นเทียร์ 4
-3148	Tier 3 Cart	รถเข็นระดับ 3
-3149	Tier 2 Cart	รถเข็น Tier 2
-3150	Scholar Lv.	นักวิชาการ Lv.
-3151	Level Stats	สถิติระดับ
-3152	Theme Style	รูปแบบธีม
+3144	BOSS Damage	BOSS Damage
+3145	Unstoppable	Unstoppable
+3146	First Blood	First Blood
+3147	Tier 4 Cart	Tier 4 Cart
+3148	Tier 3 Cart	Tier 3 Cart
+3149	Tier 2 Cart	Tier 2 Cart
+3150	Scholar Lv.	Scholar Lv.
+3151	Level Stats	Level Stats
+3152	Theme Style	Theme Style
 3153	Rift Impact	Rift Impact
 3154	Shadow Step	Shadow Step
-3155	Advertising	การโฆษณา
-3156	Dark Forest	ป่าแห่งความมืด
-3157	High Damage	ความเสียหายสูง
-3158	CHAPTER III	บทที่ 3
-3159	Outstanding	โดดเด่น
-3160	City Fallen	เมืองล่มสลาย
-3161	Second Wind	ลมที่สอง
-3162	Limit Break	ลิมิตเบรก
-3163	HP Listener	ฟัง HP
-3164	Flame Blast	ระเบิดเปลวไฟ
-3165	High Morale	ขวัญกำลังใจสูง
-3166	Carry Scale	เครื่องชั่งพกพา
-3167	Select Mode	เลือกโหมด
-3168	Full-screen	เต็มจอ
-3169	Player Info	ข้อมูลผู้เล่น
-3170	Event Alert	การแจ้งเตือนเหตุการณ์
-3171	Quick Items	รายการด่วน
-3172	Target Info	ข้อมูลเป้าหมาย
-3173	Penetration	การเจาะ
-3174	Flame Chain	โซ่เปลวไฟ
-3175	Flame Burst	เปลวไฟระเบิด
-3176	Frost Burst	ฟรอสต์เบิสต์
+3155	Advertising	Advertising
+3156	Dark Forest	Dark Forest
+3157	High Damage	High Damage
+3158	CHAPTER III	CHAPTER III
+3159	Outstanding	Outstanding
+3160	City Fallen	City Fallen
+3161	Second Wind	Second Wind
+3162	Limit Break	Limit Break
+3163	HP Listener	HP Listener
+3164	Flame Blast	Flame Blast
+3165	High Morale	High Morale
+3166	Carry Scale	Carry Scale
+3167	Select Mode	Select Mode
+3168	Full-screen	Full-screen
+3169	Player Info	Player Info
+3170	Event Alert	Event Alert
+3171	Quick Items	Quick Items
+3172	Target Info	Target Info
+3173	Penetration	Penetration
+3174	Flame Chain	Flame Chain
+3175	Flame Burst	Flame Burst
+3176	Frost Burst	Frost Burst
 3177	Raging Gale	Raging Gale
 3178	Armor Break	Armor Break
-3179	Silver Moon	ซิลเวอร์มูน
-3180	Demon Flame	เปลวไฟปีศาจ
+3179	Silver Moon	Silver Moon
+3180	Demon Flame	Demon Flame
 3181	Divine Hope	Divine Hope
 3182	Soul Siphon	Soul Siphon
-3183	Stone Blade	BladeStone
-3184	Minion Buff	บัฟมิเนียน
-3185	Shroud Link	ลิงค์ Shroud
-3186	Yellow Note	โน้ตสีเหลือง
-3187	Target Mark	มาร์คเป้าหมาย
-3188	Multi-Rhyme	มัลติ-ไรม์
-3189	Blood Spear	Spear เลือด
-3190	Prison Slow	เรือนจำ Slow
-3191	Dragon Wing	ปีกมังกร
-3192	Dark Charge	ดาร์ก Charge
-3193	${1}'s ${2}	${1}ของ${2}
-3194	Tavern Type	ประเภท Tavern
-3195	Tavern Name	ชื่อ Tavern
-3196	Turn On Mic	เปิดไมค์
-3197	Permissions	สิทธิ์
-3198	Tavern Info	ข้อมูล Tavern
-3199	Pornography	สื่อลามก
-3200	Consumables	วัสดุสิ้นเปลือง
-3201	Defeat Ilmo	เอาชนะอิลโม
-3202	Defeat Isti	เอาชนะอิสติ
-3203	Stage Rules	กฎขั้นตอน
-3204	Codex Guide	คู่มือโคเด็กซ์
-3205	Pet Upgrade	อัพเกรดสัตว์เลี้ยง
-3206	Stall Guide	คู่มือแผงลอย
-3207	Stall ended	แผงลอยสิ้นสุดแล้ว
-3208	Any 1 Affix	ส่วนเสริม 1 รายการใดๆ
-3209	Swift Sword	Sword สวิฟท์
-3210	Rapid Throw	โยนเร็ว
-3211	Sharp Spear	Spear แหลม
-3212	Quick Hands	แฮนด์ด่วน
-3213	Virus Boost	บูสต์ไวรัส
-3214	${1}Faction	ฝ่าย${1}
-3215	Player Name	ชื่อผู้เล่น
-3216	Out of ammo	กระสุนหมด
-3217	Drag Member	ลากเมมเบอร์
-3218	${1}d ${2}h	${1}d${2}ชม
-3219	Peak Season	ฤดูกาลท่องเที่ยว
-3220	Select Mood	เลือกอารมณ์
-3221	Claim Daily	เคลมทุกวัน
-3222	Wrong Level	ระดับผิด
-3223	Unlock Pass	ปลดล็อคพาส
-3224	Gift a Pass	ให้บัตรผ่านเป็นของขวัญ
-3225	Mail error.	ข้อผิดพลาดของจดหมาย
-3226	New Arrival	สินค้ามาใหม่
-3227	Five Mounts	แท่นยึดห้าอัน
-3228	First Mount	เมาท์ครั้งแรก
-3229	Fashionista	แฟชั่นนิสต้า
-3230	Inseparable	แยกออกไม่ได้
-3231	Old Friends	เพื่อนเก่า
-3232	MVP Nemesis	เนเมซิส MVP
-3233	MVP Regular	MVP ประจำ
-3234	Card Chorus	การ์ดคอรัส
+3183	Stone Blade	Stone Blade
+3184	Minion Buff	Minion Buff
+3185	Shroud Link	Shroud Link
+3186	Yellow Note	Yellow Note
+3187	Target Mark	Target Mark
+3188	Multi-Rhyme	Multi-Rhyme
+3189	Blood Spear	Blood Spear
+3190	Prison Slow	Prison Slow
+3191	Dragon Wing	Dragon Wing
+3192	Dark Charge	Dark Charge
+3193	${1}'s ${2}	${1}'s ${2}
+3194	Tavern Type	Tavern Type
+3195	Tavern Name	Tavern Name
+3196	Turn On Mic	Turn On Mic
+3197	Permissions	Permissions
+3198	Tavern Info	Tavern Info
+3199	Pornography	Pornography
+3200	Consumables	Consumables
+3201	Defeat Ilmo	Defeat Ilmo
+3202	Defeat Isti	Defeat Isti
+3203	Stage Rules	Stage Rules
+3204	Codex Guide	Codex Guide
+3205	Pet Upgrade	Pet Upgrade
+3206	Stall Guide	Stall Guide
+3207	Stall ended	Stall ended
+3208	Any 1 Affix	Any 1 Affix
+3209	Swift Sword	Swift Sword
+3210	Rapid Throw	Rapid Throw
+3211	Sharp Spear	Sharp Spear
+3212	Quick Hands	Quick Hands
+3213	Virus Boost	Virus Boost
+3214	${1}Faction	${1}Faction
+3215	Player Name	Player Name
+3216	Out of ammo	Out of ammo
+3217	Drag Member	Drag Member
+3218	${1}d ${2}h	${1}d ${2}h
+3219	Peak Season	Peak Season
+3220	Select Mood	Select Mood
+3221	Claim Daily	Claim Daily
+3222	Wrong Level	Wrong Level
+3223	Unlock Pass	Unlock Pass
+3224	Gift a Pass	Gift a Pass
+3225	Mail error.	Mail error.
+3226	New Arrival	New Arrival
+3227	Five Mounts	Five Mounts
+3228	First Mount	First Mount
+3229	Fashionista	Fashionista
+3230	Inseparable	Inseparable
+3231	Old Friends	Old Friends
+3232	MVP Nemesis	MVP Nemesis
+3233	MVP Regular	MVP Regular
+3234	Card Chorus	Card Chorus
 3235	Hollgrehenn	Hollgrehenn
 3236	Mage Mentor	Mage Mentor
 3237	Masked Girl	Masked Girl
 3238	Malaya Girl	Malaya Girl
 3239	Kunlun Girl	Kunlun Girl
-3240	Rank Reward	จดหมายรางวัลอันดับ
-3241	Party Queue	คิวปาร์ตี้
-3242	All Matches	การแข่งขันทั้งหมด
-3243	Pick Up All	รับทั้งหมด
-3244	Revive Info	ข้อมูลฟื้นคืนชีพ
-3245	Send (${1})	ส่ง (${1})
-3246	Skill Level	ระดับทักษะ
-3247	Um... wait!	อืม... เดี๋ยวนะ!
-3248	No worries.	หมดกังวล
-3249	Preset Name	ชื่อที่ตั้งไว้ล่วงหน้า
-3250	Quick Apply	สมัครด่วน
-3251	Select Pets	เลือกสัตว์เลี้ยง
-3252	Not Reached	ไม่ถึง
-3253	Maximum DPS	DPS สูงสุด
+3240	Rank Reward	Rank Reward
+3241	Party Queue	Party Queue
+3242	All Matches	All Matches
+3243	Pick Up All	Pick Up All
+3244	Revive Info	Revive Info
+3245	Send (${1})	Send (${1})
+3246	Skill Level	Skill Level
+3247	Um... wait!	Um... wait!
+3248	No worries.	No worries.
+3249	Preset Name	Preset Name
+3250	Quick Apply	Quick Apply
+3251	Select Pets	Select Pets
+3252	Not Reached	Not Reached
+3253	Maximum DPS	Maximum DPS
 3254	SP restored	SP คืนค่าแล้ว
 3255	Stun effect	เอฟเฟกต์สตัน
-3256	Electrified	ระบบไฟฟ้า
-3257	Shield Buff	บัฟโล่
+3256	Electrified	Electrified
+3257	Shield Buff	Shield Buff
 3258	Soul Prayer	Soul Prayer
 3259	Rocker Rock	Rocker Rock
 3260	Curse Slash	Curse Slash
@@ -267,16 +267,16 @@
 3266	[Hard-Isti]	[Hard-Isti]
 3267	[Hard-Ilmo]	[Hard-Ilmo]
 3268	Port Malaya	Port Malaya
-3269	Call Issued	โทรออกแล้ว
-3270	Vivify Cost	ตรวจสอบต้นทุน
-3271	Daily Uses:	การใช้งานรายวัน:
-3272	Quiz Starts	เวลาที่เหลือของแบบทดสอบ
-3273	First Place	อันดับหนึ่ง
-3274	Confirm Save	ยืนยันการบันทึก
-3275	Tap to close	แตะเพื่อปิด
-3276	Natural Land	ที่ดินธรรมชาติ
-3277	Hidden Realm	อาณาจักรที่ซ่อนอยู่
-3278	Group Report	รางวัลกลุ่ม
+3269	Call Issued	Call Issued
+3270	Vivify Cost	Vivify Cost
+3271	Daily Uses:	Daily Uses:
+3272	Quiz Starts	Quiz Starts
+3273	First Place	First Place
+3274	Confirm Save	Confirm Save
+3275	Tap to close	Tap to close
+3276	Natural Land	Natural Land
+3277	Hidden Realm	Hidden Realm
+3278	Group Report	Group Report
 3279	Drooping Cat	Drooping Cat
 3280	Smiling Mask	Smiling Mask
 3281	Chicken Beak	Chicken Beak
@@ -288,36 +288,36 @@
 3287	Fox Immortal	Fox Immortal
 3288	Baphomet Jr.	Baphomet Jr.
 3289	Ancient Tree	Ancient Tree
-3290	Server Level	ไม่ตรงตามข้อกำหนดด้านอายุของเซิร์ฟเวอร์
-3291	Reward Count	นับรางวัล
-3292	Notification	การแจ้งเตือน
-3293	Ten Thousand	หมื่น
+3290	Server Level	Server Level
+3291	Reward Count	Reward Count
+3292	Notification	Notification
+3293	Ten Thousand	Ten Thousand
 3294	Poison Spore	Poison Spore
 3295	Hedgehog Bug	Hedgehog Bug
 3296	Elder Willow	Elder Willow
 3297	Goblin (Axe)	Goblin (Axe)
 3298	Orc Skeleton	Orc Skeleton
-3299	Go challenge	ไปท้าทาย
-3300	Guild Master	Guild มาสเตอร์
-3301	Healing Done	การรักษาเสร็จสิ้น
-3302	Crit Damage%	ความเสียหายคริติคอล%
-3303	Crit Chance%	โอกาสคริติคอล%
-3304	Wind Damage%	ความเสียหายจากลม%
-3305	Fire Damage%	ความเสียหายจากไฟ%
-3306	Holy Damage%	ความเสียหายศักดิ์สิทธิ์%
-3307	Stun Enhance	เพิ่มประสิทธิภาพการสตั้น
-3308	Burn Enhance	เพิ่มประสิทธิภาพการ Burn
-3309	Blind Attack	การโจมตีแบบตาบอด
-3310	Slow Enhance	การปรับปรุง Slow
-3311	MP Recovery%	ฟื้นฟู MP%
-3312	Skill Energy	พลังทักษะ
+3299	Go challenge	Go challenge
+3300	Guild Master	Guild Master
+3301	Healing Done	Healing Done
+3302	Crit Damage%	Crit Damage%
+3303	Crit Chance%	Crit Chance%
+3304	Wind Damage%	Wind Damage%
+3305	Fire Damage%	Fire Damage%
+3306	Holy Damage%	Holy Damage%
+3307	Stun Enhance	Stun Enhance
+3308	Burn Enhance	Burn Enhance
+3309	Blind Attack	Blind Attack
+3310	Slow Enhance	Slow Enhance
+3311	MP Recovery%	MP Recovery%
+3312	Skill Energy	Skill Energy
 3313	Attack Range	Attack Range
 3314	Season Theme	Season Theme
-3315	Yet to start	ยังไม่ได้เริ่ม
-3316	Shop Preview	ดูตัวอย่างร้านค้า
-3317	Past Seasons	ฤดูกาลที่ผ่านมา
-3318	MVP-Angeling	MVP-แองเจลิ่ง
-3319	MVP-Deviling	MVP-ปีศาจ
+3315	Yet to start	Yet to start
+3316	Shop Preview	Shop Preview
+3317	Past Seasons	Past Seasons
+3318	MVP-Angeling	MVP-Angeling
+3319	MVP-Deviling	MVP-Deviling
 3320	MVP-Orc Hero	MVP-Orc Hero
 3321	MVP-Orc Lord	MVP-Orc Lord
 3322	MVP-Mistress	MVP-Mistress
@@ -325,148 +325,148 @@
 3324	MVP-Phreeoni	MVP-Phreeoni
 3325	Join a guild	เข้าร่วมกิลด์
 3326	Kill Bigfoot	KillBigfoot
-3327	Current Deck	เด็คปัจจุบัน
+3327	Current Deck	Current Deck
 3328	Defeat Eddga	เอาชนะ Eddga
 3329	Go to Izlude	ไปที่ Izlude
-3330	Raid Auction	การประมูล Raid
-3331	Guild League	ลีก Guild
-3332	Poring Chest	Poring หน้าอก
-3333	Profile Card	การแสดงอัลบั้มการ์ดโปรไฟล์
+3330	Raid Auction	Raid Auction
+3331	Guild League	Guild League
+3332	Poring Chest	Poring Chest
+3333	Profile Card	Profile Card
 3334	Basic Attack	Basic Attack
-3335	Trade Review	รีวิวการค้า
-3336	Stall Closed	แผงปิดปิด
-3337	Monster Hunt	ล่าสัตว์ประหลาด
-3338	Monster List	รายชื่อสัตว์ประหลาด
-3339	Monster Shop	ร้านมอนสเตอร์
-3340	Kill Rewards	สนับมือ
-3341	${1} Rewards	รางวัล${1}
+3335	Trade Review	Trade Review
+3336	Stall Closed	Stall Closed
+3337	Monster Hunt	Monster Hunt
+3338	Monster List	Monster List
+3339	Monster Shop	Monster Shop
+3340	Kill Rewards	Kill Rewards
+3341	${1} Rewards	${1} Rewards
 3342	Mount Riding	Riding แบบติด
-3343	Queue Notice	ประกาศเรื่องคิว
-3344	Escort Ended	Escort สิ้นสุดแล้ว
-3345	${1} (${2}s)	${1}(${2}s)
-3346	Silence Test	การทดสอบความเงียบ
-3347	Maya Petrify	Maya กลายเป็นหิน
-3348	Fantasy Shop	ร้านแฟนตาซี
-3349	Preview Shop	ดูตัวอย่างร้าน
-3350	Connect Shop	เชื่อมต่อร้านค้า
-3351	Crystal Shop	ร้านคริสตัล
+3343	Queue Notice	Queue Notice
+3344	Escort Ended	Escort Ended
+3345	${1} (${2}s)	${1} (${2}s)
+3346	Silence Test	Silence Test
+3347	Maya Petrify	Maya Petrify
+3348	Fantasy Shop	Fantasy Shop
+3349	Preview Shop	Preview Shop
+3350	Connect Shop	Connect Shop
+3351	Crystal Shop	Crystal Shop
 3352	Spirit Tower	Spirit Tower
-3353	Demonic Wolf	Wolf ปีศาจ
-3354	Sort by Tier	เรียงตาม Tier
+3353	Demonic Wolf	Demonic Wolf
+3354	Sort by Tier	Sort by Tier
 3355	Divine Totem	Divine Totem
-3356	Novice Trial	ทดลองใช้งานใหม่
-3357	Unidentified	ไม่ปรากฏชื่อ
-3358	Blue Quality	สีน้ำเงิน คุณภาพ
-3359	All Monsters	มอนสเตอร์ทั้งหมด
-3360	Tavern Gifts	ของขวัญ Tavern
-3361	Log In Again	เข้าสู่ระบบอีกครั้ง
+3356	Novice Trial	Novice Trial
+3357	Unidentified	Unidentified
+3358	Blue Quality	Blue Quality
+3359	All Monsters	All Monsters
+3360	Tavern Gifts	Tavern Gifts
+3361	Log In Again	Log In Again
 3362	Reach Izlude	ไปถึง Izlude
 3363	Help the Man	ช่วยท่านชาย
 3364	Talk to Boya	คุยกับ Boya
-3365	Life Skills:	ทักษะ Life:
-3366	Astral Level	ระดับดาว
-3367	Reset Points	รีเซ็ตคะแนน
-3368	Test STR@{1}	ทดสอบ STR@{1}
-3369	Test AGI@{1}	ทดสอบ AGI@{1}การทดสอบ
+3365	Life Skills:	Life Skills:
+3366	Astral Level	Astral Level
+3367	Reset Points	Reset Points
+3368	Test STR@{1}	Test STR@{1}
+3369	Test AGI@{1}	Test AGI@{1}
 3370	Lance Knight	Lance Knight
-3371	Downloading:	กำลังดาวน์โหลด:
-3372	${1} Refresh	${1}รีเฟรช
-3373	Refine Level	ปรับแต่งระดับ
-3374	Success Rate	รายละเอียดอัตราความสำเร็จ
-3375	Not Equipped	ไม่ได้ติดตั้ง
-3376	Enhance once	ปรับปรุงหนึ่งครั้ง
-3377	Reforge Cost	ต้นทุนการหลอมใหม่
-3378	Emote/Action	อิโมติคอน/แอคชั่น
-3379	Gift of Time	ของขวัญแห่งกาลเวลา
-3380	Exact Search	การค้นหาที่แน่นอน
-3381	Pre-purchase	ซื้อล่วงหน้า
-3382	System Stall	แผงลอยระบบ
-3383	Novice Guide	คู่มือมือใหม่
-3384	Switch Build	สวิตช์สร้าง
-3385	Guild Branch	สาขา Guild
-3386	Create Guild	สร้าง Guild
-3387	Guild Events	สิ่งอำนวยความสะดวก Guild
-3388	Combat Mount	แท่นต่อสู้
-3389	Learn Skills	เรียนรู้ทักษะ
-3390	Pet Hatching	การฟักไข่สัตว์เลี้ยง
-3391	Block Friend	บล็อกเพื่อน
-3392	Edit Profile	แก้ไขโปรไฟล์
-3393	Battle Merit	ศึกบุญ
-3394	NPC Shop@{1}	ร้าน NPC@{1}
-3395	Solo Actions	การกระทำเดี่ยว
-3396	Display Case	ตู้โชว์
-3397	Card Display	ใส่การ์ด
-3398	Book Display	ตู้โชว์หนังสือ
+3371	Downloading:	Downloading:
+3372	${1} Refresh	${1} Refresh
+3373	Refine Level	Refine Level
+3374	Success Rate	Success Rate
+3375	Not Equipped	Not Equipped
+3376	Enhance once	Enhance once
+3377	Reforge Cost	Reforge Cost
+3378	Emote/Action	Emote/Action
+3379	Gift of Time	Gift of Time
+3380	Exact Search	Exact Search
+3381	Pre-purchase	Pre-purchase
+3382	System Stall	System Stall
+3383	Novice Guide	Novice Guide
+3384	Switch Build	Switch Build
+3385	Guild Branch	Guild Branch
+3386	Create Guild	Create Guild
+3387	Guild Events	Guild Events
+3388	Combat Mount	Combat Mount
+3389	Learn Skills	Learn Skills
+3390	Pet Hatching	Pet Hatching
+3391	Block Friend	Block Friend
+3392	Edit Profile	Edit Profile
+3393	Battle Merit	Battle Merit
+3394	NPC Shop@{1}	NPC Shop@{1}
+3395	Solo Actions	Solo Actions
+3396	Display Case	Display Case
+3397	Card Display	Card Display
+3398	Book Display	Book Display
 3399	Attachments:	Attachments:
-3400	Fashion Gala	งานแฟชั่นกาล่า
-3401	Under Review	อยู่ระหว่างตรวจทาน
-3402	My Watchlist	รายการเฝ้าดูของฉัน
-3403	Lowest Price	ราคาต่ำสุด
-3404	Custom Price	ราคากำหนดเอง
-3405	Update Price	อัพเดทราคา
-3406	Siege Points	คะแนนล้อม
-3407	Damage Taken	ได้รับความเสียหาย
-3408	Growth Stage	ระยะการเติบโต
-3409	Mature Stage	เวทีผู้ใหญ่
-3410	Add Multiple	เพิ่มหลายรายการ
-3411	Go to Rental	ไปที่การเช่า
-3412	Search Items	รายการค้นหา
-3413	Friend Gifts	ของขวัญจากเพื่อน
-3414	Confirm Gift	ยืนยันของขวัญ
-3415	Gift claimed	รับของขวัญแล้ว
-3416	Cross-server	ข้ามเซิร์ฟเวอร์
-3417	Create Group	สร้างกลุ่ม
-3418	Select Group	เลือกกลุ่ม
-3419	Gift Message	ข้อความของขวัญ
-3420	Delete Group	ลบกลุ่ม
-3421	Gift History	ประวัติของขวัญ
-3422	Mount Skills	ทักษะการเมานต์
-3423	Friends Info	ข้อมูลเพื่อน
-3424	Gifting Info	ข้อมูลการให้ของขวัญ
-3425	Create Party	สร้างปาร์ตี้
-3426	Search Party	ปาร์ตี้การค้นหา
-3427	Disable Chat	ปิดการใช้งานการแชท
-3428	Unmute Voice	เปิดเสียงเสียง
-3429	${1}'s Party	ปาร์ตี้ของ${1}
-3430	Guild Member	สมาชิก Guild
-3431	Party Invite	คำเชิญปาร์ตี้
-3432	No Objective	ไม่มีวัตถุประสงค์
-3433	Refresh Time	เวลารีเฟรช
-3434	Free to Join	เข้าร่วมฟรี
-3435	Party Marker	ปาร์ตี้มาร์กเกอร์
-3436	Revive Point	จุดฟื้นคืนชีพ
-3437	Increase Bid	เพิ่มราคาเสนอ
-3438	Request sent	แล้ว
-3439	Announcement	เวลาสมัคร
-3440	Item Details	รายละเอียดสินค้า
-3441	Trading Hall	ห้องซื้อขาย
-3442	Supply Trade	การค้าอุปทาน
-3443	Order Status	สถานะการสั่งซื้อ
-3444	Send Request	ส่งคำขอ
-3445	Go to Escort	ไปที่ Escort
-3446	Open Bidding	การประมูลแบบ Open
+3400	Fashion Gala	Fashion Gala
+3401	Under Review	Under Review
+3402	My Watchlist	My Watchlist
+3403	Lowest Price	Lowest Price
+3404	Custom Price	Custom Price
+3405	Update Price	Update Price
+3406	Siege Points	Siege Points
+3407	Damage Taken	Damage Taken
+3408	Growth Stage	Growth Stage
+3409	Mature Stage	Mature Stage
+3410	Add Multiple	Add Multiple
+3411	Go to Rental	Go to Rental
+3412	Search Items	Search Items
+3413	Friend Gifts	Friend Gifts
+3414	Confirm Gift	Confirm Gift
+3415	Gift claimed	Gift claimed
+3416	Cross-server	Cross-server
+3417	Create Group	Create Group
+3418	Select Group	Select Group
+3419	Gift Message	Gift Message
+3420	Delete Group	Delete Group
+3421	Gift History	Gift History
+3422	Mount Skills	Mount Skills
+3423	Friends Info	Friends Info
+3424	Gifting Info	Gifting Info
+3425	Create Party	Create Party
+3426	Search Party	Search Party
+3427	Disable Chat	Disable Chat
+3428	Unmute Voice	Unmute Voice
+3429	${1}'s Party	${1}'s Party
+3430	Guild Member	Guild Member
+3431	Party Invite	Party Invite
+3432	No Objective	No Objective
+3433	Refresh Time	Refresh Time
+3434	Free to Join	Free to Join
+3435	Party Marker	Party Marker
+3436	Revive Point	Revive Point
+3437	Increase Bid	Increase Bid
+3438	Request sent	Request sent
+3439	Announcement	Announcement
+3440	Item Details	Item Details
+3441	Trading Hall	Trading Hall
+3442	Supply Trade	Supply Trade
+3443	Order Status	Order Status
+3444	Send Request	Send Request
+3445	Go to Escort	Go to Escort
+3446	Open Bidding	Open Bidding
 3447	Auto-Bidding	Auto-Bidding
-3448	Not Required	ไม่จำเป็น
-3449	Rating: ${1}	เรตติ้ง:${1}
-3450	${1} Assists	${1}ช่วยเหลือ
-3451	Introduction	บทนำ
+3448	Not Required	Not Required
+3449	Rating: ${1}	Rating: ${1}
+3450	${1} Assists	${1} Assists
+3451	Introduction	Introduction
 3452	Guild Emblem	Guild Emblem
-3453	Title Earned	แล้ว
-3454	Pet Obtained	ได้รับสัตว์เลี้ยงแล้ว
-3455	Request List	รายการคำขอ
-3456	Combat Power	พลังการต่อสู้
-3457	Contribution	การควบคุม
-3458	Offline Time	เวลาออฟไลน์
-3459	Refresh List	รีเฟรชรายการ
-3460	My Position:	ตำแหน่งของฉัน:
-3461	Item expired	รายการหมดอายุแล้ว
-3462	Opens Monday	Opens วันจันทร์
-3463	Opens Friday	Opens วันศุกร์
-3464	Opens Sunday	Opens วันอาทิตย์
-3465	Load Rewards	โหลดรางวัล
-3466	Open All Day	Open ทั้งวัน
-3467	Total Price:	ราคารวม:
-3468	Order Number	หมายเลขคำสั่งซื้อ
+3453	Title Earned	Title Earned
+3454	Pet Obtained	Pet Obtained
+3455	Request List	Request List
+3456	Combat Power	Combat Power
+3457	Contribution	Contribution
+3458	Offline Time	Offline Time
+3459	Refresh List	Refresh List
+3460	My Position:	My Position:
+3461	Item expired	Item expired
+3462	Opens Monday	Opens Monday
+3463	Opens Friday	Opens Friday
+3464	Opens Sunday	Opens Sunday
+3465	Load Rewards	Load Rewards
+3466	Open All Day	Open All Day
+3467	Total Price:	Total Price:
+3468	Order Number	Order Number
 3469	Unknown Area	Unknown Area
 3470	Royal Palace	Royal Palace
 3471	Payon Forest	Payon Forest
@@ -474,8 +474,8 @@
 3473	Pyramid Maze	Pyramid Maze
 3474	Card: Hornet	Card: Hornet
 3475	Card: Zenorc	Card: Zenorc
-3476	Best Healing	การรักษาที่ดีที่สุด
-3477	First Strike	การโจมตีครั้งแรก
+3476	Best Healing	Best Healing
+3477	First Strike	First Strike
 3478	Card: Anubis	Card: Anubis
 3479	Card: Savage	Card: Savage
 3480	Card: Merman	Card: Merman
@@ -512,14 +512,14 @@
 3511	Battle Chant	Battle Chant
 3512	Moon Slasher	Moon Slasher
 3513	Sniping Shot	Sniping Shot
-3514	Key Settings	คีย์บอร์ด
-3515	Quick Potion	ยาด่วน
-3516	Classic Mode	โหมดคลาสสิก
-3517	Do Not Chase	อย่าไล่ตาม
-3518	Same Faction	ฝ่ายเดียวกัน
-3519	Adjust Scale	ปรับขนาด
-3520	Cursor Style	รูปแบบเคอร์เซอร์
-3521	Cursor Scale	สเกลเคอร์เซอร์
+3514	Key Settings	Key Settings
+3515	Quick Potion	Quick Potion
+3516	Classic Mode	Classic Mode
+3517	Do Not Chase	Do Not Chase
+3518	Same Faction	Same Faction
+3519	Adjust Scale	Adjust Scale
+3520	Cursor Style	Cursor Style
+3521	Cursor Scale	Cursor Scale
 3522	Dracula Grab	Dracula Grab
 3523	Abyss Magnet	Abyss Magnet
 3524	Hunter Slash	Hunter Slash
@@ -548,8 +548,8 @@
 3547	Sonic Impact	Sonic Impact
 3548	Falling Bell	Falling Bell
 3549	Summon Clone	Summon Clone
-3550	Battle Score	คะแนนการต่อสู้
-3551	Ends in ${1}	ลงท้ายด้วย${1}
+3550	Battle Score	Battle Score
+3551	Ends in ${1}	Ends in ${1}
 3552	Choco Antics	Choco Antics
 3553	Agility Song	Agility Song
 3554	Sinister Cry	Sinister Cry
@@ -599,29 +599,29 @@
 3598	Sight Sprout	Sight Sprout
 3599	Magic Cannon	Magic Cannon
 3600	Stop Reading	Stop Reading
-3601	Confirm Exit	ยืนยันการออก
-3602	Tap to read.	แตะเพื่ออ่าน
-3603	Rank Preview	รางวัลอันดับ
-3604	Not Unsealed	ไม่ได้เปิดผนึก
-3605	Not Deployed	ไม่ได้ปรับใช้
-3606	Bond Removed	บอนด์ถูกลบออก
-3607	Current Rank	อันดับปัจจุบัน
-3608	Card Effects	เอฟเฟกต์การ์ด
-3609	Filter Cards	การ์ดกรอง
-3610	Change Right	เปลี่ยนทางขวา
-3611	Delete ${1}?	ลบ${1}?
-3612	Equip (${1})	(${1})
-3613	Related Tips	เคล็ดลับที่เกี่ยวข้อง
-3614	No monsters.	ไม่มีมอนสเตอร์
-3615	Mining Tribe	ชนเผ่าเหมืองแร่
+3601	Confirm Exit	Confirm Exit
+3602	Tap to read.	Tap to read.
+3603	Rank Preview	Rank Preview
+3604	Not Unsealed	Not Unsealed
+3605	Not Deployed	Not Deployed
+3606	Bond Removed	Bond Removed
+3607	Current Rank	Current Rank
+3608	Card Effects	Card Effects
+3609	Filter Cards	Filter Cards
+3610	Change Right	Change Right
+3611	Delete ${1}?	Delete ${1}?
+3612	Equip (${1})	Equip (${1})
+3613	Related Tips	Related Tips
+3614	No monsters.	No monsters.
+3615	Mining Tribe	Mining Tribe
 3616	Geffen Tower	Geffen Tower
 3617	Sphinx Crypt	Sphinx Crypt
-3618	Skill Points	ตัวอย่างทักษะ
-3619	Select Build	เลือกรุ่น
-3620	Exit (${1}s)	(${1}s)
-3621	Beginner Map	แผนที่เริ่มต้น
-3622	Gameplay Map	แผนที่การเล่นเกม
-3623	Hold to Talk	กดค้างไว้เพื่อพูด
+3618	Skill Points	Skill Points
+3619	Select Build	Select Build
+3620	Exit (${1}s)	Exit (${1}s)
+3621	Beginner Map	Beginner Map
+3622	Gameplay Map	Gameplay Map
+3623	Hold to Talk	Hold to Talk
 3624	Melody Conch	Melody Conch
 3625	Poporing@{1}	Poporing@{1}
 3626	Swift Knight	Swift Knight
@@ -644,7 +644,7 @@
 3643	Pet Merchant	Pet Merchant
 3644	Pile of Junk	Pile of Junk
 3645	Morroc Nomad	Morroc Nomad
-3646	Quest Failed	ล้มเหลว
+3646	Quest Failed	Quest Failed
 3647	Palace Guard	Palace Guard
 3648	Larva Canyon	Larva Canyon
 3649	Geffen Field	Geffen Field
@@ -661,108 +661,108 @@
 3660	Pharaoh-Easy	Pharaoh-Easy
 3661	Pharaoh-Hard	Pharaoh-Hard
 3662	Drake-Normal	Drake-Normal
-3663	Monster Info	ข้อมูลสัตว์ประหลาด
-3664	Acquaintance	คนรู้จัก
-3665	Field Battle	การต่อสู้ภาคสนาม
-3666	Map Appeared	ปรากฏขึ้น
-3667	Enable Bonus	เปิดใช้งานโบนัส
-3668	Chance Drops	โอกาสตก
-3669	Rescue Wagon	รถกู้ภัย
-3670	Rename Stall	เปลี่ยนชื่อแผงลอย
-3671	${1}'s Stall	แผงลอยของ${1}
-3672	In Progress…	อยู่ระหว่างดำเนินการ...
-3673	Format: ${1}	:${1}รูปแบบ
-3674	Earth Damage	ความเสียหายจากดิน
-3675	Water Damage	ความเสียหายจากน้ำ
-3676	Ghost Damage	ความเสียหายจากผี
-3677	${1} to ${2}	${1}ถึง${2}
-3678	Points Used:	คะแนนที่ใช้:
-3679	Elite Preset	อีลิทพรีเซ็ต
-3680	Quick Remove	Remove ด่วน
-3681	Quick Deploy	ปรับใช้ด่วน
-3682	Quick Cancel	ยกเลิกด่วน
-3683	Join Method:	วิธีการเข้าร่วม:
-3684	Cancel Merge	ยกเลิกการรวม
-3685	Defeat Fabre	เอาชนะ Fabre
-3686	Strange Girl	Girl แปลกหน้า
-3687	Time to Rest	ได้เวลาพักผ่อนแล้ว
-3688	Close Friend	เพื่อนสนิท
-3689	Open CG @{1}	Open CG@{1}
-3690	Second Trial	การทดลองครั้งที่สอง
-3691	Turn In Bark	เลี้ยวเห่า
-3692	Airship Port	ท่าเรือเรือเหาะ
-3693	Stolen Cargo	สินค้าที่ถูกขโมย
-3694	Bobo's Shock	โช๊ค Bobo
-3695	Pet unlocked	สัตว์เลี้ยงปลดล็อคแล้ว
-3696	Gain 1 Level	ได้รับ 1 ระดับ
-3697	Quick Select	เลือกด่วน
-3698	Normal Hatch	ฟักธรรมดา
-3699	Core Passive	แกน Passive
-3700	Growth Rate:	อัตราการเติบโต:
-3701	Breakthrough	ทะลุทะลวง
-3702	Core Rewards	รางวัลหลัก
-3703	Coming soon!	เร็วๆ นี้!
-3704	Monster Wave	มอนสเตอร์ Wave
-3705	Help Bobo up	ช่วย Bobo ขึ้น
-3706	Here you go.	เอาล่ะ
-3707	Who are you?	คุณคือใคร?
-3708	What? Alive?	อะไร? มีชีวิตอยู่?
-3709	What was it?	มันคืออะไร?
-3710	I miss you!!	คิดถึงนะ!!
-3711	Almost what?	เกือบอะไรล่ะ?
-3712	Open Dungeon	Open ดันเจี้ยน
-3713	Confirm Skip	ยืนยันการข้าม
-3714	Hide Markers	ซ่อนเครื่องหมาย
-3715	Show Markers	แสดงเครื่องหมาย
+3663	Monster Info	Monster Info
+3664	Acquaintance	Acquaintance
+3665	Field Battle	Field Battle
+3666	Map Appeared	Map Appeared
+3667	Enable Bonus	Enable Bonus
+3668	Chance Drops	Chance Drops
+3669	Rescue Wagon	Rescue Wagon
+3670	Rename Stall	Rename Stall
+3671	${1}'s Stall	${1}'s Stall
+3672	In Progress…	In Progress…
+3673	Format: ${1}	Format: ${1}
+3674	Earth Damage	Earth Damage
+3675	Water Damage	Water Damage
+3676	Ghost Damage	Ghost Damage
+3677	${1} to ${2}	${1} to ${2}
+3678	Points Used:	Points Used:
+3679	Elite Preset	Elite Preset
+3680	Quick Remove	Quick Remove
+3681	Quick Deploy	Quick Deploy
+3682	Quick Cancel	Quick Cancel
+3683	Join Method:	Join Method:
+3684	Cancel Merge	Cancel Merge
+3685	Defeat Fabre	Defeat Fabre
+3686	Strange Girl	Strange Girl
+3687	Time to Rest	Time to Rest
+3688	Close Friend	Close Friend
+3689	Open CG @{1}	Open CG @{1}
+3690	Second Trial	Second Trial
+3691	Turn In Bark	Turn In Bark
+3692	Airship Port	Airship Port
+3693	Stolen Cargo	Stolen Cargo
+3694	Bobo's Shock	Bobo's Shock
+3695	Pet unlocked	Pet unlocked
+3696	Gain 1 Level	Gain 1 Level
+3697	Quick Select	Quick Select
+3698	Normal Hatch	Normal Hatch
+3699	Core Passive	Core Passive
+3700	Growth Rate:	Growth Rate:
+3701	Breakthrough	Breakthrough
+3702	Core Rewards	Core Rewards
+3703	Coming soon!	Coming soon!
+3704	Monster Wave	Monster Wave
+3705	Help Bobo up	Help Bobo up
+3706	Here you go.	Here you go.
+3707	Who are you?	Who are you?
+3708	What? Alive?	What? Alive?
+3709	What was it?	What was it?
+3710	I miss you!!	I miss you!!
+3711	Almost what?	Almost what?
+3712	Open Dungeon	Open Dungeon
+3713	Confirm Skip	Confirm Skip
+3714	Hide Markers	Hide Markers
+3715	Show Markers	Show Markers
 3716	[Weak Value]	[Weak Value]
-3717	Start Battle	เริ่มการต่อสู้
-3718	Second Class	ชั้นสอง
-3719	Map Tracking	การติดตามแผนที่
-3720	View Auction	ดูการประมูล
-3721	Auction List	รายการประมูล
-3722	Unlock  ${1}	ปลดล็อค${1}
-3723	Bonfire ${1}	Bonfire${1}
-3724	${1} Lv.${2}	${1}เลเวล${2}
-3725	Scratch Head	หัวกันรอย
-3726	Give Flowers	มอบ Flowers
-3727	Play It Cool	เล่นอย่างเท่
-3728	Blow Trumpet	ทรัมเป็ตเป่า
-3729	Confirm Cost	ยืนยันต้นทุน
+3717	Start Battle	Start Battle
+3718	Second Class	Second Class
+3719	Map Tracking	Map Tracking
+3720	View Auction	View Auction
+3721	Auction List	Auction List
+3722	Unlock  ${1}	Unlock  ${1}
+3723	Bonfire ${1}	Bonfire ${1}
+3724	${1} Lv.${2}	${1} Lv.${2}
+3725	Scratch Head	Scratch Head
+3726	Give Flowers	Give Flowers
+3727	Play It Cool	Play It Cool
+3728	Blow Trumpet	Blow Trumpet
+3729	Confirm Cost	Confirm Cost
 3730	Attack Orbit	Attack Orbit
-3731	Frozen Orbit	วงโคจรเยือกแข็ง
+3731	Frozen Orbit	Frozen Orbit
 3732	Auto-Bid set	Auto-Bid set
-3733	Source Event	เหตุการณ์ต้นทาง
-3734	Stop Bidding	หยุดการประมูล
-3735	Bid on ${1}?	ประมูล${1}?
-3736	Go to Unseal	ไปที่เปิดผนึก
-3737	Initial Plan	แผนเริ่มต้น
-3738	Apprentice V	เด็กฝึกงาน V
+3733	Source Event	Source Event
+3734	Stop Bidding	Stop Bidding
+3735	Bid on ${1}?	Bid on ${1}?
+3736	Go to Unseal	Go to Unseal
+3737	Initial Plan	Initial Plan
+3738	Apprentice V	Apprentice V
 3739	Apprentice I	Apprentice I
-3740	Kill Players	Kill ผู้เล่น
-3741	Total Points	คะแนนรวม
-3742	Eliminations	การกำจัด
-3743	Grand Finals	รอบชิงชนะเลิศ
-3744	Total Score:	คะแนนรวม:
-3745	Points Match	การจับคู่คะแนน
-3746	Locate Match	Locate การจับคู่
-3747	Guild Quests	ภารกิจ Guild
-3748	Treasure Map	แผนที่สมบัติ
-3749	Siege Weapon	อาวุธปิดล้อม
-3750	Heart Points	คะแนนคาร์ดิโอ
-3751	Guild Points	คะแนน Guild
-3752	Knight Class	คลาสอัศวิน
-3753	Priest Class	คลาสนักบวช
-3754	Hunter Class	Hunter คลาส
-3755	Single Affix	ตัวต่อเดี่ยว
-3756	Geffen Areas	พื้นที่ Geffen
-3757	Lv.@{1}-@{2}	เลเวล@{1}-@{2}
-3758	Wooden Goods	สินค้าไม้
-3759	Flying Mount	แท่นยึดบิน
-3760	Emote Skills	ทักษะอิโมติคอน
-3761	Idle Actions	การดำเนินการที่ไม่ได้ใช้งาน
-3762	Need Support	ต้องการการสนับสนุน
-3763	Special Item	รายการพิเศษ
-3764	Exit Vehicle	ออกจากรถ
+3740	Kill Players	Kill Players
+3741	Total Points	Total Points
+3742	Eliminations	Eliminations
+3743	Grand Finals	Grand Finals
+3744	Total Score:	Total Score:
+3745	Points Match	Points Match
+3746	Locate Match	Locate Match
+3747	Guild Quests	Guild Quests
+3748	Treasure Map	Treasure Map
+3749	Siege Weapon	Siege Weapon
+3750	Heart Points	Heart Points
+3751	Guild Points	Guild Points
+3752	Knight Class	Knight Class
+3753	Priest Class	Priest Class
+3754	Hunter Class	Hunter Class
+3755	Single Affix	Single Affix
+3756	Geffen Areas	Geffen Areas
+3757	Lv.@{1}-@{2}	Lv.@{1}-@{2}
+3758	Wooden Goods	Wooden Goods
+3759	Flying Mount	Flying Mount
+3760	Emote Skills	Emote Skills
+3761	Idle Actions	Idle Actions
+3762	Need Support	Need Support
+3763	Special Item	Special Item
+3764	Exit Vehicle	Exit Vehicle
 3765	Tetra Vortex	Tetra Vortex
 3766	Earth Strain	Earth Strain
 3767	Charge Arrow	Charge Arrow
@@ -778,34 +778,34 @@
 3777	Summon Notes	Summon Notes
 3778	Linear Laser	Linear Laser
 3779	Water Pillar	Water Pillar
-3780	Elapsed Time	เวลาที่ผ่านไป
-3781	Rune Fashion	รูนแฟชั่น
-3782	Payon Region	ภูมิภาค Payon
+3780	Elapsed Time	Elapsed Time
+3781	Rune Fashion	Rune Fashion
+3782	Payon Region	Payon Region
 3783	Magic Powder	Magic Powder
 3784	Special Mane	Special Mane
-3785	GVE Speedrun	GVE สปีดรัน
+3785	GVE Speedrun	GVE Speedrun
 3786	Season Story	Season Story
-3787	Shadow Claws	กรงเล็บเงา
+3787	Shadow Claws	Shadow Claws
 3788	Spirit Glyph	Spirit Glyph
 3789	Sacred Glyph	Sacred Glyph
 3790	Silk Padding	Silk Padding
-3791	Radiant Star	เรเดียนท์สตาร์
-3792	The Solution	โซลูชั่น
-3793	Kill Ranking	อันดับการ Kill
-3794	Win Rankings	ชนะอันดับ
-3795	Hall of Fame	หอเกียรติยศ
-3796	Untargetable	ไม่สามารถกำหนดเป้าหมายได้
-3797	Golden Touch	โกลเด้นทัช
-3798	Crafting Set	ชุดงานประดิษฐ์
-3799	One for Many	หนึ่งสำหรับหลาย ๆ คน
-3800	Gameplay@{1}	การเล่นเกม@{1}
-3801	Wish Preview	ต้องการดูตัวอย่าง
-3802	Current Wish	ความปรารถนาปัจจุบัน
+3791	Radiant Star	Radiant Star
+3792	The Solution	The Solution
+3793	Kill Ranking	Kill Ranking
+3794	Win Rankings	Win Rankings
+3795	Hall of Fame	Hall of Fame
+3796	Untargetable	Untargetable
+3797	Golden Touch	Golden Touch
+3798	Crafting Set	Crafting Set
+3799	One for Many	One for Many
+3800	Gameplay@{1}	Gameplay@{1}
+3801	Wish Preview	Wish Preview
+3802	Current Wish	Current Wish
 3803	Parting Gift	Parting Gift
 3804	Dragonslayer	Dragonslayer
 3805	Tree of Life	Tree of Life
-3806	Innate Skill	ทักษะโดยกำเนิด
-3807	Upgrade Cost	ค่าใช้จ่ายในการอัปเกรด
+3806	Innate Skill	Innate Skill
+3807	Upgrade Cost	Upgrade Cost
 3808	Boar's Feast	Boar's Feast
 3809	Multi Strike	Multi Strike
 3810	Decapitation	Decapitation
@@ -844,7 +844,7 @@
 3843	Advanced Rod	Advanced Rod
 3844	Basic Dagger	Basic Dagger
 3845	Diamond Ring	Diamond Ring
-3846	Enchant Cost	ค่าเสริมเสน่ห์
+3846	Enchant Cost	Enchant Cost
 3847	Safety Shoes	Safety Shoes
 3848	Novice Boots	Novice Boots
 3849	Falcon Cloak	Falcon Cloak
@@ -871,131 +871,131 @@
 3870	Card: Zombie	Card: Zombie
 3871	Card: Condor	Card: Condor
 3872	Card: Rocker	Card: Rocker
-3873	Throne Token	โทเค็นบัลลังก์
-3874	Shop Details	รายละเอียดร้าน
-3875	Gift Details	รายละเอียดของขวัญ
-3876	Basic Rules:	:
-3877	Using Cards:	การใช้การ์ด:
-3878	Praised you!	ชื่นชมคุณ!
+3873	Throne Token	Throne Token
+3874	Shop Details	Shop Details
+3875	Gift Details	Gift Details
+3876	Basic Rules:	Basic Rules:
+3877	Using Cards:	Using Cards:
+3878	Praised you!	Praised you!
 3879	Card: Poring	Card: Poring
-3880	Starting Bid	การประมูลเริ่มต้น
-3881	Ilmo's Trial	บททดสอบของอิลโม
-3882	Isti's Trial	การทดลองของ Isti
-3883	Bonding Oath	คำสาบานแห่งพันธะ
-3884	Rapid Thrust	แรงขับเร็ว
-3885	Scythe Throw	ขว้างเคียว
-3886	Coffin Blast	ระเบิดโลงศพ
-3887	Bubble Burst	ฟองสบู่แตก
-3888	Scythe Dance	การเต้นรำเคียว
-3889	Bubble Dream	Bubble ดรีม
+3880	Starting Bid	Starting Bid
+3881	Ilmo's Trial	Ilmo's Trial
+3882	Isti's Trial	Isti's Trial
+3883	Bonding Oath	Bonding Oath
+3884	Rapid Thrust	Rapid Thrust
+3885	Scythe Throw	Scythe Throw
+3886	Coffin Blast	Coffin Blast
+3887	Bubble Burst	Bubble Burst
+3888	Scythe Dance	Scythe Dance
+3889	Bubble Dream	Bubble Dream
 3890	Shield Press	Shield Press
 3891	King's Grace	King's Grace
 3892	Shield Break	Shield Break
 3893	Shield Block	Shield Block
 3894	Block Impact	Block Impact
 3895	Assist Score	Assist Score
-3896	Top Occupier	ผู้ครอบครองสูงสุด
-3897	Top Defender	กองหลังตัวท็อป
-3898	Near-Godlike	ใกล้เทพ
-3899	Revive X${1}	รีไวฟ์ X${1}
-3900	@{1} Assists	@{1}ช่วยเหลือ
-3901	Most Assists	ช่วยเหลือมากที่สุด
-3902	Drop Rewards	ดรอปรางวัล
-3903	Lv.${1}-${2}	เลเวล${1}-${2}
+3896	Top Occupier	Top Occupier
+3897	Top Defender	Top Defender
+3898	Near-Godlike	Near-Godlike
+3899	Revive X${1}	Revive X${1}
+3900	@{1} Assists	@{1} Assists
+3901	Most Assists	Most Assists
+3902	Drop Rewards	Drop Rewards
+3903	Lv.${1}-${2}	Lv.${1}-${2}
 3904	Kafra's Ring	Kafra's Ring
 3905	Speed Potion	Speed Potion
-3906	Animal World	สัตว์โลก
-3907	Stigma Count	จำนวนการตีตรา
-3908	Earthshatter	เครื่องสลายแผ่นดินไหว
-3909	HP Lock Buff	บัฟล็อค HP
-3910	Size Reduced	ขนาดลดลง
-3911	Osiris (Red)	Osiris (สีแดง)
-3912	Leave Combat	Leave จากการต่อสู้
-3913	(Deprecated)	(เลิกใช้แล้ว)
-3914	Fire Release	ปล่อยไฟ
-3915	Severe Wound	บาดแผลสาหัส
-3916	Magic Immune	ภูมิคุ้มกันมหัศจรรย์
-3917	Flame Scorch	เปลวเพลิงไหม้
-3918	HP Lock@{1}%	HP ล็อค@{1}%
-3919	Status Alert	บิตแมปสถานะ
+3906	Animal World	Animal World
+3907	Stigma Count	Stigma Count
+3908	Earthshatter	Earthshatter
+3909	HP Lock Buff	HP Lock Buff
+3910	Size Reduced	Size Reduced
+3911	Osiris (Red)	Osiris (Red)
+3912	Leave Combat	Leave Combat
+3913	(Deprecated)	(Deprecated)
+3914	Fire Release	Fire Release
+3915	Severe Wound	Severe Wound
+3916	Magic Immune	Magic Immune
+3917	Flame Scorch	Flame Scorch
+3918	HP Lock@{1}%	HP Lock@{1}%
+3919	Status Alert	Status Alert
 3920	Quagmire SFX	Quagmire SFX
-3921	Arcane Study	การศึกษาอาร์เคน
-3922	Gravity Trap	เครื่องดักแรงโน้มถ่วง
-3923	Slime Ground	ดินสไลม์
+3921	Arcane Study	Arcane Study
+3922	Gravity Trap	Gravity Trap
+3923	Slime Ground	Slime Ground
 3924	Dark Sorcery	Dark Sorcery
 3925	Trauma Drain	Trauma Drain
 3926	Scythe Slash	Scythe Slash
 3927	Clear Breeze	Clear Breeze
 3928	Bell Miracle	Bell Miracle
 3929	Demonic Aura	Demonic Aura
-3930	Fairy Shield	แฟรี่ชีลด์
+3930	Fairy Shield	Fairy Shield
 3931	Flame Breath	Flame Breath
-3932	Block Shield	บล็อค Shield
+3932	Block Shield	Block Shield
 3933	Arrow Effect	Arrow Effect
-3934	Coffin Skill	ทักษะโลงศพ
-3935	Laser Marker	Laser มาร์กเกอร์
-3936	Warning Link	ลิงค์คำเตือน
-3937	Charged Bell	ชาร์จ Bell
+3934	Coffin Skill	Coffin Skill
+3935	Laser Marker	Laser Marker
+3936	Warning Link	Warning Link
+3937	Charged Bell	Charged Bell
 3938	Green Marker	ปากกามาร์กเกอร์สีเขียว
-3939	Switch Thorn	สวิตซ์ Thorn
-3940	Frenzy S@{1}	เฟรนซี่ เอส@{1}
-3941	Switch Comet	สวิตซ์ Comet
-3942	Extreme Slow	Slow มาก
-3943	Chest Effect	เอฟเฟกต์หน้าอก
-3944	Battle Ready	พร้อมรบ
-3945	Mic Controls	การ Controls ไมค์
-3946	Mic Requests	คำขอไมค์
-3947	Make Friends	หาเพื่อนใหม่
-3948	Verbal Abuse	การใช้วาจาในทางที่ผิด
-3949	Talk to ${1}	คุยกับ${1}
-3950	Defeat Mirko	เอาชนะ Mirko
-3951	Defeat Nasha	เอาชนะ Nasha
-3952	Misc Rules 3	กฎเบ็ดเตล็ด 3
-3953	Misc Rules 2	กฎเบ็ดเตล็ด 2
-3954	Misc Rules 1	กฎเบ็ดเตล็ด 1
-3955	Costume Draw	จับรางวัลเครื่องแต่งกาย
-3956	Eternal Vows	คำสาบานชั่วนิรันดร์
-3957	Invalid name	ชื่อไม่ถูกต้อง
-3958	Stall closed	แผงปิดปิด
-3959	Random Affix	ส่วนเสริมแบบสุ่ม
-3960	Mighty Sword	Sword ทรงพลัง
-3961	Spiral Blast	ระเบิดเกลียว
-3962	Urd's Spring	สปริง Urd
-3963	Advanced HIT	การโจมตีขั้นสูง
-3964	Dagger Throw	ขว้าง Dagger
-3965	Cold-Blooded	เลือดเย็น
-3966	Dark Stalker	ดาร์คสตอล์กเกอร์
-3967	Black Market	ตลาดมืด
-3968	Base Defense	การป้องกันฐาน
-3969	Like History	ชอบประวัติ
-3970	No likes yet	ยังไม่มีการถูกใจ
-3971	Borrow Books	ยืมหนังสือ
-3972	Already Read	อ่านแล้ว
-3973	Set Template	ตั้งค่าเทมเพลต
-3974	Me - Profile	ฉัน - โปรไฟล์
-3975	Select Theme	เลือกธีม
-3976	Three Mounts	ขายึดสามอัน
-3977	A Pack of 20	แพ็คละ 20
-3978	Card Synergy	การทำงานร่วมกันของการ์ด
+3939	Switch Thorn	Switch Thorn
+3940	Frenzy S@{1}	Frenzy S@{1}
+3941	Switch Comet	Switch Comet
+3942	Extreme Slow	Extreme Slow
+3943	Chest Effect	Chest Effect
+3944	Battle Ready	Battle Ready
+3945	Mic Controls	Mic Controls
+3946	Mic Requests	Mic Requests
+3947	Make Friends	Make Friends
+3948	Verbal Abuse	Verbal Abuse
+3949	Talk to ${1}	Talk to ${1}
+3950	Defeat Mirko	Defeat Mirko
+3951	Defeat Nasha	Defeat Nasha
+3952	Misc Rules 3	Misc Rules 3
+3953	Misc Rules 2	Misc Rules 2
+3954	Misc Rules 1	Misc Rules 1
+3955	Costume Draw	Costume Draw
+3956	Eternal Vows	Eternal Vows
+3957	Invalid name	Invalid name
+3958	Stall closed	Stall closed
+3959	Random Affix	Random Affix
+3960	Mighty Sword	Mighty Sword
+3961	Spiral Blast	Spiral Blast
+3962	Urd's Spring	Urd's Spring
+3963	Advanced HIT	Advanced HIT
+3964	Dagger Throw	Dagger Throw
+3965	Cold-Blooded	Cold-Blooded
+3966	Dark Stalker	Dark Stalker
+3967	Black Market	Black Market
+3968	Base Defense	Base Defense
+3969	Like History	Like History
+3970	No likes yet	No likes yet
+3971	Borrow Books	Borrow Books
+3972	Already Read	Already Read
+3973	Set Template	Set Template
+3974	Me - Profile	Me - Profile
+3975	Select Theme	Select Theme
+3976	Three Mounts	Three Mounts
+3977	A Pack of 20	A Pack of 20
+3978	Card Synergy	Card Synergy
 3979	Thief Mentor	Thief Mentor
 3980	Amatsu Guide	Amatsu Guide
 3981	Malaya Woman	Malaya Woman
 3982	Dewata Woman	Dewata Woman
 3983	Chungwolmang	Chungwolmang
 3984	Granny Broom	Granny Broom
-3985	Event Period	ระยะเวลากิจกรรม
-3986	Revive Altar	แท่นบูชาฟื้นคืนชีพ
-3987	No Equipment	ไม่มีอุปกรณ์
-3988	Close Defeat	ปิดความพ่ายแพ้
-3989	Battle Start	เริ่มการต่อสู้
-3990	Total Limit:	ขีดจำกัดรวม:
-3991	Confirm Oath	ยืนยันคำสาบาน
-3992	Edit message	แก้ไขข้อความ
-3993	Golden Orbit	โกลเด้นออร์บิท
-3994	Apply Preset	ใช้ค่าที่ตั้งล่วงหน้า
-3995	Submit Build	ส่งบิลด์
-3996	Select Cards	เลือกการ์ด
+3985	Event Period	Event Period
+3986	Revive Altar	Revive Altar
+3987	No Equipment	No Equipment
+3988	Close Defeat	Close Defeat
+3989	Battle Start	Battle Start
+3990	Total Limit:	Total Limit:
+3991	Confirm Oath	Confirm Oath
+3992	Edit message	Edit message
+3993	Golden Orbit	Golden Orbit
+3994	Apply Preset	Apply Preset
+3995	Submit Build	Submit Build
+3996	Select Cards	Select Cards
 3997	Blind effect	เอฟเฟกต์ตาบอด
-3998	Generic Slow	ทั่วไป Slow
-3999	Generic Stun	สตันทั่วไป
-4000	Guard Domain	โดเมนยาม
+3998	Generic Slow	Generic Slow
+3999	Generic Stun	Generic Stun
+4000	Guard Domain	Guard Domain

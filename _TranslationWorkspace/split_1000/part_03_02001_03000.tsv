@@ -1,67 +1,67 @@
 ﻿Index	English	Thai_Translation
 2001	Lv.81-100	Lv.81-100
-2002	Filtering	การกรอง
+2002	Filtering	Filtering
 2003	Kaka Coin	Kaka Coin
-2004	CHAPTER I	บทที่ 1
-2005	Excellent	สุดยอดครับ
-2006	Fragrance	น้ำหอม
-2007	Size @{1}	ขนาด@{1}
-2008	Charge Up	Charge ไฟแล้ว
-2009	Alternate	สำรอง
-2010	Rapidness	ความรวดเร็ว
-2011	Modern PC	พีซีสมัยใหม่
-2012	Hide Chat	ซ่อนแชท
-2013	Show Chat	แสดงแชท
-2014	Game Info	ข้อมูลเกม
-2015	Low Growl	เสียงคำรามต่ำ
-2016	Moonlight	แสงจันทร์
-2017	Execution	เวลาดำเนินการ
-2018	Blue Note	โน๊ตสีน้ำเงิน
-2019	Wave Slow	คลื่น Slow
-2020	Duo Dance	ดูโอแดนซ์
+2004	CHAPTER I	CHAPTER I
+2005	Excellent	Excellent
+2006	Fragrance	Fragrance
+2007	Size @{1}	Size @{1}
+2008	Charge Up	Charge Up
+2009	Alternate	Alternate
+2010	Rapidness	Rapidness
+2011	Modern PC	Modern PC
+2012	Hide Chat	Hide Chat
+2013	Show Chat	Show Chat
+2014	Game Info	Game Info
+2015	Low Growl	Low Growl
+2016	Moonlight	Moonlight
+2017	Execution	Execution
+2018	Blue Note	Blue Note
+2019	Wave Slow	Wave Slow
+2020	Duo Dance	Duo Dance
 2021	Void Rift	ช่องว่างรอยแยก
-2022	Recipient	ผู้รับ
-2023	Listeners	ผู้ฟัง
-2024	Materials	ได้รับวัสดุ
-2025	Trade Fee	ค่าธรรมเนียมการค้า
-2026	Two Buffs	สองบัฟ
-2027	Basic HIT	การโจมตีขั้นพื้นฐาน
+2022	Recipient	Recipient
+2023	Listeners	Listeners
+2024	Materials	Materials
+2025	Trade Fee	Trade Fee
+2026	Two Buffs	Two Buffs
+2027	Basic HIT	Basic HIT
 2028	Merciless	Merciless
-2029	Wrong Job	งานผิด
-2030	Defenders	กองหลัง
-2031	Attackers	ผู้โจมตี
-2032	This Week	สัปดาห์นี้
-2033	Frontline	แนวหน้า
-2034	Reloading	กำลังโหลดซ้ำ
-2035	Purchased	แล้ว
-2036	First MVP	MVP คนแรก
+2029	Wrong Job	Wrong Job
+2030	Defenders	Defenders
+2031	Attackers	Attackers
+2032	This Week	This Week
+2033	Frontline	Frontline
+2034	Reloading	Reloading
+2035	Purchased	Purchased
+2036	First MVP	First MVP
 2037	Kind Girl	Kind Girl
 2038	Eerie Man	Eerie Man
-2039	Solo Mode	โหมดโซโล
-2040	{1} Place	{1}สถานที่
-2041	Remaining	เหลืออยู่
-2042	No Skills	ไม่มีทักษะ
-2043	No items.	ไม่มีรายการ
-2044	Care List	รายการดูแล
-2045	and above	และสูงกว่า
-2046	and below	และต่ำกว่า
+2039	Solo Mode	Solo Mode
+2040	{1} Place	{1} Place
+2041	Remaining	Remaining
+2042	No Skills	No Skills
+2043	No items.	No items.
+2044	Care List	Care List
+2045	and above	and above
+2046	and below	and below
 2047	CRIT Stat	สถิติ CRIT
 2048	ATK +@{1}	พลังโจมตี +@{1}
-2049	${1} List	รายการ${1}
-2050	Butterfly	บัตเตอร์ฟลาย
+2049	${1} List	${1} List
+2050	Butterfly	Butterfly
 2051	Link Pull	ลิงค์ดึง
 2052	Spawn VFX	Spawn VFX
-2053	Fortitude	ความแข็งแกร่ง
-2054	Iron Wall	ผนังเหล็ก
-2055	Interrupt	ขัดจังหวะ
-2056	Scanning…	กำลังสแกน...
-2057	Preparing	กำลังเตรียม
-2058	Forfeited	ถูกริบ
-2059	Exit ${1}	ออกจาก${1}ทางออก
-2060	Left Heart	หัวใจซ้าย
-2061	Ranks 4-10	อันดับ 4-10
-2062	Deals DMG:	ข้อเสนอ DMG:
-2063	Event Over	สิ้นสุดแล้ว
+2053	Fortitude	Fortitude
+2054	Iron Wall	Iron Wall
+2055	Interrupt	Interrupt
+2056	Scanning…	Scanning…
+2057	Preparing	Preparing
+2058	Forfeited	Forfeited
+2059	Exit ${1}	Exit ${1}
+2060	Left Heart	Left Heart
+2061	Ranks 4-10	Ranks 4-10
+2062	Deals DMG:	Deals DMG:
+2063	Event Over	Event Over
 2064	Mage's Hat	Mage's Hat
 2065	Banana Hat	Banana Hat
 2066	Angel Wing	Angel Wing
@@ -72,18 +72,18 @@
 2071	Clown Nose	Clown Nose
 2072	Kitty Tail	Kitty Tail
 2073	Big Poring	Big Poring
-2074	Kitty Cart	รถเข็นคิตตี้
+2074	Kitty Cart	Kitty Cart
 2075	Squidgitte	Squidgitte
 2076	Marionette	Marionette
 2077	BASE:${1}%	BASE:${1}%
-2078	Statistics	สถิติ
-2079	Difficulty	ความยาก
-2080	Clear Time	เคลียร์เวลา
+2078	Statistics	Statistics
+2079	Difficulty	Difficulty
+2080	Clear Time	Clear Time
 2081	Rift Stone	Rift Stone
-2082	New Record	สถิติใหม่
-2083	Indonesian	ชาวอินโดนีเซีย
-2084	Vietnamese	ภาษาเวียดนาม
-2085	Rare Items	ของหายาก
+2082	New Record	New Record
+2083	Indonesian	Indonesian
+2084	Vietnamese	Vietnamese
+2085	Rare Items	Rare Items
 2086	Mandragora	Mandragora
 2087	Thara Frog	Thara Frog
 2088	Sword Fish	Sword Fish
@@ -95,107 +95,107 @@
 2094	Wind Ghost	Wind Ghost
 2095	Axe Kobold	Axe Kobold
 2096	Leib Olmai	Leib Olmai
-2097	Discipline	วินัย
-2098	My Journey	การเดินทางของฉัน
-2099	Management	การจัดการ
-2100	Totem Life	โทเทมไลฟ์
-2101	HP recover	HP ฟื้นตัว
-2102	Cast Speed	ความเร็วในการร่าย
-2103	Crit Bonus	โบนัสคริติคอล
-2104	Global CD%	ซีดีทั่วโลก%
-2105	Bonus MATK	โบนัส MATK
-2106	Bonus MDEF	โบนัส MDEF
-2107	BOSS Phase	เฟสบอส
-2108	Max Energy	พลังงานสูงสุด
+2097	Discipline	Discipline
+2098	My Journey	My Journey
+2099	Management	Management
+2100	Totem Life	Totem Life
+2101	HP recover	HP recover
+2102	Cast Speed	Cast Speed
+2103	Crit Bonus	Crit Bonus
+2104	Global CD%	Global CD%
+2105	Bonus MATK	Bonus MATK
+2106	Bonus MDEF	Bonus MDEF
+2107	BOSS Phase	BOSS Phase
+2108	Max Energy	Max Energy
 2109	【Equipped】	【Equipped】
 2110	MVP-Osiris	MVP-Osiris
 2111	MVP-Kraken	MVP-Kraken
-2112	Space Rift	รอยแยกอวกาศ
-2113	Popularity	ความนิยม
-2114	Trans. 2nd	ทรานส์ 2
-2115	Sell Items	ขายสินค้า
-2116	Bid Outbid	เสนอราคาสูงกว่า
-2117	Show Caves	แสดงถ้ำ
-2118	Cancel AFK	ยกเลิก AFK
-2119	Trial Shop	ร้านทดลอง
+2112	Space Rift	Space Rift
+2113	Popularity	Popularity
+2114	Trans. 2nd	Trans. 2nd
+2115	Sell Items	Sell Items
+2116	Bid Outbid	Bid Outbid
+2117	Show Caves	Show Caves
+2118	Cancel AFK	Cancel AFK
+2119	Trial Shop	Trial Shop
 2120	Kafra Shop	Kafra Shop
-2121	Totem Shop	ร้านโทเท็ม
-2122	Guild Shop	ร้าน Guild
-2123	Base Stats	สถิติพื้นฐาน
-2124	Dreamscape	ดรีมสเคป
-2125	Note Drops	หมายเหตุ Drops
-2126	Donor Shop	ร้านผู้บริจาค
-2127	Add Friend	เพิ่มเพื่อน
-2128	Buff Build	บิวด์บัฟ
-2129	Guild Hall	ห้องโถง Guild
-2130	Build ${1}	สร้าง${1}
-2131	Protection	การป้องกัน
-2132	Rune Sword	Sword รูน
-2133	Rune Spear	Spear รูน
-2134	Rune Eagle	รูนอีเกิล
-2135	Papal Wolf	Wolf สันตะปาปา
-2136	Show Party	โชว์ปาร์ตี้
-2137	Best Squad	สุดยอดทีม
-2138	Loading...	กำลังโหลด...
-2139	Next Level	ระดับต่อไป
+2121	Totem Shop	Totem Shop
+2122	Guild Shop	Guild Shop
+2123	Base Stats	Base Stats
+2124	Dreamscape	Dreamscape
+2125	Note Drops	Note Drops
+2126	Donor Shop	Donor Shop
+2127	Add Friend	Add Friend
+2128	Buff Build	Buff Build
+2129	Guild Hall	Guild Hall
+2130	Build ${1}	Build ${1}
+2131	Protection	Protection
+2132	Rune Sword	Rune Sword
+2133	Rune Spear	Rune Spear
+2134	Rune Eagle	Rune Eagle
+2135	Papal Wolf	Papal Wolf
+2136	Show Party	Show Party
+2137	Best Squad	Best Squad
+2138	Loading...	Loading...
+2139	Next Level	Next Level
 2140	Armor Slot	Armor Slot
-2141	Cloak Slot	ช่อง Cloak
-2142	Life Skill	ทักษะ Life
-2143	Class Role	ภาพรวมบทบาทคลาส
-2144	Collection	คอลเลคชั่น
-2145	Footprints	รอยเท้า
-2146	Guild Mail	จดหมาย Guild
-2147	Point Mall	พอยท์มอลล์
-2148	Tower Shop	ร้านทาวเวอร์
-2149	Background	พื้นหลัง
-2150	Duo Action	ดูโอแอคชั่น
-2151	Adv. Guild	โฆษณา Guild
-2152	Delete All	ลบทั้งหมด
-2153	Archbishop	อาร์คบิชอป
-2154	Blacksmith	ช่างตีเหล็ก
-2155	Unit Price	ราคาต่อหน่วย
-2156	Help Title	หัวข้อช่วยเหลือ
-2157	Reputation	การแจ้งเตือนคะแนนชื่อเสียง
-2158	Consumable	วัสดุสิ้นเปลือง
-2159	Bookmarked	บุ๊คมาร์คไว้
-2160	All Grades	ทุกเกรด
-2161	All Skills	ทักษะทั้งหมด
-2162	Class Item	รายละเอียดรายการคลาส
-2163	Cancel Add	ยกเลิก เพิ่ม
-2164	Group Chat	แชทกลุ่ม
-2165	Group Name	ชื่อกลุ่ม
-2166	Group Host	โฮสต์กลุ่ม
-2167	My Friends	เพื่อนของฉัน
-2168	Ignore all	ละเว้นทั้งหมด
-2169	Edit Group	แก้ไขกลุ่ม
-2170	Mount Info	ข้อมูลเมานท์
-2171	Same Class	คลาสเดียวกัน
-2172	Claim Gift	ขอรับของขวัญ
-2173	Gift: ${1}	ของขวัญ:${1}
-2174	Call Mio!!	โทรหา มิโอะ!!
-2175	Clear List	ล้างรายการ
-2176	Recruiting	รับสมัครด่วน !
-2177	Level: N/A	ระดับ: N/A
-2178	Unoccupied	ว่าง
-2179	Stronghold	ฐานที่มั่น
+2141	Cloak Slot	Cloak Slot
+2142	Life Skill	Life Skill
+2143	Class Role	Class Role
+2144	Collection	Collection
+2145	Footprints	Footprints
+2146	Guild Mail	Guild Mail
+2147	Point Mall	Point Mall
+2148	Tower Shop	Tower Shop
+2149	Background	Background
+2150	Duo Action	Duo Action
+2151	Adv. Guild	Adv. Guild
+2152	Delete All	Delete All
+2153	Archbishop	Archbishop
+2154	Blacksmith	Blacksmith
+2155	Unit Price	Unit Price
+2156	Help Title	Help Title
+2157	Reputation	Reputation
+2158	Consumable	Consumable
+2159	Bookmarked	Bookmarked
+2160	All Grades	All Grades
+2161	All Skills	All Skills
+2162	Class Item	Class Item
+2163	Cancel Add	Cancel Add
+2164	Group Chat	Group Chat
+2165	Group Name	Group Name
+2166	Group Host	Group Host
+2167	My Friends	My Friends
+2168	Ignore all	Ignore all
+2169	Edit Group	Edit Group
+2170	Mount Info	Mount Info
+2171	Same Class	Same Class
+2172	Claim Gift	Claim Gift
+2173	Gift: ${1}	Gift: ${1}
+2174	Call Mio!!	Call Mio!!
+2175	Clear List	Clear List
+2176	Recruiting	Recruiting
+2177	Level: N/A	Level: N/A
+2178	Unoccupied	Unoccupied
+2179	Stronghold	Stronghold
 2180	Siege Camp	Siege Camp
-2181	List Order	รายการลำดับ
-2182	Edit Order	แก้ไขคำสั่งซื้อ
-2183	Aggressive	ก้าวร้าว
-2184	Guild Name	ชื่อ Guild
-2185	Responses:	:
-2186	Guild News	คะแนน Guild
-2187	Kicked out	โดนไล่ออก
-2188	Group Mail	จดหมายกลุ่ม
-2189	Event Name	เหตุการณ์
-2190	Reject All	ปฏิเสธทั้งหมด
-2191	Save edits	บันทึกการแก้ไข
-2192	Countdown:	นับถอยหลัง:
-2193	Select All	เลือกทั้งหมด
-2194	Sell: ${1}	ขาย:${1}
-2195	Final blow	ระเบิดครั้งสุดท้าย
-2196	Final Blow	ระเบิดครั้งสุดท้าย
-2197	No Records	ไม่มีบันทึก
+2181	List Order	List Order
+2182	Edit Order	Edit Order
+2183	Aggressive	Aggressive
+2184	Guild Name	Guild Name
+2185	Responses:	Responses:
+2186	Guild News	Guild News
+2187	Kicked out	Kicked out
+2188	Group Mail	Group Mail
+2189	Event Name	Event Name
+2190	Reject All	Reject All
+2191	Save edits	Save edits
+2192	Countdown:	Countdown:
+2193	Select All	Select All
+2194	Sell: ${1}	Sell: ${1}
+2195	Final blow	Final blow
+2196	Final Blow	Final Blow
+2197	No Records	No Records
 2198	Card: Isis	Card: Isis
 2199	Card: Hode	Card: Hode
 2200	Card: Myst	Card: Myst
@@ -211,7 +211,7 @@
 2210	Greatsword	Greatsword
 2211	FLEE +@{1}	FLEE +@{1}
 2212	DEX +${1}.	DEX +${1}โบนัส
-2213	LUK +${1}.	ลุค +${1}.
+2213	LUK +${1}.	LUK +${1}.
 2214	Holy Light	Holy Light
 2215	Magnificat	Magnificat
 2216	Lex Divina	Lex Divina
@@ -225,20 +225,20 @@
 2224	Auto Guard	Auto Guard
 2225	Holy Cross	Holy Cross
 2226	Providence	Providence
-2227	Move right	เลื่อนไปทางขวา
-2228	Voice Pack	แพ็คเสียง
-2229	Reset Keys	รีเซ็ตคีย์
-2230	Enemy Team	ทีมศัตรู
-2231	Dark Green	สีเขียวเข้ม
-2232	Style ${1}	สไตล์${1}
-2233	Frame Rate	อัตราเฟรม
-2234	Item bar 1	แถบรายการ 1
-2235	Item bar 2	แถบรายการ 2
-2236	Item bar 3	แถบรายการ 3
-2237	Item bar 4	แถบรายการ 4
-2238	Item Bar 5	แถบรายการ 5
-2239	Item Bar 6	แถบรายการ 6
-2240	Mouse Move	การเคลื่อนไหวของ Mouse
+2227	Move right	Move right
+2228	Voice Pack	Voice Pack
+2229	Reset Keys	Reset Keys
+2230	Enemy Team	Enemy Team
+2231	Dark Green	Dark Green
+2232	Style ${1}	Style ${1}
+2233	Frame Rate	Frame Rate
+2234	Item bar 1	Item bar 1
+2235	Item bar 2	Item bar 2
+2236	Item bar 3	Item bar 3
+2237	Item bar 4	Item bar 4
+2238	Item Bar 5	Item Bar 5
+2239	Item Bar 6	Item Bar 6
+2240	Mouse Move	Mouse Move
 2241	Acid Spray	Acid Spray
 2242	Meteorfall	Meteorfall
 2243	CRIT Boost	CRIT Boost
@@ -255,19 +255,19 @@
 2254	Salamander	Salamander
 2255	Dark Pulse	Dark Pulse
 2256	Storm Gust	Storm Gust
-2257	Match Data	จับคู่ข้อมูล
-2258	Killstreak	คิลสตรีค
-2259	Near Death	ใกล้ตาย
+2257	Match Data	Match Data
+2258	Killstreak	Killstreak
+2259	Near Death	Near Death
 2260	Storm Fang	Storm Fang
 2261	Root Burst	Root Burst
 2262	Gale Slash	Gale Slash
 2263	Flame Fist	Flame Fist
 2264	Concussion	Concussion
-2265	Repair Now	ซ่อมเลย
-2266	Agreements	ข้อตกลง
-2267	New Server	เซิร์ฟเวอร์ใหม่
-2268	Last Login	เข้าสู่ระบบครั้งล่าสุด
-2269	Start Game	เริ่มเกม
+2265	Repair Now	Repair Now
+2266	Agreements	Agreements
+2267	New Server	New Server
+2268	Last Login	Last Login
+2269	Start Game	Start Game
 2270	Dance Move	Dance Move
 2271	Boss Right	Boss Right
 2272	Fatal Blow	Fatal Blow
@@ -283,29 +283,29 @@
 2282	Ganbantein	Ganbantein
 2283	Ember Zone	Ember Zone
 2284	Hodgepodge	ฮอดจ์พอดจ์
-2285	To-Do List	รายการสิ่งที่ต้องทำ
-2286	Spawn Boss	วางไข่บอส
-2287	Activation	การเปิดใช้งาน
-2288	Use Preset	ใช้ค่าที่ตั้งล่วงหน้า
-2289	Enjoy Life	สนุกกับ Life
-2290	Base Level	ระดับฐาน
-2291	Use (${1})	(${1})
-2292	Time Left:	เวลาที่เหลือ:
-2293	Valid For:	ใช้ได้สำหรับ:
-2294	Crafted by	สร้างสรรค์โดย
-2295	Add Marker	เพิ่มเครื่องหมาย
-2296	View Event	ดูเหตุการณ์
-2297	Hide Event	ซ่อนเหตุการณ์
+2285	To-Do List	To-Do List
+2286	Spawn Boss	Spawn Boss
+2287	Activation	Activation
+2288	Use Preset	Use Preset
+2289	Enjoy Life	Enjoy Life
+2290	Base Level	Base Level
+2291	Use (${1})	Use (${1})
+2292	Time Left:	Time Left:
+2293	Valid For:	Valid For:
+2294	Crafted by	Crafted by
+2295	Add Marker	Add Marker
+2296	View Event	View Event
+2297	Hide Event	Hide Event
 2298	Teleporter	Teleporter
 2299	Payon Cave	Payon Cave
-2300	Second Job	งานที่สอง
-2301	Fourth Job	งานที่สี่
-2302	Cost: ${1}	ราคา:${1}
-2303	Activating	กำลังเปิดใช้งาน
-2304	Boss skill	สกิลบอส
-2305	Mentorship	การให้คำปรึกษา
-2306	Clear Chat	ล้างแชท
-2307	Unmute All	เปิดเสียงทั้งหมด
+2300	Second Job	Second Job
+2301	Fourth Job	Fourth Job
+2302	Cost: ${1}	Cost: ${1}
+2303	Activating	Activating
+2304	Boss skill	Boss skill
+2305	Mentorship	Mentorship
+2306	Clear Chat	Clear Chat
+2307	Unmute All	Unmute All
 2308	Quest Area	Quest Area
 2309	Party Host	Party Host
 2310	Poring@{1}	Poring@{1}
@@ -341,89 +341,89 @@
 2340	Maya-Final	Maya-Final
 2341	Drake-Easy	Drake-Easy
 2342	Drake-Hard	Drake-Hard
-2343	Floor ${1}	ชั้น${1}
-2344	Basic Info	ข้อมูลพื้นฐาน
-2345	Substitute	สารทดแทน
-2346	On Standby	อยู่ในโหมดสแตนด์บาย
-2347	Next Floor	ชั้นถัดไป
-2348	Black Iron	เหล็กดำ
-2349	Acquainted	คุ้นเคย
-2350	Bonus Time	โบนัสไทม์
-2351	${1}m${2}s	${1}ม${2}ส
-2352	EXP Gained	EXP ได้รับแล้ว
-2353	Item Drops	ไอเทมดรอป
-2354	HP Enhance	เพิ่มประสิทธิภาพ HP
-2355	Kafra Warp	Kafra วาร์ป
-2356	Open Stall	แผงลอยแบบ Open
-2357	Go Support	ไปสนับสนุน
-2358	Form Party	ฟอร์มปาร์ตี้
-2359	Guild Home	บ้าน Guild
-2360	Enter text	ป้อนข้อความ
-2361	Merge into	รวมเข้า
-2362	Cancel All	ยกเลิกทั้งหมด
-2363	All Events	กิจกรรมทั้งหมด
-2364	Change Job	เปลี่ยนงาน
-2365	Bob's Yard	สนามของ Bob
-2366	Card Guide	ใส่การ์ด
-2367	New Skills	ทักษะใหม่
-2368	Supporting	สนับสนุน
-2369	Leveled up	เลเวลอัพแล้ว
-2370	Pet Search	ค้นหาสัตว์เลี้ยง
-2371	Hatch Once	ฟักครั้งเดียว
-2372	Prize Pool	เงินรางวัลรวม
-2373	Accelerate	เร่งความเร็ว
-2374	(Inactive)	(ไม่ได้ใช้งาน)
-2375	Never Play	ไม่เคยเล่น
-2376	Slot: ${1}	สล็อต:${1}
-2377	Grand Peco	แกรนด์เปโก้
-2378	Good luck!	โชคดีนะ!
-2379	Peak Power	ขุมพลังสูงสุด
-2380	Which one?	อันไหน?
-2381	No, thanks	ไม่ ขอบคุณ
-2382	Take that!	รับไปซะ!
-2383	Good idea.	ไอเดียดี.
-2384	Outer Area	พื้นที่รอบนอก
-2385	Inner Area	พื้นที่ด้านใน
-2386	Final Wave	คลื่นสุดท้าย
-2387	Remove All	Remove ทั้งหมด
-2388	Blood Pact	สนธิสัญญาเลือด
-2389	Total Cost	ต้นทุนรวม
-2390	Skip Stage	ข้ามสเตจ
-2391	Stage Name	ชื่อสเตจ
-2392	Clear ${1}	ล้าง${1}
-2393	Game Start	เริ่มเกม
-2394	Round ${1}	รอบ${1}
-2395	Cooking...	เตาทำอาหาร...
-2396	Follow me~	ตามมา~
-2397	Kiss Right	จูบถูก
-2398	Speechless	พูดไม่ออก
+2343	Floor ${1}	Floor ${1}
+2344	Basic Info	Basic Info
+2345	Substitute	Substitute
+2346	On Standby	On Standby
+2347	Next Floor	Next Floor
+2348	Black Iron	Black Iron
+2349	Acquainted	Acquainted
+2350	Bonus Time	Bonus Time
+2351	${1}m${2}s	${1}m${2}s
+2352	EXP Gained	EXP Gained
+2353	Item Drops	Item Drops
+2354	HP Enhance	HP Enhance
+2355	Kafra Warp	Kafra Warp
+2356	Open Stall	Open Stall
+2357	Go Support	Go Support
+2358	Form Party	Form Party
+2359	Guild Home	Guild Home
+2360	Enter text	Enter text
+2361	Merge into	Merge into
+2362	Cancel All	Cancel All
+2363	All Events	All Events
+2364	Change Job	Change Job
+2365	Bob's Yard	Bob's Yard
+2366	Card Guide	Card Guide
+2367	New Skills	New Skills
+2368	Supporting	Supporting
+2369	Leveled up	Leveled up
+2370	Pet Search	Pet Search
+2371	Hatch Once	Hatch Once
+2372	Prize Pool	Prize Pool
+2373	Accelerate	Accelerate
+2374	(Inactive)	(Inactive)
+2375	Never Play	Never Play
+2376	Slot: ${1}	Slot: ${1}
+2377	Grand Peco	Grand Peco
+2378	Good luck!	Good luck!
+2379	Peak Power	Peak Power
+2380	Which one?	Which one?
+2381	No, thanks	No, thanks
+2382	Take that!	Take that!
+2383	Good idea.	Good idea.
+2384	Outer Area	Outer Area
+2385	Inner Area	Inner Area
+2386	Final Wave	Final Wave
+2387	Remove All	Remove All
+2388	Blood Pact	Blood Pact
+2389	Total Cost	Total Cost
+2390	Skip Stage	Skip Stage
+2391	Stage Name	Stage Name
+2392	Clear ${1}	Clear ${1}
+2393	Game Start	Game Start
+2394	Round ${1}	Round ${1}
+2395	Cooking...	Cooking...
+2396	Follow me~	Follow me~
+2397	Kiss Right	Kiss Right
+2398	Speechless	Speechless
 2399	Novice@{1}	Novice@{1}
-2400	Next Stage	สเตจต่อไป
-2401	Evil Orbit	วงโคจรชั่วร้าย
-2402	Bid Placed	เสนอราคาแล้ว
-2403	Preset Bid	การเสนอราคาที่ตั้งไว้ล่วงหน้า
-2404	Bid Status	สถานะการประมูล
-2405	Page: ${1}	หน้า:${1}
-2406	Change bid	เปลี่ยนราคาเสนอ
-2407	Rookie III	มือใหม่ III
-2408	Warrior IV	นักรบ IV
-2409	Warrior II	นักรบ II
-2410	Main Field	สนามหลัก
-2411	My Points:	คะแนนของฉัน:
-2412	Group ${1}	กลุ่ม${1}
-2413	More Honor	เกียรติยศเพิ่มเติม
-2414	Protecting	การปกป้อง
-2415	Semifinals	รอบรองชนะเลิศ
-2416	Group Rank	อันดับกลุ่ม
-2417	Demi-Human	กึ่งมนุษย์
-2418	Wing Items	วิงไอเท็ม
-2419	Accelerant	เร่งความเร็ว
-2420	Mage Class	คลาส Mage
-2421	Home Theme	ธีมบ้าน
-2422	Item Share	ส่วนแบ่งรายการ
-2423	Identified	ระบุแล้ว
-2424	Night Owls	นกฮูกกลางคืน
-2425	Give Water	ให้น้ำ
+2400	Next Stage	Next Stage
+2401	Evil Orbit	Evil Orbit
+2402	Bid Placed	Bid Placed
+2403	Preset Bid	Preset Bid
+2404	Bid Status	Bid Status
+2405	Page: ${1}	Page: ${1}
+2406	Change bid	Change bid
+2407	Rookie III	Rookie III
+2408	Warrior IV	Warrior IV
+2409	Warrior II	Warrior II
+2410	Main Field	Main Field
+2411	My Points:	My Points:
+2412	Group ${1}	Group ${1}
+2413	More Honor	More Honor
+2414	Protecting	Protecting
+2415	Semifinals	Semifinals
+2416	Group Rank	Group Rank
+2417	Demi-Human	Demi-Human
+2418	Wing Items	Wing Items
+2419	Accelerant	Accelerant
+2420	Mage Class	Mage Class
+2421	Home Theme	Home Theme
+2422	Item Share	Item Share
+2423	Identified	Identified
+2424	Night Owls	Night Owls
+2425	Give Water	Give Water
 2426	Jack Frost	Jack Frost
 2427	Anklesnare	Anklesnare
 2428	AoE Endure	AoE Endure
@@ -431,37 +431,37 @@
 2430	Group Warp	Group Warp
 2431	Dark Curse	Dark Curse
 2432	Flame Wave	Flame Wave
-2433	Last Death	ความตายครั้งสุดท้าย
-2434	Reset Data	รีเซ็ตข้อมูล
-2435	Percentage	เปอร์เซ็นต์
-2436	Total Data	ข้อมูลทั้งหมด
+2433	Last Death	Last Death
+2434	Reset Data	Reset Data
+2435	Percentage	Percentage
+2436	Total Data	Total Data
 2437	Strawberry	Strawberry
 2438	Sacred Sap	Sacred Sap
 2439	Linen Roll	Linen Roll
-2440	Water Star	วอเตอร์สตาร์
-2441	Into Peril	เข้าสู่อันตราย
-2442	Settlement	การชำระเงิน
-2443	Spectating	กำลังรับชม
+2440	Water Star	Water Star
+2441	Into Peril	Into Peril
+2442	Settlement	Settlement
+2443	Spectating	Spectating
 2444	Immobilize	Immobilize
 2445	Apprentice	Apprentice
-2446	Journeyman	นักเดินทาง
+2446	Journeyman	Journeyman
 2447	BTN_IGNORE	BTN_IGNORE
 2448	BTN_CANCEL	BTN_CANCEL
-2449	Growth@{1}	การเติบโต@{1}
-2450	Basic @{1}	พื้นฐาน@{1}
-2451	Server@{1}	@{1}
-2452	Go Perform	ไปดำเนินการ
-2453	Play Music	เล่นเพลง
+2449	Growth@{1}	Growth@{1}
+2450	Basic @{1}	Basic @{1}
+2451	Server@{1}	Server@{1}
+2452	Go Perform	Go Perform
+2453	Play Music	Play Music
 2454	Runic Fang	Runic Fang
-2455	Reveal All	เผยทั้งหมด
-2456	Class Tier	ระดับชั้น
-2457	Totem List	รายการโทเท็ม
+2455	Reveal All	Reveal All
+2456	Class Tier	Class Tier
+2457	Totem List	Totem List
 2458	Holy Guard	Holy Guard
 2459	Magic Mark	Magic Mark
 2460	Card Album	Card Album
 2461	Red Potion	Red Potion
 2462	Grape Wine	Grape Wine
-2463	${1} times	${1}ครั้ง
+2463	${1} times	${1} times
 2464	Azure Fish	Azure Fish
 2465	Beast Meat	Beast Meat
 2466	Cocoa Bean	Cocoa Bean
@@ -503,108 +503,108 @@
 2502	Card: Muka	Card: Muka
 2503	Card: Yoyo	Card: Yoyo
 2504	Card: Pupa	Card: Pupa
-2505	Rank Rules	อันดับ
-2506	Stat Build	สร้างสถิติ
-2507	Pet Preset	พรีเซ็ตสัตว์เลี้ยง
-2508	Leave Town	Leave จากเมือง
+2505	Rank Rules	Rank Rules
+2506	Stat Build	Stat Build
+2507	Pet Preset	Pet Preset
+2508	Leave Town	Leave Town
 2509	//Previous	//Previous
-2510	Off-Season	นอกฤดูกาล
-2511	Ghost Ship	เรือผี
-2512	Bell Smash	กระดิ่งทุบ
-2513	Homing Ray	โฮมมิงเรย์
-2514	Fin Prison	เรือนจำฟิน
-2515	Kill Score	คะแนน Kill
-2516	Top Killer	สุดยอดนักฆ่า
-2517	Most Kills	สังหารได้มากที่สุด
-2518	Blade Soul	เบลดโซล
-2519	High Burst	ระเบิดสูง
-2520	CHAPTER IV	บทที่ 4
-2521	CHAPTER II	บทที่ II
-2522	Cart Smash	รถเข็นทุบ
-2523	Blade Mark	เครื่องหมาย Blade
-2524	Over Brand	เหนือแบรนด์
-2525	Skill Mode	โหมดทักษะ
-2526	Cast Skill	ทักษะการร่ายเวทย์
-2527	Slow Down!	Slow ลงหน่อย!
-2528	Iron Slash	ฟันเหล็ก
-2529	Recover HP	ฟื้นฟู HP
-2530	Classic PC	พีซีคลาสสิค
-2531	Delete Tab	ลบแท็บ
-2532	Party/Raid	ปาร์ตี้/บุก
-2533	Event Menu	ชื่อเหตุการณ์
-2534	Kill Alert	แจ้งเตือนการ Kill
-2535	Merge Tabs	ผสานแท็บ
-2536	Ionization	ไอออไนซ์
-2537	Spell Lock	ล็อคคาถา
+2510	Off-Season	Off-Season
+2511	Ghost Ship	Ghost Ship
+2512	Bell Smash	Bell Smash
+2513	Homing Ray	Homing Ray
+2514	Fin Prison	Fin Prison
+2515	Kill Score	Kill Score
+2516	Top Killer	Top Killer
+2517	Most Kills	Most Kills
+2518	Blade Soul	Blade Soul
+2519	High Burst	High Burst
+2520	CHAPTER IV	CHAPTER IV
+2521	CHAPTER II	CHAPTER II
+2522	Cart Smash	Cart Smash
+2523	Blade Mark	Blade Mark
+2524	Over Brand	Over Brand
+2525	Skill Mode	Skill Mode
+2526	Cast Skill	Cast Skill
+2527	Slow Down!	Slow Down!
+2528	Iron Slash	Iron Slash
+2529	Recover HP	Recover HP
+2530	Classic PC	Classic PC
+2531	Delete Tab	Delete Tab
+2532	Party/Raid	Party/Raid
+2533	Event Menu	Event Menu
+2534	Kill Alert	Kill Alert
+2535	Merge Tabs	Merge Tabs
+2536	Ionization	Ionization
+2537	Spell Lock	Spell Lock
 2538	Tidal Hymn	Tidal Hymn
-2539	Drake Buff	Drake บัฟ
-2540	Focus Zoom	โฟกัสซูม
-2541	On Removal	ในการถอดออก
-2542	AOE Marker	เครื่องหมาย AOE
-2543	Laser Link	ลิงค์ Laser
-2544	AOE Effect	เอฟเฟกต์ AOE
-2545	Green Note	โน้ตสีเขียว
-2546	Voice Part	ส่วนเสียง
-2547	Leave Room	Leave จากห้อง
-2548	Gift sent!	ส่งของขวัญแล้ว!
-2549	Pet Basics	พื้นฐานสัตว์เลี้ยง
-2550	Invalid ID	ID ไม่ถูกต้อง
-2551	Gift error	ข้อผิดพลาดเกี่ยวกับของขวัญ
-2552	Wrong Job.	งานผิด
-2553	Accept All	ยอมรับทั้งหมด
-2554	All Echoes	เสียงสะท้อนทั้งหมด
-2555	Data Error	ข้อมูลผิดพลาด
-2556	Holy Spear	Spear ศักดิ์สิทธิ์
-2557	Battle Cry	แบทเทิลคราย
-2558	Basic Life	Life ขั้นพื้นฐาน
-2559	Basic FLEE	FLEE พื้นฐาน
-2560	Mind Boost	มายด์บูสต์
-2561	Total Wins	ชนะทั้งหมด
-2562	This Month	เดือนนี้
-2563	Successful	สำเร็จ
+2539	Drake Buff	Drake Buff
+2540	Focus Zoom	Focus Zoom
+2541	On Removal	On Removal
+2542	AOE Marker	AOE Marker
+2543	Laser Link	Laser Link
+2544	AOE Effect	AOE Effect
+2545	Green Note	Green Note
+2546	Voice Part	Voice Part
+2547	Leave Room	Leave Room
+2548	Gift sent!	Gift sent!
+2549	Pet Basics	Pet Basics
+2550	Invalid ID	Invalid ID
+2551	Gift error	Gift error
+2552	Wrong Job.	Wrong Job.
+2553	Accept All	Accept All
+2554	All Echoes	All Echoes
+2555	Data Error	Data Error
+2556	Holy Spear	Holy Spear
+2557	Battle Cry	Battle Cry
+2558	Basic Life	Basic Life
+2559	Basic FLEE	Basic FLEE
+2560	Mind Boost	Mind Boost
+2561	Total Wins	Total Wins
+2562	This Month	This Month
+2563	Successful	Successful
 2564	Gains ATK.	ได้รับพลังโจมตี
-2565	MVP Hunter	นักล่า MVP
-2566	Pet Expert	ผู้เชี่ยวชาญด้านสัตว์เลี้ยง
-2567	Try a Card	ลองใช้การ์ด
-2568	First Card	ไพ่ใบแรก
-2569	A Keen Eye	ดวงตาที่แหลมคม
+2565	MVP Hunter	MVP Hunter
+2566	Pet Expert	Pet Expert
+2567	Try a Card	Try a Card
+2568	First Card	First Card
+2569	A Keen Eye	A Keen Eye
 2570	Amatsu Boy	Amatsu Boy
 2571	Kunlun Boy	Kunlun Boy
 2572	Dewata Man	Dewata Man
 2573	Malaya Man	Malaya Man
 2574	Shop Clerk	Shop Clerk
 2575	Strong Man	Strong Man
-2576	Skill Book	หนังสือทักษะ
-2577	Party Mode	โหมดปาร์ตี้
-2578	Solo Queue	คิวเดี่ยว
-2579	Skill Type	ปลดล็อคทักษะ
-2580	{1}'s Shop	ร้าน{1}
-2581	Going Well	ไปได้ดี
-2582	My Records	บันทึกของฉัน
-2583	No problem	ไม่มีปัญหา
-2584	Enter Text	ป้อนข้อความ
-2585	Of course!	แน่นอน!
-2586	Heart Rend	เรนด์หัวใจ
-2587	Mount Buff	เมาท์ บัฟ
-2588	Idle Speed	ความเร็วรอบเดินเบา
-2589	Ride Mount	แท่นยึดติด
+2576	Skill Book	Skill Book
+2577	Party Mode	Party Mode
+2578	Solo Queue	Solo Queue
+2579	Skill Type	Skill Type
+2580	{1}'s Shop	{1}'s Shop
+2581	Going Well	Going Well
+2582	My Records	My Records
+2583	No problem	No problem
+2584	Enter Text	Enter Text
+2585	Of course!	Of course!
+2586	Heart Rend	Heart Rend
+2587	Mount Buff	Mount Buff
+2588	Idle Speed	Idle Speed
+2589	Ride Mount	Ride Mount
 2590	Deprecated	เลิกใช้แล้ว
 2591	Great Leap	Great Leap
 2592	Fairy Ward	Fairy Ward
 2593	Vile Drain	Vile Drain
 2594	Angel Halo	Angel Halo
-2595	Magic Ward	เมจิกวอร์ด
-2596	Bet Placed	วางเดิมพันแล้ว
-2597	Daily Login	เข้าสู่ระบบรายวัน
+2595	Magic Ward	Magic Ward
+2596	Bet Placed	Bet Placed
+2597	Daily Login	Daily Login
 2598	Placeholder	Placeholder
-2599	Right Heart	หัวใจขวา
-2600	${1} X ${2}	${1}X${2}
-2601	Rating ${1}	เรตติ้ง${1}
-2602	${1}h ${2}m	${1}ชม${2}ม
-2603	${1}m ${2}s	${1}ม${2}ส
-2604	Dark Domain	โดเมนสีเข้ม
-2605	Final Trial	การทดลองครั้งสุดท้าย
-2606	Ranks 11-20	อันดับ 11-20
+2599	Right Heart	Right Heart
+2600	${1} X ${2}	${1} X ${2}
+2601	Rating ${1}	Rating ${1}
+2602	${1}h ${2}m	${1}h ${2}m
+2603	${1}m ${2}s	${1}m ${2}s
+2604	Dark Domain	Dark Domain
+2605	Final Trial	Final Trial
+2606	Ranks 11-20	Ranks 11-20
 2607	Theater Hat	Theater Hat
 2608	Jewel Crown	Jewel Crown
 2609	Night Thorn	Night Thorn
@@ -623,7 +623,7 @@
 2622	Retribution	Retribution
 2623	Death Witch	Death Witch
 2624	Miyabi Doll	Miyabi Doll
-2625	Unavailable	ไม่พร้อมใช้งาน
+2625	Unavailable	Unavailable
 2626	Super Picky	Super Picky
 2627	Savage Babe	Savage Babe
 2628	Rotar Zairo	Rotar Zairo
@@ -634,134 +634,134 @@
 2633	Desert Wolf	Desert Wolf
 2634	King Dramoh	King Dramoh
 2635	Creamy Fear	Creamy Fear
-2636	Free Spirit	วิญญาณอิสระ
-2637	End the Day	สิ้นสุดวัน
-2638	SP Recovery	SP
-2639	Variable CT	CT ตัวแปร
-2640	Fear Attack	การโจมตีด้วยความกลัว
-2641	HP recover%	HP ฟื้นตัว%
-2642	Investigate	ตรวจสอบ
+2636	Free Spirit	Free Spirit
+2637	End the Day	End the Day
+2638	SP Recovery	SP Recovery
+2639	Variable CT	Variable CT
+2640	Fear Attack	Fear Attack
+2641	HP recover%	HP recover%
+2642	Investigate	Investigate
 2643	Rescue Bobo	Rescue Bobo
-2644	Season Rank	อันดับฤดูกาล
-2645	In progress	อยู่ระหว่างดำเนินการ
-2646	My Ranking:	อันดับของฉัน:
+2644	Season Rank	Season Rank
+2645	In progress	In progress
+2646	My Ranking:	My Ranking:
 2647	MVP-Pharaoh	MVP-Pharaoh
 2648	Tower Trial	ทาวเวอร์ทดลอง
 2649	To Prontera	ถึงพรอนเทรา
-2650	Star Points	คะแนนดาว
+2650	Star Points	Star Points
 2651	Energy Riot	Energy Riot
-2652	Group Name:	ชื่อกลุ่ม:
-2653	Grand Prize	รางวัลใหญ่
-2654	System Hint	เมลระบบ
-2655	Delist Item	เพิกถอนรายการ
-2656	Dig Rewards	Dig รางวัล
-2657	Merge Guild	รวม Guild
-2658	Leave Queue	Leave จากคิว
-2659	Chapter One	บทที่หนึ่ง
-2660	Novice Shop	ร้านมือใหม่
+2652	Group Name:	Group Name:
+2653	Grand Prize	Grand Prize
+2654	System Hint	System Hint
+2655	Delist Item	Delist Item
+2656	Dig Rewards	Dig Rewards
+2657	Merge Guild	Merge Guild
+2658	Leave Queue	Leave Queue
+2659	Chapter One	Chapter One
+2660	Novice Shop	Novice Shop
 2661	Season Shop	Season Shop
-2662	Recommended	ที่แนะนำ
-2663	Supply Shop	ร้านซัพพลาย
+2662	Recommended	Recommended
+2663	Supply Shop	Supply Shop
 2664	openID：${1}	openID：${1}
 2665	Mock Battle	Mock Battle
-2666	Guild Store	ร้านค้า Guild
-2667	Red Quality	สีแดง คุณภาพ
-2668	Dreamweaver	ดรีมวีฟเวอร์
-2669	Gold Emblem	ตราสัญลักษณ์ทอง
-2670	Auto-Battle	การต่อสู้อัตโนมัติ
-2671	Use Potions	ใช้ยา
-2672	Patrol Mode	โหมดตระเวน
+2666	Guild Store	Guild Store
+2667	Red Quality	Red Quality
+2668	Dreamweaver	Dreamweaver
+2669	Gold Emblem	Gold Emblem
+2670	Auto-Battle	Auto-Battle
+2671	Use Potions	Use Potions
+2672	Patrol Mode	Patrol Mode
 2673	Look Around	มองไปรอบๆ
 2674	Defeat Maya	เอาชนะ Maya
 2675	Rift Stone*	Rift Stone*
 2676	Scout ahead	ลูกเสือข้างหน้า
-2677	Quasi-Stats	สถิติเสมือน
+2677	Quasi-Stats	Quasi-Stats
 2678	Auto-Assign	Auto-Assign
-2679	Power Bonus	ข้อความช่วยเหลือการจัดอันดับพลังงาน
-2680	Holy Knight	อัศวินศักดิ์สิทธิ์
+2679	Power Bonus	Power Bonus
+2680	Holy Knight	Holy Knight
 2681	Wind Walker	Wind Walker
 2682	Warg Hunter	Warg Hunter
-2683	Soul Buster	โซล Buster
-2684	Season Data	กิจกรรมฤดูกาล
-2685	${1} Revive	${1}ฟื้นคืนชีพ
+2683	Soul Buster	Soul Buster
+2684	Season Data	Season Data
+2685	${1} Revive	${1} Revive
 2686	Producer YU	Producer YU
-2687	Select Item	เลือกรายการ
-2688	Player Card	ลิงค์ผู้เล่น
-2689	Job Advance	งานล่วงหน้า
-2690	Launch Fest	เปิดตัวเทศกาล
-2691	Life Skills	ทักษะ Life
-2692	Competition	การแข่งขัน
+2687	Select Item	Select Item
+2688	Player Card	Player Card
+2689	Job Advance	Job Advance
+2690	Launch Fest	Launch Fest
+2691	Life Skills	Life Skills
+2692	Competition	Competition
 2693	Auto-Potion	Auto-Potion
-2694	Share Stall	แบ่งปันแผงลอย
-2695	Guild Rally	แรลลี่ Guild
-2696	Guild Bonus	โบนัส Guild
-2697	Tree Hollow	ทรีฮอลโลว์
-2698	Reset Stats	รีเซ็ตสถิติ
-2699	Class Title	คลาส
-2700	Friend Chat	แชทกับเพื่อน
-2701	System Mail	ระบบ
-2702	Profile Tab	แท็บโปรไฟล์
-2703	Emblem Wall	สัญลักษณ์
-2704	System Shop	ร้านระบบ
-2705	Rift Crisis	วิกฤตรอยแยก
-2706	[Mail ${1}]	[เมล${1}]
-2707	Lord Knight	ลอร์ดไนท์
-2708	Rune Knight	รูนไนท์
-2709	Royal Guard	รอยัลการ์ด
-2710	High Wizard	ตัวช่วยสร้างระดับสูง
-2711	High Priest	นักบวชชั้นสูง
-2712	Mastersmith	มาสเตอร์สมิธ
-2713	A Good Book	หนังสือดี
-2714	Total Price	ราคารวม
-2715	Close Stall	ปิดแผงลอย
-2716	Affix Stats	ติดสถิติ
-2717	All Classes	ทุกชั้นเรียน
-2718	Record ${1}	บันทึก${1}
+2694	Share Stall	Share Stall
+2695	Guild Rally	Guild Rally
+2696	Guild Bonus	Guild Bonus
+2697	Tree Hollow	Tree Hollow
+2698	Reset Stats	Reset Stats
+2699	Class Title	Class Title
+2700	Friend Chat	Friend Chat
+2701	System Mail	System Mail
+2702	Profile Tab	Profile Tab
+2703	Emblem Wall	Emblem Wall
+2704	System Shop	System Shop
+2705	Rift Crisis	Rift Crisis
+2706	[Mail ${1}]	[Mail ${1}]
+2707	Lord Knight	Lord Knight
+2708	Rune Knight	Rune Knight
+2709	Royal Guard	Royal Guard
+2710	High Wizard	High Wizard
+2711	High Priest	High Priest
+2712	Mastersmith	Mastersmith
+2713	A Good Book	A Good Book
+2714	Total Price	Total Price
+2715	Close Stall	Close Stall
+2716	Affix Stats	Affix Stats
+2717	All Classes	All Classes
+2718	Record ${1}	Record ${1}
 2719	Elena Bokba	Elena Bokba
-2720	Confirm Add	ยืนยันการเพิ่ม
-2721	Novice Pool	พูลมือใหม่
-2722	Search Shop	ค้นหาร้านค้า
-2723	Owned: ${1}	เป็นเจ้าของ:${1}
-2724	Extra Bonus	โบนัสพิเศษ
-2725	Add to Cart	เพิ่มลงในรถเข็น
-2726	Mini Window	มินิวินโดว์
-2727	All Friends	เพื่อนทุกคน
-2728	Style Level	ระดับสไตล์
-2729	Trait +${1}	+${1}
-2730	Mount Stats	สถิติการเมาท์
-2731	Level Bonus	สถิติระดับ
-2732	Current Cap	ขีดจำกัดปัจจุบัน
+2720	Confirm Add	Confirm Add
+2721	Novice Pool	Novice Pool
+2722	Search Shop	Search Shop
+2723	Owned: ${1}	Owned: ${1}
+2724	Extra Bonus	Extra Bonus
+2725	Add to Cart	Add to Cart
+2726	Mini Window	Mini Window
+2727	All Friends	All Friends
+2728	Style Level	Style Level
+2729	Trait +${1}	Trait +${1}
+2730	Mount Stats	Mount Stats
+2731	Level Bonus	Level Bonus
+2732	Current Cap	Current Cap
 2733	Coming Soon	Coming Soon
-2734	Create Team	สร้างทีม
-2735	Recruitment	รับสมัครพนักงาน
-2736	Auto-Accept	ยอมรับอัตโนมัติ
-2737	On cooldown	เมื่อคูลดาวน์
-2738	Level: ${1}	:${1}
-2739	Not Learned	ไม่ได้เรียนรู้
-2740	Leave Party	Leave จากปาร์ตี้
-2741	Party Voice	เสียงปาร์ตี้
-2742	Participate	เข้าร่วม
-2743	Sale Orders	รายละเอียดการขาย
-2744	Go to Trade	ไปที่การซื้อขาย
-2745	Slots: ${1}	:${1}
-2746	Initial Bid	การประมูลเริ่มต้น
+2734	Create Team	Create Team
+2735	Recruitment	Recruitment
+2736	Auto-Accept	Auto-Accept
+2737	On cooldown	On cooldown
+2738	Level: ${1}	Level: ${1}
+2739	Not Learned	Not Learned
+2740	Leave Party	Leave Party
+2741	Party Voice	Party Voice
+2742	Participate	Participate
+2743	Sale Orders	Sale Orders
+2744	Go to Trade	Go to Trade
+2745	Slots: ${1}	Slots: ${1}
+2746	Initial Bid	Initial Bid
 2747	Highest Bid	Highest Bid
-2748	Defeat ${1}	เอาชนะ${1}
-2749	Request All	ขอทั้งหมด
-2750	Guild Name:	ชื่อ Guild:
-2751	Very Active	แอคทีฟมาก
-2752	Member Info	ข้อมูลสมาชิก
-2753	Leave Guild	Leave จาก Guild
-2754	Opens Daily	Opens ทุกวัน
-2755	Stock: ${1}	สต็อก:${1}
-2756	Stall Count	จำนวนแผงลอย
+2748	Defeat ${1}	Defeat ${1}
+2749	Request All	Request All
+2750	Guild Name:	Guild Name:
+2751	Very Active	Very Active
+2752	Member Info	Member Info
+2753	Leave Guild	Leave Guild
+2754	Opens Daily	Opens Daily
+2755	Stock: ${1}	Stock: ${1}
+2756	Stall Count	Stall Count
 2757	Dragon Hunt	Dragon Hunt
 2758	Chaos Court	Chaos Court
 2759	Orc Village	Orc Village
 2760	Silent Ship	Silent Ship
 2761	Mt. Mjolnir	Mt. Mjolnir
 2762	Dark Priest	Dark Priest
-2763	Main - Buff	หลัก - บัฟ
+2763	Main - Buff	Main - Buff
 2764	Card: Fabre	Card: Fabre
 2765	Card: Drops	Card: Drops
 2766	Card: Mummy	Card: Mummy
@@ -805,20 +805,20 @@
 2804	Marin Split	Marin Split
 2805	Grand Cross	Grand Cross
 2806	Cross Blast	Cross Blast
-2807	Auto Skills	ทักษะอัตโนมัติ
-2808	Skill bar 1	1
-2809	Skill bar 2	แถบทักษะ 2
-2810	Skill bar 3	แถบทักษะที่ 3
-2811	Skill bar 4	แถบทักษะที่ 4
-2812	Skill bar 5	แถบทักษะ 5
-2813	Skill bar 6	แถบทักษะที่ 6
+2807	Auto Skills	Auto Skills
+2808	Skill bar 1	Skill bar 1
+2809	Skill bar 2	Skill bar 2
+2810	Skill bar 3	Skill bar 3
+2811	Skill bar 4	Skill bar 4
+2812	Skill bar 5	Skill bar 5
+2813	Skill bar 6	Skill bar 6
 2814	Skill Bar 7	Skill Bar 7
-2815	Skill Bar 8	8
+2815	Skill Bar 8	Skill Bar 8
 2816	Skill Bar 9	Skill Bar 9
-2817	Modern Mode	โหมดทันสมัย
-2818	Stop Moving	หยุดการเคลื่อนไหว
-2819	Show Cursor	แสดงเคอร์เซอร์
-2820	Move Method	วิธีการย้าย
+2817	Modern Mode	Modern Mode
+2818	Stop Moving	Stop Moving
+2819	Show Cursor	Show Cursor
+2820	Move Method	Move Method
 2821	Indigestion	Indigestion
 2822	Spawn Skill	Spawn Skill
 2823	Soul Reaper	Soul Reaper
@@ -840,14 +840,14 @@
 2839	Greedy Kaho	Greedy Kaho
 2840	Toad Skills	Toad Skills
 2841	Angel Swipe	Angel Swipe
-2842	Total Kills	จำนวนการ Kills ทั้งหมด
-2843	Wins/Losses	ชนะ/แพ้
-2844	Match Stats	สถิติการแข่งขัน
+2842	Total Kills	Total Kills
+2843	Wins/Losses	Wins/Losses
+2844	Match Stats	Match Stats
 2845	Swift Trick	Swift Trick
 2846	Mind Fright	Mind Fright
 2847	Nether Rift	Nether Rift
 2848	Vine Strike	Vine Strike
-2849	Restart Now	รีสตาร์ททันที
+2849	Restart Now	Restart Now
 2850	Asia Server	Asia Server
 2851	Mark Target	Mark Target
 2852	Drake Slash	Drake Slash
@@ -877,25 +877,25 @@
 2876	Thunderbolt	Thunderbolt
 2877	Magic Frost	Magic Frost
 2878	Earth Blast	Earth Blast
-2879	Description	คำอธิบาย
+2879	Description	Description
 2880	Unseal Cost	Unseal Cost
-2881	Obtain Card	รับการ์ด
-2882	Change Icon	เปลี่ยนไอคอน
-2883	Use in Bulk	ใช้เป็นกลุ่ม
-2884	Change Left	เปลี่ยนไปทางซ้าย
-2885	Requirement	ความต้องการ
-2886	Use By:${1}	ใช้โดย:${1}
-2887	Untradeable	ไม่สามารถแลกเปลี่ยนได้
-2888	Next Season	ซีซั่นหน้า
-2889	No markers.	ไม่มีเครื่องหมาย
-2890	Other Skill	ทักษะอื่นๆ
-2891	EXP Sources	EXP
-2892	Chat Bubble	แชท Bubble
-2893	No messages	ไม่มีข้อความ
-2894	Member ${1}	สมาชิก${1}
-2895	Exit Prompt	พรอมต์ทางออก
-2896	Channel One	ช่องวัน
-2897	Channel Two	ช่องสอง
+2881	Obtain Card	Obtain Card
+2882	Change Icon	Change Icon
+2883	Use in Bulk	Use in Bulk
+2884	Change Left	Change Left
+2885	Requirement	Requirement
+2886	Use By:${1}	Use By:${1}
+2887	Untradeable	Untradeable
+2888	Next Season	Next Season
+2889	No markers.	No markers.
+2890	Other Skill	Other Skill
+2891	EXP Sources	EXP Sources
+2892	Chat Bubble	Chat Bubble
+2893	No messages	No messages
+2894	Member ${1}	Member ${1}
+2895	Exit Prompt	Exit Prompt
+2896	Channel One	Channel One
+2897	Channel Two	Channel Two
 2898	Little Girl	Little Girl
 2899	Melody Wisp	Melody Wisp
 2900	Forte Giant	Forte Giant
@@ -921,7 +921,7 @@
 2920	Café Server	Café Server
 2921	Hard Worker	Hard Worker
 2922	Food Vendor	Food Vendor
-2923	Track Quest	ติดตามภารกิจ
+2923	Track Quest	Track Quest
 2924	Deep Forest	Deep Forest
 2925	Sunken Ship	Sunken Ship
 2926	Tristan III	Tristan III
@@ -940,62 +940,62 @@
 2939	Osiris-Hard	Osiris-Hard
 2940	Drake-Final	Drake-Final
 2941	Pharaoh@{1}	Pharaoh@{1}
-2942	Not Cleared	ไม่ถูกล้าง
-2943	Edit Lineup	แก้ไขรายการ
-2944	Massive EXP	EXP มหาศาล
-2945	Chest Rules	กฎหน้าอก
-2946	Decay Rules	กฎการสลายตัว
-2947	Payon Elder	พี่ยอน
-2948	Think again	คิดใหม่อีกครั้ง
-2949	Trade Count	จำนวนการค้า
-2950	Go to Stall	ไปที่แผงลอย
-2951	Wind Damage	ความเสียหายจากลม
-2952	Fire Damage	ความเสียหายจากไฟไหม้
-2953	Holy Damage	ความเสียหายอันศักดิ์สิทธิ์
-2954	Max Ability	ความสามารถสูงสุด
-2955	${1} Level:	ระดับ${1}:
-2956	Tap to view	แตะเพื่อดู
-2957	Join Method	เข้าร่วมวิธี
+2942	Not Cleared	Not Cleared
+2943	Edit Lineup	Edit Lineup
+2944	Massive EXP	Massive EXP
+2945	Chest Rules	Chest Rules
+2946	Decay Rules	Decay Rules
+2947	Payon Elder	Payon Elder
+2948	Think again	Think again
+2949	Trade Count	Trade Count
+2950	Go to Stall	Go to Stall
+2951	Wind Damage	Wind Damage
+2952	Fire Damage	Fire Damage
+2953	Holy Damage	Holy Damage
+2954	Max Ability	Max Ability
+2955	${1} Level:	${1} Level:
+2956	Tap to view	Tap to view
+2957	Join Method	Join Method
 2958	Guild Funds	Guild Funds
-2959	Player name	ชื่อผู้เล่น
-2960	Event Quest	รางวัลกิจกรรม
-2961	Guild Level	ระดับ Guild
-2962	Merge into?	รวมเข้า?
-2963	Fully Armed	อาวุธครบมือ
-2964	Career Path	เส้นทางอาชีพ
-2965	Go to Payon	ไปที่ Payon
+2959	Player name	Player name
+2960	Event Quest	Event Quest
+2961	Guild Level	Guild Level
+2962	Merge into?	Merge into?
+2963	Fully Armed	Fully Armed
+2964	Career Path	Career Path
+2965	Go to Payon	Go to Payon
 2966	At the Ball	At the Ball
-2967	Gwen's Home	บ้านเกว็น
-2968	Defeat Jack	เอาชนะ Jack
-2969	Lend a Hand	ขอความช่วยเหลือ
-2970	A New Round	รอบใหม่
+2967	Gwen's Home	Gwen's Home
+2968	Defeat Jack	Defeat Jack
+2969	Lend a Hand	Lend a Hand
+2970	A New Round	A New Round
 2971	Attack-type	Attack-type
-2972	Growth Rate	อัตราการเติบโต
-2973	Pet Preview	ตัวอย่างสัตว์เลี้ยง
-2974	Total Bonus	โบนัสรวม
-2975	Result Type	ประเภทผลลัพธ์
-2976	Accelerated	เร่ง
-2977	Always Play	เล่นเสมอ
-2978	Save Preset	บันทึกค่าที่ตั้งล่วงหน้า
-2979	Select Fox.	เลือก Fox
-2980	Job Preview	ไม่มีงาน
-2981	Understood.	เข้าใจแล้ว
+2972	Growth Rate	Growth Rate
+2973	Pet Preview	Pet Preview
+2974	Total Bonus	Total Bonus
+2975	Result Type	Result Type
+2976	Accelerated	Accelerated
+2977	Always Play	Always Play
+2978	Save Preset	Save Preset
+2979	Select Fox.	Select Fox.
+2980	Job Preview	Job Preview
+2981	Understood.	Understood.
 2982	（${1}/${2}）	（${1}/${2}）
-2983	What is it?	คืออะไร?
-2984	Start Event	เริ่มกิจกรรม
-2985	Event Ended	กิจกรรมสิ้นสุดแล้ว
-2986	Reset Stage	รีเซ็ตสเตจ
-2987	Job Level ≥	ระดับงาน ≥
-2988	Epic Battle	การต่อสู้ครั้งยิ่งใหญ่
-2989	Normal Mode	โหมดปกติ
-2990	Starry-Eyed	ตาเต็มไปด้วยดวงดาว
-2991	Cross-Level	ข้ามระดับ
-2992	New marker!	มาร์กเกอร์ใหม่!
-2993	Focus fire!	โฟกัสไฟ!
-2994	Nice moves!	การเคลื่อนไหวเยี่ยม!
-2995	Final wave!	คลื่นสุดท้าย!
-2996	Focus Orbit	โฟกัสออร์บิท
-2997	Hide HP Bar	ซ่อนแถบ HP
-2998	On Display…	บนจอแสดงผล...
-2999	Fixed price	ราคาคงที่
-3000	Filter ${1}	กรอง${1}การ์ดกรอง
+2983	What is it?	What is it?
+2984	Start Event	Start Event
+2985	Event Ended	Event Ended
+2986	Reset Stage	Reset Stage
+2987	Job Level ≥	Job Level ≥
+2988	Epic Battle	Epic Battle
+2989	Normal Mode	Normal Mode
+2990	Starry-Eyed	Starry-Eyed
+2991	Cross-Level	Cross-Level
+2992	New marker!	New marker!
+2993	Focus fire!	Focus fire!
+2994	Nice moves!	Nice moves!
+2995	Final wave!	Final wave!
+2996	Focus Orbit	Focus Orbit
+2997	Hide HP Bar	Hide HP Bar
+2998	On Display…	On Display…
+2999	Fixed price	Fixed price
+3000	Filter ${1}	Filter ${1}

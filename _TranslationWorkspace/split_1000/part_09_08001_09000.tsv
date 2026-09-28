@@ -39,117 +39,117 @@
 8038	Mistress-Nightmare	Mistress-Nightmare
 8039	Baphomet-Very Hard	Baphomet-Very Hard
 8040	Baphomet-Nightmare	Baphomet-Nightmare
-8041	Recommended Power:	กำลังที่แนะนำ:
-8042	Slightly Difficult	ยากเล็กน้อย
-8043	Current Floor Info	ข้อมูลชั้นปัจจุบัน
-8044	Return to Town Now	กลับเมืองเดี๋ยวนี้
-8045	Loads of Materials	การโหลดวัสดุ
-8046	Adventure Duration	ระยะเวลาการผจญภัย
-8047	Not enough chests.	หีบไม่พอ
-8048	Field Battle Rules	กฎการต่อสู้ภาคสนาม
-8049	Monster Collection	คอลเลคชั่นสัตว์ประหลาด
-8050	All Stages Cleared	เคลียร์ทุกด่านแล้ว
-8051	Chief Class Mentor	หัวหน้าที่ปรึกษาระดับชั้น
-8052	Listed: ${1}/ ${2}	จดทะเบียน:${1}/${2}
-8053	Unlocks at lv.${1}	ปลดล็อคเมื่อเลเวล${1}
-8054	No items sold yet.	ยังไม่มีสินค้าขาย.
-8055	Limited-Time Event	กิจกรรมจำกัดเวลา
-8056	Kill the Protector	Kill ผู้พิทักษ์
-8057	Challenge Angeling	ท้าทาย Angeling
-8058	Challenge Mistress	ท้าทาย Mistress
-8059	Draw Chance: ${1}%	โอกาสเสมอ:${1}%
-8060	Vehicle Privileges	สิทธิพิเศษสำหรับยานพาหนะ
-8061	Total Contribution	ผลงานรวม
-8062	Cancel Application	ยกเลิกการสมัคร
+8041	Recommended Power:	Recommended Power:
+8042	Slightly Difficult	Slightly Difficult
+8043	Current Floor Info	Current Floor Info
+8044	Return to Town Now	Return to Town Now
+8045	Loads of Materials	Loads of Materials
+8046	Adventure Duration	Adventure Duration
+8047	Not enough chests.	Not enough chests.
+8048	Field Battle Rules	Field Battle Rules
+8049	Monster Collection	Monster Collection
+8050	All Stages Cleared	All Stages Cleared
+8051	Chief Class Mentor	Chief Class Mentor
+8052	Listed: ${1}/ ${2}	Listed: ${1}/ ${2}
+8053	Unlocks at lv.${1}	Unlocks at lv.${1}
+8054	No items sold yet.	No items sold yet.
+8055	Limited-Time Event	Limited-Time Event
+8056	Kill the Protector	Kill the Protector
+8057	Challenge Angeling	Challenge Angeling
+8058	Challenge Mistress	Challenge Mistress
+8059	Draw Chance: ${1}%	Draw Chance: ${1}%
+8060	Vehicle Privileges	Vehicle Privileges
+8061	Total Contribution	Total Contribution
+8062	Cancel Application	Cancel Application
 8063	Guild Contribution	Guild Contribution
-8064	Join Requirements:	:
-8065	Regular Activities	กิจกรรมปกติ
-8066	Revoke Appointment	เพิกถอนการแต่งตั้ง
-8067	Cards - Collection	- คอลเลกชัน
-8068	Report the Results	รายงานผลลัพธ์
-8069	Report the Outcome	รายงานผล
-8070	Continue the Trial	ทดลองใช้งานต่อ
-8071	Onward to Prontera	มุ่งหน้าสู่พรอนเทรา
-8072	Sprakki's Guidance	คำแนะนำของ Sprakki
-8073	Prediction Results	ตัวอย่าง
-8074	Take a Short Break	พักสักหน่อย
-8075	Nail of Discipline	เล็บแห่งวินัย
-8076	Dejected Young Man	Young Man ผู้หดหู่
-8077	Meet Up with Allen	พบกับ Allen
+8064	Join Requirements:	Join Requirements:
+8065	Regular Activities	Regular Activities
+8066	Revoke Appointment	Revoke Appointment
+8067	Cards - Collection	Cards - Collection
+8068	Report the Results	Report the Results
+8069	Report the Outcome	Report the Outcome
+8070	Continue the Trial	Continue the Trial
+8071	Onward to Prontera	Onward to Prontera
+8072	Sprakki's Guidance	Sprakki's Guidance
+8073	Prediction Results	Prediction Results
+8074	Take a Short Break	Take a Short Break
+8075	Nail of Discipline	Nail of Discipline
+8076	Dejected Young Man	Dejected Young Man
+8077	Meet Up with Allen	Meet Up with Allen
 8078	Attend the Banquet	Attend the Banquet
-8079	Strange Pheromones	ฟีโรโมนแปลกๆ
-8080	The Provoke Letter	จดหมายยั่วยุ
-8081	Stronger Equipment	อุปกรณ์ที่แข็งแกร่งยิ่งขึ้น
+8079	Strange Pheromones	Strange Pheromones
+8080	The Provoke Letter	The Provoke Letter
+8081	Stronger Equipment	Stronger Equipment
 8082	Attribute Training	Attribute Training
-8083	The Strange Hunter	นักล่าปริศนา
-8084	A Dangerous Battle	การต่อสู้ที่อันตราย
-8085	Final Preparations	การเตรียมการขั้นสุดท้าย
-8086	Toward the Ant Den	มุ่งหน้าสู่รังมด
+8083	The Strange Hunter	The Strange Hunter
+8084	A Dangerous Battle	A Dangerous Battle
+8085	Final Preparations	Final Preparations
+8086	Toward the Ant Den	Toward the Ant Den
 8087	Assist cap reached	Assist cap reached
-8088	Prize Pool Preview	ตัวอย่างพูลรางวัล
-8089	Daily Hatch Limit:	ขีดจำกัดการฟักไข่รายวัน:
-8090	After Star Upgrade	หลังจากอัปเกรดดาว
-8091	No incubation time	ไม่มีเวลาฟักตัว
-8092	Unlocked ${1}/${2}	ปลดล็อคแล้ว${1}/${2}
-8093	Total Assist Stats	สถิติการช่วยเหลือทั้งหมด
-8094	Hatching Expertise	ความเชี่ยวชาญในการฟักไข่
-8095	Weaver (Deprecated	Weaver (เลิกใช้แล้ว
-8096	Tap the Use button	แตะปุ่มใช้
-8097	Tap the Hatch tab.	แตะแท็บฟัก
-8098	Choose your armor!	เลือกชุดเกราะของคุณ!
-8099	Tap here to close!	แตะที่นี่เพื่อปิด!
-8100	The desolate trail	เส้นทางรกร้าง
-8101	Introduce Yourself	แนะนำตัวเอง
-8102	Rrrr... Hrrrnnn...	อร๊าก... ฮึก...
-8103	Achieved perfectly	สำเร็จได้อย่างสมบูรณ์แบบ
-8104	Growth Class Title	ชื่อคลาสการเติบโต
-8105	What's the upside?	มีข้อดีอะไรบ้าง?
-8106	(Flips coin) Rest.	(พลิกเหรียญ) พักผ่อน
-8107	Use Area Detection	ใช้ Area Detection
-8108	W-What's going on?	W-เกิดอะไรขึ้น?
-8109	Bobo is my friend.	Bobo คือเพื่อนของฉัน
-8110	Fire/Reload/Repair	ไฟไหม้/โหลดซ้ำ/ซ่อมแซม
-8111	Kill Young Dragons	Kill มังกรหนุ่ม
-8112	Difficulty Warning	คำเตือนความยากลำบาก
-8113	Search for the Key	ค้นหาคีย์
-8114	Primary Profession	อาชีพหลัก
-8115	Required Materials	วัสดุที่จำเป็น
-8116	${1} Level Reached	ถึงระดับ${1}แล้ว
-8117	Materials Obtained	แล้ว
-8118	Setting successful	การตั้งค่าสำเร็จ
-8119	Left the Safe Zone	ออกจากโซนปลอดภัย
-8120	Dance to the beat!	เต้นตามจังหวะ!
-8121	Wind's Departure I	การออกเดินทางของลม I
-8122	Wind's Departure V	ออกเดินทางของลม V
-8123	Cloud's Splendor I	ความงดงามของคลาวด์ I
-8124	Cloud's Splendor V	ความสง่างามของคลาวด์ V
-8125	On a killing spree	สนุกสนานกับการสังหาร
-8126	Unexpected Reward!	รางวัลที่ไม่คาดคิด!
-8127	Bobo\nAh! Save us—	โบโบ\n อ่า! ช่วยเรา—
-8128	Begin Your Journey	เริ่มต้นการเดินทางของคุณ
-8129	Pick up the goods.	รับสินค้า
+8088	Prize Pool Preview	Prize Pool Preview
+8089	Daily Hatch Limit:	Daily Hatch Limit:
+8090	After Star Upgrade	After Star Upgrade
+8091	No incubation time	No incubation time
+8092	Unlocked ${1}/${2}	Unlocked ${1}/${2}
+8093	Total Assist Stats	Total Assist Stats
+8094	Hatching Expertise	Hatching Expertise
+8095	Weaver (Deprecated	Weaver (Deprecated
+8096	Tap the Use button	Tap the Use button
+8097	Tap the Hatch tab.	Tap the Hatch tab.
+8098	Choose your armor!	Choose your armor!
+8099	Tap here to close!	Tap here to close!
+8100	The desolate trail	The desolate trail
+8101	Introduce Yourself	Introduce Yourself
+8102	Rrrr... Hrrrnnn...	Rrrr... Hrrrnnn...
+8103	Achieved perfectly	Achieved perfectly
+8104	Growth Class Title	Growth Class Title
+8105	What's the upside?	What's the upside?
+8106	(Flips coin) Rest.	(Flips coin) Rest.
+8107	Use Area Detection	Use Area Detection
+8108	W-What's going on?	W-What's going on?
+8109	Bobo is my friend.	Bobo is my friend.
+8110	Fire/Reload/Repair	Fire/Reload/Repair
+8111	Kill Young Dragons	Kill Young Dragons
+8112	Difficulty Warning	Difficulty Warning
+8113	Search for the Key	Search for the Key
+8114	Primary Profession	Primary Profession
+8115	Required Materials	Required Materials
+8116	${1} Level Reached	${1} Level Reached
+8117	Materials Obtained	Materials Obtained
+8118	Setting successful	Setting successful
+8119	Left the Safe Zone	Left the Safe Zone
+8120	Dance to the beat!	Dance to the beat!
+8121	Wind's Departure I	Wind's Departure I
+8122	Wind's Departure V	Wind's Departure V
+8123	Cloud's Splendor I	Cloud's Splendor I
+8124	Cloud's Splendor V	Cloud's Splendor V
+8125	On a killing spree	On a killing spree
+8126	Unexpected Reward!	Unexpected Reward!
+8127	Bobo\nAh! Save us—	Bobo\nAh! Save us—
+8128	Begin Your Journey	Begin Your Journey
+8129	Pick up the goods.	Pick up the goods.
 8130	Take Out the part.	ถอดชิ้นส่วนออก
-8131	Grind and Level-up	บดและอัพเลเวล
-8132	Default Background	พื้นหลังเริ่มต้น
-8133	Expected Dividends	เงินปันผลที่คาดหวัง
-8134	Maximum Unit Price	ราคาต่อหน่วยสูงสุด
-8135	Legendary Survivor	ผู้รอดชีวิตในตำนาน
-8136	Semifinal Matchups	การจับคู่รอบรองชนะเลิศ
-8137	Transport the Flag	ขนส่งธง
-8138	Battleground Stats	สถิติสมรภูมิ
-8139	Absolute Advantage	ข้อได้เปรียบที่แน่นอน
-8140	Highest Win Streak	ชนะต่อเนื่องสูงสุด
-8141	Net Victory Points	คะแนนชัยชนะสุทธิ
-8142	Voice Message Item	ชุดเสียง
-8143	Crafting Blueprint	พิมพ์เขียวการประดิษฐ์
+8131	Grind and Level-up	Grind and Level-up
+8132	Default Background	Default Background
+8133	Expected Dividends	Expected Dividends
+8134	Maximum Unit Price	Maximum Unit Price
+8135	Legendary Survivor	Legendary Survivor
+8136	Semifinal Matchups	Semifinal Matchups
+8137	Transport the Flag	Transport the Flag
+8138	Battleground Stats	Battleground Stats
+8139	Absolute Advantage	Absolute Advantage
+8140	Highest Win Streak	Highest Win Streak
+8141	Net Victory Points	Net Victory Points
+8142	Voice Message Item	Voice Message Item
+8143	Crafting Blueprint	Crafting Blueprint
 8144	Astral Sign Rating	Astral Sign Rating
-8145	Mt. Mjolnir Region	ภูเขา ภูมิภาคมโยลนีร์
-8146	Crit DMG Reduction	DMG Reduction คริติคอล
-8147	Crafting Materials	วัสดุการประดิษฐ์
-8148	Introvert-Friendly	เป็นมิตรกับคนเก็บตัว
-8149	Let's Run Dungeons	มาวิ่งดันเจี้ยนกันเถอะ
-8150	High Damage Output	เอาต์พุตความเสียหายสูง
-8151	High Crowd Control	การ Control ฝูงชนสูง
+8145	Mt. Mjolnir Region	Mt. Mjolnir Region
+8146	Crit DMG Reduction	Crit DMG Reduction
+8147	Crafting Materials	Crafting Materials
+8148	Introvert-Friendly	Introvert-Friendly
+8149	Let's Run Dungeons	Let's Run Dungeons
+8150	High Damage Output	High Damage Output
+8151	High Crowd Control	High Crowd Control
 8152	Mage Normal Attack	Mage Normal Attack
 8153	High-Speed Driving	High-Speed Driving
 8154	Deadly Flame Blade	Deadly Flame Blade
@@ -159,37 +159,37 @@
 8158	Wavebreaker Strike	Wavebreaker Strike
 8159	Cannonball Barrage	Cannonball Barrage
 8160	[Guild Invitation]	[Guild Invitation]
-8161	Healing per Second	การรักษาต่อวินาที
-8162	Battle Record ${1}	บันทึกการต่อสู้${1}
+8161	Healing per Second	Healing per Second
+8162	Battle Record ${1}	Battle Record ${1}
 8163	Arm Cannon Enhance	Arm Cannon Enhance
-8164	New Season Preview	พรีวิวซีซั่นใหม่
-8165	Display Resolution	ความละเอียดการแสดงผล
+8164	New Season Preview	New Season Preview
+8165	Display Resolution	Display Resolution
 8166	Ironwood Ring Mold	Ironwood Ring Mold
 8167	Spirit Scale Stalk	Spirit Scale Stalk
 8168	Coarse Cotton Roll	Coarse Cotton Roll
 8169	Silk Garment Blank	Silk Garment Blank
-8170	Newly Listed Items	รายการที่เพิ่งจดทะเบียน
+8170	Newly Listed Items	Newly Listed Items
 8171	^{1}[Conquest]^{2}	^{1}[Conquest]^{2}
 8172	^{1}[Instance]^{2}	^{1}[Instance]^{2}
-8173	A Possible Witness	พยานที่เป็นไปได้
-8174	Strange Occurences	เหตุการณ์ประหลาด
-8175	Cargo Pickup Point	จุดรับสินค้า
-8176	Skill Use Disabled	การใช้ทักษะถูกปิดใช้งาน
+8173	A Possible Witness	A Possible Witness
+8174	Strange Occurences	Strange Occurences
+8175	Cargo Pickup Point	Cargo Pickup Point
+8176	Skill Use Disabled	Skill Use Disabled
 8177	Knockback Immunity	ภูมิคุ้มกัน Knockback
-8178	Oak's Power - Blue	โอ๊คพาวเวอร์ - สีฟ้า
-8179	Mysterious Arrival	การมาถึงอย่างลึกลับ
-8180	Party Preparations	การเตรียมงานปาร์ตี้
-8181	Spirit Silk Flower	Flower ไหมวิญญาณ
+8178	Oak's Power - Blue	Oak's Power - Blue
+8179	Mysterious Arrival	Mysterious Arrival
+8180	Party Preparations	Party Preparations
+8181	Spirit Silk Flower	Spirit Silk Flower
 8182	Sacred Armor Plate	Sacred Armor Plate
 8183	PATCH_AUDIO_BUTTON	PATCH_AUDIO_BUTTON
 8184	PATCH_RESTART_TIPS	PATCH_RESTART_TIPS
-8185	Request successful	สำเร็จ
-8186	Cost-Free Crafting	งานประดิษฐ์ที่ไม่มีค่าใช้จ่าย
-8187	Emergency Recovery	การกู้คืนฉุกเฉิน
-8188	Goddess's Movement	การเคลื่อนไหวของเทพธิดา
-8189	Available Branches	สาขาที่มีจำหน่าย
-8190	Invalid Pet Preset	ค่าที่ตั้งล่วงหน้าของสัตว์เลี้ยงไม่ถูกต้อง
-8191	Sentinel of Spikes	เซนทิเนลแห่งสไปค์
+8185	Request successful	Request successful
+8186	Cost-Free Crafting	Cost-Free Crafting
+8187	Emergency Recovery	Emergency Recovery
+8188	Goddess's Movement	Goddess's Movement
+8189	Available Branches	Available Branches
+8190	Invalid Pet Preset	Invalid Pet Preset
+8191	Sentinel of Spikes	Sentinel of Spikes
 8192	Fountain of Wisdom	Fountain of Wisdom
 8193	Sun-Devouring Wolf	Sun-Devouring Wolf
 8194	Divine Goat's Milk	Divine Goat's Milk
@@ -203,8 +203,8 @@
 8202	Echo Material Pack	Echo Material Pack
 8203	Creamy Tomato Soup	Creamy Tomato Soup
 8204	Holy Spirit Potion	Holy Spirit Potion
-8205	${1} sent you ${2}	${1}ส่ง${2}ให้คุณแล้ว
-8206	Swordsman Portrait	ภาพ Swordsman
+8205	${1} sent you ${2}	${1} sent you ${2}
+8206	Swordsman Portrait	Swordsman Portrait
 8207	Job Advance Weapon	Job Advance Weapon
 8208	Fluorescent Liquid	Fluorescent Liquid
 8209	Transparent Fabric	Transparent Fabric
@@ -229,224 +229,224 @@
 8228	Earth Spirit Spear	Earth Spirit Spear
 8229	Novice Main Gauche	Novice Main Gauche
 8230	Dream-Eating Flute	Dream-Eating Flute
-8231	Not enough friends	เพื่อนไม่พอ
+8231	Not enough friends	Not enough friends
 8232	Region @{1} Points	Region @{1} Points
 8233	Card: Orc Skeleton	Card: Orc Skeleton
 8234	Shadow Card: Hydra	Shadow Card: Hydra
 8235	Card: Poison Spore	Card: Poison Spore
-8236	Equipment Forging:	อุปกรณ์การตี:
-8237	Guild League Elite	Guild ลีกอีลิท
-8238	Class Item Details	รายละเอียดรายการชั้นเรียน
-8239	Soul Echo Overview	ภาพรวม Soul Echo
-8240	Competition Screen	หน้าจอการแข่งขัน
-8241	Kafra Shop Details	รายละเอียด Kafra Shop
-8242	Spirit Tower Rules	Spirit Tower
-8243	Victory Conditions	เงื่อนไขชัยชนะ
-8244	Objective Complete	วัตถุประสงค์เสร็จสมบูรณ์
-8245	Matchmaking Notice	ประกาศการจับคู่
-8246	Variable Gathering	การรวบรวมตัวแปร
-8247	Request from Guild	คำขอจาก Guild
-8248	Speedrun Challenge	ความท้าทายในการวิ่งสปีดรัน
-8249	Survival Challenge	ความท้าทายในการเอาชีวิตรอด
-8250	Great Whale's Aria	เพลงของปลาวาฬใหญ่
-8251	Snowy Night Melody	เมโลดี้คืนหิมะ
+8236	Equipment Forging:	Equipment Forging:
+8237	Guild League Elite	Guild League Elite
+8238	Class Item Details	Class Item Details
+8239	Soul Echo Overview	Soul Echo Overview
+8240	Competition Screen	Competition Screen
+8241	Kafra Shop Details	Kafra Shop Details
+8242	Spirit Tower Rules	Spirit Tower Rules
+8243	Victory Conditions	Victory Conditions
+8244	Objective Complete	Objective Complete
+8245	Matchmaking Notice	Matchmaking Notice
+8246	Variable Gathering	Variable Gathering
+8247	Request from Guild	Request from Guild
+8248	Speedrun Challenge	Speedrun Challenge
+8249	Survival Challenge	Survival Challenge
+8250	Great Whale's Aria	Great Whale's Aria
+8251	Snowy Night Melody	Snowy Night Melody
 8252	Realm Sandbox-@{1}	Realm Sandbox-@{1}
 8253	Spear Auto Counter	Spear Auto Counter
-8254	Damage Taken Score	คะแนนความเสียหายที่ได้รับ
-8255	Healing Over @{1}M	กำลังฮีลมากกว่า@{1}M
-8256	Healing Over @{1}K	กำลังรักษามากกว่า@{1}K
-8257	Top Siege Attacker	สุดยอดผู้โจมตีล้อม
-8258	Pierce the Heavens	เจาะสวรรค์
-8259	Over @{1}m Healing	มากกว่า@{1}m กำลังรักษา
-8260	Over @{1}k Healing	มากกว่า@{1}k การรักษา
-8261	Apocalypse Revival	การฟื้นฟู Apocalypse
-8262	Holy Light Revival	การฟื้นฟู Holy Light
-8263	Eight-Kill War God	เทพสงครามแปดสังหาร
-8264	Top Capture Points	จุดยึดสูงสุด
-8265	Primary Attributes	คุณสมบัติหลัก
-8266	Midterm Settlement	การชำระหนี้กลางภาค
+8254	Damage Taken Score	Damage Taken Score
+8255	Healing Over @{1}M	Healing Over @{1}M
+8256	Healing Over @{1}K	Healing Over @{1}K
+8257	Top Siege Attacker	Top Siege Attacker
+8258	Pierce the Heavens	Pierce the Heavens
+8259	Over @{1}m Healing	Over @{1}m Healing
+8260	Over @{1}k Healing	Over @{1}k Healing
+8261	Apocalypse Revival	Apocalypse Revival
+8262	Holy Light Revival	Holy Light Revival
+8263	Eight-Kill War God	Eight-Kill War God
+8264	Top Capture Points	Top Capture Points
+8265	Primary Attributes	Primary Attributes
+8266	Midterm Settlement	Midterm Settlement
 8267	Survivor's Muffler	Survivor's Muffler
 8268	Evil Spirit Threat	Evil Spirit Threat
-8269	High Survivability	ความอยู่รอดสูง
-8270	Stigma Charge Buff	บัฟ Charge สติกมา
-8271	Cart Reinforcement	การเสริมแรงรถเข็น
-8272	Anaerobic Training	การฝึกแบบไม่ใช้ออกซิเจน
-8273	High-Energy Shield	Shield พลังงานสูง
+8269	High Survivability	High Survivability
+8270	Stigma Charge Buff	Stigma Charge Buff
+8271	Cart Reinforcement	Cart Reinforcement
+8272	Anaerobic Training	Anaerobic Training
+8273	High-Energy Shield	High-Energy Shield
 8274	Devotion Self-Link	Devotion Self-Link
-8275	Earth Drive Debuff	ดีบัฟ Earth Drive
-8276	King's Grace Orbit	วงโคจรพระคุณของกษัตริย์
-8277	Fixed Skill Damage	แก้ไขความเสียหายของทักษะ
-8278	Escort Cart Endure	รถเข็น Escort Endure ทาน
-8279	Respawn Protection	ป้องกันการ Respawn
-8280	Adds a Lope button	เพิ่มปุ่ม Lope
-8281	Windowed ${1}*${2}	หน้าต่าง${1}*${2}
-8282	Right-Click to Use	คลิกขวาเพื่อใช้
-8283	Quest Display Area	พื้นที่แสดงภารกิจ
-8284	White Imprison SFX	SFX กักขัง White
-8285	Heaven's Drive SFX	SFX Heaven's Drive
-8286	MATK Increase @{1}	MATK เพิ่ม@{1}
-8287	Marionette Passive	Marionette แบบ Passive
-8288	Marionette's Curse	คำสาปของ Marionette
+8275	Earth Drive Debuff	Earth Drive Debuff
+8276	King's Grace Orbit	King's Grace Orbit
+8277	Fixed Skill Damage	Fixed Skill Damage
+8278	Escort Cart Endure	Escort Cart Endure
+8279	Respawn Protection	Respawn Protection
+8280	Adds a Lope button	Adds a Lope button
+8281	Windowed ${1}*${2}	Windowed ${1}*${2}
+8282	Right-Click to Use	Right-Click to Use
+8283	Quest Display Area	Quest Display Area
+8284	White Imprison SFX	White Imprison SFX
+8285	Heaven's Drive SFX	Heaven's Drive SFX
+8286	MATK Increase @{1}	MATK Increase @{1}
+8287	Marionette Passive	Marionette Passive
+8288	Marionette's Curse	Marionette's Curse
 8289	Petrification Gaze	Petrification Gaze
 8290	Alice's Protection	Alice's Protection
 8291	A Maid's Etiquette	A Maid's Etiquette
-8292	Detection Distance	ระยะการตรวจจับ
-8293	Party-Wide Stealth	ซ่อนตัวทั้งปาร์ตี้
-8294	Remove Skill Check	Remove การตรวจสอบทักษะ
-8295	Lock Life at @{1}%	อายุการใช้งานล็อคที่@{1}%
-8296	Switch Blood Cross	สลับเลือดครอส
-8297	Switch Earth Drive	สวิตช์ Earth Drive
-8298	Switch Psychic Orb	สวิตช์ลูกแก้วพลังจิต
-8299	Speed Boost Charge	Charge เพิ่มความเร็ว
-8300	Trap Hunter Charge	Trap HunterCharge
-8301	Sonic Acceleration	Acceleration ของเสียง
+8292	Detection Distance	Detection Distance
+8293	Party-Wide Stealth	Party-Wide Stealth
+8294	Remove Skill Check	Remove Skill Check
+8295	Lock Life at @{1}%	Lock Life at @{1}%
+8296	Switch Blood Cross	Switch Blood Cross
+8297	Switch Earth Drive	Switch Earth Drive
+8298	Switch Psychic Orb	Switch Psychic Orb
+8299	Speed Boost Charge	Speed Boost Charge
+8300	Trap Hunter Charge	Trap Hunter Charge
+8301	Sonic Acceleration	Sonic Acceleration
 8302	Black Phantom Slow	Black Phantom Slow
-8303	Shadow Loop Status	สถานะวงเงา
-8304	Transfer Ownership	โอนกรรมสิทธิ์
-8305	Suspected Gambling	การพนันที่ต้องสงสัย
+8303	Shadow Loop Status	Shadow Loop Status
+8304	Transfer Ownership	Transfer Ownership
+8305	Suspected Gambling	Suspected Gambling
 8306	^{1}[Gameplay]^{2}	^{1}[Gameplay]^{2}
-8307	Ranking user error	ข้อผิดพลาดในการจัดอันดับผู้ใช้
-8308	Reward Vault Rules	รับรางวัล
-8309	Monthly Pass Rules	กฎการส่งผ่านรายเดือน
-8310	Monster Hunt Rules	กฎการล่ามอนสเตอร์
+8307	Ranking user error	Ranking user error
+8308	Reward Vault Rules	Reward Vault Rules
+8309	Monthly Pass Rules	Monthly Pass Rules
+8310	Monster Hunt Rules	Monster Hunt Rules
 8311	Auto-Bidding Rules	Auto-Bidding Rules
-8312	Total Lineup Stats	สถิติผู้เล่นตัวจริงทั้งหมด
-8313	Siege Weapon Guide	คู่มืออาวุธล้อม
-8314	Battleground Rules	กฎของสมรภูมิ
-8315	Refinement Details	รายละเอียดการปรับแต่ง
-8316	Trusted Confidants	คนสนิทที่เชื่อถือได้
-8317	A Noble Friendship	มิตรภาพอันสูงส่ง
-8318	Duplicate Mount ID	ID การเมาท์ซ้ำ
-8319	Job does not exist	ไม่มีงานอยู่
-8320	Already in a Party	อยู่ในงานปาร์ตี้แล้ว
-8321	On the Blocks list	ในรายการบล็อก
-8322	Not a close friend	ไม่ใช่เพื่อนสนิท
-8323	Invalid equip slot	ช่องติดตั้งไม่ถูกต้อง
-8324	Filter Soul Echoes	กรองเสียงสะท้อนวิญญาณ
-8325	Group Warp is full	Group Warp เต็ม
-8326	Invalid stronghold	ฐานที่มั่นไม่ถูกต้อง
-8327	Not enough points.	คะแนนไม่เพียงพอ
+8312	Total Lineup Stats	Total Lineup Stats
+8313	Siege Weapon Guide	Siege Weapon Guide
+8314	Battleground Rules	Battleground Rules
+8315	Refinement Details	Refinement Details
+8316	Trusted Confidants	Trusted Confidants
+8317	A Noble Friendship	A Noble Friendship
+8318	Duplicate Mount ID	Duplicate Mount ID
+8319	Job does not exist	Job does not exist
+8320	Already in a Party	Already in a Party
+8321	On the Blocks list	On the Blocks list
+8322	Not a close friend	Not a close friend
+8323	Invalid equip slot	Invalid equip slot
+8324	Filter Soul Echoes	Filter Soul Echoes
+8325	Group Warp is full	Group Warp is full
+8326	Invalid stronghold	Invalid stronghold
+8327	Not enough points.	Not enough points.
 8328	^{1}Cart Clash^{2}	^{1}Cart Clash^{2}
 8329	Swift Cross Strike	Swift Cross Strike
 8330	Auto Guard Enhance	Auto Guard Enhance
-8331	Enhanced Endurance	เพิ่มความทนทาน
+8331	Enhanced Endurance	Enhanced Endurance
 8332	Aura Blade Enhance	Aura Blade Enhance
-8333	Joint Beat Enhance	ข้อต่อตีเสริม
-8334	^{1}Two Skills^{2}	^{1}สองทักษะ^{2}
-8335	Basic Magic Attack	การโจมตีด้วยเวทมนตร์ขั้นพื้นฐาน
-8336	Deep Dagger Thrust	แทง Dagger ลึก
-8337	^{1}Spell Lock^{2}	^{1}ล็อคตัวสะกด^{2}
-8338	^{1}Ember Zone^{2}	^{1}โซนถ่าน^{2}
-8339	Incorrect Password	รหัสผ่านไม่ถูกต้อง
-8340	Uses: Insufficient	การใช้งาน: ไม่เพียงพอ
-8341	Royal Capital Name	ชื่อเมืองหลวง
-8342	Wrong top-up type.	ประเภทการเติมเงินไม่ถูกต้อง
+8333	Joint Beat Enhance	Joint Beat Enhance
+8334	^{1}Two Skills^{2}	^{1}Two Skills^{2}
+8335	Basic Magic Attack	Basic Magic Attack
+8336	Deep Dagger Thrust	Deep Dagger Thrust
+8337	^{1}Spell Lock^{2}	^{1}Spell Lock^{2}
+8338	^{1}Ember Zone^{2}	^{1}Ember Zone^{2}
+8339	Incorrect Password	Incorrect Password
+8340	Uses: Insufficient	Uses: Insufficient
+8341	Royal Capital Name	Royal Capital Name
+8342	Wrong top-up type.	Wrong top-up type.
 8343	Enlarge the target	Enlarge เป้าหมาย
-8344	Defense Successful	การป้องกันสำเร็จ
+8344	Defense Successful	Defense Successful
 8345	Normal Attack @{1}	Normal Attack@{1}
 8346	Drake Basic Attack	Basic Attack ของ Drake
-8347	Applied: ${1}/${2}	ประยุกต์:${1}/${2}
-8348	Enter a book title	ป้อนชื่อหนังสือ
-8349	Reset Confirmation	ยืนยันการรีเซ็ต
-8350	Default Template 1	เทมเพลตเริ่มต้น 1
-8351	Default Template 2	2
-8352	Default Template 3	3
-8353	My Book Collection	คอลเลกชันหนังสือของฉัน
-8354	Immediately Obtain	รับทันที
-8355	Event ends in ${1}	สิ้นสุดใน${1}
-8356	Title is too long.	ชื่อยาวเกินไป
-8357	Two Weeks Together	สองสัปดาห์ด้วยกัน
-8358	Dressed to Impress	แต่งแล้วโดนใจ
-8359	Defeat Ilmo · Hard	เอาชนะอิลโม · ยาก
-8360	Defeat Isti · Hard	เอาชนะ Isti · ยาก
-8361	Spirit Tower Adept	Spirit Tower ผู้เชี่ยวชาญ
-8362	Spirit Tower Debut	Spirit Tower
-8363	A Home for 10 Pets	บ้านสำหรับสัตว์เลี้ยง 10 ตัว
-8364	Max Stars Achieved	บรรลุดาวสูงสุดแล้ว
-8365	First Star Upgrade	อัปเกรดดาวดวงแรก
-8366	50-Card Collection	คอลเลกชัน 50 ใบ
-8367	Refine: Apprentice	ปรับแต่ง: เด็กฝึกงาน
-8368	Eye of Discernment	ดวงตาแห่งการหยั่งรู้
-8369	Legendary Red Gear	เกียร์แดงในตำนาน
-8370	Kill/Assist/Rescue	Kill/ช่วยเหลือ/ช่วยเหลือ
+8347	Applied: ${1}/${2}	Applied: ${1}/${2}
+8348	Enter a book title	Enter a book title
+8349	Reset Confirmation	Reset Confirmation
+8350	Default Template 1	Default Template 1
+8351	Default Template 2	Default Template 2
+8352	Default Template 3	Default Template 3
+8353	My Book Collection	My Book Collection
+8354	Immediately Obtain	Immediately Obtain
+8355	Event ends in ${1}	Event ends in ${1}
+8356	Title is too long.	Title is too long.
+8357	Two Weeks Together	Two Weeks Together
+8358	Dressed to Impress	Dressed to Impress
+8359	Defeat Ilmo · Hard	Defeat Ilmo · Hard
+8360	Defeat Isti · Hard	Defeat Isti · Hard
+8361	Spirit Tower Adept	Spirit Tower Adept
+8362	Spirit Tower Debut	Spirit Tower Debut
+8363	A Home for 10 Pets	A Home for 10 Pets
+8364	Max Stars Achieved	Max Stars Achieved
+8365	First Star Upgrade	First Star Upgrade
+8366	50-Card Collection	50-Card Collection
+8367	Refine: Apprentice	Refine: Apprentice
+8368	Eye of Discernment	Eye of Discernment
+8369	Legendary Red Gear	Legendary Red Gear
+8370	Kill/Assist/Rescue	Kill/Assist/Rescue
 8371	High-Resource Area	High-Resource Area
-8372	Equipment Supplies	อุปกรณ์สิ้นเปลือง
-8373	This Week's Limit:	ขีดจำกัดของสัปดาห์นี้:
-8374	Why didn't you go?	ทำไมไม่ไปล่ะ?
-8375	Member Limit: ${1}	สมาชิกจำกัด:${1}
-8376	Cancel Recruitment	ยกเลิกการรับสมัคร
-8377	Profile Card Style	แท็บโปรไฟล์
-8378	Now following ${1}	กำลังติดตาม${1}
-8379	${1} defeated ${2}	${1}ชนะ${2}
-8380	${1} quietly left.	${1}จากไปอย่างเงียบๆ
-8381	Traveling Merchant	พ่อค้านักเดินทาง
-8382	Dark Crystal Orbit	ดาร์กคริสตัลออร์บิท
-8383	Musical Instrument	เครื่องดนตรี
+8372	Equipment Supplies	Equipment Supplies
+8373	This Week's Limit:	This Week's Limit:
+8374	Why didn't you go?	Why didn't you go?
+8375	Member Limit: ${1}	Member Limit: ${1}
+8376	Cancel Recruitment	Cancel Recruitment
+8377	Profile Card Style	Profile Card Style
+8378	Now following ${1}	Now following ${1}
+8379	${1} defeated ${2}	${1} defeated ${2}
+8380	${1} quietly left.	${1} quietly left.
+8381	Traveling Merchant	Traveling Merchant
+8382	Dark Crystal Orbit	Dark Crystal Orbit
+8383	Musical Instrument	Musical Instrument
 8384	Purple Chance Buff	บัฟโอกาสสีม่วง
 8385	Orange Chance Buff	บัฟโอกาสสีส้ม
 8386	Dance Move Forward	เต้นก้าวไปข้างหน้า
 8387	Pharaoh AoE marker	เครื่องหมาย AoE ของ Pharaoh
-8388	Recommended Stunts	การแสดงโลดโผนที่แนะนำ
-8389	Recommended Skills	ทักษะที่แนะนำ
-8390	Configuring Preset	การกำหนดค่าที่ตั้งไว้ล่วงหน้า
-8391	Select Soul Echoes	เลือกเสียงสะท้อนของวิญญาณ
-8392	Challenge Complete	เสร็จสมบูรณ์
-8393	Generic Immobilize	การตรึงทั่วไป
-8394	Vitality Resonance	เสียงสะท้อนแห่งพลัง
-8395	Strength Resonance	เสียงสะท้อนความแรง
-8396	Settlement in ${1}	ใน${1}
-8397	Cumulative Rewards	รางวัลสะสม
-8398	Contribution: ${1}	:${1}ป้ายผู้สนับสนุน
-8399	Guard Domain Orbit	วงโคจรโดเมนยาม
+8388	Recommended Stunts	Recommended Stunts
+8389	Recommended Skills	Recommended Skills
+8390	Configuring Preset	Configuring Preset
+8391	Select Soul Echoes	Select Soul Echoes
+8392	Challenge Complete	Challenge Complete
+8393	Generic Immobilize	Generic Immobilize
+8394	Vitality Resonance	Vitality Resonance
+8395	Strength Resonance	Strength Resonance
+8396	Settlement in ${1}	Settlement in ${1}
+8397	Cumulative Rewards	Cumulative Rewards
+8398	Contribution: ${1}	Contribution: ${1}
+8399	Guard Domain Orbit	Guard Domain Orbit
 8400	Inner Circular AOE	AOE แบบวงกลมด้านใน
 8401	Lava Heat Wave@{1}	Lava Heat Wave@{1}
 8402	Test Transform@{1}	Test Transform@{1}
 8403	Instinctive Thrill	Instinctive Thrill
 8404	Flying Fish Impact	Flying Fish Impact
 8405	Cat Knight's Guard	Cat Knight's Guard
-8406	Fated Resurrection	Resurrection โดยโชคชะตา
-8407	Holy Light Baptism	บัพติศมาด้วยแสงอันศักดิ์สิทธิ์
-8408	Holy Healing Light	แสงแห่งการรักษาอันศักดิ์สิทธิ์
+8406	Fated Resurrection	Fated Resurrection
+8407	Holy Light Baptism	Holy Light Baptism
+8408	Holy Healing Light	Holy Healing Light
 8409	Darkness Dimension	Darkness Dimension
 8410	Freezing Dimension	Freezing Dimension
 8411	Ricochet Dimension	Ricochet Dimension
 8412	[Final Trial-Isti]	[Final Trial-Isti]
 8413	[Final Trial-Ilmo]	[Final Trial-Ilmo]
-8414	Start recruitment?	เริ่มรับสมัคร?
-8415	No related content	ไม่มีเนื้อหาที่เกี่ยวข้อง
-8416	No skill selected!	ไม่ได้เลือกทักษะ!
-8417	RO Genius LUK Star	RO อัจฉริยะ LUK Star
-8418	Exit Without Saving	ออกโดยไม่บันทึก
-8419	Tap to enter a name	แตะเพื่อป้อนชื่อ
-8420	Do not remind again	ไม่ต้องเตือนอีก
-8421	Multiple Knockbacks	การ Knockbacks หลายครั้ง
+8414	Start recruitment?	Start recruitment?
+8415	No related content	No related content
+8416	No skill selected!	No skill selected!
+8417	RO Genius LUK Star	RO Genius LUK Star
+8418	Exit Without Saving	Exit Without Saving
+8419	Tap to enter a name	Tap to enter a name
+8420	Do not remind again	Do not remind again
+8421	Multiple Knockbacks	Multiple Knockbacks
 8422	Night Judgment·Mask	Night Judgment·Mask
 8423	Angel Wing Earrings	Angel Wing Earrings
 8424	Silverwing Covenant	Silverwing Covenant
 8425	Worldscorch Feather	Worldscorch Feather
 8426	Female Warrior Lola	Female Warrior Lola
-8427	Tap to close (${1})	แตะเพื่อปิด (${1})
-8428	Traditional Chinese	ภาษาจีนตัวเต็ม
-8429	Unlock New Function	ปลดล็อคฟังก์ชั่นใหม่
-8430	Ritual Acceleration	Acceleration พิธีกรรม
-8431	Placement Objective	วัตถุประสงค์ของตำแหน่ง
-8432	Magic Damage Bonus%	โบนัสความเสียหายเวทย์มนตร์%
-8433	MP Recovery Effect%	ผลการฟื้นฟู MP%
-8434	Paralyze Resistance	ต้านทานอัมพาต
-8435	Magic Damage Shield	โล่ป้องกันความเสียหายเวทย์มนตร์
-8436	BOSS Enrage Display	BOSS แสดงความโกรธแค้น
-8437	Detect Stealth @{1}	ตรวจจับการลักลอบ@{1}
-8438	Game Mode EXP Bonus	โบนัส EXP โหมดเกม
-8439	^{1}Stand Ready^{2}	^{1}สแตนด์พร้อม^{2}
-8440	^{1}Phase Three^{2}	^{1}เฟสสาม^{2}
-8441	^{1}Final Phase^{2}	^{1}เฟสสุดท้าย^{2}
+8427	Tap to close (${1})	Tap to close (${1})
+8428	Traditional Chinese	Traditional Chinese
+8429	Unlock New Function	Unlock New Function
+8430	Ritual Acceleration	Ritual Acceleration
+8431	Placement Objective	Placement Objective
+8432	Magic Damage Bonus%	Magic Damage Bonus%
+8433	MP Recovery Effect%	MP Recovery Effect%
+8434	Paralyze Resistance	Paralyze Resistance
+8435	Magic Damage Shield	Magic Damage Shield
+8436	BOSS Enrage Display	BOSS Enrage Display
+8437	Detect Stealth @{1}	Detect Stealth @{1}
+8438	Game Mode EXP Bonus	Game Mode EXP Bonus
+8439	^{1}Stand Ready^{2}	^{1}Stand Ready^{2}
+8440	^{1}Phase Three^{2}	^{1}Phase Three^{2}
+8441	^{1}Final Phase^{2}	^{1}Final Phase^{2}
 8442	Retrieve Instrument	Retrieve Instrument
-8443	^{1}Mock Battle^{2}	^{1}ศึกจำลอง^{2}
-8444	Current Season Rank	อันดับฤดูกาลปัจจุบัน
-8445	Opens in ${1} hours	Opens ใน${1}ชั่วโมง
-8446	Shop closes in ${1}	ร้านปิดใน${1}
-8447	Equipped: ${1}/${2}	พร้อมอุปกรณ์:${1}/${2}
-8448	Guild Banner Emblem	สัญลักษณ์แบนเนอร์ Guild
+8443	^{1}Mock Battle^{2}	^{1}Mock Battle^{2}
+8444	Current Season Rank	Current Season Rank
+8445	Opens in ${1} hours	Opens in ${1} hours
+8446	Shop closes in ${1}	Shop closes in ${1}
+8447	Equipped: ${1}/${2}	Equipped: ${1}/${2}
+8448	Guild Banner Emblem	Guild Banner Emblem
 8449	Defeat Doppelganger	กำจัด Doppelganger
 8450	Reach Base Lv. @{1}	การเข้าถึงฐาน Lv.@{1}
 8451	Kill @{1} Mushrooms	KillMushrooms@{1}
@@ -457,111 +457,111 @@
 8456	Complete Trans. 2nd	ทรานส์สมบูรณ์2
 8457	Respond to a Crisis	ตอบสนองต่อภาวะวิกฤติ
 8458	Say hello to Bragis	ทักทาย Bragis
-8459	Refresh (${1}/${2})	รีเฟรช (${1}/${2})
-8460	Appearance Settings	การตั้งค่าลักษณะที่ปรากฏ
-8461	Chat Settings Saved	บันทึกการตั้งค่าการแชทแล้ว
-8462	Intermediate Attack	การโจมตีระดับกลาง
-8463	Cover Boya and Wule	คัฟเวอร์ Boya และ Wule
-8464	Purchase Successful	สำเร็จแล้ว
-8465	Listed successfully	แสดงรายการสำเร็จแล้ว
-8466	Guild League Emblem	สัญลักษณ์ลีก Guild
-8467	Trade Penalty Ended	การลงโทษการค้าสิ้นสุดลง
-8468	Bail Payment Issued	ออกการชำระเงินประกันแล้ว
+8459	Refresh (${1}/${2})	Refresh (${1}/${2})
+8460	Appearance Settings	Appearance Settings
+8461	Chat Settings Saved	Chat Settings Saved
+8462	Intermediate Attack	Intermediate Attack
+8463	Cover Boya and Wule	Cover Boya and Wule
+8464	Purchase Successful	Purchase Successful
+8465	Listed successfully	Listed successfully
+8466	Guild League Emblem	Guild League Emblem
+8467	Trade Penalty Ended	Trade Penalty Ended
+8468	Bail Payment Issued	Bail Payment Issued
 8469	Gifted Pass Mail ID	Gifted Pass Mail ID
 8470	Daily Activity Task	งาน Activity รายวัน
 8471	Like Activity Quest	ชอบภารกิจ Activity
-8472	Portrait Frame Test	การทดสอบกรอบภาพบุคคล
+8472	Portrait Frame Test	Portrait Frame Test
 8473	Elite Treasure Cart	Elite Treasure Cart
-8474	Supplies Remaining:	วัสดุคงเหลือ:
-8475	System Notification	การตั้งค่าระบบ
-8476	Unlocks at Lv. @{1}	ปลดล็อคที่ Lv.@{1}
-8477	Quiz Time Remaining	เวลาตอบคำถามที่เหลืออยู่
-8478	Smelting Attributes	คุณสมบัติการถลุง
-8479	Crafting Successful	ประดิษฐ์สำเร็จ
-8480	Smelting Successful	การถลุงสำเร็จ
-8481	No target available	ไม่มีเป้าหมาย
-8482	Enable Confirmation	เปิดใช้งานการยืนยัน
-8483	Movement ${1} ${2}%	การเคลื่อนไหว${1}${2}%
-8484	Divine Realm - Hard	อาณาจักรศักดิ์สิทธิ์ - ยาก
-8485	Set as Close Friend	ตั้งเป็นเพื่อนสนิท
-8486	Remove Close Friend	Remove เพื่อนสนิท
-8487	Remove from Recents	Remove ออกจากล่าสุด
-8488	Network Diagnostics	การวินิจฉัยเครือข่าย
-8489	Network Delay Check	การตรวจสอบความล่าช้าของเครือข่าย
+8474	Supplies Remaining:	Supplies Remaining:
+8475	System Notification	System Notification
+8476	Unlocks at Lv. @{1}	Unlocks at Lv. @{1}
+8477	Quiz Time Remaining	Quiz Time Remaining
+8478	Smelting Attributes	Smelting Attributes
+8479	Crafting Successful	Crafting Successful
+8480	Smelting Successful	Smelting Successful
+8481	No target available	No target available
+8482	Enable Confirmation	Enable Confirmation
+8483	Movement ${1} ${2}%	Movement ${1} ${2}%
+8484	Divine Realm - Hard	Divine Realm - Hard
+8485	Set as Close Friend	Set as Close Friend
+8486	Remove Close Friend	Remove Close Friend
+8487	Remove from Recents	Remove from Recents
+8488	Network Diagnostics	Network Diagnostics
+8489	Network Delay Check	Network Delay Check
 8490	Gather Hard Shells.	รวบรวมเปลือกแข็ง
 8491	Keep moving forward	เดินหน้าต่อไป
 8492	Go to the Professor	ไปหา Professor
 8493	Go to Eastern Payon	ไปที่พยอนตะวันออก
 8494	Enter the Pet Tower	เข้าสู่หอคอยสัตว์เลี้ยง
-8495	Career Total Points	คะแนนรวมอาชีพ
-8496	Beginner's Handbook	คู่มือสำหรับผู้เริ่มต้น
-8497	Reinforcement level	ระดับการเสริมแรง
-8498	Left Accessory Slot	ช่องใส่อุปกรณ์เสริมด้านซ้าย
-8499	Guild Member Search	ค้นหาสมาชิก Guild
-8500	Invite Guild Member	เชิญสมาชิก Guild
-8501	Banish Guild Member	เนรเทศสมาชิก Guild
-8502	Manage Guild Elites	จัดการ Guild อีลิท
-8503	Add Friend/Unfriend	เพิ่มเพื่อน/เลิกเป็นเพื่อน
-8504	Gacha Master Toggle	สลับกาชามาสเตอร์
-8505	Nature God · Ilmata	เทพแห่งธรรมชาติ · อิลมาตา
-8506	Festival Invitation	บัตรเชิญเทศกาล
-8507	Currency Redemption	การแลกสกุลเงิน
-8508	Expires in ${1} hr.	หมดอายุใน${1}ชม.
-8509	Default Chat Bubble	ฟองแชทเริ่มต้น
+8495	Career Total Points	Career Total Points
+8496	Beginner's Handbook	Beginner's Handbook
+8497	Reinforcement level	Reinforcement level
+8498	Left Accessory Slot	Left Accessory Slot
+8499	Guild Member Search	Guild Member Search
+8500	Invite Guild Member	Invite Guild Member
+8501	Banish Guild Member	Banish Guild Member
+8502	Manage Guild Elites	Manage Guild Elites
+8503	Add Friend/Unfriend	Add Friend/Unfriend
+8504	Gacha Master Toggle	Gacha Master Toggle
+8505	Nature God · Ilmata	Nature God · Ilmata
+8506	Festival Invitation	Festival Invitation
+8507	Currency Redemption	Currency Redemption
+8508	Expires in ${1} hr.	Expires in ${1} hr.
+8509	Default Chat Bubble	Default Chat Bubble
 8510	Refinement Material	Refinement Material
-8511	Recent Transactions	ธุรกรรมล่าสุด
-8512	Equipment Blueprint	พิมพ์เขียวอุปกรณ์
-8513	BASE EXP: ${1} /MAX	BASE EXP:${1}/MAX
-8514	JOB EXP: ${1} /${2}	ประสบการณ์งาน:${1}/${2}
-8515	You are the seller.	คุณคือผู้ขาย.
-8516	No items available.	ไม่มีสินค้า
-8517	Ripe Fruit Emblem I	สัญลักษณ์ผลไม้สุก I
-8518	Battle for Prontera	การต่อสู้เพื่อพรอนเทรา
-8519	Novice Monthly Pass	บัตรผ่านรายเดือนสำหรับมือใหม่
-8520	${1} days remaining	เหลืออีก${1}วัน
-8521	${1} min. remaining	${1}ขั้นต่ำ ที่เหลืออยู่
-8522	No matching results	ไม่มีผลลัพธ์ที่ตรงกัน
-8523	New Season Arrivals	สินค้ามาถึงซีซั่นใหม่
+8511	Recent Transactions	Recent Transactions
+8512	Equipment Blueprint	Equipment Blueprint
+8513	BASE EXP: ${1} /MAX	BASE EXP: ${1} /MAX
+8514	JOB EXP: ${1} /${2}	JOB EXP: ${1} /${2}
+8515	You are the seller.	You are the seller.
+8516	No items available.	No items available.
+8517	Ripe Fruit Emblem I	Ripe Fruit Emblem I
+8518	Battle for Prontera	Battle for Prontera
+8519	Novice Monthly Pass	Novice Monthly Pass
+8520	${1} days remaining	${1} days remaining
+8521	${1} min. remaining	${1} min. remaining
+8522	No matching results	No matching results
+8523	New Season Arrivals	New Season Arrivals
 8524	Awaiting payment...	Awaiting payment...
-8525	Group chat settings	การตั้งค่าการแชทเป็นกลุ่ม
-8526	Tap to edit members	แตะเพื่อแก้ไขสมาชิก
-8527	Send Friend Request	ส่งคำขอเป็นเพื่อน
-8528	Popularity Rankings	อันดับความนิยม
-8529	No gift history yet	ยังไม่มีประวัติของขวัญ
-8530	Recommended Friends	แนะนำเพื่อน
-8531	Daily Tavern Quests	ภารกิจ Tavern รายวัน
-8532	Party request sent.	แล้ว
-8533	Transfer Leadership	โอนความเป็นผู้นำ
-8534	Gather Raid Members	รวบรวมสมาชิก Raid
-8535	Recommended Players	ผู้เล่นที่แนะนำ
-8536	Party Notifications	การแจ้งเตือนปาร์ตี้
-8537	Up to 20 characters	สูงสุด 20 อักขระ
-8538	Follow Raid Leader?	ติดตามหัวหน้าหน่วยจู่โจม?
-8539	${1} left the party	${1}ออกจากปาร์ตี้
-8540	Voice Status Notice	ประกาศสถานะเสียง
-8541	Rookie Scholar-@{1}	นักวิชาการมือใหม่-@{1}
-8542	Already on the map.	บนแผนที่แล้ว
-8543	Destroy Supply Cart	ทำลายรถเข็นซัพพลาย
-8544	Revive ${1} Players	ฟื้นคืนชีพผู้เล่น${1}
-8545	Clear Valhalla ${1}	เคลียร์ Valhalla${1}
-8546	Creation Successful	สำเร็จแล้ว
-8547	Impeachment Process	ข้อกำหนดในการฟ้องร้อง
-8548	Invalid share text.	ข้อความแชร์ไม่ถูกต้อง
-8549	Show Only My Events	แสดงเฉพาะกิจกรรมของฉัน
-8550	${1}: Level too low	${1}: ระดับต่ำเกินไป
-8551	Confirm Appointment	ยืนยันการนัดหมาย
-8552	Position Permission	การอนุญาตตำแหน่ง
-8553	${1} helped load it	${1}ช่วยโหลดครับ
-8554	Cancel Help Request	ยกเลิกคำขอความช่วยเหลือ
-8555	This is a test note	นี่คือบันทึกทดสอบ
+8525	Group chat settings	Group chat settings
+8526	Tap to edit members	Tap to edit members
+8527	Send Friend Request	Send Friend Request
+8528	Popularity Rankings	Popularity Rankings
+8529	No gift history yet	No gift history yet
+8530	Recommended Friends	Recommended Friends
+8531	Daily Tavern Quests	Daily Tavern Quests
+8532	Party request sent.	Party request sent.
+8533	Transfer Leadership	Transfer Leadership
+8534	Gather Raid Members	Gather Raid Members
+8535	Recommended Players	Recommended Players
+8536	Party Notifications	Party Notifications
+8537	Up to 20 characters	Up to 20 characters
+8538	Follow Raid Leader?	Follow Raid Leader?
+8539	${1} left the party	${1} left the party
+8540	Voice Status Notice	Voice Status Notice
+8541	Rookie Scholar-@{1}	Rookie Scholar-@{1}
+8542	Already on the map.	Already on the map.
+8543	Destroy Supply Cart	Destroy Supply Cart
+8544	Revive ${1} Players	Revive ${1} Players
+8545	Clear Valhalla ${1}	Clear Valhalla ${1}
+8546	Creation Successful	Creation Successful
+8547	Impeachment Process	Impeachment Process
+8548	Invalid share text.	Invalid share text.
+8549	Show Only My Events	Show Only My Events
+8550	${1}: Level too low	${1}: Level too low
+8551	Confirm Appointment	Confirm Appointment
+8552	Position Permission	Position Permission
+8553	${1} helped load it	${1} helped load it
+8554	Cancel Help Request	Cancel Help Request
+8555	This is a test note	This is a test note
 8556	Prontera North Gate	Prontera North Gate
 8557	Rainbow Koi Dungeon	Rainbow Koi Dungeon
 8558	Underground Kingdom	Underground Kingdom
 8559	Seal Defense Battle	Seal Defense Battle
 8560	Wailing Tidal Flats	Wailing Tidal Flats
 8561	Card: Thief Bug Egg	Card: Thief Bug Egg
-8562	First Strike Reward	รางวัลการโจมตีครั้งแรก
-8563	Respawns after ${1}	Respawns หลังจาก${1}
+8562	First Strike Reward	First Strike Reward
+8563	Respawns after ${1}	Respawns after ${1}
 8564	Card: Marine Sphere	Card: Marine Sphere
 8565	Sketch Card: Osiris	Sketch Card: Osiris
 8566	Sketch Card: Kraken	Sketch Card: Kraken
@@ -574,8 +574,8 @@
 8573	Shadow Card: Kraken	Shadow Card: Kraken
 8574	Shadow Card: Osiris	Shadow Card: Osiris
 8575	Card: Goblin Leader	Card: Goblin Leader
-8576	Event Not Available	กิจกรรมไม่พร้อมใช้งาน
-8577	Appearance mismatch	ลักษณะที่ปรากฏไม่ตรงกัน
+8576	Event Not Available	Event Not Available
+8577	Appearance mismatch	Appearance mismatch
 8578	Holy damage +${1}%.	ความเสียหายอันศักดิ์สิทธิ์ +${1}%
 8579	Equipment Drop Test	การทดสอบการตกของอุปกรณ์
 8580	Transform: Poporing	การแปลง: กำลังขยาย
@@ -594,11 +594,11 @@
 8593	Maximum Over Thrust	Maximum Over Thrust
 8594	Emergency Treatment	Emergency Treatment
 8595	Recoil Auto Counter	Recoil Auto Counter
-8596	Display Skill Range	แสดงช่วงทักษะ
+8596	Display Skill Range	Display Skill Range
 8597	Attack While Moving	Attack While Moving
-8598	Chase Locked Target	ไล่ล่าล็อคเป้าหมาย
-8599	Name Color Settings	ชื่อการตั้งค่าสี
-8600	Mouse Left Tap Drag	ลาก Mouse แตะซ้าย
+8598	Chase Locked Target	Chase Locked Target
+8599	Name Color Settings	Name Color Settings
+8600	Mouse Left Tap Drag	Mouse Left Tap Drag
 8601	Viscous Machine Oil	Viscous Machine Oil
 8602	Skill@{1}Horn Laser	Skill@{1}Horn Laser
 8603	Clone Normal Attack	Clone Normal Attack
@@ -619,14 +619,14 @@
 8618	Scythe Sweep Attack	Scythe Sweep Attack
 8619	Brutal Sweep Attack	Brutal Sweep Attack
 8620	Brute Force Rupture	Brute Force Rupture
-8621	Victory Points ${1}	แต้มชัยชนะ${1}
-8622	Total limit reached	ถึงขีดจำกัดทั้งหมดแล้ว
+8621	Victory Points ${1}	Victory Points ${1}
+8622	Total limit reached	Total limit reached
 8623	Spectral Protection	Spectral Protection
 8624	Farsight Revelation	Farsight Revelation
 8625	Fire Ninja Darkness	Fire Ninja Darkness
-8626	Existing Characters	ตัวละครที่มีอยู่
-8627	Sign in with Google	ลงชื่อเข้าใช้ด้วย Google
-8628	Cross-Server Season	ฤดูกาลข้ามเซิร์ฟเวอร์
+8626	Existing Characters	Existing Characters
+8627	Sign in with Google	Sign in with Google
+8628	Cross-Server Season	Cross-Server Season
 8629	Drake Normal Attack	Drake Normal Attack
 8630	Falling Beehive@{1}	Falling Beehive@{1}
 8631	Link Distance Check	Link Distance Check
@@ -657,18 +657,18 @@
 8656	Speed Boost Trigger	Speed Boost Trigger
 8657	Spreading Shockwave	Spreading Shockwave
 8658	Magic Reverberation	Magic Reverberation
-8659	Battlefield Command	คำสั่งสนามรบ
-8660	Attempt Restriction	การจำกัดความพยายาม
-8661	Underground Culvert	Culvert ใต้ดิน
+8659	Battlefield Command	Battlefield Command
+8660	Attempt Restriction	Attempt Restriction
+8661	Underground Culvert	Underground Culvert
 8662	Shipwreck Labyrinth	Shipwreck Labyrinth
-8663	Advanced Second Job	งานที่สองขั้นสูง
-8664	Deals Magic damage.	สร้างความเสียหายเวทย์
-8665	Reach Base Lv. ${1}	การเข้าถึงฐาน Lv.${1}
-8666	Finale: Party's End	ตอนจบ: จุดจบของปาร์ตี้
-8667	Animal World Script	สคริปต์สัตว์โลก
-8668	Report Description:	คำอธิบายรายงาน:
-8669	Channel Description	คำอธิบายช่อง
-8670	Repeat item entered	ป้อนรายการซ้ำ
+8663	Advanced Second Job	Advanced Second Job
+8664	Deals Magic damage.	Deals Magic damage.
+8665	Reach Base Lv. ${1}	Reach Base Lv. ${1}
+8666	Finale: Party's End	Finale: Party's End
+8667	Animal World Script	Animal World Script
+8668	Report Description:	Report Description:
+8669	Channel Description	Channel Description
+8670	Repeat item entered	Repeat item entered
 8671	Steel Shield Knight	Steel Shield Knight
 8672	Blazing Fire Dragon	Blazing Fire Dragon
 8673	Dragon Scale Shield	Dragon Scale Shield
@@ -688,8 +688,8 @@
 8687	Shady-Looking Youth	Shady-Looking Youth
 8688	Makeup Exam Student	Makeup Exam Student
 8689	Gangster An Old Man	Gangster An Old Man
-8690	No Quests Available	ไม่มีภารกิจ
-8691	[${1}] Quest Failed	[${1}] ภารกิจล้มเหลว
+8690	No Quests Available	No Quests Available
+8691	[${1}] Quest Failed	[${1}] Quest Failed
 8692	Prontera South Gate	Prontera South Gate
 8693	Territory War - Six	Territory War - Six
 8694	Territory War - Ten	Territory War - Ten
@@ -701,176 +701,176 @@
 8700	Advanced Head Crush	Advanced Head Crush
 8701	Holy Light Corridor	Holy Light Corridor
 8702	Friendly Test Dummy	Friendly Test Dummy
-8703	Field Investigation	แผนที่ฟิลด์
-8704	Current Difficulty:	ความยากในปัจจุบัน:
-8705	Deployed Companions	เพื่อนที่ปรับใช้
-8706	First Clear Rewards	รางวัลเคลียร์ครั้งแรก
-8707	First Clear Players	ผู้เล่นที่ชัดเจนครั้งแรก
-8708	Recommended Monster	มอนสเตอร์ที่แนะนำ
-8709	Return to Adventure	หวนคืนสู่การผจญภัย
+8703	Field Investigation	Field Investigation
+8704	Current Difficulty:	Current Difficulty:
+8705	Deployed Companions	Deployed Companions
+8706	First Clear Rewards	First Clear Rewards
+8707	First Clear Players	First Clear Players
+8708	Recommended Monster	Recommended Monster
+8709	Return to Adventure	Return to Adventure
 8710	Auto-Battle Rewards	Auto-Battle Rewards
-8711	Daily Monster Kills	สังหารมอนสเตอร์รายวัน
-8712	Advanced Adventurer	Adventurer ขั้นสูง
-8713	Remove All Listings	Remove รายการทั้งหมด
-8714	Attempts: ${1}/${2}	:${1}/${2}
-8715	DMG vs Wind Enemies	DMG กับศัตรูลม
-8716	DMG vs Fire Enemies	DMG กับศัตรูไฟ
-8717	DMG vs Holy Enemies	DMG กับศัตรูศักดิ์สิทธิ์
-8718	Damage to Fish Race	สร้างความเสียหายให้กับการแข่งขันปลา
-8719	Event Calendar Help	ความช่วยเหลือเกี่ยวกับปฏิทินกิจกรรม
-8720	Opens ${1}${2}-${3}	Opens${1}${2}-${3}
-8721	Defeat all monsters	กำจัดสัตว์ประหลาดทั้งหมด
-8722	Battle Preparations	การเตรียมการรบ
-8723	Effective Duration:	ระยะเวลาที่มีผลบังคับใช้:
-8724	Position Management	การจัดการตำแหน่ง
-8725	Unlocks at Lv. ${1}	ปลดล็อคที่ Lv.${1}
-8726	Remove all players?	Remove ผู้เล่นทั้งหมดหรือไม่
-8727	All players invited	ขอเชิญชวนผู้เล่นทุกท่าน
-8728	Enter a Member name	กรอกชื่อสมาชิก
-8729	Weekly Contribution	การบริจาครายสัปดาห์
-8730	Only show my events	แสดงเฉพาะกิจกรรมของฉัน
-8731	Minimum Join Level:	ระดับการเข้าร่วมขั้นต่ำ:
-8732	Pet Metric - Deploy	Pet Metric - ปรับใช้
+8711	Daily Monster Kills	Daily Monster Kills
+8712	Advanced Adventurer	Advanced Adventurer
+8713	Remove All Listings	Remove All Listings
+8714	Attempts: ${1}/${2}	Attempts: ${1}/${2}
+8715	DMG vs Wind Enemies	DMG vs Wind Enemies
+8716	DMG vs Fire Enemies	DMG vs Fire Enemies
+8717	DMG vs Holy Enemies	DMG vs Holy Enemies
+8718	Damage to Fish Race	Damage to Fish Race
+8719	Event Calendar Help	Event Calendar Help
+8720	Opens ${1}${2}-${3}	Opens ${1}${2}-${3}
+8721	Defeat all monsters	Defeat all monsters
+8722	Battle Preparations	Battle Preparations
+8723	Effective Duration:	Effective Duration:
+8724	Position Management	Position Management
+8725	Unlocks at Lv. ${1}	Unlocks at Lv. ${1}
+8726	Remove all players?	Remove all players?
+8727	All players invited	All players invited
+8728	Enter a Member name	Enter a Member name
+8729	Weekly Contribution	Weekly Contribution
+8730	Only show my events	Only show my events
+8731	Minimum Join Level:	Minimum Join Level:
+8732	Pet Metric - Deploy	Pet Metric - Deploy
 8733	Pet Metric - Assist	Pet Metric - Assist
-8734	Find the Instructor	ค้นหาผู้สอน
-8735	Book of Job Advance	หนังสืองานล่วงหน้า
-8736	Meet the Eden Group	พบกับกลุ่มอีเดน
-8737	Alternate Dimension	มิติทางเลือก
-8738	Traces of the Relic	ร่องรอยของโบราณวัตถุ
-8739	Farewell, Professor	ลาก่อน Professor
-8740	The Crisis Subsides	วิกฤตคลี่คลายแล้ว
-8741	Clear Ant Cave @{1}	ถ้ำมดใส@{1}
-8742	Clear Orc Cave @{1}	เคลียร์ Orc Cave@{1}
-8743	The Professor's Pet	สัตว์เลี้ยงของ Professor
+8734	Find the Instructor	Find the Instructor
+8735	Book of Job Advance	Book of Job Advance
+8736	Meet the Eden Group	Meet the Eden Group
+8737	Alternate Dimension	Alternate Dimension
+8738	Traces of the Relic	Traces of the Relic
+8739	Farewell, Professor	Farewell, Professor
+8740	The Crisis Subsides	The Crisis Subsides
+8741	Clear Ant Cave @{1}	Clear Ant Cave @{1}
+8742	Clear Orc Cave @{1}	Clear Orc Cave @{1}
+8743	The Professor's Pet	The Professor's Pet
 8744	Cleaver's Testimony	Cleaver's Testimony
-8745	Falling into a Trap	ตกหลุมพราง
-8746	The Faceless Singer	Singer ไร้หน้า
-8747	Convenient Supplies	อุปกรณ์อำนวยความสะดวก
-8748	Companion's Summons	คำเชิญของสหาย
-8749	Pet Tower Challenge	ความท้าทายหอคอยสัตว์เลี้ยง
-8750	Open Dialogue Image	Open รูปภาพบทสนทนา
-8751	The Gathering Crowd	ฝูงชนที่มารวมตัวกัน
-8752	First Trial—Set Out	การทดลองครั้งแรก - ออกเดินทาง
-8753	Time to Job Advance	ถึงเวลาเลื่อนงานแล้ว
-8754	Find the Snake Eggs	ค้นหาไข่งู
-8755	Beast of the Forest	สัตว์ร้ายแห่งป่า
-8756	Precious Tiger Pelt	Tiger Pelt ล้ำค่า
-8757	Clear Out the Pests	กำจัดสัตว์รบกวน
-8758	Primary Battle Slot	สล็อตการต่อสู้หลัก
-8759	Lineup Stat Bonuses	โบนัสสถิติผู้เล่นตัวจริง
-8760	Stat Bonus Overview	ภาพรวมโบนัสสถิติ
-8761	Core Passive Effect	เอฟเฟกต์คอร์แบบ Passive
-8762	Current Hatch Ended	ฟักปัจจุบันสิ้นสุดแล้ว
-8763	Pet Follow unlocked	สัตว์เลี้ยงติดตามปลดล็อค
-8764	${1} Quality Chance	โอกาสด้านคุณภาพ${1}
-8765	Chance-Boosted Pets	สัตว์เลี้ยงที่เพิ่มโอกาส
-8766	Play Once per Login	เล่นหนึ่งครั้งต่อการเข้าสู่ระบบ
-8767	Clear the Wildlands	เคลียร์ดินแดนรกร้าง
-8768	Clear the Dark Land	เคลียร์ดินแดนแห่งความมืด
-8769	Tap here, tap here!	แตะที่นี่ แตะที่นี่!
-8770	Tap here! Tap here!	แตะที่นี่! แตะที่นี่!
-8771	Now let's take off~	เอาล่ะ ออกเดินทางกันเลย~
-8772	Click Monster Hunt.	คลิกล่าสัตว์ประหลาด
-8773	Job Advance Preview	ดูตัวอย่างงานล่วงหน้า
-8774	Defeat the monster.	กำจัดสัตว์ประหลาด
-8775	^{1}Defeat Maya^{2}	^{1}เอาชนะ Maya^{2}
-8776	Talk to the captain	คุยกับกัปตัน
-8777	Transition Dialogue	บทสนทนาการเปลี่ยนแปลง
-8778	Branch Dialogue@{1}	บทสนทนาสาขา@{1}
-8779	All right, goodbye!	เอาละ ลาก่อน!
-8780	Please teleport me.	กรุณาเทเลพอร์ตฉันด้วย
-8781	Start Catching Rats	เริ่มจับหนู
-8782	I'm not interested.	ฉันไม่สนใจ
-8783	All titles obtained	ชื่อทั้งหมดที่ได้รับ
-8784	Accept Supply Wagon	ยอมรับการจัดหาเกวียน
-8785	Are you badly hurt?	เจ็บหนักมั้ย?
-8786	Can I really do it?	ทำได้จริงเหรอ?
-8787	Challenge Next Boss	ท้าทายบอสคนต่อไป
-8788	Players in Instance	ในอินสแตนซ์
-8789	Confirm Stage Reset	ยืนยันการรีเซ็ตสเตจ
-8790	Life Skill Overview	ภาพรวมทักษะ Life
-8791	Minigame triggered!	มินิเกมเริ่มทำงาน!
-8792	Third-Prize Winners	ผู้ชนะรางวัลที่สาม
-8793	First Prize Winners	ผู้ถูกรางวัลที่หนึ่ง
-8794	Synthesis Materials	ผลการสังเคราะห์
-8795	Combine & Dismantle	รวมและรื้อถอน
-8796	Ticker message test	การทดสอบข้อความทิกเกอร์
-8797	Wind's Departure II	การออกเดินทางของสายลม II
-8798	Wind's Departure IV	การออกเดินทางของลม IV
-8799	Cloud's Splendor II	ความงดงามของคลาวด์ II
-8800	Cloud's Splendor IV	ความสง่างามของเมฆ IV
-8801	Bobo\nWhere are we?	โบโบ\n เราอยู่ที่ไหน?
-8802	Unused Skill Points	คะแนนทักษะที่ไม่ได้ใช้
-8803	Choose How to Begin	เลือกวิธีการเริ่มต้น
-8804	Week ${1} ${2}-${3}	สัปดาห์${1}${2}-${3}
-8805	Pre-purchase Notice	ประกาศการซื้อล่วงหน้า
-8806	Cancel Pre-purchase	ยกเลิกการซื้อล่วงหน้า
-8807	Modify Pre-purchase	แก้ไขการซื้อล่วงหน้า
+8745	Falling into a Trap	Falling into a Trap
+8746	The Faceless Singer	The Faceless Singer
+8747	Convenient Supplies	Convenient Supplies
+8748	Companion's Summons	Companion's Summons
+8749	Pet Tower Challenge	Pet Tower Challenge
+8750	Open Dialogue Image	Open Dialogue Image
+8751	The Gathering Crowd	The Gathering Crowd
+8752	First Trial—Set Out	First Trial—Set Out
+8753	Time to Job Advance	Time to Job Advance
+8754	Find the Snake Eggs	Find the Snake Eggs
+8755	Beast of the Forest	Beast of the Forest
+8756	Precious Tiger Pelt	Precious Tiger Pelt
+8757	Clear Out the Pests	Clear Out the Pests
+8758	Primary Battle Slot	Primary Battle Slot
+8759	Lineup Stat Bonuses	Lineup Stat Bonuses
+8760	Stat Bonus Overview	Stat Bonus Overview
+8761	Core Passive Effect	Core Passive Effect
+8762	Current Hatch Ended	Current Hatch Ended
+8763	Pet Follow unlocked	Pet Follow unlocked
+8764	${1} Quality Chance	${1} Quality Chance
+8765	Chance-Boosted Pets	Chance-Boosted Pets
+8766	Play Once per Login	Play Once per Login
+8767	Clear the Wildlands	Clear the Wildlands
+8768	Clear the Dark Land	Clear the Dark Land
+8769	Tap here, tap here!	Tap here, tap here!
+8770	Tap here! Tap here!	Tap here! Tap here!
+8771	Now let's take off~	Now let's take off~
+8772	Click Monster Hunt.	Click Monster Hunt.
+8773	Job Advance Preview	Job Advance Preview
+8774	Defeat the monster.	Defeat the monster.
+8775	^{1}Defeat Maya^{2}	^{1}Defeat Maya^{2}
+8776	Talk to the captain	Talk to the captain
+8777	Transition Dialogue	Transition Dialogue
+8778	Branch Dialogue@{1}	Branch Dialogue@{1}
+8779	All right, goodbye!	All right, goodbye!
+8780	Please teleport me.	Please teleport me.
+8781	Start Catching Rats	Start Catching Rats
+8782	I'm not interested.	I'm not interested.
+8783	All titles obtained	All titles obtained
+8784	Accept Supply Wagon	Accept Supply Wagon
+8785	Are you badly hurt?	Are you badly hurt?
+8786	Can I really do it?	Can I really do it?
+8787	Challenge Next Boss	Challenge Next Boss
+8788	Players in Instance	Players in Instance
+8789	Confirm Stage Reset	Confirm Stage Reset
+8790	Life Skill Overview	Life Skill Overview
+8791	Minigame triggered!	Minigame triggered!
+8792	Third-Prize Winners	Third-Prize Winners
+8793	First Prize Winners	First Prize Winners
+8794	Synthesis Materials	Synthesis Materials
+8795	Combine & Dismantle	Combine & Dismantle
+8796	Ticker message test	Ticker message test
+8797	Wind's Departure II	Wind's Departure II
+8798	Wind's Departure IV	Wind's Departure IV
+8799	Cloud's Splendor II	Cloud's Splendor II
+8800	Cloud's Splendor IV	Cloud's Splendor IV
+8801	Bobo\nWhere are we?	Bobo\nWhere are we?
+8802	Unused Skill Points	Unused Skill Points
+8803	Choose How to Begin	Choose How to Begin
+8804	Week ${1} ${2}-${3}	Week ${1} ${2}-${3}
+8805	Pre-purchase Notice	Pre-purchase Notice
+8806	Cancel Pre-purchase	Cancel Pre-purchase
+8807	Modify Pre-purchase	Modify Pre-purchase
 8808	Applying Attributes	Applying Attributes
-8809	Near the Fire Point	ใกล้จุดไฟ
-8810	Local Server League	ลีกเซิร์ฟเวอร์ท้องถิ่น
-8811	Group Division:${1}	:${1}
-8812	Rank Among the Best	อยู่ในอันดับที่ดีที่สุด
-8813	Codex Stat Overview	Codex
-8814	Placement Criteria:	เกณฑ์การจัดตำแหน่ง:
-8815	Battleground Rating	เรตติ้งสมรภูมิ
-8816	Decorative Stickers	สติ๊กเกอร์ตกแต่ง
-8817	Monster Hunt Points	คะแนนล่ามอนสเตอร์
-8818	Appearance Gift Box	Box ของขวัญลักษณะที่ปรากฏ
-8819	Appraisal Materials	วัสดุการประเมิน
-8820	CRIT DMG increased.	CRIT DMG เพิ่มขึ้น
-8821	Healing Enhancement	การเพิ่มประสิทธิภาพการรักษา
-8822	In-Match Build Item	รายการบิลด์ระหว่างการแข่งขัน
-8823	Processed Materials	วัสดุแปรรูป
-8824	Composite Materials	วัสดุคอมโพสิต
-8825	Kafra's Tribute@{1}	คำไว้อาลัยของ Kafra@{1}
-8826	Looking for a Carry	กำลังมองหากระเป๋าถือ
-8827	Active Chatterboxes	Chatterboxes ที่ใช้งานอยู่
-8828	Twilight Rhapsody	Twilight แรปโซดี
-8829	Death of the Prince	การสิ้นพระชนม์ของเจ้าชาย
+8809	Near the Fire Point	Near the Fire Point
+8810	Local Server League	Local Server League
+8811	Group Division:${1}	Group Division:${1}
+8812	Rank Among the Best	Rank Among the Best
+8813	Codex Stat Overview	Codex Stat Overview
+8814	Placement Criteria:	Placement Criteria:
+8815	Battleground Rating	Battleground Rating
+8816	Decorative Stickers	Decorative Stickers
+8817	Monster Hunt Points	Monster Hunt Points
+8818	Appearance Gift Box	Appearance Gift Box
+8819	Appraisal Materials	Appraisal Materials
+8820	CRIT DMG increased.	CRIT DMG increased.
+8821	Healing Enhancement	Healing Enhancement
+8822	In-Match Build Item	In-Match Build Item
+8823	Processed Materials	Processed Materials
+8824	Composite Materials	Composite Materials
+8825	Kafra's Tribute@{1}	Kafra's Tribute@{1}
+8826	Looking for a Carry	Looking for a Carry
+8827	Active Chatterboxes	Active Chatterboxes
+8828	Twilight Rhapsody	Twilight Rhapsody
+8829	Death of the Prince	Death of the Prince
 8830	Stigma (Deprecated)	Stigma (Deprecated)
-8831	Enhanced Bow Attack	การโจมตีด้วยธนูที่ปรับปรุงแล้ว
+8831	Enhanced Bow Attack	Enhanced Bow Attack
 8832	Intense Telekinesis	Intense Telekinesis
 8833	Dragonkin Sacrifice	Dragonkin Sacrifice
 8834	Young Dragon Charge	Young Dragon Charge
 8835	Bone-Chilling Frost	Bone-Chilling Frost
 8836	Kun Suck In Players	Kun Suck In Players
 8837	Eddga Normal Attack	Eddga Normal Attack
-8838	Dragonblood Crystal	คริสตัลเลือดมังกร
-8839	Appreciate the Arts	ชื่นชมศิลปะ
-8840	Dress Up for a Date	แต่งตัวไปเดท
-8841	Travel with Friends	เที่ยวกับเพื่อน
-8842	Mute When Minimized	ปิดเสียงเมื่อย่อเล็กสุด
+8838	Dragonblood Crystal	Dragonblood Crystal
+8839	Appreciate the Arts	Appreciate the Arts
+8840	Dress Up for a Date	Dress Up for a Date
+8841	Travel with Friends	Travel with Friends
+8842	Mute When Minimized	Mute When Minimized
 8843	Solid Wood Pin Mold	Solid Wood Pin Mold
 8844	Silk Footwear Blank	Silk Footwear Blank
-8845	Rent a Demonic Wolf	เช่า Wolf ปีศาจ
-8846	All That Is Unknown	ทุกสิ่งที่ไม่รู้จัก
-8847	An Unsolved Mystery	ความลึกลับที่ยังไม่คลี่คลาย
-8848	Continue the Search	ค้นหาต่อ
-8849	An Unusual Incident	เหตุการณ์ที่ผิดปกติ
-8850	The Covert Entrance	ทางเข้าแอบแฝง
-8851	Press On and Search	กดเปิดและค้นหา
-8852	Deep in the Culvert	ลึกลงไปใน Culvert
-8853	Explore the Culvert	สำรวจ Culvert
-8854	Head to the Culvert	มุ่งหน้าไปยัง Culvert
-8855	Quests Accomplished	สำเร็จแล้ว
-8856	Bonds of Friendship	พันธบัตรแห่งมิตรภาพ
-8857	^{1}Earn Praise^{2}	^{1}รับคำชม^{2}
-8858	^{1}Earn Points^{2}	^{1}รับคะแนน^{2}
-8859	Appearance Rankings	อันดับรูปลักษณ์
+8845	Rent a Demonic Wolf	Rent a Demonic Wolf
+8846	All That Is Unknown	All That Is Unknown
+8847	An Unsolved Mystery	An Unsolved Mystery
+8848	Continue the Search	Continue the Search
+8849	An Unusual Incident	An Unusual Incident
+8850	The Covert Entrance	The Covert Entrance
+8851	Press On and Search	Press On and Search
+8852	Deep in the Culvert	Deep in the Culvert
+8853	Explore the Culvert	Explore the Culvert
+8854	Head to the Culvert	Head to the Culvert
+8855	Quests Accomplished	Quests Accomplished
+8856	Bonds of Friendship	Bonds of Friendship
+8857	^{1}Earn Praise^{2}	^{1}Earn Praise^{2}
+8858	^{1}Earn Points^{2}	^{1}Earn Points^{2}
+8859	Appearance Rankings	Appearance Rankings
 8860	Arcane Power - Blue	Arcane Power - Blue
-8861	Oak's Power - Green	โอ๊คพาวเวอร์ - สีเขียว
-8862	Cow Cow Cow Cow Cow	วัว วัว วัว วัว วัว
+8861	Oak's Power - Green	Oak's Power - Green
+8862	Cow Cow Cow Cow Cow	Cow Cow Cow Cow Cow
 8863	PATCH_NOT_WIFI_TIPS	PATCH_NOT_WIFI_TIPS
-8864	Accumulated Rewards	รางวัลสะสม
+8864	Accumulated Rewards	Accumulated Rewards
 8865	A scarf-like cloak.	เสื้อคลุมที่มีลักษณะคล้ายผ้าพันคอ
-8866	Spacetime Star Ring	แหวนดาวกาลอวกาศ
+8866	Spacetime Star Ring	Spacetime Star Ring
 8867	A large, heavy axe.	ขวานขนาดใหญ่และหนัก
-8868	A Rest in the Shade	การพักผ่อนในที่ร่ม
-8869	A Stall by the Wall	แผงลอยข้างกำแพง
+8868	A Rest in the Shade	A Rest in the Shade
+8869	A Stall by the Wall	A Stall by the Wall
 8870	Endless Golden Ring	Endless Golden Ring
 8871	Mead of Inspiration	Mead of Inspiration
-8872	No Totems Available	ไม่มีโทเท็มจำหน่าย
+8872	No Totems Available	No Totems Available
 8873	Melee Amplification	Melee Amplification
 8874	Magic Amplification	Magic Amplification
 8875	Physical Damage Cap	Physical Damage Cap
@@ -885,17 +885,17 @@
 8884	Chapter 2 of a Book	Chapter 2 of a Book
 8885	Pompadour - Limited	Pompadour - Limited
 8886	Daily Activity Pack	Daily Activity Pack
-8887	Continue Enchanting	ร่ายมนตร์ต่อไป
-8888	Obtain Treasure Map	รับแผนที่สมบัติ
-8889	Go Treasure Hunting	ไปล่าสมบัติ
-8890	Archbishop Portrait	ภาพเหมือนของอัครสังฆราช
-8891	Blacksmith Portrait	ภาพเหมือนของช่างตีเหล็ก
+8887	Continue Enchanting	Continue Enchanting
+8888	Obtain Treasure Map	Obtain Treasure Map
+8889	Go Treasure Hunting	Go Treasure Hunting
+8890	Archbishop Portrait	Archbishop Portrait
+8891	Blacksmith Portrait	Blacksmith Portrait
 8892	Luminous Gold Blade	Luminous Gold Blade
 8893	Luminous Gold Ingot	Luminous Gold Ingot
 8894	Tier @{1} Equipment	Tier @{1} Equipment
 8895	Moss-Covered Tissue	Moss-Covered Tissue
 8896	Grain of Giant Salt	Grain of Giant Salt
-8897	Unlocked by Default	ปลดล็อคโดยค่าเริ่มต้น
+8897	Unlocked by Default	Unlocked by Default
 8898	Sun Star Core - Red	Sun Star Core - Red
 8899	Basic Forging Totem	Basic Forging Totem
 8900	Starlight Silk VIII	Starlight Silk VIII
@@ -910,92 +910,92 @@
 8909	Novice Knight Spear	Novice Knight Spear
 8910	Double-Edged Dagger	Double-Edged Dagger
 8911	Two-Tone - Blue/Red	Two-Tone - Blue/Red
-8912	Title Level too low	ระดับหัวเรื่องต่ำเกินไป
-8913	Allocate Job Points	จัดสรรคะแนนงาน
-8914	Login not completed	การเข้าสู่ระบบไม่เสร็จสมบูรณ์
+8912	Title Level too low	Title Level too low
+8913	Allocate Job Points	Allocate Job Points
+8914	Login not completed	Login not completed
 8915	Card: Ancient Mummy	Card: Ancient Mummy
 8916	Card: Peco Peco Egg	Card: Peco Peco Egg
-8917	Leaderboard Details	รายละเอียดลีดเดอร์บอร์ด
-8918	Bonus Point Details	บูท
-8919	Monster Codex Guide	Monster Codex
+8917	Leaderboard Details	Leaderboard Details
+8918	Bonus Point Details	Bonus Point Details
+8919	Monster Codex Guide	Monster Codex Guide
 8920	Auto-Revive Details	Auto-Revive Details
-8921	Waiting for Auction	รอประมูล
-8922	Reward Count Lookup	จำนวนรางวัล
-8923	Challenge Objective	วัตถุประสงค์การท้าทาย
-8924	Waiting for Bidding	รอการประมูล
-8925	Bid Item at Auction	รายการประมูลในการประมูล
-8926	Fixed price reached	ถึงราคาคงที่แล้ว
-8927	Attempt Calculation	การคำนวณความพยายาม
-8928	Gatherer's Treasure	สมบัติของผู้รวบรวม
-8929	Gold Rush Gathering	การรวมตัวตื่นทอง
-8930	Cost-Free Gathering	การรวบรวมโดยไม่มีค่าใช้จ่าย
-8931	Tenacious Gathering	การรวมตัวที่เหนียวแน่น
-8932	Resonant Sonic Wave	คลื่นเสียงสะท้อน
-8933	Rapid Sonic Strikes	การโจมตีด้วยโซนิคอย่างรวดเร็ว
-8934	Deep-Sea Ghost Ship	เรือผีทะเลน้ำลึก
-8935	Dream-Eater Prelude	Dream-Eater โหมโรง
+8921	Waiting for Auction	Waiting for Auction
+8922	Reward Count Lookup	Reward Count Lookup
+8923	Challenge Objective	Challenge Objective
+8924	Waiting for Bidding	Waiting for Bidding
+8925	Bid Item at Auction	Bid Item at Auction
+8926	Fixed price reached	Fixed price reached
+8927	Attempt Calculation	Attempt Calculation
+8928	Gatherer's Treasure	Gatherer's Treasure
+8929	Gold Rush Gathering	Gold Rush Gathering
+8930	Cost-Free Gathering	Cost-Free Gathering
+8931	Tenacious Gathering	Tenacious Gathering
+8932	Resonant Sonic Wave	Resonant Sonic Wave
+8933	Rapid Sonic Strikes	Rapid Sonic Strikes
+8934	Deep-Sea Ghost Ship	Deep-Sea Ghost Ship
+8935	Dream-Eater Prelude	Dream-Eater Prelude
 8936	Shield Bash Enhance	Shield Bash Enhance
 8937	Shield Auto Counter	Shield Auto Counter
-8938	Revive @{1} Players	ฟื้นคืนชีพผู้เล่น@{1}
-8939	Capture @{1} Points	จับคะแนน@{1}
-8940	AFK Recommendations	คำแนะนำของ AFK
-8941	Book Reward Preview	ดูตัวอย่างรางวัลหนังสือ
-8942	Collection Benefits	การ์ดคอลเลกชัน
-8943	No Matching Results	ไม่มีผลลัพธ์ที่ตรงกัน
+8938	Revive @{1} Players	Revive @{1} Players
+8939	Capture @{1} Points	Capture @{1} Points
+8940	AFK Recommendations	AFK Recommendations
+8941	Book Reward Preview	Book Reward Preview
+8942	Collection Benefits	Collection Benefits
+8943	No Matching Results	No Matching Results
 8944	Regeneration Potion	Regeneration Potion
-8945	Ethereal Dreamscape	ทิวทัศน์แห่งความฝันอันไร้ตัวตน
-8946	An Interesting Book	หนังสือน่าสนใจ
-8947	Basic Attack Damage	พลังโจมตีพื้นฐาน
-8948	Accelerating Impact	เร่งผลกระทบ
-8949	Enhance Shield Bash	เสริมเกราะ Bash
-8950	Cast Animation Time	เวลาแสดงภาพเคลื่อนไหว
-8951	Valkyrie's Blessing	Blessing ของวาลคิรี
-8952	First Blood Monster	มอนสเตอร์สีเลือดตัวแรก
+8945	Ethereal Dreamscape	Ethereal Dreamscape
+8946	An Interesting Book	An Interesting Book
+8947	Basic Attack Damage	Basic Attack Damage
+8948	Accelerating Impact	Accelerating Impact
+8949	Enhance Shield Bash	Enhance Shield Bash
+8950	Cast Animation Time	Cast Animation Time
+8951	Valkyrie's Blessing	Valkyrie's Blessing
+8952	First Blood Monster	First Blood Monster
 8953	Attack Orbit Effect	Attack Orbit Effect
-8954	Arcane Acceleration	Acceleration อันลึกลับ
-8955	BOSS Visual Effects	BOSS วิชวลเอฟเฟกต์
-8956	Debuff Display Area	พื้นที่แสดงผลดีบัฟ
-8957	Command Information	พื้นที่แสดงข้อมูลคำสั่ง
-8958	Misc Master Effects	เอฟเฟกต์มาสเตอร์อื่น ๆ
-8959	Endure (Deprecated)	Endure ทาน (เลิกใช้แล้ว)
-8960	Elena Bokba Passive	เอเลน่า บ็อกบา Passive
+8954	Arcane Acceleration	Arcane Acceleration
+8955	BOSS Visual Effects	BOSS Visual Effects
+8956	Debuff Display Area	Debuff Display Area
+8957	Command Information	Command Information
+8958	Misc Master Effects	Misc Master Effects
+8959	Endure (Deprecated)	Endure (Deprecated)
+8960	Elena Bokba Passive	Elena Bokba Passive
 8961	Sarah Irene Passive	Sarah Irene Passive
 8962	Lava Lizard Passive	Lava Lizard Passive
-8963	Defensive Vigilance	การเฝ้าระวังการป้องกัน
-8964	Low Drone Self Buff	บัฟโดรนตัวเองต่ำ
-8965	Blade Mark - ATK Up	เครื่องหมาย Blade - ATK Up
-8966	Reflect Damage Slow	Reflect DamageSlow
-8967	Switch King's Grace	สวิตซ์ King's Grace
-8968	Modify Shield Press	ปรับเปลี่ยนการกดโล่
-8969	Switch Shield Press	สวิตช์ Shield Press
-8970	Switch Moon Slasher	สวิตซ์ Moon Slasher
-8971	Psychic Orb-Counter	ลูกแก้วกายสิทธิ์เคาน์เตอร์
-8972	Replace Earth Drive	แทนที่ Earth Drive
-8973	Record Damage Dealt	บันทึกความเสียหายที่เกิดขึ้น
-8974	Reset Sonic Blow CD	รีเซ็ตซีดี Sonic Blow
-8975	Skill Slow Listener	ทักษะการฟังที่ Slow
-8976	Extreme Speed Boost	บูสต์ความเร็วขั้นสุดยอด
-8977	Cross Impact Effect	เอฟเฟกต์การกระแทกแบบข้าม
-8978	Black Phantom Timer	นาฬิกาจับเวลา Phantom Black
-8979	Defense Convergence	การบรรจบกันของการป้องกัน
-8980	Enter a tavern name	ป้อนชื่อโรงเตี๊ยม
-8981	Speaking Mode: ${1}	:${1}
-8982	Permission Settings	สิทธิ์
-8983	Complete Quest ${1}	ทำภารกิจให้สำเร็จ${1}
-8984	Use ${1} ${2} times	ใช้${1}${2}ครั้ง
-8985	Refine ${1} to ${2}	ปรับแต่ง${1}เป็น${2}
-8986	The Tavern is full.	Tavern เต็มแล้ว
-8987	Reach ${1} Activity	เข้าถึง Activity${1}
-8988	Hidden Realm Rules:	กฎอาณาจักรที่ซ่อนอยู่:
-8989	Class Role Overview	ภาพรวมบทบาทของชั้นเรียน
-8990	Proficiency Details	โปรไฟล์
-8991	Win/Loss Conditions	เงื่อนไขการชนะ/แพ้
-8992	Item cost overflow.	ต้นทุนสินค้าล้น
-8993	Totems do not match	ไม่ตรงกัน
-8994	Energy insufficient	พลังงานไม่เพียงพอ
-8995	Repeat Pre-purchase	ทำซ้ำการซื้อล่วงหน้า
-8996	DPS target not met.	DPS
-8997	Already in a plane.	ขึ้นเครื่องบินแล้ว
-8998	Select Upgrade Cost	เลือกต้นทุนการอัพเกรด
-8999	Adds a random affix	เพิ่มส่วนต่อท้ายแบบสุ่ม
-9000	Node does not exist	ไม่มีโหนด
+8963	Defensive Vigilance	Defensive Vigilance
+8964	Low Drone Self Buff	Low Drone Self Buff
+8965	Blade Mark - ATK Up	Blade Mark - ATK Up
+8966	Reflect Damage Slow	Reflect Damage Slow
+8967	Switch King's Grace	Switch King's Grace
+8968	Modify Shield Press	Modify Shield Press
+8969	Switch Shield Press	Switch Shield Press
+8970	Switch Moon Slasher	Switch Moon Slasher
+8971	Psychic Orb-Counter	Psychic Orb-Counter
+8972	Replace Earth Drive	Replace Earth Drive
+8973	Record Damage Dealt	Record Damage Dealt
+8974	Reset Sonic Blow CD	Reset Sonic Blow CD
+8975	Skill Slow Listener	Skill Slow Listener
+8976	Extreme Speed Boost	Extreme Speed Boost
+8977	Cross Impact Effect	Cross Impact Effect
+8978	Black Phantom Timer	Black Phantom Timer
+8979	Defense Convergence	Defense Convergence
+8980	Enter a tavern name	Enter a tavern name
+8981	Speaking Mode: ${1}	Speaking Mode: ${1}
+8982	Permission Settings	Permission Settings
+8983	Complete Quest ${1}	Complete Quest ${1}
+8984	Use ${1} ${2} times	Use ${1} ${2} times
+8985	Refine ${1} to ${2}	Refine ${1} to ${2}
+8986	The Tavern is full.	The Tavern is full.
+8987	Reach ${1} Activity	Reach ${1} Activity
+8988	Hidden Realm Rules:	Hidden Realm Rules:
+8989	Class Role Overview	Class Role Overview
+8990	Proficiency Details	Proficiency Details
+8991	Win/Loss Conditions	Win/Loss Conditions
+8992	Item cost overflow.	Item cost overflow.
+8993	Totems do not match	Totems do not match
+8994	Energy insufficient	Energy insufficient
+8995	Repeat Pre-purchase	Repeat Pre-purchase
+8996	DPS target not met.	DPS target not met.
+8997	Already in a plane.	Already in a plane.
+8998	Select Upgrade Cost	Select Upgrade Cost
+8999	Adds a random affix	Adds a random affix
+9000	Node does not exist	Node does not exist

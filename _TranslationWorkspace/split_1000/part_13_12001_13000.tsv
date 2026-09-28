@@ -2,15 +2,15 @@
 12001	Circular AoE-No Logic Yet	Circular AoE-No Logic Yet
 12002	Solace of Eternal Silence	Solace of Eternal Silence
 12003	Pirate King Normal Attack	Pirate King Normal Attack
-12004	Achievement Level Rewards	รางวัลระดับความสำเร็จ
-12005	S@{1} Large Card Pool@{2}	S@{1}การ์ดพูลขนาดใหญ่@{2}
-12006	S@{1} Small Card Pool@{2}	S@{1}พูลการ์ดขนาดเล็ก@{2}
-12007	Maximum quantity reached.	ถึงปริมาณสูงสุดแล้ว
-12008	Minimum quantity reached.	ถึงปริมาณขั้นต่ำแล้ว
-12009	Switched to Channel ${1}.	เปลี่ยนเป็นช่องสัญญาณ${1}
-12010	Mutually Exclusive Skills	ทักษะพิเศษร่วมกัน
-12011	Main Screen Chat Settings	การตั้งค่าแชทหน้าจอหลัก
-12012	Incorrect message channel	ช่องข้อความไม่ถูกต้อง
+12004	Achievement Level Rewards	Achievement Level Rewards
+12005	S@{1} Large Card Pool@{2}	S@{1} Large Card Pool@{2}
+12006	S@{1} Small Card Pool@{2}	S@{1} Small Card Pool@{2}
+12007	Maximum quantity reached.	Maximum quantity reached.
+12008	Minimum quantity reached.	Minimum quantity reached.
+12009	Switched to Channel ${1}.	Switched to Channel ${1}.
+12010	Mutually Exclusive Skills	Mutually Exclusive Skills
+12011	Main Screen Chat Settings	Main Screen Chat Settings
+12012	Incorrect message channel	Incorrect message channel
 12013	Clue Treasure Map: Statue	Clue Treasure Map: Statue
 12014	Clue Treasure Map: Bakery	Clue Treasure Map: Bakery
 12015	【Self-Destruct】Magma Toad	【Self-Destruct】Magma Toad
@@ -29,90 +29,90 @@
 12028	Green Tracking Bubble NPC	Green Tracking Bubble NPC
 12029	P@{1} Blue Bubble NPC@{2}	P@{1} Blue Bubble NPC@{2}
 12030	Magic Circle_Assumptio BD	Magic Circle_Assumptio BD
-12031	Purpose of the Experiment	วัตถุประสงค์ของการทดลอง
-12032	No First Clear record yet	ยังไม่มีบันทึกที่ชัดเจนครั้งแรก
-12033	Exclusive mount for Mages	พาหนะพิเศษสำหรับนักเวทย์
-12034	Field Combat Time Paused…	เวลาการต่อสู้ในสนามหยุดชั่วคราว...
-12035	Summon Starshatter Dragon	อัญเชิญมังกรสลายดวงดาว
-12036	Tap to enter a Stall name	แตะเพื่อป้อนชื่อแผงลอย
-12037	[${1}] unlocks at lv.${2}	[${1}] ปลดล็อคเมื่อเลเวล${2}
-12038	The seller is restocking!	แม่ค้ากำลังเติมสต๊อก!
-12039	Daily Attempts: ${1}/${2}	ความพยายามรายวัน:${1}/${2}
-12040	Physical Damage Reduction	การลดความเสียหายทางกายภาพ
-12041	Damage to Demi-Human Race	สร้างความเสียหายต่อเผ่าพันธุ์กึ่งมนุษย์
-12042	Opens every ${1}${2}-${3}	Opens ทุก${1}${2}-${3}
-12043	Defend the Glorious Metal	ปกป้องโลหะอันรุ่งโรจน์
+12031	Purpose of the Experiment	Purpose of the Experiment
+12032	No First Clear record yet	No First Clear record yet
+12033	Exclusive mount for Mages	Exclusive mount for Mages
+12034	Field Combat Time Paused…	Field Combat Time Paused…
+12035	Summon Starshatter Dragon	Summon Starshatter Dragon
+12036	Tap to enter a Stall name	Tap to enter a Stall name
+12037	[${1}] unlocks at lv.${2}	[${1}] unlocks at lv.${2}
+12038	The seller is restocking!	The seller is restocking!
+12039	Daily Attempts: ${1}/${2}	Daily Attempts: ${1}/${2}
+12040	Physical Damage Reduction	Physical Damage Reduction
+12041	Damage to Demi-Human Race	Damage to Demi-Human Race
+12042	Opens every ${1}${2}-${3}	Opens every ${1}${2}-${3}
+12043	Defend the Glorious Metal	Defend the Glorious Metal
 12044	Character Selection Scene	Character Selection Scene
-12045	Maximum Guild Members: 80	สมาชิก Guild สูงสุด: 80
-12046	Activate the ${1} Tactic?	เปิดใช้งานกลยุทธ์${1}หรือไม่
-12047	Minimum Application Level	ระดับการใช้งานขั้นต่ำ
-12048	All applications declined	การสมัครทั้งหมดถูกปฏิเสธ
-12049	All applications approved	ใบสมัครทั้งหมดได้รับการอนุมัติ
-12050	Decline Guild Invitations	ปฏิเสธคำเชิญ Guild
-12051	Guild Activity Last Week:	สัปดาห์ที่แล้ว:
-12052	Total Activity Dividends:	เงินปันผล Activity ทั้งหมด:
-12053	Recruitment Announcement:	ประกาศรับสมัครงาน:
-12054	Enter a Guild Member name	กรอกชื่อสมาชิก Guild
+12045	Maximum Guild Members: 80	Maximum Guild Members: 80
+12046	Activate the ${1} Tactic?	Activate the ${1} Tactic?
+12047	Minimum Application Level	Minimum Application Level
+12048	All applications declined	All applications declined
+12049	All applications approved	All applications approved
+12050	Decline Guild Invitations	Decline Guild Invitations
+12051	Guild Activity Last Week:	Guild Activity Last Week:
+12052	Total Activity Dividends:	Total Activity Dividends:
+12053	Recruitment Announcement:	Recruitment Announcement:
+12054	Enter a Guild Member name	Enter a Guild Member name
 12055	<color=#97E553>80</color>	<color=#97E553>80</color>
-12056	Soul Echo Metric - Deploy	Soul Echo Metric - ปรับใช้
-12057	Visit Antonio (@{1}/@{2})	เยี่ยมชม Antonio (@{1}/@{2})
-12058	Visit Leavren (@{1}/@{2})	เยี่ยมชม Leavren (@{1}/@{2})
-12059	Shock-Absorbing Lubricant	น้ำมันหล่อลื่นดูดซับแรงกระแทก
-12060	Journey Through the Skies	การเดินทางผ่านท้องฟ้า
-12061	Maya Appears (Deprecated)	Maya ปรากฏขึ้น (เลิกใช้แล้ว)
-12062	The Group Leader's Praise	คำสรรเสริญของ Leader กลุ่ม
-12063	Activate the Stone Pillar	เปิดใช้งาน Stone Pillar
-12064	Munak Cave Conquest Quest	ภารกิจพิชิตถ้ำ Munak
-12065	Prepare for the Challenge	เตรียมพร้อมสำหรับความท้าทาย
-12066	Complete the Novice Trial	เสร็จสิ้นการทดลองใช้มือใหม่
-12067	A Boost for the Adventure	บูสต์สำหรับการผจญภัย
-12068	Advance the Growth Emblem	พัฒนาสัญลักษณ์การเติบโต
-12069	Defeat any MVP @{1} times	เอาชนะ MVP@{1}ครั้งใดก็ได้
-12070	Clear the Forbidden Wilds	เคลียร์ป่าต้องห้าม
-12071	Advance to your First Job	ก้าวไปสู่งานแรกของคุณ
-12072	Advance to your Third Job	ก้าวไปสู่งานที่สามของคุณ
-12073	Go learn about MVP events	ไปเรียนรู้เกี่ยวกับกิจกรรม MVP
-12074	Choose the build you like	เลือกโครงสร้างที่คุณชอบ
-12075	Tap to open the Skill tab	แตะเพื่อเปิดแท็บทักษะ
-12076	Click the Hall of Heroes.	คลิกที่ Hall of Heroes
-12077	Tap here to open Talents.	แตะที่นี่เพื่อเปิดความสามารถพิเศษ
-12078	Use it to travel quickly.	ใช้เดินทางได้รวดเร็ว.
+12056	Soul Echo Metric - Deploy	Soul Echo Metric - Deploy
+12057	Visit Antonio (@{1}/@{2})	Visit Antonio (@{1}/@{2})
+12058	Visit Leavren (@{1}/@{2})	Visit Leavren (@{1}/@{2})
+12059	Shock-Absorbing Lubricant	Shock-Absorbing Lubricant
+12060	Journey Through the Skies	Journey Through the Skies
+12061	Maya Appears (Deprecated)	Maya Appears (Deprecated)
+12062	The Group Leader's Praise	The Group Leader's Praise
+12063	Activate the Stone Pillar	Activate the Stone Pillar
+12064	Munak Cave Conquest Quest	Munak Cave Conquest Quest
+12065	Prepare for the Challenge	Prepare for the Challenge
+12066	Complete the Novice Trial	Complete the Novice Trial
+12067	A Boost for the Adventure	A Boost for the Adventure
+12068	Advance the Growth Emblem	Advance the Growth Emblem
+12069	Defeat any MVP @{1} times	Defeat any MVP @{1} times
+12070	Clear the Forbidden Wilds	Clear the Forbidden Wilds
+12071	Advance to your First Job	Advance to your First Job
+12072	Advance to your Third Job	Advance to your Third Job
+12073	Go learn about MVP events	Go learn about MVP events
+12074	Choose the build you like	Choose the build you like
+12075	Tap to open the Skill tab	Tap to open the Skill tab
+12076	Click the Hall of Heroes.	Click the Hall of Heroes.
+12077	Tap here to open Talents.	Tap here to open Talents.
+12078	Use it to travel quickly.	Use it to travel quickly.
 12079	Select the Stunt tab, bo!	Select the Stunt tab, bo!
-12080	Heavily-armored Peco Peco	Peco Peco เกราะหนัก
-12081	All right, I'm on my way.	เอาล่ะ ฉันกำลังไป
-12082	What is the 【White Dove】?	【White Dove】คืออะไร?
-12083	Enter Festival Invitation	เข้าสู่เทศกาลเชิญ
-12084	Dumby's Request ${1}/${2}	คำขอของดัมบี้${1}/${2}
-12085	Those who get it, get it.	ท่านที่ได้รับรับไปเลย
-12086	I've been trying so hard!	ฉันพยายามอย่างหนัก!
-12087	View the Roster of Heroes	ดูรายชื่อฮีโร่
-12088	First time on an airship?	ครั้งแรกบนเรือเหาะ?
-12089	Whoa!! What's happening?!	อ้าว!! เกิดอะไรขึ้น!
-12090	Let's hear some applause!	มาฟังเสียงปรบมือกันหน่อย!
-12091	Uses Remaining: ${1}/${2}	ใช้ที่เหลืออยู่:${1}/${2}
-12092	Obtainable by dismantling	หาได้โดยการรื้อ
-12093	BOSS Final Blow achieved.	BOSS โจมตีครั้งสุดท้ายสำเร็จ
-12094	Chat channel message test	ทดสอบข้อความช่องแชท
-12095	The guards have appeared!	การ์ดปรากฏตัวแล้ว!
-12096	Item used. ${1} unlocked.	สินค้ามือสอง.${1}ปลดล็อคแล้ว
-12097	Tsk, tsk. You guessed it.	จุ๊ จุ๊คุณเดามัน
-12098	Kitten\nMeow! Meow! Meow!	ลูกแมว\nMeow!Meow!Meow!
-12099	You Have the Highest Bid…	คุณเสนอราคาสูงสุด...
-12100	Pre-purchase Plan Changed	แผนการซื้อล่วงหน้ามีการเปลี่ยนแปลง
-12101	Pre-purchase in Progress…	อยู่ระหว่างการซื้อล่วงหน้า...
-12102	Select an engraving slot.	เลือกช่องแกะสลัก
-12103	Division Assignment Time:	เวลามอบหมายแผนก:
-12104	Go to Guild Battle Report	ไปที่รายงานการต่อสู้ Guild
-12105	Competition Misc Currency	สกุลเงินอื่น ๆ ของการแข่งขัน
+12080	Heavily-armored Peco Peco	Heavily-armored Peco Peco
+12081	All right, I'm on my way.	All right, I'm on my way.
+12082	What is the 【White Dove】?	What is the 【White Dove】?
+12083	Enter Festival Invitation	Enter Festival Invitation
+12084	Dumby's Request ${1}/${2}	Dumby's Request ${1}/${2}
+12085	Those who get it, get it.	Those who get it, get it.
+12086	I've been trying so hard!	I've been trying so hard!
+12087	View the Roster of Heroes	View the Roster of Heroes
+12088	First time on an airship?	First time on an airship?
+12089	Whoa!! What's happening?!	Whoa!! What's happening?!
+12090	Let's hear some applause!	Let's hear some applause!
+12091	Uses Remaining: ${1}/${2}	Uses Remaining: ${1}/${2}
+12092	Obtainable by dismantling	Obtainable by dismantling
+12093	BOSS Final Blow achieved.	BOSS Final Blow achieved.
+12094	Chat channel message test	Chat channel message test
+12095	The guards have appeared!	The guards have appeared!
+12096	Item used. ${1} unlocked.	Item used. ${1} unlocked.
+12097	Tsk, tsk. You guessed it.	Tsk, tsk. You guessed it.
+12098	Kitten\nMeow! Meow! Meow!	Kitten\nMeow! Meow! Meow!
+12099	You Have the Highest Bid…	You Have the Highest Bid…
+12100	Pre-purchase Plan Changed	Pre-purchase Plan Changed
+12101	Pre-purchase in Progress…	Pre-purchase in Progress…
+12102	Select an engraving slot.	Select an engraving slot.
+12103	Division Assignment Time:	Division Assignment Time:
+12104	Go to Guild Battle Report	Go to Guild Battle Report
+12105	Competition Misc Currency	Competition Misc Currency
 12106	Advanced Totem Skill Book	Advanced Totem Skill Book
-12107	Increased DMG to Monsters	เพิ่ม DMG ให้กับมอนสเตอร์
-12108	Elemental Damage Increase	ความเสียหายธาตุเพิ่มขึ้น
-12109	DMG Reduction vs All Race	ลด DMG เทียบกับทุกการแข่งขัน
-12110	DMG Reduction vs All Size	การลด DMG เทียบกับทุกขนาด
-12111	Looking for a Shot-Caller	กำลังมองหาคนโทรเข้า
-12112	Looking for a Drama Queen	ตามหาราชินีดราม่า
-12113	Looking for a Lucky Charm	ตามหาเครื่องรางนำโชค
-12114	Clash of the Seven Royals	การปะทะกันของราชวงศ์ทั้งเจ็ด
+12107	Increased DMG to Monsters	Increased DMG to Monsters
+12108	Elemental Damage Increase	Elemental Damage Increase
+12109	DMG Reduction vs All Race	DMG Reduction vs All Race
+12110	DMG Reduction vs All Size	DMG Reduction vs All Size
+12111	Looking for a Shot-Caller	Looking for a Shot-Caller
+12112	Looking for a Drama Queen	Looking for a Drama Queen
+12113	Looking for a Lucky Charm	Looking for a Lucky Charm
+12114	Clash of the Seven Royals	Clash of the Seven Royals
 12115	Psychokinetic Astral Body	Psychokinetic Astral Body
 12116	Molten Gold Dragon Breath	Molten Gold Dragon Breath
 12117	Shield Spawn HP Loss@{1}%	Shield Spawn HP Loss@{1}%
@@ -121,30 +121,30 @@
 12120	Memory Game-Right Warning	Memory Game-Right Warning
 12121	Memory Game-Bottom Damage	Memory Game-Bottom Damage
 12122	Sacred Shoulderwear Blank	Sacred Shoulderwear Blank
-12123	Exclusive Suggested Items	รายการแนะนำสุดพิเศษ
+12123	Exclusive Suggested Items	Exclusive Suggested Items
 12124	^{1}[War of Emperium]^{2}	^{1}[War of Emperium]^{2}
 12125	^{1}[Adventure Group]^{2}	^{1}[Adventure Group]^{2}
-12126	The Mysterious Thief Gang	แก๊งโจรลึกลับ
-12127	Suspicious Evidence (III)	หลักฐานที่น่าสงสัย (III)
-12128	The Cave Adventure Begins	การผจญภัยในถ้ำเริ่มต้นขึ้น
+12126	The Mysterious Thief Gang	The Mysterious Thief Gang
+12127	Suspicious Evidence (III)	Suspicious Evidence (III)
+12128	The Cave Adventure Begins	The Cave Adventure Begins
 12129	Allocate @{1} Stat Points	จัดสรรคะแนนสถิติ@{1}
-12130	Recreational Mount Riding	การ Riding แบบ Riding เพื่อสันทนาการ
-12131	Mountain's Power - Orange	พลังแห่งขุนเขา - สีส้ม
-12132	Mountain's Power - Purple	พลังแห่งขุนเขา - สีม่วง
-12133	Power of Eagle Eye - Blue	พลังแห่ง Eagle Eye - สีฟ้า
-12134	PATCH_DOWNLOAD_FILE_ERROR	PATCH_ดาวน์โหลด_FILE_ERROR
+12130	Recreational Mount Riding	Recreational Mount Riding
+12131	Mountain's Power - Orange	Mountain's Power - Orange
+12132	Mountain's Power - Purple	Mountain's Power - Purple
+12133	Power of Eagle Eye - Blue	Power of Eagle Eye - Blue
+12134	PATCH_DOWNLOAD_FILE_ERROR	PATCH_DOWNLOAD_FILE_ERROR
 12135	PATCH_ERROR_AND_SKIP_TIPS	PATCH_ERROR_AND_SKIP_TIPS
 12136	LOCAL_GAME_VERSION_FORMAT	LOCAL_GAME_VERSION_FORMAT
-12137	Gathering Expert - Mining	รวบรวมผู้เชี่ยวชาญ - Mining
+12137	Gathering Expert - Mining	Gathering Expert - Mining
 12138	The finest Red Equipment.	Red Equipment ที่ดีที่สุด
 12139	Quest Items: Fabre slime.	ไอเทมภารกิจ: สไลม์ Fabre
 12140	A four-leaf Lucky Clover.	Lucky Clover สี่แฉก
 12141	A large piece of Jellopy.	Jellopy ชิ้นใหญ่
 12142	Use to Change Guild Name.	ใช้เพื่อเปลี่ยนชื่อ Guild
-12143	Current Max level reached	ถึงระดับสูงสุดปัจจุบันแล้ว
-12144	A Rest Beneath the Statue	การพักผ่อนใต้รูปปั้น
-12145	The View Behind the Tower	วิวด้านหลังหอคอย
-12146	Level-up Divine Art Totem	โทเท็มศิลปะศักดิ์สิทธิ์อัพเลเวล
+12143	Current Max level reached	Current Max level reached
+12144	A Rest Beneath the Statue	A Rest Beneath the Statue
+12145	The View Behind the Tower	The View Behind the Tower
+12146	Level-up Divine Art Totem	Level-up Divine Art Totem
 12147	Low-Tier Physical Defense	Low-Tier Physical Defense
 12148	Low-Tier Abundant Healing	Low-Tier Abundant Healing
 12149	Pet Shard: Alice the Maid	Pet Shard: Alice the Maid
@@ -166,7 +166,7 @@
 12165	Tier @{1} Green Equipment	Tier @{1} Green Equipment
 12166	Low-Tier Totem Skill Book	Low-Tier Totem Skill Book
 12167	Waterdrop Star Core - Red	Waterdrop Star Core - Red
-12168	Guild League - Semifinals	Guild ลีก - รอบรองชนะเลิศ
+12168	Guild League - Semifinals	Guild League - Semifinals
 12169	Oak Scroll · Shoes-Orange	Oak Scroll · Shoes-Orange
 12170	Oak Scroll · Shoes-Purple	Oak Scroll · Shoes-Purple
 12171	Oak Scroll · Cloak-Orange	Oak Scroll · Cloak-Orange
@@ -188,227 +188,227 @@
 12187	Advanced Two-Handed Sword	Advanced Two-Handed Sword
 12188	Intermediate Knight Spear	Intermediate Knight Spear
 12189	Basic Beck Battle Axe@{1}	Basic Beck Battle Axe@{1}
-12190	Not enough Trade attempts	มีความพยายามในการแลกเปลี่ยนไม่เพียงพอ
-12191	Not enough dungeon clears	เคลียร์ดันเจี้ยนไม่เพียงพอ
-12192	Not enough treasure hunts	ล่าสมบัติไม่พอ
+12190	Not enough Trade attempts	Not enough Trade attempts
+12191	Not enough dungeon clears	Not enough dungeon clears
+12192	Not enough treasure hunts	Not enough treasure hunts
 12193	Guild Contribution Points	Guild Contribution Points
-12194	Field Auto-Battle Rewards	รางวัลการต่อสู้อัตโนมัติในสนาม
-12195	Divine Arts Totem Loadout	ชุดอุปกรณ์ Totem Divine Arts
-12196	Season Power ^{1}${2}^{2}	ซีซั่นพาวเวอร์ ^{1}${2}^{2}กิจกรรมพรีวิวซีซั่น
-12197	A Member did not respond.	สมาชิกรายหนึ่งไม่ตอบสนอง
-12198	Shared Reward Count: ${1}	จำนวนรางวัลที่แชร์:${1}
-12199	Energy-Efficient Crafting	งานประดิษฐ์ที่ประหยัดพลังงาน
-12200	Primordial Chaos · Ilmata	Primordial Chaos · อิลมาตา
-12201	Summon Musical Instrument	เครื่องดนตรีอัญเชิญ
-12202	Western Izlude Prefecture	จังหวัดอิซลูเดตะวันตก
-12203	Eastern Izlude Prefecture	จังหวัดอิซลูเดตะวันออก
-12204	Western Morroc Prefecture	จังหวัดมอร์ร็อกตะวันตก
-12205	Eastern Morroc Prefecture	จังหวัด Morroc ตะวันออก
-12206	Southern Payon Prefecture	จังหวัดพยอนตอนใต้
-12207	Western Geffen Prefecture	จังหวัด Geffen ตะวันตก
-12208	Eastern Geffen Prefecture	จังหวัด Geffen ตะวันออก
-12209	Research Progress Lv.${1}	ความคืบหน้าการวิจัย Lv.${1}
-12210	Card Album Reward Preview	ตัวอย่างรางวัล Card Album
-12211	Turn Undead [Buff Effect]	พลิก Undead [Buff Effect]
-12212	Guild Battle Preparations	การเตรียมการต่อสู้ Guild
-12213	Crescent Blade Wheel Mark	เครื่องหมายล้อ Blade Crescent
-12214	Grand Cross Grants Endure	Grand Cross ให้ความอด Endure
-12215	Rapid Smiting Triggers ST	ทริกเกอร์ Smiting อย่างรวดเร็ว ST
-12216	Skill Critical Parameters	พารามิเตอร์ที่สำคัญของทักษะ
-12217	Maximum Number of Targets	จำนวนเป้าหมายสูงสุด
+12194	Field Auto-Battle Rewards	Field Auto-Battle Rewards
+12195	Divine Arts Totem Loadout	Divine Arts Totem Loadout
+12196	Season Power ^{1}${2}^{2}	Season Power ^{1}${2}^{2}
+12197	A Member did not respond.	A Member did not respond.
+12198	Shared Reward Count: ${1}	Shared Reward Count: ${1}
+12199	Energy-Efficient Crafting	Energy-Efficient Crafting
+12200	Primordial Chaos · Ilmata	Primordial Chaos · Ilmata
+12201	Summon Musical Instrument	Summon Musical Instrument
+12202	Western Izlude Prefecture	Western Izlude Prefecture
+12203	Eastern Izlude Prefecture	Eastern Izlude Prefecture
+12204	Western Morroc Prefecture	Western Morroc Prefecture
+12205	Eastern Morroc Prefecture	Eastern Morroc Prefecture
+12206	Southern Payon Prefecture	Southern Payon Prefecture
+12207	Western Geffen Prefecture	Western Geffen Prefecture
+12208	Eastern Geffen Prefecture	Eastern Geffen Prefecture
+12209	Research Progress Lv.${1}	Research Progress Lv.${1}
+12210	Card Album Reward Preview	Card Album Reward Preview
+12211	Turn Undead [Buff Effect]	Turn Undead [Buff Effect]
+12212	Guild Battle Preparations	Guild Battle Preparations
+12213	Crescent Blade Wheel Mark	Crescent Blade Wheel Mark
+12214	Grand Cross Grants Endure	Grand Cross Grants Endure
+12215	Rapid Smiting Triggers ST	Rapid Smiting Triggers ST
+12216	Skill Critical Parameters	Skill Critical Parameters
+12217	Maximum Number of Targets	Maximum Number of Targets
 12218	BDTarget_MaxStack_BigType	BDTarget_MaxStack_BigType
-12219	Stasis Space (Deprecated)	พื้นที่หยุดนิ่ง (เลิกใช้แล้ว)
-12220	Instantly restores all HP	ฟื้นฟู HP ทั้งหมดทันที
-12221	Transform into a Red Note	แปลงร่างเป็นโน้ตสีแดง
-12222	Greater Psychic Shockwave	คลื่นกระแทกพลังจิตที่มากขึ้น
-12223	Killer Book MATK Increase	Killer Book MATK เพิ่มขึ้น
-12224	Tower Area Indicator Mark	เครื่องหมายบ่งชี้พื้นที่ทาวเวอร์
-12225	Phreeoni Continuous Drain	ท่อเดรนต่อเนื่อง Phreeoni
-12226	Ancient Tree's Protection	การคุ้มครอง Ancient Tree
+12219	Stasis Space (Deprecated)	Stasis Space (Deprecated)
+12220	Instantly restores all HP	Instantly restores all HP
+12221	Transform into a Red Note	Transform into a Red Note
+12222	Greater Psychic Shockwave	Greater Psychic Shockwave
+12223	Killer Book MATK Increase	Killer Book MATK Increase
+12224	Tower Area Indicator Mark	Tower Area Indicator Mark
+12225	Phreeoni Continuous Drain	Phreeoni Continuous Drain
+12226	Ancient Tree's Protection	Ancient Tree's Protection
 12227	Fruit Tree Turtle Passive	Fruit Tree Turtle Passive
-12228	Fairy Blessing - Max Life	Fairy อวย Blessing - Max Life
+12228	Fairy Blessing - Max Life	Fairy Blessing - Max Life
 12229	Blade Mountain-Greatsword	Blade Mountain-Greatsword
-12230	Cast AOE When Shield Ends	ร่าย AOE เมื่อโล่สิ้นสุด
-12231	Blue Tracking Line Effect	เอฟเฟกต์เส้นติดตามสีน้ำเงิน
-12232	Bubble Attraction Control	ระบบ Control แรงดึงดูดแบบฟอง
-12233	Switch Enhance Soul Burst	Switch เสริม Soul Burst
-12234	Rolling CutterBD_S@{1}_BD	เครื่องตัดแบบโรลลิ่ง BD_S@{1}_BD
-12235	Self-Destruct Speed Boost	เพิ่มความเร็ว Self-Destruct
-12236	Enhance Echoes ${1} times	เพิ่มเสียงสะท้อนของ${1}ครั้ง
-12237	No tavern rooms available	ไม่มีห้องโรงเตี๊ยมว่าง
-12238	Owner Sets Speaking Order	กำหนดลำดับการพูด
-12239	Amount Obtained This Week	จำนวนที่ได้รับในสัปดาห์นี้
-12240	Seal Durability Remaining	ความทนทานของซีลที่เหลืออยู่
-12241	Rank and Ranking Overview	อันดับและภาพรวมอันดับ
+12230	Cast AOE When Shield Ends	Cast AOE When Shield Ends
+12231	Blue Tracking Line Effect	Blue Tracking Line Effect
+12232	Bubble Attraction Control	Bubble Attraction Control
+12233	Switch Enhance Soul Burst	Switch Enhance Soul Burst
+12234	Rolling CutterBD_S@{1}_BD	Rolling CutterBD_S@{1}_BD
+12235	Self-Destruct Speed Boost	Self-Destruct Speed Boost
+12236	Enhance Echoes ${1} times	Enhance Echoes ${1} times
+12237	No tavern rooms available	No tavern rooms available
+12238	Owner Sets Speaking Order	Owner Sets Speaking Order
+12239	Amount Obtained This Week	Amount Obtained This Week
+12240	Seal Durability Remaining	Seal Durability Remaining
+12241	Rank and Ranking Overview	Rank and Ranking Overview
 12242	Season Settlement Details	Season Settlement Details
-12243	Regional Risk Information	ข้อมูลความเสี่ยงระดับภูมิภาค
-12244	Server Launch Celebration	ระดับเซิร์ฟเวอร์
-12245	Insufficient funds to bid	เงินไม่เพียงพอที่จะประมูล
-12246	Close friend list is full	รายชื่อเพื่อนสนิทเต็มแล้ว
-12247	Not enough Stall Currency	สกุลเงินแผงลอยไม่เพียงพอ
-12248	Appearance does not exist	ลักษณะที่ปรากฏไม่มีอยู่
-12249	Invalid Divine Arts Totem	โทเท็มศิลปะศักดิ์สิทธิ์ไม่ถูกต้อง
-12250	Invalid Tavern room type.	ประเภทห้อง Tavern ไม่ถูกต้อง
-12251	Insufficient ${1} Floors.	พื้น${1}ไม่เพียงพอ
-12252	Dummy NPC does not exist.	Dummy NPC ไม่มีอยู่
-12253	You cannot kick yourself.	เตะตัวเองไม่ได้
-12254	No Soul Echoes available.	ไม่มี Soul Echoes
-12255	Select Level-up materials	เลือกวัสดุการเลเวลอัพ
-12256	Level requirement not met	ไม่ตรงตามข้อกำหนดระดับ
-12257	Gift order does not exist	ไม่มีคำสั่งซื้อของขวัญ
-12258	Invalid escort wagon type	ประเภทเกวียนคุ้มกันไม่ถูกต้อง
-12259	Escort goods do not exist	Escort สินค้าไม่มีอยู่
-12260	Unable to view the Codex.	ไม่สามารถดู Codex ได้
-12261	Failed to load the scene.	ไม่สามารถโหลดฉากได้
-12262	Not enough party Members.	สมาชิกปาร์ตี้ไม่เพียงพอ
-12263	Refinement-Affected Stats	สถิติที่ได้รับผลกระทบจากการปรับแต่ง
-12264	Advanced Physical Defense	การป้องกันทางกายภาพขั้นสูง
-12265	Advanced Earth Resistance	ความต้านทานดินขั้นสูง
-12266	Advanced Water Resistance	การ Water Resistance ขั้นสูง
-12267	Advanced Ghost Resistance	ต้านทานผีขั้นสูง
-12268	Shadow Moonlit Challenger	ชาเลนเจอร์แสงจันทร์เงา
+12243	Regional Risk Information	Regional Risk Information
+12244	Server Launch Celebration	Server Launch Celebration
+12245	Insufficient funds to bid	Insufficient funds to bid
+12246	Close friend list is full	Close friend list is full
+12247	Not enough Stall Currency	Not enough Stall Currency
+12248	Appearance does not exist	Appearance does not exist
+12249	Invalid Divine Arts Totem	Invalid Divine Arts Totem
+12250	Invalid Tavern room type.	Invalid Tavern room type.
+12251	Insufficient ${1} Floors.	Insufficient ${1} Floors.
+12252	Dummy NPC does not exist.	Dummy NPC does not exist.
+12253	You cannot kick yourself.	You cannot kick yourself.
+12254	No Soul Echoes available.	No Soul Echoes available.
+12255	Select Level-up materials	Select Level-up materials
+12256	Level requirement not met	Level requirement not met
+12257	Gift order does not exist	Gift order does not exist
+12258	Invalid escort wagon type	Invalid escort wagon type
+12259	Escort goods do not exist	Escort goods do not exist
+12260	Unable to view the Codex.	Unable to view the Codex.
+12261	Failed to load the scene.	Failed to load the scene.
+12262	Not enough party Members.	Not enough party Members.
+12263	Refinement-Affected Stats	Refinement-Affected Stats
+12264	Advanced Physical Defense	Advanced Physical Defense
+12265	Advanced Earth Resistance	Advanced Earth Resistance
+12266	Advanced Water Resistance	Advanced Water Resistance
+12267	Advanced Ghost Resistance	Advanced Ghost Resistance
+12268	Shadow Moonlit Challenger	Shadow Moonlit Challenger
 12269	^{1}Elemental Pursuit^{2}	^{1}Elemental Pursuit^{2}
-12270	^{1}Thunder Shockwave^{2}	^{1}ธันเดอร์ช็อคเวฟ^{2}
-12271	^{1}Psychic Shockwave^{2}	^{1}คลื่นกระแทกพลังจิต^{2}
-12272	Guild Verification Passed	แล้ว
-12273	The account doesn't exist	ไม่มีบัญชีนี้
-12274	Database operation failed	ล้มเหลว
-12275	Not enough required items	รายการที่จำเป็นไม่เพียงพอ
-12276	Player instance not found	ไม่พบอินสแตนซ์ของผู้เล่น
-12277	The scene does not exist.	ไม่มีฉากนี้
+12270	^{1}Thunder Shockwave^{2}	^{1}Thunder Shockwave^{2}
+12271	^{1}Psychic Shockwave^{2}	^{1}Psychic Shockwave^{2}
+12272	Guild Verification Passed	Guild Verification Passed
+12273	The account doesn't exist	The account doesn't exist
+12274	Database operation failed	Database operation failed
+12275	Not enough required items	Not enough required items
+12276	Player instance not found	Player instance not found
+12277	The scene does not exist.	The scene does not exist.
 12278	Insufficient consumption.	Insufficient consumption.
-12279	Unrecognized action type.	ประเภทการดำเนินการที่ไม่รู้จัก
-12280	Keep all guardians alive.	ให้ผู้พิทักษ์ทุกคนมีชีวิตอยู่
-12281	Time Until Next Invasion:	เวลาจนกว่าจะมีการบุกรุกครั้งต่อไป:
+12279	Unrecognized action type.	Unrecognized action type.
+12280	Keep all guardians alive.	Keep all guardians alive.
+12281	Time Until Next Invasion:	Time Until Next Invasion:
 12282	Revive the ID tag's owner	ฟื้นคืนเจ้าของแท็ก ID
 12283	Repair the damaged Turret	ซ่อมแซม Turret ที่เสียหาย
 12284	Board the prepared Turret	ขึ้น Turret ที่เตรียมไว้
-12285	Collection Level: Lv.${1}	ระดับการสะสม: เลเวล${1}คะแนนสะสม
-12286	Player details are hidden	รายละเอียดผู้เล่นถูกซ่อนอยู่
-12287	Failed to equip equipment	ไม่สามารถติดตั้งอุปกรณ์ได้
-12288	Incorrect equipment class	คลาสอุปกรณ์ไม่ถูกต้อง
-12289	Not enough guild supplies	เสบียงกิลด์ไม่เพียงพอ
-12290	Unlock · Nine-Tone Mantra	ปลดล็อค · มันตราเก้าโทน
-12291	A Friendship Set in Stone	มิตรภาพที่ตั้งอยู่ใน Stone
-12292	Still available This Week	ยังมีวางจำหน่ายในสัปดาห์นี้
-12293	Hey, don't push yourself!	เฮ้ อย่ากดดันตัวเองนะ!
-12294	Establish Adventure Guild	ก่อตั้ง Guild ผจญภัย
-12295	Adventure Group Evergreen	กลุ่มผจญภัยเอเวอร์กรีน
-12296	Created on ${2}/${3}/${1}	สร้างบน${2}/${3}/${1}
-12297	Function not yet unlocked	ยังไม่ปลดล็อค
-12298	Delete this build preset?	ลบพรีเซ็ตบิลด์นี้หรือไม่
-12299	Get Help Outside the Game	รับความช่วยเหลือนอกเกม
-12300	Tap to Select a Soul Echo	แตะเพื่อเลือก Soul Echo
-12301	Tap to enter a build name	แตะเพื่อป้อนชื่อบิลด์
-12302	All challenges completed.	ความท้าทายทั้งหมดเสร็จสิ้น
+12285	Collection Level: Lv.${1}	Collection Level: Lv.${1}
+12286	Player details are hidden	Player details are hidden
+12287	Failed to equip equipment	Failed to equip equipment
+12288	Incorrect equipment class	Incorrect equipment class
+12289	Not enough guild supplies	Not enough guild supplies
+12290	Unlock · Nine-Tone Mantra	Unlock · Nine-Tone Mantra
+12291	A Friendship Set in Stone	A Friendship Set in Stone
+12292	Still available This Week	Still available This Week
+12293	Hey, don't push yourself!	Hey, don't push yourself!
+12294	Establish Adventure Guild	Establish Adventure Guild
+12295	Adventure Group Evergreen	Adventure Group Evergreen
+12296	Created on ${2}/${3}/${1}	Created on ${2}/${3}/${1}
+12297	Function not yet unlocked	Function not yet unlocked
+12298	Delete this build preset?	Delete this build preset?
+12299	Get Help Outside the Game	Get Help Outside the Game
+12300	Tap to Select a Soul Echo	Tap to Select a Soul Echo
+12301	Tap to enter a build name	Tap to enter a build name
+12302	All challenges completed.	All challenges completed.
 12303	Fire damage taken +@{1}%.	ได้รับความเสียหายจากไฟไหม้ +@{1}%
-12304	Lucky Baphomet Jr. Lv@{1}	ลัคกี้ Baphomet Jr. Lv@{1}
-12305	Settlement in ${1}d ${2}h	การชำระบัญชีใน${1}d${2}ชั่วโมง
+12304	Lucky Baphomet Jr. Lv@{1}	Lucky Baphomet Jr. Lv@{1}
+12305	Settlement in ${1}d ${2}h	Settlement in ${1}d ${2}h
 12306	<size=75>${1}</size> days	<size=75>${1}</size> days
 12307	Blitz Beat【Invalid Shell】	Blitz Beat【Invalid Shell】
 12308	Double Strafe【Stat Boost】	Double Strafe【Stat Boost】
-12309	Set Single-Hit Damage Cap	ตั้งค่าขีดจำกัดความเสียหายการโจมตีครั้งเดียว
-12310	Madogear Pilot Protection	ชุดป้องกัน Madogear Pilot
+12309	Set Single-Hit Damage Cap	Set Single-Hit Damage Cap
+12310	Madogear Pilot Protection	Madogear Pilot Protection
 12311	[No Translation Required]	[No Translation Required]
 12312	Link Reddening Check @{1}	ลิงก์ตรวจสอบการทำให้เป็นสีแดง@{1}
 12313	Stone Blades - Outer Ring	Stone Blades - Outer Ring
 12314	Here Comes the Big Bunny!	Here Comes the Big Bunny!
-12315	Blessing of Sacred Wisdom	Blessing แห่งปัญญาอันศักดิ์สิทธิ์
-12316	Lightning Strike Training	การฝึกโจมตีด้วยสายฟ้า
-12317	Enhanced Lightning Strike	Lightning Strike ที่ได้รับการปรับปรุง
+12315	Blessing of Sacred Wisdom	Blessing of Sacred Wisdom
+12316	Lightning Strike Training	Lightning Strike Training
+12317	Enhanced Lightning Strike	Enhanced Lightning Strike
 12318	[Normal-Golden Thief Bug]	[Normal-Golden Thief Bug]
 12319	[Normal-Moonlight Flower]	[Normal-Moonlight Flower]
-12320	Failed to add to favorites	ไม่สามารถเพิ่มในรายการโปรด
+12320	Failed to add to favorites	Failed to add to favorites
 12321	Banquet Invitation · Light	Banquet Invitation · Light
-12322	Silverwing Covenant: Truth	พันธสัญญา Silverwing: ความจริง
+12322	Silverwing Covenant: Truth	Silverwing Covenant: Truth
 12323	Crazy Bunny Family Balloon	Crazy Bunny Family Balloon
 12324	Hardened Rainbow Nightmare	Hardened Rainbow Nightmare
 12325	One-Horned Radiant Chimera	One-Horned Radiant Chimera
-12326	Rift successfully repaired	ซ่อมแซม Rift สำเร็จแล้ว
-12327	Longlong, hurry over here!	หลองหลง รีบมานี่สิ!
-12328	Purchase Period: ${1}-${2}	ระยะเวลาการซื้อ:${1}-${2}
-12329	Physical Damage Reduction%	การลดความเสียหายทางกายภาพ%
-12330	Item MP Recovery Received%	ไอเท็ม MP ที่ได้รับการกู้คืน%
-12331	Global MP Recovery Effect%	ผลการฟื้นฟู MP ทั่วโลก%
-12332	Damage to Water Monsters %	สร้างความเสียหายต่อมอนสเตอร์น้ำ %
-12333	Damage to Ghost Monsters %	สร้างความเสียหายต่อมอนสเตอร์ผี %
-12334	Encounter Golden Thief Bug	พบกับแมลงจอมโจรสีทอง
+12326	Rift successfully repaired	Rift successfully repaired
+12327	Longlong, hurry over here!	Longlong, hurry over here!
+12328	Purchase Period: ${1}-${2}	Purchase Period: ${1}-${2}
+12329	Physical Damage Reduction%	Physical Damage Reduction%
+12330	Item MP Recovery Received%	Item MP Recovery Received%
+12331	Global MP Recovery Effect%	Global MP Recovery Effect%
+12332	Damage to Water Monsters %	Damage to Water Monsters %
+12333	Damage to Ghost Monsters %	Damage to Ghost Monsters %
+12334	Encounter Golden Thief Bug	Encounter Golden Thief Bug
 12335	Complete the Opening Dance	เต้นเปิดงานให้เสร็จ
-12336	Guild Rankings and Rewards	อันดับ Guild และรางวัล
+12336	Guild Rankings and Rewards	Guild Rankings and Rewards
 12337	Combine @{1} Purple Totems	รวมโทเท็มสีม่วง@{1}
 12338	Combine @{1} Orange Totems	รวมโทเท็มสีส้ม@{1}
-12339	Obtain from 7-Day Check-In	รับได้จากการเช็คอิน 7 วัน
+12339	Obtain from 7-Day Check-In	Obtain from 7-Day Check-In
 12340	Find the Trial Instructor.	ค้นหาผู้สอนการทดลอง
 12341	Have at least @{1} friends	มีเพื่อนอย่างน้อย@{1}
 12342	Follow Jax to the banquet.	ตามแจ็กซ์ไปงานเลี้ยง
 12343	A letter suddenly arrives.	จู่ๆก็มีจดหมายมาถึง
 12344	Complete Season quest @{1}	ทำภารกิจซีซั่นให้สำเร็จ@{1}
 12345	Obtain the Wild Boar mount	รับพาหนะ Wild Boar
-12346	Rare Reward-Maya-MVP Limit	รางวัลหายาก-จำกัด Maya-MVP
+12346	Rare Reward-Maya-MVP Limit	Rare Reward-Maya-MVP Limit
 12347	Prepare for the next trial	เตรียมทดลองครั้งต่อไป
 12348	Talk to Rhine about mounts	คุยกับ Rhine เกี่ยวกับสัตว์พาหนะ
 12349	Clear out the nearby Horns	เคลียร์ Horns ที่อยู่ใกล้เคียง
 12350	Start Learning new talents	เริ่มเรียนรู้ความสามารถใหม่ๆ
-12351	Reduces magic damage taken	ลดความเสียหายเวทย์ที่ได้รับ
-12352	% CRIT Resistance Increase	% ความต้านทานคริติคอลเพิ่มขึ้น
-12353	Have a Chitchat with them.	พูดคุยกับพวกเขา
-12354	Your friends list is full.	รายชื่อเพื่อนของคุณเต็มแล้ว
+12351	Reduces magic damage taken	Reduces magic damage taken
+12352	% CRIT Resistance Increase	% CRIT Resistance Increase
+12353	Have a Chitchat with them.	Have a Chitchat with them.
+12354	Your friends list is full.	Your friends list is full.
 12355	Appointed as Charisma Baby	Appointed as Charisma Baby
-12356	Game Mode Auction Dividend	เงินปันผลประมูลโหมดเกม
-12357	Season Rank Reward Reissue	การออกรางวัลอันดับฤดูกาลใหม่
-12358	Low Guild Activity Warning	คำเตือน Guild Activity ต่ำ
-12359	[Siege War] Victory Reward	[Siege War] รางวัลแห่งชัยชนะ
-12360	Complete Collection Reward	รางวัลสะสมครบ
-12361	Personal Points: ${1}/${2}	คะแนนส่วนตัว:${1}/${2}
-12362	Caravan Escort Route: ${1}	เส้นทางคุ้มกันคาราวาน:${1}
-12363	Auto Counter When Attacked	ตอบโต้อัตโนมัติเมื่อถูกโจมตี
-12364	Reward Vault - Rift Crisis	รางวัล Vault - วิกฤตความแตกแยก
-12365	Realm of the Gods - Normal	Realm of the Gods - ปกติ
-12366	Failed to load event data.	ไม่สามารถโหลดข้อมูลเหตุการณ์
-12367	Apply for joining the team	สมัครร่วมทีม
-12368	Failed to create character	ไม่สามารถสร้างอักขระได้
-12369	Failed to Select character	ไม่สามารถเลือกอักขระได้
+12356	Game Mode Auction Dividend	Game Mode Auction Dividend
+12357	Season Rank Reward Reissue	Season Rank Reward Reissue
+12358	Low Guild Activity Warning	Low Guild Activity Warning
+12359	[Siege War] Victory Reward	[Siege War] Victory Reward
+12360	Complete Collection Reward	Complete Collection Reward
+12361	Personal Points: ${1}/${2}	Personal Points: ${1}/${2}
+12362	Caravan Escort Route: ${1}	Caravan Escort Route: ${1}
+12363	Auto Counter When Attacked	Auto Counter When Attacked
+12364	Reward Vault - Rift Crisis	Reward Vault - Rift Crisis
+12365	Realm of the Gods - Normal	Realm of the Gods - Normal
+12366	Failed to load event data.	Failed to load event data.
+12367	Apply for joining the team	Apply for joining the team
+12368	Failed to create character	Failed to create character
+12369	Failed to Select character	Failed to Select character
 12370	Defeat the Nearby Porings*	เอาชนะ Poring ที่อยู่ใกล้เคียง*
 12371	Rhine wants to talk to You	Rhine อยากคุยกับคุณ
 12372	Give the Tree Bark to Boya	มอบเปลือกต้นไม้ให้ Boya
 12373	Meet up with Boya and Wule	พบกับ Boya และ Wule
 12374	Take the airship to Morroc	ขึ้นเรือเหาะไปยัง Morroc
-12375	Unlocking this build costs	การปลดล็อกต้นทุนการสร้างนี้
-12376	Escort Mission Preparation	การเตรียมภารกิจคุ้มกัน
-12377	Stronghold War Preparation	การเตรียมสงครามฐานที่มั่น
-12378	Equipment Refining Details	รายละเอียดการกลั่นอุปกรณ์
-12379	Class-Specific Item - Cart	สินค้าเฉพาะคลาส - รถเข็น
-12380	Pinnacle Top Ten - Archers	Pinnacle Top Ten - นักธนู
-12381	Pinnacle Top Ten - Thieves	สิบอันดับแรก - จอมโจร
-12382	Profile Card Album Display	แท็บโปรไฟล์
-12383	Appearance Shop - Featured	ลักษณะร้านค้า - จุดเด่น
-12384	Delete all processed mail?	ลบเมลที่ประมวลผลแล้วทั้งหมดหรือไม่
-12385	Untold Stories of Prontera	เรื่องราวที่บอกเล่าของ Prontera
-12386	Press and hold for details	กดค้างไว้เพื่อดูรายละเอียด
-12387	View Frozen Proceeds Rules	ดูกฎการดำเนินการแช่แข็ง
-12388	No matching results found.	ไม่พบผลลัพธ์ที่ตรงกัน
-12389	Obtain through Life Skills	ได้รับจากทักษะ Life
-12390	To the Lucky Investigator:	ถึงผู้สืบสวนผู้โชคดี:
-12391	S@{1} Large Card Pool @{2}	S@{1}การ์ดพูลขนาดใหญ่@{2}
-12392	S@{1} Small Card Pool @{2}	S@{1}พูลการ์ดขนาดเล็ก@{2}
-12393	Gift cost refunded by mail	ค่าของขวัญคืนเงินทางไปรษณีย์
-12394	About Cross-server Friends	เกี่ยวกับเพื่อนข้ามเซิร์ฟเวอร์
-12395	${1} gave ${2} ${3} * ${4}	${1}ให้${2}${3}*${4}
-12396	Group name cannot be empty	ชื่อกลุ่มต้องไม่เว้นว่าง
-12397	${1}'s party is recruiting	ปาร์ตี้ของ${1}กำลังเปิดรับสมัคร
-12398	Skill slot cannot be empty	ช่องทักษะต้องไม่เว้นว่าง
-12399	Supplies Actually Obtained	วัสดุที่ได้รับจริง
-12400	Not enough guild supplies.	เสบียงกิลด์ไม่เพียงพอ
-12401	Reach Alchemy Lab Lv. ${1}	เข้าถึงแล็ปแปรธาตุ Lv.${1}
-12402	Kill ${1} Monsters in ${2}	Kill มอนสเตอร์${1}ใน${2}
+12375	Unlocking this build costs	Unlocking this build costs
+12376	Escort Mission Preparation	Escort Mission Preparation
+12377	Stronghold War Preparation	Stronghold War Preparation
+12378	Equipment Refining Details	Equipment Refining Details
+12379	Class-Specific Item - Cart	Class-Specific Item - Cart
+12380	Pinnacle Top Ten - Archers	Pinnacle Top Ten - Archers
+12381	Pinnacle Top Ten - Thieves	Pinnacle Top Ten - Thieves
+12382	Profile Card Album Display	Profile Card Album Display
+12383	Appearance Shop - Featured	Appearance Shop - Featured
+12384	Delete all processed mail?	Delete all processed mail?
+12385	Untold Stories of Prontera	Untold Stories of Prontera
+12386	Press and hold for details	Press and hold for details
+12387	View Frozen Proceeds Rules	View Frozen Proceeds Rules
+12388	No matching results found.	No matching results found.
+12389	Obtain through Life Skills	Obtain through Life Skills
+12390	To the Lucky Investigator:	To the Lucky Investigator:
+12391	S@{1} Large Card Pool @{2}	S@{1} Large Card Pool @{2}
+12392	S@{1} Small Card Pool @{2}	S@{1} Small Card Pool @{2}
+12393	Gift cost refunded by mail	Gift cost refunded by mail
+12394	About Cross-server Friends	About Cross-server Friends
+12395	${1} gave ${2} ${3} * ${4}	${1} gave ${2} ${3} * ${4}
+12396	Group name cannot be empty	Group name cannot be empty
+12397	${1}'s party is recruiting	${1}'s party is recruiting
+12398	Skill slot cannot be empty	Skill slot cannot be empty
+12399	Supplies Actually Obtained	Supplies Actually Obtained
+12400	Not enough guild supplies.	Not enough guild supplies.
+12401	Reach Alchemy Lab Lv. ${1}	Reach Alchemy Lab Lv. ${1}
+12402	Kill ${1} Monsters in ${2}	Kill ${1} Monsters in ${2}
 12403	Undead Property Resistance	Undead Property Resistance
-12404	No Guild Available to Join	ไม่มี Guild ให้เข้าร่วม
-12405	No Guild Information Found	ไม่พบข้อมูล Guild
-12406	You can Impeach after ${1}	คุณสามารถฟ้องร้องได้หลังจาก${1}
-12407	Last Week's Activity: ${1}	Activity ของสัปดาห์ที่แล้ว:${1}
-12408	Load ${1}/${2} to Get Help	โหลด${1}/${2}เพื่อขอความช่วยเหลือ
-12409	Refreshed Today: ${1}/${2}	รีเฟรชวันนี้:${1}/${2}
-12410	Data updates once per hour	ข้อมูลอัปเดตหนึ่งครั้งต่อชั่วโมง
+12404	No Guild Available to Join	No Guild Available to Join
+12405	No Guild Information Found	No Guild Information Found
+12406	You can Impeach after ${1}	You can Impeach after ${1}
+12407	Last Week's Activity: ${1}	Last Week's Activity: ${1}
+12408	Load ${1}/${2} to Get Help	Load ${1}/${2} to Get Help
+12409	Refreshed Today: ${1}/${2}	Refreshed Today: ${1}/${2}
+12410	Data updates once per hour	Data updates once per hour
 12411	South Morroc State Capital	South Morroc State Capital
 12412	Sketch Card: Goblin Leader	Sketch Card: Goblin Leader
 12413	Shadow Card: Goblin Leader	Shadow Card: Goblin Leader
@@ -421,8 +421,8 @@
 12420	Defense slightly increased	พลังป้องกันเพิ่มขึ้นเล็กน้อย
 12421	Continuously restores Life	ฟื้นฟูพลัง Life อย่างต่อเนื่อง
 12422	Turn Undead【Extra Trigger】	Turn Undead【Extra Trigger】
-12423	Official Recommended Keys:	ปุ่มแนะนำอย่างเป็นทางการ:
-12424	Stationary Skill Follow-Up	การติดตามทักษะแบบอยู่กับที่
+12423	Official Recommended Keys:	Official Recommended Keys:
+12424	Stationary Skill Follow-Up	Stationary Skill Follow-Up
 12425	Maya Normal Attack - Earth	Maya Normal Attack - Earth
 12426	Skill@{1} Kun Water Vortex	Skill@{1} Kun Water Vortex
 12427	Battle Royale Screen Shake	Battle Royale Screen Shake
@@ -455,12 +455,12 @@
 12454	Melodic High-Energy Impact	Melodic High-Energy Impact
 12455	Exorciser Spell: Free Will	Exorciser Spell: Free Will
 12456	S@{1}Rolling Blade Barrage	S@{1}Rolling Blade Barrage
-12457	Event Opening Announcement	ประกาศเปิดงาน
-12458	Invalid card slot position	ตำแหน่งช่องเสียบการ์ดไม่ถูกต้อง
-12459	Please select your Locate.	โปรดเลือกตำแหน่งของคุณ
-12460	Stat points are available.	คะแนนสถิติพร้อมใช้งาน
-12461	${1} new messages received	ได้รับข้อความใหม่${1}แล้ว
-12462	Voice message is too short	ข้อความเสียงสั้นเกินไป
+12457	Event Opening Announcement	Event Opening Announcement
+12458	Invalid card slot position	Invalid card slot position
+12459	Please select your Locate.	Please select your Locate.
+12460	Stat points are available.	Stat points are available.
+12461	${1} new messages received	${1} new messages received
+12462	Voice message is too short	Voice message is too short
 12463	Clue Treasure Map: Library	Clue Treasure Map: Library
 12464	Battle Royale Supply Crate	Battle Royale Supply Crate
 12465	Universal Magic Circle@{1}	Universal Magic Circle@{1}
@@ -478,68 +478,68 @@
 12477	P@{1} Green Bubble NPC@{2}	P@{1} Green Bubble NPC@{2}
 12478	Moonlight Flower-Very Hard	Moonlight Flower-Very Hard
 12479	Moonlight Flower-Nightmare	Moonlight Flower-Nightmare
-12480	Reward Configuration Error	ไม่พบการกำหนดค่ารางวัล
-12481	No Sweep Rewards Available	ไม่มีรางวัลกวาด
-12482	No items have been listed.	ไม่มีรายการอยู่ในรายการ
-12483	Weekly Attempts: ${1}/${2}	ความพยายามรายสัปดาห์:${1}/${2}
-12484	Destroy the Glorious Metal	ทำลายโลหะอันรุ่งโรจน์
-12485	Festival Invitation Trivia	เกร็ดความรู้คำเชิญเทศกาล
-12486	Challenge Moonlight Flower	ท้าทาย Moonlight Flower
+12480	Reward Configuration Error	Reward Configuration Error
+12481	No Sweep Rewards Available	No Sweep Rewards Available
+12482	No items have been listed.	No items have been listed.
+12483	Weekly Attempts: ${1}/${2}	Weekly Attempts: ${1}/${2}
+12484	Destroy the Glorious Metal	Destroy the Glorious Metal
+12485	Festival Invitation Trivia	Festival Invitation Trivia
+12486	Challenge Moonlight Flower	Challenge Moonlight Flower
 12487	Undersea Tunnel Floor @{1}	Undersea Tunnel Floor @{1}
-12488	Opens on ${1}/${2} at ${3}	Opens บน${1}/${2}ที่${3}
-12489	Guild Announcement Changed	ประกาศ Guild มีการเปลี่ยนแปลง
-12490	Elite Member limit reached	Elite Member ถึงขีดจำกัดแล้ว
-12491	Level Requirement: Lv.${1}	ความต้องการระดับ: Lv.${1}สถิติระดับ
-12492	Visit Aorufeng (@{1}/@{2})	เยี่ยมชม Aorufeng (@{1}/@{2})
-12493	Enter the Ant Queen's Nest	เข้าสู่รังของราชินีมด
-12494	Kill the Agitated Monsters	Kill สัตว์ประหลาดที่ปั่นป่วน
-12495	Clear Southeast Payon @{1}	ล้าง Payon ตะวันออกเฉียงใต้@{1}
-12496	Gather Whispering Flowers.	รวบรวม Whispering Flowers
-12497	The Blacksmith's Testimony	คำให้การของช่างตีเหล็ก
-12498	Open Non-Full-screen Image	Open ภาพที่ไม่เต็มหน้าจอ
-12499	Click to open the Pet List	คลิกเพื่อเปิดรายการสัตว์เลี้ยง
-12500	Maximum deployment reached	ถึงการปรับใช้สูงสุดแล้ว
-12501	Standard Summon Pool Rules	กฎการอัญเชิญพูลมาตรฐาน
-12502	No Pets Available to Hatch	ไม่มีสัตว์เลี้ยงให้ฟักออกมา
-12503	Activate Pet Passive Skill	เปิดใช้งานทักษะติดตัวของสัตว์เลี้ยง
-12504	Deployed in a Utility Slot	ปรับใช้ในสล็อตยูทิลิตี้
-12505	Hatchery Level-up Complete	การยกระดับโรงฟักไข่เสร็จสมบูรณ์
-12506	Hold a Position in a guild	ดำรงตำแหน่งในกิลด์
-12507	Advance to your Second Job	ก้าวไปสู่งานที่สองของคุณ
-12508	Tap to open the Pet screen	แตะเพื่อเปิดหน้าจอสัตว์เลี้ยง
-12509	Open the Challenge screen.	Open หน้าจอ Challenge
+12488	Opens on ${1}/${2} at ${3}	Opens on ${1}/${2} at ${3}
+12489	Guild Announcement Changed	Guild Announcement Changed
+12490	Elite Member limit reached	Elite Member limit reached
+12491	Level Requirement: Lv.${1}	Level Requirement: Lv.${1}
+12492	Visit Aorufeng (@{1}/@{2})	Visit Aorufeng (@{1}/@{2})
+12493	Enter the Ant Queen's Nest	Enter the Ant Queen's Nest
+12494	Kill the Agitated Monsters	Kill the Agitated Monsters
+12495	Clear Southeast Payon @{1}	Clear Southeast Payon @{1}
+12496	Gather Whispering Flowers.	Gather Whispering Flowers.
+12497	The Blacksmith's Testimony	The Blacksmith's Testimony
+12498	Open Non-Full-screen Image	Open Non-Full-screen Image
+12499	Click to open the Pet List	Click to open the Pet List
+12500	Maximum deployment reached	Maximum deployment reached
+12501	Standard Summon Pool Rules	Standard Summon Pool Rules
+12502	No Pets Available to Hatch	No Pets Available to Hatch
+12503	Activate Pet Passive Skill	Activate Pet Passive Skill
+12504	Deployed in a Utility Slot	Deployed in a Utility Slot
+12505	Hatchery Level-up Complete	Hatchery Level-up Complete
+12506	Hold a Position in a guild	Hold a Position in a guild
+12507	Advance to your Second Job	Advance to your Second Job
+12508	Tap to open the Pet screen	Tap to open the Pet screen
+12509	Open the Challenge screen.	Open the Challenge screen.
 12510	Select the Build Handbook.	Select the Build Handbook.
 12511	Available Advanced Classes	Available Advanced Classes
-12512	Heavily-armored Grand Peco	Grand Peco เกราะหนัก
-12513	Welcome to Kafra Services!	ยินดีต้อนรับสู่บริการของ Kafra!
-12514	Excellent. Very efficient.	สุดยอดครับมีประสิทธิภาพมาก
-12515	The path prowled by beasts	เส้นทางที่สัตว์ร้ายเดินด้อม ๆ มองๆ
-12516	I found all the materials.	ฉันเจอวัสดุทั้งหมดแล้ว
-12517	^{1}One ticket, please^{2}	^{1}ขอตั๋ว 1 ใบ^{2}
-12518	That Depends on How You Do	ขึ้นอยู่กับว่าคุณทำอย่างไร
-12519	Teleport into the Instance	Teleport เข้าสู่อินสแตนซ์
-12520	Dracula's escape portal...	พอร์ทัลหลบหนีของ Dracula...
-12521	Objectives Completed: ${1}	เสร็จสมบูรณ์:${1}วัตถุประสงค์
-12522	That part really moved me.	ส่วนนั้นทำให้ฉันประทับใจมาก
-12523	Really? That's incredible!	จริงหรือ เหลือเชื่อมาก!
-12524	I want to enter the palace	ฉันอยากเข้าวัง
-12525	They are just so exciting!	น่าตื่นเต้นมาก!
-12526	We're looking for someone.	เรากำลังมองหาใครสักคน
-12527	Waiting for Event to Begin	กำลังรอให้กิจกรรมเริ่มต้น
-12528	Random event starting soon	กิจกรรมสุ่มกำลังจะเริ่มขึ้นเร็วๆ นี้
-12529	Challenge difficulty: ${1}	ท้าทายความยาก:${1}
-12530	Select items to dismantle.	เลือกรายการที่จะรื้อ
-12531	Territory War: Preparation	สงครามดินแดน: การเตรียมการ
-12532	Pick up the giant blade!!!	หยิบดาบยักษ์!!!
-12533	${1} was defeated by ${2}.	${1}พ่ายแพ้โดย${2}
-12534	Captain\nOw, that hurts...	Captain\n โอ้ยเจ็บ...
-12535	Quest unlocks at Lv. ${1}.	Quest ปลดล็อคที่ Lv.${1}.
+12512	Heavily-armored Grand Peco	Heavily-armored Grand Peco
+12513	Welcome to Kafra Services!	Welcome to Kafra Services!
+12514	Excellent. Very efficient.	Excellent. Very efficient.
+12515	The path prowled by beasts	The path prowled by beasts
+12516	I found all the materials.	I found all the materials.
+12517	^{1}One ticket, please^{2}	^{1}One ticket, please^{2}
+12518	That Depends on How You Do	That Depends on How You Do
+12519	Teleport into the Instance	Teleport into the Instance
+12520	Dracula's escape portal...	Dracula's escape portal...
+12521	Objectives Completed: ${1}	Objectives Completed: ${1}
+12522	That part really moved me.	That part really moved me.
+12523	Really? That's incredible!	Really? That's incredible!
+12524	I want to enter the palace	I want to enter the palace
+12525	They are just so exciting!	They are just so exciting!
+12526	We're looking for someone.	We're looking for someone.
+12527	Waiting for Event to Begin	Waiting for Event to Begin
+12528	Random event starting soon	Random event starting soon
+12529	Challenge difficulty: ${1}	Challenge difficulty: ${1}
+12530	Select items to dismantle.	Select items to dismantle.
+12531	Territory War: Preparation	Territory War: Preparation
+12532	Pick up the giant blade!!!	Pick up the giant blade!!!
+12533	${1} was defeated by ${2}.	${1} was defeated by ${2}.
+12534	Captain\nOw, that hurts...	Captain\nOw, that hurts...
+12535	Quest unlocks at Lv. ${1}.	Quest unlocks at Lv. ${1}.
 12536	Approach the strange girl.	Approach the strange girl.
-12537	Complete the Drake Dungeon	พิชิต Drake Dungeon
-12538	Individual Victory Rewards	รางวัลชัยชนะส่วนบุคคล
-12539	Premium Secret Trove Chest	กล่อง Secret Trove ระดับพรีเมียม
-12540	Guild GVE Clear Difficulty	Guild GVE เคลียร์ความยาก
-12541	Elemental Damage Reduction	การลดความเสียหายธาตุ
+12537	Complete the Drake Dungeon	Complete the Drake Dungeon
+12538	Individual Victory Rewards	Individual Victory Rewards
+12539	Premium Secret Trove Chest	Premium Secret Trove Chest
+12540	Guild GVE Clear Difficulty	Guild GVE Clear Difficulty
+12541	Elemental Damage Reduction	Elemental Damage Reduction
 12542	Petrify Curse (Deprecated)	Petrify Curse (Deprecated)
 12543	Blessing Angel Interaction	Blessing Angel Interaction
 12544	Apply Pass Dynamite Effect	Apply Pass Dynamite Effect
@@ -547,19 +547,19 @@
 12546	Make Statue Cast Rectangle	Make Statue Cast Rectangle
 12547	Four Sequential Shockwaves	Four Sequential Shockwaves
 12548	Knuckle Boost (Deprecated)	Knuckle Boost (Deprecated)
-12549	Enjoy Life: First Activity	Enjoy Life: Activity แรก
-12550	The Unconscious Adventurer	Adventurer ที่หมดสติ
-12551	The Mysterious Cargo Crate	ลังสินค้าลึกลับ
-12552	Continue the Investigation	ดำเนินการสอบสวนต่อไป
-12553	^{1}Horse Racing Phase^{2}	^{1}ระยะการแข่งม้า^{2}
-12554	^{1}Whale's Back Slide^{2}	^{1}Back Slide วาฬ^{2}
-12555	^{1}Courtyard of Chaos^{2}	^{1}ลานแห่งความโกลาหล^{2}
+12549	Enjoy Life: First Activity	Enjoy Life: First Activity
+12550	The Unconscious Adventurer	The Unconscious Adventurer
+12551	The Mysterious Cargo Crate	The Mysterious Cargo Crate
+12552	Continue the Investigation	Continue the Investigation
+12553	^{1}Horse Racing Phase^{2}	^{1}Horse Racing Phase^{2}
+12554	^{1}Whale's Back Slide^{2}	^{1}Whale's Back Slide^{2}
+12555	^{1}Courtyard of Chaos^{2}	^{1}Courtyard of Chaos^{2}
 12556	Defeat MVP Maya in a party	เอาชนะ MVP Maya ในปาร์ตี้
-12557	Starting Invincible Effect	เริ่มเอฟเฟกต์อมตะ
-12558	Cast Interruption Immunity	ภูมิคุ้มกันการหยุดชะงักของคาสต์
-12559	Failed to deploy Soul Echo	ล้มเหลวในการปรับใช้ Soul Echo
-12560	Magic-Warding Power - Blue	พลังป้องกันเวทย์มนตร์ - สีฟ้า
-12561	Hummingbird's Power - Blue	พลังนกฮัมมิ่งเบิร์ด - สีฟ้า
+12557	Starting Invincible Effect	Starting Invincible Effect
+12558	Cast Interruption Immunity	Cast Interruption Immunity
+12559	Failed to deploy Soul Echo	Failed to deploy Soul Echo
+12560	Magic-Warding Power - Blue	Magic-Warding Power - Blue
+12561	Hummingbird's Power - Blue	Hummingbird's Power - Blue
 12562	LOAD_REMOTE_CONFIG_SUB_MSG	LOAD_REMOTE_CONFIG_SUB_MSG
 12563	PATCH_PROGRESS_FORMAT@{1}S	PATCH_PROGRESS_FORMAT@{1}S
 12564	PATCH_PROGRESS_FORMAT@{1}M	PATCH_PROGRESS_FORMAT@{1}M
@@ -567,20 +567,20 @@
 12566	PATCH_REPAIR_CLIENT_BUTTON	PATCH_REPAIR_CLIENT_BUTTON
 12567	REMOTE_GAME_VERSION_FORMAT	REMOTE_GAME_VERSION_FORMAT
 12568	Open to receive @{1} Zeny.	Open รับ@{1}Zeny
-12569	Energy-Efficient Gathering	การรวบรวมพลังงานอย่างมีประสิทธิภาพ
-12570	Gathering Expert - Logging	การรวบรวมผู้เชี่ยวชาญ - Logging
-12571	Anti-Addiction Information	ข้อมูลต่อต้านการติดยาเสพติด
+12569	Energy-Efficient Gathering	Energy-Efficient Gathering
+12570	Gathering Expert - Logging	Gathering Expert - Logging
+12571	Anti-Addiction Information	Anti-Addiction Information
 12572	Open to select one Weapon.	Open เพื่อเลือกอาวุธหนึ่งอัน
 12573	Juice pressed from apples.	น้ำผลไม้สกัดจากแอปเปิ้ล
 12574	A Rare Ore that glows Red.	แร่หายากที่เปล่งแสงสีแดง
 12575	A fragment of Yellow jade.	เศษหยกเหลือง
-12576	Reach Lv. ${1} to Level-up	ถึงเลเวล${1}เพื่อเพิ่มเลเวล
-12577	Entire Server Total Energy	พลังงานรวมของเซิร์ฟเวอร์ทั้งหมด
-12578	Please select a Job Talent	กรุณาเลือกอาชีพที่มีความสามารถ
+12576	Reach Lv. ${1} to Level-up	Reach Lv. ${1} to Level-up
+12577	Entire Server Total Energy	Entire Server Total Energy
+12578	Please select a Job Talent	Please select a Job Talent
 12579	Professor Ryan's notebook.	สมุดบันทึกของ Professor Ryan
 12580	An ordinary-looking sword.	ดาบที่ดูธรรมดา
-12581	Gazing Up at the Twin Axes	จ้องมองไปที่แกนคู่
-12582	Not Enough Reset Materials	วัสดุรีเซ็ตไม่เพียงพอ
+12581	Gazing Up at the Twin Axes	Gazing Up at the Twin Axes
+12582	Not Enough Reset Materials	Not Enough Reset Materials
 12583	Low-Tier Undead Resistance	Low-Tier Undead Resistance
 12584	Low-Tier Magic Penetration	Low-Tier Magic Penetration
 12585	Low-Tier Continuous Shield	Low-Tier Continuous Shield
@@ -590,7 +590,7 @@
 12589	Corrupted Wander Man Shard	Corrupted Wander Man Shard
 12590	Blue Cards Selection Chest	Blue Cards Selection Chest
 12591	Main Story Completion Pack	Main Story Completion Pack
-12592	Request sent to the guild.	คำขอถูกส่งไปที่กิลด์
+12592	Request sent to the guild.	Request sent to the guild.
 12593	Surprise Pack (Deprecated)	Surprise Pack (Deprecated)
 12594	Master Artisan Certificate	Master Artisan Certificate
 12595	Sobbing Starlight Fragment	Sobbing Starlight Fragment
@@ -616,188 +616,188 @@
 12615	Fate Scroll·Off-Hand-Green	Fate Scroll·Off-Hand-Green
 12616	Ymir Scroll·Off-Hand-Green	Ymir Scroll·Off-Hand-Green
 12617	Refreshing Breath Medicine	Refreshing Breath Medicine
-12618	Select an Enchant formula.	เลือกสูตรเสริมเสน่ห์
-12619	Must own item ^{1}${1}^{2}	สินค้าต้องเป็นเจ้าของ ^{1}${1}^{2}
-12620	Requires Card ^{1}${1}^{2}	ต้องใช้การ์ด ^{1}${1}^{2}
-12621	Not enough Refine attempts	พยายามปรับแต่งไม่เพียงพอ
-12622	Total Refine Level too low	ระดับการปรับแต่งรวมต่ำเกินไป
-12623	Monster Kill count too low	จำนวนการ Kill มอนสเตอร์ต่ำเกินไป
-12624	Dialogue not yet completed	ยังไม่เสร็จสมบูรณ์
-12625	Required score not reached	คะแนนไม่ถึงตามที่กำหนด
-12626	Target requirement not met	ไม่เป็นไปตามข้อกำหนดเป้าหมาย
-12627	Required Kills not reached	การ Kills ที่จำเป็นไม่ถึง
-12628	Quest requirements not met	ไม่เป็นไปตามข้อกำหนดของภารกิจ
-12629	Required level Not Reached	ไม่ถึงระดับที่ต้องการ
-12630	Not enough Totems deployed	มีการปรับใช้ Totem ไม่เพียงพอ
+12618	Select an Enchant formula.	Select an Enchant formula.
+12619	Must own item ^{1}${1}^{2}	Must own item ^{1}${1}^{2}
+12620	Requires Card ^{1}${1}^{2}	Requires Card ^{1}${1}^{2}
+12621	Not enough Refine attempts	Not enough Refine attempts
+12622	Total Refine Level too low	Total Refine Level too low
+12623	Monster Kill count too low	Monster Kill count too low
+12624	Dialogue not yet completed	Dialogue not yet completed
+12625	Required score not reached	Required score not reached
+12626	Target requirement not met	Target requirement not met
+12627	Required Kills not reached	Required Kills not reached
+12628	Quest requirements not met	Quest requirements not met
+12629	Required level Not Reached	Required level Not Reached
+12630	Not enough Totems deployed	Not enough Totems deployed
 12631	Treasure Hunt Dig Attempts	Treasure Hunt Dig Attempts
-12632	Guild Prestige Information	ข้อมูลศักดิ์ศรี Guild
-12633	Guild Supplies Information	ข้อมูล Guild Supplies
-12634	Bosses Defeated: ${1}/${2}	พ่ายแพ้:${1}/${2}
-12635	Monster Collection Details	รายละเอียดคอลเลกชันมอนสเตอร์
-12636	Send ${1} a dungeon invite	ส่งคำเชิญไปยังดันเจี้ยน${1}
-12637	, step on the rhythm notes	,เหยียบโน้ตจังหวะ
-12638	Lucky Crafting - Tailoring	Lucky Crafting - การตัดเย็บเสื้อผ้า
-12639	Western Alberta Prefecture	จังหวัด Alberta ตะวันตก
-12640	Eastern Alberta Prefecture	จังหวัด Alberta ตะวันออก
-12641	Southern Izlude Prefecture	จังหวัดอิซลูเดตอนใต้
-12642	Southern Geffen Prefecture	จังหวัด Geffen ตอนใต้
-12643	Tap to Search for Monsters	แตะเพื่อค้นหาสัตว์ประหลาด
-12644	Books Collected: ${1}/${2}	หนังสือที่รวบรวม:${1}/${2}
-12645	Elf Tower: Race to the Top	Elf Tower: การแข่งขันสู่จุดสูงสุด
+12632	Guild Prestige Information	Guild Prestige Information
+12633	Guild Supplies Information	Guild Supplies Information
+12634	Bosses Defeated: ${1}/${2}	Bosses Defeated: ${1}/${2}
+12635	Monster Collection Details	Monster Collection Details
+12636	Send ${1} a dungeon invite	Send ${1} a dungeon invite
+12637	, step on the rhythm notes	, step on the rhythm notes
+12638	Lucky Crafting - Tailoring	Lucky Crafting - Tailoring
+12639	Western Alberta Prefecture	Western Alberta Prefecture
+12640	Eastern Alberta Prefecture	Eastern Alberta Prefecture
+12641	Southern Izlude Prefecture	Southern Izlude Prefecture
+12642	Southern Geffen Prefecture	Southern Geffen Prefecture
+12643	Tap to Search for Monsters	Tap to Search for Monsters
+12644	Books Collected: ${1}/${2}	Books Collected: ${1}/${2}
+12645	Elf Tower: Race to the Top	Elf Tower: Race to the Top
 12646	Increase AGI [Buff Effect]	Increase AGI [Buff Effect]
-12647	Emergency Treatment Shield	โล่ Emergency Treatment
-12648	Transform into Savage Babe	แปลงร่างเป็น Savage Babe
-12649	Shield Boomerang Has No CD	Shield Boomerang ไม่มีซีดี
-12650	King's Grace Slows Enemies	King's Grace ทำให้ศัตรู Slows ลง
+12647	Emergency Treatment Shield	Emergency Treatment Shield
+12648	Transform into Savage Babe	Transform into Savage Babe
+12649	Shield Boomerang Has No CD	Shield Boomerang Has No CD
+12650	King's Grace Slows Enemies	King's Grace Slows Enemies
 12651	BDTarget_LogicData_BigType	BDTarget_LogicData_BigType
-12652	Chaotic Space (Deprecated)	พื้นที่วุ่นวาย (เลิกใช้แล้ว)
-12653	Enhance Camouflage Stealth	เสริมการอำพรางการลักลอบ
-12654	Instantly restores @{1} HP	ฟื้นฟู HP ของ@{1}ทันที
-12655	Battle Royale Victory Buff	บัฟชัยชนะ Battle Royale
-12656	Protection Orbit DEF Boost	ป้องกันวงโคจร DEF Boost
+12652	Chaotic Space (Deprecated)	Chaotic Space (Deprecated)
+12653	Enhance Camouflage Stealth	Enhance Camouflage Stealth
+12654	Instantly restores @{1} HP	Instantly restores @{1} HP
+12655	Battle Royale Victory Buff	Battle Royale Victory Buff
+12656	Protection Orbit DEF Boost	Protection Orbit DEF Boost
 12657	Lope Obstacle-Dodge Marker	Lope Obstacle-Dodge Marker
-12658	Transform into a Blue Note	แปลงร่างเป็นโน้ตสีน้ำเงิน
-12659	In Development—Coming Soon	อยู่ระหว่างการพัฒนา—Coming Soon
-12660	Spellbook - Gravity Impact	- ผลกระทบจากแรงโน้มถ่วง
-12661	Osiris Disengagement Check	การตรวจสอบการหลุดออกของ Osiris
-12662	Death Scythe Life Recovery	การฟื้นฟู LifeDeath Scythe
-12663	Fire Element Vulnerability	ช่องโหว่ขององค์ประกอบไฟ
-12664	Sword, Derived Interaction	การโต้ตอบที่ได้รับ
-12665	Ghost Ship Single-Hit Buff	เรือผี บัฟการโจมตีครั้งเดียว
-12666	Post-Death Lighting Effect	เอฟเฟกต์แสงหลังความตาย
-12667	Green Tracking Line Effect	เอฟเฟกต์เส้นติดตามสีเขียว
-12668	Switch Enhance Blood Cross	สวิตช์เสริมเลือดครอส
-12669	Rolling Cutter BD_S@{1}_BD	BD_S@{1}_BD
-12670	Elemental Attunement-Comet	การปรับธาตุ-Comet
-12671	Elemental Attunement Comet	Comet ปรับธาตุ
+12658	Transform into a Blue Note	Transform into a Blue Note
+12659	In Development—Coming Soon	In Development—Coming Soon
+12660	Spellbook - Gravity Impact	Spellbook - Gravity Impact
+12661	Osiris Disengagement Check	Osiris Disengagement Check
+12662	Death Scythe Life Recovery	Death Scythe Life Recovery
+12663	Fire Element Vulnerability	Fire Element Vulnerability
+12664	Sword, Derived Interaction	Sword, Derived Interaction
+12665	Ghost Ship Single-Hit Buff	Ghost Ship Single-Hit Buff
+12666	Post-Death Lighting Effect	Post-Death Lighting Effect
+12667	Green Tracking Line Effect	Green Tracking Line Effect
+12668	Switch Enhance Blood Cross	Switch Enhance Blood Cross
+12669	Rolling Cutter BD_S@{1}_BD	Rolling Cutter BD_S@{1}_BD
+12670	Elemental Attunement-Comet	Elemental Attunement-Comet
+12671	Elemental Attunement Comet	Elemental Attunement Comet
 12672	Venom Dance Increase Dodge	Venom Dance Increase Dodge
-12673	Friendship must reach ${1}	มิตรภาพต้องไปถึง${1}
-12674	Allocate Basic Stat Points	จัดสรรคะแนนสถิติพื้นฐาน
-12675	Equip ${2} ${1}-star cards	ติดตั้ง${2}${1}- การ์ดดาว
-12676	Kill ${2} monsters in ${1}	Kill มอนสเตอร์${2}ใน${1}
-12677	No report reason selected.	ไม่ได้เลือกเหตุผลของรายงาน
-12678	^{1}Defeat Dark Priest^{2}	^{1}เอาชนะ Dark Priest^{2}
+12673	Friendship must reach ${1}	Friendship must reach ${1}
+12674	Allocate Basic Stat Points	Allocate Basic Stat Points
+12675	Equip ${2} ${1}-star cards	Equip ${2} ${1}-star cards
+12676	Kill ${2} monsters in ${1}	Kill ${2} monsters in ${1}
+12677	No report reason selected.	No report reason selected.
+12678	^{1}Defeat Dark Priest^{2}	^{1}Defeat Dark Priest^{2}
 12679	^{1}[Tower of Spirits]^{2}	^{1}[Tower of Spirits]^{2}
-12680	Waiting for the Next Event	กำลังรอกิจกรรมถัดไป
-12681	Costume Engraving Overview	ภาพรวมการแกะสลักเครื่องแต่งกาย
-12682	Competition Reward Details	หน้าจอการแข่งขัน
-12683	Individual Points Overview	รางวัลชัยชนะส่วนบุคคล
-12684	Device - Rapid-Fire Cannon	- Cannon ยิงเร็ว
-12685	Pet Deployment and Support	การปรับใช้และการสนับสนุนสัตว์เลี้ยง
-12686	Achievement does not exist	ความสำเร็จไม่มีอยู่จริง
-12687	Member is in another group	สมาชิกอยู่ในกลุ่มอื่น
-12688	Already on the Blocks list	อยู่ในรายการบล็อกแล้ว
-12689	Not on the invitation list	ไม่อยู่ในรายการคำเชิญ
-12690	Friend group limit reached	กลุ่มเพื่อนถึงขีดจำกัดแล้ว
-12691	You are not the Group Host	คุณไม่ใช่โฮสต์ของกลุ่ม
-12692	Player data does not exist	ไม่มีข้อมูลผู้เล่น
-12693	Tavern room does not exist	ห้อง Tavern ไม่มีอยู่
-12694	Bonus time is on cooldown.	เวลาโบนัสอยู่ในคูลดาวน์
-12695	Skill has not been enabled	ไม่ได้ถูกเปิดใช้งาน
-12696	Operations provider error.	คำสั่งซื้อ
-12697	Request All is on cooldown	ทั้งหมดอยู่ในคูลดาวน์
-12698	Includes the affixes above	รวมส่วนต่อท้ายด้านบน
-12699	Required level not reached	ไม่ถึงระดับที่ต้องการ
-12700	No eligible location found	ไม่พบสถานที่ที่มีสิทธิ์
-12701	Event requirements not met	รางวัลกิจกรรม
-12702	Action type does not exist	ไม่มีประเภทการดำเนินการ
-12703	Current node not completed	โหนดปัจจุบันยังไม่เสร็จสมบูรณ์
-12704	Missing required parameter	ไม่มีพารามิเตอร์ที่จำเป็น
-12705	Life Skill already learned	ทักษะ Life ได้เรียนรู้แล้ว
-12706	Live Coal already gathered	Live Coal รวบรวมไว้แล้ว
-12707	Insufficient trigger count	จำนวนทริกเกอร์ไม่เพียงพอ
-12708	Trigger parameter mismatch	พารามิเตอร์ทริกเกอร์ไม่ตรงกัน
-12709	Matchmaking data is empty.	ข้อมูลการจับคู่ว่างเปล่า
-12710	Item is still on cooldown.	ไอเทมยังคงอยู่ในคูลดาวน์
-12711	Invalid location selected.	เลือกตำแหน่งไม่ถูกต้อง
-12712	Invitation does not exist.	การเชิญ
-12713	Unable to send invitation.	ไม่สามารถส่งคำเชิญได้
-12714	Soul Echo cannot Level-up.	Soul Echo ไม่สามารถอัพเลเวลได้
-12715	^{1}Cart Reinforcement^{2}	^{1}การเสริมแรงรถเข็น^{2}
-12716	^{1}Anaerobic Training^{2}	^{1}การฝึกแบบไม่ใช้ออกซิเจน^{2}
-12717	^{1}Accelerated Impact^{2}	^{1}เร่งการกระแทก^{2}
-12718	Martyr's Reckoning Enhance	การเพิ่มประสิทธิภาพการคำนวณของผู้พลีชีพ
-12719	Advanced Poison Resistance	Poison Resistance ขั้นสูง
-12720	Advanced Shadow Resistance	Shadow Resistance ขั้นสูง
-12721	Advanced Undead Resistance	การต้านทานอันเดดขั้นสูง
-12722	Advanced Hunting Expertise	ความเชี่ยวชาญด้านการล่าสัตว์ขั้นสูง
-12723	Two-Handed Training LV@{1}	การฝึกสองมือ LV@{1}
-12724	^{1}Beginner Mana Rune^{2}	^{1}รูนมานาเริ่มต้น^{2}
+12680	Waiting for the Next Event	Waiting for the Next Event
+12681	Costume Engraving Overview	Costume Engraving Overview
+12682	Competition Reward Details	Competition Reward Details
+12683	Individual Points Overview	Individual Points Overview
+12684	Device - Rapid-Fire Cannon	Device - Rapid-Fire Cannon
+12685	Pet Deployment and Support	Pet Deployment and Support
+12686	Achievement does not exist	Achievement does not exist
+12687	Member is in another group	Member is in another group
+12688	Already on the Blocks list	Already on the Blocks list
+12689	Not on the invitation list	Not on the invitation list
+12690	Friend group limit reached	Friend group limit reached
+12691	You are not the Group Host	You are not the Group Host
+12692	Player data does not exist	Player data does not exist
+12693	Tavern room does not exist	Tavern room does not exist
+12694	Bonus time is on cooldown.	Bonus time is on cooldown.
+12695	Skill has not been enabled	Skill has not been enabled
+12696	Operations provider error.	Operations provider error.
+12697	Request All is on cooldown	Request All is on cooldown
+12698	Includes the affixes above	Includes the affixes above
+12699	Required level not reached	Required level not reached
+12700	No eligible location found	No eligible location found
+12701	Event requirements not met	Event requirements not met
+12702	Action type does not exist	Action type does not exist
+12703	Current node not completed	Current node not completed
+12704	Missing required parameter	Missing required parameter
+12705	Life Skill already learned	Life Skill already learned
+12706	Live Coal already gathered	Live Coal already gathered
+12707	Insufficient trigger count	Insufficient trigger count
+12708	Trigger parameter mismatch	Trigger parameter mismatch
+12709	Matchmaking data is empty.	Matchmaking data is empty.
+12710	Item is still on cooldown.	Item is still on cooldown.
+12711	Invalid location selected.	Invalid location selected.
+12712	Invitation does not exist.	Invitation does not exist.
+12713	Unable to send invitation.	Unable to send invitation.
+12714	Soul Echo cannot Level-up.	Soul Echo cannot Level-up.
+12715	^{1}Cart Reinforcement^{2}	^{1}Cart Reinforcement^{2}
+12716	^{1}Anaerobic Training^{2}	^{1}Anaerobic Training^{2}
+12717	^{1}Accelerated Impact^{2}	^{1}Accelerated Impact^{2}
+12718	Martyr's Reckoning Enhance	Martyr's Reckoning Enhance
+12719	Advanced Poison Resistance	Advanced Poison Resistance
+12720	Advanced Shadow Resistance	Advanced Shadow Resistance
+12721	Advanced Undead Resistance	Advanced Undead Resistance
+12722	Advanced Hunting Expertise	Advanced Hunting Expertise
+12723	Two-Handed Training LV@{1}	Two-Handed Training LV@{1}
+12724	^{1}Beginner Mana Rune^{2}	^{1}Beginner Mana Rune^{2}
 12725	^{1}Spatial Distortion^{2}	^{1}Spatial Distortion^{2}
-12726	Data not found in database	ไม่พบข้อมูลในฐานข้อมูล
-12727	Text cannot contain spaces	ข้อความไม่สามารถมีช่องว่างได้
-12728	Player is no longer Online	ผู้เล่นไม่ได้ออนไลน์อีกต่อไป
-12729	Backpack sorting SD active	กระเป๋าเป้สะพายหลังแยก SD ใช้งานอยู่
-12730	Stat preset does not exist	สถิติที่ตั้งไว้ล่วงหน้าไม่มีอยู่
-12731	Teleport Gate not unlocked	GateTeleport ไม่ได้ปลดล็อค
-12732	GvG is currently inactive.	GvG ไม่ได้ใช้งานอยู่ในขณะนี้
-12733	Queued to enter the scene.	เข้าคิวเพื่อเข้าฉาก
-12734	The preset does not exist.	ไม่มีค่าที่ตั้งไว้ล่วงหน้า
-12735	Skill Bar is out of range.	Skill Bar อยู่นอกระยะ
-12736	Skill Bar is not unlocked.	Skill Bar ไม่ได้ถูกปลดล็อค
-12737	Players on the Battlefield	ในสนามรบ
-12738	Teleport to the commander?	Teleport ไปหาผู้บังคับบัญชา?
-12739	Average Contribution: ${1}	ผลงานเฉลี่ย:${1}
-12740	Failed to create the item.	ไม่สามารถสร้างไอเท็มได้
-12741	Unable to Put in the Cart.	ไม่สามารถใส่ลงในรถเข็นได้
-12742	Unable to make a Donation.	ไม่สามารถบริจาคได้
-12743	Resistance Intensity: ${1}	ความเข้มของความต้านทาน:${1}
+12726	Data not found in database	Data not found in database
+12727	Text cannot contain spaces	Text cannot contain spaces
+12728	Player is no longer Online	Player is no longer Online
+12729	Backpack sorting SD active	Backpack sorting SD active
+12730	Stat preset does not exist	Stat preset does not exist
+12731	Teleport Gate not unlocked	Teleport Gate not unlocked
+12732	GvG is currently inactive.	GvG is currently inactive.
+12733	Queued to enter the scene.	Queued to enter the scene.
+12734	The preset does not exist.	The preset does not exist.
+12735	Skill Bar is out of range.	Skill Bar is out of range.
+12736	Skill Bar is not unlocked.	Skill Bar is not unlocked.
+12737	Players on the Battlefield	Players on the Battlefield
+12738	Teleport to the commander?	Teleport to the commander?
+12739	Average Contribution: ${1}	Average Contribution: ${1}
+12740	Failed to create the item.	Failed to create the item.
+12741	Unable to Put in the Cart.	Unable to Put in the Cart.
+12742	Unable to make a Donation.	Unable to make a Donation.
+12743	Resistance Intensity: ${1}	Resistance Intensity: ${1}
 12744	Outpost's Group Warp Skill	ทักษะวาร์ปกลุ่มของ Outpost
 12745	Drake minion Basic Attack.	Drake มินเนี่ยน การโจมตีปกติ
-12746	You've already liked this.	คุณถูกใจสิ่งนี้แล้ว
+12746	You've already liked this.	You've already liked this.
 12747	This is Left-Hand Mastery.	นี่คือความชำนาญทางซ้าย
-12748	Total Rewards over 30 Days	รางวัลรวมตลอด 30 วัน
-12749	Invalid Activity Reward ID	ID รางวัล Activity ไม่ถูกต้อง
-12750	This item is not equipment	สินค้าชิ้นนี้ไม่ใช่อุปกรณ์
-12751	Incorrect equipment gender	เพศของอุปกรณ์ไม่ถูกต้อง
-12752	Invalid guild name length.	ความยาวของชื่อกิลด์ไม่ถูกต้อง
-12753	Not enough Guild Activity.	Guild Activity ไม่เพียงพอ
-12754	First Major Responsibility	ความรับผิดชอบหลักครั้งแรก
-12755	Payon brooms are the best!	ไม้กวาด Payon ดีที่สุด!
-12756	60-Player Fair Competition	การแข่งขันที่ยุติธรรมสำหรับผู้เล่น 60 คน
-12757	${1} invited you to follow	${1}ชวนติดตาม
-12758	Go to another farming spot	ไปที่จุดทำฟาร์มอื่น
-12759	Cancel Support Application	ยกเลิกแอปพลิเคชันสนับสนุน
-12760	Waterings Today: ${1}/${2}	รดน้ำวันนี้:${1}/${2}
-12761	You rescued teammate ${1}.	คุณช่วยเหลือเพื่อนร่วมทีม${1}แล้ว
-12762	Teammate ${1} rescued you.	เพื่อนร่วมทีม${1}ช่วยชีวิตคุณไว้
-12763	The competition has begun!	การแข่งขันได้เริ่มขึ้นแล้ว!
-12764	${1} invited you to Follow	${1}เชิญคุณติดตาม
-12765	Tap to Begin the Challenge	แตะเพื่อเริ่มการท้าทาย
+12748	Total Rewards over 30 Days	Total Rewards over 30 Days
+12749	Invalid Activity Reward ID	Invalid Activity Reward ID
+12750	This item is not equipment	This item is not equipment
+12751	Incorrect equipment gender	Incorrect equipment gender
+12752	Invalid guild name length.	Invalid guild name length.
+12753	Not enough Guild Activity.	Not enough Guild Activity.
+12754	First Major Responsibility	First Major Responsibility
+12755	Payon brooms are the best!	Payon brooms are the best!
+12756	60-Player Fair Competition	60-Player Fair Competition
+12757	${1} invited you to follow	${1} invited you to follow
+12758	Go to another farming spot	Go to another farming spot
+12759	Cancel Support Application	Cancel Support Application
+12760	Waterings Today: ${1}/${2}	Waterings Today: ${1}/${2}
+12761	You rescued teammate ${1}.	You rescued teammate ${1}.
+12762	Teammate ${1} rescued you.	Teammate ${1} rescued you.
+12763	The competition has begun!	The competition has begun!
+12764	${1} invited you to Follow	${1} invited you to Follow
+12765	Tap to Begin the Challenge	Tap to Begin the Challenge
 12766	ATK Speed reduced by @{1}%	ความเร็ว ATK ลดลง@{1}%
-12767	Poring Reward Boost Lv@{1}	เพิ่มรางวัล Poring Lv@{1}
-12768	Blessing of Growth Lv.@{1}	Blessing แห่งการเติบโต Lv.@{1}
-12769	Radiance of Wealth Lv.@{1}	ความเปล่งประกายแห่งความมั่งคั่ง Lv.@{1}
-12770	Challenge Not Yet Unlocked	Challenge ยังไม่ปลดล็อค
+12767	Poring Reward Boost Lv@{1}	Poring Reward Boost Lv@{1}
+12768	Blessing of Growth Lv.@{1}	Blessing of Growth Lv.@{1}
+12769	Radiance of Wealth Lv.@{1}	Radiance of Wealth Lv.@{1}
+12770	Challenge Not Yet Unlocked	Challenge Not Yet Unlocked
 12771	Falcon Assault【Stat Boost】	Falcon Assault【Stat Boost】
 12772	Sharp Shooting【Stat Boost】	Sharp Shooting【Stat Boost】
 12773	Arrow Shower【Mode/Trigger】	Arrow Shower【Mode/Trigger】
 12774	Blitz Beat【Trigger Effect】	Blitz Beat【Trigger Effect】
-12775	Solo Madogear Pilot Shield	Shield นักบิน Solo Madogear
+12775	Solo Madogear Pilot Shield	Solo Madogear Pilot Shield
 12776	Detached VFX Asset Library	ไลบรารีสินทรัพย์ VFX ที่แยกออกมา
 12777	Tracking Petrify Mist—Easy	ติดตาม Petrify Mist—ง่าย
 12778	Blade Mountain - True Fall	Blade Mountain - True Fall
 12779	Poison Mushroom AOE-Poison	Poison Mushroom AOE-Poison
 12780	Monster Normal Attack-Holy	Monster Normal Attack-Holy
-12781	The One Riding a Peco Peco	คนที่ Riding Peco Peco
-12782	Join the Adventurer Group?	เข้าร่วมกลุ่ม Adventurer?
+12781	The One Riding a Peco Peco	The One Riding a Peco Peco
+12782	Join the Adventurer Group?	Join the Adventurer Group?
 12783	Playful Lace Kitty Headband	Playful Lace Kitty Headband
-12784	Silverwing Covenant · Order	Silverwing Covenant · สั่งซื้อ
+12784	Silverwing Covenant · Order	Silverwing Covenant · Order
 12785	Nine-Tone Mantra · Elegance	Nine-Tone Mantra · Elegance
-12786	Silverwing Covenant: Prayer	พันธสัญญา Silverwing: การอธิษฐาน
-12787	Stage reward does not exist	ไม่มีรางวัลสเตจ
+12786	Silverwing Covenant: Prayer	Silverwing Covenant: Prayer
+12787	Stage reward does not exist	Stage reward does not exist
 12788	Standard Compensation Chest	Standard Compensation Chest
-12789	Ritual Time Remaining: ${1}	เวลาพิธีกรรมที่เหลืออยู่:${1}
-12790	The Assist Quest has ended.	ภารกิจ Assist สิ้นสุดลงแล้ว
-12791	Clear ${1} Misc (${2}/${3})	ล้าง${1}อื่นๆ (${2}/${3})
+12789	Ritual Time Remaining: ${1}	Ritual Time Remaining: ${1}
+12790	The Assist Quest has ended.	The Assist Quest has ended.
+12791	Clear ${1} Misc (${2}/${3})	Clear ${1} Misc (${2}/${3})
 12792	Damage to Neutral Monsters%	Damage to Neutral Monsters%
-12793	Damage to Poison Monsters %	สร้างความเสียหายต่อมอนสเตอร์พิษ %
-12794	Damage to Shadow Monsters %	สร้างความเสียหายต่อ Shadow Monsters %
-12795	Damage to Undead Monsters %	สร้างความเสียหายต่อมอนสเตอร์ Undead %
-12796	Damage to Demi-Human Race %	สร้างความเสียหายต่อเผ่าพันธุ์กึ่งมนุษย์ %
-12797	Field Auto-Battle EXP Bonus	โบนัส EXP การต่อสู้อัตโนมัติในสนาม
-12798	^{1}Festival Invitation^{2}	^{1}คำเชิญเข้าร่วมเทศกาล^{2}
-12799	Obtained from: ${1}  【${2}】	ได้รับจาก:${1}【${2}】
+12793	Damage to Poison Monsters %	Damage to Poison Monsters %
+12794	Damage to Shadow Monsters %	Damage to Shadow Monsters %
+12795	Damage to Undead Monsters %	Damage to Undead Monsters %
+12796	Damage to Demi-Human Race %	Damage to Demi-Human Race %
+12797	Field Auto-Battle EXP Bonus	Field Auto-Battle EXP Bonus
+12798	^{1}Festival Invitation^{2}	^{1}Festival Invitation^{2}
+12799	Obtained from: ${1}  【${2}】	Obtained from: ${1}  【${2}】
 12800	Kill @{1} Soldier Skeletons	KillSkeletonsSoldier@{1}
 12801	Kill Deniro and Piere: @{1}	KillDeniro และ Piere:@{1}
 12802	Kill Andre and Vitata: @{1}	Kill Andre และ Vitata:@{1}
@@ -806,28 +806,28 @@
 12805	Continue exploring Orc Cave	สำรวจ Orc Cave ต่อ
 12806	Guild League Finals Mission	ภารกิจ Guild League Finals
 12807	Expedition Activity Mission	ภารกิจ Activity การสำรวจ
-12808	Rare Reward-Drake-MVP Limit	รางวัลหายาก-Drake-MVP จำกัด
-12809	Rare Reward-Eddga-MVP Limit	รางวัลหายาก-จำกัด Eddga-MVP
+12808	Rare Reward-Drake-MVP Limit	Rare Reward-Drake-MVP Limit
+12809	Rare Reward-Eddga-MVP Limit	Rare Reward-Eddga-MVP Limit
 12810	Kill Monster A +@{1} Points	Kill มอนสเตอร์ A + คะแนน@{1}
 12811	Defeat Hard Maya in a party	เอาชนะ Hard Maya ในปาร์ตี้
 12812	Defeat Hard Ilmo in a party	เอาชนะ Hard Ilmo ในปาร์ตี้
 12813	Inspect the scattered cargo	ตรวจสอบสินค้าที่กระจัดกระจาย
 12814	Awaken in the Court of Time	ตื่นขึ้นมาในศาลแห่งกาลเวลา
-12815	Increases your PDMG output.	เพิ่มเอาต์พุต PDMG ของคุณ
-12816	Increases your MDMG output.	เพิ่มเอาต์พุต MDMG ของคุณ
-12817	Emi Continent Royal Capital	เมืองหลวงของทวีป Emi
-12818	Impeachment to be responded	การฟ้องร้องที่จะได้รับการตอบกลับ
-12819	Daily Activity Compensation	ค่าตอบแทน Activity รายวัน
-12820	Trade Penalty Appeal Denied	การอุทธรณ์การลงโทษทางการค้าถูกปฏิเสธ
-12821	Festival Invitation Rewards	รางวัลเชิญเทศกาล
+12815	Increases your PDMG output.	Increases your PDMG output.
+12816	Increases your MDMG output.	Increases your MDMG output.
+12817	Emi Continent Royal Capital	Emi Continent Royal Capital
+12818	Impeachment to be responded	Impeachment to be responded
+12819	Daily Activity Compensation	Daily Activity Compensation
+12820	Trade Penalty Appeal Denied	Trade Penalty Appeal Denied
+12821	Festival Invitation Rewards	Festival Invitation Rewards
 12822	Secret Trove Activity Quest	Secret Trove Activity Quest
-12823	Dumby's Request (${1}/${2})	คำขอของดัมบี้ (${1}/${2})
-12824	No items selected for sale.	ไม่มีสินค้าที่เลือกขาย
-12825	This item has been removed.	รายการนี้ถูกลบออกแล้ว
-12826	Restore Smelting Attributes	คืนค่าคุณสมบัติการถลุง
-12827	^{1}Journey's Beginning^{2}	^{1}จุดเริ่มต้นของการเดินทาง^{2}
-12828	Guild Contribution Rankings	อันดับ Guild Contribution
-12829	Failed to switch characters	ไม่สามารถสลับอักขระได้
+12823	Dumby's Request (${1}/${2})	Dumby's Request (${1}/${2})
+12824	No items selected for sale.	No items selected for sale.
+12825	This item has been removed.	This item has been removed.
+12826	Restore Smelting Attributes	Restore Smelting Attributes
+12827	^{1}Journey's Beginning^{2}	^{1}Journey's Beginning^{2}
+12828	Guild Contribution Rankings	Guild Contribution Rankings
+12829	Failed to switch characters	Failed to switch characters
 12830	Choose Your Preferred Class	เลือกคลาสที่คุณต้องการ
 12831	Complete the Airship Battle	เสร็จสิ้นการต่อสู้เรือเหาะ
 12832	Head to the Adventurer Camp	มุ่งหน้าสู่แคมป์ Adventurer
@@ -837,49 +837,49 @@
 12836	Ask Rhine about the request	Ask Rhine about the request
 12837	Give the Snake Eggs to Boya	มอบไข่งูให้ Boya
 12838	Clear out the nearby Horns*	เคลียร์ Horns ที่อยู่ใกล้เคียง*
-12839	Current Paragon Level: ${1}	ระดับพารากอนปัจจุบัน:${1}
-12840	Unlock this Mood instantly.	ปลดล็อคอารมณ์นี้ทันที
+12839	Current Paragon Level: ${1}	Current Paragon Level: ${1}
+12840	Unlock this Mood instantly.	Unlock this Mood instantly.
 12841	Increases damage reflection	เพิ่มการสะท้อนความเสียหาย
-12842	Producer Subjugation Battle	การต่อสู้ปราบปรามผู้ผลิต
-12843	Equipment Enhancement Guide	คู่มือการเพิ่มประสิทธิภาพอุปกรณ์
-12844	Guild Technology - Strategy	เทคโนโลยี Guild - กลยุทธ์
-12845	Pinnacle Top Ten - Acolytes	สิบอันดับแรกของพินนาเคิล - ลูกศิษย์
-12846	Personal Merits Leaderboard	กระดานผู้นำข้อดีส่วนบุคคล
-12847	Don't remind me again today	วันนี้อย่าเตือนฉันอีก
-12848	Listing period ends in ${1}	ระยะเวลารายการสิ้นสุดใน${1}
-12849	Novice Handbook Event Rules	รางวัลคู่มือมือใหม่
-12850	Deprecated—Do Not Configure	เลิกใช้แล้ว—ไม่ต้องกำหนดค่า
-12851	Gain @{1} Extra skill slots	รับช่องทักษะพิเศษ@{1}
-12852	Recipient Already Owns This	เป็นเจ้าของสิ่งนี้แล้ว
-12853	Their Popularity This Week:	ความนิยมของพวกเขาในสัปดาห์นี้:
-12854	Enter a name for the group…	ใส่ชื่อกลุ่ม...
-12855	No one is currently ranked.	ขณะนี้ยังไม่มีการจัดอันดับ
-12856	Request to Join Party sent.	ส่งคำขอเข้าร่วมปาร์ตี้แล้ว
-12857	You are already in a Party.	คุณอยู่ในปาร์ตี้แล้ว
-12858	The Party no longer exists.	ปาร์ตี้ไม่มีอยู่อีกต่อไป
-12859	Stronghold War - Off-Season	สงครามฐานที่มั่น - นอกฤดูกาล
-12860	Trade is Not Available yet.	ยังไม่มีการซื้อขาย
-12861	Your guild has no requests.	กิลด์ของคุณไม่มีการร้องขอ
-12862	Escort Missions Unavailable	ภารกิจคุ้มกันไม่พร้อมใช้งาน
-12863	Not Eligible to Participate	ไม่มีสิทธิ์เข้าร่วม
-12864	No available bidding events	ไม่มีเหตุการณ์การประมูลที่มีอยู่
-12865	Currently Qualifying Guilds	Guilds ที่ผ่านการคัดเลือกในปัจจุบัน
-12866	You are already on this map	คุณอยู่บนแผนที่นี้แล้ว
-12867	This guild no longer exists	กิลด์นี้ไม่มีอยู่แล้ว
-12868	You have not joined a guild	คุณยังไม่ได้เข้าร่วมกิลด์
-12869	Enter an announcement first	ใส่ประกาศก่อน
-12870	You are already in a guild.	คุณอยู่ในกิลด์แล้ว
-12871	You cannot appoint yourself	คุณไม่สามารถแต่งตั้งตัวเองได้
-12872	${1} has not joined a guild	${1}ยังไม่ได้เข้าร่วมกิลด์
-12873	Goods Needed by the Caravan	สินค้าที่คาราวานต้องการ
+12842	Producer Subjugation Battle	Producer Subjugation Battle
+12843	Equipment Enhancement Guide	Equipment Enhancement Guide
+12844	Guild Technology - Strategy	Guild Technology - Strategy
+12845	Pinnacle Top Ten - Acolytes	Pinnacle Top Ten - Acolytes
+12846	Personal Merits Leaderboard	Personal Merits Leaderboard
+12847	Don't remind me again today	Don't remind me again today
+12848	Listing period ends in ${1}	Listing period ends in ${1}
+12849	Novice Handbook Event Rules	Novice Handbook Event Rules
+12850	Deprecated—Do Not Configure	Deprecated—Do Not Configure
+12851	Gain @{1} Extra skill slots	Gain @{1} Extra skill slots
+12852	Recipient Already Owns This	Recipient Already Owns This
+12853	Their Popularity This Week:	Their Popularity This Week:
+12854	Enter a name for the group…	Enter a name for the group…
+12855	No one is currently ranked.	No one is currently ranked.
+12856	Request to Join Party sent.	Request to Join Party sent.
+12857	You are already in a Party.	You are already in a Party.
+12858	The Party no longer exists.	The Party no longer exists.
+12859	Stronghold War - Off-Season	Stronghold War - Off-Season
+12860	Trade is Not Available yet.	Trade is Not Available yet.
+12861	Your guild has no requests.	Your guild has no requests.
+12862	Escort Missions Unavailable	Escort Missions Unavailable
+12863	Not Eligible to Participate	Not Eligible to Participate
+12864	No available bidding events	No available bidding events
+12865	Currently Qualifying Guilds	Currently Qualifying Guilds
+12866	You are already on this map	You are already on this map
+12867	This guild no longer exists	This guild no longer exists
+12868	You have not joined a guild	You have not joined a guild
+12869	Enter an announcement first	Enter an announcement first
+12870	You are already in a guild.	You are already in a guild.
+12871	You cannot appoint yourself	You cannot appoint yourself
+12872	${1} has not joined a guild	${1} has not joined a guild
+12873	Goods Needed by the Caravan	Goods Needed by the Caravan
 12874	Eastern Payon State Capital	Eastern Payon State Capital
 12875	Western Payon State Capital	Western Payon State Capital
 12876	Stronghold Battle White Box	Stronghold Battle White Box
 12877	Kafra - Battle for Survival	Kafra - Battle for Survival
-12878	You can place your bet now!	คุณสามารถวางเดิมพันได้เลย!
+12878	You can place your bet now!	You can place your bet now!
 12879	Portrait Card: Doppelganger	Portrait Card: Doppelganger
-12880	Must not equip ^{1}${1}^{2}	ต้องไม่ติดตั้ง ^{1}${1}^{2}
-12881	Must not carry ^{1}${1}^{2}	ต้องไม่ถือ ^{1}${1}^{2}
+12880	Must not equip ^{1}${1}^{2}	Must not equip ^{1}${1}^{2}
+12881	Must not carry ^{1}${1}^{2}	Must not carry ^{1}${1}^{2}
 12882	Restore ${1}% of your Life.	คืนค่า${1}% ของ Life ของคุณ
 12883	Weapon cannot be destroyed.	อาวุธไม่สามารถทำลายได้
 12884	Normal Attack damage +@{1}%	พลังโจมตีปกติ +@{1}%
@@ -890,8 +890,8 @@
 12889	Kinetic Battle Axe Assembly	Kinetic Battle Axe Assembly
 12890	Shield Reflect Auto Counter	Shield Reflect Auto Counter
 12891	Advanced Monster Resistance	Advanced Monster Resistance
-12892	Default Drag Skill Position	ตำแหน่งทักษะการลากเริ่มต้น
-12893	Skill Callout Display Range	ช่วงการแสดงคำบรรยายทักษะ
+12892	Default Drag Skill Position	Default Drag Skill Position
+12893	Skill Callout Display Range	Skill Callout Display Range
 12894	Apply Effect to All Players	Apply Effect to All Players
 12895	Skill@{1}Lute Rectangle@{2}	Skill@{1}Lute Rectangle@{2}
 12896	Battle Royale Gravity Field	Battle Royale Gravity Field
@@ -912,8 +912,8 @@
 12911	Summon Self-Destruct Poring	Summon Self-Destruct Poring
 12912	Mistress Normal Attack-Wind	Mistress Normal Attack-Wind
 12913	Goblin Leader Normal Attack	Goblin Leader Normal Attack
-12914	Choose another login method	เลือกวิธีการเข้าสู่ระบบอื่น
-12915	Account linked successfully	เชื่อมโยงบัญชีเรียบร้อยแล้ว
+12914	Choose another login method	Choose another login method
+12915	Account linked successfully	Account linked successfully
 12916	Enter Stealth in Phase @{1}	Enter Stealth in Phase @{1}
 12917	Stone Glyph Slash Targeting	Stone Glyph Slash Targeting
 12918	Launch Yellow Homing Bubble	Launch Yellow Homing Bubble
@@ -925,15 +925,15 @@
 12924	Song of Suffering - Baptism	Song of Suffering - Baptism
 12925	Exorciser Spell: Corruption	Exorciser Spell: Corruption
 12926	Increase Recuperative Power	Increase Recuperative Power
-12927	I have completed the trial.	ฉันได้ทดลองใช้งานเสร็จแล้ว
-12928	Select cards for Collection	เลือกการ์ดสำหรับคอลเลกชัน
-12929	Guild Voice Chat Management	การจัดการแชทด้วยเสียงของ Guild
-12930	Join the Caravan: ${1}/${2}	เข้าร่วมคาราวาน:${1}/${2}
-12931	Not enough Butterfly Wings.	Butterfly Wings ไม่พอ
-12932	Skill points are available.	เรย์แคสต์ทักษะ
-12933	Cannot Activate Current Job	ไม่สามารถเปิดใช้งานงานปัจจุบันได้
-12934	Failed to join chat channel	ไม่สามารถเข้าร่วมช่องแชทได้
-12935	Manage Speaking Permissions	จัดการสิทธิ์ในการพูด
+12927	I have completed the trial.	I have completed the trial.
+12928	Select cards for Collection	Select cards for Collection
+12929	Guild Voice Chat Management	Guild Voice Chat Management
+12930	Join the Caravan: ${1}/${2}	Join the Caravan: ${1}/${2}
+12931	Not enough Butterfly Wings.	Not enough Butterfly Wings.
+12932	Skill points are available.	Skill points are available.
+12933	Cannot Activate Current Job	Cannot Activate Current Job
+12934	Failed to join chat channel	Failed to join chat channel
+12935	Manage Speaking Permissions	Manage Speaking Permissions
 12936	Center-Directed Force Field	Center-Directed Force Field
 12937	Vine Puppet Type A - Hunter	Vine Puppet Type A - Hunter
 12938	Rock Puppet Type A - Knight	Rock Puppet Type A - Knight
@@ -946,56 +946,56 @@
 12945	Moonlight Flower Projectile	Moonlight Flower Projectile
 12946	P@{1} Yellow Bubble NPC@{2}	P@{1} Yellow Bubble NPC@{2}
 12947	Pixel Thrust Increase Dodge	Pixel Thrust Increase Dodge
-12948	Exclusive mount for Thieves	เมาท์พิเศษสำหรับจอมโจร
-12949	Exclusive mount for Archers	เมาท์พิเศษสำหรับนักธนู
-12950	No matching monsters found.	ไม่พบมอนสเตอร์ที่ตรงกัน
-12951	Accumulate up to ${1} hours	สะสมได้สูงสุด${1}ชั่วโมง
-12952	High-Rate Auto Mode Resumed	โหมดอัตโนมัติอัตราสูงกลับมาทำงานต่อ
-12953	Physical Resistance Enhance	เพิ่มความต้านทานทางกายภาพ
-12954	Melee Magic Damage Increase	เพิ่มความเสียหายเวทย์มนตร์ระยะประชิด
-12955	Shield Bonus (Basis Points)	โล่โบนัส (คะแนนพื้นฐาน)
-12956	Maximum Guild Hall Level: 6	ระดับห้องโถง Guild สูงสุด: 6
-12957	Maximum Guild Shop Level: 3	ระดับร้านค้า Guild สูงสุด: 3
-12958	Stores Siege War machinery.	จัดเก็บเครื่องจักร Siege War
-12959	Remove Offline players only	Remove ผู้เล่นออฟไลน์เท่านั้น
-12960	Cancel your guild response?	ยกเลิกการตอบกลับกิลด์ของคุณ?
-12961	Enter the guild declaration	เข้าสู่การประกาศกิลด์
-12962	Not eligible to participate	ไม่มีสิทธิ์เข้าร่วม
-12963	Soul Echo Metric - Level-up	Soul Echo Metric - อัพเลเวล
-12964	Divine Totem Metric - Skill	Divine Totem Metric - ทักษะ
-12965	Defeat Monsters (@{1}/@{2})	กำจัดสัตว์ประหลาด (@{1}/@{2})
-12966	Visit Baisulist (@{1}/@{2})	เยี่ยมชม Baisulist (@{1}/@{2})
-12967	First Job Advance Complete!	งานแรกล่วงหน้าเสร็จสมบูรณ์!
-12968	The Professor's Whereabouts	ที่อยู่ของ Professor
-12969	Find the Stationed Soldiers	ค้นหา Soldiers ประจำการ
-12970	Clear Desert Crossroad @{1}	Desert Crossroad ที่ชัดเจน@{1}
-12971	Find the Job Advance Mentor	ค้นหาที่ปรึกษางานล่วงหน้า
-12972	Guild Event - Escort Battle	กิจกรรม Guild - การต่อสู้คุ้มกัน
-12973	Set Foot on a New Continent	ก้าวสู่ทวีปใหม่
-12974	A Post-Transformation Trial	การทดลองหลังการเปลี่ยนแปลง
-12975	Not enough items to unlock.	มีรายการไม่เพียงพอที่จะปลดล็อค
-12976	Guaranteed S-Rank or higher	รับประกันอันดับ S หรือสูงกว่า
-12977	Daily Draw Limit: ${1}/${2}	ขีดจำกัดการจับรางวัลรายวัน:${1}/${2}
-12978	Total Draw Limit: ${1}/${2}	ขีดจำกัดการวาดทั้งหมด:${1}/${2}
-12979	Moonlit Challenger@{1} Tier	ผู้ท้าชิงแสงจันทร์@{1}
-12980	Equip Red gear in all slots	ติดตั้งเกียร์สีแดงในทุกช่อง
-12981	Obtain @{1} Mounts in total	รับการเมาท์@{1}ทั้งหมด
-12982	Don't hesitate—tap it, pop~	อย่าลังเลเลย แตะเลย ป๊อปอัป~
-12983	Switch to the Adventure tab	สลับไปที่แท็บการผจญภัย
-12984	Click the Challenge button.	คลิกปุ่มท้าทาย
-12985	Eliminate the elite Savage.	กำจัดสุดยอด Savage
-12986	I Want to Summon the Dragon	ฉันอยากจะอัญเชิญมังกร
-12987	Thanks. I'll give it a try.	ขอบคุณครับฉันจะลองดู
-12988	You're back. How did it go?	คุณกลับมาแล้วมันเป็นยังไงบ้าง?
-12989	I don't have any questions.	ฉันไม่มีคำถามใดๆ
-12990	Are you ready to board now?	คุณพร้อมที่จะขึ้นเครื่องแล้วหรือยัง?
-12991	Master, you've gotten mean!	อาจารย์ คุณใจร้ายจังเลย!
-12992	...You little troublemaker.	... เจ้าตัวแสบตัวน้อย
-12993	Don't worry. I'm fixing it.	ไม่ต้องกังวลฉันกำลังแก้ไขมัน
-12994	I want to turn in supplies.	ต้องการส่งพัสดุ
-12995	No talking during training!	ห้ามพูดคุยระหว่างฝึกซ้อม!
-12996	I gave it everything I had.	ฉันให้ทุกอย่างที่ฉันมี
-12997	I want to enter the Culvert	ฉันต้องการเข้า Culvert
-12998	It looks like a litter box.	ลักษณะเหมือนถังขยะ
-12999	Time Until Event Ends: ${1}	เวลาจนกว่ากิจกรรมจะสิ้นสุด:${1}
-13000	The event has not begun yet	งานยังไม่เริ่ม
+12948	Exclusive mount for Thieves	Exclusive mount for Thieves
+12949	Exclusive mount for Archers	Exclusive mount for Archers
+12950	No matching monsters found.	No matching monsters found.
+12951	Accumulate up to ${1} hours	Accumulate up to ${1} hours
+12952	High-Rate Auto Mode Resumed	High-Rate Auto Mode Resumed
+12953	Physical Resistance Enhance	Physical Resistance Enhance
+12954	Melee Magic Damage Increase	Melee Magic Damage Increase
+12955	Shield Bonus (Basis Points)	Shield Bonus (Basis Points)
+12956	Maximum Guild Hall Level: 6	Maximum Guild Hall Level: 6
+12957	Maximum Guild Shop Level: 3	Maximum Guild Shop Level: 3
+12958	Stores Siege War machinery.	Stores Siege War machinery.
+12959	Remove Offline players only	Remove Offline players only
+12960	Cancel your guild response?	Cancel your guild response?
+12961	Enter the guild declaration	Enter the guild declaration
+12962	Not eligible to participate	Not eligible to participate
+12963	Soul Echo Metric - Level-up	Soul Echo Metric - Level-up
+12964	Divine Totem Metric - Skill	Divine Totem Metric - Skill
+12965	Defeat Monsters (@{1}/@{2})	Defeat Monsters (@{1}/@{2})
+12966	Visit Baisulist (@{1}/@{2})	Visit Baisulist (@{1}/@{2})
+12967	First Job Advance Complete!	First Job Advance Complete!
+12968	The Professor's Whereabouts	The Professor's Whereabouts
+12969	Find the Stationed Soldiers	Find the Stationed Soldiers
+12970	Clear Desert Crossroad @{1}	Clear Desert Crossroad @{1}
+12971	Find the Job Advance Mentor	Find the Job Advance Mentor
+12972	Guild Event - Escort Battle	Guild Event - Escort Battle
+12973	Set Foot on a New Continent	Set Foot on a New Continent
+12974	A Post-Transformation Trial	A Post-Transformation Trial
+12975	Not enough items to unlock.	Not enough items to unlock.
+12976	Guaranteed S-Rank or higher	Guaranteed S-Rank or higher
+12977	Daily Draw Limit: ${1}/${2}	Daily Draw Limit: ${1}/${2}
+12978	Total Draw Limit: ${1}/${2}	Total Draw Limit: ${1}/${2}
+12979	Moonlit Challenger@{1} Tier	Moonlit Challenger@{1} Tier
+12980	Equip Red gear in all slots	Equip Red gear in all slots
+12981	Obtain @{1} Mounts in total	Obtain @{1} Mounts in total
+12982	Don't hesitate—tap it, pop~	Don't hesitate—tap it, pop~
+12983	Switch to the Adventure tab	Switch to the Adventure tab
+12984	Click the Challenge button.	Click the Challenge button.
+12985	Eliminate the elite Savage.	Eliminate the elite Savage.
+12986	I Want to Summon the Dragon	I Want to Summon the Dragon
+12987	Thanks. I'll give it a try.	Thanks. I'll give it a try.
+12988	You're back. How did it go?	You're back. How did it go?
+12989	I don't have any questions.	I don't have any questions.
+12990	Are you ready to board now?	Are you ready to board now?
+12991	Master, you've gotten mean!	Master, you've gotten mean!
+12992	...You little troublemaker.	...You little troublemaker.
+12993	Don't worry. I'm fixing it.	Don't worry. I'm fixing it.
+12994	I want to turn in supplies.	I want to turn in supplies.
+12995	No talking during training!	No talking during training!
+12996	I gave it everything I had.	I gave it everything I had.
+12997	I want to enter the Culvert	I want to enter the Culvert
+12998	It looks like a litter box.	It looks like a litter box.
+12999	Time Until Event Ends: ${1}	Time Until Event Ends: ${1}
+13000	The event has not begun yet	The event has not begun yet

@@ -1,30 +1,30 @@
 ﻿Index	English	Thai_Translation
-10001	Woof! Woof woof woof!	โฮ่ง! วูฟ วูฟ วูฟ!
-10002	Wait! I'm coming too!	รอก่อน! ฉันก็มาเหมือนกัน!
-10003	Current Battle Report	รายงานการต่อสู้ปัจจุบัน
-10004	Players in Inner Area	ในพื้นที่ด้านใน
-10005	Better Luck Next Time	ครั้งต่อไปโชคดียิ่งขึ้น
-10006	Enable Auto-Dismantle	เปิดใช้งานการแยกส่วนอัตโนมัติ
-10007	^{1}Capture the Flag!	^{1}ยึดธง!
-10008	Entered the Safe Zone	เข้าสู่โซนปลอดภัย
-10009	Help me... Help me...	ช่วยด้วย... ช่วยด้วย...
-10010	Can your eyes see me?	ตาคุณมองเห็นฉันได้ไหม?
-10011	Emblem Reward Preview	ป้ายสัญลักษณ์
-10012	Monster-Grinding Path	เส้นทางบดสัตว์ประหลาด
-10013	Classic PC Experience	ประสบการณ์พีซีแบบคลาสสิก
-10014	Reset Skill Cooldowns	รีเซ็ตคูลดาวน์ทักษะ
-10015	Fashion Sense Rewards	รางวัลแฟชั่นเซนส์
-10016	Moonlit Challenger IV	ชาเลนเจอร์แสงจันทร์ IV
-10017	Moonlit Challenger II	ชาเลนเจอร์แสงจันทร์ II
-10018	Battle Report Details	รายละเอียดรายงานการต่อสู้
-10019	Point Rules Help Text	ข้อความช่วยเหลือกฎของคะแนน
-10020	Upper Losers' Bracket	ขายึดตัวผู้แพ้ส่วนบน
-10021	Lower Losers' Bracket	ขายึดตัวผู้แพ้ล่าง
-10022	This match has ended.	นัดนี้จบลงแล้ว
-10023	Personal Contribution	การบริจาคส่วนบุคคล
-10024	DMG Bonus vs All Race	โบนัส DMG เทียบกับทุกการแข่งขัน
-10025	DMG Bonus vs All Size	โบนัส DMG เทียบกับทุกขนาด
-10026	Kun Dungeon Challenge	ภารกิจท้าทายคุนดันเจี้ยน
+10001	Woof! Woof woof woof!	Woof! Woof woof woof!
+10002	Wait! I'm coming too!	Wait! I'm coming too!
+10003	Current Battle Report	Current Battle Report
+10004	Players in Inner Area	Players in Inner Area
+10005	Better Luck Next Time	Better Luck Next Time
+10006	Enable Auto-Dismantle	Enable Auto-Dismantle
+10007	^{1}Capture the Flag!	^{1}Capture the Flag!
+10008	Entered the Safe Zone	Entered the Safe Zone
+10009	Help me... Help me...	Help me... Help me...
+10010	Can your eyes see me?	Can your eyes see me?
+10011	Emblem Reward Preview	Emblem Reward Preview
+10012	Monster-Grinding Path	Monster-Grinding Path
+10013	Classic PC Experience	Classic PC Experience
+10014	Reset Skill Cooldowns	Reset Skill Cooldowns
+10015	Fashion Sense Rewards	Fashion Sense Rewards
+10016	Moonlit Challenger IV	Moonlit Challenger IV
+10017	Moonlit Challenger II	Moonlit Challenger II
+10018	Battle Report Details	Battle Report Details
+10019	Point Rules Help Text	Point Rules Help Text
+10020	Upper Losers' Bracket	Upper Losers' Bracket
+10021	Lower Losers' Bracket	Lower Losers' Bracket
+10022	This match has ended.	This match has ended.
+10023	Personal Contribution	Personal Contribution
+10024	DMG Bonus vs All Race	DMG Bonus vs All Race
+10025	DMG Bonus vs All Size	DMG Bonus vs All Size
+10026	Kun Dungeon Challenge	Kun Dungeon Challenge
 10027	Expansion Jutsu Check	Expansion Jutsu Check
 10028	Escort Cart Explosion	Escort Cart Explosion
 10029	Soul Expansion (Copy)	Soul Expansion (Copy)
@@ -33,37 +33,37 @@
 10032	Switch to Fire Turret	Switch to Fire Turret
 10033	Empowered Warg Strike	Empowered Warg Strike
 10034	Night Judgment - Mask	Night Judgment - Mask
-10035	Mid-Season Settlement	การตั้งถิ่นฐานกลางฤดู
+10035	Mid-Season Settlement	Mid-Season Settlement
 10036	Sacred Footwear Blank	Sacred Footwear Blank
-10037	Ultra Suggested Items	รายการแนะนำพิเศษ
+10037	Ultra Suggested Items	Ultra Suggested Items
 10038	^{1}[Job Advance]^{2}	^{1}[Job Advance]^{2}
-10039	Rent a Madogear Pilot	เช่า Madogear Pilot
-10040	An Assistant's Duties	หน้าที่ของผู้ช่วย
-10041	An Unusual Preference	การตั้งค่าที่ผิดปกติ
-10042	The Puzzled Professor	Professor ปริศนา
-10043	The Captain's Concern	ความห่วงใยของ Captain
-10044	Clear Out the Insects	กำจัดแมลง
+10039	Rent a Madogear Pilot	Rent a Madogear Pilot
+10040	An Assistant's Duties	An Assistant's Duties
+10041	An Unusual Preference	An Unusual Preference
+10042	The Puzzled Professor	The Puzzled Professor
+10043	The Captain's Concern	The Captain's Concern
+10044	Clear Out the Insects	Clear Out the Insects
 10045	Help defeat @{1} MVPs	ช่วยปราบ@{1}MVP
-10046	Spirit Tower Rankings	อันดับหอคอยวิญญาณ
-10047	Transform into a Wave	แปลงร่างเป็นคลื่น
-10048	Item Healing Disabled	ปิดใช้งานการรักษารายการแล้ว
+10046	Spirit Tower Rankings	Spirit Tower Rankings
+10047	Transform into a Wave	Transform into a Wave
+10048	Item Healing Disabled	Item Healing Disabled
 10049	Arcane Power - Orange	Arcane Power - Orange
-10050	Arcane Power - Purple	พลังอาร์เคน - สีม่วง
-10051	Ymir's Power - Orange	พลังของ Ymir - สีส้ม
-10052	Ymir's Power - Purple	พลังของ Ymir - สีม่วง
-10053	Giant's Strength-Blue	Giant's Strength-น้ำเงิน
-10054	Power of Fate - Green	พลังแห่งโชคชะตา - สีเขียว
-10055	Eagle Eye Power-Green	Eagle Eye Power-สีเขียว
+10050	Arcane Power - Purple	Arcane Power - Purple
+10051	Ymir's Power - Orange	Ymir's Power - Orange
+10052	Ymir's Power - Purple	Ymir's Power - Purple
+10053	Giant's Strength-Blue	Giant's Strength-Blue
+10054	Power of Fate - Green	Power of Fate - Green
+10055	Eagle Eye Power-Green	Eagle Eye Power-Green
 10056	PATCH_ANALYZING_FILES	PATCH_ANALYZING_FILES
 10057	PATCH_PROGRESS_FORMAT	PATCH_PROGRESS_FORMAT
 10058	Beautiful silver fur.	ขนสีเงินสวยๆ
-10059	Goddess's Overture II	การทาบทามของเทพธิดา II
-10060	Goddess's Overture IV	การทาบทามของเทพธิดา IV
-10061	Suggested Build: ${1}	รุ่นที่แนะนำ:${1}
-10062	The Bustle by the Bar	ความคึกคักริมบาร์
+10059	Goddess's Overture II	Goddess's Overture II
+10060	Goddess's Overture IV	Goddess's Overture IV
+10061	Suggested Build: ${1}	Suggested Build: ${1}
+10062	The Bustle by the Bar	The Bustle by the Bar
 10063	Flames of Inquisition	Flames of Inquisition
-10064	Combine is successful	การรวมสำเร็จ
-10065	Appraise ${1} Item(s)	Appraise${1}Item(s)
+10064	Combine is successful	Combine is successful
+10065	Appraise ${1} Item(s)	Appraise ${1} Item(s)
 10066	Healing Amplification	Healing Amplification
 10067	Minor Holy Resistance	Minor Holy Resistance
 10068	Minor Fire Resistance	Minor Fire Resistance
@@ -87,8 +87,8 @@
 10086	Commemorative Medal B	Commemorative Medal B
 10087	Commemorative Medal A	Commemorative Medal A
 10088	Blessed Armor Ore-Use	Blessed Armor Ore-Use
-10089	Equipment Enchantment	เสริมพลังอุปกรณ์
-10090	Total Treasure Hunts:	การล่าขุมทรัพย์ทั้งหมด:
+10089	Equipment Enchantment	Equipment Enchantment
+10090	Total Treasure Hunts:	Total Treasure Hunts:
 10091	Energized Honing Iron	Energized Honing Iron
 10092	Dense Meteorite Chunk	Dense Meteorite Chunk
 10093	Coarse Grinding Wheel	Coarse Grinding Wheel
@@ -104,7 +104,7 @@
 10103	Cross Star Core - Red	Cross Star Core - Red
 10104	Moon Star Core - Blue	Moon Star Core - Blue
 10105	Moon Star Core - Gray	Moon Star Core - Gray
-10106	Guild League - Finals	Guild ลีก - รอบชิงชนะเลิศ
+10106	Guild League - Finals	Guild League - Finals
 10107	Sun Star Core - Green	Sun Star Core - Green
 10108	Prism Star Core - Red	Prism Star Core - Red
 10109	Orange Cards Fragment	Orange Cards Fragment
@@ -129,147 +129,147 @@
 10128	Two-Tone - Green/Blue	Two-Tone - Green/Blue
 10129	Snowy Night Music Box	Snowy Night Music Box
 10130	Insufficient Activity	Insufficient Activity
-10131	Power must reach ${1}	กำลังจะต้องถึง${1}
-10132	Not enough challenges	ความท้าทายไม่เพียงพอ
+10131	Power must reach ${1}	Power must reach ${1}
+10132	Not enough challenges	Not enough challenges
 10133	Adventure Bond Points	Adventure Bond Points
 10134	Shadow Card: Minorous	Shadow Card: Minorous
-10135	Divine Totem Overview	ภาพรวม Totem ศักดิ์สิทธิ์
-10136	Divine Totem Level-up	เลเวล Divine Totem
-10137	Reading Level Details	รายละเอียดระดับการอ่าน
-10138	Random Event Overview	ภาพรวมเหตุการณ์สุ่ม
-10139	The instance is full.	อินสแตนซ์เต็ม
-10140	${1} canceled Queuing	${1}ยกเลิกการรอคิว
+10135	Divine Totem Overview	Divine Totem Overview
+10136	Divine Totem Level-up	Divine Totem Level-up
+10137	Reading Level Details	Reading Level Details
+10138	Random Event Overview	Random Event Overview
+10139	The instance is full.	The instance is full.
+10140	${1} canceled Queuing	${1} canceled Queuing
 10141	Powerful Auto Counter	Powerful Auto Counter
-10142	Top Cannon Dismantler	สุดยอดเครื่องแยกชิ้นส่วนแคนนอน
-10143	Help in Times of Need	ช่วยเหลือในยามจำเป็น
-10144	Card Album Collection	คอลเลกชัน Card Album
-10145	Go to Monster Habitat	ไปที่ที่อยู่อาศัยของสัตว์ประหลาด
-10146	Divine Realm Speedrun	อาณาจักรศักดิ์สิทธิ์ สปีดรัน
-10147	Party Mode (Official)	โหมดปาร์ตี้ (เป็นทางการ)
-10148	Event Period: All Day	ระยะเวลากิจกรรม: ทั้งวัน
-10149	Scroll of Bygone Days	คัมภีร์แห่งอดีต
-10150	Mammonite Replacement	การเปลี่ยน Mammonite
-10151	Mind and Body Renewal	การฟื้นฟูจิตใจและร่างกาย
-10152	Enhanced Power Thrust	เพิ่มพลังขับดัน
-10153	Self-Destruct HP Lock	ล็อค HP แบบ Self-Destruct
-10154	Energy Release Shield	โล่ปล่อยพลังงาน
-10155	Trigger Self-Destruct	กระตุ้นการทำลายตนเอง
-10156	Minimum Cast Distance	ระยะการร่ายขั้นต่ำ
-10157	Maximum Cast Distance	ระยะการร่ายสูงสุด
+10142	Top Cannon Dismantler	Top Cannon Dismantler
+10143	Help in Times of Need	Help in Times of Need
+10144	Card Album Collection	Card Album Collection
+10145	Go to Monster Habitat	Go to Monster Habitat
+10146	Divine Realm Speedrun	Divine Realm Speedrun
+10147	Party Mode (Official)	Party Mode (Official)
+10148	Event Period: All Day	Event Period: All Day
+10149	Scroll of Bygone Days	Scroll of Bygone Days
+10150	Mammonite Replacement	Mammonite Replacement
+10151	Mind and Body Renewal	Mind and Body Renewal
+10152	Enhanced Power Thrust	Enhanced Power Thrust
+10153	Self-Destruct HP Lock	Self-Destruct HP Lock
+10154	Energy Release Shield	Energy Release Shield
+10155	Trigger Self-Destruct	Trigger Self-Destruct
+10156	Minimum Cast Distance	Minimum Cast Distance
+10157	Maximum Cast Distance	Maximum Cast Distance
 10158	BDTarget_MaxStack_Tag	BDTarget_MaxStack_Tag
-10159	Blessing (Deprecated)	Blessing (เลิกใช้แล้ว)
-10160	Escort Cart Destroyed	รถคุ้มกันถูกทำลาย
-10161	Protection Orbit Mark	เครื่องหมายวงโคจรป้องกัน
-10162	Unstoppable Dragonkin	ดราก้อนคินที่ไม่อาจหยุดยั้งได้
-10163	Tiamat Frontal Damage	Tiamat ความเสียหายที่ด้านหน้า
-10164	Connect Function Menu	เชื่อมต่อเมนูฟังก์ชั่น
-10165	Mini Map Display Area	พื้นที่แสดงแผนที่ขนาดเล็ก
+10159	Blessing (Deprecated)	Blessing (Deprecated)
+10160	Escort Cart Destroyed	Escort Cart Destroyed
+10161	Protection Orbit Mark	Protection Orbit Mark
+10162	Unstoppable Dragonkin	Unstoppable Dragonkin
+10163	Tiamat Frontal Damage	Tiamat Frontal Damage
+10164	Connect Function Menu	Connect Function Menu
+10165	Mini Map Display Area	Mini Map Display Area
 10166	Lord of Vermilion SFX	Lord of Vermilion SFX
-10167	Elemental Preparation	การเตรียมองค์ประกอบ
-10168	Petrify Screen Effect	เอฟเฟกต์หน้าจอกลายเป็นหิน
-10169	Totem ZS (Deprecated)	Totem ZS (เลิกใช้แล้ว)
-10170	Blackhole Boss Shield	โล่บอสหลุมดำ
+10167	Elemental Preparation	Elemental Preparation
+10168	Petrify Screen Effect	Petrify Screen Effect
+10169	Totem ZS (Deprecated)	Totem ZS (Deprecated)
+10170	Blackhole Boss Shield	Blackhole Boss Shield
 10171	Holy Light Descending	Holy Light Descending
-10172	Ancient Mummy Passive	Ancient Mummy แบบ Passive
-10173	Damage Taken Increase	ความเสียหายที่ได้รับเพิ่มขึ้น
-10174	DEF and MDEF Increase	DEF และ MDEF เพิ่มขึ้น
+10172	Ancient Mummy Passive	Ancient Mummy Passive
+10173	Damage Taken Increase	Damage Taken Increase
+10174	DEF and MDEF Increase	DEF and MDEF Increase
 10175	Arcane Silver Serpent	Arcane Silver Serpent
 10176	Formless Entanglement	Formless Entanglement
 10177	Deliberate Laceration	Deliberate Laceration
-10178	Player-to-Player Link	ลิงก์ระหว่างผู้เล่นกับผู้เล่น
-10179	Stationary Red Bubble	เครื่องเขียน Bubble สีแดง
-10180	Skill @{1} Cast Check	ทักษะ @{1} ตรวจสอบการร่าย
-10181	Blade Mark-Accelerate	Blade Mark-เร่ง
-10182	Switch Twilight Light	สวิตซ์ไฟ Twilight
-10183	Dragon Transformation	การแปลงร่างมังกร
-10184	Normal Attack Counter	เคาน์เตอร์โจมตีปกติ
-10185	Switch White Imprison	สวิทซ์เรือนจำ White
-10186	Switch Gravity Impact	สวิตช์แรงโน้มถ่วง
+10178	Player-to-Player Link	Player-to-Player Link
+10179	Stationary Red Bubble	Stationary Red Bubble
+10180	Skill @{1} Cast Check	Skill @{1} Cast Check
+10181	Blade Mark-Accelerate	Blade Mark-Accelerate
+10182	Switch Twilight Light	Switch Twilight Light
+10183	Dragon Transformation	Dragon Transformation
+10184	Normal Attack Counter	Normal Attack Counter
+10185	Switch White Imprison	Switch White Imprison
+10186	Switch Gravity Impact	Switch Gravity Impact
 10187	Phantom Thrust Stacks	Phantom Thrust Stacks
 10188	Flowing Shadow Floors	พื้นเงาลื่นไหล
-10189	Psychic Astrolabe@{1}	ดวงดาวพลังจิต@{1}
-10190	Phantom Thrust Target	เป้าหมายแรงขับ Phantom
-10191	Reduced Field of View	ลดขอบเขตการมองเห็น
-10192	Increase Dodge (Test)	Increase Dodge (ทดสอบ)
-10193	Ten Kills in One Step	Kills สิบคนในขั้นตอนเดียว
-10194	Politically Sensitive	มีความอ่อนไหวทางการเมือง
-10195	Mic Requests Approved	คำขอไมค์ได้รับการอนุมัติแล้ว
-10196	Mic Requests Rejected	ถูกปฏิเสธ
-10197	Cargo Placement Rules	กฎการจัดวางสินค้า
-10198	Sub-Battlefield Rules	กฎสนามรบย่อย
-10199	Guild Points Overview	คะแนน Guild
-10200	Event Calendar Rules:	กฎปฏิทินกิจกรรม:
-10201	Insufficient attempts	ความพยายามไม่เพียงพอ
-10202	Invalid Group Chat ID	ID การแชทกลุ่มไม่ถูกต้อง
-10203	Invalid name category	หมวดหมู่ชื่อไม่ถูกต้อง
-10204	Not enough gift items	รายการของขวัญไม่เพียงพอ
-10205	Insufficient quantity	ปริมาณไม่เพียงพอ
-10206	Order already exists.	มีคำสั่งซื้ออยู่แล้ว
-10207	The mic queue is full	คิวไมค์เต็มครับ
-10208	Not in a Tavern room.	ไม่ได้อยู่ในห้อง Tavern
-10209	Skill does not exist.	ทักษะไม่มีอยู่
-10210	${1} is not equipped.	ไม่ได้ติดตั้ง${1}
-10211	Not owned: ${1} Card.	ไม่ได้เป็นเจ้าของ: การ์ด${1}
-10212	Turn the Ship's Wheel	หมุนกงล้อเรือ
-10213	Rally is on cooldown.	Rally อยู่ในช่วงคูลดาวน์
-10214	Creation in progress.	อยู่ระหว่างการสร้าง
-10215	Level too low to join	ระดับต่ำเกินไปที่จะเข้าร่วม
-10216	Action does not exist	ไม่มีการดำเนินการ
-10217	Invalid prize pool ID	ID กลุ่มรางวัลไม่ถูกต้อง
-10218	Invalid Life Skill ID	ID ทักษะ Life ไม่ถูกต้อง
-10219	Initialization failed	ล้มเหลว
-10220	Modifier check failed	ล้มเหลว
-10221	Trigger type mismatch	ประเภททริกเกอร์ไม่ตรงกัน
-10222	Mace Mastery Lv. @{1}	Mace Mastery Lv.@{1}
-10223	^{1}Rousing Cheer^{2}	^{1}เชียร์เร้าใจ^{2}
-10224	Gloria Domini Enhance	Gloria โดมินิ เสริมประสิทธิภาพ
-10225	Rapid Smiting Enhance	เพิ่มประสิทธิภาพการตีอย่างรวดเร็ว
-10226	Spiral Pierce Enhance	เสริมการ Spiral Pierce
-10227	Spiral Pierce Mastery	เกลียว Pierce มาสเตอรี
-10228	Valhalla's Protection	การคุ้มครองของ Valhalla
-10229	Basic Physical Attack	การโจมตีทางกายภาพขั้นพื้นฐาน
-10230	Minor Wind Resistance	ต้านทานลมเล็กน้อย
-10231	Advanced Magic Attack	การโจมตีด้วยเวทมนตร์ขั้นสูง
-10232	Enhance Deadly Poison	เสริม Deadly Poison
-10233	^{1}Flame Enhance^{2}	^{1}เพิ่มเปลวไฟ^{2}
-10234	^{1}Mana Infusion^{2}	^{1}การเติมมานา^{2}
-10235	Account limit reached	ถึงขีดจำกัดบัญชีแล้ว
-10236	RPC returned an error	RPC ส่งกลับข้อผิดพลาด
-10237	Invalid Backpack type	ประเภทกระเป๋าเป้ไม่ถูกต้อง
-10238	Hotbar slot is empty.	Hotbar ว่างเปล่า
-10239	Slot is out of range.	อยู่นอกขอบเขต
-10240	Battle about to start	การต่อสู้กำลังจะเริ่มขึ้น
-10241	Defend the Outer Gate	ปกป้อง Gate ด้านนอก
-10242	Item is not equipped.	รายการไม่ได้ติดตั้ง
+10189	Psychic Astrolabe@{1}	Psychic Astrolabe@{1}
+10190	Phantom Thrust Target	Phantom Thrust Target
+10191	Reduced Field of View	Reduced Field of View
+10192	Increase Dodge (Test)	Increase Dodge (Test)
+10193	Ten Kills in One Step	Ten Kills in One Step
+10194	Politically Sensitive	Politically Sensitive
+10195	Mic Requests Approved	Mic Requests Approved
+10196	Mic Requests Rejected	Mic Requests Rejected
+10197	Cargo Placement Rules	Cargo Placement Rules
+10198	Sub-Battlefield Rules	Sub-Battlefield Rules
+10199	Guild Points Overview	Guild Points Overview
+10200	Event Calendar Rules:	Event Calendar Rules:
+10201	Insufficient attempts	Insufficient attempts
+10202	Invalid Group Chat ID	Invalid Group Chat ID
+10203	Invalid name category	Invalid name category
+10204	Not enough gift items	Not enough gift items
+10205	Insufficient quantity	Insufficient quantity
+10206	Order already exists.	Order already exists.
+10207	The mic queue is full	The mic queue is full
+10208	Not in a Tavern room.	Not in a Tavern room.
+10209	Skill does not exist.	Skill does not exist.
+10210	${1} is not equipped.	${1} is not equipped.
+10211	Not owned: ${1} Card.	Not owned: ${1} Card.
+10212	Turn the Ship's Wheel	Turn the Ship's Wheel
+10213	Rally is on cooldown.	Rally is on cooldown.
+10214	Creation in progress.	Creation in progress.
+10215	Level too low to join	Level too low to join
+10216	Action does not exist	Action does not exist
+10217	Invalid prize pool ID	Invalid prize pool ID
+10218	Invalid Life Skill ID	Invalid Life Skill ID
+10219	Initialization failed	Initialization failed
+10220	Modifier check failed	Modifier check failed
+10221	Trigger type mismatch	Trigger type mismatch
+10222	Mace Mastery Lv. @{1}	Mace Mastery Lv. @{1}
+10223	^{1}Rousing Cheer^{2}	^{1}Rousing Cheer^{2}
+10224	Gloria Domini Enhance	Gloria Domini Enhance
+10225	Rapid Smiting Enhance	Rapid Smiting Enhance
+10226	Spiral Pierce Enhance	Spiral Pierce Enhance
+10227	Spiral Pierce Mastery	Spiral Pierce Mastery
+10228	Valhalla's Protection	Valhalla's Protection
+10229	Basic Physical Attack	Basic Physical Attack
+10230	Minor Wind Resistance	Minor Wind Resistance
+10231	Advanced Magic Attack	Advanced Magic Attack
+10232	Enhance Deadly Poison	Enhance Deadly Poison
+10233	^{1}Flame Enhance^{2}	^{1}Flame Enhance^{2}
+10234	^{1}Mana Infusion^{2}	^{1}Mana Infusion^{2}
+10235	Account limit reached	Account limit reached
+10236	RPC returned an error	RPC returned an error
+10237	Invalid Backpack type	Invalid Backpack type
+10238	Hotbar slot is empty.	Hotbar slot is empty.
+10239	Slot is out of range.	Slot is out of range.
+10240	Battle about to start	Battle about to start
+10241	Defend the Outer Gate	Defend the Outer Gate
+10242	Item is not equipped.	Item is not equipped.
 10243	End Transform: Poring	สิ้นสุดการแปลง: การเจาะ
 10244	Monster Normal Attack	มอนสเตอร์โจมตีปกติ
 10245	@{1}M warning circle.	วงกลมเตือน@{1}M.
-10246	No actions to restore	ไม่มีการดำเนินการที่จะกู้คืน
-10247	Incorrect Trade price	ราคาซื้อขายไม่ถูกต้อง
-10248	Purchase Premium Pass	ซื้อบัตรผ่านพรีเมียม
-10249	Guild already exists.	Guild มีอยู่แล้ว
-10250	League of Ten Friends	ลีกสิบเพื่อน
-10251	Spirit Tower Pinnacle	พินนาเคิลทาวเวอร์วิญญาณ
-10252	Spirit Tower Champion	แชมป์ Spirit Tower
-10253	Eye of Wisdom: Skills	Eye of Wisdom: ทักษะ
-10254	First Touch of Purple	สัมผัสแรกของสีม่วง
+10246	No actions to restore	No actions to restore
+10247	Incorrect Trade price	Incorrect Trade price
+10248	Purchase Premium Pass	Purchase Premium Pass
+10249	Guild already exists.	Guild already exists.
+10250	League of Ten Friends	League of Ten Friends
+10251	Spirit Tower Pinnacle	Spirit Tower Pinnacle
+10252	Spirit Tower Champion	Spirit Tower Champion
+10253	Eye of Wisdom: Skills	Eye of Wisdom: Skills
+10254	First Touch of Purple	First Touch of Purple
 10255	Arunafeltz's Follower	Arunafeltz's Follower
-10256	Enter the Battlefield	เข้าสู่สนามรบ
-10257	Group Rank: ${1}/${2}	:${1}/${2}รายงานกลุ่ม
-10258	Longest Survival Time	เวลาเอาชีวิตรอดที่ยาวนานที่สุด
-10259	Could you... help me?	คุณช่วย... ช่วยฉันหน่อยได้ไหม?
-10260	Leave Adventure Group	Leave จากกลุ่มการผจญภัย
-10261	Stopped following {1}	หยุดติดตาม{1}
-10262	${1} gave you a like.	${1}กดไลค์คุณแล้ว
-10263	So, will you take it?	แล้วรับมั้ย?
+10256	Enter the Battlefield	Enter the Battlefield
+10257	Group Rank: ${1}/${2}	Group Rank: ${1}/${2}
+10258	Longest Survival Time	Longest Survival Time
+10259	Could you... help me?	Could you... help me?
+10260	Leave Adventure Group	Leave Adventure Group
+10261	Stopped following {1}	Stopped following {1}
+10262	${1} gave you a like.	${1} gave you a like.
+10263	So, will you take it?	So, will you take it?
 10264	Life recovery +@{1}%.	การฟื้นฟูพลัง Life +@{1}%
 10265	Number of skill casts	จำนวนการใช้ทักษะ
-10266	Plan [${1}] Activated	[${1}] เปิดใช้งานแล้ว
-10267	Get Help code Copied.	รับรหัสช่วยเหลือคัดลอกแล้ว
-10268	Tap to Preset Talents	แตะเพื่อตั้งค่าความสามารถพิเศษล่วงหน้า
+10266	Plan [${1}] Activated	Plan [${1}] Activated
+10267	Get Help code Copied.	Get Help code Copied.
+10268	Tap to Preset Talents	Tap to Preset Talents
 10269	Popo's Bubble Shield.	Bubble ชีลด์ของ Popo
 10270	Cannot move or attack	ไม่สามารถเคลื่อนที่หรือโจมตีได้
-10271	Clearing Rewards-${1}	รางวัลการหักบัญชี-${1}
+10271	Clearing Rewards-${1}	Clearing Rewards-${1}
 10272	Boss-Bound Projectile	กระสุนจับบอส
 10273	Right Rectangular AOE	AOE สี่เหลี่ยมด้านขวา
 10274	Front Rectangular AOE	AOE สี่เหลี่ยมด้านหน้า
@@ -279,47 +279,47 @@
 10278	Nightmare AOE - Ghost	Nightmare AOE - Ghost
 10279	Blood Butterfly Dance	Blood Butterfly Dance
 10280	Passive Trigger Skill	Passive Trigger Skill
-10281	Normal Attack Mastery	ความชำนาญ Normal Attack
-10282	Grand Cross Exorciser	Grand Cross เอ็กซอร์ซิเซอร์
-10283	Enhanced Arrow Shower	ฝักบัวก้านแข็งรุ่น Enhanced Arrow
-10284	Enhanced Sniper's Aim	ปรับปรุงการเล็งของ Sniper
-10285	Payon Map Description	คำอธิบายแผนที่ Payon
-10286	Change Bonfire Effect	เปลี่ยนเอฟเฟกต์ Bonfire
-10287	Product ${1} unlocked	สินค้า${1}ปลดล็อคแล้ว
-10288	Event starts in: ${1}	เหตุการณ์เริ่มต้นใน:${1}
-10289	Interaction Invitation	คำเชิญโต้ตอบ
-10290	Waiting for Acceptance	กำลังรอการยอมรับ
-10291	Please select a player	กรุณาเลือกผู้เล่น
-10292	You've got this, Boss!	เข้าใจแล้วบอส!
-10293	Tap anywhere to leave.	แตะที่ใดก็ได้เพื่อออก
-10294	Share to Guild Channel	แชร์ไปที่ช่อง Guild
-10295	Share to World Channel	แชร์ไปที่ World Channel
-10296	Crit Damage Reduction%	การลดความเสียหายคริติคอล%
-10297	Physical Damage Bonus%	โบนัสความเสียหายกายภาพ%
-10298	Skill Damage Increase%	ทักษะความเสียหายเพิ่มขึ้น%
-10299	Item Healing Received%	รายการการรักษาที่ได้รับ%
-10300	Global Healing Effect%	ผลการรักษาทั่วโลก%
-10301	Wind Damage Reduction%	ลดความเสียหายจากลม%
-10302	Fire Damage Reduction%	ลดความเสียหายจากไฟ%
-10303	Holy Damage Reduction%	ลดความเสียหายศักดิ์สิทธิ์%
-10304	Damage to Brute Race %	ความเสียหายต่อ Brute Race %
-10305	Damage to Demon Race %	สร้างความเสียหายต่อเผ่าพันธุ์ปีศาจ %
-10306	Damage to Plant Race %	ความเสียหายต่อเผ่าพันธุ์พืช %
-10307	Damage to Angel Race %	สร้างความเสียหายต่อ Angel Race %
-10308	DMG vs Small Enemies %	DMG กับศัตรูขนาดเล็ก %
-10309	DMG vs Large Enemies %	DMG กับศัตรูขนาดใหญ่ %
-10310	Shield Bonus Received%	โล่โบนัสที่ได้รับ%
-10311	Physical Damage Shield	โล่ความเสียหายกายภาพ
-10312	Material Parameter (%)	พารามิเตอร์วัสดุ (%)
-10313	Modified Hit Effect ID	รหัสเอฟเฟกต์ Hit ที่แก้ไขแล้ว
-10314	Flame Projectile Count	จำนวนกระสุนเปลวไฟ
-10315	Frost Projectile Count	จำนวนกระสุนฟรอสต์
-10316	^{1}Final Showdown^{2}	^{1}การเปิดไพ่รอบสุดท้าย^{2}
+10281	Normal Attack Mastery	Normal Attack Mastery
+10282	Grand Cross Exorciser	Grand Cross Exorciser
+10283	Enhanced Arrow Shower	Enhanced Arrow Shower
+10284	Enhanced Sniper's Aim	Enhanced Sniper's Aim
+10285	Payon Map Description	Payon Map Description
+10286	Change Bonfire Effect	Change Bonfire Effect
+10287	Product ${1} unlocked	Product ${1} unlocked
+10288	Event starts in: ${1}	Event starts in: ${1}
+10289	Interaction Invitation	Interaction Invitation
+10290	Waiting for Acceptance	Waiting for Acceptance
+10291	Please select a player	Please select a player
+10292	You've got this, Boss!	You've got this, Boss!
+10293	Tap anywhere to leave.	Tap anywhere to leave.
+10294	Share to Guild Channel	Share to Guild Channel
+10295	Share to World Channel	Share to World Channel
+10296	Crit Damage Reduction%	Crit Damage Reduction%
+10297	Physical Damage Bonus%	Physical Damage Bonus%
+10298	Skill Damage Increase%	Skill Damage Increase%
+10299	Item Healing Received%	Item Healing Received%
+10300	Global Healing Effect%	Global Healing Effect%
+10301	Wind Damage Reduction%	Wind Damage Reduction%
+10302	Fire Damage Reduction%	Fire Damage Reduction%
+10303	Holy Damage Reduction%	Holy Damage Reduction%
+10304	Damage to Brute Race %	Damage to Brute Race %
+10305	Damage to Demon Race %	Damage to Demon Race %
+10306	Damage to Plant Race %	Damage to Plant Race %
+10307	Damage to Angel Race %	Damage to Angel Race %
+10308	DMG vs Small Enemies %	DMG vs Small Enemies %
+10309	DMG vs Large Enemies %	DMG vs Large Enemies %
+10310	Shield Bonus Received%	Shield Bonus Received%
+10311	Physical Damage Shield	Physical Damage Shield
+10312	Material Parameter (%)	Material Parameter (%)
+10313	Modified Hit Effect ID	Modified Hit Effect ID
+10314	Flame Projectile Count	Flame Projectile Count
+10315	Frost Projectile Count	Frost Projectile Count
+10316	^{1}Final Showdown^{2}	^{1}Final Showdown^{2}
 10317	Try to Ride the Deniro	ลอง RideDeniro ดู
-10318	Maya's Secret Treasure	สมบัติลับของ Maya
+10318	Maya's Secret Treasure	Maya's Secret Treasure
 10319	Peco Peco Ancient Nest	Peco Peco Ancient Nest
-10320	Time Until Season Ends	เวลาจนกว่าฤดูกาลจะสิ้นสุด
-10321	Distance to Season End	ระยะทางถึงสิ้นสุดฤดูกาล
+10320	Time Until Season Ends	Time Until Season Ends
+10321	Distance to Season End	Distance to Season End
 10322	The airship starts up.	เรือเหาะเริ่มทำงาน
 10323	Kill @{1} Orc Warriors	Kill@{1}Orc Warriors
 10324	Claim @{1} map rewards	รับรางวัลแผนที่@{1}
@@ -327,86 +327,86 @@
 10326	Allocate Skill Points.	จัดสรรคะแนนทักษะ
 10327	Obtain the Hyena mount	รับอุปกรณ์ยึด Hyena
 10328	Ride the Ostrich mount	Ride สัตว์ RideOstrich
-10329	Stronghold War Auction	การประมูลสงครามฐานที่มั่น
-10330	North-South Brown King	เหนือ-ใต้ คิงบราวน์
-10331	Reach 800 Total Points	มีคะแนนรวมถึง 800 คะแนน
-10332	Eliminate all enemies.	กำจัดศัตรูทั้งหมด
-10333	Friend Recommendations	คำแนะนำเพื่อน
-10334	Successful Impeachment	การฟ้องร้องสำเร็จ
-10335	Fashion Rating Ranking	อันดับเรตติ้งแฟชั่น
-10336	Item Manually Delisted	รายการถูกเพิกถอนด้วยตนเอง
-10337	Unusual Activity Alert	การแจ้งเตือน Activity ที่ผิดปกติ
-10338	Guild Auction Dividend	เงินปันผลการประมูล Guild
-10339	Reputation Score Alert	การแจ้งเตือนคะแนนชื่อเสียง
-10340	Supply Transport Phase	ระยะการขนส่งอุปทาน
-10341	Vehicles on the Field:	ในสนาม:
-10342	Evil Boss Chain Effect	เอฟเฟกต์โซ่บอสชั่วร้าย
-10343	Kafra: Survivor Battle	Kafra: การต่อสู้ของผู้รอดชีวิต
-10344	Appraisal Confirmation	การยืนยันการประเมิน
-10345	Card Slot Not Unlocked	ช่องเสียบการ์ดไม่ได้ปลดล็อค
-10346	Vivify Cost: ${1}/${2}	ตรวจสอบต้นทุน:${1}/${2}
+10329	Stronghold War Auction	Stronghold War Auction
+10330	North-South Brown King	North-South Brown King
+10331	Reach 800 Total Points	Reach 800 Total Points
+10332	Eliminate all enemies.	Eliminate all enemies.
+10333	Friend Recommendations	Friend Recommendations
+10334	Successful Impeachment	Successful Impeachment
+10335	Fashion Rating Ranking	Fashion Rating Ranking
+10336	Item Manually Delisted	Item Manually Delisted
+10337	Unusual Activity Alert	Unusual Activity Alert
+10338	Guild Auction Dividend	Guild Auction Dividend
+10339	Reputation Score Alert	Reputation Score Alert
+10340	Supply Transport Phase	Supply Transport Phase
+10341	Vehicles on the Field:	Vehicles on the Field:
+10342	Evil Boss Chain Effect	Evil Boss Chain Effect
+10343	Kafra: Survivor Battle	Kafra: Survivor Battle
+10344	Appraisal Confirmation	Appraisal Confirmation
+10345	Card Slot Not Unlocked	Card Slot Not Unlocked
+10346	Vivify Cost: ${1}/${2}	Vivify Cost: ${1}/${2}
 10347	Auto-Purchase Fly Wing	Auto-Purchase Fly Wing
-10348	^{1}Top Ten Heroes^{2}	^{1}สิบอันดับฮีโร่^{2}
-10349	Unlocks in ${1}d ${2}h	ปลดล็อคใน${1}d${2}ชั่วโมง
-10350	Monster Boom Boom Boom	มอนสเตอร์ บูม บูม บูม
-10351	Reconnecting to server	กำลังเชื่อมต่อกับเซิร์ฟเวอร์อีกครั้ง
-10352	Please select a server	กรุณาเลือกเซิร์ฟเวอร์
+10348	^{1}Top Ten Heroes^{2}	^{1}Top Ten Heroes^{2}
+10349	Unlocks in ${1}d ${2}h	Unlocks in ${1}d ${2}h
+10350	Monster Boom Boom Boom	Monster Boom Boom Boom
+10351	Reconnecting to server	Reconnecting to server
+10352	Please select a server	Please select a server
 10353	Use the Magic Fly Wing	ใช้ Magic Fly Wing
-10354	Defense Star Core @{1}	แกนป้องกันดาว@{1}
+10354	Defense Star Core @{1}	Defense Star Core @{1}
 10355	Go to the inn and rest	ไปที่โรงเตี๊ยมแล้วพักผ่อน
 10356	Talk to Captain Aikuni	คุยกับ Captain ไอคุนิ
-10357	Career Total DMG Taken	อาชีพรวม DMG ที่ถ่าย
-10358	Cannot Enter as a team	ไม่สามารถเข้าร่วมเป็นทีมได้
-10359	Enhancement Successful	สำเร็จแล้ว
-10360	Novice Seven-Day Gifts	ของขวัญเจ็ดวันมือใหม่
-10361	Prelude of the Goddess	โหมโรงของเทพธิดา
-10362	Post Guild Recruitment	โพสต์รับสมัคร Guild
-10363	Disband Inactive Guild	ยกเลิก Guild ที่ไม่ใช้งาน
-10364	Default Portrait Frame	กรอบแนวตั้งเริ่มต้น
-10365	Minimum value reached!	ถึงมูลค่าขั้นต่ำแล้ว!
-10366	Maximum value reached!	ถึงมูลค่าสูงสุดแล้ว!
-10367	It can't go any lower!	ลดไม่ได้แล้ว!
-10368	Equipment (Identified)	อุปกรณ์ (ระบุแล้ว)
-10369	Pre-purchase Item List	รายการสินค้าที่ซื้อล่วงหน้า
-10370	No Pre-purchased items	ไม่มีสินค้าที่ซื้อล่วงหน้า
-10371	Explain Reading Levels	อธิบายระดับการอ่าน
-10372	Client Parameter error	ข้อผิดพลาดของพารามิเตอร์ไคลเอนต์
-10373	My Watchlist ${1}/${2}	รายการเฝ้าดูของฉัน${1}/${2}
-10374	Greetings, PlayerName:	สวัสดี ชื่อผู้เล่น:
-10375	Monthly Purchase Limit	วงเงินการซื้อรายเดือน
-10376	${1} minutes remaining	เหลือ${1}นาที
-10377	${1} seconds remaining	เหลือ${1}วินาที
-10378	Purchase limit reached	ถึงขีดจำกัดการซื้อแล้ว
-10379	Discount Ends In: ${1}	สิ้นสุดใน:${1}
-10380	Members Selected: ${1}	ที่เลือก:${1}
-10381	How to Gain Affection:	วิธีรับความรัก:
-10382	Selected Friends: ${1}	เพื่อนที่เลือก:${1}
-10383	Intimacy Bonus Effect:	เอฟเฟกต์โบนัสความใกล้ชิด:
-10384	Leave this Group Chat?	Leave จากการแชทกลุ่มนี้หรือไม่
-10385	No recommended friends	ไม่มีเพื่อนแนะนำ
-10386	No new friend requests	ไม่มีคำขอเป็นเพื่อนใหม่
-10387	Placement confirmation	การยืนยันตำแหน่ง
-10388	Do not have Permission	ไม่มีสิทธิ์
-10389	Already left the party	ออกจากปาร์ตี้แล้ว
-10390	Party is being created	กำลังสร้างปาร์ตี้
-10391	Dedicated Scholar-@{1}	นักวิชาการเฉพาะทาง -@{1}
-10392	Stronghold War - Ended	สงครามฐานที่มั่น - สิ้นสุดแล้ว
-10393	Not enough Guild Funds	เงิน Guild ไม่เพียงพอ
-10394	No Bidding Eligibility	ไม่มีสิทธิ์ในการประมูล
-10395	Insufficient resources	ทรัพยากรไม่เพียงพอ
-10396	Gather ${1} ${2} times	รวบรวม${1}${2}ครั้ง
-10397	Please try again later	โปรดลองอีกครั้งในภายหลัง
-10398	Respond to Impeachment	ตอบสนองต่อการกล่าวโทษ
-10399	Gameplay Reward Earned	รับรางวัลการเล่นเกมแล้ว
-10400	Switch topics randomly	สลับหัวข้อแบบสุ่ม
-10401	Congratulations, ${1}!	ขอแสดงความยินดี${1}!
-10402	Less than 1 minute ago	น้อยกว่า 1 นาทีที่แล้ว
-10403	Get Help limit reached	รับความช่วยเหลือถึงขีดจำกัดแล้ว
-10404	Guild Fund Description	Guild
+10357	Career Total DMG Taken	Career Total DMG Taken
+10358	Cannot Enter as a team	Cannot Enter as a team
+10359	Enhancement Successful	Enhancement Successful
+10360	Novice Seven-Day Gifts	Novice Seven-Day Gifts
+10361	Prelude of the Goddess	Prelude of the Goddess
+10362	Post Guild Recruitment	Post Guild Recruitment
+10363	Disband Inactive Guild	Disband Inactive Guild
+10364	Default Portrait Frame	Default Portrait Frame
+10365	Minimum value reached!	Minimum value reached!
+10366	Maximum value reached!	Maximum value reached!
+10367	It can't go any lower!	It can't go any lower!
+10368	Equipment (Identified)	Equipment (Identified)
+10369	Pre-purchase Item List	Pre-purchase Item List
+10370	No Pre-purchased items	No Pre-purchased items
+10371	Explain Reading Levels	Explain Reading Levels
+10372	Client Parameter error	Client Parameter error
+10373	My Watchlist ${1}/${2}	My Watchlist ${1}/${2}
+10374	Greetings, PlayerName:	Greetings, PlayerName:
+10375	Monthly Purchase Limit	Monthly Purchase Limit
+10376	${1} minutes remaining	${1} minutes remaining
+10377	${1} seconds remaining	${1} seconds remaining
+10378	Purchase limit reached	Purchase limit reached
+10379	Discount Ends In: ${1}	Discount Ends In: ${1}
+10380	Members Selected: ${1}	Members Selected: ${1}
+10381	How to Gain Affection:	How to Gain Affection:
+10382	Selected Friends: ${1}	Selected Friends: ${1}
+10383	Intimacy Bonus Effect:	Intimacy Bonus Effect:
+10384	Leave this Group Chat?	Leave this Group Chat?
+10385	No recommended friends	No recommended friends
+10386	No new friend requests	No new friend requests
+10387	Placement confirmation	Placement confirmation
+10388	Do not have Permission	Do not have Permission
+10389	Already left the party	Already left the party
+10390	Party is being created	Party is being created
+10391	Dedicated Scholar-@{1}	Dedicated Scholar-@{1}
+10392	Stronghold War - Ended	Stronghold War - Ended
+10393	Not enough Guild Funds	Not enough Guild Funds
+10394	No Bidding Eligibility	No Bidding Eligibility
+10395	Insufficient resources	Insufficient resources
+10396	Gather ${1} ${2} times	Gather ${1} ${2} times
+10397	Please try again later	Please try again later
+10398	Respond to Impeachment	Respond to Impeachment
+10399	Gameplay Reward Earned	Gameplay Reward Earned
+10400	Switch topics randomly	Switch topics randomly
+10401	Congratulations, ${1}!	Congratulations, ${1}!
+10402	Less than 1 minute ago	Less than 1 minute ago
+10403	Get Help limit reached	Get Help limit reached
+10404	Guild Fund Description	Guild Fund Description
 10405	Multilevel Pathfinding	Multilevel Pathfinding
 10406	Stronghold Battle-@{1}	Stronghold Battle-@{1}
 10407	MVP Role-Playing Party	MVP Role-Playing Party
-10408	Main Battle - Recovery	การต่อสู้หลัก - การกู้คืน
+10408	Main Battle - Recovery	Main Battle - Recovery
 10409	Card: Thief Bug Female	Card: Thief Bug Female
 10410	Card: Greatest General	Card: Greatest General
 10411	Card: Soldier Skeleton	Card: Soldier Skeleton
@@ -416,8 +416,8 @@
 10415	Card: Golden Thief Bug	Card: Golden Thief Bug
 10416	Card: Moonlight Flower	Card: Moonlight Flower
 10417	MVP Season Rank Points	MVP Season Rank Points
-10418	Requires the ${1} job.	ต้องมีงาน${1}
-10419	Function Not Available	ไม่พร้อมใช้งาน
+10418	Requires the ${1} job.	Requires the ${1} job.
+10419	Function Not Available	Function Not Available
 10420	Heavy Two-Handed Sword	Heavy Two-Handed Sword
 10421	Giant Two-Handed Sword	Giant Two-Handed Sword
 10422	LUK increases by ${1}.	LUK เพิ่มขึ้นโดย${1}
@@ -433,9 +433,9 @@
 10432	Greatly increases DEF.	เพิ่ม DEF อย่างมาก
 10433	Wood Spirit's Blessing	Wood Spirit's Blessing
 10434	Shield Boomerang Combo	Shield Boomerang Combo
-10435	Additional Skill Range	ช่วงทักษะเพิ่มเติม
-10436	Display Character Info	แสดงข้อมูลอักขระ
-10437	Chase with Drag Skills	ไล่ล่าด้วยทักษะการลาก
+10435	Additional Skill Range	Additional Skill Range
+10436	Display Character Info	Display Character Info
+10437	Chase with Drag Skills	Chase with Drag Skills
 10438	Nightmare Circular AOE	Nightmare Circular AOE
 10439	Baphomet Normal Attack	Baphomet Normal Attack
 10440	Concentrated Squid Ink	Concentrated Squid Ink
@@ -449,11 +449,11 @@
 10448	Mistress Normal Attack	Mistress Normal Attack
 10449	Gift of the Underworld	Gift of the Underworld
 10450	Orc Lord Normal Attack	Orc Lord Normal Attack
-10451	All Players: ${1}/${2}	ผู้เล่นทั้งหมด:${1}/${2}
+10451	All Players: ${1}/${2}	All Players: ${1}/${2}
 10452	Gun-Smoke Severe Wound	Gun-Smoke Severe Wound
 10453	Nightmare Entanglement	Nightmare Entanglement
 10454	Ninja Art: Chain Blast	Ninja Art: Chain Blast
-10455	Traveling to ${1} ${2}	กำลังเดินทางไป${1}${2}
+10455	Traveling to ${1} ${2}	Traveling to ${1} ${2}
 10456	Four Drake Waterspouts	Four Drake Waterspouts
 10457	Sandstorm (Deprecated)	Sandstorm (Deprecated)
 10458	Pre-Astral Shift Split	Pre-Astral Shift Split
@@ -472,17 +472,17 @@
 10471	Advanced Katar Mastery	Advanced Katar Mastery
 10472	Mystical Amplification	Mystical Amplification
 10473	Spellbook Page Passive	Spellbook Page Passive
-10474	Don't Show Again Today	ไม่ต้องแสดงอีกในวันนี้
-10475	War Machine Management	การจัดการเครื่องจักรสงคราม
-10476	Build Engineering Camp	สร้างค่ายวิศวกรรม
-10477	Weekly Uses Remaining:	การใช้งานรายสัปดาห์ที่เหลืออยู่:
-10478	Glast Heim Underground	Glast Heim ใต้ดิน
-10479	Apply Point Allocation	ใช้การจัดสรรคะแนน
-10480	Deals Physical damage.	สร้างความเสียหายทางกายภาพ
-10481	Unaffected by Counters	ไม่ได้รับผลกระทบจากตัวนับ
-10482	Channel window created	แล้ว
-10483	You are not in a party	คุณไม่ได้อยู่ในงานปาร์ตี้
-10484	Party application sent	แล้ว
+10474	Don't Show Again Today	Don't Show Again Today
+10475	War Machine Management	War Machine Management
+10476	Build Engineering Camp	Build Engineering Camp
+10477	Weekly Uses Remaining:	Weekly Uses Remaining:
+10478	Glast Heim Underground	Glast Heim Underground
+10479	Apply Point Allocation	Apply Point Allocation
+10480	Deals Physical damage.	Deals Physical damage.
+10481	Unaffected by Counters	Unaffected by Counters
+10482	Channel window created	Channel window created
+10483	You are not in a party	You are not in a party
+10484	Party application sent	Party application sent
 10485	Memory Particle Device	Memory Particle Device
 10486	Intermediate Live Coal	Intermediate Live Coal
 10487	Clue Treasure Map: Inn	Clue Treasure Map: Inn
@@ -501,7 +501,7 @@
 10500	Friendly Monster Dummy	Friendly Monster Dummy
 10501	Vote for It Campaigner	Vote for It Campaigner
 10502	Lovey-Dovey Girlfriend	Lovey-Dovey Girlfriend
-10503	Quest Complete: 【${1}】	เสร็จสมบูรณ์: 【${1}】
+10503	Quest Complete: 【${1}】	Quest Complete: 【${1}】
 10504	Adventure Guild Mentor	Adventure Guild Mentor
 10505	Guild Supplies Manager	Guild Supplies Manager
 10506	Territory War - Twelve	Territory War - Twelve
@@ -510,90 +510,90 @@
 10509	Test Homing Projectile	Test Homing Projectile
 10510	Magic Circle_Assumptio	Magic Circle_Assumptio
 10511	Moonlight Flower-Final	Moonlight Flower-Final
-10512	Invalid number of pets	จำนวนสัตว์เลี้ยงไม่ถูกต้อง
-10513	Next-Day Sweep Rewards	รางวัลกวาดวันถัดไป
-10514	A bat-shaped headband.	ที่คาดผมรูปค้างคาว
-10515	Surprise Mystery Chest	หีบปริศนาเซอร์ไพรส์
-10516	Tap to enter a message	แตะเพื่อป้อนข้อความ
-10517	Magic Damage Reduction	การลดความเสียหายเวทย์มนตร์
-10518	Skill Damage Reduction	การลดความเสียหายจากทักษะ
-10519	Earth Damage Reduction	การลดความเสียหายจากโลก
-10520	Water Damage Reduction	การลดความเสียหายจากน้ำ
-10521	Ghost Damage Reduction	การลดความเสียหายของผี
-10522	DMG vs Neutral Enemies	DMG กับศัตรูที่เป็นกลาง
-10523	Basic - Blue Nameplate	Basic - ป้ายชื่อสีน้ำเงิน
-10524	Defend the castle gate	ปกป้องประตูปราสาท
-10525	Challenge Doppelganger	ท้าด็อปเปลแกงเกอร์
-10526	Recommended Activities	กิจกรรมแนะนำ
-10527	Visit Seth (@{1}/@{2})	เยี่ยมชมเซท (@{1}/@{2})
-10528	Gather Medicinal Herbs	รวบรวมสมุนไพร
-10529	Novice Trial Complete!	การทดลองใช้งานมือใหม่เสร็จสมบูรณ์!
-10530	Enthusiastic Young Man	Young Man ผู้กระตือรือร้น
-10531	Adventurer Advancement	ความก้าวหน้าของ Adventurer
-10532	First Airship Boarding	ขึ้นเรือเหาะลำแรก
-10533	The Professor's Safety	ความปลอดภัยของ Professor
-10534	Thoughtform Technology	เทคโนโลยีรูปแบบความคิด
-10535	The Professor's Ordeal	บททดสอบของ Professor
-10536	To Prontera North Gate	ไปยัง Gate ทิศเหนือพรอนเทรา
-10537	Clear the Culvert @{1}	เคลียร์ Culvert@{1}
-10538	Clear Orc Village @{1}	หมู่บ้านเคลียร์ออร์ค@{1}
-10539	Rat-Catching Operation	ปฏิบัติการจับหนู
-10540	Return to Payon Forest	กลับสู่ป่า Payon
-10541	The Professor's Letter	จดหมาย Professor
-10542	The Frenzied Giant Ant	Giant Ant บ้าคลั่ง
-10543	Find the Wanted Poster	ค้นหาโปสเตอร์ที่ต้องการ
-10544	Stranded in the Desert	ติดอยู่ในทะเลทราย
-10545	Open Full-screen Image	Open ภาพเต็มหน้าจอ
-10546	Find the Trial Officer	ค้นหาเจ้าหน้าที่พิจารณาคดี
-10547	Tap anywhere to close.	แตะที่ใดก็ได้เพื่อปิด
-10548	Novice Pool Draw Rules	กฎการจับสลากพูลมือใหม่
-10549	Activate Stat Overview	เปิดใช้งานภาพรวมสถิติ
-10550	Hatching Result Chance	โอกาสในการฟักผล
-10551	Total Deployment Stats	สถิติการปรับใช้ทั้งหมด
-10552	Limit has been reached	แล้ว
-10553	Lumberjack (Deprecated	คนตัดไม้ (เลิกใช้แล้ว
-10554	Woodcarver (Deprecated	ช่างแกะสลักไม้ (เลิกใช้แล้ว
-10555	Clear the Natural Land	เคลียร์ดินแดนธรรมชาติ
-10556	Go back and try again.	ย้อนกลับไปและลองอีกครั้ง
-10557	Click here to view it.	คลิกที่นี่เพื่อดู
-10558	Fly Wing (Click Quest)	Fly Wing (คลิกเควส)
-10559	Canopied Merchant Cart	รถเข็นสินค้าแบบมีหลังคา
-10560	Leave the Epic Battle.	Leave จากการต่อสู้ครั้งยิ่งใหญ่
-10561	^{1}Defeat Pharaoh^{2}	^{1}เอาชนะ Pharaoh^{2}
-10562	Help Summon the Dragon	ช่วยอัญเชิญมังกร
-10563	I'm looking for Eddga.	ตามหาเอ็ดก้าครับ
-10564	Who is Professor Ryan?	Professor Ryan คือใคร?
-10565	Describe What Happened	อธิบายสิ่งที่เกิดขึ้น
-10566	...Just one last time.	... เพียงครั้งสุดท้ายเท่านั้น
-10567	All right, rest it is.	เอาล่ะ พักผ่อนเถอะ
-10568	You already said that.	คุณพูดไปแล้ว
-10569	Whimper... Woof, woof!	คราง... โฮ่ง โฮ่ง!
-10570	A perfect performance!	การแสดงที่สมบูรณ์แบบ!
-10571	Of course we're going.	แน่นอนเรากำลังไป
-10572	Go to Guild Management	ไปที่การจัดการ Guild
-10573	No Difficulty Selected	ไม่ได้เลือกความยาก
-10574	Instance opens in ${1}	เปิดใน${1}
-10575	Fresh-Faced Adventurer	Adventurer หน้าใหม่
-10576	Disable Auto-Dismantle	ปิดใช้งานการแยกส่วนอัตโนมัติ
-10577	Entering\nFinal Stage!	เข้าสู่รอบสุดท้าย\n!
+10512	Invalid number of pets	Invalid number of pets
+10513	Next-Day Sweep Rewards	Next-Day Sweep Rewards
+10514	A bat-shaped headband.	A bat-shaped headband.
+10515	Surprise Mystery Chest	Surprise Mystery Chest
+10516	Tap to enter a message	Tap to enter a message
+10517	Magic Damage Reduction	Magic Damage Reduction
+10518	Skill Damage Reduction	Skill Damage Reduction
+10519	Earth Damage Reduction	Earth Damage Reduction
+10520	Water Damage Reduction	Water Damage Reduction
+10521	Ghost Damage Reduction	Ghost Damage Reduction
+10522	DMG vs Neutral Enemies	DMG vs Neutral Enemies
+10523	Basic - Blue Nameplate	Basic - Blue Nameplate
+10524	Defend the castle gate	Defend the castle gate
+10525	Challenge Doppelganger	Challenge Doppelganger
+10526	Recommended Activities	Recommended Activities
+10527	Visit Seth (@{1}/@{2})	Visit Seth (@{1}/@{2})
+10528	Gather Medicinal Herbs	Gather Medicinal Herbs
+10529	Novice Trial Complete!	Novice Trial Complete!
+10530	Enthusiastic Young Man	Enthusiastic Young Man
+10531	Adventurer Advancement	Adventurer Advancement
+10532	First Airship Boarding	First Airship Boarding
+10533	The Professor's Safety	The Professor's Safety
+10534	Thoughtform Technology	Thoughtform Technology
+10535	The Professor's Ordeal	The Professor's Ordeal
+10536	To Prontera North Gate	To Prontera North Gate
+10537	Clear the Culvert @{1}	Clear the Culvert @{1}
+10538	Clear Orc Village @{1}	Clear Orc Village @{1}
+10539	Rat-Catching Operation	Rat-Catching Operation
+10540	Return to Payon Forest	Return to Payon Forest
+10541	The Professor's Letter	The Professor's Letter
+10542	The Frenzied Giant Ant	The Frenzied Giant Ant
+10543	Find the Wanted Poster	Find the Wanted Poster
+10544	Stranded in the Desert	Stranded in the Desert
+10545	Open Full-screen Image	Open Full-screen Image
+10546	Find the Trial Officer	Find the Trial Officer
+10547	Tap anywhere to close.	Tap anywhere to close.
+10548	Novice Pool Draw Rules	Novice Pool Draw Rules
+10549	Activate Stat Overview	Activate Stat Overview
+10550	Hatching Result Chance	Hatching Result Chance
+10551	Total Deployment Stats	Total Deployment Stats
+10552	Limit has been reached	Limit has been reached
+10553	Lumberjack (Deprecated	Lumberjack (Deprecated
+10554	Woodcarver (Deprecated	Woodcarver (Deprecated
+10555	Clear the Natural Land	Clear the Natural Land
+10556	Go back and try again.	Go back and try again.
+10557	Click here to view it.	Click here to view it.
+10558	Fly Wing (Click Quest)	Fly Wing (Click Quest)
+10559	Canopied Merchant Cart	Canopied Merchant Cart
+10560	Leave the Epic Battle.	Leave the Epic Battle.
+10561	^{1}Defeat Pharaoh^{2}	^{1}Defeat Pharaoh^{2}
+10562	Help Summon the Dragon	Help Summon the Dragon
+10563	I'm looking for Eddga.	I'm looking for Eddga.
+10564	Who is Professor Ryan?	Who is Professor Ryan?
+10565	Describe What Happened	Describe What Happened
+10566	...Just one last time.	...Just one last time.
+10567	All right, rest it is.	All right, rest it is.
+10568	You already said that.	You already said that.
+10569	Whimper... Woof, woof!	Whimper... Woof, woof!
+10570	A perfect performance!	A perfect performance!
+10571	Of course we're going.	Of course we're going.
+10572	Go to Guild Management	Go to Guild Management
+10573	No Difficulty Selected	No Difficulty Selected
+10574	Instance opens in ${1}	Instance opens in ${1}
+10575	Fresh-Faced Adventurer	Fresh-Faced Adventurer
+10576	Disable Auto-Dismantle	Disable Auto-Dismantle
+10577	Entering\nFinal Stage!	Entering\nFinal Stage!
 10578	Auction: Yet to start!	Auction: Yet to start!
-10579	Total Auction Dividend	เงินปันผลการประมูลรวม
-10580	Gift from Costume ${1}	ของขวัญจากคอสตูม${1}
-10581	Moonlit Challenger III	ชาเลนเจอร์แสงจันทร์ III
-10582	Only elites may enter.	เฉพาะชนชั้นสูงเท่านั้นที่สามารถเข้าได้
-10583	Upper Winners' Bracket	วงเล็บผู้ชนะด้านบน
-10584	Lower Winners' Bracket	วงเล็บด้านล่างของผู้ชนะ
-10585	Individual Loss Reward	ภาพรวมคะแนนส่วนบุคคล
-10586	Failed Auction Rewards	รางวัลการประมูลล้มเหลว
-10587	Registration Condition	เงื่อนไขการลงทะเบียน
-10588	Emote Pack Unlock Item	ไอเทมปลดล็อค Emote Pack
-10589	Basic Totem Skill Book	หนังสือทักษะ Totem ขั้นพื้นฐาน
+10579	Total Auction Dividend	Total Auction Dividend
+10580	Gift from Costume ${1}	Gift from Costume ${1}
+10581	Moonlit Challenger III	Moonlit Challenger III
+10582	Only elites may enter.	Only elites may enter.
+10583	Upper Winners' Bracket	Upper Winners' Bracket
+10584	Lower Winners' Bracket	Lower Winners' Bracket
+10585	Individual Loss Reward	Individual Loss Reward
+10586	Failed Auction Rewards	Failed Auction Rewards
+10587	Registration Condition	Registration Condition
+10588	Emote Pack Unlock Item	Emote Pack Unlock Item
+10589	Basic Totem Skill Book	Basic Totem Skill Book
 10590	Pet Selection Gift Box	Pet Selection Gift Box
-10591	This Week's Star Value	มูลค่าดาวประจำสัปดาห์นี้
-10592	Looking for a Goofball	ตามหากู๊ฟบอล
-10593	At Least @{1} Openings	At Least@{1}Openings
-10594	Strong Solo Capability	ความสามารถเดี่ยวที่แข็งแกร่ง
-10595	Afternoon Variations	การเปลี่ยนแปลงช่วงบ่าย
+10591	This Week's Star Value	This Week's Star Value
+10592	Looking for a Goofball	Looking for a Goofball
+10593	At Least @{1} Openings	At Least @{1} Openings
+10594	Strong Solo Capability	Strong Solo Capability
+10595	Afternoon Variations	Afternoon Variations
 10596	Body Style - Expansion	Body Style - Expansion
 10597	Fire Style - Flame Jet	Fire Style - Flame Jet
 10598	Fafnir - Summon Shield	Fafnir - Summon Shield
@@ -601,38 +601,38 @@
 10600	Memory Game-Top Damage	Memory Game-Top Damage
 10601	Make Statue Fire Laser	Make Statue Fire Laser
 10602	Music Box Circular AoE	Music Box Circular AoE
-10603	New Season Preparation	การเตรียมการสำหรับฤดูกาลใหม่
-10604	Pet Guardian Live@{1}D	สัตว์เลี้ยงผู้พิทักษ์สด@{1}D
+10603	New Season Preparation	New Season Preparation
+10604	Pet Guardian Live@{1}D	Pet Guardian Live@{1}D
 10605	^{1}[Horse Racing]^{2}	^{1}[Horse Racing]^{2}
-10606	Time to Explore Freely	ถึงเวลาสำรวจอย่างอิสระ
-10607	Help in a Time of Need	ช่วยเหลือในเวลาที่ต้องการ
-10608	Anomaly in the Pyramid	ความผิดปกติใน Pyramid
-10609	Scattered Cargo Crates	ลังสินค้ากระจัดกระจาย
-10610	The Dog's New Discover	การค้นพบใหม่ของสุนัข
-10611	Equipment - Equip Gear	อุปกรณ์ - ติดตั้งเกียร์
+10606	Time to Explore Freely	Time to Explore Freely
+10607	Help in a Time of Need	Help in a Time of Need
+10608	Anomaly in the Pyramid	Anomaly in the Pyramid
+10609	Scattered Cargo Crates	Scattered Cargo Crates
+10610	The Dog's New Discover	The Dog's New Discover
+10611	Equipment - Equip Gear	Equipment - Equip Gear
 10612	Equip @{1} Soul Echoes	ติดตั้ง@{1}Soul Echoes
-10613	Untargetable by Allies	พันธมิตรไม่ตกเป็นเป้าหมาย
-10614	War God's Power - Blue	พลังเทพสงคราม - สีฟ้า
-10615	Bulwark's Power - Blue	พลังแห่งป้อมปราการ - สีฟ้า
-10616	Giant's Power - Orange	พลังยักษ์ - สีส้ม
-10617	Giant's Power - Purple	พลังยักษ์ - สีม่วง
-10618	Life Percentage - Blue	Life Percentage - สีฟ้า
+10613	Untargetable by Allies	Untargetable by Allies
+10614	War God's Power - Blue	War God's Power - Blue
+10615	Bulwark's Power - Blue	Bulwark's Power - Blue
+10616	Giant's Power - Orange	Giant's Power - Orange
+10617	Giant's Power - Purple	Giant's Power - Purple
+10618	Life Percentage - Blue	Life Percentage - Blue
 10619	Reinforced Armor Plate	Reinforced Armor Plate
 10620	START_WITH_PC_LAUNCHER	START_WITH_PC_LAUNCHER
 10621	PATCH_WRITE_FILE_ERROR	PATCH_WRITE_FILE_ERROR
 10622	PATCH_RESTART_TIPS@{1}	PATCH_RESTART_TIPS@{1}
-10623	Real-Name Registration	การลงทะเบียนชื่อจริง
-10624	Life Skill Grandmaster	ปรมาจารย์ทักษะ Life
+10623	Real-Name Registration	Real-Name Registration
+10624	Life Skill Grandmaster	Life Skill Grandmaster
 10625	Select one S-Rank pet.	เลือกสัตว์เลี้ยงระดับ S หนึ่งตัว
-10626	Prelude II: Solar Leap	โหมโรง II: Solar Leap
-10627	Performance Successful	สำเร็จแล้ว
-10628	Goddess's Overture III	การทาบทามของเทพธิดา III
+10626	Prelude II: Solar Leap	Prelude II: Solar Leap
+10627	Performance Successful	Performance Successful
+10628	Goddess's Overture III	Goddess's Overture III
 10629	A light, compact wand.	ไม้กายสิทธิ์น้ำหนักเบาและกะทัดรัด
 10630	EXP used for the Pass.	EXP ที่ใช้สำหรับบัตรผ่าน
-10631	Hymn Before the Church	เพลงสวดต่อหน้าคริสตจักร
-10632	Cries Beside the Stall	ร้องไห้ข้างแผงลอย
-10633	Glory Before the Tower	ความรุ่งโรจน์ก่อนหอคอย
-10634	No Skill Books for now	ไม่มีหนังสือทักษะในขณะนี้
+10631	Hymn Before the Church	Hymn Before the Church
+10632	Cries Beside the Stall	Cries Beside the Stall
+10633	Glory Before the Tower	Glory Before the Tower
+10634	No Skill Books for now	No Skill Books for now
 10635	Minor Water Resistance	Minor Water Resistance
 10636	Minor Earth Resistance	Minor Earth Resistance
 10637	Low-Tier Magic Defense	Low-Tier Magic Defense
@@ -645,7 +645,7 @@
 10644	Fluffy Bunny - Limited	Fluffy Bunny - Limited
 10645	Orange Soul Echo Chest	Orange Soul Echo Chest
 10646	Novice Chest--Lv. @{1}	Novice Chest--Lv. @{1}
-10647	Gift one ${2} to ${1}?	มอบ${2}หนึ่งอันให้กับ${1}?
+10647	Gift one ${2} to ${1}?	Gift one ${2} to ${1}?
 10648	Sharpened Honing Stone	Sharpened Honing Stone
 10649	Blue Headgear Material	Blue Headgear Material
 10650	Tier @{1} Green Weapon	Tier @{1} Green Weapon
@@ -677,209 +677,209 @@
 10676	Two-Tone - Blue/Yellow	Two-Tone - Blue/Yellow
 10677	Desolate Mist Bagpipes	Desolate Mist Bagpipes
 10678	Throat of the Ash Tree	Throat of the Ash Tree
-10679	Monster not yet killed	มอนสเตอร์ยังไม่ถูกฆ่า
-10680	Not enough completions	การดำเนินการไม่เพียงพอ
-10681	No Job Talent selected	ไม่ได้เลือกผู้มีความสามารถพิเศษในการทำงาน
+10679	Monster not yet killed	Monster not yet killed
+10680	Not enough completions	Not enough completions
+10681	No Job Talent selected	No Job Talent selected
 10682	Time Rift Gold Casting	Time Rift Gold Casting
 10683	Card: Baby Desert Wolf	Card: Baby Desert Wolf
-10684	Divine Totem Synthesis	การสังเคราะห์โทเทมศักดิ์สิทธิ์
-10685	Card Slotting Details:	รายละเอียดช่องใส่การ์ด:
-10686	Codex Function Details	รายละเอียดฟังก์ชั่น Codex
-10687	Match Gameplay Details	รายละเอียดการเล่นเกมแมตช์
-10688	Challenge Requirements	ข้อกำหนดการท้าทาย
-10689	I Have the Highest Bid	ฉันมีผู้เสนอราคาสูงสุด
-10690	Summon the Four Saints	อัญเชิญสี่นักบุญ
+10684	Divine Totem Synthesis	Divine Totem Synthesis
+10685	Card Slotting Details:	Card Slotting Details:
+10686	Codex Function Details	Codex Function Details
+10687	Match Gameplay Details	Match Gameplay Details
+10688	Challenge Requirements	Challenge Requirements
+10689	I Have the Highest Bid	I Have the Highest Bid
+10690	Summon the Four Saints	Summon the Four Saints
 10691	Holy Light Suppression	Holy Light Suppression
 10692	Reflect Damage Passive	Reflect Damage Passive
-10693	Defeat Normal Monsters	กำจัดมอนสเตอร์ธรรมดา
-10694	Dismantle @{1} Cannons	ถอด Cannons@{1}
-10695	Monster Reward Preview	พรีวิวรางวัลมอนสเตอร์
-10696	Chapter Reading Reward	รางวัลการอ่านบท
-10697	All Research Completed	การวิจัยทั้งหมดเสร็จสมบูรณ์
-10698	Chapter of Bygone Days	บทแห่งวันอดีต
+10693	Defeat Normal Monsters	Defeat Normal Monsters
+10694	Dismantle @{1} Cannons	Dismantle @{1} Cannons
+10695	Monster Reward Preview	Monster Reward Preview
+10696	Chapter Reading Reward	Chapter Reading Reward
+10697	All Research Completed	All Research Completed
+10698	Chapter of Bygone Days	Chapter of Bygone Days
 10699	Sanctuary [Buff Check]	Sanctuary [Buff Check]
-10700	Unlimited Acceleration	อัตราเร่งไม่จำกัด
-10701	Sustained Acceleration	Acceleration อย่างต่อเนื่อง
-10702	Cart Tornado - Enhance	รถเข็น Tornado - เสริมประสิทธิภาพ
-10703	Transform into Lunatic	แปลงร่างเป็น Lunatic
-10704	Buff Applied to Allies	ใช้กับพันธมิตร
+10700	Unlimited Acceleration	Unlimited Acceleration
+10701	Sustained Acceleration	Sustained Acceleration
+10702	Cart Tornado - Enhance	Cart Tornado - Enhance
+10703	Transform into Lunatic	Transform into Lunatic
+10704	Buff Applied to Allies	Buff Applied to Allies
 10705	BDTarget_LogicData_Tag	BDTarget_LogicData_Tag
-10706	Damage Reduction Orbit	วงโคจรลดความเสียหาย
-10707	Invincible Escort Cart	รถเข็นคุ้มกัน Invincible
-10708	Dragonblood Protection	น้ำยาป้องกันเลือดมังกร
-10709	Bride Character Marker	ปากกามาร์กเกอร์ตัวอักษรเจ้าสาว
-10710	Quick Target Selection	การเลือกเป้าหมายด่วน
-10711	Spellbook - Soul Burst	คัมภีร์คาถา - Soul Burst
-10712	Bell Activation Effect	เอฟเฟกต์การเปิดใช้งาน Bell
-10713	Pain of the Wind Blade	ความเจ็บปวดของดาบลม
-10714	ATK and MATK Reduction	ลด ATK และ MATK
-10715	Ranged Damage Increase	เพิ่มความเสียหายระยะไกล
-10716	Continuous Area Shield	Shield พื้นที่ต่อเนื่อง
-10717	DEF and MDEF Reduction	DEF และ MDEF ลด
-10718	Mist Formation Stealth	การซ่อนตัวของการก่อตัวของหมอก
-10719	Player Accelerate/Slow	ผู้เล่นเร่งความเร็ว/Slow
-10720	Bell Untargetable Buff	Bell บัฟที่ไม่สามารถกำหนดเป้าหมายได้
-10721	Stationary Blue Bubble	เครื่องเขียน Bubble สีน้ำเงิน
-10722	Sacred Music True Form	ดนตรีศักดิ์สิทธิ์ รูปแบบที่แท้จริง
-10723	Shield Casting Passive	การหล่อโล่แบบ Passive
-10724	Switch Earth Drive@{1}	สวิตช์ Earth Drive@{1}
-10725	Slashing Strike Floors	พื้นกระแทกอย่างเจ็บแสบ
-10726	Hundred Spear Mode@{1}	โหมดร้อย Spear@{1}
-10727	Dark Illusion_S@{1}_BD	ภาพลวงตามืด_S@{1}_BD
-10728	Reduce Twilight Ray CD	ลดซีดี Twilight Ray
-10729	Pinpoint Attack Stacks	ระบุสแต็คการโจมตี
-10730	Dual-Wield Mastery@{1}	การเรียนรู้ด้วยอาวุธคู่@{1}
-10731	Damage Increase Effect	เอฟเฟกต์เพิ่มความเสียหาย
-10732	Rolling Cutter Passive	เครื่องรีดแบบ Passive
-10733	Holy Light Convergence	การบรรจบกันของ Holy Light
-10734	Claim ${1} Map Rewards	รับรางวัลแผนที่${1}
-10735	Win ${1} Siege Battles	ชนะการต่อสู้ล้อม${1}
-10736	Don't show again today	ไม่ต้องแสดงอีกในวันนี้
-10737	Complete Tutorial ${1}	บทช่วยสอนที่สมบูรณ์${1}
-10738	Reach Title Level ${1}	เข้าถึงระดับหัวเรื่อง${1}
-10739	Complete Instance ${1}	ทำอินสแตนซ์ให้สมบูรณ์${1}
-10740	^{1}Defeat Dracula^{2}	^{1}เอาชนะ Dracula^{2}
-10741	^{1}Defeat Gryphon^{2}	^{1}เอาชนะ Gryphon^{2}
+10706	Damage Reduction Orbit	Damage Reduction Orbit
+10707	Invincible Escort Cart	Invincible Escort Cart
+10708	Dragonblood Protection	Dragonblood Protection
+10709	Bride Character Marker	Bride Character Marker
+10710	Quick Target Selection	Quick Target Selection
+10711	Spellbook - Soul Burst	Spellbook - Soul Burst
+10712	Bell Activation Effect	Bell Activation Effect
+10713	Pain of the Wind Blade	Pain of the Wind Blade
+10714	ATK and MATK Reduction	ATK and MATK Reduction
+10715	Ranged Damage Increase	Ranged Damage Increase
+10716	Continuous Area Shield	Continuous Area Shield
+10717	DEF and MDEF Reduction	DEF and MDEF Reduction
+10718	Mist Formation Stealth	Mist Formation Stealth
+10719	Player Accelerate/Slow	Player Accelerate/Slow
+10720	Bell Untargetable Buff	Bell Untargetable Buff
+10721	Stationary Blue Bubble	Stationary Blue Bubble
+10722	Sacred Music True Form	Sacred Music True Form
+10723	Shield Casting Passive	Shield Casting Passive
+10724	Switch Earth Drive@{1}	Switch Earth Drive@{1}
+10725	Slashing Strike Floors	Slashing Strike Floors
+10726	Hundred Spear Mode@{1}	Hundred Spear Mode@{1}
+10727	Dark Illusion_S@{1}_BD	Dark Illusion_S@{1}_BD
+10728	Reduce Twilight Ray CD	Reduce Twilight Ray CD
+10729	Pinpoint Attack Stacks	Pinpoint Attack Stacks
+10730	Dual-Wield Mastery@{1}	Dual-Wield Mastery@{1}
+10731	Damage Increase Effect	Damage Increase Effect
+10732	Rolling Cutter Passive	Rolling Cutter Passive
+10733	Holy Light Convergence	Holy Light Convergence
+10734	Claim ${1} Map Rewards	Claim ${1} Map Rewards
+10735	Win ${1} Siege Battles	Win ${1} Siege Battles
+10736	Don't show again today	Don't show again today
+10737	Complete Tutorial ${1}	Complete Tutorial ${1}
+10738	Reach Title Level ${1}	Reach Title Level ${1}
+10739	Complete Instance ${1}	Complete Instance ${1}
+10740	^{1}Defeat Dracula^{2}	^{1}Defeat Dracula^{2}
+10741	^{1}Defeat Gryphon^{2}	^{1}Defeat Gryphon^{2}
 10742	^{1}[Divine Realm]^{2}	^{1}[Divine Realm]^{2}
-10743	Main Battlefield Rules	กฎสนามรบหลัก
-10744	Tournament Description	คำอธิบายการแข่งขัน
-10745	Trade Exchange Details	รายละเอียดการแลกเปลี่ยนการค้า
-10746	Internal ranking error	ข้อผิดพลาดการจัดอันดับภายใน
+10743	Main Battlefield Rules	Main Battlefield Rules
+10744	Tournament Description	Tournament Description
+10745	Trade Exchange Details	Trade Exchange Details
+10746	Internal ranking error	Internal ranking error
 10747	Auction guild mismatch	Auction guild mismatch
-10748	Party Member not found	สมาชิกปาร์ตี้
-10749	Already a close friend	เป็นเพื่อนสนิทอยู่แล้ว
-10750	Not on the Blocks list	ไม่อยู่ในรายการบล็อก
-10751	Repeat appearance slot	ทำซ้ำช่องลักษณะที่ปรากฏ
-10752	Stall name is too long	ชื่อแผงลอยยาวเกินไป
-10753	Invalid item discount.	ส่วนลดสินค้าไม่ถูกต้อง
-10754	Invalid skill Distance	ระยะทางทักษะไม่ถูกต้อง
-10755	Not in Moderated Mode.	ไม่ได้อยู่ในโหมดควบคุม
-10756	Invalid channel index.	ดัชนีช่องไม่ถูกต้อง
-10757	Name card unavailable.	นามบัตรไม่พร้อมใช้งาน
-10758	Chapter does not exist	บทที่ไม่มีอยู่
-10759	Journey does not exist	เหตุการณ์การเดินทาง
-10760	Current node completed	โหนดปัจจุบันเสร็จสมบูรณ์
-10761	Already in an instance	มีอินสแตนซ์อยู่แล้ว
-10762	Refresh limit reached.	ถึงขีดจำกัดการรีเฟรชแล้ว
-10763	Gift order has expired	คำสั่งซื้อของขวัญหมดอายุแล้ว
-10764	Too many party Members	มีสมาชิกปาร์ตี้มากเกินไป
-10765	Invalid draw cost item	รายการต้นทุนการดึงไม่ถูกต้อง
-10766	Event execution failed	การดำเนินกิจกรรมล้มเหลว
-10767	Trigger does not exist	ไม่มีทริกเกอร์
-10768	Incorrect escort phase	เฟสคุ้มกันไม่ถูกต้อง
-10769	Maximum points reached	ถึงคะแนนสูงสุดแล้ว
-10770	Matchmaking timed out.	การจับคู่หมดเวลา
-10771	Signature is too long.	ยาวเกินไป
-10772	Contains locked items.	มีรายการที่ล็อค
-10773	^{1}Body Tempering^{2}	^{1}แบ่งเบาร่างกาย^{2}
-10774	^{1}Power of Earth^{2}	^{1}พลังแห่งโลก^{2}
-10775	^{1}Weapon Enhance^{2}	^{1}เสริมอาวุธ^{2}
-10776	Concussive Shield Bash	Bash โล่แบบสั่นสะเทือน
-10777	Brandish Spear Enhance	เสริม Brandish Spear
-10778	Basic Physical Defense	การป้องกันทางกายภาพขั้นพื้นฐาน
-10779	Minor Ghost Resistance	ต้านทานผีเล็กน้อย
-10780	Advanced Magic Defense	การป้องกันเวทมนตร์ขั้นสูง
-10781	Vanish Without a Trace	หายไปอย่างไร้ร่องรอย
-10782	^{1}Fireball Burst^{2}	^{1}ระเบิดลูกไฟ^{2}
-10783	^{1}Earthfire Mark^{2}	^{1}เครื่องหมายไฟแผ่นดินไหว^{2}
-10784	^{1}Flame Eruption^{2}	^{1}การปะทุของเปลวไฟ^{2}
-10785	^{1}Frost Eruption^{2}	^{1}การปะทุของน้ำแข็ง^{2}
-10786	^{1}Arcane Mastery^{2}	^{1}ความเชี่ยวชาญด้านอาคม^{2}
-10787	^{1}Arcane Studies^{2}	^{1}การศึกษาอาร์เคน^{2}
-10788	Account already exists	มีบัญชีอยู่แล้ว
-10789	Failed to access Redis	ไม่สามารถเข้าถึง Redis
-10790	Redis operation failed	Redis ล้มเหลว
-10791	Not enough Consumables	วัสดุสิ้นเปลืองไม่เพียงพอ
-10792	Storage does not exist	ไม่มีที่เก็บข้อมูล
-10793	Item use is prohibited	ห้ามใช้สิ่งของ
-10794	Not the Current Preset	ไม่ใช่ค่าที่ตั้งล่วงหน้าปัจจุบัน
-10795	Hotbar item not found.	ไม่พบรายการ Hotbar
-10796	Prerequisites not met.	ไม่ตรงตามข้อกำหนดเบื้องต้น
-10797	Distance to Start Time	ระยะทางถึงเวลาเริ่มต้น
-10798	Attacker Gameplay Flow	กระแสการเล่นเกมของผู้โจมตี
-10799	Defender Gameplay Flow	กระแสการเล่นเกม Defender
-10800	Participation Rewards:	:
-10801	Failed to detect mode.	ล้มเหลวในการตรวจหาโหมด
-10802	Invalid top-up option.	ตัวเลือกการเติมเงินไม่ถูกต้อง
-10803	You're not in a party.	คุณไม่ได้อยู่ในงานปาร์ตี้
-10804	Garrisoned Guild: ${1}	Guild ที่ถูกคุมขัง:${1}ประตู
-10805	Exit Stronghold Battle	ออกจาก Stronghold Battle
-10806	Player Limit ${1}/${2}	ขีดจำกัดผู้เล่น${1}/${2}ลิงค์ผู้เล่น
-10807	Input cannot be empty.	ต้องไม่เว้นว่าง
-10808	${1}'s Book Collection	คอลเลกชันหนังสือของ${1}
-10809	Refresh is on cooldown	การรีเฟรชอยู่ในคูลดาวน์
-10810	Equipment Preset error	ข้อผิดพลาดการตั้งค่าอุปกรณ์ล่วงหน้า
-10811	The cargo has expired.	สินค้าหมดอายุแล้ว
-10812	Cargo has been loaded.	มีการโหลดสินค้าแล้ว
-10813	Guild group not found.	ไม่พบกลุ่ม Guild
-10814	Unlock · Solar Chariot	ปลดล็อค · Solar Chariot
-10815	A Gathering of Friends	การรวมตัวของเพื่อน
-10816	Two Spirits in Harmony	สองวิญญาณประสานกัน
-10817	A Small Haul: 10 Cards	การลากขนาดเล็ก: ไพ่ 10 ใบ
-10818	Practice Makes Perfect	การฝึกฝนทำให้สมบูรณ์แบบ
-10819	Ugh... I am... I am...	เอ่อ... ฉัน... ฉัน...
-10820	【${1} Hundred Million】	【${1}ร้อยล้าน】
-10821	Currency Limit Details	รายละเอียดขีดจำกัดสกุลเงิน
-10822	Right-click to unequip	คลิกขวาเพื่อถอดออก
-10823	Game is About to start	เกมกำลังจะเริ่มต้นแล้ว
-10824	Compliment her sweater	ชมเสื้อสเวตเตอร์ของเธอ
-10825	The professor sent me.	อาจารย์ส่งมาครับ
-10826	Thank you, adventurer!	ขอบคุณนักผจญภัย!
-10827	Create Adventure Guild	สร้าง Guild ผจญภัย
-10828	Place It in the Device	วางลงในอุปกรณ์
+10748	Party Member not found	Party Member not found
+10749	Already a close friend	Already a close friend
+10750	Not on the Blocks list	Not on the Blocks list
+10751	Repeat appearance slot	Repeat appearance slot
+10752	Stall name is too long	Stall name is too long
+10753	Invalid item discount.	Invalid item discount.
+10754	Invalid skill Distance	Invalid skill Distance
+10755	Not in Moderated Mode.	Not in Moderated Mode.
+10756	Invalid channel index.	Invalid channel index.
+10757	Name card unavailable.	Name card unavailable.
+10758	Chapter does not exist	Chapter does not exist
+10759	Journey does not exist	Journey does not exist
+10760	Current node completed	Current node completed
+10761	Already in an instance	Already in an instance
+10762	Refresh limit reached.	Refresh limit reached.
+10763	Gift order has expired	Gift order has expired
+10764	Too many party Members	Too many party Members
+10765	Invalid draw cost item	Invalid draw cost item
+10766	Event execution failed	Event execution failed
+10767	Trigger does not exist	Trigger does not exist
+10768	Incorrect escort phase	Incorrect escort phase
+10769	Maximum points reached	Maximum points reached
+10770	Matchmaking timed out.	Matchmaking timed out.
+10771	Signature is too long.	Signature is too long.
+10772	Contains locked items.	Contains locked items.
+10773	^{1}Body Tempering^{2}	^{1}Body Tempering^{2}
+10774	^{1}Power of Earth^{2}	^{1}Power of Earth^{2}
+10775	^{1}Weapon Enhance^{2}	^{1}Weapon Enhance^{2}
+10776	Concussive Shield Bash	Concussive Shield Bash
+10777	Brandish Spear Enhance	Brandish Spear Enhance
+10778	Basic Physical Defense	Basic Physical Defense
+10779	Minor Ghost Resistance	Minor Ghost Resistance
+10780	Advanced Magic Defense	Advanced Magic Defense
+10781	Vanish Without a Trace	Vanish Without a Trace
+10782	^{1}Fireball Burst^{2}	^{1}Fireball Burst^{2}
+10783	^{1}Earthfire Mark^{2}	^{1}Earthfire Mark^{2}
+10784	^{1}Flame Eruption^{2}	^{1}Flame Eruption^{2}
+10785	^{1}Frost Eruption^{2}	^{1}Frost Eruption^{2}
+10786	^{1}Arcane Mastery^{2}	^{1}Arcane Mastery^{2}
+10787	^{1}Arcane Studies^{2}	^{1}Arcane Studies^{2}
+10788	Account already exists	Account already exists
+10789	Failed to access Redis	Failed to access Redis
+10790	Redis operation failed	Redis operation failed
+10791	Not enough Consumables	Not enough Consumables
+10792	Storage does not exist	Storage does not exist
+10793	Item use is prohibited	Item use is prohibited
+10794	Not the Current Preset	Not the Current Preset
+10795	Hotbar item not found.	Hotbar item not found.
+10796	Prerequisites not met.	Prerequisites not met.
+10797	Distance to Start Time	Distance to Start Time
+10798	Attacker Gameplay Flow	Attacker Gameplay Flow
+10799	Defender Gameplay Flow	Defender Gameplay Flow
+10800	Participation Rewards:	Participation Rewards:
+10801	Failed to detect mode.	Failed to detect mode.
+10802	Invalid top-up option.	Invalid top-up option.
+10803	You're not in a party.	You're not in a party.
+10804	Garrisoned Guild: ${1}	Garrisoned Guild: ${1}
+10805	Exit Stronghold Battle	Exit Stronghold Battle
+10806	Player Limit ${1}/${2}	Player Limit ${1}/${2}
+10807	Input cannot be empty.	Input cannot be empty.
+10808	${1}'s Book Collection	${1}'s Book Collection
+10809	Refresh is on cooldown	Refresh is on cooldown
+10810	Equipment Preset error	Equipment Preset error
+10811	The cargo has expired.	The cargo has expired.
+10812	Cargo has been loaded.	Cargo has been loaded.
+10813	Guild group not found.	Guild group not found.
+10814	Unlock · Solar Chariot	Unlock · Solar Chariot
+10815	A Gathering of Friends	A Gathering of Friends
+10816	Two Spirits in Harmony	Two Spirits in Harmony
+10817	A Small Haul: 10 Cards	A Small Haul: 10 Cards
+10818	Practice Makes Perfect	Practice Makes Perfect
+10819	Ugh... I am... I am...	Ugh... I am... I am...
+10820	【${1} Hundred Million】	【${1} Hundred Million】
+10821	Currency Limit Details	Currency Limit Details
+10822	Right-click to unequip	Right-click to unequip
+10823	Game is About to start	Game is About to start
+10824	Compliment her sweater	Compliment her sweater
+10825	The professor sent me.	The professor sent me.
+10826	Thank you, adventurer!	Thank you, adventurer!
+10827	Create Adventure Guild	Create Adventure Guild
+10828	Place It in the Device	Place It in the Device
 10829	Damage +@{1}%. Stacks.	+@{1}%สแต็ค
 10830	Coffin uses skill @{1}	โลงศพใช้ทักษะ@{1}
 10831	Coffin Summoned marker	เครื่องหมายเรียกโลงศพ
 10832	Full-screen Shield AoE	Shield AoE แบบเต็มหน้าจอ
-10833	Generate Get Help Code	สร้างรับรหัสช่วยเหลือ
-10834	Player Requesting Help	กำลังขอความช่วยเหลือ
-10835	System build replaced.	โครงสร้างระบบถูกแทนที่
+10833	Generate Get Help Code	Generate Get Help Code
+10834	Player Requesting Help	Player Requesting Help
+10835	System build replaced.	System build replaced.
 10836	Life increased by ${1}	Life เพิ่มขึ้นโดย${1}
-10837	Intelligence Resonance	เสียงสะท้อนอัจฉริยะ
-10838	Chest Level-up Rewards	รางวัลการอัพเลเวลหน้าอก
+10837	Intelligence Resonance	Intelligence Resonance
+10838	Chest Level-up Rewards	Chest Level-up Rewards
 10839	Wind Walk【Buff Effect】	Wind Walk【Buff Effect】
 10840	Blitz Beat【Skill Mode】	Blitz Beat【Skill Mode】
 10841	Blitz Beat【Stat Boost】	Blitz Beat【Stat Boost】
-10842	White Circle Underfoot	วงกลม White ใต้ฝ่าเท้า
+10842	White Circle Underfoot	White Circle Underfoot
 10843	Silk Spit—@{1} Players	Silk Spit— ผู้เล่น@{1}
 10844	Mistress Basic Attack.	การโจมตีขั้นพื้นฐานของ Mistress
 10845	Roda Frog Cone - Water	Roda Frog Cone - Water
 10846	Elder Willow Cone-Fire	Elder Willow Cone-Fire
-10847	Enhanced Double Strafe	เครื่องยิงกราดคู่ที่ได้รับการปรับปรุง
-10848	The One with the Sword	ผู้ที่มี Sword
+10847	Enhanced Double Strafe	Enhanced Double Strafe
+10848	The One with the Sword	The One with the Sword
 10849	Assassin Normal Attack	Assassin Normal Attack
-10850	No Member Applications	ไม่มีการสมัครสมาชิก
-10851	Izlude Map Description	คำอธิบายแผนที่ Izlude
-10852	Geffen Map Description	คำอธิบายแผนที่ Geffen
-10853	Morroc Map Description	คำอธิบายแผนที่ Morroc
-10854	Next question in ${1}s	คำถามถัดไปใน${1}s
-10855	Drag to select a target	ลากเพื่อเลือกเป้าหมาย
-10856	Baphomet Attack Enhance	เสริมพลังโจมตี Baphomet
+10850	No Member Applications	No Member Applications
+10851	Izlude Map Description	Izlude Map Description
+10852	Geffen Map Description	Geffen Map Description
+10853	Morroc Map Description	Morroc Map Description
+10854	Next question in ${1}s	Next question in ${1}s
+10855	Drag to select a target	Drag to select a target
+10856	Baphomet Attack Enhance	Baphomet Attack Enhance
 10857	Urgent Treatment Needed	Urgent Treatment Needed
 10858	Academy Journal: Recess	Academy Journal: Recess
-10859	${1} monsters remaining	มอนสเตอร์${1}ที่เหลืออยู่
-10860	Head to the Chaos Ruins	มุ่งหน้าสู่ Chaos Ruins
-10861	Starshard Dragon Unseal	สตาร์ฮาร์ด ดราก้อน Unseal
-10862	Event Period: ${1}-${2}	ระยะเวลากิจกรรม:${1}-${2}
-10863	Shared to World Channel	แชร์ไปที่ World Channel
-10864	Magic Damage Reduction%	การลดความเสียหายเวทย์มนตร์%
-10865	Skill Damage Reduction%	การลดความเสียหายของทักษะ%
-10866	Earth Damage Reduction%	ลดความเสียหายจากโลก%
-10867	Water Damage Reduction%	ลดความเสียหายจากน้ำ%
-10868	Ghost Damage Reduction%	ลดความเสียหายจากผี%
-10869	Damage to Undead Race %	สร้างความเสียหายต่อเผ่าพันธุ์ Undead %
+10859	${1} monsters remaining	${1} monsters remaining
+10860	Head to the Chaos Ruins	Head to the Chaos Ruins
+10861	Starshard Dragon Unseal	Starshard Dragon Unseal
+10862	Event Period: ${1}-${2}	Event Period: ${1}-${2}
+10863	Shared to World Channel	Shared to World Channel
+10864	Magic Damage Reduction%	Magic Damage Reduction%
+10865	Skill Damage Reduction%	Skill Damage Reduction%
+10866	Earth Damage Reduction%	Earth Damage Reduction%
+10867	Water Damage Reduction%	Water Damage Reduction%
+10868	Ghost Damage Reduction%	Ghost Damage Reduction%
+10869	Damage to Undead Race %	Damage to Undead Race %
 10870	Damage to Insect Race %	Damage to Insect Race %
-10871	Damage to Dragon Race %	สร้างความเสียหายต่อเผ่าพันธุ์มังกร %
-10872	DMG vs Medium Enemies %	DMG กับศัตรูขนาดกลาง %
-10873	Additional Physical ATK	พลังโจมตีกายภาพเพิ่มเติม
-10874	Additional Physical DEF	DEF กายภาพเพิ่มเติม
-10875	Universal Damage Shield	โล่ความเสียหายสากล
-10876	Shield Effect Received%	เอฟเฟกต์โล่ที่ได้รับ%
-10877	Challenge the Protector	ท้าทายผู้พิทักษ์
-10878	Encounter the Evil Boss	เผชิญหน้ากับ Evil Boss
-10879	Battle Merit Settlement	ข้อตกลงสมรภูมิรบ
-10880	${1}'s Spacetime Emblem	สัญลักษณ์ Spacetime ของ${1}
-10881	Guild Merit Leaderboard	กระดานผู้นำบุญ Guild
+10871	Damage to Dragon Race %	Damage to Dragon Race %
+10872	DMG vs Medium Enemies %	DMG vs Medium Enemies %
+10873	Additional Physical ATK	Additional Physical ATK
+10874	Additional Physical DEF	Additional Physical DEF
+10875	Universal Damage Shield	Universal Damage Shield
+10876	Shield Effect Received%	Shield Effect Received%
+10877	Challenge the Protector	Challenge the Protector
+10878	Encounter the Evil Boss	Encounter the Evil Boss
+10879	Battle Merit Settlement	Battle Merit Settlement
+10880	${1}'s Spacetime Emblem	${1}'s Spacetime Emblem
+10881	Guild Merit Leaderboard	Guild Merit Leaderboard
 10882	Reach @{1} Total Points	ถึงคะแนนรวมของ@{1}
 10883	Whoosh! Whoosh! Whoosh!	โห่! โห่! โห่!
 10884	Fall asleep at the inn.	เผลอหลับไปในโรงเตี๊ยม
@@ -893,70 +893,70 @@
 10892	Talk to the Guide again	Talk กับไกด์อีกครั้ง
 10893	Talk to your companions	Talk กับเพื่อนของคุณ
 10894	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
-10895	Life +@{1}%, ATK +@{2}%	พลัง Life +@{1}%, ATK +@{2}%
-10896	Current Encounter Group	กลุ่มการเผชิญหน้าปัจจุบัน
-10897	Outfit Not Yet Unlocked	ชุดยังไม่ได้ปลดล็อค
-10898	Third Class Advancement	ความก้าวหน้าระดับสาม
-10899	% Physical ATK Increase	% ATK กายภาพเพิ่มขึ้น
-10900	% Physical DEF Increase	% DEF กายภาพเพิ่มขึ้น
-10901	% Movement Speed Change	% การเปลี่ยนแปลงความเร็วในการเคลื่อนที่
-10902	% Attack Speed Increase	% ความเร็วในการโจมตีเพิ่มขึ้น
-10903	Defeat Golden Thief Bug	กำจัดแมลงจอมโจรสีทอง
-10904	Novice Handbook Rewards	รางวัลคู่มือมือใหม่
-10905	AFK Bonus Time Reminder	การแจ้งเตือนเวลาโบนัส AFK
-10906	Otherworld Arrival Shop	ร้านมาถึงต่างโลก
-10907	Season Exploration Shop	ร้านสำรวจฤดูกาล
-10908	Poem of a Lost Homeland	บทกวีแห่งบ้านเกิดที่สูญหาย
+10895	Life +@{1}%, ATK +@{2}%	Life +@{1}%, ATK +@{2}%
+10896	Current Encounter Group	Current Encounter Group
+10897	Outfit Not Yet Unlocked	Outfit Not Yet Unlocked
+10898	Third Class Advancement	Third Class Advancement
+10899	% Physical ATK Increase	% Physical ATK Increase
+10900	% Physical DEF Increase	% Physical DEF Increase
+10901	% Movement Speed Change	% Movement Speed Change
+10902	% Attack Speed Increase	% Attack Speed Increase
+10903	Defeat Golden Thief Bug	Defeat Golden Thief Bug
+10904	Novice Handbook Rewards	Novice Handbook Rewards
+10905	AFK Bonus Time Reminder	AFK Bonus Time Reminder
+10906	Otherworld Arrival Shop	Otherworld Arrival Shop
+10907	Season Exploration Shop	Season Exploration Shop
+10908	Poem of a Lost Homeland	Poem of a Lost Homeland
 10909	Auto Combat has stopped	Auto Combat has stopped
-10910	A New World Has Arrived	โลกใหม่ได้มาถึงแล้ว
-10911	Damage Reflection Build	โครงสร้างการสะท้อนความเสียหาย
+10910	A New World Has Arrived	A New World Has Arrived
+10911	Damage Reflection Build	Damage Reflection Build
 10912	Go to the banquet venue	ไปที่สถานที่จัดเลี้ยง
 10913	Approach the giant ant.	Approach the giant ant.
 10914	Complete the shell game	จบเกมเชลล์
 10915	Ask about the next move	Ask about the next move
-10916	So lucky! I'll be next!	โชคดีจัง! ฉันจะเป็นรายต่อไป!
-10917	We're rich! We're rich!	เรารวย! เรารวยแล้ว!
-10918	Upper-Left Revive Point	จุดฟื้นฟูด้านซ้ายบน
-10919	Lower-Left Revive Point	จุดฟื้นคืนชีพล่างซ้าย
-10920	Main-Hand/Off-Hand Slot	สล็อตมือหลัก/รองมือ
-10921	Notification Dot System	ระบบจุดแจ้งเตือน
-10922	Official Recommendation	คำแนะนำอย่างเป็นทางการ
-10923	Suggestions from Others	คำแนะนำจากผู้อื่น
-10924	Friend Gifts - Benefits	ของขวัญจากเพื่อน - สิทธิประโยชน์
+10916	So lucky! I'll be next!	So lucky! I'll be next!
+10917	We're rich! We're rich!	We're rich! We're rich!
+10918	Upper-Left Revive Point	Upper-Left Revive Point
+10919	Lower-Left Revive Point	Lower-Left Revive Point
+10920	Main-Hand/Off-Hand Slot	Main-Hand/Off-Hand Slot
+10921	Notification Dot System	Notification Dot System
+10922	Official Recommendation	Official Recommendation
+10923	Suggestions from Others	Suggestions from Others
+10924	Friend Gifts - Benefits	Friend Gifts - Benefits
 10925	Victory of the Covenant	Victory of the Covenant
-10926	Price (Ascending Order)	(ลำดับจากน้อยไปหามาก)
-10927	It can't go any higher!	ขึ้นไปสูงกว่านี้ไม่ได้แล้ว!
-10928	Keep up to ${1} records	เก็บบันทึก${1}ได้สูงสุด
-10929	Pre-purchase successful	การซื้อล่วงหน้าสำเร็จแล้ว
-10930	Deduct Illicit Earnings	หักรายได้ที่ผิดกฎหมาย
-10931	Introducing Codex Cards	ขอแนะนำการ์ด Codex
-10932	Bond Points Information	ข้อมูลคะแนนบอนด์
-10933	Details Details Details	รายละเอียด รายละเอียด รายละเอียด
+10926	Price (Ascending Order)	Price (Ascending Order)
+10927	It can't go any higher!	It can't go any higher!
+10928	Keep up to ${1} records	Keep up to ${1} records
+10929	Pre-purchase successful	Pre-purchase successful
+10930	Deduct Illicit Earnings	Deduct Illicit Earnings
+10931	Introducing Codex Cards	Introducing Codex Cards
+10932	Bond Points Information	Bond Points Information
+10933	Details Details Details	Details Details Details
 10934	Advanced Treasure Chest	หีบสมบัติขั้นสูง
-10935	Growth Handbook Sources	การเดินทางสู่การเติบโต
-10936	Emerald Garden Emblem I	ตราสัญลักษณ์ Emerald Garden I
-10937	Player ${1} revived you	ผู้เล่น${1}ฟื้นคืนชีพคุณ
-10938	Lifetime Purchase Limit	ขีดจำกัดการซื้อตลอดอายุการใช้งาน
-10939	Refreshes daily at ${1}	รีเฟรชทุกวันที่${1}
-10940	Created: ${2}/${3}/${1}	สร้างแล้ว:${2}/${3}/${1}
-10941	Friend Recommendations:	คำแนะนำจากเพื่อน:
-10942	Active Mount Attributes	คุณสมบัติ Mount ที่ใช้งานอยู่
-10943	Opposite-Gender Players	ผู้เล่นเพศตรงข้าม
-10944	Leave the current raid?	Leave จากการโจมตีปัจจุบันหรือไม่
-10945	This player is offline.	เครื่องเล่นนี้ออฟไลน์อยู่
-10946	Invalid party objective	วัตถุประสงค์ปาร์ตี้ไม่ถูกต้อง
-10947	Default Listing Message	ข้อความรายการเริ่มต้น
-10948	Recommended Party Size:	ขนาดปาร์ตี้ที่แนะนำ:
-10949	Rent Job-exclusive ${1}	เช่างานพิเศษ${1}
-10950	Claim ${1}'s Map Reward	รับรางวัลแผนที่ของ${1}
-10951	Guild Creation Response	การตอบสนองการสร้าง Guild
-10952	Share text is too long.	ข้อความแชร์ยาวเกินไป
-10953	${1} reaches level ${2}	${1}ถึงระดับ${2}
-10954	Level-up in progress...	อยู่ระหว่างการอัปเลเวล...
-10955	Not in the event period	ไม่อยู่ในช่วงกิจกรรม
-10956	${1}'s Get Help Request	คำขอความช่วยเหลือของ${1}
-10957	Helped Today: ${1}/${2}	ช่วยวันนี้:${1}/${2}
-10958	Already refreshed today	รีเฟรชแล้ววันนี้
+10935	Growth Handbook Sources	Growth Handbook Sources
+10936	Emerald Garden Emblem I	Emerald Garden Emblem I
+10937	Player ${1} revived you	Player ${1} revived you
+10938	Lifetime Purchase Limit	Lifetime Purchase Limit
+10939	Refreshes daily at ${1}	Refreshes daily at ${1}
+10940	Created: ${2}/${3}/${1}	Created: ${2}/${3}/${1}
+10941	Friend Recommendations:	Friend Recommendations:
+10942	Active Mount Attributes	Active Mount Attributes
+10943	Opposite-Gender Players	Opposite-Gender Players
+10944	Leave the current raid?	Leave the current raid?
+10945	This player is offline.	This player is offline.
+10946	Invalid party objective	Invalid party objective
+10947	Default Listing Message	Default Listing Message
+10948	Recommended Party Size:	Recommended Party Size:
+10949	Rent Job-exclusive ${1}	Rent Job-exclusive ${1}
+10950	Claim ${1}'s Map Reward	Claim ${1}'s Map Reward
+10951	Guild Creation Response	Guild Creation Response
+10952	Share text is too long.	Share text is too long.
+10953	${1} reaches level ${2}	${1} reaches level ${2}
+10954	Level-up in progress...	Level-up in progress...
+10955	Not in the event period	Not in the event period
+10956	${1}'s Get Help Request	${1}'s Get Help Request
+10957	Helped Today: ${1}/${2}	Helped Today: ${1}/${2}
+10958	Already refreshed today	Already refreshed today
 10959	Above the Sea of Clouds	Above the Sea of Clouds
 10960	Card: Goblin Steamrider	Card: Goblin Steamrider
 10961	Portrait Card: Orc Hero	Portrait Card: Orc Hero
@@ -966,12 +966,12 @@
 10965	Portrait Card: Angeling	Portrait Card: Angeling
 10966	Portrait Card: Orc Lord	Portrait Card: Orc Lord
 10967	Portrait Card: Phreeoni	Portrait Card: Phreeoni
-10968	Interaction unavailable	ไม่พร้อมใช้งาน
-10969	Must equip ^{1}${1}^{2}	ต้องติดตั้ง ^{1}${1}^{2}
-10970	Must carry ^{1}${1}^{2}	ต้องพกไว้ ^{1}${1}^{2}
-10971	Clear 【${1}】 difficulty	ล้าง 【${1}】 ความยาก
-10972	You're not a Lucky Star	คุณไม่ใช่ Lucky Star
-10973	No corresponding skill!	ไม่มีทักษะที่สอดคล้องกัน!
+10968	Interaction unavailable	Interaction unavailable
+10969	Must equip ^{1}${1}^{2}	Must equip ^{1}${1}^{2}
+10970	Must carry ^{1}${1}^{2}	Must carry ^{1}${1}^{2}
+10971	Clear 【${1}】 difficulty	Clear 【${1}】 difficulty
+10972	You're not a Lucky Star	You're not a Lucky Star
+10973	No corresponding skill!	No corresponding skill!
 10974	Novice Two-Handed Sword	Novice Two-Handed Sword
 10975	Gain ${1}% Holy damage.	ได้รับ${1}% ความเสียหายอันศักดิ์สิทธิ์
 10976	Damage Reduction +@{1}%	การลดความเสียหาย +@{1}%
@@ -984,7 +984,7 @@
 10983	Fire and Earth Research	Fire and Earth Research
 10984	Magic Absorption - Card	Magic Absorption - Card
 10985	Physical Reflect - Card	Physical Reflect - Card
-10986	Save shortcut settings?	บันทึกการตั้งค่าทางลัดหรือไม่
+10986	Save shortcut settings?	Save shortcut settings?
 10987	Compressed Gas Canister	Compressed Gas Canister
 10988	Skill@{1}Goblet Shatter	Skill@{1}Goblet Shatter
 10989	Skill@{1}Kun Appearance	Skill@{1}Kun Appearance
