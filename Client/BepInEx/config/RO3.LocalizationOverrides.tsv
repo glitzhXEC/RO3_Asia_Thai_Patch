@@ -1843,7 +1843,7 @@
 10220300434	You never feel fatigued.	คุณจะไม่รู้สึกเหนื่อยล้า
 10220300435	Victory provides a tremendous morale boost!	Victory มอบกำลังใจอันมหาศาล!
 10220300436	Continuously restores a large amount of Life and increases damage	ฟื้นฟูพลัง Life จำนวนมากอย่างต่อเนื่องและเพิ่มความเสียหาย
-10220300437	DMG Bonus	โบนัสความเสียหาย
+10220300437	DMG Bonus	DMG Bonus
 10220300438	Continuously restores Life	ฟื้นฟูพลัง Life อย่างต่อเนื่อง
 10220300439	Greatly increases Movement Speed and ATK for @{1} sec.	เพิ่มความเร็วในการเคลื่อนที่และ ATK อย่างมากสำหรับ@{1}วินาที
 10220300440	Greatly increases MSPD and attacks.	เพิ่ม MSPD และการโจมตีอย่างมาก
@@ -1870,7 +1870,7 @@
 10220300462	Damage Increase: ${1}% while fighting alongside ^{1}【Falcon】^{2}.	เพิ่มความเสียหาย:${1}% ขณะต่อสู้เคียงข้าง ^{1}【Falcon】^{2}
 10220300463	^{1}【Trap Hunter】^{2} skills have their cast range increased to ${1} meters and their percentage damage multiplier increased by ${2}%.	^{1}【Trap Hunter】^ ทักษะของ{2}มีระยะร่ายเพิ่มขึ้นเป็นเมตร${1}และตัวคูณเปอร์เซ็นต์ความเสียหายเพิ่มขึ้น${2}%
 10220300464	Increases the duration of 【Frozen】, 【Blind】, and 【Immobilize】 inflicted by ^{1}【Trap Hunter】^{2} skills by ${1} second.	เพิ่มระยะเวลาของสกิล 【Frozen】, 【Blind】 และ 【Immobilize】 ที่เกิดจาก ^{1}【Trap Hunter】^ ทักษะ{2}เป็น${1}วินาที
-10220300465	DEX +${1}.	DEX +${1}โบนัส
+10220300465	DEX +${1}.	DEX +${1}.
 10220300466	^{1}^{2}【Sharp Shooting】^{3}^{4} increases its percentage damage multiplier by ${1}% and fixed damage by ${2}.	^{1}^{2}【Sharp Shooting】^{3}^{4}เพิ่มตัวคูณความเสียหายเป็นเปอร์เซ็นต์${1}% และความเสียหายคงที่โดย${2}
 10220300467	^{1}^{2}【Sharp Shooting】^{3}^{4} gains ${1}% Crit Chance but no longer pierces.	^{1}^{2}【Sharp Shooting】^{3}^{4}ได้รับ${1}% โอกาสคริติคอล แต่ไม่ทะลุอีกต่อไป
 10220300468	^{1}^{2}【Sharp Shooting】^{3}^{4}'s CT is reduced by ${1}%, the number of targets increases by ${2}, and its area width increases by ${3} meters.	^{1}^{2}【Sharp Shooting】^{3}^ CT ของ{4}ลดลง${1}% จำนวนเป้าหมายเพิ่มขึ้น${2}และความกว้างของพื้นที่เพิ่มขึ้น${3}เมตร

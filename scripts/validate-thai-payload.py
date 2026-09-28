@@ -31,6 +31,7 @@ THAI = re.compile(r"[\u0E00-\u0E7F]")
 SOURCE_BRACKET = re.compile(r"(?:\[|【)([^\]】\r\n]+)(?:\]|】)")
 PLAIN_ENGLISH_BRACKET_NAME = re.compile(r"^[A-Za-z][A-Za-z0-9 .,'’&+:/()\-]*$")
 TECHNICAL_TERMS = ("STR", "AGI", "VIT", "INT", "DEX", "LUK")
+UNSAFE_STANDALONE = re.compile(r"^(?:DMG Bonus|(?:STR|AGI|VIT|INT|DEX|LUK)\s*\+[^A-Za-z]*\.?)$")
 
 
 def split_xunity(line: str) -> tuple[str, str] | None:
@@ -114,8 +115,12 @@ if not (4000 <= len(canonical) <= len(allowed_texts)):
     raise SystemExit(f"unexpected canonical description count: {len(canonical)}")
 if any(source not in allowed_texts for source, _ in canonical):
     raise SystemExit("canonical contains text outside the description-only scope")
+if any(UNSAFE_STANDALONE.fullmatch(source) and target != source for source, target in canonical):
+    raise SystemExit("canonical translates a standalone option/stat label")
 if any(localization_id not in allowed_ids for localization_id, _, _ in overrides):
     raise SystemExit("override map contains an ID outside the description-only scope")
+if any(UNSAFE_STANDALONE.fullmatch(source) and target != source for _, source, target in overrides):
+    raise SystemExit("override map translates a standalone option/stat label")
 if priority or runtime:
     raise SystemExit("global priority/regex rules must stay disabled in description-only mode")
 check_tokens("canonical", canonical)
@@ -136,7 +141,7 @@ for path in sorted(SPLIT.glob("part_*.tsv")):
             workspace_rows += 1
             english = row["English"]
             target = row["Thai_Translation"]
-            if english not in allowed_texts and target != english:
+            if (english not in allowed_texts or UNSAFE_STANDALONE.fullmatch(english)) and target != english:
                 workspace_failures.append((path.name, english, target))
                 if len(workspace_failures) == 10:
                     break

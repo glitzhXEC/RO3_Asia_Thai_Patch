@@ -753,7 +753,7 @@
 1752	Pet Skill	Pet Skill
 1753	Team Name	Team Name
 1754	MVP Rules	MVP Rules
-1755	DMG Bonus	โบนัสความเสียหาย
+1755	DMG Bonus	DMG Bonus
 1756	Sanctuary	Sanctuary
 1757	Assumptio	Assumptio
 1758	Meditatio	Meditatio
@@ -805,9 +805,9 @@
 1804	Ice Spike	Ice Spike
 1805	Ice Blast	Ice Blast
 1806	AGI +${1}	AGI +${1}
-1807	STR +${1}	STR +${1}โบนัส
+1807	STR +${1}	STR +${1}
 1808	VIT +${1}	VIT +${1}
-1809	INT +${1}	INT +${1}โบนัส
+1809	INT +${1}	INT +${1}
 1810	DEX +${1}	DEX +${1}
 1811	Edit Bond	Edit Bond
 1812	Next Rank	Next Rank
