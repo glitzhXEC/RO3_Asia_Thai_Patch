@@ -1,17 +1,17 @@
 ﻿Index	English	Thai_Translation
 1001	Giearth	Giearth
-1002	Obeaune	โอโบน
-1003	Ladybug	เต่าทอง
-1004	Ant Egg	ไข่มด
-1005	Whisper	เสียงกระซิบ
-1006	Deviace	อุปกรณ์
-1007	Sandman	แซนด์แมน
-1008	Driller	เครื่องเจาะ
-1009	Requiem	บังสุกุล
-1010	Argiope	อาร์จิโอพี
-1011	Raggler	แร็คเกอร์
+1002	Obeaune	Obeaune
+1003	Ladybug	Ladybug
+1004	Ant Egg	Ant Egg
+1005	Whisper	Whisper
+1006	Deviace	Deviace
+1007	Sandman	Sandman
+1008	Driller	Driller
+1009	Requiem	Requiem
+1010	Argiope	Argiope
+1011	Raggler	Raggler
 1012	Reversi	ย้อนกลับ
-1013	Job EXP	งาน EXP
+1013	Job EXP	Job EXP
 1014	MP Cost	ต้นทุน MP
 1015	Stealth	สเตลธ์
 1016	Refresh	รีเฟรช
@@ -33,8 +33,8 @@
 1032	Trophy:	:
 1033	Special	พิเศษ
 1034	Replace	รายงาน
-1035	Bouquet	ช่อดอกไม้
-1036	Element	การควบคุมองค์ประกอบ
+1035	Bouquet	Bouquet
+1036	Element	Element
 1037	Restart	รีสตาร์ท
 1038	Abandon	ละทิ้ง
 1039	Connect	ฟังก์ชั่นการเชื่อมต่อ
@@ -45,7 +45,7 @@
 1044	Academy	สถาบันการศึกษา
 1045	Discord	ไม่ลงรอยกัน
 1046	Ranking	การจัดอันดับ
-1047	Unstuck	ไม่ติดขัด
+1047	Unstuck	Unstuck
 1048	Enchant	มนต์เสน่ห์
 1049	Details	รายละเอียด
 1050	Recruit	รับสมัครด่วน !
@@ -76,95 +76,95 @@
 1075	Invited	เชิญแล้ว
 1076	Officer	เจ้าหน้าที่
 1077	Respond	ตอบกลับ
-1078	Culvert	ท่อระบายน้ำ
-1079	Pharaoh	ฟาโรห์
-1080	Gryphon	กริฟฟอน
+1078	Culvert	Culvert
+1079	Pharaoh	Pharaoh
+1080	Gryphon	Gryphon
 1081	Neutral	เป็นกลาง
-1082	Passive	พาสซีฟ
+1082	Passive	Passive
 1083	Upgrade	อัพเกรด
-1084	Angelus	แองเจลัส
-1085	Respawn	เกิดใหม่
-1086	Vending	จำหน่าย
-1087	Enlarge	ขยาย
-1088	Envenom	พิษ
+1084	Angelus	Angelus
+1085	Respawn	Respawn
+1086	Vending	Vending
+1087	Enlarge	Enlarge
+1088	Envenom	Envenom
 1089	Nearest	ใกล้ที่สุด
 1090	Privacy	ความเป็นส่วนตัว
-1091	General	ทั่วไป
+1091	General	General
 1092	Forward	ไปข้างหน้า
 1093	Account	บัญชี
 1094	Log Out	ออกจากระบบ
 1095	Effects	การควบคุมองค์ประกอบ
 1096	PC Mode	โหมดพีซี
 1097	Opacity	ความทึบ
-1098	Berserk	เบอร์เซิร์ก
-1099	Piccolo	พิคโกโร่
-1100	Logging	การบันทึก
-1101	Provoke	กระตุ้น
-1102	Caramel	คาราเมล
-1103	Stainer	สเตนเนอร์
-1104	Noxious	เป็นพิษ
+1098	Berserk	Berserk
+1099	Piccolo	Piccolo
+1100	Logging	Logging
+1101	Provoke	Provoke
+1102	Caramel	Caramel
+1103	Stainer	Stainer
+1104	Noxious	Noxious
 1105	Victory	ชัยชนะ
 1106	Loading	กำลังโหลด
 1107	Crowded	แออัด
 1108	Network	เครือข่าย
-1109	Boss Up	บอสอัพ
-1110	Missile	ขีปนาวุธ
-1111	Opening	กำลังเปิด
+1109	Boss Up	Boss Up
+1110	Missile	Missile
+1111	Opening	Opening
 1112	Preview	ราคา
 1113	No gear	ไม่มีเกียร์
 1114	Compare	เปรียบเทียบ
 1115	Advance	ก้าวหน้า
 1116	Markers	เครื่องหมาย
-1117	Pyramid	พีระมิด
+1117	Pyramid	Pyramid
 1118	Points:	คะแนน:
 1119	Block ≤	บล็อก ≤
 1120	Channel	ช่อง
-1121	Lillian	ลิเลียน
-1122	Bonfire	กองไฟ
-1123	Dracula	แดร็กคูล่า
-1124	Almagia	อัลมาเกีย
-1125	Outpost	ด่านหน้า
-1126	Chimera	คิเมร่า
-1127	Raydric	เรย์ดริก
-1128	Captain	กัปตัน
-1129	Anolian	อโนเลี่ยน
-1130	Eclipse	คราส
-1131	Vagrant	คนจรจัด
-1132	Butcher	ร้านขายเนื้อ
-1133	Sifaris	ซิฟาริส
-1134	Soldier	ทหาร
-1135	Ibrahim	อิบราฮิม
-1136	Seultae	หลั่งไหล
-1137	Leavren	เลฟเรน
-1138	Old Man	ชายชรา
-1139	Deok-gu	ด็อก-กู
-1140	Antonio	อันโตนิโอ
-1141	Phoenix	ฟีนิกซ์
-1142	Ah-Jiao	อา-เจียว
-1143	Tourist	นักท่องเที่ยว
-1144	Student	นักศึกษา
-1145	Grandpa	คุณปู่
-1146	Grandma	คุณยาย
+1121	Lillian	Lillian
+1122	Bonfire	Bonfire
+1123	Dracula	Dracula
+1124	Almagia	Almagia
+1125	Outpost	Outpost
+1126	Chimera	Chimera
+1127	Raydric	Raydric
+1128	Captain	Captain
+1129	Anolian	Anolian
+1130	Eclipse	Eclipse
+1131	Vagrant	Vagrant
+1132	Butcher	Butcher
+1133	Sifaris	Sifaris
+1134	Soldier	Soldier
+1135	Ibrahim	Ibrahim
+1136	Seultae	Seultae
+1137	Leavren	Leavren
+1138	Old Man	Old Man
+1139	Deok-gu	Deok-gu
+1140	Antonio	Antonio
+1141	Phoenix	Phoenix
+1142	Ah-Jiao	Ah-Jiao
+1143	Tourist	Tourist
+1144	Student	Student
+1145	Grandpa	Grandpa
+1146	Grandma	Grandma
 1147	or ${1}	หรือ${1}
-1148	Sprazzi	สปราซซี่
-1149	Alberta	อัลเบอร์ตา
-1150	Library	ห้องสมุด
-1151	Schmidt	ชมิดท์
-1152	William	วิลเลียม
-1153	Cleaver	มีดสับ
-1154	Wildcat	ไวลด์แคท
-1155	Genesis	เจเนซิส
-1156	Himomes	ฮิโมมส์
-1157	Foxball	ฟ็อกซ์บอล
-1158	Dr. Owl	ดร.นกฮูก
-1159	Beehive	รวงผึ้ง
-1160	Diamond	เพชร
+1148	Sprazzi	Sprazzi
+1149	Alberta	Alberta
+1150	Library	Library
+1151	Schmidt	Schmidt
+1152	William	William
+1153	Cleaver	Cleaver
+1154	Wildcat	Wildcat
+1155	Genesis	Genesis
+1156	Himomes	Himomes
+1157	Foxball	Foxball
+1158	Dr. Owl	Dr. Owl
+1159	Beehive	Beehive
+1160	Diamond	Diamond
 1161	Extreme	เอ็กซ์ตรีม
 1162	Balance	สถิติพื้นฐาน
 1163	Claimed	ถูกอ้างสิทธิ์แล้ว
 1164	Appoint	แต่งตั้ง
 1165	Invitee	ผู้ได้รับเชิญ
-1166	Oak Inn	โอ๊คอินน์
+1166	Oak Inn	โอ๊ค Inn
 1167	Rank Up	อันดับขึ้น
 1168	Search:	ค้นหา:
 1169	Receive	รับ
@@ -181,7 +181,7 @@
 1180	Stunned	ตะลึง
 1181	Wailing	กำลังร่ำไห้
 1182	Wronged	ผิด
-1183	So Weak	อ่อนแอมาก
+1183	So Weak	Weak มาก
 1184	Rarity:	ความหายาก:
 1185	[g@{1}]	[ก.@{1}]
 1186	（${1}s）	（${1}s）
@@ -200,38 +200,38 @@
 1199	Mention	กล่าวถึง
 1200	Produce	ผลิตผล
 1201	Overall	โดยรวม
-1202	【Burst】	【ระเบิด】
-1203	Pick up	ปิ๊กอัพ
+1202	【Burst】	【Burst】
+1203	Pick up	Pick up
 1204	Release	ปล่อย
 1205	Contact	ติดต่อ
-1206	Ice Fog	หมอกน้ำแข็ง
-1207	Command	สั่งการ
+1206	Ice Fog	Ice Fog
+1207	Command	Command
 1208	All Day	ทั้งวัน
 1209	Ⅱ+-@{1}	Ⅱ+-@{1}
-1210	Flasher	ไฟกะพริบ
+1210	Flasher	Flasher
 1211	Archers	นักธนู
 1212	Thieves	จอมโจร
 1213	Silence	ความเงียบ
 1214	Petrify	กลายเป็นหิน
 1215	Stagger	ซวนเซ
 1216	Harvest	การเก็บเกี่ยว
-1217	Gungnir	กุงเนียร์
+1217	Gungnir	Gungnir
 1218	Scratch	รอยขีดข่วน
-1219	Resolve	แก้ไขแล้ว
-1220	Alcohol	แอลกอฮอล์
-1221	Feather	ขนนก
-1222	Pet Egg	ไข่สัตว์เลี้ยง
-1223	Emerald	มรกต
-1224	Kyanite	ไคยาไนท์
-1225	Jellopy	เจลลี่ปี้
-1226	Elunium	อีลูเนียม
-1227	Panacea	ยาครอบจักรวาล
-1228	Greaves	สนับ
-1229	Sandals	รองเท้าแตะ
-1230	Buckler	บัคเลอร์
-1231	Stunner	ตะลึง
-1232	Halberd	ง้าว
-1233	Gladius	กลาดิอุส
+1219	Resolve	Resolve
+1220	Alcohol	Alcohol
+1221	Feather	Feather
+1222	Pet Egg	Pet Egg
+1223	Emerald	Emerald
+1224	Kyanite	Kyanite
+1225	Jellopy	Jellopy
+1226	Elunium	Elunium
+1227	Panacea	Panacea
+1228	Greaves	Greaves
+1229	Sandals	Sandals
+1230	Buckler	Buckler
+1231	Stunner	Stunner
+1232	Halberd	Halberd
+1233	Gladius	Gladius
 1234	Reserve	จอง
 1235	Max DPS	DPS สูงสุด
 1236	Bidding	การประมูล
@@ -255,8 +255,8 @@
 1254	Marking	การทำเครื่องหมาย
 1255	Server:	:
 1256	Reapply	ใช้ใหม่
-1257	Stylist	สไตลิสต์
-1258	Mei Mei	เหม่ยเหม่ย
+1257	Stylist	Stylist
+1258	Mei Mei	Mei Mei
 1259	Discard	ทิ้ง
 1260	Advisor	ที่ปรึกษา
 1261	Hitstun	ฮิตสตั๊น
@@ -265,12 +265,12 @@
 1264	Fatigue	อาการเหนื่อยล้า
 1265	HP Buff	บัฟ HP
 1266	Demount	ถอดถอน
-1267	Luoyang	ลั่วหยาง
-1268	Gonryun	กอนรยุน
+1267	Luoyang	Luoyang
+1268	Gonryun	Gonryun
 1269	Answer:	คำตอบ:
 1270	Resting	พักผ่อน
-1271	[Event]	[กิจกรรม]
-1272	Meditate	นั่งสมาธิ
+1271	[Event]	[Event]
+1272	Meditate	Meditate
 1273	Backpack	กระเป๋าเป้
 1274	Thursday	วันพฤหัสบดี
 1275	Saturday	วันเสาร์
@@ -279,40 +279,40 @@
 1278	In ${1}m	ใน${1}ม
 1279	In ${1}s	ใน${1}
 1280	Complete	เสร็จสมบูรณ์
-1281	Army Cap	หมวกทหารบก
-1282	Fox Mask	หน้ากากจิ้งจอก
-1283	Baby Kun	เบบี้คุน
-1284	High Orc	ออร์คสูง
-1285	Angeling	แองเจิ้ลลิ่ง
-1286	Piamette	เปียเมตต์
-1287	Dullahan	ดุลลาฮาน
-1288	Succubus	ซัคคิวบัส
+1281	Army Cap	Army Cap
+1282	Fox Mask	Fox Mask
+1283	Baby Kun	Baby Kun
+1284	High Orc	High Orc
+1285	Angeling	Angeling
+1286	Piamette	Piamette
+1287	Dullahan	Dullahan
+1288	Succubus	Succubus
 1289	UTC+${1}	UTC+${1}
 1290	Mobility	ความคล่องตัว
 1291	Survival	เอาชีวิตรอด
 1292	Crusader	ครูเซเดอร์
-1293	Chonchon	ชลชล
-1294	Familiar	คุ้นเคย
-1295	Scorpion	สกอร์เปียน
-1296	Poporing	กำลังโผล่
-1297	Magnolia	แมกโนเลีย
-1298	Minorous	มีน้อย
-1299	Skeleton	โครงกระดูก
-1300	Plankton	แพลงก์ตอน
-1301	Orc Baby	ออร์คเบบี้
-1302	Orc Lady	ออร์คเลดี้
+1293	Chonchon	Chonchon
+1294	Familiar	Familiar
+1295	Scorpion	Scorpion
+1296	Poporing	Poporing
+1297	Magnolia	Magnolia
+1298	Minorous	Minorous
+1299	Skeleton	Skeleton
+1300	Plankton	Plankton
+1301	Orc Baby	Orc Baby
+1302	Orc Lady	Orc Lady
 1303	Metaller	Metaller
 1304	Penomena	Penomena
-1305	Starfish	ปลาดาว
+1305	Starfish	Starfish
 1306	Tomorrow	พรุ่งนี้
 1307	Day ${1}	วัน${1}
-1308	Base EXP	EXP ฐาน
+1308	Base EXP	Base EXP
 1309	Fixed CT	CT คงที่
 1310	Max Rage	ความโกรธสูงสุด
-1311	Arrow ID	ลูกศร ID
+1311	Arrow ID	Arrow ID
 1312	Sold out	ขายหมดแล้ว
-1313	No Guild	ไม่มีกิลด์
-1314	MVP-Maya	MVP-มายา
+1313	No Guild	ไม่มี Guild
+1314	MVP-Maya	MVP-Maya
 1315	Advanced	ขั้นสูง
 1316	Superior	เหนือกว่า
 1317	Material	วัสดุ
@@ -329,22 +329,22 @@
 1328	No Stunt	ไม่มีการแสดงความสามารถ
 1329	Equipped	พร้อมอุปกรณ์
 1330	Identify	ระบุ
-1331	Discount	ส่วนลด
+1331	Discount	Discount
 1332	Map-wide	ทั่วทั้งแผนที่
 1333	Unfriend	เลิกเป็นเพื่อน
 1334	Activate	เปิดใช้งาน
 1335	Level-up	เลเวลอัพ
-1336	Set Sail	ชุดใบเรือ
+1336	Set Sail	Set Sail
 1337	Currency	สกุลเงิน
 1338	Reviving	ฟื้นคืนชีพ
-1339	Deviling	เดวิลลิ่ง
+1339	Deviling	Deviling
 1340	Achieved	สำเร็จแล้ว
-1341	Blessing	พร
+1341	Blessing	Blessing
 1342	Inactive	ไม่ทำงาน
 1343	Settings	การตั้งค่า
 1344	Wardrobe	ตู้เสื้อผ้า
 1345	Spectate	รับชม
-1346	Fly Wing	ฟลายวิง
+1346	Fly Wing	Fly Wing
 1347	My Build	งานสร้างของฉัน
 1348	Headwear	อุปกรณ์สวมศีรษะ
 1349	Facewear	ผ้าคลุมหน้า
@@ -352,7 +352,7 @@
 1351	Location	ที่ตั้ง
 1352	Stickers	สติ๊กเกอร์
 1353	No mail.	ไม่มีเมล
-1354	Composer	นักแต่งเพลง
+1354	Composer	Composer
 1355	Assassin	นักฆ่า
 1356	Merchant	Merchant
 1357	Mechanic	ช่างเครื่อง
@@ -382,27 +382,27 @@
 1381	Auto-Bid	Auto-Bid
 1382	Refunded	คืนเงินแล้ว
 1383	No.${1}+	หมายเลข${1}+
-1384	CRIT DMG	ความเสียหายคริติคอล
-1385	CRIT RES	ความละเอียดคริติคอล
-1386	Activity	กิจกรรม
+1384	CRIT DMG	CRIT DMG
+1385	CRIT RES	CRIT RES
+1386	Activity	Activity
 1387	Position	ตำแหน่ง
 1388	Get Help	รับความช่วยเหลือ
-1389	Ant Hell	มดนรก
-1390	Baphomet	บาโฟเมต
-1391	Orc Hero	ออร์คฮีโร่
+1389	Ant Hell	Ant Hell
+1390	Baphomet	Baphomet
+1391	Orc Hero	Orc Hero
 1392	Immunity	ภูมิคุ้มกัน
 1393	Movement	ความเคลื่อนไหว
 1394	MVP Kill	สังหาร MVP
-1395	MVP Coin	เหรียญ MVP
-1396	Claymore	เคลย์มอร์
+1395	MVP Coin	MVP Coin
+1396	Claymore	Claymore
 1397	Enlarged	ขยายใหญ่ขึ้น
-1398	Recovery	บิลด์การกู้คืน
-1399	Aspersio	แอสเพอร์ซิโอ
+1398	Recovery	Recovery
+1399	Aspersio	Aspersio
 1400	Basilica	Basilica
-1401	Cart Use	การใช้รถเข็น
-1402	Disguise	ปลอมตัว
-1403	Devotion	ความจงรักภักดี
-1404	Twilight	ทไวไลท์
+1401	Cart Use	Cart Use
+1402	Disguise	Disguise
+1403	Devotion	Devotion
+1404	Twilight	Twilight
 1405	Distance	ระยะทาง
 1406	AFK Mode	โหมด AFK
 1407	Function	รายละเอียดฟังก์ชัน
@@ -413,22 +413,22 @@
 1412	UI Scale	มาตราส่วน UI
 1413	Very Low	ต่ำมาก
 1414	Left Tap	แตะซ้าย
-1415	Lope@{1}	โลป@{1}
-1416	Squirrel	กระรอก
-1417	Hellfire	ไฟนรก
+1415	Lope@{1}	Lope@{1}
+1416	Squirrel	Squirrel
+1417	Hellfire	Hellfire
 1418	Overview	เจ้าของ
 1419	Like All	ชอบทั้งหมด
-1420	Orc Roar	ออร์คคำราม
+1420	Orc Roar	Orc Roar
 1421	Account:	บัญชี:
 1422	Required	ที่จำเป็น
 1423	Version:	เวอร์ชัน:
 1424	Download	ดาวน์โหลด
-1425	Teleport	เทเลพอร์ต
-1426	Darkness	ความมืด
-1427	Detoxify	ล้างสารพิษ
-1428	Poisoned	เป็นพิษ
-1429	Antidote	ยาแก้พิษ
-1430	Quagmire	หล่ม
+1425	Teleport	Teleport
+1426	Darkness	Darkness
+1427	Detoxify	Detoxify
+1428	Poisoned	Poisoned
+1429	Antidote	Antidote
+1430	Quagmire	Quagmire
 1431	Continue	Continue
 1432	Illusion	ภาพลวงตา
 1433	Take off	ถอดออก
@@ -440,51 +440,51 @@
 1439	Ch. ${1}	ช.${1}โซ่
 1440	No NPCs.	ไม่มี NPC
 1441	Mini Map	แผนที่ย่อ
-1442	Orc Cave	ถ้ำออร์ค
+1442	Orc Cave	Orc Cave
 1443	Preset 1	พรีเซต 1
 1444	Preset 2	พรีเซ็ต 2
 1445	Preset 3	พรีเซต 3
 1446	CT: ${1}	CT:${1}
 1447	Counters	เคาน์เตอร์
 1448	Audience	Audience
-1449	Fortress	ป้อมปราการ
-1450	Workshop	การประชุมเชิงปฏิบัติการ
-1451	Emperium	เอ็มพีเรียม
-1452	Obstacle	อุปสรรค
-1453	Vanguard	กองหน้า
-1454	Mushroom	เห็ด
-1455	Bombring	ระเบิด
-1456	Cornutus	คอร์นูทัส
-1457	Arclouze	อาร์คลูซ
-1458	Rideword	ไรด์เวิร์ด
-1459	Sageworm	หนอนเสจ
-1460	Gargoyle	การ์กอยล์
-1461	Phendark	เฟนดาร์ก
-1462	Orc Lord	ออร์คลอร์ด
-1463	Mistress	นายหญิง
-1464	Phreeoni	ปรีโอนี
-1465	Trickery	เล่ห์เหลี่ยม
-1466	Mandarin	ภาษาจีนกลาง
-1467	Bartende	บาร์เทนเดอร์
-1468	Promoter	โปรโมเตอร์
+1449	Fortress	Fortress
+1450	Workshop	Workshop
+1451	Emperium	Emperium
+1452	Obstacle	Obstacle
+1453	Vanguard	Vanguard
+1454	Mushroom	Mushroom
+1455	Bombring	Bombring
+1456	Cornutus	Cornutus
+1457	Arclouze	Arclouze
+1458	Rideword	Rideword
+1459	Sageworm	Sageworm
+1460	Gargoyle	Gargoyle
+1461	Phendark	Phendark
+1462	Orc Lord	Orc Lord
+1463	Mistress	Mistress
+1464	Phreeoni	Phreeoni
+1465	Trickery	Trickery
+1466	Mandarin	Mandarin
+1467	Bartende	Bartende
+1468	Promoter	Promoter
 1469	Meowmeow	Meowmeow
-1470	Aorufeng	ออรูเฟิง
-1471	Villager	ชาวบ้าน
-1472	Welshyun	เวลส์ฮยอน
-1473	Bachelor	ปริญญาตรี
-1474	Prontera	พรอนเทร่า
-1475	Varmundt	วาร์มุนด์
-1476	Heinrich	ไฮน์ริช
-1477	Sandwich	แซนด์วิช
-1478	Passerby	ผู้สัญจรไปมา
-1479	Wormhole	รูหนอน
-1480	Item Box	รายละเอียดสินค้า
+1470	Aorufeng	Aorufeng
+1471	Villager	Villager
+1472	Welshyun	Welshyun
+1473	Bachelor	Bachelor
+1474	Prontera	Prontera
+1475	Varmundt	Varmundt
+1476	Heinrich	Heinrich
+1477	Sandwich	Sandwich
+1478	Passerby	Passerby
+1479	Wormhole	Wormhole
+1480	Item Box	Item Box
 1481	Monsters	มอนสเตอร์
-1482	Open All	เปิดทั้งหมด
+1482	Open All	Open ทั้งหมด
 1483	${1}/min	${1}/นาที
 1484	BASE EXP	ฐาน EXP
-1485	No Drops	ไม่มีหยด
-1486	No Kills	ไม่มีการฆ่า
+1485	No Drops	ไม่มี Drops
+1486	No Kills	ไม่มีการ Kills
 1487	Treasure	สมบัติ
 1488	Calendar	ปฏิทิน
 1489	Day @{1}	วัน@{1}
@@ -512,7 +512,7 @@
 1511	Confused	สับสน
 1512	Head Pat	ตบหัว
 1513	Troubled	มีปัญหา
-1514	【Gather】	【รวบรวม】
+1514	【Gather】	【Gather】
 1515	Beginner	ผู้เริ่มต้น
 1516	Bidding…	กำลังประมูล...
 1517	Current:	ปัจจุบัน:
@@ -537,43 +537,43 @@
 1536	Watering	การให้น้ำ
 1537	Approach	เข้าใกล้
 1538	Take Out	นำออก
-1539	Struggle	ดิ้นรน
-1540	Kun Dive	คุนไดฟ์
-1541	@{1}% HP	@{1}% แรงม้า
+1539	Struggle	Struggle
+1540	Kun Dive	Kun Dive
+1541	@{1}% HP	@{1}% HP
 1542	Prologue	อารัมภบท
 1543	Option A	ออปชั่น A
-1544	Orc Fang	ออร์คแฟง
+1544	Orc Fang	Orc Fang
 1545	New Clue	เบาะแสใหม่
 1546	Rankings	อันดับ
 1547	Acolytes	ลูกศิษย์
-1548	Knock-Up	น็อคอัพ
-1549	Iron Ore	แร่เหล็ก
+1548	Knock-Up	Knock-Up
+1549	Iron Ore	Iron Ore
 1550	BTN_QUIT	BTN_QUIT
-1551	Coin Bag	กระเป๋าใส่เหรียญ
-1552	Zeny Bag	กระเป๋า Zeny
-1553	Meat Bun	ซาลาเปาเนื้อ
-1554	Mackerel	ปลาทู
-1555	Red Herb	สมุนไพรแดง
-1556	Coal Ore	แร่ถ่านหิน
-1557	Red Card	ใบแดง
-1558	Amethyst	อเมทิสต์
-1559	Fox Tail	หางจิ้งจอก
-1560	Soft Fur	ขนนุ่ม
-1561	Oridecon	ออริเดคอน
-1562	Sparkler	ดอกไม้เพลิง
-1563	Earrings	ต่างหู
-1564	Luna Bow	ลูน่า โบว์
-1565	Arc Wand	คันธนูโค้ง
-1566	Bardiche	บาร์ดิเช่
-1567	Iron Axe	ขวานเหล็ก
-1568	Guisarme	กีซาเม่
-1569	Damascus	ดามัสกัส
-1570	Pass EXP	ผ่าน EXP
+1551	Coin Bag	Coin Bag
+1552	Zeny Bag	Zeny Bag
+1553	Meat Bun	Meat Bun
+1554	Mackerel	Mackerel
+1555	Red Herb	Red Herb
+1556	Coal Ore	Coal Ore
+1557	Red Card	Red Card
+1558	Amethyst	Amethyst
+1559	Fox Tail	Fox Tail
+1560	Soft Fur	Soft Fur
+1561	Oridecon	Oridecon
+1562	Sparkler	Sparkler
+1563	Earrings	Earrings
+1564	Luna Bow	Luna Bow
+1565	Arc Wand	Arc Wand
+1566	Bardiche	Bardiche
+1567	Iron Axe	Iron Axe
+1568	Guisarme	Guisarme
+1569	Damascus	Damascus
+1570	Pass EXP	Pass EXP
 1571	Favorite	ตัวโปรด
 1572	My Party	ปาร์ตี้ของฉัน
 1573	Bid Item	รายการประมูล
 1574	Queuing:	การเข้าคิว:
-1575	Alphonse	อัลฟองเซ่
+1575	Alphonse	Alphonse
 1576	Top Heal	สุดยอดการรักษา
 1577	Lv.21-40	Lv.21-40
 1578	Lv.41-60	Lv.41-60
@@ -584,7 +584,7 @@
 1583	Cast Bar	แคสต์บาร์
 1584	Delusion	ความหลงผิด
 1585	Paralyze	เป็นอัมพาต
-1586	Fox Fury	จิ้งจอกโกรธ
+1586	Fox Fury	Fox Fury
 1587	Red Note	โน๊ตสีแดง
 1588	Syllable	พยางค์
 1589	Test@{1}	ทดสอบ@{1}
@@ -600,10 +600,10 @@
 1599	Can Mark	สามารถทำเครื่องหมายได้
 1600	No Books	ไม่มีหนังสือ
 1601	UID：${1}	UID：${1}
-1602	Jati Man	จาติแมน
-1603	Customer	ลูกค้า
-1604	Mengmeng	เหมิงเหมิง
-1605	Shanshan	ชานชาน
+1602	Jati Man	Jati Man
+1603	Customer	Customer
+1604	Mengmeng	Mengmeng
+1605	Shanshan	Shanshan
 1606	Interact	โต้ตอบ
 1607	Bot ${1}	บอท${1}
 1608	No idea.	ไม่รู้
@@ -628,35 +628,35 @@
 1627	Wildlands	ไวลด์แลนด์
 1628	Dark Land	ดินแดนแห่งความมืด
 1629	Deals DMG	สร้างความเสียหาย
-1630	Egg Shell	เปลือกไข่
-1631	Nurse Cap	หมวกพยาบาล
+1630	Egg Shell	Egg Shell
+1631	Nurse Cap	Nurse Cap
 1632	Evil Wing	Evil Wing
-1633	Eye Patch	ผ้าปิดตา
-1634	Pompadour	ปอมปาดัวร์
-1635	Wild Rose	กุหลาบป่า
-1636	Nepenthes	หม้อข้าวหม้อแกงลิง
-1637	Garm Baby	การ์มเบบี้
-1638	Zherlthsh	เซิร์ลธช
-1639	Nightmare	ฝันร้าย
+1633	Eye Patch	Eye Patch
+1634	Pompadour	Pompadour
+1635	Wild Rose	Wild Rose
+1636	Nepenthes	Nepenthes
+1637	Garm Baby	Garm Baby
+1638	Zherlthsh	Zherlthsh
+1639	Nightmare	Nightmare
 1640	${1}%:JOB	${1}%:งาน
 1641	Level Req	ระดับที่ต้องการ
-1642	Roda Frog	กบโรด้า
-1643	Worm Tail	หางหนอน
-1644	Ambernite	แอมเบอร์ไนต์
-1645	Thief Bug	ข้อผิดพลาดของโจร
-1646	Dustiness	ฝุ่น
-1647	Drainliar	เดรนเลียร์
-1648	Frilldora	ฟริลโดรา
-1649	Sasquatch	แซสควอทช์
-1650	Peco Peco	เปโก้ เปโก้
-1651	Megalodon	เมกาโลดอน
-1652	Shellfish	หอยเชลล์
-1653	Alligator	จระเข้
-1654	Stem Worm	สเต็มเวิร์ม
-1655	Deviruchi	เดวิรุจิ
-1656	Pot Dofle	หม้อโดฟเฟิล
+1642	Roda Frog	Roda Frog
+1643	Worm Tail	Worm Tail
+1644	Ambernite	Ambernite
+1645	Thief Bug	Thief Bug
+1646	Dustiness	Dustiness
+1647	Drainliar	Drainliar
+1648	Frilldora	Frilldora
+1649	Sasquatch	Sasquatch
+1650	Peco Peco	Peco Peco
+1651	Megalodon	Megalodon
+1652	Shellfish	Shellfish
+1653	Alligator	Alligator
+1654	Stem Worm	Stem Worm
+1655	Deviruchi	Deviruchi
+1656	Pot Dofle	Pot Dofle
 1657	Happiness	ความสุข
-1658	Zeny Shop	ร้านเซนี่
+1658	Zeny Shop	ร้าน Zeny
 1659	Try Again	ลองอีกครั้ง
 1660	Commander	ผู้บัญชาการ
 1661	PATK/MATK	PATK/MATK
@@ -665,13 +665,13 @@
 1664	Bonus ATK	โบนัสพลังโจมตี
 1665	Bonus DEF	โบนัส DEF
 1666	Camera ID	รหัสกล้อง
-1667	Find Bobo	ค้นหาโบโบ้
+1667	Find Bobo	ค้นหา Bobo
 1668	Conqueror	ผู้พิชิต
 1669	Rank ${1}	อันดับ${1}
 1670	MVP-Drake	MVP-เดรก
 1671	MVP-Eddga	MVP-เอ็ดก้า
 1672	Login ROO	เข้าสู่ระบบ ROO
-1673	Kill Muka	ฆ่ามูก้า
+1673	Kill Muka	KillMuka
 1674	Adventure	การผจญภัย
 1675	Titleless	ไม่มีชื่อเรื่อง
 1676	Go to Map	ไปที่แผนที่
@@ -687,7 +687,7 @@
 1686	DMG Taken	ทำความเสียหายแล้ว
 1687	Time Left	เวลาที่เหลือ
 1688	Dismantle	รื้อ
-1689	Soul Echo	โซลเอคโค่
+1689	Soul Echo	Soul Echo
 1690	Chapter 3	บทที่ 3
 1691	Chapter 4	บทที่ 4
 1692	Chapter 5	บทที่ 5
@@ -697,12 +697,12 @@
 1696	Chapter 9	บทที่ 9
 1697	Card Slot	ช่องเสียบการ์ด
 1698	New Items	ของใหม่
-1699	Pass Gift	ผ่านของขวัญ
+1699	Pass Gift	Pass Gift
 1700	@{1}V@{2}	@{1}V@{2}
 1701	Reconnect	เชื่อมต่อใหม่
 1702	Exit Game	ออกจากเกม
 1703	Institute	การโต้ตอบ
-1704	Exorciser	หมอผี
+1704	Exorciser	Exorciser
 1705	${1}(Max)	${1}(สูงสุด)
 1706	Equipment	อุปกรณ์
 1707	Affection	เสน่หา
@@ -718,14 +718,14 @@
 1717	Claim All	เคลมทั้งหมด
 1718	Mail Info	ข้อมูลเมล
 1719	Permanent	ถาวร
-1720	Swordsman	นักดาบ
+1720	Swordsman	Swordsman
 1721	All Slots	สล็อตทั้งหมด
 1722	List Item	รายการ
 1723	Send Link	ส่งลิงค์
 1724	Help Text	หัวข้อวิธีใช้
 1725	All Types	ทุกประเภท
 1726	FPS: ${1}	FPS:${1}
-1727	Owl Baron	นกฮูก บารอน
+1727	Owl Baron	Owl Baron
 1728	Go unlock	ไปปลดล็อค
 1729	Job Items	รายการงาน
 1730	Accessory	อุปกรณ์เสริม
@@ -746,64 +746,64 @@
 1745	Mail Sent	ส่งอีเมลแล้ว
 1746	Help Load	ช่วยโหลด
 1747	Quick Buy	ซื้อด่วน
-1748	Sky Realm	อาณาจักรท้องฟ้า
-1749	Ring Test	การทดสอบแหวน
+1748	Sky Realm	Sky Realm
+1749	Ring Test	Ring Test
 1750	Multi-hit	มัลติฮิต
 1751	Transform	การแปลง
 1752	Pet Skill	ทักษะสัตว์เลี้ยง
 1753	Team Name	ชื่อทีม
 1754	MVP Rules	MVP
 1755	DMG Bonus	โบนัสความเสียหาย
-1756	Sanctuary	แซงชัวรี่
-1757	Assumptio	สมมุติ
-1758	Meditatio	การทำสมาธิ
-1759	Mammonite	แมมโมไนต์
-1760	Melt Down	ละลายลง
-1761	Poring TP	ปอริ่ง TP
-1762	Sacrifice	การเสียสละ
+1756	Sanctuary	Sanctuary
+1757	Assumptio	Assumptio
+1758	Meditatio	Meditatio
+1759	Mammonite	Mammonite
+1760	Melt Down	Melt Down
+1761	Poring TP	Poring TP
+1762	Sacrifice	Sacrifice
 1763	Move back	ย้ายกลับ
 1764	Move left	เลื่อนไปทางซ้าย
 1765	Smart DPS	สมาร์ท DPS
 1766	Only Self	ตัวเองเท่านั้น
 1767	Hard Lock	ฮาร์ดล็อค
 1768	Right Tap	แตะขวา
-1769	ATK Boost	เพิ่มพลังโจมตี
-1770	DEF Boost	บูสต์ DEF
-1771	Whirlwind	ลมกรด
-1772	Owl's Eye	ตานกฮูก
+1769	ATK Boost	ATK Boost
+1770	DEF Boost	DEF Boost
+1771	Whirlwind	Whirlwind
+1772	Owl's Eye	Owl's Eye
 1773	Beastbane	Beastbane
-1774	Warg Howl	วาร์กฮาวล์
-1775	Warg Hunt	ล่าวาร์ก
-1776	Warg Bite	วาร์กกัด
-1777	Fire Bolt	ไฟโบลท์
-1778	Cold Bolt	โบลท์เย็น
-1779	Pyroblast	ไพโรบลาสต์
-1780	Sandstorm	พายุทราย
-1781	Blade Fan	พัดลมใบมีด
+1774	Warg Howl	Warg Howl
+1775	Warg Hunt	Warg Hunt
+1776	Warg Bite	Warg Bite
+1777	Fire Bolt	Fire Bolt
+1778	Cold Bolt	Cold Bolt
+1779	Pyroblast	Pyroblast
+1780	Sandstorm	Sandstorm
+1781	Blade Fan	Blade Fan
 1782	Victories	ชัยชนะ
 1783	MVP Count	จำนวน MVP
 1784	Me Result	ฉันผลลัพธ์
-1785	Orc Stomp	ออร์คสต็อป
-1786	Time Lock	ล็อคเวลา
+1785	Orc Stomp	Orc Stomp
+1786	Time Lock	Time Lock
 1787	Animation	แอนิเมชัน
 1788	Password:	รหัสผ่าน:
 1789	Scenario:	สถานการณ์:
-1790	Silk Spit	ไหมถ่มน้ำลาย
-1791	Link Drag	ลิงค์ลาก
-1792	Death Ray	เดธเรย์
-1793	Boss Down	บอสลง
-1794	Boss Left	บอสซ้าย
-1795	Skill@{1}	ทักษะ@{1}ทักษะ
-1796	Gale Beat	เกลบีท
-1797	Rock Step	ขั้นบันไดร็อค
-1798	DJ Reverb	ดีเจ รีเวิร์บ
-1799	Free Will	เจตจำนงเสรี
-1800	Sand Puff	พัฟทราย
-1801	Grimtooth	กริมทูธ
-1802	Fire Wall	ไฟร์วอลล์
-1803	Fire Ball	ลูกบอลไฟ
-1804	Ice Spike	ไอซ์สไปค์
-1805	Ice Blast	ระเบิดน้ำแข็ง
+1790	Silk Spit	Silk Spit
+1791	Link Drag	Link Drag
+1792	Death Ray	Death Ray
+1793	Boss Down	Boss Down
+1794	Boss Left	Boss Left
+1795	Skill@{1}	Skill@{1}
+1796	Gale Beat	Gale Beat
+1797	Rock Step	Rock Step
+1798	DJ Reverb	DJ Reverb
+1799	Free Will	Free Will
+1800	Sand Puff	Sand Puff
+1801	Grimtooth	Grimtooth
+1802	Fire Wall	Fire Wall
+1803	Fire Ball	Fire Ball
+1804	Ice Spike	Ice Spike
+1805	Ice Blast	Ice Blast
 1806	AGI +${1}	เอจีไอ +${1}
 1807	STR +${1}	STR +${1}โบนัส
 1808	VIT +${1}	VIT +${1}
@@ -823,41 +823,41 @@
 1822	Max Level	ระดับสูงสุด
 1823	First Job	งานแรก
 1824	Third Job	งานที่สาม
-1825	Skill Bar	แถบทักษะ
+1825	Skill Bar	Skill Bar
 1826	Core Pack	คอร์แพ็ก
 1827	Field Map	แผนที่สนาม
 1828	Broadcast	ออกอากาศ
-1829	Spotlight	สปอตไลท์
-1830	Live Coal	ถ่านหินสด
-1831	Fireworks	ดอกไม้ไฟ
-1832	Magic Die	เมจิกดาย
-1833	Land Mine	ทุ่นระเบิด
-1834	Anacondaq	อนาคอนดัก
-1835	Explosion	ระเบิด
-1836	City Gate	ประตูเมือง
-1837	Camp Gate	ประตูค่าย
-1838	Protector	ตัวป้องกัน
-1839	Injustice	ความอยุติธรรม
-1840	Bunny Sis	น้องกระต่าย
-1841	Evil Boss	บอสตัวร้าย
-1842	Professor	ศาสตราจารย์
-1843	Mastering	การเรียนรู้
-1844	Ghostring	โกสต์ริง
-1845	Young Man	ชายหนุ่ม
-1846	Librarian	บรรณารักษ์
-1847	Hachabura	ฮาชาบุระ
-1848	Baisulist	ไบซูลิสต์
-1849	Shukabain	ชุคาเบน
-1850	Ahn Gu-ho	อัน กูโฮ
-1851	Repairman	ช่างซ่อม
-1852	Innkeeper	เจ้าของโรงแรม
-1853	Katherine	แคทเธอรีน
-1854	Giant Ant	มดยักษ์
-1855	Blank NPC	NPC ว่างเปล่า
-1856	Blue Harp	พิณสีน้ำเงิน
-1857	Barricade	สิ่งกีดขวาง
-1858	Maya-Easy	มายา-อีซี่
-1859	Maya-Hard	มายา-ฮาร์ด
+1829	Spotlight	Spotlight
+1830	Live Coal	Live Coal
+1831	Fireworks	Fireworks
+1832	Magic Die	Magic Die
+1833	Land Mine	Land Mine
+1834	Anacondaq	Anacondaq
+1835	Explosion	Explosion
+1836	City Gate	City Gate
+1837	Camp Gate	Camp Gate
+1838	Protector	Protector
+1839	Injustice	Injustice
+1840	Bunny Sis	Bunny Sis
+1841	Evil Boss	Evil Boss
+1842	Professor	Professor
+1843	Mastering	Mastering
+1844	Ghostring	Ghostring
+1845	Young Man	Young Man
+1846	Librarian	Librarian
+1847	Hachabura	Hachabura
+1848	Baisulist	Baisulist
+1849	Shukabain	Shukabain
+1850	Ahn Gu-ho	Ahn Gu-ho
+1851	Repairman	Repairman
+1852	Innkeeper	Innkeeper
+1853	Katherine	Katherine
+1854	Giant Ant	Giant Ant
+1855	Blank NPC	Blank NPC
+1856	Blue Harp	Blue Harp
+1857	Barricade	Barricade
+1858	Maya-Easy	Maya-Easy
+1859	Maya-Hard	Maya-Hard
 1860	Top ${1}%	สูงสุด${1}%
 1861	Auto Mode	Auto Mode
 1862	Item Drop	ไอเทมดรอป
@@ -878,7 +878,7 @@
 1877	All right	เอาล่ะ
 1878	I'm ready	พร้อมแล้วครับ
 1879	And then?	แล้ว?
-1880	Open Shop	เปิดร้าน
+1880	Open Shop	Open ร้าน
 1881	Dozens...	หลายสิบ...
 1882	Yo, yo...	โย่ โย่...
 1883	Desperate	สิ้นหวัง
@@ -906,9 +906,9 @@
 1905	Elite III	อีลิท III
 1906	Dividends	เงินปันผล
 1907	Sub Field	สนามย่อย
-1908	Our Guild	กิลด์ของเรา
-1909	Kill Boss	ฆ่าบอส
-1910	Terminate	ยุติการทำงาน
+1908	Our Guild	Guild ของเรา
+1909	Kill Boss	Kill บอส
+1910	Terminate	Terminate
 1911	Item Pack	ไอเท็มแพ็ก
 1912	Pet Shard	ชิ้นส่วนสัตว์เลี้ยง
 1913	Star Core	สตาร์คอร์
@@ -917,77 +917,77 @@
 1916	Merchants	Merchants
 1917	Artillery	ปืนใหญ่
 1918	Timestamp	การประทับเวลา
-1919	【Control】	【การควบคุม】
-1920	【Healing】	【การรักษา】
-1921	【Support】	【สนับสนุน】
-1922	【Stealth】	【ซ่อนตัว】
-1923	【Utility】	【ยูทิลิตี้】
+1919	【Control】	【Control】
+1920	【Healing】	【Healing】
+1921	【Support】	【Support】
+1922	【Stealth】	【Stealth】
+1923	【Utility】	【Utility】
 1924	Card View	ปลดล็อคการ์ด
 1925	Item View	มุมมองรายการ
 1926	Low-grade	เกรดต่ำ
 1927	High Crit	คริติคอลสูง
 1928	Chapter 1	บทที่ 1
 1929	Resonance	เสียงสะท้อน
-1930	Detecting	กำลังตรวจจับ
-1931	Flame Jet	เฟลมเจ็ท
-1932	Music Box	กล่องดนตรี
-1933	First Aid	การปฐมพยาบาลเบื้องต้น
+1930	Detecting	Detecting
+1931	Flame Jet	Flame Jet
+1932	Music Box	Music Box
+1933	First Aid	First Aid
 1934	Unlimited	ไม่จำกัด
-1935	Bidder ID	รหัสผู้ประมูล
+1935	Bidder ID	Bidder ID
 1936	Total DMG	ความเสียหายทั้งหมด
-1937	Wolf Claw	กรงเล็บหมาป่า
-1938	Flax Leaf	ใบปอ
-1939	Silk Roll	ม้วนไหม
-1940	Gold Star	โกลด์สตาร์
+1937	Wolf Claw	Wolf Claw
+1938	Flax Leaf	Flax Leaf
+1939	Silk Roll	Silk Roll
+1940	Gold Star	Gold สตาร์
 1941	Wolf Star	วูล์ฟสตาร์
-1942	Tree Bark	เปลือกไม้
-1943	Guild GvE	กิลด์ GvE
+1942	Tree Bark	Tree Bark
+1943	Guild GvE	Guild GvE
 1944	Swordsmen	นักดาบ
-1945	On Cannon	บนปืนใหญ่
-1946	Knockback	น็อคแบ็ค
+1945	On Cannon	บน Cannon
+1946	Knockback	Knockback
 1947	Mossgrass	หญ้ามอส
 1948	BTN_RETRY	BTN_RETRY
 1949	Max level	ระดับสูงสุด
 1950	Performed	ดำเนินการแล้ว
-1951	Ouroboros	อูโรโบรอส
+1951	Ouroboros	Ouroboros
 1952	Appraise?	ประเมิน?
 1953	Gift sent	ส่งของขวัญแล้ว
-1954	Sea Bream	ปลาทรายแดง
-1955	Snakehead	หัวงู
-1956	Blue Crab	ปูสีฟ้า
+1954	Sea Bream	Sea Bream
+1955	Snakehead	Snakehead
+1956	Blue Crab	Blue Crab
 1957	STR Bonus	STR
 1958	AGI Bonus	โบนัสเอจีไอ
 1959	VIT Bonus	โบนัส VIT
 1960	INT Bonus	INT
 1961	DEX Bonus	DEX
-1962	Face Mask	หน้ากากอนามัย
-1963	Big Scell	สเซลล์ใหญ่
-1964	Star Dust	สตาร์ดัสท์
-1965	Hot Cocoa	โกโก้ร้อน
+1962	Face Mask	Face Mask
+1963	Big Scell	Big Scell
+1964	Star Dust	Star Dust
+1965	Hot Cocoa	Hot Cocoa
 1966	Faction 3	ฝ่าย 3
 1967	Faction 4	ฝ่ายที่ 4
-1968	Note · Ti	หมายเหตุ · Ti
-1969	Note · La	หมายเหตุ · พจนานุกรม
-1970	Note · So	หมายเหตุ · ดังนั้น
-1971	Note · Fa	หมายเหตุ · ฟ้า
-1972	Note · Mi	หมายเหตุ · มิ.ย
-1973	Note · Re	หมายเหตุ · เรื่อง
-1974	Note · Do	หมายเหตุ · ทำ
-1975	Basic Rod	ร็อดพื้นฐาน
-1976	Gold Ring	แหวนทอง
-1977	Pauldrons	พอลดรอน
-1978	Silk Robe	เสื้อคลุมไหมพรม
-1979	Mink Coat	โค้ทขนมิงค์
-1980	Rudra Bow	รุดร้าโบว์
-1981	Great Bow	ธนูใหญ่
-1982	Dea Staff	เจ้าหน้าที่ดีอา
-1983	Oak Staff	ไม้เท้าโอ๊ค
-1984	Great Axe	ขวานใหญ่
-1985	Steel Axe	ขวานเหล็ก
-1986	Vecer Axe	ขวานเวเซอร์
-1987	Long Horn	แตรยาว
-1988	Excalibur	เอ็กซ์คาลิเบอร์
-1989	Card: Boa	การ์ด: โบอา
+1968	Note · Ti	Note · Ti
+1969	Note · La	Note · La
+1970	Note · So	Note · So
+1971	Note · Fa	Note · Fa
+1972	Note · Mi	Note · Mi
+1973	Note · Re	Note · Re
+1974	Note · Do	Note · Do
+1975	Basic Rod	Basic Rod
+1976	Gold Ring	Gold Ring
+1977	Pauldrons	Pauldrons
+1978	Silk Robe	Silk Robe
+1979	Mink Coat	Mink Coat
+1980	Rudra Bow	Rudra Bow
+1981	Great Bow	Great Bow
+1982	Dea Staff	Dea Staff
+1983	Oak Staff	Oak Staff
+1984	Great Axe	Great Axe
+1985	Steel Axe	Steel Axe
+1986	Vecer Axe	Vecer Axe
+1987	Long Horn	Long Horn
+1988	Excalibur	Excalibur
+1989	Card: Boa	Card: Boa
 1990	Place Bet	วางเดิมพัน
 1991	Abandoned	ถูกทอดทิ้ง
 1992	Queuing……	กำลังเข้าคิว……

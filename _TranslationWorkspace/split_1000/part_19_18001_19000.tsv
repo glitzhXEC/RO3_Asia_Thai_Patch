@@ -1,18 +1,18 @@
 ﻿Index	English	Thai_Translation
-18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม Lv.ตัวละคร*${1}】
-18002	【Gravitation Field】 deals ${1}% more damage.	【สนามแรงโน้มถ่วง】สร้างความเสียหายมากขึ้น${1}%
+18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม Lv. ตัวละคร*${1}】
+18002	【Gravitation Field】 deals ${1}% more damage.	【Gravitation Field】สร้างความเสียหายมากขึ้น${1}%
 18003	You can adjust your cards in the Card System	คุณสามารถปรับแต่งการ์ดของคุณได้ในระบบการ์ด
-18004	Butterfly Wings cannot be used in this area.	ไม่สามารถใช้ปีกผีเสื้อในบริเวณนี้ได้
+18004	Butterfly Wings cannot be used in this area.	ไม่สามารถใช้ Butterfly Wings ในบริเวณนี้ได้
 18005	This skill is Not Available yet. Stay tuned!	ทักษะนี้ยังไม่พร้อมใช้งานคอยติดตาม!
 18006	Tree Hollow channel chat unlocks at Lv. ${1}	แชทช่อง Tree Hollow ปลดล็อคที่ Lv.${1}
-18007	Magic Circle_Advanced Cross Exorciser Attack	Magic Circle_การโจมตีแบบ Cross Exorciser ขั้นสูง
+18007	Magic Circle_Advanced Cross Exorciser Attack	Magic Circle_Advanced Cross Exorciser Attack
 18008	RO's world is primarily based on Norse Myth.	RO มีพื้นฐานมาจากตำนานนอร์สเป็นหลัก
 18009	Enhanced equipment is unavailable for Trade.	อุปกรณ์ที่ได้รับการปรับปรุงไม่พร้อมใช้งานสำหรับการค้า
-18010	【Guild Rally】\nAccept the Guild Rally Order?	【กิลด์แรลลี่】\nยอมรับคำสั่งกิลด์แรลลี่หรือไม่?
+18010	【Guild Rally】\nAccept the Guild Rally Order?	【Guild Rally】\n ยอมรับคำสั่ง Guild แรลลี่หรือไม่?
 18011	All response applications have been declined	ใบสมัครตอบกลับทั้งหมดถูกปฏิเสธ
 18012	All response applications have been approved	ใบสมัครตอบกลับทั้งหมดได้รับการอนุมัติแล้ว
-18013	Visit the Adventure Guild Mentor (@{1}/@{2})	เยี่ยมชมที่ปรึกษากิลด์การผจญภัย (@{1}/@{2})
-18014	Guild Activities - Guild League (Semifinals)	กิจกรรมกิลด์ - ลีกกิลด์ (รอบรองชนะเลิศ)
+18013	Visit the Adventure Guild Mentor (@{1}/@{2})	เยี่ยมชมที่ปรึกษา Guild การผจญภัย (@{1}/@{2})
+18014	Guild Activities - Guild League (Semifinals)	กิจกรรม Guild - ลีก Guild (รอบรองชนะเลิศ)
 18015	Connect Quest - Team Up to Defeat MVP Osiris	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Osiris
 18016	Connect Quest - Team Up to Defeat MVP Kraken	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Kraken
 18017	Connect Quest - Team Up to Defeat Hard Drake	Connect Quest - รวมทีมเพื่อเอาชนะ Hard Drake
@@ -20,68 +20,68 @@
 18019	No pets are available for battle or support.	ไม่มีสัตว์เลี้ยงสำหรับการต่อสู้หรือการสนับสนุน
 18020	Pet already unlocked. Converted into shards.	สัตว์เลี้ยงปลดล็อคแล้วกลายเป็นเศษซาก
 18021	Tap it to equip the mount automatically, bo.	แตะเพื่อติดตั้งอุปกรณ์ยึดโดยอัตโนมัติ
-18022	Wow! [Phantom Realm] is unlocked! Follow me~	ว้าว![อาณาจักรปีศาจ] ถูกปลดล็อคแล้ว!ตามมา~
+18022	Wow! [Phantom Realm] is unlocked! Follow me~	ว้าว![Phantom Realm] ถูกปลดล็อคแล้ว! ตามมา~
 18023	A skill has been unlocked! Come take a look.	ทักษะถูกปลดล็อคแล้ว! มาดูกัน.
-18024	This one looks pretty good! Let's choose it!	คันนี้ดูดีทีเดียว!มาเลือกกันเลย!
+18024	This one looks pretty good! Let's choose it!	คันนี้ดูดีทีเดียว! มาเลือกกันเลย!
 18025	You'll need it for your Level-up. Select it!	คุณจะต้องใช้มันในการอัพเลเวลเลือกเลย!
 18026	Each movement consists of multiple measures.	การเคลื่อนไหวแต่ละครั้งประกอบด้วยการวัดหลายอย่าง
-18027	Kill the Protector to gain more attack time.	ฆ่าผู้พิทักษ์เพื่อเพิ่มเวลาโจมตี
+18027	Kill the Protector to gain more attack time.	Kill ผู้พิทักษ์เพื่อเพิ่มเวลาโจมตี
 18028	Protect all Protectors within the time limit	ปกป้องผู้พิทักษ์ทั้งหมดภายในเวลาที่กำหนด
 18029	You have another @{1} minutes. Don't dawdle.	คุณมีเวลาอีก@{1}นาทีอย่าอืดอาด.
-18030	Professor Meat Is Sour, So Ants Won't Eat It	ศาสตราจารย์เนื้อเปรี้ยว มดจึงไม่กิน
-18031	Oh, come on! Where could they all be hiding?	เอาน่า!พวกเขาทั้งหมดซ่อนตัวอยู่ที่ไหน?
-18032	Come one, come all! You'll need these items!	มาหนึ่ง มาทั้งหมด!คุณจะต้องมีรายการเหล่านี้!
+18030	Professor Meat Is Sour, So Ants Won't Eat It	Professor เนื้อเปรี้ยว มดจึงไม่กิน
+18031	Oh, come on! Where could they all be hiding?	เอาน่า! พวกเขาทั้งหมดซ่อนตัวอยู่ที่ไหน?
+18032	Come one, come all! You'll need these items!	มาหนึ่ง มาทั้งหมด! คุณจะต้องมีรายการเหล่านี้!
 18033	But I don't think we've met before, have we?	แต่ไม่คิดว่าเราเคยเจอกันมาก่อนใช่ไหม?
 18034	Destiny will guide you where you need to go.	Destiny จะนำทางคุณไปยังที่ที่คุณต้องการไป
 18035	We make our living buying and selling goods.	เราหาเลี้ยงชีพด้วยการซื้อและขายสินค้า
-18036	Hmph. Today's plan is flawless!... Probably.	ฮึ่มแผนวันนี้ไร้ที่ติ!...คง..
-18037	Strange... Why does she feel so familiar...?	แปลก...ทำไมเธอถึงรู้สึกคุ้นเคยขนาดนี้...?
-18038	"Oh? What do you mean by ""suddenly appeared""?"	"อ้าว?คุณหมายถึงอะไรโดย ""ปรากฏทันใด""?"
+18036	Hmph. Today's plan is flawless!... Probably.	ฮึ่มแผนวันนี้ไร้ที่ติ!... คง..
+18037	Strange... Why does she feel so familiar...?	แปลก... ทำไมเธอถึงรู้สึกคุ้นเคยขนาดนี้...?
+18038	"Oh? What do you mean by ""suddenly appeared""?"	"อ้าว? คุณหมายถึงอะไรโดย ""ปรากฏทันใด""?"
 18039	Dragon hunt successful. The event has ended.	ล่ามังกรสำเร็จกิจกรรมสิ้นสุดแล้ว
 18040	Use the following item to unlock this class?	ใช้รายการต่อไปนี้เพื่อปลดล็อคคลาสนี้หรือไม่?
 18041	Job Advance from ${1} Lv${2} to ${3} Lv${4}?	การเลื่อนงานจาก${1}Lv${2}ถึง${3}Lv${4}?
 18042	Fafnir, the Greedy Dragon, has been defeated	Fafnir มังกรโลภถูกปราบแล้ว
-18043	Almagia is about to become Weak. Keep it up!	อัลมาเกียกำลังจะอ่อนแอลง ติดตามมัน!
+18043	Almagia is about to become Weak. Keep it up!	Almagia กำลังจะ Weak ลง ติดตามมัน!
 18044	Wedding Crashers will begin in @{1} minutes.	Wedding Crashers จะเริ่มใน@{1}นาที
-18045	The Guild League has begun. Participate Now?	ลีกกิลด์ได้เริ่มต้นขึ้นแล้วเข้าร่วมตอนนี้?
+18045	The Guild League has begun. Participate Now?	ลีก Guild ได้เริ่มต้นขึ้นแล้วเข้าร่วมตอนนี้?
 18046	The Escort event has begun. Participate Now.	กิจกรรม Escort ได้เริ่มขึ้นแล้วเข้าร่วมเลย
 18047	Work together to defeat the Golden Thief Bug	ร่วมมือกันกำจัด Golden Thief Bug
-18048	Too slow! Go practice and come back later...	ช้าเกินไป!ไปซ้อมแล้วกลับมาใหม่...
+18048	Too slow! Go practice and come back later...	ช้าเกินไป! ไปซ้อมแล้วกลับมาใหม่...
 18049	Central supplies will spawn in @{1} seconds!	เสบียงจากส่วนกลางจะเกิดใน@{1}วินาที!
 18050	The central Boss will spawn in @{1} seconds!	บอสกลางจะเกิดใน@{1}วินาที!
 18051	The deathmatch phase begins in @{1} seconds!	ช่วงเดธแมตช์จะเริ่มใน@{1}วินาที!
-18052	The Bonfire Party will begin in @{1} minutes	ปาร์ตี้กองไฟจะเริ่มใน@{1}นาที
-18053	The Bonfire Party has begun. Head there now?	ปาร์ตี้กองไฟได้เริ่มขึ้นแล้วมุ่งหน้าไปที่นั่นตอนนี้เหรอ?
+18052	The Bonfire Party will begin in @{1} minutes	ปาร์ตี้ Bonfire จะเริ่มใน@{1}นาที
+18053	The Bonfire Party has begun. Head there now?	ปาร์ตี้ Bonfire ได้เริ่มขึ้นแล้วมุ่งหน้าไปที่นั่นตอนนี้เหรอ?
 18054	The Goddess's army will invade ${2} in ${1}.	กองทัพของเทพธิดาจะบุกโจมตี${2}ใน${1}
-18055	Guild Readiness has increased to 【Lv. ${1}】.	ความพร้อมของกิลด์เพิ่มขึ้นเป็น 【Lv.${1}】.
-18056	Louis\nGuess which Bell my cat is hiding in!	Louis\nเดาสิว่ากระดิ่งแมวของฉันซ่อนอยู่ในตัวไหน!
+18055	Guild Readiness has increased to 【Lv. ${1}】.	ความพร้อมของ Guild เพิ่มขึ้นเป็น 【Lv.${1}】.
+18056	Louis\nGuess which Bell my cat is hiding in!	Louis\n เดาสิว่ากระดิ่งแมวของฉันซ่อนอยู่ในตัวไหน!
 18057	This round really is a little tricky, but...	รอบนี้ยุ่งยากนิดหน่อยจริงๆ แต่...
-18058	The Professor was taken?! What do we do now?	ศาสตราจารย์โดนจับตัวไป?!เราจะทำอย่างไรตอนนี้?
-18059	Sprazzi\nBeginners, please gather over here!	Sprazzi\nมือใหม่มารวมตัวกันที่นี่!
-18060	Bobo\nWhoa, why is this thing glowing again?	Bobo\nอ้าว ทำไมสิ่งนี้ถึงเรืองแสงอีกแล้วล่ะ?
+18058	The Professor was taken?! What do we do now?	Professor โดนจับตัวไป?! เราจะทำอย่างไรตอนนี้?
+18059	Sprazzi\nBeginners, please gather over here!	Sprazzi\n มือใหม่มารวมตัวกันที่นี่!
+18060	Bobo\nWhoa, why is this thing glowing again?	Bobo\n อ้าว ทำไมสิ่งนี้ถึงเรืองแสงอีกแล้วล่ะ?
 18061	Bidding begins after the display period ends	การประมูลจะเริ่มหลังจากสิ้นสุดระยะเวลาการแสดงผล
 18062	Distance Until the Next Preliminaries Begin:	ระยะทางจนกว่ารอบคัดเลือกถัดไปจะเริ่มต้น:
 18063	Permanently unlocks the Evil Wing appearance	ปลดล็อครูปลักษณ์ Evil Wing อย่างถาวร
 18064	Permanently unlocks the Drama Hat appearance	ปลดล็อครูปลักษณ์หมวกดราม่าอย่างถาวร
-18065	Permanently unlocks the Nurse Cap appearance	ปลดล็อครูปลักษณ์หมวกพยาบาลอย่างถาวร
-18066	Permanently unlocks the Egg Shell appearance	ปลดล็อคลักษณะเปลือกไข่อย่างถาวร
+18065	Permanently unlocks the Nurse Cap appearance	ปลดล็อครูปลักษณ์ Nurse Cap อย่างถาวร
+18066	Permanently unlocks the Egg Shell appearance	ปลดล็อคลักษณะ Egg Shell อย่างถาวร
 18067	Mount · Big Poring can be unlocked upon use.	Mount · สามารถปลดล็อก Big Poring ได้เมื่อใช้งาน
-18068	Use to Activate the Bouquet Name Card Theme.	ใช้เพื่อเปิดใช้งานธีมนามบัตรช่อดอกไม้
+18068	Use to Activate the Bouquet Name Card Theme.	ใช้เพื่อเปิดใช้งานธีมนามบัตร Bouquet
 18069	Failed to verify player identity information	ไม่สามารถตรวจสอบข้อมูลประจำตัวของผู้เล่นได้
 18070	Metal that shines as brilliantly as the sun.	โลหะที่ส่องแสงเจิดจ้าดุจดวงอาทิตย์
-18071	Energy is full! Tap the note to make a Wish!	พลังงานเต็ม!แตะบันทึกเพื่อขอพร!
+18071	Energy is full! Tap the note to make a Wish!	พลังงานเต็ม! แตะบันทึกเพื่อขอพร!
 18072	Wish change limit before the event ends: N/A	ขีดจำกัดการเปลี่ยนแปลงความปรารถนาก่อนที่กิจกรรมจะสิ้นสุด: N/A
 18073	A wooden club that anyone can use with ease.	ไม้กอล์ฟที่ใครๆ ก็ใช้ได้สบายๆ
 18074	A dagger designed for ease of use by anyone.	กริชที่ออกแบบมาเพื่อให้ทุกคนใช้งานได้ง่าย
-18075	Guild Funds used to purchase guild supplies.	กองทุนกิลด์ใช้เพื่อซื้ออุปกรณ์กิลด์
+18075	Guild Funds used to purchase guild supplies.	Guild Funds ใช้เพื่อซื้ออุปกรณ์ Guild
 18076	AoE protection and exceptional survivability	การป้องกัน AoE และความอยู่รอดที่ยอดเยี่ยม
-18077	Summon a Demonic Wolf to Fight Alongside you	อัญเชิญหมาป่าปีศาจมาต่อสู้เคียงข้างคุณ
-18078	Flying Goblin Balloon - Limited-Time Edition	Flying Goblin Balloon - รุ่นจำกัดเวลา
+18077	Summon a Demonic Wolf to Fight Alongside you	อัญเชิญ Wolf ปีศาจมาต่อสู้เคียงข้างคุณ
+18078	Flying Goblin Balloon - Limited-Time Edition	Flying Goblin Balloon - Limited-Time Edition
 18079	Guild League - Preliminaries (Auction Check)	Guild League - รอบคัดเลือก (ตรวจสอบการประมูล)
-18080	Backpack Expansion Voucher (No Function Yet)	Backpack Expansion Voucher (ยังไม่มีฟังก์ชั่น)
-18081	Treasure Clue: Merchant's Secret Compartment	เบาะแสสมบัติ: ช่องลับของพ่อค้า
-18082	Emerald Realm Breaker Scroll · Accessory-Red	Emerald Realm Breaker Scroll · อุปกรณ์เสริม-สีแดง
-18083	Crimson Realm Breaker Scroll · Accessory-Red	Crimson Realm Breaker Scroll · อุปกรณ์เสริม-สีแดง
+18080	Backpack Expansion Voucher (No Function Yet)	Backpack Expansion Voucher (No Function Yet)
+18081	Treasure Clue: Merchant's Secret Compartment	Treasure Clue: Merchant's Secret Compartment
+18082	Emerald Realm Breaker Scroll · Accessory-Red	Emerald Realm Breaker Scroll · Accessory-Red
+18083	Crimson Realm Breaker Scroll · Accessory-Red	Crimson Realm Breaker Scroll · Accessory-Red
 18084	Must log in for a total of ^{1}${1}^{2} days	ต้องล็อกอินรวม ^{1}${1}^{2}วัน
 18085	Not enough cards of the required star rating	การ์ดไม่เพียงพอสำหรับระดับดาวที่ต้องการ
 18086	Not enough joint Battle Royale participation	การเข้าร่วม Battle Royale ร่วมกันไม่เพียงพอ
@@ -95,7 +95,7 @@
 18094	White Note Magic Circle Expanding Outer Ring	White Note Magic Circle ขยายวงแหวนรอบนอก
 18095	Battle Chant Harmony: Original Melody Chorus	Battle Chant Harmony: นักร้องประสานเสียงเมโลดี้ดั้งเดิม
 18096	Are you sure you want to unmute this player?	คุณแน่ใจหรือไม่ว่าต้องการเปิดเสียงเครื่องเล่นนี้
-18097	The player has been removed from the Tavern.	ผู้เล่นถูกลบออกจากโรงเตี๊ยม
+18097	The player has been removed from the Tavern.	ผู้เล่นถูกลบออกจาก Tavern
 18098	The required mount is missing for this skill	การเมานต์ที่จำเป็นสำหรับทักษะนี้หายไป
 18099	Auction Dividend Settlement is still pending	การชำระเงินปันผลการประมูลยังอยู่ระหว่างการพิจารณา
 18100	Item is not currently available for purchase	สินค้าไม่สามารถซื้อได้ในขณะนี้
@@ -103,14 +103,14 @@
 18102	You cannot purchase your own consigned item.	คุณไม่สามารถซื้อสินค้าฝากขายของคุณเองได้
 18103	Insufficient item stock. Unable to purchase.	สต็อกสินค้าไม่เพียงพอไม่สามารถซื้อได้
 18104	The target player is already in the channel.	ผู้เล่นเป้าหมายอยู่ในช่องแล้ว
-18105	The Adventurer Group invitation has expired.	คำเชิญกลุ่มนักผจญภัยหมดอายุแล้ว
+18105	The Adventurer Group invitation has expired.	คำเชิญกลุ่ม Adventurer หมดอายุแล้ว
 18106	The guild emblem frame has not been unlocked	กรอบสัญลักษณ์กิลด์ยังไม่ได้ปลดล็อค
 18107	The gift message contains invalid characters	ข้อความของขวัญมีอักขระที่ไม่ถูกต้อง
 18108	You are not the recipient of this gift order	คุณไม่ใช่ผู้รับคำสั่งซื้อของขวัญนี้
 18109	Stronghold War Auction - Auction is not open	Stronghold War Auction - การประมูลไม่เปิด
 18110	Escort delivery failed: Invalid escort wagon	การส่งมอบ Escort ล้มเหลว: เกวียนคุ้มกันไม่ถูกต้อง
 18111	The Place Bet player Limit has been reached.	ถึงขีดจำกัดของผู้เล่นเดิมพันแล้ว
-18112	Only the Party Leader can start matchmaking.	มีเพียงหัวหน้าปาร์ตี้เท่านั้นที่สามารถเริ่มจับคู่ได้
+18112	Only the Party Leader can start matchmaking.	มีเพียง Party Leader เท่านั้นที่สามารถเริ่มจับคู่ได้
 18113	Skill Level-up is unavailable during combat.	การอัปเลเวลทักษะไม่พร้อมใช้งานในระหว่างการต่อสู้
 18114	Unable to select a location while following.	ไม่สามารถเลือกตำแหน่งขณะติดตามได้
 18115	All Final Trial objectives must be completed	วัตถุประสงค์การทดลองใช้ขั้นสุดท้ายทั้งหมดจะต้องเสร็จสิ้น
@@ -118,7 +118,7 @@
 18117	Cannot switch scenes: Player data not found.	ไม่สามารถสลับฉากได้: ไม่พบข้อมูลผู้เล่น
 18118	Cannot switch scenes while in Battle Status.	ไม่สามารถสลับฉากขณะอยู่ในสถานะการต่อสู้ได้
 18119	Cannot cast due to an invalid caster status.	ไม่สามารถร่ายได้เนื่องจากสถานะลูกล้อไม่ถูกต้อง
-18120	This Month's Total Guild Contributions: ${1}	ผลงานกิลด์ทั้งหมดของเดือนนี้:${1}
+18120	This Month's Total Guild Contributions: ${1}	ผลงาน Guild ทั้งหมดของเดือนนี้:${1}
 18121	Guild Readiness has increased to Lv. 【${1}】.	Guild Readiness เพิ่มขึ้นเป็น Lv.【${1}】.
 18122	Carry a fire shell from the ammunition crate	ถือกระสุนไฟจากลังกระสุน
 18123	After use, increases PATK and MATK by @{1}%.	หลังการใช้งาน เพิ่ม PATK และ MATK ขึ้น@{1}%
@@ -141,10 +141,10 @@
 18140	Failed to switch scenes. Please log in again!	ไม่สามารถสลับฉากได้กรุณาเข้าสู่ระบบอีกครั้ง!
 18141	<color=#fdab5b>Guild Emblem</color> Starlight	<color=#fdab5b>Guild Emblem</color> Starlight
 18142	Socket @{1} cards of Purple Quality or higher	การ์ด@{1}ที่มีคุณภาพสีม่วงหรือสูงกว่า
-18143	Continue onward and search for the Professor.	ดำเนินการต่อและค้นหาศาสตราจารย์
-18144	Go provide Utility to the stationed Soldiers.	Go มอบสาธารณูปโภคให้กับทหารประจำการ
+18143	Continue onward and search for the Professor.	ดำเนินการต่อและค้นหา Professor
+18144	Go provide Utility to the stationed Soldiers.	Go มอบสาธารณูปโภคให้กับ Soldiers ประจำการ
 18145	Participate in the War of Emperium @{1} times	เข้าร่วมสงคราม Emperium@{1}ครั้ง
-18146	Receive an urgent letter from Professor Ryan.	รับจดหมายด่วนจากศาสตราจารย์ไรอัน
+18146	Receive an urgent letter from Professor Ryan.	รับจดหมายด่วนจาก Professor Ryan
 18147	Enter the airship and defeat the evil forces.	เข้าสู่เรือเหาะและเอาชนะกองกำลังชั่วร้าย
 18148	Select the quest to learn about Battle Royale	เลือกภารกิจเพื่อเรียนรู้เกี่ยวกับ Battle Royale
 18149	Drop Test @{1}-Personal Limit-Limit Deduction	การทดสอบการตก@{1}- การหักขีดจำกัดส่วนบุคคล
@@ -160,52 +160,52 @@
 18159	Affects your damage taken from Medium enemies	ส่งผลต่อความเสียหายที่ได้รับจากศัตรูขนาดกลาง
 18160	Affects your damage against non-Boss monsters	ส่งผลต่อความเสียหายของคุณต่อมอนสเตอร์ที่ไม่ใช่บอส
 18161	Affects the duration of Slow inflicted on you	ส่งผลต่อระยะเวลาสโลว์ที่เกิดกับคุณ
-18162	Encountered Baphomet at Prontera's North Gate	พบกับ Baphomet ที่ประตูทิศเหนือของ Prontera
-18163	Ride the Deniro to the depths of the Ant Hell	ขี่ Deniro ไปสู่ส่วนลึกของ Ant Hell
+18162	Encountered Baphomet at Prontera's North Gate	พบกับ Baphomet ที่ Gate ทิศเหนือของ Prontera
+18163	Ride the Deniro to the depths of the Ant Hell	Ride Deniro ไปสู่ส่วนลึกของ Ant Hell
 18164	Territory War Convoy Order Application Failed	การสมัครสั่งซื้อขบวนสงครามดินแดนล้มเหลว
 18165	Secret Trove—Rift Crisis Event Reward Reissue	Secret Trove—การออกรางวัลกิจกรรม Rift Crisis ใหม่
-18166	Temporary State Capital Battle Activity Quest	เควสกิจกรรมการต่อสู้เมืองหลวงชั่วคราว
+18166	Temporary State Capital Battle Activity Quest	เควส Activity การต่อสู้เมืองหลวงชั่วคราว
 18167	Tap the caravan icon to Move to its Location.	แตะไอคอนคาราวานเพื่อย้ายไปยังตำแหน่ง
 18168	Redeemed. Check your mailbox for the rewards.	แลกแล้ว ตรวจสอบกล่องจดหมายของคุณเพื่อรับรางวัล
 18169	<color=#cc762a>${1}</color> Unseal Card Slots	<color=#cc762a>${1}</color> Unseal Card Slots
 18170	Chapter 2 covers the fundamentals of running.	บทที่ 2 ครอบคลุมพื้นฐานของการวิ่ง
 18171	Auto-Use Fly Wing When No Monsters Are Nearby	ใช้ปีกบินอัตโนมัติเมื่อไม่มีสัตว์ประหลาดอยู่ใกล้ๆ
-18172	The Caravan Party Leader wants to talk to You	หัวหน้าปาร์ตี้คาราวานต้องการคุยกับคุณ
+18172	The Caravan Party Leader wants to talk to You	Caravan Party Leader ต้องการคุยกับคุณ
 18173	The captain is worried about You. Talk to her	กัปตันเป็นห่วงคุณคุยกับเธอ
-18174	Tell the Caravan Member that Baphomet is dead	บอกสมาชิกคาราวานว่าบาโฟเมตตายแล้ว
-18175	Complete quests and Kill monsters to earn EXP	ทำภารกิจให้สำเร็จและฆ่าสัตว์ประหลาดเพื่อรับ EXP
+18174	Tell the Caravan Member that Baphomet is dead	บอก Caravan Member ว่า Baphomet ตายแล้ว
+18175	Complete quests and Kill monsters to earn EXP	ทำภารกิจให้สำเร็จและ Kill สัตว์ประหลาดเพื่อรับ EXP
 18176	Points remaining: <color=#63a22b>${1}</color>	Points remaining: <color=#63a22b>${1}</color>
 18177	Revive in <color=#76c233>${1}</color> seconds	Revive in <color=#76c233>${1}</color> seconds
 18178	${1} Declined your Revive invitation! (╯▔皿▔)╯	${1}ปฏิเสธคำเชิญ Revive ของคุณ! (╯▔皿▔)╯
 18179	Appearance Shop - Direct Purchase - Hairstyle	Appearance Shop - ซื้อโดยตรง - ทรงผม
-18180	Summon a Demonic Wolf to Fight Alongside you.	อัญเชิญหมาป่าปีศาจมาต่อสู้เคียงข้างคุณ
-18181	Strike opponents with consecutive Sand Puffs.	โจมตีคู่ต่อสู้ด้วยพัฟทรายติดต่อกัน
+18180	Summon a Demonic Wolf to Fight Alongside you.	อัญเชิญ Wolf ปีศาจมาต่อสู้เคียงข้างคุณ
+18181	Strike opponents with consecutive Sand Puffs.	โจมตีคู่ต่อสู้ด้วย Sand Puffs ติดต่อกัน
 18182	Purchase after the public listing period ends	ซื้อหลังจากสิ้นสุดระยะเวลาการจดทะเบียนต่อสาธารณะ
 18183	Stat Builds cannot be switched during combat.	Stat Builds ไม่สามารถสลับได้ระหว่างการต่อสู้
 18184	Pet Presets cannot be switched during combat.	ค่าที่ตั้งล่วงหน้าของสัตว์เลี้ยงไม่สามารถสลับได้ในระหว่างการต่อสู้
 18185	Vigor Potion effectiveness increases by @{1}%	Vigor Potion มีประสิทธิภาพเพิ่มขึ้น@{1}%
 18186	Refreshing recommended friends is on cooldown	การรีเฟรชเพื่อนที่แนะนำอยู่ในคูลดาวน์
 18187	Maximum number of Deputy Raid Leaders reached	มีรองหัวหน้า Raid ถึงจำนวนสูงสุดแล้ว
-18188	We look forward to welcoming all Adventurers!	เราหวังว่าจะได้ต้อนรับนักผจญภัยทุกท่าน!
+18188	We look forward to welcoming all Adventurers!	เราหวังว่าจะได้ต้อนรับ Adventurers ทุกท่าน!
 18189	The auction has begun. You may now bid freely	การประมูลได้เริ่มขึ้นแล้วตอนนี้คุณสามารถเสนอราคาได้อย่างอิสระ
 18190	Combine ${1} Totems of ${1} quality or higher	รวมโทเท็ม${1}ที่มีคุณภาพ${1}หรือสูงกว่า
 18191	This can only be sent once every ${1} minutes	สามารถส่งได้เพียงครั้งเดียวทุกๆ${1}นาที
 18192	Level-up to unlock a higher Skill Level limit	เพิ่มเลเวลเพื่อปลดล็อคขีดจำกัดระดับทักษะที่สูงขึ้น
 18193	Pet Protection Actual Effect Trigger - Output	การป้องกันสัตว์เลี้ยง ทริกเกอร์เอฟเฟกต์จริง - เอาท์พุต
-18194	Survivor Battle Net Victory Protection Points	คะแนนการป้องกันชัยชนะสุทธิของผู้รอดชีวิตจากการต่อสู้
+18194	Survivor Battle Net Victory Protection Points	Survivor Battle Net Victory Protection Points
 18195	Spirit Tower Floor ${1} has not been cleared.	Spirit Tower ชั้น${1}ยังไม่ได้เคลียร์
 18196	Flying is not allowed in the current Location	ไม่อนุญาตให้บินในตำแหน่งปัจจุบัน
-18197	Only the Party Leader can perform this action	มีเพียงหัวหน้าปาร์ตี้เท่านั้นที่สามารถดำเนินการนี้ได้
+18197	Only the Party Leader can perform this action	มีเพียง Party Leader เท่านั้นที่สามารถดำเนินการนี้ได้
 18198	MP Recovery Speed +${1}% and Magic ATK +${2}.	ความเร็วในการฟื้นฟู MP +${1}% และ ATK เวทย์ +${2}
 18199	At @{1} stacks, triggers 【Firepower Loading】.	ที่@{1}สแต็ค จะทริกเกอร์ 【Firepower Loading】
-18200	Control debuff resistance increased by +@{1}.	ต้านทานดีบัฟควบคุมเพิ่มขึ้น +@{1}
-18201	【Spear Formation - Blood Cross】 damage +@{1}%	【การสร้างหอก - Blood Cross】 ความเสียหาย +@{1}%
-18202	Recover @{1}% Max Life per sec. for @{2} sec.	กู้คืน@{1}% พลังชีวิตสูงสุดต่อวินาทีสำหรับ@{2}วินาที
+18200	Control debuff resistance increased by +@{1}.	ต้านทานดีบัฟ Control เพิ่มขึ้น +@{1}
+18201	【Spear Formation - Blood Cross】 damage +@{1}%	【Spear Formation - Blood Cross】 ความเสียหาย +@{1}%
+18202	Recover @{1}% Max Life per sec. for @{2} sec.	กู้คืน@{1}% พลัง Life สูงสุดต่อวินาทีสำหรับ@{2}วินาที
 18203	Searching for enemies in Hiding within range.	ค้นหาศัตรูในการซ่อนตัวภายในระยะ
-18204	Skill@{1}Square Formation Bagpipe Sound Blade	Skill@{1}ใบมีดเสียงปี่แบบ Square Formation
-18205	Add @{1} Different-Color Bubbles Side by Side	เพิ่ม@{1}ฟองอากาศสีต่างๆ เคียงข้างกัน
-18206	Skill@{1}_Summon X@{2} Cross Compression Zone	Skill@{1}_Summon X@{2} โซนการบีบอัดข้าม
-18207	Skill@{1}_Summon X Cross@{2} Compression Zone	ทักษะ@{1}_อัญเชิญ X Cross โซนการบีบอัด@{2}ทักษะ
+18204	Skill@{1}Square Formation Bagpipe Sound Blade	Skill@{1}Square Formation Bagpipe Sound Blade
+18205	Add @{1} Different-Color Bubbles Side by Side	Add @{1} Different-Color Bubbles Side by Side
+18206	Skill@{1}_Summon X@{2} Cross Compression Zone	Skill@{1}_Summon X@{2} Cross Compression Zone
+18207	Skill@{1}_Summon X Cross@{2} Compression Zone	Skill@{1}_Summon X Cross@{2} Compression Zone
 18208	Trophies Achieved: <#c27b47>${1}</color>/${2}	ที่ได้รับ:<#c27b47>${1}</color>/${2}ถ้วยรางวัล
 18209	Allows use of ^{1}^{2}Sight Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Sight Lv.@{1}^{3}^{4}
 18210	End the event when activity phase @{1} begins	สิ้นสุดกิจกรรมเมื่อเฟสกิจกรรม@{1}เริ่มต้นขึ้น
@@ -216,14 +216,14 @@
 18215	（<#63A22B>${1}</color>+<#6E8bC8>${2}</color>）	(<#63A22B>${1}</color>+<#6E8bC8>${2}</color>)
 18216	Complete the prerequisite challenge to unlock	ทำภารกิจท้าทายเบื้องต้นให้สำเร็จเพื่อปลดล็อค
 18217	Channel names are limited to ${1} characters.	ถูกจำกัดไว้ที่อักขระ${1}สร้างหน้าต่างช่องสัญญาณ
-18218	Magic Circle_Maya Sandstorm Instant-Kill Zone	Magic Circle_Maya Sandstorm โซนสังหารทันที
+18218	Magic Circle_Maya Sandstorm Instant-Kill Zone	Magic Circle_Maya Sandstorm Instant-Kill Zone
 18219	You've already claimed today's Sweep rewards.	คุณได้รับรางวัล Sweep ของวันนี้แล้ว
 18220	Silverwing Covenant · Matching Theme Facewear	Silverwing Covenant · หน้ากากธีมที่เข้ากัน
 18221	A headband made from gathered Angel feathers.	ที่คาดผมทำจากขนนางฟ้าที่รวบรวมมา
 18222	Silverwing Covenant · Matching Theme Backwear	Silverwing Covenant · แบ็คแวร์ที่เข้ากันกับธีม
 18223	You don't have any Fly Wing in your Backpack.	คุณไม่มี Fly Wing ในกระเป๋าเป้
 18224	Cooldown in progress. Please try again later.	อยู่ระหว่างคูลดาวน์โปรดลองอีกครั้งในภายหลัง
-18225	You haven't opened your Stall.\nLeave anyway?	คุณยังไม่ได้เปิดแผงลอยของคุณ\nออกหรือยัง?
+18225	You haven't opened your Stall.\nLeave anyway?	คุณยังไม่ได้เปิดแผงลอยของคุณ\n ออกหรือยัง?
 18226	You cannot set up a Stall inside an instance.	คุณไม่สามารถตั้งค่า Stall ภายในอินสแตนซ์ได้
 18227	This item is bound and unavailable for Trade.	รายการนี้ผูกมัดและไม่พร้อมสำหรับการค้า
 18228	Limited-time items are unavailable for Trade.	สินค้าจำกัดเวลาไม่สามารถซื้อขายได้
@@ -249,31 +249,31 @@
 18248	You can equip new skills from the Skill panel	คุณสามารถสวมใส่ทักษะใหม่ได้จากแผงทักษะ
 18249	Quick, use my Pet Skill to block this attack!	เร็วเข้า ใช้ทักษะสัตว์เลี้ยงของฉันเพื่อป้องกันการโจมตีนี้!
 18250	Well done. You've completed the Novice Trial.	ทำได้ดีมากคุณได้เสร็จสิ้นการทดลองใช้มือใหม่แล้ว
-18251	Ready to go? Just don't throw up on the ship.	พร้อมลุยหรือยัง?อย่าเพิ่งอ้วกลงเรือ
-18252	Finally awake, huh? You were really out cold.	ในที่สุดก็ตื่นแล้วเหรอ?คุณเย็นชาจริงๆ
-18253	But I got it in the end! Look—(Raises bottle)	แต่สุดท้ายก็ได้มันมา!ดูสิ—(ยกขวด)
+18251	Ready to go? Just don't throw up on the ship.	พร้อมลุยหรือยัง? อย่าเพิ่งอ้วกลงเรือ
+18252	Finally awake, huh? You were really out cold.	ในที่สุดก็ตื่นแล้วเหรอ? คุณเย็นชาจริงๆ
+18253	But I got it in the end! Look—(Raises bottle)	แต่สุดท้ายก็ได้มันมา! ดูสิ—(ยกขวด)
 18254	Hee-hee~ More and more people are showing up!	ฮิฮิ~ มีคนมาปรากฏตัวมากขึ้นเรื่อยๆ!
 18255	Sheesh... Ptooey... What are you looking at?!	ชีช... ปทูอี้... มองอะไรอยู่?!
 18256	The map was left behind by the last traveler~	แผนที่ถูกนักเดินทางคนสุดท้ายทิ้งไว้ข้างหลัง~
 18257	That's a huge nail. Who hammered it in there?	นั่นเป็นเล็บขนาดใหญ่ใครเป็นคนตอกมันลงไปตรงนั้น?
 18258	But what if he drinks it and nothing happens?	แต่ถ้าเขาดื่มแล้วไม่มีอะไรเกิดขึ้นล่ะ?
-18259	Who built this well? What a wonderful person.	ใครสร้างให้ดีล่ะ?ช่างเป็นคนที่ยอดเยี่ยมจริงๆ
-18260	...Of course not. Fine, you can come with us.	...ไม่แน่นอน ดีคุณสามารถมากับเรา
-18261	Hmph. I think you've really lost your mind...	Hmph.ฉันว่าคุณเสียสติไปแล้วจริงๆ...
+18259	Who built this well? What a wonderful person.	ใครสร้างให้ดีล่ะ? ช่างเป็นคนที่ยอดเยี่ยมจริงๆ
+18260	...Of course not. Fine, you can come with us.	... ไม่แน่นอน ดีคุณสามารถมากับเรา
+18261	Hmph. I think you've really lost your mind...	Hmph. ฉันว่าคุณเสียสติไปแล้วจริงๆ...
 18262	<color=#FA983A>${1} Class</color> Not Learned	<color=#FA983A>${1} Class</color> Not Learned
 18263	Monster Movement Speed increases in @{1} sec.	ความเร็วในการเคลื่อนที่ของมอนสเตอร์เพิ่มขึ้นใน@{1}วินาที
 18264	The Monster Boss will appear in @{1} seconds.	บอสมอนสเตอร์จะปรากฏใน@{1}วินาที
-18265	^{1}【Notice】^{2}[Rear Revive Point] activated	^{1}【ประกาศ】^{2}เปิดใช้งาน [จุดคืนชีพด้านหลัง] แล้ว
+18265	^{1}【Notice】^{2}[Rear Revive Point] activated	^{1}【Notice】^{2}เปิดใช้งาน [Rear Revive Point] แล้ว
 18266	Stop the illusions from approaching Baphomet!	หยุดภาพลวงตาไม่ให้เข้าใกล้ Baphomet!
 18267	${1} found the key! Hurry and save the bride!	${1}พบกุญแจแล้ว! รีบช่วยเจ้าสาวเร็ว ๆ นี้!
 18268	^{1}${2}^{2}'s ^{3}${3}^{4} claimed the flag!	^{1}${2}^{2}'s ^{3}${3}^{4}อ้างสิทธิ์ในธง!
 18269	[Evil Eye Messenger] has left the battlefield	[Evil Eye Messenger] ออกจากสนามรบแล้ว
 18270	You have joined ^{1}${1} Adventure Party^{2}.	คุณได้เข้าร่วม ^{1}${1}Adventure Party^{2}.
 18271	${1} Adamantine Madogear Pilot has respawned.	${1}Adamantine Madogear Pilot ได้เกิดใหม่แล้ว
-18272	A new Live Coal has appeared in the territory	ถ่านหินสดชนิดใหม่ได้ปรากฏตัวขึ้นในดินแดนแล้ว
+18272	A new Live Coal has appeared in the territory	Live Coal ชนิดใหม่ได้ปรากฏตัวขึ้นในดินแดนแล้ว
 18273	Your party successfully escorted the supplies	ปาร์ตี้ของคุณพาเสบียงได้สำเร็จ
-18274	Bobo\nHuh? It looks like he stopped up ahead.	โบโบ\nหือ?ดูเหมือนเขาจะหยุดอยู่ข้างหน้า
-18275	Baphomet has become Weak! Focus your attacks!	Baphomet อ่อนแอลงแล้ว!มุ่งเน้นการโจมตีของคุณ!
+18274	Bobo\nHuh? It looks like he stopped up ahead.	โบโบ\n หือ? ดูเหมือนเขาจะหยุดอยู่ข้างหน้า
+18275	Baphomet has become Weak! Focus your attacks!	Baphomet Weak ลงแล้ว! มุ่งเน้นการโจมตีของคุณ!
 18276	Auction Quantity: <color=#cc762a>${1}</color>	Auction Quantity: <color=#cc762a>${1}</color>
 18277	Pre-purchase ${3} ${2} for no more than ${1}?	ซื้อล่วงหน้า${3}${2}ในราคาไม่เกิน${1}?
 18278	Save the following engraving results to ${1}?	บันทึกผลการแกะสลักต่อไปนี้ไปที่${1}?
@@ -283,30 +283,30 @@
 18282	Say hello to the Life Skill Mentor for Dumby.	ทักทาย Life Skill Mentor ของ Dumby
 18283	PATCH_INSUFFICIENT_DEVICE_STORAGE_SPACE_ERROR	PATCH_INSUFFICIENT_DEVICE_STORAGE_SPACE_ERROR
 18284	Permanently unlocks the Rune Crown appearance	ปลดล็อครูปลักษณ์ Rune Crown อย่างถาวร
-18285	Permanently unlocks the Sphinx Hat appearance	ปลดล็อครูปลักษณ์หมวกสฟิงซ์อย่างถาวร
+18285	Permanently unlocks the Sphinx Hat appearance	ปลดล็อครูปลักษณ์ Sphinx Hat อย่างถาวร
 18286	Permanently unlocks the Furry Tail appearance	ปลดล็อครูปลักษณ์ Furry Tail อย่างถาวร
-18287	Permanently unlocks the Clown Nose appearance	ปลดล็อครูปลักษณ์จมูกตัวตลกอย่างถาวร
+18287	Permanently unlocks the Clown Nose appearance	ปลดล็อครูปลักษณ์ Clown Nose อย่างถาวร
 18288	Permanently unlocks the Banana Hat appearance	ปลดล็อครูปลักษณ์หมวกกล้วยอย่างถาวร
-18289	Permanently unlocks the Sunglasses appearance	ปลดล็อครูปลักษณ์แว่นกันแดดอย่างถาวร
+18289	Permanently unlocks the Sunglasses appearance	ปลดล็อครูปลักษณ์ Sunglasses อย่างถาวร
 18290	Permanently unlocks the Mage's Hat appearance	ปลดล็อครูปลักษณ์หมวกของนักเวทย์อย่างถาวร
 18291	Mount · Dream Steed can be unlocked upon use.	Mount · Dream Steed สามารถปลดล็อคได้เมื่อใช้งาน
 18292	Use to Activate the Set Sail Name Card Theme.	ใช้เพื่อเปิดใช้งานธีม Set Sail Name Card
-18293	Open to receive 1 random Blue or Purple Card.	เปิดรับการ์ดสีน้ำเงินหรือสีม่วงแบบสุ่ม 1 ใบ
-18294	Open to receive one common crafting material.	เปิดเพื่อรับวัสดุการประดิษฐ์ทั่วไปหนึ่งชิ้น
+18293	Open to receive 1 random Blue or Purple Card.	Open รับการ์ดสีน้ำเงินหรือสีม่วงแบบสุ่ม 1 ใบ
+18294	Open to receive one common crafting material.	Open เพื่อรับวัสดุการประดิษฐ์ทั่วไปหนึ่งชิ้น
 18295	Grants a chance to obtain a Red Quality Card.	ให้โอกาสได้รับการ์ดคุณภาพสีแดง
 18296	An item Assassins use to erase human emotion.	ไอเทมที่นักฆ่าใช้เพื่อลบอารมณ์ความรู้สึกของมนุษย์
-18297	A Single Cell. Can be exchanged for Headwear.	เซลล์เดียว สามารถเปลี่ยนเป็น Headwear ได้
-18298	Alice's Apron. Can be exchanged for Headwear.	ผ้ากันเปื้อนของอลิซ สามารถเปลี่ยนเป็น Headwear ได้
+18297	A Single Cell. Can be exchanged for Headwear.	Single Cell สามารถเปลี่ยนเป็น Headwear ได้
+18298	Alice's Apron. Can be exchanged for Headwear.	Alice's Apron สามารถเปลี่ยนเป็น Headwear ได้
 18299	Pet Level-up cannot exceed the player's level	การอัปเลเวลสัตว์เลี้ยงต้องไม่เกินเลเวลของผู้เล่น
-18300	A common Arrow that can be obtained anywhere.	ลูกศรทั่วไปที่สามารถหาได้จากทุกที่
+18300	A common Arrow that can be obtained anywhere.	Arrow ทั่วไปที่สามารถหาได้จากทุกที่
 18301	A massive bow that looks difficult to handle.	ธนูขนาดใหญ่ที่ดูยากต่อการจัดการ
 18302	A weapon more powerful than an ordinary wand.	อาวุธที่ทรงพลังยิ่งกว่าไม้กายสิทธิ์ธรรมดา
 18303	A large club with a truly vicious appearance.	สโมสรใหญ่ที่หน้าตาดุร้ายจริงๆ
 18304	A club that can inflict Stun when it strikes.	ไม้กอล์ฟที่สามารถทำให้สตันได้เมื่อโจมตี
 18305	Can be refined <color=#b75949>0</color> times	Can be refined <color=#b75949>0</color> times
-18306	Azure Boundary-Breaking Scroll·One-Handed-Red	Azure Boundary-Breaking Scroll·มือเดียว-แดง
-18307	Azure Boundary-Breaking Scroll·Dual-Wield-Red	Azure Boundary-Breaking Scroll·ดาบคู่-แดง
-18308	Lv. @{1} Two-Handed Spear (Lance Knight Only)	เลเวล@{1}หอกสองมือ (เฉพาะ Lance Knight)
+18306	Azure Boundary-Breaking Scroll·One-Handed-Red	Azure Boundary-Breaking Scroll·One-Handed-Red
+18307	Azure Boundary-Breaking Scroll·Dual-Wield-Red	Azure Boundary-Breaking Scroll·Dual-Wield-Red
+18308	Lv. @{1} Two-Handed Spear (Lance Knight Only)	Lv. @{1} Two-Handed Spear (Lance Knight Only)
 18309	Not enough of the required equipment equipped	มีอุปกรณ์ที่จำเป็นไม่เพียงพอ
 18310	Alchemy Room Level too low. Requires Lv. ${1}	ระดับห้องเล่นแร่แปรธาตุต่ำเกินไป ต้องมีเลเวล${1}
 18311	${1} has not completed placement confirmation	${1}ยังไม่เสร็จสิ้นการยืนยันตำแหน่ง
@@ -315,19 +315,19 @@
 18314	Reduces Vivify consumed when crafting by @{1}	ลดการใช้ Viviify เมื่อทำการประดิษฐ์โดย@{1}
 18315	Ultraman arrived at the Pacific Ring of Fire.	อุลตร้าแมนมาถึงวงแหวนแห่งไฟแปซิฟิกแล้ว
 18316	Western Prontera Prefecture - Stronghold @{1}	จังหวัดพรอนเทราตะวันตก - ฐานที่มั่น@{1}
-18317	Blunt Weapon Normal Attack [Triggered Effect]	การโจมตีปกติด้วยอาวุธไม่มีคม [เอฟเฟกต์ที่ถูกกระตุ้น]
+18317	Blunt Weapon Normal Attack [Triggered Effect]	Normal Attack ด้วยอาวุธไม่มีคม [Triggered Effect]
 18318	S@{1} Axe Tornado Casts Demonic Roar Listener	S@{1}Axe Tornado ร่ายผู้ฟัง Demonic Roar
-18319	S@{1} Vulcan Cannon Triggers Cannon Follow-Up	S@{1}Vulcan Cannon ทริกเกอร์การติดตามผลปืนใหญ่
+18319	S@{1} Vulcan Cannon Triggers Cannon Follow-Up	S@{1}Vulcan Cannon ทริกเกอร์การติดตามผล Cannon
 18320	Battle Chant - Reduced Physical and Magic ATK	Battle Chant - ลดพลังโจมตีกายภาพและเวทมนตร์
 18321	King's Grace Grants a Buff Every @{1} Seconds	King's Grace มอบบัฟทุกๆ@{1}วินาที
 18322	Death Prevention Visual Listener (Deprecated)	โปรแกรมฟังภาพการป้องกันการเสียชีวิต (เลิกใช้แล้ว)
 18323	Yellow Note Magic Circle Expanding Outer Ring	Yellow Note Magic Circle ขยายวงแหวนรอบนอก
-18324	Soul Burst/White Imprison/Gravity Impact Slow	Soul Burst/White Imprison/แรงโน้มถ่วงกระแทกช้า
+18324	Soul Burst/White Imprison/Gravity Impact Slow	Soul Burst/White Imprison/แรงโน้มถ่วงกระแทก Slow
 18325	Defeat ${1} monsters in Kafra Survival Battle	กำจัดสัตว์ประหลาด${1}ใน Kafra Survival Battle
-18326	Star Power earned in the Tavern is below ${1}	พลังดาวที่ได้รับในโรงเตี๊ยมต่ำกว่า${1}
-18327	Kill ${1} monsters of the corresponding level	ฆ่ามอนสเตอร์${1}ในระดับที่เกี่ยวข้อง
+18326	Star Power earned in the Tavern is below ${1}	พลังดาวที่ได้รับใน Tavern ต่ำกว่า${1}
+18327	Kill ${1} monsters of the corresponding level	Kill มอนสเตอร์${1}ในระดับที่เกี่ยวข้อง
 18328	Complete the specified Interaction ${1} times	ทำตามการโต้ตอบที่กำหนด${1}ครั้งให้เสร็จสมบูรณ์
-18329	You're here on the Professor's behalf, right?	คุณมาในนามของศาสตราจารย์ใช่ไหม?
+18329	You're here on the Professor's behalf, right?	คุณมาในนามของ Professor ใช่ไหม?
 18330	Repeat Member. Failed to create friend group.	สมาชิกซ้ำไม่สามารถสร้างกลุ่มเพื่อนได้
 18331	No Divine Arts Totem is equipped in this slot	ไม่มี Divine Arts Totem ติดตั้งอยู่ในช่องนี้
 18332	Cannot combine items of different class tiers	ไม่สามารถรวมไอเท็มที่มีระดับคลาสต่างกันได้
@@ -347,7 +347,7 @@
 18346	Items cannot be used while the player is dead	ไอเทมไม่สามารถใช้งานได้ในขณะที่ผู้เล่นตาย
 18347	No server is available for instance creation.	ไม่มีเซิร์ฟเวอร์สำหรับการสร้างอินสแตนซ์
 18348	Drag a player on the right to the party list.	ลากผู้เล่นทางด้านขวาไปยังรายชื่อปาร์ตี้
-18349	This Season's Total Guild Contributions: ${1}	ผลงานกิลด์ทั้งหมดของฤดูกาลนี้:${1}
+18349	This Season's Total Guild Contributions: ${1}	ผลงาน Guild ทั้งหมดของฤดูกาลนี้:${1}
 18350	Lope to the target area, dealing High Damage.	เดินไปยังพื้นที่เป้าหมาย สร้างความเสียหายสูง
 18351	BOSS cast animation; drop the blade mountain.	BOSS แคสต์แอนิเมชั่น;ทิ้งภูเขาใบมีด
 18352	Unfortunately, the Friend Function is broken.	น่าเสียดายที่ฟังก์ชันเพื่อนใช้งานไม่ได้
@@ -359,7 +359,7 @@
 18358	Get Help is unavailable in the current state.	รับความช่วยเหลือไม่พร้อมใช้งานในสถานะปัจจุบัน
 18359	Another building is currently being upgraded.	อาคารอื่นกำลังอยู่ในระหว่างการอัพเกรด
 18360	You do not meet the impeachment requirements.	คุณไม่ปฏิบัติตามข้อกำหนดในการฟ้องร้อง
-18361	You're back! So... did you find anything out?	คุณกลับมาแล้ว!แล้ว...คุณค้นพบอะไรบ้างไหม?
+18361	You're back! So... did you find anything out?	คุณกลับมาแล้ว! แล้ว... คุณค้นพบอะไรบ้างไหม?
 18362	${2} unlocks when the server reaches Lv. ${1}	${2}ปลดล็อคเมื่อเซิร์ฟเวอร์ถึง Lv.${1}
 18363	Cannot enter Battle of Survivors in raid mode	ไม่สามารถเข้าสู่ Battle of Survivors ในโหมดจู่โจม
 18364	Physical damage buff: Physical damage +@{1}%.	บัฟความเสียหายกายภาพ: ความเสียหายกายภาพ +@{1}%
@@ -373,18 +373,18 @@
 18372	Deploy @{1} Echoes of Purple Quality or higher	ปรับใช้@{1}Echoes ที่มีคุณภาพสีม่วงหรือสูงกว่า
 18373	Deploy @{1} Echoes of Orange Quality or higher	ปรับใช้@{1}Echoes คุณภาพสีส้มหรือสูงกว่า
 18374	Deploy @{1} Totems of Purple Quality or higher	ปรับใช้@{1}Totems ที่มีคุณภาพสีม่วงหรือสูงกว่า
-18375	Participate in the Cat Hand Caravan @{1} times	เข้าร่วมคาราวานมือแมว@{1}ครั้ง
-18376	Register as an Adventurer with the Eden Group.	ลงทะเบียนเป็นนักผจญภัยกับกลุ่มอีเดน
+18375	Participate in the Cat Hand Caravan @{1} times	เข้าร่วมคาราวานมือ Cat@{1}ครั้ง
+18376	Register as an Adventurer with the Eden Group.	ลงทะเบียนเป็น Adventurer กับกลุ่มอีเดน
 18377	Encounter the caravan searching for the cargo.	พบกับคาราวานที่กำลังค้นหาสินค้า
-18378	Return to Prontera with the Professor's group.	กลับไปที่พรอนเทราพร้อมกับกลุ่มของศาสตราจารย์
+18378	Return to Prontera with the Professor's group.	กลับไปที่พรอนเทราพร้อมกับกลุ่มของ Professor
 18379	Successfully defeat MVPs a total of @{1} times	เอาชนะ MVP ได้สำเร็จรวมเป็น@{1}ครั้ง
-18380	Collect Whispering Flowers favored by Rockers.	รวบรวมดอกไม้กระซิบที่ชาวร็อคชื่นชอบ
+18380	Collect Whispering Flowers favored by Rockers.	รวบรวม Whispering Flowers ที่ชาวร็อคชื่นชอบ
 18381	Ask Cliffer what he remembers about the theft.	ถาม Cliffer ว่าเขาจำอะไรเกี่ยวกับการโจรกรรมได้บ้าง
 18382	Defeat players from other guilds: +@{1} points	เอาชนะผู้เล่นจากกิลด์อื่น: + คะแนน@{1}
 18383	Form a party and defeat the Normal Pirate King	จัดปาร์ตี้และเอาชนะราชาโจรสลัดธรรมดา
 18384	A crowd has gathered up ahead. Go take a look.	ฝูงชนมารวมตัวกันข้างหน้า ไปดูสิ.
-18385	Give the collected Snake Gallbladders to Baoya	มอบถุงน้ำดีงูที่รวบรวมไว้ให้กับ Baoya
-18386	Help the Adventurers exterminate the Chonchons	ช่วยนักผจญภัยกำจัดชอนชอน
+18385	Give the collected Snake Gallbladders to Baoya	มอบ Snake Gallbladders ที่รวบรวมไว้ให้กับ Baoya
+18386	Help the Adventurers exterminate the Chonchons	ช่วย Adventurers กำจัดชอนชอน
 18387	Return to Prontera and report to the professor	กลับไปที่ Prontera และรายงานต่อศาสตราจารย์
 18388	Affects your damage taken from Poison monsters	ส่งผลต่อความเสียหายที่ได้รับจากมอนสเตอร์พิษ
 18389	Affects your damage taken from Shadow monsters	ส่งผลต่อความเสียหายที่ได้รับจากมอนสเตอร์ Shadow
@@ -396,9 +396,9 @@
 18395	Affects the duration of Bleed inflicted on you	ส่งผลต่อระยะเวลาของ Bleed ที่เกิดกับคุณ
 18396	Affects the duration of Sleep inflicted on you	ส่งผลต่อระยะเวลาการนอนหลับที่เกิดกับคุณ
 18397	Ignores a percentage of the target's Magic DEF	ไม่สนใจเปอร์เซ็นต์ของ DEF เวทมนตร์ของเป้าหมาย
-18398	Board the Ship with the Captain and the Others	ขึ้นเรือพร้อมกับกัปตันและคนอื่นๆ
+18398	Board the Ship with the Captain and the Others	ขึ้นเรือพร้อมกับ Captain และคนอื่นๆ
 18399	You are now leading the supply transport cart.	คุณกำลังเป็นผู้นำในรถเข็นขนส่งสินค้า
-18400	Use the Dragon-Hunting Cannon to attack Fafnir	ใช้ปืนใหญ่ล่ามังกรโจมตีฟาฟเนียร์
+18400	Use the Dragon-Hunting Cannon to attack Fafnir	ใช้ Cannon ล่ามังกรโจมตี Fafnir
 18401	Expired items have been automatically removed.	รายการที่หมดอายุจะถูกลบออกโดยอัตโนมัติ
 18402	Ranking Reward Settlement after the event ends	การชำระรางวัลอันดับหลังกิจกรรมสิ้นสุด
 18403	The game is currently undergoing maintenance……	เกมกำลังอยู่ในระหว่างการบำรุงรักษา……
@@ -409,7 +409,7 @@
 18408	Free Revives: <color=#76c233>${2}</color>/${1}	Free Revives: <color=#76c233>${2}</color>/${1}
 18409	Cannot delete mail with unclaimed attachments.	ไม่สามารถลบเมลพร้อมไฟล์แนบที่ไม่มีการอ้างสิทธิ์
 18410	Card Presets cannot be switched during combat.	ค่าที่ตั้งไว้ของการ์ดไม่สามารถสลับได้ระหว่างการต่อสู้
-18411	Chance to obtain from the final Activity Chest	โอกาสที่จะได้รับจากหีบกิจกรรมสุดท้าย
+18411	Chance to obtain from the final Activity Chest	โอกาสที่จะได้รับจากหีบ Activity สุดท้าย
 18412	Select a contact on the left to start chatting	เลือกผู้ติดต่อทางด้านซ้ายเพื่อเริ่มแชท
 18413	Please land before initiating the Interaction.	โปรดลงจอดก่อนเริ่มการโต้ตอบ
 18414	You are now friends with ${1}. Start chatting!	คุณเป็นเพื่อนกับ${1}แล้วเริ่มแชท!
@@ -418,9 +418,9 @@
 18417	Follow is unavailable in the current Location.	ติดตามไม่พร้อมใช้งานในตำแหน่งปัจจุบัน
 18418	Bid for the right to battle in the ${1} region	ประมูลสิทธิ์รบในภูมิภาค${1}
 18419	Insufficient fund, cannot initiate impeachment	เงินทุนไม่เพียงพอ ไม่สามารถดำเนินการฟ้องร้องได้
-18420	Insufficient Guild Territory War participation	การเข้าร่วมสงครามอาณาเขตกิลด์ไม่เพียงพอ
+18420	Insufficient Guild Territory War participation	การเข้าร่วมสงครามอาณาเขต Guild ไม่เพียงพอ
 18421	Did not participate in the current guild event	ไม่ได้เข้าร่วมในกิจกรรมกิลด์ปัจจุบัน
-18422	Fire damage +@{1}%. Basic Attacks become Fire.	ความเสียหายจากไฟไหม้ +@{1}%การโจมตีพื้นฐานกลายเป็นไฟ
+18422	Fire damage +@{1}%. Basic Attacks become Fire.	ความเสียหายจากไฟไหม้ +@{1}%Basic Attacks กลายเป็นไฟ
 18423	Attacks have a @{1}% Chance to recover @{2} HP	มี@{1}% โอกาสในการฟื้นฟู@{2}HP
 18424	Reduces skill cooldowns by @{1}% for @{2} sec.	ลดคูลดาวน์ทักษะลง@{1}% เป็นเวลา@{2}วินาที
 18425	Physical Damage Reduction, Magic Vulnerability	การลดความเสียหายทางกายภาพ, ช่องโหว่ทางเวทมนตร์
@@ -429,11 +429,11 @@
 18428	Emperium takes @{1}% less damage for @{2} sec.	Emperium รับความเสียหายน้อยลง@{1}% เป็นเวลา@{2}วินาที
 18429	Continuously Normal Attack the Selected Target	Continuously Normal Attack the Selected Target
 18430	Start Matching: Battle of Dragon Coffin Island	เริ่มการจับคู่: การต่อสู้ของเกาะโลงศพมังกร
-18431	Create @{1} Differently Colored Homing Bubbles	สร้าง@{1}Homing Bubbles ที่มีสีต่างกัน
-18432	Create Interaction Magic Circle (Deformed)@{1}	สร้างวงกลมเวทย์มนตร์โต้ตอบ (ผิดรูป)@{1}
-18433	Skill@{1}_Cross Compression Zone Player Damage	@{1}_ความเสียหายจากผู้เล่นโซนการบีบอัดข้าม
+18431	Create @{1} Differently Colored Homing Bubbles	Create @{1} Differently Colored Homing Bubbles
+18432	Create Interaction Magic Circle (Deformed)@{1}	Create Interaction Magic Circle (Deformed)@{1}
+18433	Skill@{1}_Cross Compression Zone Player Damage	Skill@{1}_Cross Compression Zone Player Damage
 18434	Completed <color=#c27b47>${1}</color> Trophies	Completed <color=#c27b47>${1}</color> Trophies
-18435	^{1}^{2}[Sanctuary]^{3}^{4} target count +${1}	^{1}^{2}[สถานที่ศักดิ์สิทธิ์]^{3}^{4}จำนวนเป้าหมาย +${1}
+18435	^{1}^{2}[Sanctuary]^{3}^{4} target count +${1}	^{1}^{2}[Sanctuary]^{3}^{4}จำนวนเป้าหมาย +${1}
 18436	Allows use of ^{1}^{2}Hiding Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}ซ่อน Lv.@{1}^{3}^{4}
 18437	Prerequisite Skill <color=#cc762a>${1}</color>	Prerequisite Skill <color=#cc762a>${1}</color>
 18438	Their reinforcements are here—it's Sky Petite!	กำลังเสริมของพวกเขาอยู่ที่นี่แล้ว—Sky Petite!
@@ -444,10 +444,10 @@
 18443	You must open a Stall before you can share it~	คุณต้องเปิดแผงลอยก่อนจึงจะแชร์ได้~
 18444	Please wait ${1} seconds before pinning again.	โปรดรอ${1}วินาทีก่อนที่จะปักหมุดอีกครั้ง
 18445	Today's Tax Rate: <color=#c26b47>${1}%</color>	Today's Tax Rate: <color=#c26b47>${1}%</color>
-18446	Divide Up the Tasks and Prepare to Face Fafnir	แบ่งงานและเตรียมเผชิญหน้ากับฟาฟเนียร์
+18446	Divide Up the Tasks and Prepare to Face Fafnir	แบ่งงานและเตรียมเผชิญหน้ากับ Fafnir
 18447	Challenge the Phantom Realm Protector Orc Hero	ท้าทายฮีโร่ออร์คผู้พิทักษ์อาณาจักร Phantom
-18448	Challenge the Phantom Realm Protector Mistress	ท้าทายนายหญิงผู้พิทักษ์อาณาจักร Phantom
-18449	Challenge the Phantom Realm Protector: Pharaoh	ท้าทายผู้พิทักษ์อาณาจักรปีศาจ: ฟาโรห์
+18448	Challenge the Phantom Realm Protector Mistress	ท้าทาย Mistress ผู้พิทักษ์อาณาจักร Phantom
+18449	Challenge the Phantom Realm Protector: Pharaoh	ท้าทายผู้พิทักษ์อาณาจักรปีศาจ: Pharaoh
 18450	Challenge Nasha, Protector of the Divine Realm	ท้าทาย Nasha ผู้พิทักษ์แห่งอาณาจักรศักดิ์สิทธิ์
 18451	Challenge Mirko, Protector of the Divine Realm	ท้าทาย Mirko ผู้พิทักษ์อาณาจักรศักดิ์สิทธิ์
 18452	Post the following message to the ${1} channel	โพสต์ข้อความต่อไปนี้ไปที่ช่อง${1}
@@ -455,7 +455,7 @@
 18454	Guild Shop Level: <color=#F4F2E9>Lv. 1</color>	Guild Shop Level: <color=#F4F2E9>Lv. 1</color>
 18455	Guild Shop Level: <color=#F4F2E9>Lv. 2</color>	Guild Shop Level: <color=#F4F2E9>Lv. 2</color>
 18456	Battle-Prontera South Gate-First @{1} Monsters	Battle-Prontera South Gate-สัตว์ประหลาด@{1}ตัวแรก
-18457	Guild Activities - Guild League (Grand Finals)	กิจกรรมกิลด์ - ลีกกิลด์ (รอบชิงชนะเลิศ)
+18457	Guild Activities - Guild League (Grand Finals)	กิจกรรม Guild - ลีก Guild (รอบชิงชนะเลิศ)
 18458	Connect Quest - Team Up to Defeat MVP Deviling	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Deviling
 18459	Connect Quest - Team Up to Defeat MVP Orc Hero	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Orc Hero
 18460	Connect Quest - Team Up to Defeat MVP Phreeoni	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Phreeoni
@@ -463,24 +463,24 @@
 18462	Connect Quest - Team Up to Defeat MVP Mistress	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Mistress
 18463	Connect Quest - Team Up to Defeat MVP Baphomet	Connect Quest - รวมทีมเพื่อเอาชนะ MVP Baphomet
 18464	Connect Quest - Team Up to Defeat Normal Drake	Connect Quest - รวมทีมเพื่อเอาชนะ Drake ปกติ
-18465	Connect Quest - Defeat Hard Pharaoh in a Party	Connect Quest - เอาชนะฟาโรห์อย่างหนักในปาร์ตี้
+18465	Connect Quest - Defeat Hard Pharaoh in a Party	Connect Quest - เอาชนะ Pharaoh อย่างหนักในปาร์ตี้
 18466	Connect Quest - Defeat Normal Mirko as a Party	Connect Quest - กำจัด Mirko ปกติในปาร์ตี้
 18467	Craft Red Quality equipment for the first time	Craft Red อุปกรณ์คุณภาพเป็นครั้งแรก
 18468	Tap here again. Don't get annoyed with me, bo~	แตะที่นี่อีกครั้งอย่าใจร้ายกับฉันนะโบ~
 18469	Tap a talent skill from the available choices.	แตะทักษะความสามารถพิเศษจากตัวเลือกที่มี
-18470	Want a Peco Peco Mount of your own? Follow me!	ต้องการ Peco Peco Mount ของคุณเองหรือไม่?ติดตามฉัน!
+18470	Want a Peco Peco Mount of your own? Follow me!	ต้องการ Peco Peco Mount ของคุณเองหรือไม่? ติดตามฉัน!
 18471	Protect the Glorious Metal until time runs out	ปกป้อง Glorious Metal จนกว่าเวลาจะหมด
 18472	Option A^{1}(Insufficient Self-Discipline)^{2}	ตัวเลือก A^{1}(มีวินัยในตนเองไม่เพียงพอ)^{2}
 18473	Option C^{1}(Insufficient Self-Discipline)^{2}	ตัวเลือก C^{1}(มีวินัยในตนเองไม่เพียงพอ)^{2}
 18474	Option D^{1}(Insufficient Self-Discipline)^{2}	ตัวเลือก D^{1}(มีวินัยในตนเองไม่เพียงพอ)^{2}
 18475	In that case, could you show us your staff ID?	ในกรณีนี้ คุณช่วยแสดงรหัสพนักงานของคุณให้เราทราบได้ไหม?
-18476	Drink plenty of Milk if you want to grow tall!	ดื่มนมเยอะๆ ถ้าอยากตัวสูง!
+18476	Drink plenty of Milk if you want to grow tall!	ดื่ม Milk เยอะๆ ถ้าอยากตัวสูง!
 18477	I've decided to Job Advance into a Magic Mage!	ฉันตัดสินใจเลื่อนงานเป็น Magic Mage แล้ว!
 18478	We field researchers go anywhere we can reach.	เรานักวิจัยภาคสนามไปทุกที่ที่เราเอื้อมถึง
-18479	When will I finally become a proper Swordsman?	ในที่สุดฉันก็จะกลายเป็นนักดาบที่เหมาะสมได้เมื่อไหร่?
+18479	When will I finally become a proper Swordsman?	ในที่สุดฉันก็จะกลายเป็น Swordsman ที่เหมาะสมได้เมื่อไหร่?
 18480	This is my first ball. I'm a little nervous...	นี่คือลูกแรกของฉันฉันรู้สึกประหม่าเล็กน้อย...
 18481	Hello. The escort mission isn't available yet.	สวัสดีครับภารกิจคุ้มกันยังไม่พร้อม
-18482	Look! I think there's something on the ground!	ดูสิ!ฉันคิดว่ามีบางอย่างอยู่บนพื้น!
+18482	Look! I think there's something on the ground!	ดูสิ! ฉันคิดว่ามีบางอย่างอยู่บนพื้น!
 18483	Let me show you how to register for the event~	ให้ฉันแสดงวิธีการลงทะเบียนเข้าร่วมงานให้ฉันดู~
 18484	If the current event difficulty is too high...	หากความยากของกิจกรรมปัจจุบันสูงเกินไป...
 18485	This area is inaccessible and cannot be marked	พื้นที่นี้ไม่สามารถเข้าถึงได้และไม่สามารถทำเครื่องหมายได้
@@ -489,20 +489,20 @@
 18488	<color=#FDAB5B>Vigor</color> -${1} (${2}/${3})	<color=#FDAB5B>Vigor</color> -${1} (${2}/${3})
 18489	All objects turn into Porings for @{1} seconds	วัตถุทั้งหมดกลายเป็น Porings เป็นเวลา@{1}วินาที
 18490	Epic Battle (Hard Difficulty), Begin Challenge	Epic Battle (ความยากยาก) เริ่มการท้าทาย
-18491	^{1}【Notice】^{2}Our [Right Ladder] is in place	^{1}【ประกาศ】^{2}[บันไดขวา] ของเราอยู่ในตำแหน่งแล้ว
-18492	^{1}【Notice】^{2}Our [Left Ladder] has appeared	^{1}【ประกาศ】^{2}[บันไดซ้าย] ของเราปรากฏขึ้นแล้ว
+18491	^{1}【Notice】^{2}Our [Right Ladder] is in place	^{1}【Notice】^{2}[Right Ladder] ของเราอยู่ในตำแหน่งแล้ว
+18492	^{1}【Notice】^{2}Our [Left Ladder] has appeared	^{1}【Notice】^{2}[Left Ladder] ของเราปรากฏขึ้นแล้ว
 18493	Enemy ^{1}${1}^{2} destroyed the ^{3}Wall^{4}!	ศัตรู ^{1}${1}^{2}ทำลาย ^{3}Wall^{4}!
-18494	Our Madogear Pilot has entered the battlefield	นักบิน Madogear ของเราได้เข้าสู่สนามรบแล้ว
+18494	Our Madogear Pilot has entered the battlefield	Madogear Pilot ของเราได้เข้าสู่สนามรบแล้ว
 18495	A defensive stone monument has been destroyed!	อนุสาวรีย์หินป้องกันถูกทำลาย!
-18496	Kill the Pharaoh's Coffin as soon as possible!	ฆ่าโลงศพของฟาโรห์โดยเร็วที่สุด!
-18497	I completed my Return Journey[View My Journey]	ฉันเดินทางกลับเสร็จแล้ว[ดูการเดินทางของฉัน]
+18496	Kill the Pharaoh's Coffin as soon as possible!	KillPharaoh's Coffin โดยเร็วที่สุด!
+18497	I completed my Return Journey[View My Journey]	ฉันเดินทางกลับเสร็จแล้ว[View My Journey]
 18498	Player ${1} gave ${2} ${3} ${4} and said: ${5}	ผู้เล่น${1}ให้${2}${3}${4}และพูดว่า:${5}
 18499	${1}'s party has accepted a Basic Supply Cart.	ฝ่ายของ${1}ยอมรับ Basic Supply Cart แล้ว
-18500	Bobo\nThey ran into Eddga! Let's go help them!	Bobo\nพวกมันวิ่งเข้าไปหา Eddga!ไปช่วยพวกเขากันเถอะ!
-18501	Bobo\nHehe, Baphomet isn't so tough after all!	Bobo\nอิอิ Baphomet ก็ไม่ได้แข็งแกร่งขนาดนั้น!
-18502	Bobo\nLook! There's a treasure chest up ahead!	โบโบ\nดูสิ!มีหีบสมบัติอยู่ข้างหน้า!
+18500	Bobo\nThey ran into Eddga! Let's go help them!	Bobo\n พวกมันวิ่งเข้าไปหา Eddga! ไปช่วยพวกเขากันเถอะ!
+18501	Bobo\nHehe, Baphomet isn't so tough after all!	Bobo\n อิอิ Baphomet ก็ไม่ได้แข็งแกร่งขนาดนั้น!
+18502	Bobo\nLook! There's a treasure chest up ahead!	โบโบ\n ดูสิ! มีหีบสมบัติอยู่ข้างหน้า!
 18503	No changes were made to the Pre-purchase plan.	ไม่มีการเปลี่ยนแปลงใดๆ กับแผนการซื้อล่วงหน้า
-18504	Guild Activities - Guild League (Eliminations)	กิจกรรมกิลด์ - ลีกกิลด์ (ตกรอบ)
+18504	Guild Activities - Guild League (Eliminations)	กิจกรรม Guild - ลีก Guild (ตกรอบ)
 18505	Permanently unlocks the Crazy Bunny appearance	ปลดล็อครูปลักษณ์ Crazy Bunny อย่างถาวร
 18506	Permanently unlocks the Angry Snarl appearance	ปลดล็อครูปลักษณ์ Angry Snarl อย่างถาวร
 18507	Permanently unlocks the Poo Poo Hat appearance	ปลดล็อครูปลักษณ์หมวก Poo Poo Hat อย่างถาวร
@@ -520,16 +520,16 @@
 18519	Use to unlock the guild emblem design: Castle.	ใช้เพื่อปลดล็อคการออกแบบสัญลักษณ์กิลด์: ปราสาท
 18520	Use to unlock the guild emblem design: Shield.	ใช้เพื่อปลดล็อคการออกแบบสัญลักษณ์กิลด์: โล่
 18521	A cloak that gives its wearer a menacing aura.	เสื้อคลุมที่มอบออร่าอันน่าหวาดกลัวแก่ผู้สวมใส่
-18522	Military Supplies for the Defense of Prontera.	เสบียงทหารสำหรับการป้องกันพรอนเทรา
+18522	Military Supplies for the Defense of Prontera.	Military Supplies สำหรับการป้องกันพรอนเทรา
 18523	Used exclusively for Collection Book Level-up.	ใช้สำหรับการเลื่อนระดับหนังสือสะสมโดยเฉพาะ
 18524	Used exclusively for Collection Card Level-up.	ใช้สำหรับการอัพเลเวลการ์ดสะสมโดยเฉพาะ
-18525	The Sound of an Arrow Piercing a Wooden Target	เสียงลูกศรเจาะเป้าหมายไม้
+18525	The Sound of an Arrow Piercing a Wooden Target	เสียง Arrow เจาะเป้าหมายไม้
 18526	Equipped Divine Art Totems cannot be combined.	โทเทม Divine Art ที่ติดตั้งไว้ไม่สามารถรวมกันได้
-18527	Test-Seasonal Reward Distribution Rework Chest	หีบแจกรางวัลการทดสอบตามฤดูกาล
+18527	Test-Seasonal Reward Distribution Rework Chest	Test-Seasonal Reward Distribution Rework Chest
 18528	No equipment is currently available to Enchant	ขณะนี้ไม่มีอุปกรณ์สำหรับ Enchant
 18529	I'm still a little short on ${1}. Please help!	ฉันยังขาด${1}นิดหน่อยกรุณาช่วย!
-18530	Golden Boundary-Breaking Scroll·One-Handed-Red	คัมภีร์ทำลายขอบเขตทองคำ·มือเดียว-แดง
-18531	Golden Boundary-Breaking Scroll·Dual-Wield-Red	คัมภีร์ทำลายขอบเขตทองคำ·อาวุธคู่-แดง
+18530	Golden Boundary-Breaking Scroll·One-Handed-Red	Golden Boundary-Breaking Scroll·One-Handed-Red
+18531	Golden Boundary-Breaking Scroll·Dual-Wield-Red	Golden Boundary-Breaking Scroll·Dual-Wield-Red
 18532	This Week's acquisition limit has been reached	ถึงขีดจำกัดการได้มาของสัปดาห์นี้แล้ว
 18533	One or more slots do not meet the requirements	สล็อตตั้งแต่หนึ่งช่องขึ้นไปไม่ตรงตามข้อกำหนด
 18534	Purchase the item for the Fixed price of ${1}?	ซื้อสินค้าในราคาคงที่ของ${1}?
@@ -547,12 +547,12 @@
 18546	This skill is already on the Divine Arts Totem	ทักษะนี้มีอยู่ใน Divine Arts Totem แล้ว
 18547	Cannot use skill while using a Yggdrasil Leaf.	ไม่สามารถใช้ทักษะขณะใช้ Yggdrasil Leaf
 18548	The target player's invitation is on cooldown.	คำเชิญของผู้เล่นเป้าหมายอยู่ในช่วงคูลดาวน์
-18549	The other guild is new and cannot Merge Guild.	กิลด์อื่นเป็นกิลด์ใหม่และไม่สามารถรวมกิลด์ได้
-18550	Guild Auction Supplies have reached the limit.	อุปกรณ์การประมูลกิลด์ถึงขีดจำกัดแล้ว
+18549	The other guild is new and cannot Merge Guild.	Guild อื่นเป็น Guild ใหม่และไม่สามารถรวม Guild ได้
+18550	Guild Auction Supplies have reached the limit.	อุปกรณ์การประมูล Guild ถึงขีดจำกัดแล้ว
 18551	Faction cannot be changed manually on this map	ด้วยตนเองบนแผนที่นี้ได้
 18552	A party Member is under a matchmaking penalty.	สมาชิกปาร์ตี้อยู่ภายใต้การลงโทษในการจับคู่
 18553	This item type cannot be placed on the hotbar.	ไม่สามารถวางไอเท็มประเภทนี้บนฮอตบาร์ได้
-18554	The Party Leader must open the party instance.	หัวหน้าปาร์ตี้จะต้องเปิดอินสแตนซ์ปาร์ตี้
+18554	The Party Leader must open the party instance.	Party Leader จะต้องเปิดอินสแตนซ์ปาร์ตี้
 18555	Your Management Permissions have been revoked.	สิทธิ์การจัดการของคุณถูกเพิกถอนแล้ว
 18556	The party name does not meet the requirements.	ชื่อปาร์ตี้ไม่ตรงตามข้อกำหนด
 18557	Increases Poison damage dealt by ^{1}${1}%^{2}	เพิ่มความเสียหายจากพิษที่ทำได้ ^{1}${1}%^{2}
@@ -562,14 +562,14 @@
 18561	Increases Poison damage dealt by ^{1}${5}%^{2}	เพิ่มความเสียหายจากพิษที่ทำได้ ^{1}${5}%^{2}
 18562	The Luxury Dragon quest is already in progress	ภารกิจ Luxury Dragon กำลังดำเนินการอยู่
 18563	NPC Interaction is not available on this date.	การโต้ตอบ NPC ไม่สามารถใช้ได้ในวันที่นี้
-18564	Not enough Credit Points to make this purchase	คะแนนเครดิตไม่เพียงพอในการซื้อครั้งนี้
+18564	Not enough Credit Points to make this purchase	Credit Points ไม่เพียงพอในการซื้อครั้งนี้
 18565	Item-based Revive is not allowed in this area.	Item-based Revive ไม่ได้รับอนุญาตในพื้นที่นี้
 18566	The guild name does not meet the requirements.	ชื่อกิลด์ไม่ตรงตามข้อกำหนด
 18567	The application does not exist or has expired.	แอปพลิเคชันไม่มีอยู่หรือหมดอายุแล้ว
 18568	Cannot start matchmaking while in an instance.	ไม่สามารถเริ่มการค้นหาแมตช์ขณะอยู่ในอินสแตนซ์
 18569	Teammate ${1} rescued you at the Revive Altar.	เพื่อนร่วมทีม${1}ช่วยเหลือคุณที่ Revive Altar
 18570	You cannot use skills or move during a rescue.	คุณไม่สามารถใช้ทักษะหรือเคลื่อนไหวในระหว่างการช่วยเหลือได้
-18571	You're switching too quickly! I can't keep up!	คุณเปลี่ยนเร็วเกินไป!ฉันตามไม่ทัน!
+18571	You're switching too quickly! I can't keep up!	คุณเปลี่ยนเร็วเกินไป! ฉันตามไม่ทัน!
 18572	You cannot edit skills while in Battle Status.	คุณไม่สามารถแก้ไขทักษะได้ในขณะที่อยู่ในสถานะการต่อสู้
 18573	Physical DEF and Magic DEF increased by @{1}%.	DEF กายภาพและ DEF เวทมนตร์เพิ่มขึ้น@{1}%
 18574	This item is used in a preset. Sell it anyway?	รายการนี้ใช้ในการตั้งค่าล่วงหน้าขายต่อมั้ย?
@@ -578,15 +578,15 @@
 18577	Current DPS Record <color=#c27b47>${1}</color>	Current DPS Record <color=#c27b47>${1}</color>
 18578	Increases melee damage dealt by ^{1}${1}%^{2}.	เพิ่มความเสียหายระยะประชิดที่ทำได้โดย ^{1}${1}%^{2}
 18579	Increases magic damage dealt by ^{1}${1}%^{2}.	เพิ่มความเสียหายทางเวทย์มนตร์ที่เกิดขึ้น ^{1}${1}%^{2}
-18580	Only the Party Leader can perform this action.	มีเพียงหัวหน้าปาร์ตี้เท่านั้นที่สามารถดำเนินการนี้ได้
+18580	Only the Party Leader can perform this action.	มีเพียง Party Leader เท่านั้นที่สามารถดำเนินการนี้ได้
 18581	The treasure chest is nearby. Search the area!	หีบสมบัติอยู่ใกล้ๆค้นหาพื้นที่!
-18582	I'm summoning a giant dragon! Come help me!${1}	ฉันกำลังอัญเชิญมังกรยักษ์!มาช่วยฉันสิ!${1}
+18582	I'm summoning a giant dragon! Come help me!${1}	ฉันกำลังอัญเชิญมังกรยักษ์! มาช่วยฉันสิ!${1}
 18583	Defeat nearby Porings and collect Sticky Mucus.	กำจัด Porings ที่อยู่ใกล้เคียงและรวบรวม Sticky Mucus
-18584	Keep leveling up and become a great Adventurer!	เพิ่มเลเวลและกลายเป็นนักผจญภัยผู้ยิ่งใหญ่!
+18584	Keep leveling up and become a great Adventurer!	เพิ่มเลเวลและกลายเป็น Adventurer ผู้ยิ่งใหญ่!
 18585	Take the Pathfinder Ant and return to Ant Hell.	นำ Pathfinder Ant และกลับสู่ Ant Hell
 18586	Ki explains how the Garden of Chronology works.	Ki อธิบายวิธีการทำงานของ Garden of Chronology
-18587	Ask the Soldiers about the Relic's whereabouts.	ถามทหารเกี่ยวกับที่อยู่ของโบราณวัตถุ
-18588	Deliver the Bunny Hair Band to Baya with Allen.	มอบผ้าคาดผมกระต่ายให้บาย่ากับอัลเลน
+18587	Ask the Soldiers about the Relic's whereabouts.	ถาม Soldiers เกี่ยวกับที่อยู่ของโบราณวัตถุ
+18588	Deliver the Bunny Hair Band to Baya with Allen.	มอบผ้าคาดผมกระต่ายให้บาย่ากับ Allen
 18589	Report your collection progress to Granny Gwen.	รายงานความคืบหน้าในการเก็บรวบรวมของคุณไปยัง Granny Gwen
 18590	Drop Test @{1}-Personal Limit-Limit Replacement	การทดสอบการตก@{1}- การเปลี่ยนขีดจำกัดขีดจำกัดส่วนบุคคล
 18591	Beginner Tutorial-Card: Poring-@{1}-Time Reward	การ์ดฝึกหัดสำหรับผู้เริ่มต้น: Poring-@{1}-รางวัลเวลา
@@ -612,13 +612,13 @@
 18611	This note is already lit. No need to try again.	บันทึกย่อนี้สว่างขึ้นแล้วไม่จำเป็นต้องลองอีกครั้ง
 18612	Find the attendant and have your ticket checked	ค้นหาผู้ดูแลและตรวจสอบตั๋วของคุณ
 18613	Ask your companions about the current situation	ถามเพื่อนของคุณเกี่ยวกับสถานการณ์ปัจจุบัน
-18614	Help the Adventurers exterminate the Chonchons*	ช่วยนักผจญภัยกำจัด Chonchons*
-18615	Search the Ant Hell for Traces of the Professor	ค้นหามดนรกเพื่อหาร่องรอยของศาสตราจารย์
+18614	Help the Adventurers exterminate the Chonchons*	ช่วย Adventurers กำจัด Chonchons*
+18615	Search the Ant Hell for Traces of the Professor	ค้นหา Ant Hell เพื่อหาร่องรอยของ Professor
 18616	Step aside and hear what Bobo wants to tell You	หลีกทางและฟังสิ่งที่ Bobo ต้องการบอกคุณ
 18617	Defeat the Tarou ahead that are scaring Fervor*	เอาชนะ Tarou ที่อยู่ข้างหน้าซึ่งทำให้ Fervor หวาดกลัว*
 18618	No points have been allocated. Unable to reset.	ไม่มีการจัดสรรคะแนนไม่สามารถรีเซ็ตได้
 18619	Item removed successfully. Check your Backpack.	ลบรายการเรียบร้อยแล้วตรวจสอบกระเป๋าเป้สะพายหลังของคุณ
-18620	I Discover a great item! Come check it out!${1}	I ค้นพบไอเท็มเด็ด!มาตรวจสอบออก!${1}
+18620	I Discover a great item! Come check it out!${1}	I ค้นพบไอเท็มเด็ด! มาตรวจสอบออก!${1}
 18621	Filter Star Cores in your Backpack by slot type	กรอง Star Cores ในกระเป๋าเป้ของคุณตามประเภทช่อง
 18622	Crafting has a @{1}% Chance to consume no Vigor	Crafting มี@{1}% โอกาสที่จะไม่ใช้ Vigor
 18623	Confirm whether to transfer Party Leader status	ยืนยันว่าจะโอนสถานะ Party Leader หรือไม่
@@ -629,15 +629,15 @@
 18628	Are you sure you want to dismantle 【${1}】 Camp?	คุณแน่ใจหรือว่าต้องการรื้อค่าย 【${1}】?
 18629	Final Bidding - May end at any time within ${1}	การประมูลครั้งสุดท้าย - อาจสิ้นสุดเมื่อใดก็ได้ภายใน${1}
 18630	The guild name is invalid. Please enter another	ชื่อกิลด์ไม่ถูกต้องกรุณากรอกรายการอื่น
-18631	Pet Protection Effect Triggered - Crowd Control	เอฟเฟกต์การปกป้องสัตว์เลี้ยงถูกกระตุ้น - การควบคุมฝูงชน
+18631	Pet Protection Effect Triggered - Crowd Control	เอฟเฟกต์การปกป้องสัตว์เลี้ยงถูกกระตุ้น - การ Control ฝูงชน
 18632	Reach Friendship Lv. ${2} with any ${1} friends	เข้าถึงระดับมิตรภาพ${2}กับเพื่อน${1}คนใดก็ได้
-18633	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra PATK +${1}.	^{1}^{2}【โกลาหลอย่างบ้าคลั่ง】^{3}^{4}PATK พิเศษ +${1}.
+18633	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra PATK +${1}.	^{1}^{2}【Crazy Uproar】^{3}^{4}PATK พิเศษ +${1}.
 18634	Your vision is currently impaired by squid ink.	ขณะนี้การมองเห็นของคุณบกพร่องเนื่องจากหมึกปลาหมึก
-18635	Novice, select a statue to confirm your gender.	สามเณร เลือกรูปปั้นเพื่อยืนยันเพศของคุณ
+18635	Novice, select a statue to confirm your gender.	Novice เลือกรูปปั้นเพื่อยืนยันเพศของคุณ
 18636	Claim all rewards to advance to the final rank.	รับรางวัลทั้งหมดเพื่อเลื่อนไปสู่อันดับสุดท้าย
 18637	Allows use of ^{1}^{2}Envenom Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Envenom Lv.@{1}^{3}^{4}
 18638	Physical ATK +@{1} for each skill on this Totem	พลังโจมตีกายภาพ +@{1}สำหรับแต่ละทักษะบน Totem นี้
-18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม ATK ทางกายภาพตาม 【Lv.ตัวละคร*${1}】
+18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม ATK ทางกายภาพตาม 【Lv. ตัวละคร*${1}】
 18640	Increases Physical DEF by 【Character Lv.*${1}】.	เพิ่ม DEF กายภาพตาม 【ตัวละคร Lv.*${1}】
 18641	Notification Phase@{1} - Campfire Raffle Begins	Notification Phase@{1}- Campfire Raffle Begins
 18642	When the event begins, create the basic brazier	เมื่อกิจกรรมเริ่มต้น ให้สร้างเตาอั้งโล่พื้นฐาน
@@ -645,8 +645,8 @@
 18644	Participate in one Ilmata, God of Nature event.	เข้าร่วมในกิจกรรมอิลมาตา เทพเจ้าแห่งธรรมชาติ
 18645	Channel One <color=#FF993F>${1} Members</color>	ช่องหนึ่ง<color=#FF993F>${1}สมาชิก</color>
 18646	Channel Two <color=#FF993F>${1} Members</color>	ช่องสอง<color=#FF993F>สมาชิก${1}</color>
-18647	Watch out! Strouf's trident has grown stronger!	ระวัง!ตรีศูลของ Strouf แข็งแกร่งขึ้น!
-18648	Magic Circle_Advanced Cross Exorciser Attack BD	Magic Circle_ขั้นสูง Cross Exorciser Attack BD
+18647	Watch out! Strouf's trident has grown stronger!	ระวัง! ตรีศูลของ Strouf แข็งแกร่งขึ้น!
+18648	Magic Circle_Advanced Cross Exorciser Attack BD	Magic Circle_Advanced Cross Exorciser Attack BD
 18649	This Quick Challenge can clear up to Floor ${1}	การท้าทายด่วนนี้สามารถเคลียร์ได้ถึงชั้น${1}
 18650	This little airplane looks a bit old-fashioned.	เครื่องบินลำเล็กๆ นี้ดูเชยไปสักหน่อย
 18651	Only records from this Trade session are saved.	บันทึกจากเซสชันการค้านี้เท่านั้นที่จะถูกบันทึก
@@ -670,25 +670,25 @@
 18669	Upgrade a Card to @{1} stars for the first time	อัปเกรดการ์ดเป็นดาว@{1}เป็นครั้งแรก
 18670	You can't go wrong with this recommended build.	ไม่ผิดกับรุ่นที่แนะนำนี้
 18671	Deploy more pets to increase your combat power!	ส่งสัตว์เลี้ยงเพิ่มเพื่อเพิ่มพลังการต่อสู้ของคุณ!
-18672	Come on! I'll show you how to equip a card, bo!	เอาน่า!ฉันจะแสดงวิธีใส่การ์ดให้ดูนะโบ!
-18673	Time to start hatching! Choose an egg you like!	ได้เวลาเริ่มฟักไข่แล้ว!เลือกไข่ที่คุณชอบ!
-18674	Learn it! Once you do, you'll gain a new skill!	เรียนรู้มัน!เมื่อคุณทำเสร็จแล้ว คุณจะได้รับทักษะใหม่!
+18672	Come on! I'll show you how to equip a card, bo!	เอาน่า! ฉันจะแสดงวิธีใส่การ์ดให้ดูนะโบ!
+18673	Time to start hatching! Choose an egg you like!	ได้เวลาเริ่มฟักไข่แล้ว! เลือกไข่ที่คุณชอบ!
+18674	Learn it! Once you do, you'll gain a new skill!	เรียนรู้มัน! เมื่อคุณทำเสร็จแล้ว คุณจะได้รับทักษะใหม่!
 18675	Let's start by selecting our familiar Prontera.	เริ่มต้นด้วยการเลือก Prontera ที่เราคุ้นเคยกันดี
-18676	Want a Falcon companion of your own? Follow me!	ต้องการคู่หูเหยี่ยวของคุณเองหรือไม่?ติดตามฉัน!
+18676	Want a Falcon companion of your own? Follow me!	ต้องการคู่หูเหยี่ยวของคุณเองหรือไม่? ติดตามฉัน!
 18677	Let's take a look at the crafting instructions.	มาดูคำแนะนำในการประดิษฐ์กันดีกว่า
-18678	Whoa! Could it be a ghost?! So scary, so scary~	อ้าว!อาจจะเป็นผีก็ได้!น่ากลัวจังเลย น่ากลัวจังเลย~
+18678	Whoa! Could it be a ghost?! So scary, so scary~	อ้าว! อาจจะเป็นผีก็ได้! น่ากลัวจังเลย น่ากลัวจังเลย~
 18679	(His face turns purple) Y-you... Remember this!	(หน้าเปลี่ยนเป็นสีม่วง) ญ-คุณ... จำไว้!
-18680	Heh heh heh~ Hm? Want to know why I'm so happy?	หึ หึ หึ~ หืม?อยากรู้ว่าทำไมฉันถึงมีความสุขมาก?
-18681	What are you looking at? Huh? Is my name funny?	มองอะไรอยู่?ฮะ?ชื่อของฉันตลกไหม?
+18680	Heh heh heh~ Hm? Want to know why I'm so happy?	หึ หึ หึ~ หืม? อยากรู้ว่าทำไมฉันถึงมีความสุขมาก?
+18681	What are you looking at? Huh? Is my name funny?	มองอะไรอยู่? ฮะ? ชื่อของฉันตลกไหม?
 18682	Complete all objectives in the ${1} stage first	บรรลุวัตถุประสงค์ทั้งหมดในระยะ${1}ก่อน
 18683	Thank You for delivering the Military Supplies!	ขอบคุณสำหรับการส่งมอบเสบียงทางการทหาร!
-18684	Hello, Adventurer. Is there something you need?	สวัสดีนักผจญภัยมีอะไรที่คุณต้องการไหม?
-18685	Woof! Woof, woof, woof, woof! Woof, woof, woof!	โฮ่ง!วูฟ วูฟ วูฟ วูฟ!วูฟ วูฟ วูฟ!
+18684	Hello, Adventurer. Is there something you need?	สวัสดี Adventurer มีอะไรที่คุณต้องการไหม?
+18685	Woof! Woof, woof, woof, woof! Woof, woof, woof!	โฮ่ง! วูฟ วูฟ วูฟ วูฟ! วูฟ วูฟ วูฟ!
 18686	What's causing the Monsters' unusual agitation?	อะไรทำให้เกิดความปั่นป่วนผิดปกติของเหล่าสัตว์ประหลาด?
 18687	Successfully dismantled ${1} and obtained ${2}.	ถอดประกอบ${1}สำเร็จและได้รับ${2}
 18688	Stop the monsters from breaking the Dragon Seal	หยุดมอนสเตอร์ไม่ให้ทำลาย Dragon Seal
-18689	^{1}【Notice】^{2}Our [Right Ladder] has appeared	^{1}【ประกาศ】^{2}[บันไดขวา] ของเราปรากฏตัวแล้ว
-18690	You're asking for trouble! Roar, roar, roar~~~!	คุณกำลังถามถึงปัญหา!กรี๊ด กรี๊ด กรี๊ด~~~!
+18689	^{1}【Notice】^{2}Our [Right Ladder] has appeared	^{1}【Notice】^{2}[Right Ladder] ของเราปรากฏตัวแล้ว
+18690	You're asking for trouble! Roar, roar, roar~~~!	คุณกำลังถามถึงปัญหา! กรี๊ด กรี๊ด กรี๊ด~~~!
 18691	Could it be the Desert Eagle? Just our “luck.”.	อาจจะเป็น Desert Eagle หรือเปล่า?“โชค” ของเราเท่านั้น
 18692	Hurry and search the nearby bushes for the key!	รีบค้นหากุญแจที่พุ่มไม้ใกล้ๆ สิ!
 18693	The Demonic Dragon will appear in ${1} seconds!	มังกรปีศาจจะปรากฏตัวใน${1}วินาที!
@@ -696,37 +696,37 @@
 18695	^{1}${3}^{2}'s ^{3}${2}^{4} delivered the flag!	^{1}${3}^{2}'s ^{3}${2}^{4}มอบธงแล้ว!
 18696	${1} changed ${2}'s position from ${3} to ${4}.	${1}เปลี่ยนตำแหน่งของ${2}จาก${3}เป็น${4}
 18697	${1} successfully escorted a Basic Supply Cart!	${1}คุ้มกัน Basic Supply Cart สำเร็จแล้ว!
-18698	The ${1} Guild has completed its supply escort!	กิลด์${1}ได้คุ้มกันเสบียงเรียบร้อยแล้ว!
-18699	We actually defeated Eddga! I can't believe it!	เราเอาชนะ Eddga ได้จริงๆ!ฉันไม่อยากจะเชื่อเลย!
-18700	Louis\nDarn, you got it right again! I give up.	Louis\nไอ้บ้า คุณทำถูกอีกแล้ว!ฉันยอมแพ้.
+18698	The ${1} Guild has completed its supply escort!	Guild${1}ได้คุ้มกันเสบียงเรียบร้อยแล้ว!
+18699	We actually defeated Eddga! I can't believe it!	เราเอาชนะ Eddga ได้จริงๆ! ฉันไม่อยากจะเชื่อเลย!
+18700	Louis\nDarn, you got it right again! I give up.	Louis\n ไอ้บ้า คุณทำถูกอีกแล้ว! ฉันยอมแพ้.
 18701	Ah! Why did it suddenly run off? Could it be...	อ่า! ทำไมจู่ๆ มันถึงวิ่งออกไปล่ะ? มันอาจจะ...
 18702	This slot has an advanced attribute. Reroll it?	สล็อตนี้มีแอตทริบิวต์ขั้นสูงทำซ้ำมัน?
 18703	Reach Refine Level @{1} for all equipment slots	เข้าถึงระดับการปรับแต่ง@{1}สำหรับช่องอุปกรณ์ทั้งหมด
 18704	Craft @{1} Tier @{2} Purple Quality Accessories	Craft@{1}Tier@{2}อุปกรณ์เสริมคุณภาพสีม่วง
-18705	Say hello to the Soldier in Prontera for Dumby.	ทักทายทหารใน Prontera for Dumby
-18706	Have the team Kill a total of @{1} participants	ให้ทีมฆ่าผู้เข้าร่วม@{1}ทั้งหมด
-18707	Activate the Kitty Tail Appearance (Permanent).	เปิดใช้งานลักษณะที่ปรากฏของหางคิตตี้ (ถาวร)
+18705	Say hello to the Soldier in Prontera for Dumby.	ทักทาย Soldier ใน Prontera for Dumby
+18706	Have the team Kill a total of @{1} participants	ให้ทีม Kill ผู้เข้าร่วม@{1}ทั้งหมด
+18707	Activate the Kitty Tail Appearance (Permanent).	เปิดใช้งานลักษณะที่ปรากฏของ Kitty Tail (ถาวร)
 18708	Permanently unlocks the Grand Voyage appearance	ปลดล็อครูปลักษณ์ Grand Voyage อย่างถาวร
 18709	Permanently unlocks the Lucky Clover appearance	ปลดล็อครูปลักษณ์ Lucky Clover อย่างถาวร
-18710	Permanently unlocks the Smiling Mask appearance	ปลดล็อครูปลักษณ์หน้ากากยิ้มอย่างถาวร
+18710	Permanently unlocks the Smiling Mask appearance	ปลดล็อครูปลักษณ์ Smiling Mask อย่างถาวร
 18711	Permanently unlocks the Drooping Cat appearance	ปลดล็อครูปลักษณ์ Drooping Cat อย่างถาวร
 18712	permanently unlocks the Chicken Beak appearance	ปลดล็อครูปลักษณ์ของ Chicken Beak อย่างถาวร
 18713	Mount · Solar Chariot can be unlocked upon use.	Mount · Solar Chariot สามารถปลดล็อคได้เมื่อใช้งาน
 18714	Grants one random Refinement Blessing material.	สุ่มมอบวัตถุดิบ Refinement Blessing หนึ่งชิ้น
 18715	Grants a chance to obtain a green-quality Card.	ให้โอกาสได้รับการ์ดคุณภาพสีเขียว
-18716	(Special Blessing) Activate to view its effects	(พรพิเศษ) เปิดใช้งานเพื่อดูเอฟเฟกต์
-18717	An empty bottle. Can be exchanged for Headwear.	ขวดเปล่า.สามารถเปลี่ยนเป็น Headwear ได้
+18716	(Special Blessing) Activate to view its effects	(Blessing พิเศษ) เปิดใช้งานเพื่อดูเอฟเฟกต์
+18717	An empty bottle. Can be exchanged for Headwear.	ขวดเปล่า. สามารถเปลี่ยนเป็น Headwear ได้
 18718	Thanks to ${1}, Overture II rings out once more	ต้องขอบคุณ${1}ที่ทำให้ Overture II ดังขึ้นอีกครั้ง
 18719	Unable to Level-up under the current conditions	ไม่สามารถเพิ่มเลเวลได้ภายใต้สภาวะปัจจุบัน
 18720	Its curved blade resembles a bolt of lightning.	ใบมีดโค้งมีลักษณะคล้ายสายฟ้า
-18721	A Spear made from the horn of a sacred unicorn.	หอกที่ทำจากเขาของยูนิคอร์นศักดิ์สิทธิ์
+18721	A Spear made from the horn of a sacred unicorn.	Spear ที่ทำจากเขาของยูนิคอร์นศักดิ์สิทธิ์
 18722	Please select two Divine Art Totems to combine.	โปรดเลือก Divine Art Totem สองอันเพื่อรวมเข้าด้วยกัน
 18723	Deals steady Physical damage with cart attacks.	สร้างความเสียหายทางกายภาพอย่างต่อเนื่องด้วยการโจมตีด้วยรถเข็น
 18724	Sustained high-speed damage and AoE suppression	สร้างความเสียหายความเร็วสูงอย่างต่อเนื่องและการปราบปราม AoE
-18725	Emerald Boundary-Breaking Scroll·One-Handed-Red	คัมภีร์ทำลายขอบเขตมรกต·มือเดียวสีแดง
-18726	Crimson Boundary-Breaking Scroll·One-Handed-Red	คัมภีร์ทำลายขอบเขตสีแดงเข้ม·มือเดียวสีแดง
-18727	Emerald Boundary-Breaking Scroll·Dual-Wield-Red	Emerald Boundary-Breaking Scroll·ดาบคู่-แดง
-18728	Crimson Boundary-Breaking Scroll·Dual-Wield-Red	Crimson Boundary-Breaking Scroll·ดาบคู่-แดง
+18725	Emerald Boundary-Breaking Scroll·One-Handed-Red	Emerald Boundary-Breaking Scroll·One-Handed-Red
+18726	Crimson Boundary-Breaking Scroll·One-Handed-Red	Crimson Boundary-Breaking Scroll·One-Handed-Red
+18727	Emerald Boundary-Breaking Scroll·Dual-Wield-Red	Emerald Boundary-Breaking Scroll·Dual-Wield-Red
+18728	Crimson Boundary-Breaking Scroll·Dual-Wield-Red	Crimson Boundary-Breaking Scroll·Dual-Wield-Red
 18729	Offline idle stage progress requirement not met	ไม่เป็นไปตามข้อกำหนดความคืบหน้าของระยะไม่ได้ใช้งานออฟไลน์
 18730	Not enough high-multiplier Description consumed	คำอธิบายตัวคูณสูงไม่เพียงพอที่ใช้ไป
 18731	Refinement slot activation requirements not met	ไม่เป็นไปตามข้อกำหนดการเปิดใช้งานสล็อตการปรับแต่ง
@@ -742,13 +742,13 @@
 18741	You cannot purchase items from another warzone.	คุณไม่สามารถซื้อสินค้าจากเขตสงครามอื่นได้
 18742	The listing price is outside the allowed range.	ราคาประกาศอยู่นอกช่วงที่อนุญาต
 18743	Rallies cannot be accepted in the current area.	Rally ไม่สามารถยอมรับได้ในพื้นที่ปัจจุบัน
-18744	Reward claimed for this Adventurer Group level.	รับรางวัลสำหรับกลุ่มนักผจญภัยระดับนี้
-18745	The Adventurer Group invitation does not exist.	ไม่มีคำเชิญกลุ่มนักผจญภัย
-18746	Adventurer Group Group Chat cannot be modified.	ไม่สามารถแก้ไขการสนทนากลุ่มกลุ่มนักผจญภัยได้
+18744	Reward claimed for this Adventurer Group level.	รับรางวัลสำหรับกลุ่ม Adventurer ระดับนี้
+18745	The Adventurer Group invitation does not exist.	ไม่มีคำเชิญกลุ่ม Adventurer
+18746	Adventurer Group Group Chat cannot be modified.	ไม่สามารถแก้ไขการสนทนากลุ่มกลุ่ม Adventurer ได้
 18747	The mail content does not meet the requirements	เนื้อหาเมลไม่ตรงตามข้อกำหนด
 18748	Unstuck cannot be used in the current Location.	Unstuck ไม่สามารถใช้ในตำแหน่งปัจจุบันได้
-18749	Insufficient items for Statue Blessing Level-up	ไอเท็มไม่เพียงพอสำหรับการเพิ่มเลเวลการอวยพรรูปปั้น
-18750	Only the Party Leader can accept a supply wagon	มีเพียงหัวหน้าปาร์ตี้เท่านั้นที่สามารถรับเสบียงเกวียนได้
+18749	Insufficient items for Statue Blessing Level-up	ไอเท็มไม่เพียงพอสำหรับการเพิ่มเลเวลการอวย Blessing รูปปั้น
+18750	Only the Party Leader can accept a supply wagon	มีเพียง Party Leader เท่านั้นที่สามารถรับเสบียงเกวียนได้
 18751	Destination area not found during teleportation	ไม่พบพื้นที่ปลายทางระหว่างการเทเลพอร์ต
 18752	This build does not belong to the selected job.	โครงสร้างนี้ไม่ได้เป็นของงานที่เลือก
 18753	Cannot leave the vehicle while casting a skill.	ไม่สามารถออกจากยานพาหนะได้ขณะร่ายสกิล
@@ -759,19 +759,19 @@
 18758	Good. Looks like you've changed your equipment.	ดีดูเหมือนว่าคุณได้เปลี่ยนอุปกรณ์ของคุณ
 18759	(Voice recordings can be up to 15 seconds long)	(การบันทึกเสียงสามารถมีความยาวได้สูงสุด 15 วินาที)
 18760	Increases 【Basic Attack】 skill damage by ${1}%.	เพิ่มความเสียหายของทักษะ 【Basic Attack】 เป็น${1}%
-18761	You must be in a party to enter Party Training.	คุณต้องอยู่ในปาร์ตี้จึงจะเข้าร่วม Party Trainingได้
+18761	You must be in a party to enter Party Training.	คุณต้องอยู่ในปาร์ตี้จึงจะเข้าร่วม Party Training ได้
 18762	Player behavior after the opening movement ends	พฤติกรรมของผู้เล่นหลังจากการเคลื่อนไหวการเปิดสิ้นสุดลง
 18763	You have been removed from the Adventure Group.	คุณถูกลบออกจากกลุ่มการผจญภัยแล้ว
 18764	Waiting for player ${1} to accept the invitation	กำลังรอให้ผู้เล่น${1}ตอบรับคำเชิญ
 18765	Celebrate the arrival of the Starshatter Dragon!	เฉลิมฉลองการมาถึงของ Starshatter Dragon!
-18766	Help the Adventurers Defeat the Golden Thief Bug	ช่วยนักผจญภัยกำจัดแมลงจอมโจรสีทอง
+18766	Help the Adventurers Defeat the Golden Thief Bug	ช่วย Adventurers กำจัดแมลงจอมโจรสีทอง
 18767	Queuing for the new Season. Waiting for results.	เข้าคิวสำหรับฤดูกาลใหม่รอผลครับ.
 18768	Activate @{1} Faction effects with deployed pets	เปิดใช้งานเอฟเฟกต์ฝ่าย@{1}กับสัตว์เลี้ยงที่ปรับใช้
 18769	Complete the Main Quest: Fight Porings Every Day	สำเร็จภารกิจหลัก: ต่อสู้กับ Porings ทุกวัน
-18770	[Reserved] Claim offline idle rewards @{1} times	[สงวนไว้] รับรางวัลที่ไม่ได้ใช้งานออฟไลน์@{1}ครั้ง
+18770	[Reserved] Claim offline idle rewards @{1} times	[Reserved] รับรางวัลที่ไม่ได้ใช้งานออฟไลน์@{1}ครั้ง
 18771	Raise the weapon slot's Refine Level to Lv. @{1}	เพิ่มระดับ Refine ของช่องอาวุธเป็น Lv.@{1}
-18772	Obtain high-quality Sticky Mucus from the trees.	รับเมือกเหนียวคุณภาพสูงจากต้นไม้
-18773	Take the cargo to the Professor and report back.	นำสินค้าไปให้ศาสตราจารย์แล้วรายงานกลับ
+18772	Obtain high-quality Sticky Mucus from the trees.	รับ Sticky Mucus คุณภาพสูงจากต้นไม้
+18773	Take the cargo to the Professor and report back.	นำสินค้าไปให้ Professor แล้วรายงานกลับ
 18774	Wait for the Rocker to appear in Southern Payon.	รอให้ Rocker ปรากฏตัวใน Southern Payon
 18775	Complete the following objectives to earn points	ทำวัตถุประสงค์ต่อไปนี้ให้สำเร็จเพื่อรับคะแนน
 18776	Participate in the Guild Nature God Ilmata event	เข้าร่วมในกิจกรรม Guild Nature God Ilmata
@@ -780,7 +780,7 @@
 18779	Form a party and defeat Mirko in the Final Trial	จัดปาร์ตี้และเอาชนะ Mirko ในการทดสอบครั้งสุดท้าย
 18780	Defeat @{1} Porings to prove your combat prowess	เอาชนะ@{1}Porings เพื่อพิสูจน์ความกล้าหาญในการต่อสู้ของคุณ
 18781	Give the egg to Boya and Complete the Commission	มอบไข่ให้ Boya และทำภารกิจให้สำเร็จ
-18782	Rescue the Party Leader and the mysterious woman	ช่วยเหลือหัวหน้าปาร์ตี้และหญิงสาวลึกลับ
+18782	Rescue the Party Leader and the mysterious woman	ช่วยเหลือ Party Leader และหญิงสาวลึกลับ
 18783	Affects critical damage taken from Damage Skills	ส่งผลต่อความเสียหายคริติคอลที่ได้รับจากทักษะความเสียหาย
 18784	Affects damage taken from Physical Damage Skills	ส่งผลต่อความเสียหายที่ได้รับจากทักษะความเสียหายกายภาพ
 18785	Increases magic recovery from your items by ${1}	เพิ่มการฟื้นฟูเวทย์มนตร์จากไอเท็มของคุณโดย${1}
@@ -788,30 +788,30 @@
 18787	Affects your damage taken from non-Boss monsters	ส่งผลต่อความเสียหายที่ได้รับจากมอนสเตอร์ที่ไม่ใช่บอส
 18788	Reduces damage you take from the target by ${1}%	ลดความเสียหายที่คุณได้รับจากเป้าหมายลง${1}%
 18789	Destroy the Glorious Metal and seize the castle!	ทำลาย Glorious Metal และยึดปราสาท!
-18790	Talk to Luna to perform the opening dance again.	คุยกับลูน่าเพื่อเต้นเปิดอีกครั้ง
+18790	Talk to Luna to perform the opening dance again.	คุยกับ Luna เพื่อเต้นเปิดอีกครั้ง
 18791	Royal Capital Occupation Settlement Notification	ประกาศข้อตกลงการยึดครองอาชีพหลวง
 18792	Collection Progress: <color=#63a22b>${1}</color>	:<color=#63a22b>${1}</color>
 18793	Estimated Wait Time: <color=#63A22B>${1}</color>	Estimated Wait Time: <color=#63A22B>${1}</color>
 18794	Your party has obtained a supply transport cart.	กลุ่มของคุณได้รับรถเข็นสำหรับขนส่งเสบียงแล้ว
-18795	Ask the Adventurer about Traces of the Professor	ถามนักผจญภัยเกี่ยวกับร่องรอยของศาสตราจารย์
-18796	Talk to the Head Job Advance Mentor about skills	พูดคุยกับหัวหน้าที่ปรึกษางานล่วงหน้าเกี่ยวกับทักษะ
+18795	Ask the Adventurer about Traces of the Professor	ถาม Adventurer เกี่ยวกับร่องรอยของ Professor
+18796	Talk to the Head Job Advance Mentor about skills	Talk กับหัวหน้าที่ปรึกษางานล่วงหน้าเกี่ยวกับทักษะ
 18797	No stat points have been allocated. Exit anyway?	ไม่มีการจัดสรรคะแนนสถิติออกหรือยัง?
 18798	Thanks for being here. I'll give it my all, too!	ขอบคุณที่มาอยู่ที่นี่ฉันจะให้มันทั้งหมดของฉันด้วย!
 18799	Client update complete. Please restart the game.	เสร็จสมบูรณ์ กรุณารีสตาร์ทเกม
 18800	${1} pieces of equipment reach Refine Level ${2}	ชิ้นส่วนของอุปกรณ์${1}ถึงระดับการปรับแต่ง${2}
 18801	Enhancement in progress. Please try again later.	อยู่ระหว่างการปรับปรุงโปรดลองอีกครั้งในภายหลัง
-18802	Invite to Guild/Banish from Guild/Apply to Guild	เชิญเข้ากิลด์/เนรเทศออกจากกิลด์/สมัครเข้ากิลด์
+18802	Invite to Guild/Banish from Guild/Apply to Guild	เชิญเข้า Guild/เนรเทศออกจาก Guild/สมัครเข้า Guild
 18803	All 【Output Tag】 skills produce @{1} Extra items	ทักษะ 【Output Tag】 ทั้งหมดจะสร้างไอเท็มพิเศษ@{1}
-18804	Only the Party Leader can change the party name.	มีเพียงหัวหน้าปาร์ตี้เท่านั้นที่สามารถเปลี่ยนชื่อปาร์ตี้ได้
+18804	Only the Party Leader can change the party name.	มีเพียง Party Leader เท่านั้นที่สามารถเปลี่ยนชื่อปาร์ตี้ได้
 18805	Players cannot be removed from the party in Misc	ผู้เล่นไม่สามารถลบออกจากปาร์ตี้ใน Misc ได้
 18806	Participate in the Commendation Vault ${1} times	เข้าร่วมชมเชย Vault${1}ครั้ง
 18807	Please complete the designated story performance	กรุณาแสดงเรื่องราวที่กำหนดให้เสร็จสิ้น
 18808	The guild name is too long. Please enter another	ชื่อกิลด์ยาวเกินไปกรุณากรอกรายการอื่น
 18809	Recruitment information sent to the ${1} channel	ข้อมูลการรับสมัคร ส่งไปที่ช่องทาง${1}
-18810	Pet Protection Effect Triggered - Remove Control	เอฟเฟกต์การปกป้องสัตว์เลี้ยงถูกกระตุ้น - ถอดการควบคุม
+18810	Pet Protection Effect Triggered - Remove Control	เอฟเฟกต์การปกป้องสัตว์เลี้ยงถูกกระตุ้น - ถอดการ Control
 18811	Please select the Lucky Star you want to bet on.	กรุณาเลือก Lucky Star ที่คุณต้องการเดิมพัน
 18812	Reduces Attack Speed and Movement Speed by @{1}%	ลดความเร็วในการโจมตีและความเร็วในการเคลื่อนที่ลง@{1}%
-18813	【Camouflage】 status. Cannot be seen or targeted.	【ลายพราง】 สถานะไม่สามารถมองเห็นหรือกำหนดเป้าหมายได้
+18813	【Camouflage】 status. Cannot be seen or targeted.	【Camouflage】 สถานะไม่สามารถมองเห็นหรือกำหนดเป้าหมายได้
 18814	I have carefully read and agree to ${1} and ${2}	ฉันได้อ่านอย่างละเอียดและยอมรับ${1}และ${2}แล้ว
 18815	Notification Phase@{1}-Audience Gathering Begins	@{1}-เริ่มการรวมตัวของผู้ชม
 18816	Rewards for Depositing an Intermediate Live Coal	รางวัลสำหรับการฝากถ่านหินมีชีวิตขั้นกลาง
@@ -822,49 +822,49 @@
 18821	A headband worn by the supreme leader of a clan.	ผ้าคาดศีรษะที่ผู้นำสูงสุดของกลุ่มสวมใส่
 18822	Online Members: <color=#C26B47>${1}</color>/${2}	Online Members: <color=#C26B47>${1}</color>/${2}
 18823	Buy a Ship Ticket from the Black Market Merchant	ซื้อตั๋วเรือจากพ่อค้าในตลาดมืด
-18824	Connect Quest - Team Up to Defeat Normal Pharaoh	Connect Quest - รวมทีมเพื่อเอาชนะฟาโรห์ธรรมดา
+18824	Connect Quest - Team Up to Defeat Normal Pharaoh	Connect Quest - รวมทีมเพื่อเอาชนะ Pharaoh ธรรมดา
 18825	Takes effect when deployed for battle or support	มีผลเมื่อใช้งานในการต่อสู้หรือสนับสนุน
-18826	Spend the required materials to hatch 1 Pet Egg?	ใช้วัสดุที่จำเป็นในการฟักไข่สัตว์เลี้ยง 1 ฟองเหรอ?
+18826	Spend the required materials to hatch 1 Pet Egg?	ใช้วัสดุที่จำเป็นในการฟัก Pet Egg 1 ฟองเหรอ?
 18827	Appraise Rare Items equipment for the first time	ประเมินอุปกรณ์ Rare Item เป็นครั้งแรก
-18828	Heh-heh! You can craft equipment now. Follow me!	หึหึ!คุณสามารถสร้างอุปกรณ์ได้แล้วติดตามฉัน!
-18829	Congratulations on getting a pet! Deploy it now!	ยินดีด้วยที่ได้สัตว์เลี้ยง!ปรับใช้ตอนนี้!
-18830	Come on! I'll show you how to equip a mount, bo!	เอาน่า!ฉันจะแสดงวิธีติดตั้งพาหนะให้ดูนะโบ!
+18828	Heh-heh! You can craft equipment now. Follow me!	หึหึ! คุณสามารถสร้างอุปกรณ์ได้แล้วติดตามฉัน!
+18829	Congratulations on getting a pet! Deploy it now!	ยินดีด้วยที่ได้สัตว์เลี้ยง! ปรับใช้ตอนนี้!
+18830	Come on! I'll show you how to equip a mount, bo!	เอาน่า! ฉันจะแสดงวิธีติดตั้งพาหนะให้ดูนะโบ!
 18831	Set the percentage carefully. This is important.	ตั้งค่าเปอร์เซ็นต์อย่างระมัดระวังนี่เป็นสิ่งสำคัญ
-18832	Give it a try! This book holds incredible power.	ลองดูสิ!หนังสือเล่มนี้มีพลังอันเหลือเชื่อ
+18832	Give it a try! This book holds incredible power.	ลองดูสิ! หนังสือเล่มนี้มีพลังอันเหลือเชื่อ
 18833	Soul Echo can also get a Level-up. Click here!	Soul Echo สามารถรับเลเวลอัปได้เช่นกันคลิกที่นี่!
-18834	Quick, click it! It's time to witness a miracle!	ด่วน คลิกเลย!ถึงเวลาชมปาฏิหาริย์!
+18834	Quick, click it! It's time to witness a miracle!	ด่วน คลิกเลย! ถึงเวลาชมปาฏิหาริย์!
 18835	Eliminate the monsters emerging from the portal.	กำจัดมอนสเตอร์ที่โผล่ออกมาจากพอร์ทัล
-18836	Hmph... Why did you stop us? What are you after?	ฮึ... ทำไมคุณถึงหยุดพวกเรา?คุณกำลังทำอะไรอยู่?
+18836	Hmph... Why did you stop us? What are you after?	ฮึ... ทำไมคุณถึงหยุดพวกเรา? คุณกำลังทำอะไรอยู่?
 18837	Go find the black market merchant at the tavern.	ไปตามหาพ่อค้าในตลาดมืดที่โรงเตี๊ยม
-18838	Hello! Are you here to trade for a Smiling Mask?	สวัสดี!คุณมาที่นี่เพื่อแลกกับ Smiling Mask หรือไม่?
+18838	Hello! Are you here to trade for a Smiling Mask?	สวัสดี! คุณมาที่นี่เพื่อแลกกับ Smiling Mask หรือไม่?
 18839	No need to thank me. We're neighbors, after all.	ไม่ต้องขอบคุณฉันหรอกเราเป็นเพื่อนบ้านกัน
 18840	I've collected Varmundt's complete set of notes!	ฉันได้รวบรวมบันทึกชุดสมบูรณ์ของ Varmundt แล้ว!
 18841	Danger ahead. Unauthorized personnel, keep away.	อันตรายข้างหน้าบุคลากรที่ไม่ได้รับอนุญาตให้ออกไป
-18842	Hey! You're Professor Ryan, right? Are you okay?	เฮ้!คุณคือศาสตราจารย์ไรอันใช่ไหม?คุณสบายดีไหม?
+18842	Hey! You're Professor Ryan, right? Are you okay?	เฮ้! คุณคือ Professor Ryan ใช่ไหม? คุณสบายดีไหม?
 18843	Rewards grant <color=#63a22b>${1}%</color> Extra	Rewards grant <color=#63a22b>${1}%</color> Extra
 18844	Total Dishes Cooked: <color=#FF993F>${1}</color>	Total Dishes Cooked: <color=#FF993F>${1}</color>
-18845	Increase Einherjar Faith to gain Rare attributes	เพิ่มศรัทธาของ Einherjar เพื่อรับคุณสมบัติที่หายาก
+18845	Increase Einherjar Faith to gain Rare attributes	เพิ่ม Faith ของ Einherjar เพื่อรับคุณสมบัติที่หายาก
 18846	No items can be dismantled under the current tab	ไม่สามารถรื้อรายการใด ๆ ใต้แท็บปัจจุบันได้
 18847	Automatically dismantled ${1} and obtained ${2}.	รื้อ${1}โดยอัตโนมัติ และได้รับ${2}
-18848	The Guild Manager chose to abandon the campaign.	ผู้จัดการกิลด์เลือกที่จะละทิ้งแคมเปญ
+18848	The Guild Manager chose to abandon the campaign.	ผู้จัดการ Guild เลือกที่จะละทิ้งแคมเปญ
 18849	Automatically leaving the battle in @{1} seconds	ออกจากการต่อสู้โดยอัตโนมัติใน@{1}วินาที
-18850	Fafnir has summoned a wave of flames! Watch out!	Fafnir เรียกคลื่นเพลิงออกมา!ระวัง!
-18851	^{1}【Warning】^{2}[Mid-Lane Guard] HP below @{1}%	^{1}【คำเตือน】^{2}[การ์ดเลนกลาง] HP ต่ำกว่า@{1}%
-18852	^{1}【Notice】^{2}Our [Battering Ram] has appeared	^{1}【ประกาศ】^{2}[Battering Ram] ของเราปรากฏตัวแล้ว
-18853	^{1}【Victory】^{2}[Central Revive Point] captured	^{1}【ชัยชนะ】^{2}[จุดฟื้นคืนกลาง] ถูกยึดแล้ว
-18854	^{1}【Alert】^{2} [Glorious Metal] is under attack	^{1}【แจ้งเตือน】^{2}[Glorious Metal] อยู่ภายใต้การโจมตี
-18855	The stone pillar is about to explode! Move Away!	เสาหินกำลังจะระเบิด!ย้ายออกไป!
+18850	Fafnir has summoned a wave of flames! Watch out!	Fafnir เรียกคลื่นเพลิงออกมา! ระวัง!
+18851	^{1}【Warning】^{2}[Mid-Lane Guard] HP below @{1}%	^{1}【Warning】^{2}[Mid-Lane Guard] HP ต่ำกว่า@{1}%
+18852	^{1}【Notice】^{2}Our [Battering Ram] has appeared	^{1}【Notice】^{2}[Battering Ram] ของเราปรากฏตัวแล้ว
+18853	^{1}【Victory】^{2}[Central Revive Point] captured	^{1}【Victory】^{2}[Central Revive Point] ถูกยึดแล้ว
+18854	^{1}【Alert】^{2} [Glorious Metal] is under attack	^{1}【Alert】^{2}[Glorious Metal] อยู่ภายใต้การโจมตี
+18855	The stone pillar is about to explode! Move Away!	เสาหินกำลังจะระเบิด! ย้ายออกไป!
 18856	You search through the bushes, but find nothing.	คุณค้นหาผ่านพุ่มไม้ แต่ไม่พบอะไรเลย
 18857	The source of the strange odor is getting closer	ต้นตอของกลิ่นแปลก ๆ ใกล้เข้ามาแล้ว
-18858	Bobo\nI'm about to ask a question, so get ready!	Bobo\nกำลังจะถามคำถาม เตรียมตัวให้พร้อม!
+18858	Bobo\nI'm about to ask a question, so get ready!	Bobo\n กำลังจะถามคำถาม เตรียมตัวให้พร้อม!
 18859	^{1}${1} Adventure Party^{2} has been disbanded.	^{1}${1}Adventure Party^{2}ได้ถูกยุบแล้ว
 18860	New troublemakers have appeared in the territory	ตัวปัญหาใหม่ได้ปรากฏตัวขึ้นในดินแดนแล้ว
 18861	Mysterious Voice\n(Upbeat melody) La la la la...	เสียงลึกลับ\n(ทำนองจังหวะ) ลา ลา ลา ลา...
-18862	Bobo\nHehe, we did it! We really defeated Eddga!	โบโบ\nอิอิ เราทำได้!เราเอาชนะ Eddga ได้จริงๆ!
-18863	Bobo\nLook! Could that old man be the Professor?	โบโบ\nดูสิ!ชายชราคนนั้นจะเป็นศาสตราจารย์ได้ไหม?
-18864	Prayer of the Holy Spirit's Descent (Deprecated)	คำอธิษฐานเพื่อการสืบเชื้อสายของพระวิญญาณบริสุทธิ์ (เลิกใช้แล้ว)
+18862	Bobo\nHehe, we did it! We really defeated Eddga!	โบโบ\n อิอิ เราทำได้! เราเอาชนะ Eddga ได้จริงๆ!
+18863	Bobo\nLook! Could that old man be the Professor?	โบโบ\n ดูสิ! ชายชราคนนั้นจะเป็น Professor ได้ไหม?
+18864	Prayer of the Holy Spirit's Descent (Deprecated)	Prayer of the Holy Spirit's Descent (Deprecated)
 18865	Defeat the monsters hidden throughout the world.	กำจัดสัตว์ประหลาดที่ซ่อนอยู่ทั่วโลก
-18866	Invincible and Untargetable by Enemies or Allies	อยู่ยงคงกระพันและไม่ตกเป็นเป้าหมายของศัตรูหรือพันธมิตร
+18866	Invincible and Untargetable by Enemies or Allies	Invincible และไม่ตกเป็นเป้าหมายของศัตรูหรือพันธมิตร
 18867	Permanently unlock the GM Set Costume appearance	ปลดล็อคลักษณะเครื่องแต่งกายของ GM Set อย่างถาวร
 18868	Permanently unlocks the Blossom Fairy appearance	ปลดล็อครูปลักษณ์ Blossom Fairy อย่างถาวร
 18869	Permanently unlocks the Fish In Mouth appearance	ปลดล็อครูปลักษณ์ Fish In Mouth อย่างถาวร
@@ -873,12 +873,12 @@
 18872	Permanently unlocks the Romantic Leaf appearance	ปลดล็อครูปลักษณ์ Romantic Leaf อย่างถาวร
 18873	Permanently unlocks the Small Ribbons appearance	ปลดล็อคลักษณะ Small Ribbons อย่างถาวร
 18874	Permanently unlocks the Deviruchi Hat appearance	ปลดล็อครูปลักษณ์หมวก Deviruchi อย่างถาวร
-18875	Permanently unlocks the Bread Bag Hat appearance	ปลดล็อครูปลักษณ์หมวกถุงขนมปังอย่างถาวร
+18875	Permanently unlocks the Bread Bag Hat appearance	ปลดล็อครูปลักษณ์ Bread Bag Hat อย่างถาวร
 18876	Mount · Goblin Balloon can be unlocked upon use.	Mount · Goblin Balloon สามารถปลดล็อคได้เมื่อใช้งาน
-18877	Open to receive @{1} Oridecon and @{2} Aluminum.	เปิดรับ@{1}Oridecon และ@{2}Aluminium.
+18877	Open to receive @{1} Oridecon and @{2} Aluminum.	Open รับ@{1}Oridecon และ@{2}Aluminium.
 18878	Less than ${1} minutes of playtime remain today.	เวลาเล่นเหลือน้อยกว่า${1}นาทีในวันนี้
 18879	Grants a chance to obtain a Purple Quality Card.	ให้โอกาสได้รับการ์ดคุณภาพสีม่วง
-18880	A Deviruchi horn. Can be exchanged for Headwear.	เขาเดวิรุจิ สามารถเปลี่ยนเป็น Headwear ได้
+18880	A Deviruchi horn. Can be exchanged for Headwear.	เขา Deviruchi สามารถเปลี่ยนเป็น Headwear ได้
 18881	Soft mold powder. Can be exchanged for Headwear.	ผงโมลด์อ่อนสามารถเปลี่ยนเป็น Headwear ได้
 18882	Maximum rank reached for the current star rating	ถึงอันดับสูงสุดแล้วสำหรับการจัดอันดับดาวในปัจจุบัน
 18883	A mane dropped by the boss. Exceptionally tough.	แผงคอหล่นโดยเจ้านาย ยากเป็นพิเศษ
@@ -888,10 +888,10 @@
 18887	Obtainable by participating in daily activities.	Obtainable by participating in daily activities.
 18888	Can be refined <color=#c27b47>${1}</color> times	Can be refined <color=#c27b47>${1}</color> times
 18889	0 reforge attempts remaining. Unable to reforge.	เหลือความพยายามในการหลอมใหม่ 0 ครั้ง ไม่สามารถสร้างขึ้นใหม่ได้
-18890	The Box of the Future can be opened next Season.	กล่องแห่งอนาคตสามารถเปิดได้ในฤดูกาลหน้า
+18890	The Box of the Future can be opened next Season.	Box of the Future สามารถเปิดได้ในฤดูกาลหน้า
 18891	Not enough chat messages in the required channel	ข้อความแชทไม่เพียงพอในช่องที่ต้องการ
 18892	Monster collection progress in the Codex too low	ความคืบหน้าในการเก็บรวบรวมมอนสเตอร์ใน Codex ต่ำเกินไป
-18893	Not enough time spent active in the Tavern today	วันนี้ใช้เวลาในโรงเตี๊ยมไม่เพียงพอ
+18893	Not enough time spent active in the Tavern today	วันนี้ใช้เวลาใน Tavern ไม่เพียงพอ
 18894	Please confirm you're ready as soon as possible.	โปรดยืนยันว่าคุณพร้อมโดยเร็วที่สุด
 18895	<color=#63A22B>(Activates in ${1} hours)</color>	<color=#63A22B>(Activates in ${1} hours)</color>
 18896	Display area for feedback unique to special Misc	พื้นที่แสดงผลสำหรับข้อเสนอแนะเฉพาะสำหรับเบ็ดเตล็ดพิเศษ
@@ -904,18 +904,18 @@
 18903	Gifts cannot be sent to players on other servers	ของขวัญไม่สามารถส่งไปยังผู้เล่นบนเซิร์ฟเวอร์อื่นได้
 18904	Insufficient top-up balance. Unable to unfreeze.	ยอดเติมเงินไม่เพียงพอไม่สามารถยกเลิกการแช่แข็งได้
 18905	Rallies cannot be initiated in the current area.	Rally ไม่สามารถเริ่มได้ในพื้นที่ปัจจุบัน
-18906	Guild summons cannot be used in the current area	ซัมมอนกิลด์ไม่สามารถใช้ได้ในพื้นที่ปัจจุบัน
+18906	Guild summons cannot be used in the current area	ซัมมอน Guild ไม่สามารถใช้ได้ในพื้นที่ปัจจุบัน
 18907	Select yourself or them to give them a big head.	เลือกตัวคุณเองหรือพวกเขาเพื่อให้พวกเขาหัวโต
 18908	Equipped gear cannot be discarded during combat.	อุปกรณ์ที่สวมใส่แล้วไม่สามารถทิ้งระหว่างการต่อสู้ได้
 18909	Landing points cannot be selected at this stage.	ไม่สามารถเลือกจุดลงจอดได้ในขั้นตอนนี้
 18910	Guild League participation count must reach ${1}	Guild League จะต้องถึง${1}
-18911	Whether the player is currently the Party Leader	ไม่ว่าผู้เล่นจะเป็นหัวหน้าปาร์ตี้ในปัจจุบันหรือไม่
+18911	Whether the player is currently the Party Leader	ไม่ว่าผู้เล่นจะเป็น Party Leader ในปัจจุบันหรือไม่
 18912	Available for purchase at position ${1} or above	มีจำหน่ายที่ตำแหน่ง${1}ขึ้นไป
 18913	Skill rank exceeds the maximum number of points.	อันดับทักษะเกินจำนวนคะแนนสูงสุด
 18914	Attack (Hold for Accuracy/Right-click to Cancel)	(กดค้างไว้เพื่อความแม่นยำ/คลิกขวาเพื่อยกเลิก)
 18915	This target does not exist and cannot be marked.	เป้าหมายนี้ไม่มีอยู่และไม่สามารถทำเครื่องหมายได้
-18916	Currently displaying the Guild Information found	กำลังแสดงข้อมูลกิลด์ที่พบ
-18917	Perform a Dance Move in the designated direction	เต้นท่าเต้นในทิศทางที่กำหนด
+18916	Currently displaying the Guild Information found	กำลังแสดงข้อมูล Guild ที่พบ
+18917	Perform a Dance Move in the designated direction	เต้น Dance Move ในทิศทางที่กำหนด
 18918	You are in a special Location and cannot Follow.	คุณอยู่ในตำแหน่งพิเศษและไม่สามารถติดตามได้
 18919	Items cannot currently be listed on this server.	ไม่สามารถแสดงรายการรายการบนเซิร์ฟเวอร์นี้ได้ในขณะนี้
 18920	Failed to download data. Please try again later.	ดาวน์โหลดข้อมูลไม่สำเร็จโปรดลองอีกครั้งในภายหลัง
@@ -930,18 +930,18 @@
 18929	Your Backpack is overweight. Unable to purchase.	กระเป๋าเป้ของคุณมีน้ำหนักเกินไม่สามารถซื้อได้
 18930	You cannot switch builds while in Battle Status.	คุณไม่สามารถสลับบิลด์ขณะอยู่ในสถานะการต่อสู้ได้
 18931	Healing buff: Each Floor grants @{1}% Magic ATK.	: แต่ละชั้นมอบพลังโจมตีเวทย์มนตร์@{1}%
-18932	Grants 【Envenomed Blade】 ${1} Extra ricochet(s).	มอบ 【ใบมีดที่มีพิษ】${1}แฉลบพิเศษ
-18933	Restores a total of @{2} Life over @{1} seconds.	คืนค่าพลังชีวิต@{2}ทั้งหมดในช่วง@{1}วินาที
+18932	Grants 【Envenomed Blade】 ${1} Extra ricochet(s).	มอบ 【Envenomed Blade】${1}แฉลบพิเศษ
+18933	Restores a total of @{2} Life over @{1} seconds.	คืนค่าพลัง Life@{2}ทั้งหมดในช่วง@{1}วินาที
 18934	Use a dungeon Revive attempt to cancel Transform	ใช้ดันเจี้ยน Revive พยายามยกเลิกการแปลงร่าง
 18935	Damage taken from the caster increases by ${1}%.	ความเสียหายที่ได้รับจากลูกล้อเพิ่มขึ้น${1}%
 18936	Celebration Invitation Quiz (Question ${1}/${2})	(คำถาม${1}/${2})
 18937	Actions cannot be performed in your current state	การดำเนินการไม่สามารถทำได้ในสถานะปัจจุบันของคุณ
-18938	[Reserved] Participate in Guild League @{1} times	[จองแล้ว] เข้าร่วม Guild League@{1}ครั้ง
+18938	[Reserved] Participate in Guild League @{1} times	[Reserved] เข้าร่วม Guild League@{1}ครั้ง
 18939	Ask the Teleporter to take you to the Eden Group.	ขอให้เครื่องเทเลพอร์ตพาคุณไปที่กลุ่มอีเดน
 18940	Touch the stone pillar while carrying the device.	แตะเสาหินขณะถืออุปกรณ์
 18941	You receive a letter from the Job Advance Mentor.	คุณได้รับจดหมายจาก Job Advance Mentor
 18942	Form a party and defeat Golden Thief Bug on Hard.	จัดปาร์ตี้และเอาชนะ Golden Thief Bug ในระดับฮาร์ด
-18943	Ask the Pet Merchant how to use the Egg Incubator	ถามพ่อค้าสัตว์เลี้ยงถึงวิธีใช้ตู้ฟักไข่
+18943	Ask the Pet Merchant how to use the Egg Incubator	ถาม Pet Merchant ถึงวิธีใช้ Egg Incubator
 18944	Increases healing from your healing items by ${1}	เพิ่มการรักษาจากไอเท็มรักษาของคุณโดย${1}
 18945	Increases magic recovery from your skills by ${1}	เพิ่มการฟื้นฟูเวทมนตร์จากทักษะของคุณโดย${1}
 18946	Affects your damage against Formless Race enemies	ส่งผลต่อความเสียหายของคุณต่อศัตรู Formless Race
@@ -953,7 +953,7 @@
 18952	Affects your Chance of being afflicted with Blind	ส่งผลต่อโอกาสในการติดสถานะตาบอด
 18953	Affects the duration of Paralyze inflicted on you	ส่งผลต่อระยะเวลาของสถานะอัมพาตที่เกิดกับคุณ
 18954	Ignores a percentage of the target's Physical DEF	ไม่สนใจเปอร์เซ็นต์ของ DEF ทางกายภาพของเป้าหมาย
-18955	Otherworldly Invasion Event Guild Ranking Rewards	รางวัลอันดับกิลด์กิจกรรมบุกโลกอื่น
+18955	Otherworldly Invasion Event Guild Ranking Rewards	รางวัลอันดับ Guild กิจกรรมบุกโลกอื่น
 18956	Territory War Convoy Order Application Successful	สำเร็จแล้ว
 18957	Divine Realm · No-Damage Speedrun Ranking Rewards	อาณาจักรศักดิ์สิทธิ์ · รางวัลการจัดอันดับ Speedrun ที่ไม่มีความเสียหาย
 18958	This event area is full. You must queue to enter.	พื้นที่งานนี้เต็มแล้วคุณต้องต่อคิวเพื่อเข้า
@@ -961,11 +961,11 @@
 18960	An unknown server database storage error occurred	เกิดข้อผิดพลาดในการจัดเก็บฐานข้อมูลเซิร์ฟเวอร์ที่ไม่รู้จัก
 18961	Go to the Grand Lecture Hall for your Job Advance	ไปที่ Grand Lecture Hall เพื่อเลื่อนตำแหน่งงานของคุณ
 18962	Report the Outcome to the Head Job Advance Mentor	รายงานผลต่อหัวหน้าที่ปรึกษางานล่วงหน้า
-18963	Talk to the Head Job Advance Mentor about talents	พูดคุยกับ Head Job Advance Mentor เกี่ยวกับความสามารถพิเศษ
+18963	Talk to the Head Job Advance Mentor about talents	Talk กับ Head Job Advance Mentor เกี่ยวกับความสามารถพิเศษ
 18964	The Nail of Order is somehow resonating with You…	The Nail of Order โดนใจคุณ...
 18965	Off-hand slots do not inherit Enhance attributes.	สล็อตมือรองไม่สืบทอดคุณลักษณะการปรับปรุง
-18966	\nYou set up a Stall at the South Gate ${1} times	\nคุณตั้งแผงลอยที่ประตูทิศใต้${1}ครั้ง
-18967	\nYou published ${1} issues of a fashion magazine	\nคุณเผยแพร่${1}ฉบับของนิตยสารแฟชั่น
+18966	\nYou set up a Stall at the South Gate ${1} times	\n คุณตั้งแผงลอยที่ Gate ทิศใต้${1}ครั้ง
+18967	\nYou published ${1} issues of a fashion magazine	\n คุณเผยแพร่${1}ฉบับของนิตยสารแฟชั่น
 18968	Sustained high-speed damage with AoE suppression.	สร้างความเสียหายความเร็วสูงอย่างต่อเนื่องด้วยการปราบปราม AoE
 18969	Your Backpack is full. Make room before claiming.	กระเป๋าเป้สะพายหลังของคุณเต็มแล้วจัดห้องก่อนรับสิทธิ์.
 18970	Select your offer item from the list on the right	เลือกรายการข้อเสนอของคุณจากรายการทางด้านขวา
@@ -977,21 +977,21 @@
 18976	You do not have permission to perform this action	คุณไม่ได้รับอนุญาตให้ดำเนินการนี้
 18977	You cannot perform this action on your own guild.	คุณไม่สามารถดำเนินการนี้กับกิลด์ของคุณเองได้
 18978	Already participating in another region's auction	เข้าร่วมการประมูลของภูมิภาคอื่นแล้ว
-18979	Adventure Party Leader has not selected a sapling	หัวหน้าปาร์ตี้ผจญภัยยังไม่ได้เลือกต้นอ่อน
+18979	Adventure Party Leader has not selected a sapling	Party Leader ผจญภัยยังไม่ได้เลือกต้นอ่อน
 18980	The guild name is too short. Please enter another	ชื่อกิลด์สั้นเกินไปกรุณากรอกรายการอื่น
-18981	You canceled the Impeachment of Guild Leader ${1}	คุณยกเลิกการฟ้องร้องหัวหน้ากิลด์${1}
+18981	You canceled the Impeachment of Guild Leader ${1}	คุณยกเลิกการฟ้องร้องหัวหน้า Guild${1}
 18982	The current time is outside the specified period.	เวลาปัจจุบันอยู่นอกระยะเวลาที่กำหนด
 18983	Attack Speed +@{1}%, Crit +@{2}, Crit DMG +@{3}%.	ความเร็วในการโจมตี +@{1}%, Crit +@{2}, Crit DMG +@{3}%
 18984	Increases your and your allies' damage reflection	เพิ่มการสะท้อนความเสียหายของคุณและพันธมิตร
 18985	Increases healing received by @{1}% for @{2} sec.	เพิ่มการรักษาที่ได้รับโดย@{1}% สำหรับ@{2}วินาที
 18986	Gain damage reduction and survive one fatal blow.	ได้รับความเสียหายลดลงและรอดชีวิตจากการโจมตีที่รุนแรงครั้งหนึ่ง
 18987	Grants a @{1}% Movement Speed bonus for @{2} sec.	ให้โบนัสความเร็วในการเคลื่อนที่@{1}% สำหรับ@{2}วินาที
-18988	Periodically restores the Life of nearby monsters	ฟื้นฟูพลังชีวิตของมอนสเตอร์ที่อยู่ใกล้เคียงเป็นระยะ
+18988	Periodically restores the Life of nearby monsters	ฟื้นฟูพลัง Life ของมอนสเตอร์ที่อยู่ใกล้เคียงเป็นระยะ
 18989	Stunned by the Emperium's shockwave for @{1} sec.	ตะลึงกับคลื่นกระแทกของ Emperium เป็นเวลา@{1}วินาที
 18990	Download Pause because you are using mobile data.	ดาวน์โหลดหยุดชั่วคราวเนื่องจากคุณใช้ข้อมูลมือถือ
-18991	Moonlight Flower Bell Charge Shuffle, Second Wave	ระฆังดอกไม้แสงจันทร์ Charge Shuffle คลื่นลูกที่สอง
-18992	Moonlight Flower Spotlight Game Easy, Second Wave	เกม Spotlight ดอกไม้แสงจันทร์ ง่าย คลื่นลูกที่สอง
-18993	Moonlight Flower Spotlight Game Hard, Second Wave	เกม Spotlight ดอกไม้แสงจันทร์ ยาก คลื่นลูกที่สอง
+18991	Moonlight Flower Bell Charge Shuffle, Second Wave	Moonlight Flower Bell Charge Shuffle, Second Wave
+18992	Moonlight Flower Spotlight Game Easy, Second Wave	Moonlight Flower Spotlight Game Easy, Second Wave
+18993	Moonlight Flower Spotlight Game Hard, Second Wave	Moonlight Flower Spotlight Game Hard, Second Wave
 18994	Increases Penetration Curse by [your Lv. * ${1}].	เพิ่มคำสาปเจาะทะลุ [Lv. ของคุณ]*${1}].
 18995	Activate affixes upon entering the Campfire Phase	เปิดใช้งานป้ายเมื่อเข้าสู่ช่วงแคมป์ไฟ
 18996	The card must be ranked up before it can Level-up	การ์ดจะต้องได้รับการจัดอันดับก่อนจึงจะสามารถเพิ่มเลเวลได้

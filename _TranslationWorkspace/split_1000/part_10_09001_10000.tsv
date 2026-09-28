@@ -2,19 +2,19 @@
 9001	Configuration Error	ข้อผิดพลาดพารามิเตอร์การกำหนดค่า
 9002	Incorrect draw cost	ต้นทุนการจับฉลากไม่ถูกต้อง
 9003	Insufficient points	คะแนนไม่เพียงพอ
-9004	Guild doesn't exist	ไม่มีกิลด์
+9004	Guild doesn't exist	ไม่มี Guild
 9005	Rune type mismatch.	ประเภทรูนไม่ตรงกัน
 9006	Not Enough Stickers	สติ๊กเกอร์ไม่เพียงพอ
 9007	^{1}Earth Spike^{2}	^{1}สไปค์สายดิน^{2}
 9008	^{1}Second Wind^{2}	^{1}ลมที่สอง^{2}
 9009	^{1}Limit Break^{2}	^{1}ตัวแบ่งขีดจำกัด^{2}
-9010	Charged Shield Bash	ทุบตีโล่ชาร์จ
+9010	Charged Shield Bash	Bash โล่ชาร์จ
 9011	Cross Judex Enhance	Cross Judex เพิ่มประสิทธิภาพ
-9012	Spear Throw Enhance	เพิ่มประสิทธิภาพการขว้างหอก
+9012	Spear Throw Enhance	เพิ่มประสิทธิภาพการ Spear Throw
 9013	Basic Magic Defense	การป้องกันเวทมนตร์ขั้นพื้นฐาน
-9014	Normal Attack Boost	บูสต์การโจมตีปกติ
+9014	Normal Attack Boost	บูสต์ Normal Attack
 9015	^{1}Flame Chain^{2}	^{1}โซ่เปลวไฟ^{2}
-9016	^{1}Soul Reaper^{2}	^{1}ยมทูตวิญญาณ^{2}
+9016	^{1}Soul Reaper^{2}	^{1}Soul Reaper^{2}
 9017	Conqueror Exclusive	Conqueror สุดพิเศษ
 9018	Invalid message UID	UID ข้อความไม่ถูกต้อง
 9019	Character is banned	ตัวละครถูกแบน
@@ -29,7 +29,7 @@
 9028	Invasion Intensity:	ความเข้มของการบุกรุก:
 9029	Battlefield Changes	การเปลี่ยนแปลงสนามรบ
 9030	Board this vehicle.	ขึ้นรถคันนี้
-9031	Gains DMG Reduction	ได้รับการลดความเสียหาย
+9031	Gains DMG Reduction	ได้รับการ DMG Reduction
 9032	Dismount the Deniro	ลงจากหลังม้า Deniro
 9033	Available to Borrow	มีให้ยืม
 9034	Lu Bu's First Skill	ทักษะแรกของ Lu Bu
@@ -50,19 +50,19 @@
 9049	A Drink for a Story	เครื่องดื่มเพื่อเรื่องราว
 9050	A Few Close Friends	เพื่อนสนิทไม่กี่คน
 9051	Defeat Mirko · Hard	เอาชนะ Mirko · ยาก
-9052	Defeat Nasha · Hard	เอาชนะนาชา · ยาก
+9052	Defeat Nasha · Hard	เอาชนะ Nasha · ยาก
 9053	Spirit Tower Legend	ตำนานหอคอยวิญญาณ
 9054	5 Pets at Your Side	สัตว์เลี้ยง 5 ตัวอยู่เคียงข้างคุณ
 9055	100-Card Collection	คอลเลกชันการ์ด 100 ใบ
 9056	Refine: First Steps	ปรับแต่ง: ขั้นตอนแรก
 9057	Illusion's Radiance	ความเปล่งประกายของภาพลวงตา
-9058	Tough-Looking Woman	ผู้หญิงหน้าตาแกร่ง
+9058	Tough-Looking Woman	Tough-Looking Woman
 9059	Safe zone shrinking	โซนปลอดภัยหดตัว
 9060	【${1} Ten Thousand】	【${1}หนึ่งหมื่น】
 9061	Season end time TBD	เวลาสิ้นสุดฤดูกาล TBD
 9062	Last Death Location	ตำแหน่งการตายครั้งสุดท้าย
 9063	Share the findings.	แบ่งปันสิ่งที่ค้นพบ
-9064	Thank you, Grandma!	ขอบคุณคุณยาย!
+9064	Thank you, Grandma!	ขอบคุณ Grandma!
 9065	Matchmaking started	การจับคู่เริ่มต้นขึ้น
 9066	Crimson-Black Orbit	สีแดง-ดำ Orbit
 9067	Crimson Flame Orbit	วงโคจรเปลวไฟสีแดง
@@ -89,19 +89,19 @@
 9088	Sonic Barrier Field	สนามกั้นเสียง
 9089	Party-Wipe Mechanic	ช่างเช็ดปาร์ตี้
 9090	Salted Fish Thrust.	แทงปลาเค็ม.
-9091	Golem AOE - Neutral	Golem AOE - เป็นกลาง
-9092	Dokebi AOE - Shadow	Dokebi AOE - เงา
-9093	Obeaune AOE - Water	Obeaune AOE - น้ำ
-9094	Matyr Charge-Shadow	Matyr Charge-เงา
+9091	Golem AOE - Neutral	Golem AOE - Neutral
+9092	Dokebi AOE - Shadow	Dokebi AOE - Shadow
+9093	Obeaune AOE - Water	Obeaune AOE - Water
+9094	Matyr Charge-Shadow	Matyr Charge-Shadow
 9095	Orc Archer ST-Earth	Orc Archer ST-Earth
-9096	Restorative Craving	ความอยากฟื้นฟู
-9097	Executioner's Blade	ดาบเพชฌฆาต
-9098	Divine Resurrection	การฟื้นคืนชีพอันศักดิ์สิทธิ์
+9096	Restorative Craving	Restorative Craving
+9097	Executioner's Blade	Executioner's Blade
+9098	Divine Resurrection	Resurrection อันศักดิ์สิทธิ์
 9099	Recruit New Members	รับสมัครสมาชิกใหม่
 9100	Publish a New Issue	เผยแพร่ฉบับใหม่
-9101	Create Vending Cart	สร้างรถเข็นจำหน่ายสินค้าอัตโนมัติ
-9102	[Final Trial-Nasha]	[การทดลองครั้งสุดท้าย-Nasha]
-9103	[Final Trial-Mirko]	[การทดลองครั้งสุดท้าย-Mirko]
+9101	Create Vending Cart	Create Vending Cart
+9102	[Final Trial-Nasha]	[Final Trial-Nasha]
+9103	[Final Trial-Mirko]	[Final Trial-Mirko]
 9104	Cancel application?	ยกเลิกการสมัคร?
 9105	No Adventure Groups	ไม่มีกลุ่มผจญภัย
 9106	Tap to Congratulate	แตะเพื่อแสดงความยินดี
@@ -109,15 +109,15 @@
 9108	Obtained ${1} X ${2}	ได้รับ${1}X${2}
 9109	Entire Server Report	รายงานเซิร์ฟเวอร์ทั้งหมด
 9110	Partywide Immobilize	ตรึงทั้งปาร์ตี้
-9111	Pirate Captain's Hat	หมวกกัปตันโจรสลัด
-9112	Moonlight Flower Hat	หมวกดอกไม้แสงจันทร์
-9113	Sweetheart Tea Party	ปาร์ตี้น้ำชาสุดที่รัก
-9114	Corrupted Wander Man	คนพเนจรที่เสียหาย
-9115	Darkheart Hunter Eve	ดาร์คฮาร์ท ฮันเตอร์ อีฟ
+9111	Pirate Captain's Hat	Pirate Captain's Hat
+9112	Moonlight Flower Hat	Moonlight Flower Hat
+9113	Sweetheart Tea Party	Sweetheart Tea Party
+9114	Corrupted Wander Man	Corrupted Wander Man
+9115	Darkheart Hunter Eve	Darkheart Hunter Eve
 9116	Stage reward claimed	รับรางวัลสเตจแล้ว
 9117	Reward Count Used Up	จำนวนรางวัลที่ใช้หมดแล้ว
 9118	Event Time Remaining	เวลากิจกรรมที่เหลืออยู่
-9119	Physical Penetration	การเจาะทางกายภาพ
+9119	Physical Penetration	Physical Penetration
 9120	Melee PDMG Reduction	ลด PDMG ระยะประชิด
 9121	Item Healing Effect%	ผลการรักษาของไอเท็ม%
 9122	Shield Bonus Effect%	เอฟเฟกต์โบนัสโล่%
@@ -125,14 +125,14 @@
 9124	Energy Recovery Rate	อัตราการกู้คืนพลังงาน
 9125	Conqueror Settlement	การตั้งถิ่นฐานของผู้พิชิต
 9126	MVP-Golden Thief Bug	MVP-แมลงจอมโจรสีทอง
-9127	MVP-Moonlight Flower	MVP-ดอกไม้แสงจันทร์
-9128	Kill @{1} Roda Frogs	ฆ่ากบ@{1}Roda
-9129	Kill @{1} Thief Bugs	ฆ่าแมลงจอมโจร@{1}
-9130	Kill @{1} Orc Ladies	ฆ่า@{1}Orc Ladies
+9127	MVP-Moonlight Flower	MVP-Moonlight Flower
+9128	Kill @{1} Roda Frogs	Kill กบ@{1}Roda
+9129	Kill @{1} Thief Bugs	Kill แมลงจอมโจร@{1}
+9130	Kill @{1} Orc Ladies	Kill@{1}Orc Ladies
 9131	Play the shell game.	เล่นเกมเชลล์.
-9132	Ride the Hyena mount	ขี่สัตว์ขี่ไฮยีน่า
+9132	Ride the Hyena mount	Ride สัตว์ Ride ไฮยีน่า
 9133	Obtain the Fox mount	รับสัตว์พาหนะ Fox
-9134	Tower Activity Quest	ภารกิจกิจกรรมทาวเวอร์
+9134	Tower Activity Quest	ภารกิจ Activity ทาวเวอร์
 9135	Equip the Soul Echo.	ติดตั้ง Soul Echo
 9136	No Current Encounter	ไม่มีการเผชิญหน้าในปัจจุบัน
 9137	Defeat the Peco Peco	เอาชนะ Peco Peco
@@ -143,11 +143,11 @@
 9142	Defeat all monsters.	กำจัดมอนสเตอร์ทั้งหมด
 9143	Check on the captain	ตรวจสอบกัปตัน
 9144	Close Stall Manually	ปิดแผงลอยด้วยตนเอง
-9145	Guild League Rewards	รางวัลกิลด์ลีก
+9145	Guild League Rewards	รางวัล Guild ลีก
 9146	Game Mode Bid Outbid	การเสนอราคาโหมดเกมสูงกว่า
-9147	Guild Auction Closed	ปิดการประมูลกิลด์แล้ว
-9148	Kill Orc Warrior@{1}	ฆ่านักรบออร์ค@{1}
-9149	Daily Activity Quest	ภารกิจกิจกรรมประจำวัน
+9147	Guild Auction Closed	ปิดการประมูล Guild แล้ว
+9148	Kill Orc Warrior@{1}	KillOrc Warrior@{1}
+9149	Daily Activity Quest	ภารกิจ Activity ประจำวัน
 9150	Can escort ${1} more	สามารถคุ้มกัน${1}ได้อีก
 9151	Campfire Interaction	ปฏิสัมพันธ์ระหว่างแคมป์ไฟ
 9152	Mining Star Treasure	สมบัติดาวขุด
@@ -163,8 +163,8 @@
 9162	DNS Resolution Check	ตรวจสอบความละเอียด DNS
 9163	TCP Connection Check	ตรวจสอบการเชื่อมต่อ TCP
 9164	Head toward Prontera	มุ่งหน้าไปยังพรอนเทรา
-9165	Rescue the Professor	ช่วยเหลือศาสตราจารย์
-9166	Caress the Stray Cat	กอดรัดแมวจรจัด
+9165	Rescue the Professor	ช่วยเหลือ Professor
+9166	Caress the Stray Cat	กอดรัด Cat จรจัด
 9167	Refine a weapon once	ปรับแต่งอาวุธหนึ่งครั้ง
 9168	Accept A New Request	ยอมรับคำขอใหม่
 9169	Catch up with Fervor	ตามทันความร้อนแรง
@@ -178,20 +178,20 @@
 9177	Regional Capital War	สงครามทุนภูมิภาค
 9178	Success Rate Details	รายละเอียดอัตราความสำเร็จ
 9179	Right Accessory Slot	ช่องใส่อุปกรณ์เสริมด้านขวา
-9180	Guild Funds Rankings	อันดับกองทุนกิลด์
-9181	Impeach Guild Master	ฟ้องร้องหัวหน้ากิลด์
+9180	Guild Funds Rankings	อันดับ Guild Funds
+9181	Impeach Guild Master	ฟ้องร้องหัวหน้า Guild
 9182	Help Configure Build	ช่วยกำหนดค่าบิลด์
 9183	Profile Book Display	การแสดงอัลบั้มการ์ดโปรไฟล์
 9184	Expires in ${1} days	หมดอายุใน${1}วัน
 9185	Expires in ${1} min.	หมดอายุใน${1}ขั้นต่ำ
 9186	Default Profile Card	การ์ดโปรไฟล์เริ่มต้น
-9187	Life Skill Materials	สื่อทักษะชีวิต
+9187	Life Skill Materials	สื่อทักษะ Life
 9188	Listed successfully.	แสดงรายการสำเร็จแล้ว
 9189	Enter Shop Item Name	ป้อนชื่อรายการร้านค้า
 9190	My Stand (${1}/${2})	ขาตั้งของฉัน (${1}/${2})
 9191	Go to Trade Exchange	ไปที่การแลกเปลี่ยนการค้า
 9192	Totem (Unidentified)	Totem (ไม่ปรากฏชื่อ)
-9193	Base EXP: ${1} /${2}	EXP ฐาน:${1}/${2}
+9193	Base EXP: ${1} /${2}	Base EXP:${1}/${2}
 9194	Battle Merit Details	รายละเอียดบุญการรบ
 9195	Abnormal Trade price	ราคาซื้อขายผิดปกติ
 9196	Ripe Fruit Emblem II	สัญลักษณ์ผลไม้สุก II
@@ -209,137 +209,137 @@
 9208	Current Effect: ${1}	ผลกระทบปัจจุบัน:${1}
 9209	Friend request sent.	ส่งคำขอเป็นเพื่อนแล้ว
 9210	No rewards available	ไม่มีรางวัลให้
-9211	Remove Deputy Leader	ลบรองผู้นำ
+9211	Remove Deputy Leader	Remove รอง Leader
 9212	Gather Party Members	รวบรวมสมาชิกปาร์ตี้
 9213	Request List is Full	เต็มแล้ว
-9214	Follow Party Leader?	ติดตามหัวหน้าปาร์ตี้ไหม?
+9214	Follow Party Leader?	ติดตาม Party Leader ไหม?
 9215	Status Change Notice	บัฟตรวจสอบสถานะ
 9216	Erudite Scholar-@{1}	นักวิชาการผู้รอบรู้-@{1}
 9217	Bidding ends in ${1}	การประมูลสิ้นสุดใน${1}
 9218	Reference Sale Price	อ้างอิงราคาขาย
 9219	Reject this request?	ปฏิเสธคำขอนี้ใช่ไหม
 9220	Requirements not met	ไม่เป็นไปตามข้อกำหนด
-9221	No Guild Information	ไม่มีข้อมูลกิลด์
+9221	No Guild Information	ไม่มีข้อมูล Guild
 9222	Responses: ${1}/${2}	:${1}/${2}
 9223	Content is too long.	เนื้อหายาวเกินไป
 9224	Position Appointment	แต่งตั้งตำแหน่ง
 9225	Departure successful	ออกเดินทางสำเร็จ
-9226	Stage Test Blueprint	พิมพ์เขียวการทดสอบขั้น
+9226	Stage Test Blueprint	Stage Test Blueprint
 9227	Main Combat - Debuff	การต่อสู้หลัก - ดีบัฟ
 9228	Main Combat - Shield	การต่อสู้หลัก - โล่
 9229	The bet has expired.	เดิมพันหมดอายุแล้ว
 9230	Damage Taken Ranking	อันดับความเสียหายที่ได้รับ
-9231	Contact Guild Master	ติดต่อหัวหน้ากิลด์
-9232	Card: Steel Chonchon	การ์ด: ชลชลเหล็ก
-9233	Sketch Card: Pharaoh	การ์ดร่าง: ฟาโรห์
-9234	Sketch Card: Dracula	การ์ดสเก็ตช์: แดรกคิวลา
-9235	Portrait Card: Eddga	การ์ดแนวตั้ง: Eddga
-9236	Portrait Card: Drake	การ์ดแนวตั้ง: Drake
-9237	Shadow Card: Dracula	การ์ดเงา: แดรกคิวลา
-9238	Shadow Card: Pharaoh	การ์ดเงา: ฟาโรห์
-9239	Sacred Relic Crystal	คริสตัลศักดิ์สิทธิ์
-9240	Guild Auction locked	การประมูลกิลด์ถูกล็อค
+9231	Contact Guild Master	ติดต่อหัวหน้า Guild
+9232	Card: Steel Chonchon	Card: Steel Chonchon
+9233	Sketch Card: Pharaoh	Sketch Card: Pharaoh
+9234	Sketch Card: Dracula	Sketch Card: Dracula
+9235	Portrait Card: Eddga	Portrait Card: Eddga
+9236	Portrait Card: Drake	Portrait Card: Drake
+9237	Shadow Card: Dracula	Shadow Card: Dracula
+9238	Shadow Card: Pharaoh	Shadow Card: Pharaoh
+9239	Sacred Relic Crystal	Sacred Relic Crystal
+9240	Guild Auction locked	การประมูล Guild ถูกล็อค
 9241	Attack Speed +${1}%.	Attack Speed +${1}%.
 9242	Attack Speed +@{1}%.	Attack Speed +@{1}%.
-9243	Poring Counterattack	การตอบโต้ด้วย Poring
-9244	Increase SP Recovery	เพิ่มการฟื้นฟู SP
-9245	Radiant Resurrection	การฟื้นคืนชีพที่สดใส
-9246	Arm Cannon - Enhance	Arm Cannon - เสริมประสิทธิภาพ
-9247	Primal Monster Fruit	ผลไม้มอนสเตอร์ปฐมภูมิ
-9248	Link with Red Thread	ลิงค์ด้ายสีแดง
-9249	Magic Reflect - Card	เมจิกรีเฟล็กต์ - การ์ด
+9243	Poring Counterattack	Poring Counterattack
+9244	Increase SP Recovery	Increase SP Recovery
+9245	Radiant Resurrection	Radiant Resurrection
+9246	Arm Cannon - Enhance	Arm Cannon - Enhance
+9247	Primal Monster Fruit	Primal Monster Fruit
+9248	Link with Red Thread	Link with Red Thread
+9249	Magic Reflect - Card	Magic Reflect - Card
 9250	Lock Skill Indicator	ตัวบ่งชี้ทักษะการล็อค
 9251	Right-Click Movement	การเคลื่อนไหวด้วยการคลิกขวา
 9252	Farthest Point Ahead	จุดที่ไกลที่สุดข้างหน้า
-9253	Shift+Mouse Left Tap	Shift+แตะซ้ายของเมาส์
-9254	Dracula's Blood Pool	สระเลือดของแดร็กคูล่า
-9255	Movement Speed Boost	เพิ่มความเร็วในการเคลื่อนที่
-9256	Tiamat Spawn Warning	คำเตือนการวางไข่ Tiamat
-9257	Melody Sprite Attack	เมโลดี้สไปรท์โจมตี
-9258	Hunter Normal Attack	ฮันเตอร์ โจมตีปกติ
-9259	Skill@{1} Ripple Fin	ทักษะ@{1}Ripple Fin
-9260	Circular Sonic Blast	ระเบิดเสียงแบบวงกลม
-9261	Ring Drum Phase @{1}	ริงดรัมเฟส@{1}การทดสอบแหวน
-9262	Earth-Splitting Blow	ระเบิดแยกโลก
-9263	Jump off the Rampart	กระโดดลงจากกำแพง
-9264	Goblin Spiral Launch	Goblin Spiral เปิดตัว
-9265	Poring Normal Attack	เจาะการโจมตีปกติ
-9266	Greedy Headless Mule	ล่อหัวโลภ
-9267	Dummy Hits Self@{1}%	จำลองการโจมตีตัวเอง@{1}%
-9268	Vagabond Wolf Skills	ทักษะหมาป่าจรจัด
-9269	Kobold Leader Skills	ทักษะผู้นำโคโบลด์
-9270	Osiris Normal Attack	โอซิริสโจมตีปกติ
-9271	Orc Lord-Placeholder	Orc Lord-ตัวยึดตำแหน่ง
-9272	Blazing Fist Rampage	อาละวาดหมัดอันโชติช่วง
-9273	Alert Reconnaissance	สอดแนมแจ้งเตือน
-9274	Silver Moon Descends	พระจันทร์สีเงินลงมา
+9253	Shift+Mouse Left Tap	Shift+แตะซ้ายของ Mouse
+9254	Dracula's Blood Pool	Dracula's Blood Pool
+9255	Movement Speed Boost	Movement Speed Boost
+9256	Tiamat Spawn Warning	Tiamat Spawn Warning
+9257	Melody Sprite Attack	Melody Sprite Attack
+9258	Hunter Normal Attack	Hunter Normal Attack
+9259	Skill@{1} Ripple Fin	Skill@{1} Ripple Fin
+9260	Circular Sonic Blast	Circular Sonic Blast
+9261	Ring Drum Phase @{1}	Ring Drum Phase @{1}
+9262	Earth-Splitting Blow	Earth-Splitting Blow
+9263	Jump off the Rampart	Jump off the Rampart
+9264	Goblin Spiral Launch	Goblin Spiral Launch
+9265	Poring Normal Attack	Poring Normal Attack
+9266	Greedy Headless Mule	Greedy Headless Mule
+9267	Dummy Hits Self@{1}%	Dummy Hits Self@{1}%
+9268	Vagabond Wolf Skills	Vagabond Wolf Skills
+9269	Kobold Leader Skills	Kobold Leader Skills
+9270	Osiris Normal Attack	Osiris Normal Attack
+9271	Orc Lord-Placeholder	Orc Lord-Placeholder
+9272	Blazing Fist Rampage	Blazing Fist Rampage
+9273	Alert Reconnaissance	Alert Reconnaissance
+9274	Silver Moon Descends	Silver Moon Descends
 9275	Sign in with Twitter	ลงชื่อเข้าใช้ด้วย Twitter
 9276	Enter Character name	กรอกชื่อตัวละคร
 9277	Europe/Russia Server	เซิร์ฟเวอร์ยุโรป/รัสเซีย
-9278	Pyramid Laser Damage	ความเสียหายของเลเซอร์ปิรามิด
-9279	Launch Yellow Bubble	เปิดตัว Bubble สีเหลือง
-9280	Launch Homing Bubble	เปิดตัว Homing Bubble
-9281	Homing Bubble Action	แอ็คชั่นบับเบิ้ลกลับบ้าน
+9278	Pyramid Laser Damage	Pyramid Laser Damage
+9279	Launch Yellow Bubble	Launch Yellow Bubble
+9280	Launch Homing Bubble	Launch Homing Bubble
+9281	Homing Bubble Action	Homing Bubble Action
 9282	Unstable Blue Bubble	Unstable Blue Bubble
-9283	P@{1} Red Bubble@{2}	P@{1}ฟองสีแดง@{2}
-9284	Eight-Direction Wave	คลื่นแปดทิศทาง
-9285	Ground Yellow Bubble	ฟองสีเหลืองพื้น
-9286	Skill@{1}Memory Game	เกมหน่วยความจำ@{1}ทักษะ
-9287	Cross Ripper Slasher	เครื่องผ่าครอสริปเปอร์
-9288	Soul Burst Technique	เทคนิคระเบิดวิญญาณ
-9289	S@{1}Piercing Shadow	S@{1}เงาเจาะ
-9290	Crimson Rock Lv.@{1}	หินแดง Lv.@{1}
-9291	Dragon Breath (Fire)	ลมหายใจมังกร (ไฟ)
-9292	Create Deadly Poison	สร้างพิษร้ายแรง
-9293	Poisoned to the Core	เป็นพิษต่อแกนกลาง
+9283	P@{1} Red Bubble@{2}	P@{1} Red Bubble@{2}
+9284	Eight-Direction Wave	Eight-Direction Wave
+9285	Ground Yellow Bubble	Ground Yellow Bubble
+9286	Skill@{1}Memory Game	Skill@{1}Memory Game
+9287	Cross Ripper Slasher	Cross Ripper Slasher
+9288	Soul Burst Technique	Soul Burst Technique
+9289	S@{1}Piercing Shadow	S@{1}Piercing Shadow
+9290	Crimson Rock Lv.@{1}	Crimson Rock Lv.@{1}
+9291	Dragon Breath (Fire)	Dragon Breath (Fire)
+9292	Create Deadly Poison	Create Deadly Poison
+9293	Poisoned to the Core	Poisoned to the Core
 9294	Requires ${1} points	ต้องใช้คะแนน${1}
 9295	${1} Trophy Level-up	อัปเลเวลถ้วยรางวัล${1}
 9296	Draw prize tier @{1}	การจับรางวัลระดับ@{1}
 9297	Test Large Card Pool	ทดสอบพูลการ์ดขนาดใหญ่
 9298	Unknown Skill Effect	เอฟเฟกต์ทักษะที่ไม่รู้จัก
-9299	Kill MVPs: ${1}/${2}	ฆ่า MVP:${1}/${2}
+9299	Kill MVPs: ${1}/${2}	Kill MVP:${1}/${2}
 9300	Material Gain: ${1}%	การเพิ่มวัสดุ:${1}%
 9301	Request Voice Access	ขอการเข้าถึงด้วยเสียง
-9302	Invite Guild Members	เชิญสมาชิกกิลด์
-9303	Music Orb@{1}-Izlude	ลูกแก้วดนตรี@{1}-Izlude
-9304	Music Orb@{1}-Geffen	ลูกแก้วดนตรี@{1}-เกฟเฟน
-9305	Music Orb@{1}-Morroc	ลูกแก้วดนตรี@{1}-Morroc
-9306	Bone-Spiked Mountain	ภูเขามีหนามแหลม
-9307	Bone-Spiked Barnacle	เพรียงหนามแหลมกระดูก
-9308	Golden Rune Mountain	ภูเขารูนทองคำ
-9309	Large Roulette Laser	เลเซอร์รูเล็ตขนาดใหญ่
-9310	Holy Rocket Launcher	เครื่องยิงจรวดศักดิ์สิทธิ์
-9311	Madogear Repair Zone	โซนซ่อม Madogear
-9312	Forest Puppet Type α	หุ่นกระบอกป่า α
-9313	Forest Puppet Type β	หุ่นกระบอกป่า β
-9314	Forest Puppet Type γ	หุ่นกระบอกป่า γ
-9315	Desert Puppet Type α	หุ่นทะเลทราย Type α
-9316	Desert Puppet Type β	หุ่นเชิดทะเลทราย β
-9317	Desert Puppet Type γ	ตุ๊กตาทะเลทราย γ
-9318	Give It All for Love	มอบทุกสิ่งเพื่อความรัก
-9319	Traveler-Looking Man	ผู้ชายหน้าตาเหมือนนักเดินทาง
-9320	Nervous-Looking Bard	กวีหน้าตาประหม่า
+9302	Invite Guild Members	เชิญสมาชิก Guild
+9303	Music Orb@{1}-Izlude	Music Orb@{1}-Izlude
+9304	Music Orb@{1}-Geffen	Music Orb@{1}-Geffen
+9305	Music Orb@{1}-Morroc	Music Orb@{1}-Morroc
+9306	Bone-Spiked Mountain	Bone-Spiked Mountain
+9307	Bone-Spiked Barnacle	Bone-Spiked Barnacle
+9308	Golden Rune Mountain	Golden Rune Mountain
+9309	Large Roulette Laser	Large Roulette Laser
+9310	Holy Rocket Launcher	Holy Rocket Launcher
+9311	Madogear Repair Zone	Madogear Repair Zone
+9312	Forest Puppet Type α	Forest Puppet Type α
+9313	Forest Puppet Type β	Forest Puppet Type β
+9314	Forest Puppet Type γ	Forest Puppet Type γ
+9315	Desert Puppet Type α	Desert Puppet Type α
+9316	Desert Puppet Type β	Desert Puppet Type β
+9317	Desert Puppet Type γ	Desert Puppet Type γ
+9318	Give It All for Love	Give It All for Love
+9319	Traveler-Looking Man	Traveler-Looking Man
+9320	Nervous-Looking Bard	Nervous-Looking Bard
 9321	You must be careful!	คุณต้องระวัง!
-9322	Exhausted Adventurer	นักผจญภัยที่เหนื่อยล้า
-9323	Supply Station Staff	พนักงานสถานีจัดหา
-9324	Guild Services Staff	เจ้าหน้าที่บริการกิลด์
-9325	Undersea Tunnel@{1}F	อุโมงค์ใต้ทะเล@{1}F
+9322	Exhausted Adventurer	Exhausted Adventurer
+9323	Supply Station Staff	Supply Station Staff
+9324	Guild Services Staff	Guild Services Staff
+9325	Undersea Tunnel@{1}F	Undersea Tunnel@{1}F
 9326	Payon-Flying Trigger	Payon-Flying Trigger
-9327	Territory War - Nine	สงครามดินแดน - เก้า
-9328	Caravan Party Leader	หัวหน้าปาร์ตี้คาราวาน
-9329	Wind Lord Storm Rift	รอยแยกพายุลอร์ดวายุ
-9330	Projectile_Sandstorm	กระสุน_พายุทราย
-9331	Empty Unit_Summoning	ยูนิตว่าง_การอัญเชิญ
-9332	Side-by-Side Horongs	โฮรองเคียงข้างกัน
-9333	P@{1} Red Bubble NPC	P@{1}ฟองแดง NPC
-9334	Spawn Animation Test	การทดสอบแอนิเมชันวางไข่
-9335	Freezing Trap Hunter	นักล่ากับดักเยือกแข็ง
+9327	Territory War - Nine	Territory War - Nine
+9328	Caravan Party Leader	Caravan Party Leader
+9329	Wind Lord Storm Rift	Wind Lord Storm Rift
+9330	Projectile_Sandstorm	Projectile_Sandstorm
+9331	Empty Unit_Summoning	Empty Unit_Summoning
+9332	Side-by-Side Horongs	Side-by-Side Horongs
+9333	P@{1} Red Bubble NPC	P@{1} Red Bubble NPC
+9334	Spawn Animation Test	Spawn Animation Test
+9335	Freezing Trap Hunter	Freezing Trap Hunter
 9336	Expedition Adventure	ผจญภัยสำรวจ
 9337	Auto-Battle Duration	Auto-Battle Duration
 9338	Monsters Encountered	พบกับสัตว์ประหลาด
-9339	Monster Kills Today:	มอนสเตอร์ฆ่าวันนี้:
+9339	Monster Kills Today:	มอนสเตอร์ Kills วันนี้:
 9340	Today's Top 10 Kills	การสังหาร 10 อันดับแรกของวันนี้
-9341	Teleport to Prontera	เทเลพอร์ตไปยังพรอนเทรา
+9341	Teleport to Prontera	Teleport ไปยังพรอนเทรา
 9342	Eden Group Secretary	เลขานุการกลุ่มอีเดน
 9343	Purchase successful.	ซื้อสำเร็จ
 9344	Stall Time Remaining	เวลาแผงลอยที่เหลืออยู่
@@ -354,21 +354,21 @@
 9353	DMG vs Small Enemies	DMG กับศัตรูขนาดเล็ก
 9354	Damage to Non-Bosses	สร้างความเสียหายให้กับผู้ที่ไม่ใช่บอส
 9355	No Approval Required	ไม่ต้องมีการอนุมัติ
-9356	Start a Guild Rally?	เริ่มแรลลี่กิลด์เหรอ?
+9356	Start a Guild Rally?	เริ่มแรลลี่ Guild เหรอ?
 9357	Current Floors: ${1}	ชั้นปัจจุบัน:${1}
 9358	Artillery Privileges	สิทธิพิเศษปืนใหญ่
 9359	Select Elite Members	เลือกสมาชิก Elite
-9360	This Week's Activity	กิจกรรมประจำสัปดาห์นี้
-9361	Last Week's Activity	กิจกรรมของสัปดาห์ที่แล้ว
+9360	This Week's Activity	Activity ประจำสัปดาห์นี้
+9361	Last Week's Activity	Activity ของสัปดาห์ที่แล้ว
 9362	Response Application	ใบสมัครตอบรับ
 9363	Limited-Time Tactics	กลยุทธ์จำกัดเวลา
 9364	No Members available	ไม่มีสมาชิกอยู่
-9365	Activity Points Info	ข้อมูลคะแนนกิจกรรม
+9365	Activity Points Info	ข้อมูลคะแนน Activity
 9366	Recruitment Settings	การตั้งค่าการรับสมัคร
 9367	Contribution History	ประวัติการบริจาค
 9368	Go to the Eden Group	ไปที่กลุ่มอีเดน
 9369	Repair the Gyroscope	ซ่อมไจโรสโคป
-9370	Disheveled Professor	ศาสตราจารย์ที่ไม่เรียบร้อย
+9370	Disheveled Professor	Professor ที่ไม่เรียบร้อย
 9371	Go to Ant Hell Again	ไปสู่ Ant Hell อีกครั้ง
 9372	An Unexpected Letter	จดหมายที่ไม่คาดคิด
 9373	Keep the Appointment	นัดหมายไว้ครับ
@@ -399,12 +399,12 @@
 9398	Opening Dialogue@{1}	บทสนทนาเปิด@{1}
 9399	Dialogue with Button	บทสนทนาพร้อมปุ่ม
 9400	Why did you call us?	ทำไมคุณถึงโทรหาเรา?
-9401	Bobo, that's enough.	โบโบ้ ก็พอแล้ว
+9401	Bobo, that's enough.	Bobo ก็พอแล้ว
 9402	Tell him your intent	บอกความตั้งใจของคุณให้เขาทราบ
 9403	Take the Memory Form	รับแบบฟอร์มหน่วยความจำ
 9404	Darling, I love you!	ที่รัก ฉันรักคุณ!
 9405	Oh... Oh... Waaaaah!	โอ้... โอ้... ว้าว!
-9406	...How did you know?	...คุณรู้ได้อย่างไร?
+9406	...How did you know?	... คุณรู้ได้อย่างไร?
 9407	Hey, don't touch me!	เฮ้ อย่าแตะต้องฉัน!
 9408	Yes, I want to leave	ใช่ ฉันอยากจะออกไป
 9409	Enter the Next Stage	เข้าสู่สเตจถัดไป
@@ -433,33 +433,33 @@
 9432	Martial Artist Class	คลาสศิลปินศิลปะการต่อสู้
 9433	Identity Badge Items	รายการป้ายประจำตัว
 9434	Wide-Area High Burst	ระเบิดสูงเป็นบริเวณกว้าง
-9435	Activate Trap Hunter	เปิดใช้งานนักล่ากับดัก
-9436	Priest Normal Attack	นักบวช โจมตีปกติ
-9437	Wind Style - Tornado	ทรงลม - Tornado
-9438	Earth Style - Burrow	Earth Style - โพรง
-9439	Wind Style - Monsoon	ทรงลม-Monsoon
-9440	Talk Style - Monsoon	ทรง Talk - Monsoon
-9441	Identity Card Revive	บัตรประจำตัวประชาชนฟื้นคืนชีพ
-9442	Gravitational Impact	แรงโน้มถ่วง
-9443	Switch to Ice Turret	เปลี่ยนเป็นป้อมปืนน้ำแข็ง
-9444	Kun Spit Out Players	คุนถุยผู้เล่นออกมา
-9445	Trigger Linear Laser	ทริกเกอร์เลเซอร์เชิงเส้น
-9446	One Random Shockwave	คลื่นกระแทกแบบสุ่มหนึ่งอัน
-9447	Scorched Earth Brand	ยี่ห้อเกรียมเอิร์ธ
-9448	Abyssal Cross Impact	ผลกระทบจาก Abyssal Cross
-9449	Super Lightning Bolt	ซูเปอร์ไลท์นิ่งโบลท์
-9450	Focused Arrow Strike	การโจมตีด้วยลูกศรที่เน้น
+9435	Activate Trap Hunter	เปิดใช้งาน Trap Hunter
+9436	Priest Normal Attack	Priest Normal Attack
+9437	Wind Style - Tornado	Wind Style - Tornado
+9438	Earth Style - Burrow	Earth Style - Burrow
+9439	Wind Style - Monsoon	Wind Style - Monsoon
+9440	Talk Style - Monsoon	Talk Style - Monsoon
+9441	Identity Card Revive	Identity Card Revive
+9442	Gravitational Impact	Gravitational Impact
+9443	Switch to Ice Turret	Switch to Ice Turret
+9444	Kun Spit Out Players	Kun Spit Out Players
+9445	Trigger Linear Laser	Trigger Linear Laser
+9446	One Random Shockwave	One Random Shockwave
+9447	Scorched Earth Brand	Scorched Earth Brand
+9448	Abyssal Cross Impact	Abyssal Cross Impact
+9449	Super Lightning Bolt	Super Lightning Bolt
+9450	Focused Arrow Strike	Focused Arrow Strike
 9451	Sacred Wood Wrapping	Sacred Wood Wrapping
-9452	Blessed Sacred Glyph	อักษรศักดิ์สิทธิ์ศักดิ์สิทธิ์
-9453	Sacred Garment Blank	อาภรณ์ศักดิ์สิทธิ์เปล่า
-9454	^{1}[Side Quest]^{2}	^{1}[ภารกิจด้านข้าง]^{2}
-9455	^{1}[Main Quest]^{2}	^{1}[ภารกิจหลัก]^{2}
-9456	^{1}[Commission]^{2}	^{1}[คอมมิชชั่น]^{2}
+9452	Blessed Sacred Glyph	Blessed Sacred Glyph
+9453	Sacred Garment Blank	Sacred Garment Blank
+9454	^{1}[Side Quest]^{2}	^{1}[Side Quest]^{2}
+9455	^{1}[Main Quest]^{2}	^{1}[Main Quest]^{2}
+9456	^{1}[Commission]^{2}	^{1}[Commission]^{2}
 9457	Rent a Cart Merchant	เช่ารถรถเข็น
 9458	Make Lots of Friends	สร้างเพื่อนมากมาย
 9459	Generous Yet Selfish	ใจกว้างแต่เห็นแก่ตัว
 9460	Approaching the Core	Approaching the Core
-9461	The Perilous Pyramid	พีระมิดที่เต็มไปด้วยอันตราย
+9461	The Perilous Pyramid	Pyramid ที่เต็มไปด้วยอันตราย
 9462	A Strange Phenomenon	ปรากฏการณ์ประหลาด
 9463	An Unprovoked Attack	การโจมตีที่ไม่ได้รับการพิสูจน์
 9464	Dragon Coffin Island	เกาะโลงศพมังกร
@@ -486,21 +486,21 @@
 9485	An axe made of iron.	ขวานทำจากเหล็ก
 9486	Thunderous Hammering	การตอกอย่างดุเดือด
 9487	Search by Skill Name	ค้นหาตามชื่อทักษะ
-9488	Ranged Amplification	การขยายสัญญาณแบบระยะไกล
-9489	Pet Shard: Wind Lord	ชิ้นส่วนสัตว์เลี้ยง: เจ้าแห่งสายลม
-9490	Pet Shard: Fire Lord	ชิ้นส่วนสัตว์เลี้ยง: เจ้าแห่งไฟ
-9491	Pet Shard: Wild Rose	ชิ้นส่วนสัตว์เลี้ยง: กุหลาบป่า
-9492	Pet Shard: Nepenthes	ชิ้นส่วนสัตว์เลี้ยง: หม้อข้าวหม้อแกงลิง
-9493	Pet Shard: Garm Baby	Pet Shard: การ์มเบบี้
-9494	Pet Shard: Baby Isis	Pet Shard: ไอซิสตัวน้อย
-9495	Pet Shard: Nightmare	ชิ้นส่วนสัตว์เลี้ยง: ฝันร้าย
-9496	Random Card Gift Box	กล่องของขวัญการ์ดสุ่ม
-9497	Dig - Precious Chest	ขุด - หีบอันล้ำค่า
-9498	Mushroom Tomato Soup	ซุปมะเขือเทศเห็ด
-9499	Strawberry Milkshake	สตรอเบอร์รี่มิลค์เชค
-9500	Green Lemon Cocktail	ค็อกเทลกรีนเลมอน
-9501	Citruswood Fruit Tea	ชาผลไม้รสส้ม
-9502	Mainstay Potion Pack	แพ็กน้ำยาหลัก
+9488	Ranged Amplification	Ranged Amplification
+9489	Pet Shard: Wind Lord	Pet Shard: Wind Lord
+9490	Pet Shard: Fire Lord	Pet Shard: Fire Lord
+9491	Pet Shard: Wild Rose	Pet Shard: Wild Rose
+9492	Pet Shard: Nepenthes	Pet Shard: Nepenthes
+9493	Pet Shard: Garm Baby	Pet Shard: Garm Baby
+9494	Pet Shard: Baby Isis	Pet Shard: Baby Isis
+9495	Pet Shard: Nightmare	Pet Shard: Nightmare
+9496	Random Card Gift Box	Random Card Gift Box
+9497	Dig - Precious Chest	Dig - Precious Chest
+9498	Mushroom Tomato Soup	Mushroom Tomato Soup
+9499	Strawberry Milkshake	Strawberry Milkshake
+9500	Green Lemon Cocktail	Green Lemon Cocktail
+9501	Citruswood Fruit Tea	Citruswood Fruit Tea
+9502	Mainstay Potion Pack	Mainstay Potion Pack
 9503	Lord Knight Portrait	ภาพเหมือนอัศวินลอร์ด
 9504	Rune Knight Portrait	ภาพเหมือนของรูนไนท์
 9505	Royal Guard Portrait	ภาพทหารองครักษ์
@@ -508,36 +508,36 @@
 9507	High Priest Portrait	ภาพเหมือนของมหาปุโรหิต
 9508	Mastersmith Portrait	ภาพเหมือนของมาสเตอร์สมิธ
 9509	Artisan's Mark Badge	Artisan's Mark Badge
-9510	Masterless Soul Core	แกนวิญญาณไร้ผู้เชี่ยวชาญ
-9511	Live Coal of Insight	ถ่านหินสดแห่งความเข้าใจ
+9510	Masterless Soul Core	Masterless Soul Core
+9511	Live Coal of Insight	Live Coal of Insight
 9512	Nothing of substance	ไม่มีสารใดๆ
-9513	Energy Control Valve	วาล์วควบคุมพลังงาน
-9514	Necklace of Oblivion	สร้อยคอแห่งการลืมเลือน
-9515	Peco Peco's Feathers	ขน Peco Peco
-9516	Supreme Pet EXP Book	หนังสือ EXP สัตว์เลี้ยงขั้นสุดยอด
-9517	Pet Training Diary I	บันทึกการฝึกสัตว์เลี้ยง I
-9518	Basic Ignition Agent	สารจุดระเบิดพื้นฐาน
-9519	Moon Star Core - Red	แกนดาวพระจันทร์ - สีแดง
+9513	Energy Control Valve	Energy Control Valve
+9514	Necklace of Oblivion	Necklace of Oblivion
+9515	Peco Peco's Feathers	Peco Peco's Feathers
+9516	Supreme Pet EXP Book	Supreme Pet EXP Book
+9517	Pet Training Diary I	Pet Training Diary I
+9518	Basic Ignition Agent	Basic Ignition Agent
+9519	Moon Star Core - Red	Moon Star Core - Red
 9520	Royal City War S@{1}	สงครามเมืองหลวง S@{1}
-9521	【Adventure Party】MVP	【ปาร์ตี้ผจญภัย】MVP
-9522	Sun Star Core - Blue	แกนซันสตาร์ - สีฟ้า
-9523	Legendary Weapon Ore	แร่อาวุธในตำนาน
-9524	Crystal of Confusion	คริสตัลแห่งความสับสน
-9525	Lv. @{1} Bow (No BD)	เลเวล@{1}โบว์ (ไม่มี BD)
-9526	Lv. @{1} @{2} Shield	เลเวล@{1}@{2}ชิลด์
-9527	Lv. @{1} @{2} Dagger	เลเวลกริช@{1}@{2}
-9528	Super Tournament Rod	Super Tournament
-9529	Intermediate Bow@{1}	คันธนูระดับกลาง@{1}
-9530	Novice Composite Bow	ธนูคอมโพสิตมือใหม่
-9531	Staff of Destruction	ไม้เท้าแห่งการทำลายล้าง
-9532	Survivor's Rod (Dex)	คันเบ็ดของผู้รอดชีวิต (Dex)
-9533	Two-Tone - Green/Red	ทูโทน - เขียว/แดง
+9521	【Adventure Party】MVP	【Adventure Party】MVP
+9522	Sun Star Core - Blue	Sun Star Core - Blue
+9523	Legendary Weapon Ore	Legendary Weapon Ore
+9524	Crystal of Confusion	Crystal of Confusion
+9525	Lv. @{1} Bow (No BD)	Lv. @{1} Bow (No BD)
+9526	Lv. @{1} @{2} Shield	Lv. @{1} @{2} Shield
+9527	Lv. @{1} @{2} Dagger	Lv. @{1} @{2} Dagger
+9528	Super Tournament Rod	Super Tournament Rod
+9529	Intermediate Bow@{1}	Intermediate Bow@{1}
+9530	Novice Composite Bow	Novice Composite Bow
+9531	Staff of Destruction	Staff of Destruction
+9532	Survivor's Rod (Dex)	Survivor's Rod (Dex)
+9533	Two-Tone - Green/Red	Two-Tone - Green/Red
 9534	Allocate Base Points	จัดสรรคะแนนฐาน
 9535	Not enough item uses	ใช้รายการไม่เพียงพอ
 9536	Talent Level too low	ระดับความสามารถพิเศษต่ำเกินไป
-9537	Codex Points (Books)	Codex Points (หนังสือ)
-9538	Codex Points (Cards)	Codex (การ์ด)
-9539	Card: Thief Bug Male	การ์ด: จอมโจรตัวผู้
+9537	Codex Points (Books)	Codex Points (Books)
+9538	Codex Points (Cards)	Codex Points (Cards)
+9539	Card: Thief Bug Male	Card: Thief Bug Male
 9540	Equipment Appraisal:	การประเมินอุปกรณ์:
 9541	Auction Pre-purchase	Auction Pre-purchase
 9542	How to Gain Intimacy	วิธีสร้างความใกล้ชิด
@@ -548,25 +548,25 @@
 9547	Continuous Gathering	การรวบรวมอย่างต่อเนื่อง
 9548	Request from Friends	คำขอจากเพื่อน
 9549	Outfit-Only Sequence	ลำดับเครื่องแต่งกายเท่านั้น
-9550	Underwater Fireworks	ดอกไม้ไฟใต้น้ำ
-9551	Powerful Shield Bash	ทุบตีโล่อันทรงพลัง
+9550	Underwater Fireworks	Fireworks ใต้น้ำ
+9551	Powerful Shield Bash	Powerful Shield Bash
 9552	Terminate Killstreak	ยุติ Killstreak
 9553	Unrivaled Killstreak	Killstreak ที่ไม่มีใครเทียบได้
-9554	Clutch Crowd Control	คลัตช์ควบคุมฝูงชน
+9554	Clutch Crowd Control	คลัตช์ Control ฝูงชน
 9555	Consecutive Captures	การจับภาพติดต่อกัน
 9556	Defeat the Commander	เอาชนะผู้บัญชาการ
 9557	Most Bosses Defeated	บอสส่วนใหญ่พ่ายแพ้
-9558	Most Flags Delivered	ส่งแฟล็กส่วนใหญ่แล้ว
+9558	Most Flags Delivered	ส่ง Flags ส่วนใหญ่แล้ว
 9559	No Matching Monsters	ไม่มีมอนสเตอร์ที่ตรงกัน
 9560	Theme Unlocked: ${1}	แล้ว:${1}
 9561	Card [${1}] unlocked	[${1}] แล้ว
 9562	Otherworldly Arrival	การมาถึงจากต่างโลก
-9563	Revive [Buff Effect]	ฟื้นคืนชีพ [เอฟเฟกต์บัฟ]
+9563	Revive [Buff Effect]	ฟื้นคืนชีพ [Buff Effect]
 9564	Movement Restriction	ข้อ จำกัด การเคลื่อนไหว
 9565	High-Energy Eruption	การปะทุพลังงานสูง
-9566	New Lv. @{1} Bonfire	เลเวลใหม่@{1}กองไฟ
+9566	New Lv. @{1} Bonfire	เลเวลใหม่@{1}Bonfire
 9567	Switch Transform@{1}	สวิตช์แปลง@{1}
-9568	Increased Spear ASPD	เพิ่มหอก ASPD
+9568	Increased Spear ASPD	เพิ่ม Spear ASPD
 9569	Shield Defense Orbit	วงโคจรป้องกันโล่
 9570	Extra Skill Critical	ทักษะพิเศษคริติคอล
 9571	Skill Area of Effect	พื้นที่เอฟเฟกต์ของทักษะ
@@ -576,29 +576,29 @@
 9575	Gameplay Information	แผนที่การเล่นเกม
 9576	Elemental Attunement	การปรับองค์ประกอบ
 9577	Continuous Page Gain	ได้รับหน้าอย่างต่อเนื่อง
-9578	Wall of Darkness SFX	กำแพงแห่งความมืด SFX
+9578	Wall of Darkness SFX	กำแพงแห่ง Darkness SFX
 9579	Ice and Thunder Mark	มาร์คน้ำแข็งและสายฟ้า
 9580	Check Whether Killed	ตรวจสอบว่าถูกฆ่าหรือไม่
-9581	Bongun Passive Check	Bongun การตรวจสอบแบบพาสซีฟ
+9581	Bongun Passive Check	Bongun การตรวจสอบแบบ Passive
 9582	Bloodthirsty Impulse	แรงกระตุ้นกระหายเลือด
-9583	Ancient Tree Passive	ต้นไม้โบราณ พาสซีฟ
-9584	Warrior Lola Passive	นักรบ โลล่า พาสซีฟ
+9583	Ancient Tree Passive	Ancient Tree Passive
+9584	Warrior Lola Passive	นักรบ โลล่า Passive
 9585	New Player Link Node	โหนดลิงก์ผู้เล่นใหม่
-9586	Curse of the Pyramid	คำสาปแห่งพีระมิด
+9586	Curse of the Pyramid	คำสาปแห่ง Pyramid
 9587	Shield Cooldown Buff	บัฟคูลดาวน์โล่
 9588	Reset Rift Impact CD	รีเซ็ตซีดี Rift Impact
 9589	Enhance Auto Counter	ปรับปรุงตัวนับอัตโนมัติ
 9590	Shield Visual Effect	เอฟเฟกต์ภาพโล่
 9591	Frenzy Visual Effect	เอฟเฟ็กต์ภาพสุดมัน
 9592	Mounted State-Dragon	เมานท์ State-Dragon
-9593	Hundred Spear Charge	พุ่งหอกร้อยครั้ง
-9594	Self-Destruct Charge	ประจุทำลายตัวเอง
+9593	Hundred Spear Charge	พุ่ง Spear ร้อยครั้ง
+9594	Self-Destruct Charge	ประจุ Self-Destruct
 9595	Black Phantom Floors	พื้น Black Phantom
 9596	Strength Convergence	การบรรจบกันของความแข็งแกร่ง
 9597	Phase Three Strategy	กลยุทธ์ระยะที่สาม
 9598	Speaking Permissions	สิทธิ์ในการพูด
 9599	Allocate Job Talents	จัดสรรความสามารถพิเศษในการทำงาน
-9600	Already in a Tavern.	อยู่ในโรงเตี๊ยมแล้ว
+9600	Already in a Tavern.	อยู่ใน Tavern แล้ว
 9601	Complete ${1} quests	ทำภารกิจ${1}ให้สำเร็จ
 9602	^{1}Defeat Eddga^{2}	^{1}เอาชนะ Eddga^{2}
 9603	^{1}Defeat Vocal^{2}	^{1}เอาชนะเสียงร้อง^{2}
@@ -613,7 +613,7 @@
 9612	Incorrect item price	ราคาสินค้าไม่ถูกต้อง
 9613	Order does not exist	ไม่มีคำสั่งซื้อ
 9614	Invalid gift message	ข้อความของขวัญไม่ถูกต้อง
-9615	Invalid Tavern name.	ชื่อโรงเตี๊ยมไม่ถูกต้อง
+9615	Invalid Tavern name.	ชื่อ Tavern ไม่ถูกต้อง
 9616	${1} is not mounted.	${1}ไม่ได้ถูกเมาท์
 9617	${1} is on cooldown.	${1}อยู่ในคูลดาวน์
 9618	Invalid skill target	เป้าหมายทักษะไม่ถูกต้อง
@@ -634,12 +634,12 @@
 9633	Battle Chant Enhance	เพิ่มประสิทธิภาพการร้องเพลงต่อสู้
 9634	Flame Attack Enhance	เพิ่มประสิทธิภาพการโจมตีด้วยเปลวไฟ
 9635	Stunt-Affected Stats	สถิติที่ได้รับผลกระทบจากการแสดงความสามารถ
-9636	Magic-Tempered Blade	ใบมีด Magic-Tempered
+9636	Magic-Tempered Blade	Blade Magic-Tempered
 9637	Magic-Breaking Curse	คำสาปทำลายเวทมนตร์
 9638	Minor DMG vs All Job	ความเสียหายเล็กน้อยเทียบกับงานทั้งหมด
 9639	Seize the Initiative	ยึดความคิดริเริ่ม
 9640	Double Attack LV@{1}	โจมตีสองเท่า LV@{1}
-9641	^{1}Magic Cannon^{2}	^{1}ปืนใหญ่วิเศษ^{2}
+9641	^{1}Magic Cannon^{2}	^{1}Cannon วิเศษ^{2}
 9642	^{1}Gravity Trap^{2}	^{1}เครื่องดักแรงโน้มถ่วง^{2}
 9643	Item transfer failed	การถ่ายโอนรายการล้มเหลว
 9644	Player level too low	ระดับผู้เล่นต่ำเกินไป
@@ -652,12 +652,12 @@
 9651	Battlefield Backpack	กระเป๋าเป้ Battlefield
 9652	You are already here	คุณอยู่ที่นี่แล้ว
 9653	Not enough supplies.	วัสดุสิ้นเปลืองไม่เพียงพอ
-9654	No Guild garrisoned.	ไม่มีกิลด์ถูกคุมขัง
+9654	No Guild garrisoned.	ไม่มี Guild ถูกคุมขัง
 9655	Lu Bu's first skill.	ทักษะแรกของ Lu Bu
 9656	Displayed: ${1}/${2}	แสดง:${1}/${2}
 9657	Current Preset saved	บันทึกค่าที่ตั้งล่วงหน้าปัจจุบันแล้ว
 9658	Purchase Pass Levels	ระดับการซื้อผ่าน
-9659	Guild group is full.	กลุ่มกิลด์เต็มแล้ว
+9659	Guild group is full.	กลุ่ม Guild เต็มแล้ว
 9660	Mail title is empty.	ว่างเปล่า
 9661	Failed to send mail.	ไม่สามารถส่งอีเมลได้
 9662	Friends Far and Wide	เพื่อนแดนไกล
@@ -671,52 +671,52 @@
 9670	Any recommendations?	มีคำแนะนำบ้างไหม?
 9671	You finally made it.	ในที่สุดคุณก็ทำมันสำเร็จ
 9672	Farewell, my friend.	ลาก่อนเพื่อน
-9673	Join Adventure Guild	เข้าร่วมกิลด์ผจญภัย
+9673	Join Adventure Guild	เข้าร่วม Guild ผจญภัย
 9674	Adventure Group Oath	คำสาบานกลุ่มผจญภัย
 9675	Matchmaking canceled	การจับคู่ถูกยกเลิก
-9676	Immune to 【Poisoned】	ภูมิคุ้มกันต่อ 【พิษ】
+9676	Immune to 【Poisoned】	ภูมิคุ้มกันต่อ 【Poisoned】
 9677	Get Help from Others	รับความช่วยเหลือจากผู้อื่น
 9678	Tap to Preset Skills	แตะเพื่อตั้งค่าทักษะล่วงหน้า
-9679	Select Divine Totems	เลือกโทเท็มศักดิ์สิทธิ์
+9679	Select Divine Totems	เลือก Divine Totems
 9680	Damage data cleared.	ข้อมูลความเสียหายถูกล้างแล้ว
 9681	Enable Announcements	เปิดใช้งานการประกาศ
-9682	Lucky Lunatic Lv@{1}	ลัคกี้คนบ้า Lv@{1}
+9682	Lucky Lunatic Lv@{1}	ลัคกี้ Lunatic Lv@{1}
 9683	Total Treasure Hunts	การล่าขุมทรัพย์ทั้งหมด
 9684	Normal Chest Rewards	รางวัลหีบปกติ
-9685	Gryphon Skill Shield	ชิลด์ทักษะ Gryphon
+9685	Gryphon Skill Shield	Shield ทักษะ Gryphon
 9686	Goddess's Protection	การคุ้มครองของเทพธิดา
-9687	Player Aggro Control	ผู้เล่นควบคุม Aggro
+9687	Player Aggro Control	ผู้เล่น Control Aggro
 9688	Skill @{1}—Rectangle	@{1}— สี่เหลี่ยมผืนผ้า
 9689	Left Rectangular AOE	AOE สี่เหลี่ยมด้านซ้าย
 9690	Rear Rectangular AOE	AOE สี่เหลี่ยมด้านหลัง
-9691	Summon Thief Bug@{1}	อัญเชิญแมลงจอมโจร@{1}
-9692	Move back Afterimage	ย้ายย้อนกลับภาพหลัง
-9693	Spawn Effect - Elite	เอฟเฟกต์วางไข่ - Elite
-9694	Holy Cross Exorciser	หมอผีโฮลี่ครอส
+9691	Summon Thief Bug@{1}	Summon Thief Bug@{1}
+9692	Move back Afterimage	Move back Afterimage
+9693	Spawn Effect - Elite	Spawn Effect - Elite
+9694	Holy Cross Exorciser	Exorciser โฮลี่ครอส
 9695	Sanctuary Redemption	การไถ่ถอนเขตศักดิ์สิทธิ์
 9696	Prayer of Holy Might	คำอธิษฐานแห่งพลังศักดิ์สิทธิ์
 9697	Expand the Territory	ขยายอาณาเขต
-9698	Enhanced Trap Hunter	นักล่ากับดักที่ได้รับการปรับปรุง
-9699	Immobilize Dimension	ตรึงมิติ
-9700	Glast Heim Monastery	อารามกลาสไฮม์
+9698	Enhanced Trap Hunter	Trap Hunter ที่ได้รับการปรับปรุง
+9699	Immobilize Dimension	Immobilize Dimension
+9700	Glast Heim Monastery	Glast Heim Monastery
 9701	Adventure Group Call	การโทรกลุ่มผจญภัย
 9702	Recipe ${1} unlocked	สูตร${1}ปลดล็อคแล้ว
-9703	【Tap to Participate】	【แตะเพื่อเข้าร่วม】
+9703	【Tap to Participate】	【Tap to Participate】
 9704	Festival Predictions	ทำนายเทศกาล
 9705	Failed to play action	ไม่สามารถเล่นแอ็คชัน
 9706	Resting in meditation	การพักผ่อนในการทำสมาธิ
 9707	Baphomet PDEF Enhance	Baphomet PDEF เพิ่มประสิทธิภาพ
-9708	Pointed Horn Headband	ที่คาดผม Horn แบบแหลม
-9709	Flying Goblin Balloon	ลูกโป่งบินก็อบลิน
-9710	Wind-Up Rocking Chair	เก้าอี้โยกแบบวินด์อัพ
-9711	Eggshell Chubby Chick	ไข่ไก่อวบอ้วน
+9708	Pointed Horn Headband	Pointed Horn Headband
+9709	Flying Goblin Balloon	Flying Goblin Balloon
+9710	Wind-Up Rocking Chair	Wind-Up Rocking Chair
+9711	Eggshell Chubby Chick	Eggshell Chubby Chick
 9712	Seconds Until Berserk	วินาทีจนกระทั่ง Berserk
 9713	Defense Fortification	ป้อมปราการป้องกัน
 9714	Identical buffs stack	สแต็คบัฟที่เหมือนกัน
 9715	No more Notifications	ไม่มีการแจ้งเตือนอีกต่อไป
 9716	Otherworldly Invasion	การบุกรุกจากโลกอื่น
 9717	Help Present the Gift	ช่วยนำเสนอของขวัญ
-9718	Physical Penetration%	% การเจาะทางกายภาพ
+9718	Physical Penetration%	% Physical Penetration
 9719	MP Recovery Received%	MP ที่ได้รับการกู้คืน%
 9720	Damage to Fish Race %	ความเสียหายต่อการแข่งขันปลา %
 9721	Immobilize Resistance	ต้านทานการเคลื่อนที่
@@ -724,18 +724,18 @@
 9723	Monster Battle Status	สถานะการต่อสู้ของสัตว์ประหลาด
 9724	View Duo Player Count	ดูจำนวนผู้เล่น Duo
 9725	^{1}United as One^{2}	^{1}รวมเป็นหนึ่ง^{2}
-9726	Help the Professor Up	ช่วยศาสตราจารย์ขึ้น
+9726	Help the Professor Up	Help the Professor Up
 9727	Complete Louie's game	จบเกมของ Louie
 9728	This event has ended.	กิจกรรมนี้สิ้นสุดแล้ว
 9729	Royal City Settlement	ข้อตกลงรอยัลซิตี้
 9730	Defeat the Marionette	เอาชนะหุ่นเชิด
 9731	Click Me to Start Now	คลิกฉันเพื่อเริ่มเลย
 9732	Head toward Prontera.	มุ่งหน้าไปยังพรอนเทรา
-9733	Kill @{1} Orc Zombies	ฆ่าซอมบี้@{1}Orc
+9733	Kill @{1} Orc Zombies	KillZombies@{1}Orc
 9734	Prepare for the race.	เตรียมพร้อมการแข่งขัน
 9735	Allocate Stat Points.	จัดสรรคะแนนสถิติ
 9736	Obtain the Lion Mount	รับ Lion Mount
-9737	Ride the Alpaca mount	ขี่อัลปาก้า
+9737	Ride the Alpaca mount	RideAlpaca
 9738	Encounter Cards: ${1}	:${1}
 9739	Talk to Boya and Wule	คุยกับ Boya และ Wule
 9740	Cannot refresh again.	ไม่สามารถรีเฟรชอีกครั้ง
@@ -744,29 +744,29 @@
 9743	Trade Review Approved	อนุมัติการตรวจสอบการค้าแล้ว
 9744	Ilmata, God of Nature	อิลมาตา เทพเจ้าแห่งธรรมชาติ
 9745	Trade Listing Removed	รายการการค้าถูกลบออก
-9746	Escort Activity Quest	ภารกิจกิจกรรมคุ้มกัน
+9746	Escort Activity Quest	ภารกิจ Activity คุ้มกัน
 9747	Personal Points: ${1}	คะแนนส่วนตัว:${1}
 9748	Maya Vine Link Effect	เอฟเฟกต์ลิงก์ Maya Vine
 9749	Dumby's Request Wheel	วงล้อคำขอของดัมบี้
 9750	This item has expired	สินค้านี้หมดอายุแล้ว
 9751	Enhancement Resonance	เสียงสะท้อนที่เพิ่มขึ้น
 9752	Standard Monthly Pass	บัตรรายเดือนแบบมาตรฐาน
-9753	Tempered Steel Emblem	ตราสัญลักษณ์เหล็กนิรภัย
+9753	Tempered Steel Emblem	ตราสัญลักษณ์ Steel นิรภัย
 9754	^{1}Making a Name^{2}	^{1}สร้างชื่อ^{2}
 9755	^{1}Rising Renown^{2}	^{1}ชื่อเสียงที่เพิ่มขึ้น^{2}
 9756	Request to Join Party	ขอเข้าร่วมปาร์ตี้
 9757	CRIT & CRIT DMG Build	CRIT & CRIT DMG Build
-9758	Find the Guild Leader	ค้นหาหัวหน้ากิลด์
+9758	Find the Guild Leader	ค้นหาหัวหน้า Guild
 9759	Attack Star Core @{1}	Attack Star Core@{1}
 9760	Spray the pheromones.	สเปรย์ฟีโรโมน
-9761	Talk to the Professor	พูดคุยกับศาสตราจารย์
+9761	Talk to the Professor	Talk กับ Professor
 9762	Title Function locked	ฟังก์ชันหัวเรื่องถูกล็อค
-9763	Soul Breaker Assassin	นักฆ่าโซลเบรกเกอร์
+9763	Soul Breaker Assassin	Soul Breaker Assassin
 9764	Participation Rewards	รางวัลการเข้าร่วม
 9765	Refinement Successful	การปรับแต่งสำเร็จแล้ว
 9766	Skill Build Resonance	ทักษะสร้างเสียงสะท้อน
-9767	Assign Guild Position	กำหนดตำแหน่งกิลด์
-9768	Life Skill - Gardener	ทักษะชีวิต - คนสวน
+9767	Assign Guild Position	กำหนดตำแหน่ง Guild
+9768	Life Skill - Gardener	ทักษะ Life - คนสวน
 9769	Enhancement Materials	วัสดุเพิ่มประสิทธิภาพ
 9770	Public Listings: ${1}	รายชื่อสาธารณะ:${1}
 9771	Pre-purchase canceled	การซื้อล่วงหน้าถูกยกเลิก
@@ -787,7 +787,7 @@
 9786	The mode ends in ${1}	โหมดสิ้นสุดใน${1}
 9787	Supply Trade Quantity	ปริมาณการค้าอุปทาน
 9788	Approve this request?	Approve this request?
-9789	Guild Supply Quantity	ปริมาณการจัดหากิลด์
+9789	Guild Supply Quantity	ปริมาณการจัดหา Guild
 9790	Stronghold War Record	บันทึกสงครามฐานที่มั่น
 9791	Qualification Bidding	การประมูลคุณสมบัติ
 9792	Current Bidding Phase	ขั้นตอนการประมูลปัจจุบัน
@@ -800,88 +800,88 @@
 9799	This position is full	ตำแหน่งนี้เต็มแล้ว
 9800	Event not yet started	กิจกรรมยังไม่เริ่ม
 9801	This item is Sold out	สินค้าชิ้นนี้ขายหมดแล้ว
-9802	Opens in ${1} minutes	เปิดใน${1}นาที
-9803	Opens within 1 minute	เปิดภายใน 1 นาที
+9802	Opens in ${1} minutes	Opens ใน${1}นาที
+9803	Opens within 1 minute	Opens ภายใน 1 นาที
 9804	Keep up to 20 records	เก็บบันทึกได้สูงสุด 20 รายการ
 9805	Main Combat - Assault	การต่อสู้หลัก - การจู่โจม
-9806	Main Battle - Control	การต่อสู้หลัก - การควบคุม
+9806	Main Battle - Control	การต่อสู้หลัก - การ Control
 9807	Pet Protection Access	การเข้าถึงการคุ้มครองสัตว์เลี้ยง
 9808	Place Bet: Successful	วางเดิมพัน: สำเร็จ
-9809	Sketch Card: Orc Hero	การ์ดร่าง: ออร์คฮีโร่
-9810	Sketch Card: Mistress	การ์ดสเก็ตช์: นายหญิง
-9811	Sketch Card: Baphomet	การ์ดสเก็ตช์: บาโฟเมต
-9812	Sketch Card: Deviling	การ์ดร่าง: ปีศาจ
-9813	Sketch Card: Angeling	การ์ดสเก็ตช์: นางฟ้า
-9814	Sketch Card: Orc Lord	การ์ดร่าง: ออร์คลอร์ด
-9815	Sketch Card: Phreeoni	การ์ดสเก็ตช์: Phreeoni
-9816	Card: Archer Skeleton	การ์ด: Archer Skeleton
-9817	Card: Skeleton Worker	: คนงานโครงกระดูก
-9818	Card: Pirate Skeleton	การ์ด: โครงกระดูกโจรสลัด
-9819	Portrait Card: Osiris	การ์ดแนวตั้ง: โอซิริส
-9820	Portrait Card: Kraken	การ์ดแนวตั้ง: Kraken
-9821	Shadow Card: Phreeoni	การ์ดเงา: พรีโอนี
-9822	Shadow Card: Baphomet	การ์ดเงา: บาโฟเมต
-9823	Shadow Card: Angeling	การ์ดเงา: นางฟ้า
-9824	Shadow Card: Orc Lord	การ์ดเงา: ออร์คลอร์ด
-9825	Shadow Card: Deviling	การ์ดเงา: ปีศาจ
-9826	Shadow Card: Orc Hero	การ์ดเงา: ออร์คฮีโร่
-9827	Shadow Card: Mistress	การ์ดเงา: นายหญิง
+9809	Sketch Card: Orc Hero	Sketch Card: Orc Hero
+9810	Sketch Card: Mistress	Sketch Card: Mistress
+9811	Sketch Card: Baphomet	Sketch Card: Baphomet
+9812	Sketch Card: Deviling	Sketch Card: Deviling
+9813	Sketch Card: Angeling	Sketch Card: Angeling
+9814	Sketch Card: Orc Lord	Sketch Card: Orc Lord
+9815	Sketch Card: Phreeoni	Sketch Card: Phreeoni
+9816	Card: Archer Skeleton	Card: Archer Skeleton
+9817	Card: Skeleton Worker	Card: Skeleton Worker
+9818	Card: Pirate Skeleton	Card: Pirate Skeleton
+9819	Portrait Card: Osiris	Portrait Card: Osiris
+9820	Portrait Card: Kraken	Portrait Card: Kraken
+9821	Shadow Card: Phreeoni	Shadow Card: Phreeoni
+9822	Shadow Card: Baphomet	Shadow Card: Baphomet
+9823	Shadow Card: Angeling	Shadow Card: Angeling
+9824	Shadow Card: Orc Lord	Shadow Card: Orc Lord
+9825	Shadow Card: Deviling	Shadow Card: Deviling
+9826	Shadow Card: Orc Hero	Shadow Card: Orc Hero
+9827	Shadow Card: Mistress	Shadow Card: Mistress
 9828	Invalid Ritual status	สถานะพิธีกรรมไม่ถูกต้อง
 9829	Movement Speed -@{1}%	-@{1}%
 9830	Movement Speed +@{1}%	ความเร็วในการเคลื่อนที่ +@{1}%
-9831	Purifying Light Orbit	วงโคจรแสงบริสุทธิ์
-9832	Axe Tornado - Enhance	ขวานทอร์นาโด - เสริมประสิทธิภาพ
+9831	Purifying Light Orbit	Purifying Light Orbit
+9832	Axe Tornado - Enhance	Axe Tornado - Enhance
 9833	High-Speed Propulsion	High-Speed Propulsion
-9834	Cancel Transformation	ยกเลิกการแปลง
-9835	Monster Self-Destruct	สัตว์ประหลาดทำลายตัวเอง
+9834	Cancel Transformation	Cancel Transformation
+9835	Monster Self-Destruct	Monster Self-Destruct
 9836	You and Party Members	คุณและสมาชิกปาร์ตี้
 9837	Ultimate Skill Camera	สุดยอดกล้องสกิล
 9838	HP Bar Color Settings	การตั้งค่าสีของแถบ HP
-9839	Shift+Mouse Right Tap	Shift+เมาส์แตะขวา
-9840	Nightmare Mystery Box	กล่องปริศนาฝันร้าย
-9841	Skill@{1}Goblet Throw	@{1}ขว้างถ้วย
-9842	Skill@{1}Goblet Toast	ทักษะ@{1}Goblet Toast
-9843	Skill@{1}Dancing Bell	ทักษะ@{1}กระดิ่งเต้นรำ
-9844	Skill@{1} Fin Missile	ทักษะ@{1}Fin Missile
-9845	Skill@{1} Four Elites	ทักษะ@{1}สี่ยอด
-9846	Statue Rectangle @{1}	รูปปั้นสี่เหลี่ยมผืนผ้า@{1}รูปปั้น
-9847	Summon Madogear Pilot	อัญเชิญนักบิน Madogear
-9848	Madogear Pilot Repair	ซ่อมนักบิน Madogear
-9849	Jump onto the Rampart	กระโดดขึ้นไปบนกำแพง
-9850	Dracula Normal Attack	แดร็กคูล่า โจมตีปกติ
-9851	Scatter Red Envelopes	กระจายซองจดหมายสีแดง
-9852	Bobo Bubble Animation	โบโบ บับเบิ้ล แอนิเมชั่น
-9853	Lunatic Normal Attack	การโจมตีปกติที่บ้าคลั่ง
-9854	Eclipse Normal Attack	Eclipse การโจมตีปกติ
-9855	Gryphon Normal Attack	กริฟฟอน การโจมตีปกติ
-9856	Spinning Blade Strike	ดาบหมุนตี
-9857	Pharaoh Normal Attack	ฟาโรห์โจมตีปกติ
-9858	Quicksand Trap Hunter	นักล่ากับดักทรายดูด
-9859	Corrupted Soul Impact	ผลกระทบจากวิญญาณที่เสียหาย
-9860	Fruit Blossom Healing	การบำบัดด้วยดอกผลไม้
+9839	Shift+Mouse Right Tap	Shift+Mouse แตะขวา
+9840	Nightmare Mystery Box	Nightmare Mystery Box
+9841	Skill@{1}Goblet Throw	Skill@{1}Goblet Throw
+9842	Skill@{1}Goblet Toast	Skill@{1}Goblet Toast
+9843	Skill@{1}Dancing Bell	Skill@{1}Dancing Bell
+9844	Skill@{1} Fin Missile	Skill@{1} Fin Missile
+9845	Skill@{1} Four Elites	Skill@{1} Four Elites
+9846	Statue Rectangle @{1}	Statue Rectangle @{1}
+9847	Summon Madogear Pilot	Summon Madogear Pilot
+9848	Madogear Pilot Repair	Madogear Pilot Repair
+9849	Jump onto the Rampart	Jump onto the Rampart
+9850	Dracula Normal Attack	Dracula Normal Attack
+9851	Scatter Red Envelopes	Scatter Red Envelopes
+9852	Bobo Bubble Animation	Bobo Bubble Animation
+9853	Lunatic Normal Attack	Lunatic Normal Attack
+9854	Eclipse Normal Attack	Eclipse Normal Attack
+9855	Gryphon Normal Attack	Gryphon Normal Attack
+9856	Spinning Blade Strike	Spinning Blade Strike
+9857	Pharaoh Normal Attack	Pharaoh Normal Attack
+9858	Quicksand Trap Hunter	Quicksand Trap Hunter
+9859	Corrupted Soul Impact	Corrupted Soul Impact
+9860	Fruit Blossom Healing	Fruit Blossom Healing
 9861	Sign in with Facebook	เข้าสู่ระบบด้วย Facebook
 9862	Sign in with Joymaker	ลงชื่อเข้าใช้ด้วย Joymaker
 9863	Activation successful	การเปิดใช้งานสำเร็จ
-9864	Ringblade Kunai-Kunai	ริงเบลด คุไน-คุไน
-9865	Blade Deflection Easy	ใบมีดโก่งง่าย
-9866	Two Drake Waterspouts	รางน้ำ Drake สองตัว
-9867	Six Drake Waterspouts	รางน้ำ Six Drake
-9868	Drake Water Blade@{1}	ใบมีดน้ำ Drake@{1}
-9869	Stone Glyph Slash@{1}	สลักหินหิน@{1}
-9870	Silk Spit@{1} Players	Silk Spit ผู้เล่น@{1}
-9871	Laser Summons Coffins	เลเซอร์อัญเชิญโลงศพ
+9864	Ringblade Kunai-Kunai	Ringblade Kunai-Kunai
+9865	Blade Deflection Easy	Blade Deflection Easy
+9866	Two Drake Waterspouts	Two Drake Waterspouts
+9867	Six Drake Waterspouts	Six Drake Waterspouts
+9868	Drake Water Blade@{1}	Drake Water Blade@{1}
+9869	Stone Glyph Slash@{1}	Stone Glyph Slash@{1}
+9870	Silk Spit@{1} Players	Silk Spit@{1} Players
+9871	Laser Summons Coffins	Laser Summons Coffins
 9872	Unstable Green Bubble	Unstable Green Bubble
-9873	P@{1} Blue Bubble@{2}	P@{1}บลูบับเบิ้ล@{2}
-9874	Skill@{1}Intoxication	ทักษะ@{1}ความมึนเมา
-9875	Enhanced Shield Press	เครื่องกดโล่ที่ปรับปรุงแล้ว
-9876	Dance Move: Wolf Pack	ท่าเต้น: Wolf Pack
-9877	Move back Shadow Echo	ย้าย Shadow Echo กลับไป
-9878	Hip-Hop Impersonation	การเลียนแบบฮิปฮอป
-9879	Black Feather Barrage	เขื่อนขนนกสีดำ
-9880	True Dragon's Descent	เชื้อสายมังกรที่แท้จริง
-9881	S@{1}Thousand Shadows	S@{1}พันเงา
-9882	Dragon Breath (Water)	ลมหายใจมังกร (น้ำ)
-9883	Black Phantom Passive	Black Phantom พาสซีฟ
+9873	P@{1} Blue Bubble@{2}	P@{1} Blue Bubble@{2}
+9874	Skill@{1}Intoxication	Skill@{1}Intoxication
+9875	Enhanced Shield Press	Enhanced Shield Press
+9876	Dance Move: Wolf Pack	Dance Move: Wolf Pack
+9877	Move back Shadow Echo	Move back Shadow Echo
+9878	Hip-Hop Impersonation	Hip-Hop Impersonation
+9879	Black Feather Barrage	Black Feather Barrage
+9880	True Dragon's Descent	True Dragon's Descent
+9881	S@{1}Thousand Shadows	S@{1}Thousand Shadows
+9882	Dragon Breath (Water)	Dragon Breath (Water)
+9883	Black Phantom Passive	Black Phantom Passive
 9884	(Multiple Conditions)	(หลายเงื่อนไข)
 9885	Event Closure Message	คำอธิบายเหตุการณ์
 9886	Bond already deployed	Bond ใช้งานแล้ว
@@ -895,38 +895,38 @@
 9894	Confirm Teleportation	ยืนยันการเทเลพอร์ต
 9895	${1} Point Allocation	${1}การจัดสรรคะแนน
 9896	Global Cooldown: ${1}	คูลดาวน์โดยรวม:${1}
-9897	Mysterious Adventurer	นักผจญภัยลึกลับ
-9898	Treasure Dig Site NPC	NPC ไซต์ขุดสมบัติ
-9899	Transformation Manual	บทสนทนาการเปลี่ยน
-9900	【Greedy Dragon】Fafnir	【มังกรโลภ】ฟาฟเนียร์
-9901	【Charge】Blazing Demon	【ชาร์จ】ปีศาจเพลิง
-9902	【Boss】Greedy Orc Hero	【บอส】ฮีโร่ออร์คโลภ
-9903	【Boss】Greedy Phreeoni	【บอส】ปรีโอนีผู้โลภ
-9904	Resonant Clam Cluster	คลัสเตอร์หอยสะท้อน
-9905	Ring-Shaped Shockwave	คลื่นกระแทกรูปวงแหวน
-9906	Baphomet Magic Circle	วงเวทย์บาโฟเมต
-9907	MVP Dracula Tombstone	MVP แดร็กคูล่า หลุมฝังศพ
-9908	Friendly Player Dummy	หุ่นจำลองผู้เล่นที่เป็นมิตร
-9909	Phreeoni Magic Circle	พรีโอนี เมจิก เซอร์เคิล
-9910	Large Combat Supplies	เสบียงการรบขนาดใหญ่
-9911	Rogue Guild Informant	ผู้แจ้งกิลด์โกง
-9912	Lovey-Dovey Boyfriend	แฟนเลิฟวี่-โดวีย์
-9913	Sand-Something Bandit	ทราย-โจรอะไรสักอย่าง
-9914	Kafra Voting Promoter	ผู้สนับสนุนการลงคะแนนเสียงของ Kafra
-9915	Collectibles Merchant	พ่อค้าของสะสม
+9897	Mysterious Adventurer	Adventurer ลึกลับ
+9898	Treasure Dig Site NPC	Treasure Dig Site NPC
+9899	Transformation Manual	Transformation Manual
+9900	【Greedy Dragon】Fafnir	【Greedy Dragon】Fafnir
+9901	【Charge】Blazing Demon	【Charge】Blazing Demon
+9902	【Boss】Greedy Orc Hero	【Boss】Greedy Orc Hero
+9903	【Boss】Greedy Phreeoni	【Boss】Greedy Phreeoni
+9904	Resonant Clam Cluster	Resonant Clam Cluster
+9905	Ring-Shaped Shockwave	Ring-Shaped Shockwave
+9906	Baphomet Magic Circle	Baphomet Magic Circle
+9907	MVP Dracula Tombstone	MVP Dracula Tombstone
+9908	Friendly Player Dummy	Friendly Player Dummy
+9909	Phreeoni Magic Circle	Phreeoni Magic Circle
+9910	Large Combat Supplies	Large Combat Supplies
+9911	Rogue Guild Informant	Rogue Guild Informant
+9912	Lovey-Dovey Boyfriend	Lovey-Dovey Boyfriend
+9913	Sand-Something Bandit	Sand-Something Bandit
+9914	Kafra Voting Promoter	Kafra Voting Promoter
+9915	Collectibles Merchant	Collectibles Merchant
 9916	Time Limit: ${1} Days	:${1}วัน
-9917	Military Supply Staff	เจ้าหน้าที่เสบียงทหาร
-9918	Outpost Administrator	ผู้ดูแลด่านหน้า
-9919	Izlude-Flying Trigger	ทริกเกอร์บิน Izlude
-9920	Territory War - Seven	สงครามดินแดน - เซเว่น
-9921	Territory War - Eight	สงครามดินแดน - แปด
-9922	Interaction Quest NPC	ภารกิจโต้ตอบ NPC
-9923	To Prontera East Gate	ไปยังประตูตะวันออกพรอนเทรา
-9924	P@{1} Blue Bubble NPC	P@{1}บับเบิ้ลสีน้ำเงิน NPC
-9925	Enhance Claymore Trap	เสริมประสิทธิภาพกับดัก Claymore
-9926	Enhance Freezing Trap	เพิ่มประสิทธิภาพกับดักแช่แข็ง
-9927	Moonlight Flower-Easy	ดอกไม้แสงจันทร์-ง่าย
-9928	Moonlight Flower-Hard	ดอกไม้แสงจันทร์-ฮาร์ด
+9917	Military Supply Staff	Military Supply Staff
+9918	Outpost Administrator	Outpost Administrator
+9919	Izlude-Flying Trigger	Izlude-Flying Trigger
+9920	Territory War - Seven	Territory War - Seven
+9921	Territory War - Eight	Territory War - Eight
+9922	Interaction Quest NPC	Interaction Quest NPC
+9923	To Prontera East Gate	To Prontera East Gate
+9924	P@{1} Blue Bubble NPC	P@{1} Blue Bubble NPC
+9925	Enhance Claymore Trap	Enhance Claymore Trap
+9926	Enhance Freezing Trap	Enhance Freezing Trap
+9927	Moonlight Flower-Easy	Moonlight Flower-Easy
+9928	Moonlight Flower-Hard	Moonlight Flower-Hard
 9929	Difficulty Reduction:	ลดความยาก:
 9930	Daily Teammate Kills:	การสังหารเพื่อนร่วมทีมรายวัน:
 9931	Shared Teammate Kills	การสังหารเพื่อนร่วมทีมร่วมกัน
@@ -947,31 +947,31 @@
 9946	Damage to Dragon Race	สร้างความเสียหายให้กับเผ่าพันธุ์มังกร
 9947	DMG vs Medium Enemies	DMG กับศัตรูขนาดกลาง
 9948	Ability Recovery Rate	อัตราการฟื้นฟูความสามารถ
-9949	Protect the Protector	ปกป้องตัวป้องกัน
-9950	Go to the Guild Base?	ไปที่ฐานกิลด์เหรอ?
-9951	Transfer Guild Leader	โอนหัวหน้ากิลด์
+9949	Protect the Protector	ปกป้อง Protector
+9950	Go to the Guild Base?	ไปที่ฐาน Guild เหรอ?
+9951	Transfer Guild Leader	โอนหัวหน้า Guild
 9952	Please select a guild	กรุณาเลือกกิลด์
 9953	Enter your message...	ใส่ข้อความของคุณ...
-9954	Guild Rally Initiated	เริ่มต้นการชุมนุมกิลด์
+9954	Guild Rally Initiated	เริ่มต้นการชุมนุม Guild
 9955	Pet Metric - Level-up	Pet Metric - อัพเลเวล
 9956	Eden Group Commission	ค่าคอมมิชชั่นกลุ่ม Eden
 9957	Hull Repair Materials	วัสดุซ่อมแซมตัวถัง
 9958	Clear Munak Cave @{1}	เคลียร์ถ้ำมูนัก@{1}
-9959	Control the Giant Ant	ควบคุมมดยักษ์
+9959	Control the Giant Ant	ControlGiant Ant
 9960	Investigate the Theft	สืบสวนการโจรกรรม
 9961	Rusty Bell Hammer@{1}	ค้อนกระดิ่งขึ้นสนิม@{1}
 9962	First Supply Delivery	การส่งมอบอุปทานครั้งแรก
 9963	New Combat Techniques	เทคนิคการต่อสู้แบบใหม่
 9964	Training in the Craft	การฝึกอบรมในงานฝีมือ
 9965	Danger in the Silence	อันตรายในความเงียบ
-9966	Ferocious Mother Bird	แม่นกดุร้าย
+9966	Ferocious Mother Bird	Mother นกดุร้าย
 9967	Maximum level reached	ถึงระดับสูงสุดแล้ว
 9968	Pet Shard Dismantling	การแยกชิ้นส่วนสัตว์เลี้ยง
 9969	Congrats on Obtaining	ขอแสดงความยินดีที่ได้รับ
 9970	Beginner Hatch Limit:	ขีดจำกัดการฟักไข่สำหรับผู้เริ่มต้น:
 9971	Upgrade All Skills to	อัพเกรดทักษะทั้งหมดเป็น
 9972	Unlocks at ${1} stars	ปลดล็อคที่ดาว${1}
-9973	Passive Skill Effects	เอฟเฟกต์ทักษะแบบพาสซีฟ
+9973	Passive Skill Effects	เอฟเฟกต์ทักษะแบบ Passive
 9974	Reach Talent Lv. @{1}	เข้าถึงความสามารถพิเศษ Lv.@{1}
 9975	Clear the Dark Domain	เคลียร์โดเมนแห่งความมืด
 9976	Advance to Trans. 2nd	ก้าวไปสู่ทรานส์ 2
@@ -980,10 +980,10 @@
 9979	Tap to hatch the egg!	แตะเพื่อฟักไข่!
 9980	Now click here again!	คลิกที่นี่อีกครั้ง!
 9981	Traveler's Plush Cart	รถเข็นตุ๊กตานักท่องเที่ยว
-9982	^{1}Defeat Osiris^{2}	^{1}เอาชนะโอซิริส^{2}
+9982	^{1}Defeat Osiris^{2}	^{1}เอาชนะ Osiris^{2}
 9983	Hold a farewell party	จัดงานเลี้ยงอำลา
 9984	A forbidden spellbook	หนังสือคาถาต้องห้าม
-9985	Knock it off, Bobo...	น็อคไปเลย โบโบ้...
+9985	Knock it off, Bobo...	น็อคไปเลย Bobo...
 9986	Wait a little longer.	รออีกสักหน่อย
 9987	Explain What Happened	อธิบายสิ่งที่เกิดขึ้น
 9988	Accept the Invitation	ยอมรับคำเชิญ

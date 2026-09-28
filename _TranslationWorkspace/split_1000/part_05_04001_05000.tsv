@@ -1,21 +1,21 @@
 ﻿Index	English	Thai_Translation
-4001	Sandman Slow	แซนด์แมนช้า
+4001	Sandman Slow	SandmanSlow
 4002	Morale Surge	ขวัญกำลังใจพุ่งพล่าน
 4003	Morale Boost	เพิ่มขวัญกำลังใจ
-4004	Respawn Buff	บัฟการเกิดใหม่
+4004	Respawn Buff	บัฟการ Respawn
 4005	Filler Skill	ทักษะฟิลเลอร์
-4006	Rock Shatter	เครื่องทำลายหิน
-4007	Frost Breath	ลมหายใจฟรอสต์
-4008	Dead Silence	ความเงียบงัน
-4009	Bell Rampage	กระดิ่งอาละวาด
-4010	Death Scythe	เคียวแห่งความตาย
-4011	Normal Punch	หมัดธรรมดา
+4006	Rock Shatter	Rock Shatter
+4007	Frost Breath	Frost Breath
+4008	Dead Silence	Dead Silence
+4009	Bell Rampage	Bell Rampage
+4010	Death Scythe	Death Scythe
+4011	Normal Punch	Normal Punch
 4012	Perfect Shot	ช็อตที่สมบูรณ์แบบ
 4013	Enhanced Bow	คันธนูที่ปรับปรุงใหม่
-4014	Hunting Trap	กับดักล่าสัตว์
-4015	[Hard-Nasha]	[ฮาร์ด-นาชา]
-4016	[Hard-Mirko]	[ฮาร์ด-Mirko]
-4017	[Hard-Drake]	[ฮาร์ดเดรก]
+4014	Hunting Trap	Hunting Trap
+4015	[Hard-Nasha]	[Hard-Nasha]
+4016	[Hard-Mirko]	[Hard-Mirko]
+4017	[Hard-Drake]	[Hard-Drake]
 4018	Main Reward:	:
 4019	Sort by Type	เรียงตามประเภท
 4020	Poring Party	ปาร์ตี้สังสรรค์
@@ -29,33 +29,33 @@
 4028	Not Available	ไม่มีข้อมูล
 4029	Group Rewards	การตั้งค่ากลุ่ม
 4030	Boss Appeared	บอสปรากฏตัว
-4031	Bread Bag Hat	หมวกถุงขนมปัง
-4032	Student's Cap	หมวกนักเรียน
-4033	Deviruchi Hat	หมวกเดวิรุจิ
-4034	Grand Circlet	แกรนด์เซอร์เคิล
-4035	Majestic Goat	แพะมาเจสติก
-4036	Spinning Eyes	ตาหมุน
-4037	Small Ribbons	ริบบิ้นเล็ก
-4038	Romantic Leaf	ใบไม้แสนโรแมนติก
-4039	Baby Pacifier	จุกนมหลอกเด็ก
-4040	Fish In Mouth	ปลาเข้าปาก
-4041	Wheel of Time	วงล้อแห่งกาลเวลา
-4042	Solar Chariot	รถม้าพลังงานแสงอาทิตย์
+4031	Bread Bag Hat	Bread Bag Hat
+4032	Student's Cap	Student's Cap
+4033	Deviruchi Hat	Deviruchi Hat
+4034	Grand Circlet	Grand Circlet
+4035	Majestic Goat	Majestic Goat
+4036	Spinning Eyes	Spinning Eyes
+4037	Small Ribbons	Small Ribbons
+4038	Romantic Leaf	Romantic Leaf
+4039	Baby Pacifier	Baby Pacifier
+4040	Fish In Mouth	Fish In Mouth
+4041	Wheel of Time	Wheel of Time
+4042	Solar Chariot	Solar Chariot
 4043	Hairstyle@{1}	ทรงผม@{1}
-4044	Rainbow Ferus	เรนโบว์ เฟอร์รัส
-4045	Ancient Mummy	มัมมี่โบราณ
+4044	Rainbow Ferus	Rainbow Ferus
+4045	Ancient Mummy	Ancient Mummy
 4046	Defense Build	โครงสร้างการป้องกัน
 4047	Defense Boost	บูสต์การป้องกัน
 4048	Dialogue Test	ไม่มีกล่องโต้ตอบ
 4049	Supply Escort	คุ้มกันซัพพลาย
-4050	Peco Peco Egg	ไข่ Peco Peco
-4051	Thief Bug Egg	ไข่แมลงจอมโจร
-4052	Marine Sphere	มารีนสเฟียร์
-4053	Goblin Archer	ก็อบลินอาร์เชอร์
-4054	Goblin (Mace)	ก็อบลิน (คทา)
-4055	Hammer Kobold	ค้อนโคโบลด์
-4056	Kobold Archer	โคโบลด์ อาร์เชอร์
-4057	Killer Mantis	ตั๊กแตนนักฆ่า
+4050	Peco Peco Egg	Peco Peco Egg
+4051	Thief Bug Egg	Thief Bug Egg
+4052	Marine Sphere	Marine Sphere
+4053	Goblin Archer	Goblin Archer
+4054	Goblin (Mace)	Goblin (Mace)
+4055	Hammer Kobold	Hammer Kobold
+4056	Kobold Archer	Kobold Archer
+4057	Killer Mantis	Killer Mantis
 4058	Normal Unseal	การปิดผนึกปกติ
 4059	Thanks, Boss!	ขอบคุณหัวหน้า!
 4060	Charisma Baby	คาริสม่า เบบี้
@@ -77,10 +77,10 @@
 4076	Territory War	สงครามดินแดน
 4077	Royal Capital	เมืองหลวงหลวง
 4078	Emblems: ${1}	:${1}
-4079	Kill Baphomet	ฆ่าบาโฟเมต
-4080	Talk to Rhine	คุยกับไรน์
+4079	Kill Baphomet	KillBaphomet
+4080	Talk to Rhine	คุยกับ Rhine
 4081	Defeat Morroc	เอาชนะ Morroc
-4082	Guild Auction	การประมูลกิลด์
+4082	Guild Auction	การประมูล Guild
 4083	World Auction	ประมูลโลก
 4084	Event Auction	งานประมูล
 4085	God of Nature	เทพเจ้าแห่งธรรมชาติ
@@ -95,7 +95,7 @@
 4094	Masked Figure	ฟิกเกอร์สวมหน้ากาก
 4095	[${1}]'s ${2}	[${1}] ของ${2}
 4096	Supplies Lost	วัสดุสิ้นเปลืองสูญหาย
-4097	Napalm Vulcan	นาปาล์ม วัลแคน
+4097	Napalm Vulcan	Napalm Vulcan
 4098	Karazhan Harp	พิณคาราซาน
 4099	Magic Fashion	เมจิกแฟชั่น
 4100	Phantom Realm	อาณาจักรแฟนทอม
@@ -114,17 +114,17 @@
 4113	Report Player	รายงานผู้เล่น
 4114	Go to the Boy	ไปที่เด็กชาย
 4115	Life No. @{1}	อายุการใช้งาน@{1}
-4116	General Stats	สถิติทั่วไป
+4116	General Stats	สถิติ General
 4117	Astral Points	Astral Points
 4118	Stat Overview	ลำดับความสำคัญของสถิติ
 4119	No attributes	ไม่มีแอตทริบิวต์
-4120	Cart Merchant	พ่อค้ารถเข็น
+4120	Cart Merchant	Cart Merchant
 4121	Falcon Hunter	นักล่าเหยี่ยว
 4122	Sharpshooting	การยิงแม่น
-4123	Speedy Hunter	สปีดี้ฮันเตอร์
-4124	AGI Swordsman	นักดาบเอจีไอ
+4123	Speedy Hunter	Speedy Hunter
+4124	AGI Swordsman	Swordsman เอจีไอ
 4125	Increases DEF	เพิ่ม DEF
-4126	Opens in ${1}	เปิดใน${1}
+4126	Opens in ${1}	Opens ใน${1}
 4127	Battle Points	คะแนนการต่อสู้
 4128	Match History	ประวัติการแข่งขัน
 4129	Repair Client	ลูกค้าซ่อม
@@ -135,8 +135,8 @@
 4134	Idle Grinding	เครื่องเจียรเดินเบา
 4135	Growth Emblem	สัญลักษณ์การเจริญเติบโต
 4136	Lost Treasure	สมบัติที่สูญหาย
-4137	Guild Caravan	คาราวานกิลด์
-4138	Bonfire Party	ปาร์ตี้กองไฟ
+4137	Guild Caravan	คาราวาน Guild
+4138	Bonfire Party	ปาร์ตี้ Bonfire
 4139	Job Selection	การเลือกงาน
 4140	Hero Registry	อันดับเกียรติยศ
 4141	Basic Editing	การแก้ไขเบื้องต้น
@@ -147,14 +147,14 @@
 4146	Sales History	ประวัติการขาย
 4147	My Reputation	ชื่อเสียงของฉัน
 4148	Trade Details	รายละเอียดการค้า
-4149	Credit Points	คะแนนเครดิต
+4149	Credit Points	Credit Points
 4150	Tap to Appeal	แตะเพื่ออุทธรณ์
 4151	Surprise Pack	เซอร์ไพรส์แพ็ค
 4152	Unknown error	ข้อผิดพลาดที่ไม่รู้จัก
 4153	Cancel Rental	ยกเลิกการเช่า
 4154	Revive Prompt	พร้อมท์ฟื้นคืนชีพ
 4155	Ode to Echoes	บทกวีเพื่อเสียงสะท้อน
-4156	Top 10 Guilds	10 อันดับกิลด์
+4156	Top 10 Guilds	10 อันดับ Guilds
 4157	Delete Prompt	ลบพรอมต์
 4158	Sorting Rules	กฎการเรียงลำดับ
 4159	Shopping Cart	ตะกร้าสินค้า
@@ -169,7 +169,7 @@
 4168	Similar Level	ระดับใกล้เคียงกัน
 4169	Full Rankings	อันดับเต็ม
 4170	My Rank: ${1}	อันดับของฉัน:${1}
-4171	Follow Leader	ตามผู้นำ
+4171	Follow Leader	ตาม Leader
 4172	End Following	สิ้นสุดการติดตาม
 4173	Close Friends	เพื่อนสนิท
 4174	Party is full	ปาร์ตี้เต็มแล้ว
@@ -186,61 +186,61 @@
 4185	${1} Selected	เลือก${1}แล้ว
 4186	Bidding Style	รูปแบบการประมูล
 4187	Queuing: ${1}	การเข้าคิว:${1}
-4188	Guild Benefit	ผลประโยชน์กิลด์
+4188	Guild Benefit	ผลประโยชน์ Guild
 4189	Emblem Design	ตัวอย่างรางวัลสัญลักษณ์
 4190	Emblem Border	การออกแบบสัญลักษณ์
 4191	Invalid input	อินพุตไม่ถูกต้อง
 4192	Level too low	ระดับต่ำเกินไป
-4193	Guild is full	กิลด์เต็มแล้ว
-4194	Activity Info	ข้อมูลกิจกรรม
+4193	Guild is full	Guild เต็มแล้ว
+4194	Activity Info	ข้อมูล Activity
 4195	Trophy Earned	แล้ว
 4196	Very Inactive	ไม่ใช้งานมาก
 4197	Appoint Elite	Appoint Elite
 4198	Changes saved	บันทึกการเปลี่ยนแปลงแล้ว
 4199	${1} days ago	${1}วันที่ผ่านมา
-4200	Opens Tuesday	เปิดวันอังคาร
+4200	Opens Tuesday	Opens วันอังคาร
 4201	Quest Expired	หมดอายุแล้ว
-4202	Guild Leader:	หัวหน้ากิลด์:
+4202	Guild Leader:	หัวหน้า Guild:
 4203	Royal Caravan	รอยัลคาราวาน
 4204	Trade Fee${1}	ค่าธรรมเนียมการค้า${1}
 4205	Stall updated	Stall อัปเดตแล้ว
-4206	Test Instance	อินสแตนซ์ทดสอบ
-4207	Eastern Payon	ตะวันออก Payon
-4208	Goblin Forest	ป่าก็อบลิน
+4206	Test Instance	Test Instance
+4207	Eastern Payon	Eastern Payon
+4208	Goblin Forest	Goblin Forest
 4209	Break Stealth	ทำลายการลักลอบ
-4210	Card: Lunatic	การ์ด: คนบ้า
-4211	Card: Driller	การ์ด : ดริลเลอร์
-4212	Card: Ant Egg	การ์ด: ไข่มด
+4210	Card: Lunatic	Card: Lunatic
+4211	Card: Driller	Card: Driller
+4212	Card: Ant Egg	Card: Ant Egg
 4213	Refresh Time:	เวลารีเฟรช:
 4214	Best Attacker	ตัวรุกที่ดีที่สุด
 4215	Score Ranking	การจัดอันดับคะแนน
 4216	Death Ranking	อันดับความตาย
-4217	Card: Whisper	การ์ด: กระซิบ
-4218	Card: Raggler	การ์ด: แร็กเกลอร์
-4219	Card: Ladybug	การ์ด: เต่าทอง
-4220	Card: Gryphon	การ์ด: กริฟฟอน
-4221	Card: Sandman	การ์ด: แซนด์แมน
-4222	Card: Argiope	การ์ด: อาร์จิโอพี
-4223	Card: Eclipse	การ์ด: Eclipse
-4224	Card: Obeaune	การ์ด: โอโบน
-4225	Card: Giearth	การ์ด: Giearth
-4226	Card: Dracula	การ์ด: แดร็กคูล่า
-4227	Card: Pharaoh	การ์ด: ฟาโรห์
+4217	Card: Whisper	Card: Whisper
+4218	Card: Raggler	Card: Raggler
+4219	Card: Ladybug	Card: Ladybug
+4220	Card: Gryphon	Card: Gryphon
+4221	Card: Sandman	Card: Sandman
+4222	Card: Argiope	Card: Argiope
+4223	Card: Eclipse	Card: Eclipse
+4224	Card: Obeaune	Card: Obeaune
+4225	Card: Giearth	Card: Giearth
+4226	Card: Dracula	Card: Dracula
+4227	Card: Pharaoh	Card: Pharaoh
 4228	${1} is full!	${1}เต็มแล้ว!
 4229	Shield Stance	ขาตั้งโล่
 4230	Freeze effect	เอฟเฟกต์การแช่แข็ง
-4231	Signum Crucis	ซิกนัม ไม้กางเขน
-4232	Kyrie Eleison	ไครี่ เอลิสัน
-4233	Mana Recharge	เติมมานา
-4234	Highness Heal	ไฮเฮลฮีล
-4235	Knuckle Boost	สนับมือบูสต์
-4236	Radiant Orbit	วงโคจรเรืองแสง
-4237	Monster Fruit	มอนสเตอร์ฟรุต
-4238	Mole Teleport	โมลเทเลพอร์ต
-4239	Splash - Card	Splash - การ์ด
-4240	Spear Mastery	เชี่ยวชาญหอก
-4241	Gloria Domini	กลอเรีย โดมินี่
-4242	Rapid Smiting	การโจมตีอย่างรวดเร็ว
+4231	Signum Crucis	Signum Crucis
+4232	Kyrie Eleison	Kyrie Eleison
+4233	Mana Recharge	Mana Recharge
+4234	Highness Heal	Highness Heal
+4235	Knuckle Boost	Knuckle Boost
+4236	Radiant Orbit	Radiant Orbit
+4237	Monster Fruit	Monster Fruit
+4238	Mole Teleport	Mole Teleport
+4239	Splash - Card	Splash - Card
+4240	Spear Mastery	Spear Mastery
+4241	Gloria Domini	Gloria Domini
+4242	Rapid Smiting	Rapid Smiting
 4243	Chat Settings	การตั้งค่าแชท
 4244	Switch Target	เปลี่ยนเป้าหมาย
 4245	Interaction 1	ปฏิสัมพันธ์ 1
@@ -252,91 +252,91 @@
 4251	Smart Casting	การหล่ออัจฉริยะ
 4252	Name Position	ชื่อ ตำแหน่ง
 4253	Custom Layout	เค้าโครงแบบกำหนดเอง
-4254	Pick Up Scale	เครื่องชั่งแบบปิ๊กอัพ
-4255	Discard Scale	ทิ้งสเกล
+4254	Pick Up Scale	Pick Up Scale
+4255	Discard Scale	Discard Scale
 4256	Anti-Aliasing	การป้องกันนามแฝง
 4257	Adjust Camera	ปรับกล้อง
-4258	Eight-Way AOE	AOE แปดทาง
-4259	DEF Injection	DEF การฉีด
-4260	Bubble Bullet	กระสุนบับเบิ้ล
-4261	Hunter Charge	ฮันเตอร์ชาร์จ
-4262	Jellyfish AoE	แมงกะพรุน AoE
-4263	DMG Reduction	ลดความเสียหาย
-4264	Hammer Strike	ค้อนทุบ
-4265	Focused Blade	ใบมีดเน้น
-4266	Self-Destruct	ทำลายตัวเอง
-4267	Vulture's Eye	ตาอีแร้ง
-4268	Double Strafe	ปืนยิงคู่
-4269	Claymore Trap	กับดัก Claymore
-4270	Freezing Trap	กับดักน้ำแข็ง
-4271	Triple Strafe	กระบอกสามสาย
-4272	Falcon Strike	เหยี่ยวโจมตี
-4273	Greedy Willow	วิลโลว์โลภ
-4274	Greedy Ositos	โอซิโตสโลภ
-4275	Greedy Comodo	โคโมโดโลภ
-4276	Blazing Fiend	อสูรเพลิง
-4277	Normal Attack	การโจมตีปกติ
-4278	Ring of Light	วงแหวนแห่งแสง
-4279	Lava Heatwave	คลื่นความร้อนลาวา
-4280	Swarming Bees	ฝูงผึ้ง
-4281	Summon Horong	อัญเชิญโหร่ง
-4282	Hornet Attack	แตนโจมตี
-4283	Spear Barrage	หอกยิงเป็นชุด
-4284	Summon Scythe	อัญเชิญเคียว
-4285	Summon Coffin	อัญเชิญโลงศพ
-4286	Shadow Siphon	กาลักน้ำเงา
-4287	Gravity Totem	โทเท็มแรงโน้มถ่วง
+4258	Eight-Way AOE	Eight-Way AOE
+4259	DEF Injection	DEF Injection
+4260	Bubble Bullet	Bubble Bullet
+4261	Hunter Charge	Hunter Charge
+4262	Jellyfish AoE	Jellyfish AoE
+4263	DMG Reduction	DMG Reduction
+4264	Hammer Strike	Hammer Strike
+4265	Focused Blade	Focused Blade
+4266	Self-Destruct	Self-Destruct
+4267	Vulture's Eye	Vulture's Eye
+4268	Double Strafe	Double Strafe
+4269	Claymore Trap	Claymore Trap
+4270	Freezing Trap	Freezing Trap
+4271	Triple Strafe	Triple Strafe
+4272	Falcon Strike	Falcon Strike
+4273	Greedy Willow	Greedy Willow
+4274	Greedy Ositos	Greedy Ositos
+4275	Greedy Comodo	Greedy Comodo
+4276	Blazing Fiend	Blazing Fiend
+4277	Normal Attack	Normal Attack
+4278	Ring of Light	Ring of Light
+4279	Lava Heatwave	Lava Heatwave
+4280	Swarming Bees	Swarming Bees
+4281	Summon Horong	Summon Horong
+4282	Hornet Attack	Hornet Attack
+4283	Spear Barrage	Spear Barrage
+4284	Summon Scythe	Summon Scythe
+4285	Summon Coffin	Summon Coffin
+4286	Shadow Siphon	Shadow Siphon
+4287	Gravity Totem	Gravity Totem
 4288	Total Matches	การแข่งขันทั้งหมด
 4289	Class Ranking	การจัดอันดับชั้นเรียน
 4290	Battle Begins	การต่อสู้เริ่มต้นขึ้น
-4291	Savage Shield	ชิลด์โหด
-4292	Demonic Curse	คำสาปปีศาจ
-4293	Eternal Curse	คำสาปชั่วนิรันดร์
-4294	Mummy's Curse	คำสาปของมัมมี่
-4295	Blade Rampage	ดาบอาละวาด
+4291	Savage Shield	Savage Shield
+4292	Demonic Curse	Demonic Curse
+4293	Eternal Curse	Eternal Curse
+4294	Mummy's Curse	Mummy's Curse
+4295	Blade Rampage	Blade Rampage
 4296	Account Login	เข้าสู่ระบบบัญชี
 4297	Client Repair	งานซ่อมลูกค้า
 4298	Visitor Login	เข้าสู่ระบบของผู้เยี่ยมชม
 4299	Select Gender	เลือกเพศ
 4300	Auto-Download	Auto-Download
 4301	Select Server	Select Server
-4302	Obtain Shield	รับโล่
-4303	Silk Spit@{1}	ไหมถ่มน้ำลาย@{1}
-4304	Sandstorm@{1}	พายุทราย@{1}
+4302	Obtain Shield	Obtain Shield
+4303	Silk Spit@{1}	Silk Spit@{1}
+4304	Sandstorm@{1}	Sandstorm@{1}
 4305	Asset Library	Asset Library
 4306	Dance Machine	Dance Machine
-4307	Mage Note@{1}	เมจโน้ต@{1}
-4308	Melody Cannon	เมโลดี้ แคนนอน
-4309	Melody Vulcan	เมโลดี้ วัลแคน
-4310	Melody Impact	เมโลดี้ อิมแพ็ค
-4311	Melody Vortex	เมโลดี้ วอร์เท็กซ์
-4312	Radiant Bloom	เรเดียนท์ บลูม
-4313	Rhythmic Warg	จังหวะวาร์ก
-4314	Double Volume	ดับเบิ้ลวอลุ่ม
-4315	Freestyle Rap	แร็พฟรีสไตล์
-4316	Petrify Curse	คำสาปกลายเป็นหิน
-4317	Meteor (Copy)	ดาวตก (คัดลอก)
-4318	Finale Impact	ผลกระทบตอนจบ
-4319	Enlightenment	ตรัสรู้
-4320	Holy Judgment	คำพิพากษาอันศักดิ์สิทธิ์
-4321	Manifestation	การสำแดง
-4322	Black Phantom	แบล็ค แฟนธอม
-4323	Rolling Blade	ใบมีดกลิ้ง
-4324	Gryphon Skill	ทักษะกริฟฟอน
-4325	Sword Mastery	ความชำนาญดาบ
-4326	Sword Quicken	ดาบเร่ง
-4327	Charge Attack	ชาร์จโจมตี
-4328	Concentration	ความเข้มข้น
-4329	Spiral Pierce	เจาะเกลียว
-4330	Enchant Blade	ดาบมนตรา
-4331	Slash Monitor	สแลชมอนิเตอร์
-4332	Double Attack	โจมตีสองครั้ง
-4333	Katar Mastery	กาตาร์มาสเตอรี
-4334	Deadly Poison	พิษร้ายแรง
-4335	Shadow Strike	เงาโจมตี
-4336	Toxic Rampage	อาละวาดพิษ
-4337	Magic Crasher	เมจิกแครชเชอร์
-4338	Thunder Blast	ธันเดอร์ระเบิด
+4307	Mage Note@{1}	Mage Note@{1}
+4308	Melody Cannon	Melody Cannon
+4309	Melody Vulcan	Melody Vulcan
+4310	Melody Impact	Melody Impact
+4311	Melody Vortex	Melody Vortex
+4312	Radiant Bloom	Radiant Bloom
+4313	Rhythmic Warg	Rhythmic Warg
+4314	Double Volume	Double Volume
+4315	Freestyle Rap	Freestyle Rap
+4316	Petrify Curse	Petrify Curse
+4317	Meteor (Copy)	Meteor (Copy)
+4318	Finale Impact	Finale Impact
+4319	Enlightenment	Enlightenment
+4320	Holy Judgment	Holy Judgment
+4321	Manifestation	Manifestation
+4322	Black Phantom	Black Phantom
+4323	Rolling Blade	Rolling Blade
+4324	Gryphon Skill	Gryphon Skill
+4325	Sword Mastery	Sword Mastery
+4326	Sword Quicken	Sword Quicken
+4327	Charge Attack	Charge Attack
+4328	Concentration	Concentration
+4329	Spiral Pierce	Spiral Pierce
+4330	Enchant Blade	Enchant Blade
+4331	Slash Monitor	Slash Monitor
+4332	Double Attack	Double Attack
+4333	Katar Mastery	Katar Mastery
+4334	Deadly Poison	Deadly Poison
+4335	Shadow Strike	Shadow Strike
+4336	Toxic Rampage	Toxic Rampage
+4337	Magic Crasher	Magic Crasher
+4338	Thunder Blast	Thunder Blast
 4339	Trophy Points	คะแนนรางวัล
 4340	Hidden Trophy	ถ้วยรางวัลที่ซ่อนอยู่
 4341	Obtained ${1}	ได้รับ${1}แล้ว
@@ -351,7 +351,7 @@
 4350	Monster Drops	มอนสเตอร์ดรอป
 4351	Go to Monster	ไปที่มอนสเตอร์
 4352	Logging Tribe	ชนเผ่าไม้ซุง
-4353	Hidden Forest	ป่าที่ซ่อนอยู่
+4353	Hidden Forest	Hidden Forest
 4354	Damage Skills	ทักษะความเสียหาย
 4355	Build Details	ตัวอย่างบิวด์
 4356	Skill Preview	การแสดงตัวอย่างทักษะ
@@ -362,89 +362,89 @@
 4361	Golden Orchid	โกลเด้น ออร์คิด
 4362	Recently used	เพิ่งใช้
 4363	Preview Style	ดูตัวอย่างสไตล์
-4364	Leave Channel	ออกจากช่อง
+4364	Leave Channel	Leave จากช่อง
 4365	Channel Three	ช่องสาม
-4366	Group Whisper	กลุ่มเสียงกระซิบ
-4367	Red Light Orb	ลูกกลมไฟแดง
-4368	Dragon Knight	อัศวินมังกร
-4369	Greedy Atroce	โลภ Atroce
-4370	Sustain Giant	ซัสเทนยักษ์
-4371	Battering Ram	แรมแบตเตอรี
-4372	Poring Cannon	ปืนใหญ่เจาะทะลุ
-4373	Barrier Stele	เหล็กกั้น
-4374	Overload Core	โอเวอร์โหลดคอร์
-4375	Goblin Leader	ผู้นำก็อบลิน
-4376	Kobold Leader	ผู้นำโคโบลด์
-4377	Common Timber	ไม้ทั่วไป
-4378	Sturdy Timber	ไม้ที่แข็งแรง
-4379	Hard Ironwood	ไม้เนื้อแข็ง
-4380	Sacred Timber	ไม้ศักดิ์สิทธิ์
-4381	Enemy Airship	เรือเหาะศัตรู
-4382	Skel Prisoner	สเกลนักโทษ
-4383	Brave Jiaxing	เจียซิงผู้กล้าหาญ
-4384	Osiris Horong	โอซิริส โหรง
-4385	Water Tornado	ทอร์นาโดน้ำ
-4386	Neutral Dummy	หุ่นจำลองเป็นกลาง
-4387	Vagabond Wolf	หมาป่าจรจัด
-4388	Gift Merchant	ร้านขายของขวัญ
-4389	Item Merchant	ผู้ขายรายการ
-4390	Chief Officer	หัวหน้าเจ้าหน้าที่
-4391	Inn Attendant	พนักงานต้อนรับในโรงแรม
-4392	Food Merchant	พ่อค้าอาหาร
-4393	Milk Merchant	พ่อค้านม
-4394	Forest Ranger	เจ้าหน้าที่พิทักษ์ป่า
-4395	Hungry Person	คนหิว
+4366	Group Whisper	กลุ่ม Whisper
+4367	Red Light Orb	Red Light Orb
+4368	Dragon Knight	Dragon Knight
+4369	Greedy Atroce	Greedy Atroce
+4370	Sustain Giant	Sustain Giant
+4371	Battering Ram	Battering Ram
+4372	Poring Cannon	Poring Cannon
+4373	Barrier Stele	Barrier Stele
+4374	Overload Core	Overload Core
+4375	Goblin Leader	Goblin Leader
+4376	Kobold Leader	Kobold Leader
+4377	Common Timber	Common Timber
+4378	Sturdy Timber	Sturdy Timber
+4379	Hard Ironwood	Hard Ironwood
+4380	Sacred Timber	Sacred Timber
+4381	Enemy Airship	Enemy Airship
+4382	Skel Prisoner	Skel Prisoner
+4383	Brave Jiaxing	Brave Jiaxing
+4384	Osiris Horong	Osiris Horong
+4385	Water Tornado	Water Tornado
+4386	Neutral Dummy	Neutral Dummy
+4387	Vagabond Wolf	Vagabond Wolf
+4388	Gift Merchant	Gift Merchant
+4389	Item Merchant	Item Merchant
+4390	Chief Officer	Chief Officer
+4391	Inn Attendant	Inn Attendant
+4392	Food Merchant	Food Merchant
+4393	Milk Merchant	Milk Merchant
+4394	Forest Ranger	Forest Ranger
+4395	Hungry Person	Hungry Person
 4396	Current Quest	ภารกิจปัจจุบัน
 4397	Quest Rewards	ภารกิจ
 4398	Dungeon Quest	ภารกิจดันเจี้ยน
-4399	Quartermaster	พลาธิการ
-4400	Byalan Island	เกาะเบียลัน
-4401	Poring Island	เกาะพอริ่ง
-4402	Sograt Desert	ทะเลทรายโซกราต
-4403	Airship Staff	เจ้าหน้าที่เรือเหาะ
-4404	Church Knight	อัศวินคริสตจักร
-4405	Joanne's Wife	ภรรยาของโจแอนน์
-4406	Isti - Normal	อยู่ - ปกติ
-4407	Ilmo - Normal	อิลโม - ปกติ
-4408	Ilmo - Finale	อิลโม - ตอนจบ
-4409	Yellow Bubble	ฟองสีเหลือง
+4399	Quartermaster	Quartermaster
+4400	Byalan Island	Byalan Island
+4401	Poring Island	Poring Island
+4402	Sograt Desert	Sograt Desert
+4403	Airship Staff	Airship Staff
+4404	Church Knight	Church Knight
+4405	Joanne's Wife	Joanne's Wife
+4406	Isti - Normal	Isti - Normal
+4407	Ilmo - Normal	Ilmo - Normal
+4408	Ilmo - Finale	Ilmo - Finale
+4409	Yellow Bubble	Yellow Bubble
 4410	Arc Lightning	Arc Lightning
-4411	Ember Zone-BD	เอมเบอร์โซน-BD
-4412	Mistress-Easy	เมียน้อย-ง่าย
-4413	Mistress-Hard	นายหญิง-ฮาร์ด
-4414	Osiris-Normal	โอซิริส-ปกติ
-4415	Pharaoh-Final	ฟาโรห์-รอบชิงชนะเลิศ
-4416	Baphomet-Easy	Baphomet-ง่าย
-4417	Baphomet-Hard	Baphomet-ฮาร์ด
+4411	Ember Zone-BD	Ember Zone-BD
+4412	Mistress-Easy	Mistress-Easy
+4413	Mistress-Hard	Mistress-Hard
+4414	Osiris-Normal	Osiris-Normal
+4415	Pharaoh-Final	Pharaoh-Final
+4416	Baphomet-Easy	Baphomet-Easy
+4417	Baphomet-Hard	Baphomet-Hard
 4418	Current Stage	สเตจปัจจุบัน
-4419	Familiar Face	ใบหน้าที่คุ้นเคย
+4419	Familiar Face	ใบหน้าที่ Familiar
 4420	Unforgettable	ที่น่าจดจำ
 4421	Powerful Card	การ์ดทรงพลัง
 4422	Lv. ${1}-${2}	เลเวล${1}-${2}
 4423	Disable Bonus	ปิดการใช้งานโบนัส
 4424	${1}'s ID Tag	แท็ก ID ของ${1}
-4425	Knight Leader	ผู้นำอัศวิน
+4425	Knight Leader	Leader อัศวิน
 4426	Stall Details	รายละเอียดแผงลอย
 4427	Sales Details	รายละเอียดการขาย
 4428	Stall Shared.	แผงลอยที่ใช้ร่วมกัน
 4429	World Channel	ช่องโลก
-4430	Guild Channel	ช่องกิลด์
+4430	Guild Channel	ช่อง Guild
 4431	Party Channel	ช่องปาร์ตี้
 4432	Level: Lv${1}	ระดับ: เลเวล${1}
 4433	Poison Damage	ความเสียหายจากพิษ
 4434	Shadow Damage	ความเสียหายจากเงา
 4435	Undead Damage	ความเสียหายอันเดด
 4436	Event Period:	ระยะเวลากิจกรรม:
-4437	Guild Details	รายละเอียดกิลด์
+4437	Guild Details	รายละเอียด Guild
 4438	Fund Rankings	อันดับกองทุน
 4439	Confirm Rally	ยืนยันแรลลี่
 4440	Online Status	สถานะออนไลน์
-4441	Guild Member:	สมาชิกกิลด์:
+4441	Guild Member:	สมาชิก Guild:
 4442	Confirm Entry	ยืนยันรายการ
 4443	Save Settings	บันทึกการตั้งค่า
-4444	Guild Members	สมาชิกกิลด์
+4444	Guild Members	สมาชิก Guild
 4445	Active rating	การให้คะแนนที่ใช้งานอยู่
-4446	[Guild Rally]	[กิลด์แรลลี่]
+4446	[Guild Rally]	[Guild Rally]
 4447	No effect yet	ยังไม่มีผลกระทบ
 4448	Defeat Poring	เอาชนะ Poring
 4449	Flee in Panic	หลบหนีด้วยความตื่นตระหนก
@@ -510,7 +510,7 @@
 4509	Apprentice II	เด็กฝึกงาน II
 4510	Divine Assist	การช่วยเหลืออันศักดิ์สิทธิ์
 4511	Killing Spree	ความสนุกสนานในการฆ่า
-4512	Vivify Potion	ยาปลุกพลัง
+4512	Vivify Potion	Vivify Potion
 4513	Pet Materials	วัสดุสำหรับสัตว์เลี้ยง
 4514	Assassin Line	Assassin Line
 4515	Desert Region	ภูมิภาคทะเลทราย
@@ -522,21 +522,21 @@
 4521	Always Online	ออนไลน์ตลอดเวลา
 4522	No Thin Skins	ไม่มีสกินบางๆ
 4523	Collect Coins	เก็บเหรียญ
-4524	Hide-and-Seek	ซ่อนหา
-4525	Second Emotes	อิโมติคอนที่สอง
-4526	Throw Vehicle	รถโยน
-4527	Set Blue Team	ชุดทีมสีน้ำเงิน
-4528	Greed's Wrath	ความโกรธเกรี้ยวของความโลภ
-4529	Repair Turret	ป้อมปืนซ่อม
-4530	Shatter Blade	ใบมีดแตก
+4524	Hide-and-Seek	Hide-and-Seek
+4525	Second Emotes	Second Emotes
+4526	Throw Vehicle	Throw Vehicle
+4527	Set Blue Team	Set Blue Team
+4528	Greed's Wrath	Greed's Wrath
+4529	Repair Turret	Repair Turret
+4530	Shatter Blade	Shatter Blade
 4531	Final Chapter	บทสุดท้าย
 4532	Total Healing	การรักษาแบบครบวงจร
-4533	Tension Relax	ผ่อนคลายความตึงเครียด
+4533	Tension Relax	Tension Relax
 4534	Relax at Home	ผ่อนคลายที่บ้าน
-4535	Common Powder	ผงทั่วไป
+4535	Common Powder	Common Powder
 4536	Vertical Sync	ซิงค์แนวตั้ง
-4537	Ironwood Core	แกนไม้ไอรอนวูด
-4538	Plain Balloon	ลูกโป่งธรรมดา
+4537	Ironwood Core	Ironwood Core
+4538	Plain Balloon	Plain Balloon
 4539	Rent a Falcon	เช่ารถฟอลคอน
 4540	Meeting Again	พบกันอีกครั้ง
 4541	Nail of Order	เล็บแห่งการสั่งซื้อ
@@ -554,74 +554,74 @@
 4553	Vehicle State	สถานะของยานพาหนะ
 4554	Battle Status	สถานะการต่อสู้
 4555	Skill Casting	ทักษะการร่าย
-4556	Meteorite Ore	แร่อุกกาบาต
+4556	Meteorite Ore	Meteorite Ore
 4557	NETWORK_ERROR	เครือข่าย_ข้อผิดพลาด
-4558	Pass Currency	ผ่านสกุลเงิน
+4558	Pass Currency	Pass Currency
 4559	Unique Effect	เอฟเฟกต์พิเศษ
-4560	Low-Tier FLEE	FLEE ระดับต่ำ
-4561	Low-Tier Life	ชีวิตระดับต่ำ
-4562	Holy Fortress	ป้อมปราการศักดิ์สิทธิ์
+4560	Low-Tier FLEE	Low-Tier FLEE
+4561	Low-Tier Life	Low-Tier Life
+4562	Holy Fortress	Holy Fortress
 4563	Elio Fragment	Elio Fragment
-4564	Yellow Potion	ยาเหลือง
-4565	Herb Porridge	โจ๊กสมุนไพร
-4566	Orange Potion	ยาน้ำส้ม
-4567	Cocoa Pudding	พุดดิ้งโกโก้
+4564	Yellow Potion	Yellow Potion
+4565	Herb Porridge	Herb Porridge
+4566	Orange Potion	Orange Potion
+4567	Cocoa Pudding	Cocoa Pudding
 4568	Select Scroll	Select Scroll
 4569	Enchant Affix	เสริมเสน่ห์
-4570	Crafting Pack	แพ็กงานประดิษฐ์
-4571	Mandarin Fish	ปลาแมนดาริน
+4570	Crafting Pack	Crafting Pack
+4571	Mandarin Fish	Mandarin Fish
 4572	Mage Portrait	ภาพนักเวทย์
 4573	Sage Portrait	ภาพเซียน
-4574	Bard Portrait	ภาพกวี
-4575	Monk Portrait	พระรูปเหมือน
-4576	Mithril Ingot	แท่งมิธริล
+4574	Bard Portrait	ภาพ Bard
+4575	Monk Portrait	Monk รูปเหมือน
+4576	Mithril Ingot	Mithril Ingot
 4577	Test Buff@{1}	บัฟทดสอบ@{1}
-4578	Red Equipment	อุปกรณ์สีแดง
-4579	Blue Headwear	อุปกรณ์สวมศีรษะ สีฟ้า
-4580	Egg Incubator	ตู้ฟักไข่
-4581	Fabre's Mucus	ฟาเบรส์ เมือก
-4582	Sweet Bananas	กล้วยหวาน
-4583	Large Jellopy	เจลลี่ปี้ใหญ่
-4584	Skeleton Bone	กระดูกโครงกระดูก
-4585	Eye of Wisdom	ดวงตาแห่งปัญญา
-4586	Light Granule	เม็ดเบา
-4587	Crest of Moon	หงอนพระจันทร์
-4588	Pale Sediment	ตะกอนสีซีด
-4589	Cute Pet Coin	เหรียญสัตว์เลี้ยงแสนน่ารัก
-4590	Alice's Apron	ผ้ากันเปื้อนของอลิซ
-4591	Bill of Birds	บิลนก
+4578	Red Equipment	Red Equipment
+4579	Blue Headwear	Blue Headwear
+4580	Egg Incubator	Egg Incubator
+4581	Fabre's Mucus	Fabre's Mucus
+4582	Sweet Bananas	Sweet Bananas
+4583	Large Jellopy	Large Jellopy
+4584	Skeleton Bone	Skeleton Bone
+4585	Eye of Wisdom	Eye of Wisdom
+4586	Light Granule	Light Granule
+4587	Crest of Moon	Crest of Moon
+4588	Pale Sediment	Pale Sediment
+4589	Cute Pet Coin	Cute Pet Coin
+4590	Alice's Apron	Alice's Apron
+4591	Bill of Birds	Bill of Birds
 4592	Arrow of Wind	Arrow of Wind
-4593	Crystal Arrow	คริสตัลแอร์โรว์
-4594	Bloody Branch	สาขานองเลือด
-4595	Blade Crystal	ใบมีดคริสตัล
-4596	Feather Flame	เปลวไฟขนนก
-4597	Constellation	กลุ่มดาว
-4598	Lv. @{1} Wand	เลเวลไม้กายสิทธิ์@{1}
-4599	Lv. @{1} Mace	เลเวล@{1}กระบอง
-4600	Basic Bow@{1}	ธนูพื้นฐาน@{1}
-4601	Vidar's Boots	รองเท้าบูท Vidar
-4602	Ancient Cloak	เสื้อคลุมโบราณ
-4603	Strong Shield	ชิลด์อันแข็งแกร่ง
-4604	Stone Buckler	หัวเข็มขัดหิน
-4605	Composite Bow	โบว์คอมโพสิต
-4606	Golden Hammer	ค้อนทอง
-4607	Novice Buster	มือปราบมือใหม่
-4608	Empowered Axe	ขวานเสริมพลัง
-4609	Schulte Spear	สเปียร์ชูลเต้
-4610	Dreyn Halberd	ดรายน์ ง้าว
-4611	Hunting Spear	หอกล่าสัตว์
-4612	Novice Rapier	ดาบสามเณร
-4613	Ornate Dagger	กริชหรูหรา
-4614	Novice Cutter	เครื่องตัดมือใหม่
-4615	Novice Dagger	กริชมือใหม่
-4616	Drum of Dread	กลองแห่งความหวาดกลัว
+4593	Crystal Arrow	Crystal Arrow
+4594	Bloody Branch	Bloody Branch
+4595	Blade Crystal	Blade Crystal
+4596	Feather Flame	Feather Flame
+4597	Constellation	Constellation
+4598	Lv. @{1} Wand	Lv. @{1} Wand
+4599	Lv. @{1} Mace	Lv. @{1} Mace
+4600	Basic Bow@{1}	Basic Bow@{1}
+4601	Vidar's Boots	Vidar's Boots
+4602	Ancient Cloak	Ancient Cloak
+4603	Strong Shield	Strong Shield
+4604	Stone Buckler	Stone Buckler
+4605	Composite Bow	Composite Bow
+4606	Golden Hammer	Golden Hammer
+4607	Novice Buster	Novice Buster
+4608	Empowered Axe	Empowered Axe
+4609	Schulte Spear	Schulte Spear
+4610	Dreyn Halberd	Dreyn Halberd
+4611	Hunting Spear	Hunting Spear
+4612	Novice Rapier	Novice Rapier
+4613	Ornate Dagger	Ornate Dagger
+4614	Novice Cutter	Novice Cutter
+4615	Novice Dagger	Novice Dagger
+4616	Drum of Dread	Drum of Dread
 4617	Join a guild.	เข้าร่วมกิลด์
-4618	Tailoring EXP	EXP การตัดเย็บ
-4619	Gardening EXP	EXP การทำสวน
-4620	Card: Bigfoot	การ์ด : บิ๊กฟุต
-4621	Card: Deviace	การ์ด: เดวิเอซ
-4622	Card: Caramel	การ์ด: คาราเมล
-4623	Card: Requiem	การ์ด: บังสุกุล
+4618	Tailoring EXP	Tailoring EXP
+4619	Gardening EXP	Gardening EXP
+4620	Card: Bigfoot	Card: Bigfoot
+4621	Card: Deviace	Card: Deviace
+4622	Card: Caramel	Card: Caramel
+4623	Card: Requiem	Card: Requiem
 4624	Fashion Score	คะแนนแฟชั่น
 4625	${1} Achieved	${1}สำเร็จแล้ว
 4626	Reward Rules:	:
@@ -632,14 +632,14 @@
 4631	Party Auction	ประมูลปาร์ตี้
 4632	Attempt Count	Attempt Count
 4633	Mirko's Trial	การทดลองของ Mirko
-4634	Phantom Clone	แฟนทอมโคลน
+4634	Phantom Clone	แฟนทอม Clone
 4635	Horong Impact	ฮอรองอิมแพ็ค
-4636	Hornet Thrust	แรงขับแตน
+4636	Hornet Thrust	แรงขับ Hornet
 4637	Meteor Shower	ฝนดาวตก
 4638	Rhythmic Leap	จังหวะก้าวกระโดด
 4639	Unknown Skill	ทักษะที่ไม่รู้จัก
-4640	Cat and Mouse	แมวกับหนู
-4641	Hornet Charge	แตนชาร์จ
+4640	Cat and Mouse	Cat กับหนู
+4641	Hornet Charge	HornetCharge
 4642	Tidal Tornado	พายุทอร์นาโดน้ำขึ้นน้ำลง
 4643	Incoming Wave	คลื่นขาเข้า
 4644	Spirit Melody	สปิริต เมโลดี้
@@ -658,66 +658,66 @@
 4657	First Reading	การอ่านครั้งแรก
 4658	Knowledgeable	มีความรู้
 4659	Read the Book	อ่านหนังสือ
-4660	Kafra's Sword	ดาบของคาฟรา
-4661	Dark Illusion	ภาพลวงตาแห่งความมืด
+4660	Kafra's Sword	Kafra's Sword
+4661	Dark Illusion	Dark Illusion
 4662	Long Distance	ระยะทางไกล
 4663	Status Effect	ยาสถานะ
 4664	Earth's Power	พลังแห่งโลก
-4665	Melody Bubble	เมโลดี้ บับเบิ้ล
-4666	Trigger Split	ทริกเกอร์แยก
+4665	Melody Bubble	เมโลดี้ Bubble
+4666	Trigger Split	ทริกเกอร์ Split
 4667	Spawn Stealth	วางไข่ล่องหน
-4668	Union Passive	ยูเนี่ยนพาสซีฟ
-4669	Gryphon State	กริฟฟอนสเตท
+4668	Union Passive	UnionPassive
+4669	Gryphon State	Gryphon สเตท
 4670	Status Potion	ไม่ตรงตามข้อกำหนดสถานะ
 4671	Healing Orbit	วงโคจรการรักษา
-4672	Fafnir's Fury	ฟาฟเนียร์โกรธจัด
+4672	Fafnir's Fury	Fafnir โกรธจัด
 4673	Ring of Frost	แหวนแห่งฟรอสต์
 4674	Tiamat Effect	เอฟเฟกต์ Tiamat
 4675	Basic Profile	โปรไฟล์พื้นฐาน
-4676	Mouse Turning	การหมุนเมาส์
-4677	Fire Wall SFX	ไฟร์วอลล์ SFX
+4676	Mouse Turning	การหมุน Mouse
+4677	Fire Wall SFX	Fire Wall SFX
 4678	Fixed Casting	การหล่อแบบคงที่
 4679	Flame Enhance	เพิ่มประสิทธิภาพเปลวไฟ
-4680	Stone Coating	เคลือบหิน
+4680	Stone Coating	เคลือบ Stone
 4681	Frequent Pull	ดึงบ่อย
-4682	Moonlit Curse	คำสาปแสงจันทร์
+4682	Moonlit Curse	Moonlit Curse
 4683	Spirit Shield	Spirit
 4684	ATK Reduction	ลดพลังโจมตี
 4685	Gunshot Wound	บาดแผลกระสุนปืน
-4686	Clock Passive	นาฬิกาแบบพาสซีฟ
+4686	Clock Passive	Clock แบบ Passive
 4687	MATK Increase	MATK เพิ่มขึ้น
-4688	Rocker Rocker	ร็อคเกอร์ ร็อคเกอร์
-4689	Flame of Hope	เปลวไฟแห่งความหวัง
-4690	Cleaning Time	เวลาทำความสะอาด
-4691	Phreeoni Slow	พรีโอนี ช้า
+4688	Rocker Rocker	Rocker Rocker
+4689	Flame of Hope	Flame of Hope
+4690	Cleaning Time	Cleaning Time
+4691	Phreeoni Slow	พรีโอนี Slow
 4692	Red Line Link	ลิงค์สายสีแดง
 4693	Summon Marker	เครื่องหมายอัญเชิญ
 4694	Enrage Marker	เอ็นเรจ มาร์กเกอร์
-4695	Pyramid Laser	พีระมิดเลเซอร์
+4695	Pyramid Laser	PyramidLaser
 4696	Enrage Effect	เอฟเฟกต์ความโกรธเกรี้ยว
 4697	Linked Debuff	ดีบัฟที่เชื่อมโยง
 4698	Perfect State	สภาพสมบูรณ์
 4699	Rhythm Button	ปุ่มจังหวะ
-4700	Frenzy BD VFX	บ้าคลั่ง BD VFX
+4700	Frenzy BD VFX	Frenzy BD VFX
 4701	Note Mark@{1}	หมายเหตุ เครื่องหมาย@{1}
 4702	Switch Vortex	สวิตซ์ วอร์เท็กซ์
 4703	Enhance Guard	การ์ดเสริมประสิทธิภาพ
 4704	Replace Block	แทนที่บล็อก
 4705	Magic Release	เปิดตัวเมจิก
-4706	ElementBD@{1}	องค์ประกอบBD@{1}
+4706	ElementBD@{1}	องค์ประกอบ BD@{1}
 4707	DEF increased	DEF เพิ่มขึ้น
 4708	Mounted State	สถานะที่ติดตั้ง
 4709	Furious Storm	พายุพิโรธ
 4710	Sturdy Strike	ตีอย่างแข็งแกร่ง
 4711	Phantom Arrow	แฟนทอมแอร์โรว์
-4712	Shield Charge	โล่ชาร์จ
+4712	Shield Charge	โล่ Charge
 4713	Effect (Test)	เอฟเฟกต์ (ทดสอบ)
 4714	Premeditation	การทำสมาธิล่วงหน้า
 4715	Escort Battle	การต่อสู้คุ้มกัน
 4716	Entire Server	ทั้งเซิร์ฟเวอร์
-4717	Create Tavern	สร้างโรงเตี๊ยม
-4718	Report Tavern	รายงานโรงเตี๊ยม
-4719	Tavern Trophy	ถ้วยรางวัลโรงเตี๊ยม
+4717	Create Tavern	สร้าง Tavern
+4718	Report Tavern	รายงาน Tavern
+4719	Tavern Trophy	ถ้วยรางวัล Tavern
 4720	Battle Pledge	คำมั่นสัญญาการต่อสู้
 4721	Count Details	รายละเอียดการนับ
 4722	Reversi Rules	กฎการย้อนกลับ
@@ -738,24 +738,24 @@
 4737	Like removed.	ลบไลค์แล้ว
 4738	Guard Enhance	การ์ดเสริม
 4739	Potent Elixir	ยาอายุวัฒนะที่มีศักยภาพ
-4740	Advanced Life	ชีวิตขั้นสูง
+4740	Advanced Life	Life ขั้นสูง
 4741	Advanced FLEE	FLEE ขั้นสูง
 4742	Invalid token	โทเค็นไม่ถูกต้อง
 4743	Revoke Access	เพิกถอนการเข้าถึง
-4744	Winning Guild	กิลด์ที่ชนะ
+4744	Winning Guild	Guild ที่ชนะ
 4745	Rally at ${1}	แรลลี่ที่${1}
 4746	Defense Value	ค่าการป้องกัน
 4747	Device Damage	อุปกรณ์เสียหาย
-4748	Command Skill	ทักษะการสั่งการ
+4748	Command Skill	ทักษะการ Command
 4749	Contest Phase	ระยะการแข่งขัน
 4750	Check on Bobo	ตรวจสอบ Bobo
-4751	My Card Album	อัลบั้มการ์ดของฉัน
+4751	My Card Album	Card Album ของฉัน
 4752	Already liked	ถูกใจแล้ว
 4753	Five Costumes	ห้าชุด
 4754	First Costume	ชุดแรก
-4755	Tavern Legend	โรงเตี๊ยมในตำนาน
-4756	Archer Mentor	ที่ปรึกษาด้านธนู
-4757	Muay Thai Man	มวยไทยชาย
+4755	Tavern Legend	Tavern ในตำนาน
+4756	Archer Mentor	Archer Mentor
+4757	Muay Thai Man	Muay Thai Man
 4758	First 5 Times	5 ครั้งแรก
 4759	Item Supplies	รายการวัสดุสิ้นเปลือง
 4760	Return (${1})	กลับ (${1})
@@ -776,75 +776,75 @@
 4775	Power of Tide	พลังแห่งกระแสน้ำ
 4776	Mount Vehicle	เมาท์พาหนะ
 4777	Repeat Action	ทำซ้ำการกระทำ
-4778	Pyroblast@{1}	ไพโรบลาสต์@{1}
-4779	Easy Movement	เคลื่อนย้ายสะดวก
-4780	Piercing Hope	ความหวังที่เจาะลึก
-4781	Crimson Storm	พายุแดง
-4782	Bunny Brigade	บันนี่ บริเกด
-4783	Bunny Arrival	บันนี่ มาแล้ว
-4784	Mavka's Dance	การเต้นรำของ Mavka
-4785	Battle Charge	แบตเทิลชาร์จ
-4786	Whirling Whip	แส้ปั่น
+4778	Pyroblast@{1}	Pyroblast@{1}
+4779	Easy Movement	Easy Movement
+4780	Piercing Hope	Piercing Hope
+4781	Crimson Storm	Crimson Storm
+4782	Bunny Brigade	Bunny Brigade
+4783	Bunny Arrival	Bunny Arrival
+4784	Mavka's Dance	Mavka's Dance
+4785	Battle Charge	Battle Charge
+4786	Whirling Whip	Whirling Whip
 4787	Staff Mastery	ความชำนาญของพนักงาน
 4788	Shrined Judex	Shrined Judex
 4789	Arrow Barrage	Arrow Barrage
-4790	Falcon Patrol	เหยี่ยวลาดตระเวน
-4791	[Normal-Maya]	[ธรรมดา-มายา]
-4792	[Hard-Osiris]	[ฮาร์ด-โอซิริส]
-4793	[Normal-Isti]	[ปกติ-Isti]
-4794	[Normal-Ilmo]	[ปกติ-อิลโม]
+4790	Falcon Patrol	Falcon Patrol
+4791	[Normal-Maya]	[Normal-Maya]
+4792	[Hard-Osiris]	[Hard-Osiris]
+4793	[Normal-Isti]	[Normal-Isti]
+4794	[Normal-Ilmo]	[Normal-Ilmo]
 4795	Material Type	ประเภทวัสดุ
 4796	Monthly Uses:	การใช้งานรายเดือน:
-4797	Bonfire Affix	อุปกรณ์ติดกองไฟ
+4797	Bonfire Affix	อุปกรณ์ติด Bonfire
 4798	In ${1}d ${2}h	ใน${1}d${2}ชม.
 4799	In ${1}h ${2}m	ใน${1}ชม${2}ม.
 4800	Growth Support	รองรับการเติบโต
 4801	Speed Rankings	อันดับความเร็ว
-4802	Partywide Slow	Partywide ช้า
-4803	Fruit Peel Hat	หมวกปอกผลไม้
-4804	Black Cat Ears	หูแมวดำ
-4805	Feather Bonnet	หมวกขนนก
-4806	Apple Headwear	อุปกรณ์สวมศีรษะ Apple
-4807	Golden Coronet	มงกุฎทองคำ
-4808	Sun God Helmet	หมวกกันน็อค Sun God
-4809	Evil Wing Ears	หูปีกปีศาจ
-4810	Kitty's Charge	การชาร์จของคิตตี้
-4811	Night Judgment	การพิพากษาตอนกลางคืน
-4812	Old Television	โทรทัศน์รุ่นเก่า
-4813	Blossom Sprite	บลอสซั่ม สไปรท์
-4814	Goblin Balloon	บอลลูนก็อบลิน
-4815	Alice the Maid	อลิซสาวใช้
-4816	Scout Basilisk	ลูกเสือบาซิลิสก์
-4817	Raging Shinobi	ชิโนบิผู้บ้าคลั่ง
-4818	Wildcat Knight	อัศวินแมวป่า
+4802	Partywide Slow	Partywide Slow
+4803	Fruit Peel Hat	Fruit Peel Hat
+4804	Black Cat Ears	Black Cat Ears
+4805	Feather Bonnet	Feather Bonnet
+4806	Apple Headwear	Apple Headwear
+4807	Golden Coronet	Golden Coronet
+4808	Sun God Helmet	Sun God Helmet
+4809	Evil Wing Ears	Evil Wing Ears
+4810	Kitty's Charge	Kitty's Charge
+4811	Night Judgment	Night Judgment
+4812	Old Television	Old Television
+4813	Blossom Sprite	Blossom Sprite
+4814	Goblin Balloon	Goblin Balloon
+4815	Alice the Maid	Alice the Maid
+4816	Scout Basilisk	Scout Basilisk
+4817	Raging Shinobi	Raging Shinobi
+4818	Wildcat Knight	Wildcat Knight
 4819	Enter password	ใส่รหัสผ่าน
-4820	Thief Bug Male	แมลงจอมโจร ตัวผู้
-4821	Goblin (Flail)	ก็อบลิน (ไม้ตีกลอง)
-4822	Steel Chonchon	ชลชลเหล็ก
+4820	Thief Bug Male	Thief Bug Male
+4821	Goblin (Flail)	Goblin (Flail)
+4822	Steel Chonchon	Steel Chonchon
 4823	${1}% Complete	${1}% เสร็จสมบูรณ์
 4824	Ritual Funding	เงินทุนพิธีกรรม
 4825	Confirm Ritual	ยืนยันพิธีกรรม
 4826	Review Journey	รีวิวการเดินทาง
 4827	Title Acquired	ได้รับหัวข้อแล้ว
-4828	DMG vs All Job	DMG กับงานทั้งหมด
+4828	DMG vs All Job	DMG vs All Job
 4829	Poison Damage%	ความเสียหายจากพิษ%
 4830	Shadow Damage%	ความเสียหายจากเงา%
 4831	Undead Damage%	ความเสียหายอันเดด%
 4832	Petrify Attack	โจมตีกลายเป็นหิน
 4833	Shield Effect%	เอฟเฟกต์โล่%
-4834	Is in Darkness	อยู่ในความมืด
-4835	Transform Flag	แปลงแฟล็ก
+4834	Is in Darkness	อยู่ใน Darkness
+4835	Transform Flag	แปลง Flag
 4836	Current Energy	พลังงานปัจจุบัน
 4837	HP Bar Display	จอแสดงผลแบบบาร์ HP
-4838	Encounter Maya	เผชิญหน้ากับมายา
-4839	No. ${1} Guild	หมายเลข กิลด์${1}
+4838	Encounter Maya	เผชิญหน้ากับ Maya
+4839	No. ${1} Guild	หมายเลข Guild${1}
 4840	Closes in ${1}	ปิดใน${1}
 4841	Current Season	ฤดูกาลปัจจุบัน
 4842	Not Yet Ranked	ยังไม่ติดอันดับ
 4843	Defeat Wraith.	กำจัดเจตภูต
-4844	Defeat Dracula	เอาชนะแดร็กคูล่า
-4845	Kill @{1} Boas	ฆ่า@{1}โบอา
-4846	Kill Peco Peco	ฆ่า Peco Peco
+4844	Defeat Dracula	เอาชนะ Dracula
+4845	Kill @{1} Boas	Kill@{1}Boas
+4846	Kill Peco Peco	Kill Peco Peco
 4847	Effect Details	ภาพรวมเอฟเฟกต์
 4848	No buff effect	ไม่มีเอฟเฟกต์บัฟ
 4849	Portrait Frame	กรอบรูปบุคคล
@@ -854,11 +854,11 @@
 4853	Auction Closed	ปิดประมูลแล้ว
 4854	Return to Town	กลับสู่เมือง
 4855	Destroyed ${1}	ทำลาย${1}แล้ว
-4856	Normal Caravan	คาราวานธรรมดา
+4856	Normal Caravan	Normal Caravan
 4857	New Meditation	การทำสมาธิแบบใหม่
 4858	Skip Animation	ข้ามแอนิเมชัน
 4859	Special Offers	ข้อเสนอพิเศษ
-4860	Madogear Pilot	นักบิน Madogear
+4860	Madogear Pilot	Madogear Pilot
 4861	Failed to sell	ขายไม่สำเร็จ
 4862	Sort by Rating	เรียงตามเรตติ้ง
 4863	Purple Quality	สีม่วง คุณภาพ
@@ -868,42 +868,42 @@
 4867	Headless Giant	ยักษ์ไร้หัว
 4868	Bloodlike Wine	ไวน์สีเลือด
 4869	Test Gift Pack	ชุดของขวัญทดสอบ
-4870	Diamond Emblem	ตราสัญลักษณ์เพชร
+4870	Diamond Emblem	ตราสัญลักษณ์ Diamond
 4871	Skill Settings	การตั้งค่าทักษะ
 4872	Chapter Reward	พื้นฐานตัวละคร
 4873	Invite to Raid	เชิญเข้าร่วมการจู่โจม
-4874	Apply to Guild	สมัครเข้ากิลด์
+4874	Apply to Guild	สมัครเข้า Guild
 4875	Recovery Build	ทักษะการฟื้นฟู
 4876	Go to Ant Hell	ไปที่ Ant Hell
-4877	Defeat Pharaoh	เอาชนะฟาโรห์
+4877	Defeat Pharaoh	เอาชนะ Pharaoh
 4878	Fuse @{1} Pets	ฟิวส์@{1}สัตว์เลี้ยง
 4879	Discover Eddga	ค้นพบ Eddga
 4880	Talk to Fervor	คุยกับเฟอร์เวอร์
 4881	Current Effect	ผลกระทบปัจจุบัน
 4882	Star Core List	รายการแกนดาว
-4883	Praiser Priest	นักบวชผู้สรรเสริญ
+4883	Praiser Priest	Praiser Priest
 4884	Speed Assassin	นักฆ่าความเร็ว
 4885	Burst Assassin	นักฆ่าระเบิด
 4886	Venom Assassin	นักฆ่าพิษ
-4887	Earthfire Mage	เวทย์ไฟดิน
+4887	Earthfire Mage	Earthfire Mage
 4888	Start Matching	เริ่มการจับคู่
 4889	Caravan Escort	คาราวานคุ้มกัน
 4890	Stronghold War	สงครามฐานที่มั่น
 4891	Royal City War	สงครามเมืองหลวง
 4892	Left Accessory	อุปกรณ์เสริมด้านซ้าย
 4893	Material Cost:	ต้นทุนวัสดุ:
-4894	Auto Skill Bar	แถบทักษะอัตโนมัติ
-4895	Butterfly Wing	ปีกผีเสื้อ
+4894	Auto Skill Bar	Skill Bar อัตโนมัติ
+4895	Butterfly Wing	Butterfly Wing
 4896	Trade Exchange	แลกเปลี่ยนการค้า
 4897	Character Info	ข้อมูลตัวละคร
 4898	Fashion Rating	เรตติ้งแฟชั่น
 4899	Class Overview	อันดับคลาส
 4900	Season Cooking	ปรุงอาหารตามฤดูกาล
 4901	Evenly Matched	เท่าเทียมกัน
-4902	Guild Rankings	อันดับและรางวัลกิลด์
+4902	Guild Rankings	อันดับและรางวัล Guild
 4903	Attributes Tab	แท็บคุณสมบัติ
 4904	Assassin Cross	Assassin Cross
-4905	Novice's Pride	ความภาคภูมิใจของมือใหม่
+4905	Novice's Pride	Novice's Pride
 4906	Available Only	มีจำหน่ายเท่านั้น
 4907	Search History	ประวัติการค้นหา
 4908	Contact Seller	ติดต่อผู้ขาย
@@ -928,7 +928,7 @@
 4927	Intimacy Tier:	ระดับความใกล้ชิด:
 4928	Group Members:	สมาชิกกลุ่ม:
 4929	Rank ${1}–${2}	อันดับ${1}–${2}
-4930	Leave the raid	ออกจากการโจมตี
+4930	Leave the raid	Leave จากการโจมตี
 4931	Recent Parties	ปาร์ตี้ล่าสุด
 4932	Nearby Parties	ปาร์ตี้ใกล้เคียง
 4933	Stop Following	หยุดติดตาม
@@ -937,7 +937,7 @@
 4936	Increasing Bid	กำลังเพิ่มราคาเสนอ
 4937	Bid Successful	ประมูลสำเร็จ
 4938	Preset Message	ข้อความที่ตั้งไว้ล่วงหน้า
-4939	Opens in: ${1}	เปิดใน:${1}
+4939	Opens in: ${1}	Opens ใน:${1}
 4940	Eastern Forest	ป่าตะวันออก
 4941	Western Desert	ทะเลทรายตะวันตก
 4942	Confirm Travel	ยืนยันการเดินทาง
@@ -945,11 +945,11 @@
 4944	Previous Name:	ชื่อก่อนหน้า:
 4945	Confirm Change	ยืนยันการเปลี่ยนแปลง
 4946	No former name	ไม่มีชื่อเดิม
-4947	Go to Guild HQ	ไปที่สำนักงานใหญ่กิลด์
+4947	Go to Guild HQ	ไปที่สำนักงานใหญ่ Guild
 4948	Event Activity	การแจ้งเตือนเหตุการณ์
 4949	Honor Position	ตำแหน่งเกียรติยศ
 4950	Cancel Removal	ยกเลิกการลบ
-4951	Total Activity	กิจกรรมทั้งหมด
+4951	Total Activity	Activity ทั้งหมด
 4952	Recruit Member	รับสมัครสมาชิก
 4953	Over ${1} days	มากกว่า${1}วัน
 4954	Search Members	ค้นหาสมาชิก
@@ -960,42 +960,42 @@
 4959	Asking for Aid	Asking for Aid
 4960	Item submitted	ส่งสินค้าแล้ว
 4961	Get Help Cargo	รับความช่วยเหลือด้านการขนส่งสินค้า
-4962	Opens Thursday	เปิดวันพฤหัสบดี
-4963	Opens Saturday	เปิดวันเสาร์
+4962	Opens Thursday	Opens วันพฤหัสบดี
+4963	Opens Saturday	Opens วันเสาร์
 4964	List Resources	แสดงรายการทรัพยากร
-4965	Southern Payon	พะยอนใต้
-4966	Payon Instance	อินสแตนซ์ Payon
-4967	Dracula's Lair	ถ้ำแดร็กคูล่า
-4968	Pirate Captain	กัปตันโจรสลัด
-4969	Boss Challenge	ท้าทายบอส
+4965	Southern Payon	Southern Payon
+4966	Payon Instance	Payon Instance
+4967	Dracula's Lair	Dracula's Lair
+4968	Pirate Captain	Pirate Captain
+4969	Boss Challenge	Boss Challenge
 4970	Detect Stealth	ตรวจจับการลักลอบ
-4971	Card: Familiar	: คุ้นเคย
-4972	Card: Skeleton	การ์ด: โครงกระดูก
-4973	Card: Magnolia	การ์ด: แมกโนเลีย
+4971	Card: Familiar	Card: Familiar
+4972	Card: Skeleton	Card: Skeleton
+4973	Card: Magnolia	Card: Magnolia
 4974	Damage Ranking	อันดับความเสียหาย
-4975	Card: Cornutus	การ์ด: Cornutus
-4976	Card: Minorous	: มีน้อย
-4977	Card: Orc Baby	การ์ด: ออร์คเบบี้
-4978	Card: Phreeoni	การ์ด: ปรีโอนี
-4979	Card: Baphomet	การ์ด: บาโฟเมต
-4980	Card: Angeling	การ์ด: แองเจลิ่ง
-4981	Card: Orc Lord	การ์ด: ออร์คลอร์ด
-4982	Card: Deviling	การ์ด: เดวิลลิ่ง
-4983	Card: Orc Hero	การ์ด: ออร์คฮีโร่
-4984	Card: Mistress	การ์ด: นายหญิง
+4975	Card: Cornutus	Card: Cornutus
+4976	Card: Minorous	Card: Minorous
+4977	Card: Orc Baby	Card: Orc Baby
+4978	Card: Phreeoni	Card: Phreeoni
+4979	Card: Baphomet	Card: Baphomet
+4980	Card: Angeling	Card: Angeling
+4981	Card: Orc Lord	Card: Orc Lord
+4982	Card: Deviling	Card: Deviling
+4983	Card: Orc Hero	Card: Orc Hero
+4984	Card: Mistress	Card: Mistress
 4985	Strength +@{1}	ความแรง +@{1}
 4986	Gain a shield.	ได้รับโล่
 4987	Inflicts Blind	ทำให้ตาบอด
 4988	Equipment Drop	อุปกรณ์ดรอป
 4989	Transform: Red	แปลงร่าง: สีแดง
-4990	Healing Skills	ทักษะการรักษา
+4990	Healing Skills	Healing Skills
 4991	Arcane Mastery	Arcane Mastery
-4992	Holy Reckoning	การนับศักดิ์สิทธิ์
-4993	Skin Tempering	การแบ่งเบาบรรเทาผิว
-4994	Maximize Power	เพิ่มพลังสูงสุด
-4995	Crescent Wheel	ล้อพระจันทร์เสี้ยว
-4996	Flame Launcher	เครื่องยิงเปลวไฟ
-4997	Energy Release	การปล่อยพลังงาน
-4998	Poporing Split	กำลังแยก Popor
-4999	Sightless Mind	จิตใจที่มองไม่เห็น
-5000	Shield Reflect	ชิลด์สะท้อนแสง
+4992	Holy Reckoning	Holy Reckoning
+4993	Skin Tempering	Skin Tempering
+4994	Maximize Power	Maximize Power
+4995	Crescent Wheel	Crescent Wheel
+4996	Flame Launcher	Flame Launcher
+4997	Energy Release	Energy Release
+4998	Poporing Split	Poporing Split
+4999	Sightless Mind	Sightless Mind
+5000	Shield Reflect	Shield Reflect

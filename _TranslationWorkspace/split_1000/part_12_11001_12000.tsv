@@ -1,31 +1,31 @@
 ﻿Index	English	Thai_Translation
-11001	Ghostring Normal Attack	โกสต์ริง โจมตีปกติ
-11002	Cat o' Nine-Tail Skills	ทักษะแมวเก้าหาง
-11003	Gravity Totem Explosion	แรงโน้มถ่วงโทเท็มระเบิด
+11001	Ghostring Normal Attack	Ghostring Normal Attack
+11002	Cat o' Nine-Tail Skills	Cat o' Nine-Tail Skills
+11003	Gravity Totem Explosion	Gravity Totem Explosion
 11004	No match Data available	ไม่มีข้อมูลที่ตรงกัน
-11005	Daedre: Passive Trigger	Daere: ทริกเกอร์แบบพาสซีฟ
-11006	Ninja Art: Smoke Screen	นินจาอาร์ต: สกรีนควัน
-11007	Ghost Ship Grand Charge	Ghost Ship แกรนด์ชาร์จ
-11008	Link Distance Check@{1}	ตรวจสอบระยะทางลิงก์@{1}
-11009	Summon Coffin + Bandage	อัญเชิญโลงศพ + ผ้าพันแผล
-11010	Pharaoh Ultimate Damage	ฟาโรห์สร้างความเสียหายขั้นสูงสุด
-11011	Moonlight Flower Ambush	ดอกไม้แสงจันทร์ซุ่มโจมตี
-11012	P@{1} Yellow Bubble@{2}	P@{1}ฟองสีเหลือง@{2}
-11013	Boss Movement Detection	การตรวจจับการเคลื่อนไหวของบอส
-11014	Rhythm Game Interaction	ปฏิสัมพันธ์ของเกมตามจังหวะ
-11015	Skill@{1}_Hell Mode@{2}	ทักษะ@{1}_โหมดนรก@{2}ทักษะ
-11016	Skill@{1}_Hard Mode@{2}	ทักษะ@{1}_โหมดฮาร์ด@{2}
-11017	Melody Cannon - Enhance	Melody Cannon - เสริมประสิทธิภาพ
-11018	Hundred Spear - Enhance	ร้อยหอก - เสริมประสิทธิภาพ
-11019	S@{1}Cannon Enhance@{2}	S@{1}ปืนใหญ่เสริม@{2}
-11020	S@{1}High-Energy Impact	S@{1}การกระแทกพลังงานสูง
-11021	S@{1}Crescent Moonblade	S@{1}พระจันทร์เสี้ยว
-11022	Ultimate Hundred Spears	สุดยอดหอกร้อยอัน
-11023	S@{1}Black Phantom Void	S@{1}Phantom Void สีดำ
-11024	Greatsword Sweep Attack	ดาบใหญ่กวาดโจมตี
-11025	YU-Sweep All Directions	YU-กวาดทุกทิศทาง
-11026	Advanced Soul Destroyer	ผู้ทำลายวิญญาณขั้นสูง
-11027	Holy Light's Protection	การปกป้องแห่งแสงศักดิ์สิทธิ์
+11005	Daedre: Passive Trigger	Daedre: Passive Trigger
+11006	Ninja Art: Smoke Screen	Ninja Art: Smoke Screen
+11007	Ghost Ship Grand Charge	Ghost Ship Grand Charge
+11008	Link Distance Check@{1}	Link Distance Check@{1}
+11009	Summon Coffin + Bandage	Summon Coffin + Bandage
+11010	Pharaoh Ultimate Damage	Pharaoh Ultimate Damage
+11011	Moonlight Flower Ambush	Moonlight Flower Ambush
+11012	P@{1} Yellow Bubble@{2}	P@{1} Yellow Bubble@{2}
+11013	Boss Movement Detection	Boss Movement Detection
+11014	Rhythm Game Interaction	Rhythm Game Interaction
+11015	Skill@{1}_Hell Mode@{2}	Skill@{1}_Hell Mode@{2}
+11016	Skill@{1}_Hard Mode@{2}	Skill@{1}_Hard Mode@{2}
+11017	Melody Cannon - Enhance	Melody Cannon - Enhance
+11018	Hundred Spear - Enhance	Hundred Spear - Enhance
+11019	S@{1}Cannon Enhance@{2}	S@{1}Cannon Enhance@{2}
+11020	S@{1}High-Energy Impact	S@{1}High-Energy Impact
+11021	S@{1}Crescent Moonblade	S@{1}Crescent Moonblade
+11022	Ultimate Hundred Spears	Ultimate Hundred Spears
+11023	S@{1}Black Phantom Void	S@{1}Black Phantom Void
+11024	Greatsword Sweep Attack	Greatsword Sweep Attack
+11025	YU-Sweep All Directions	YU-Sweep All Directions
+11026	Advanced Soul Destroyer	Advanced Soul Destroyer
+11027	Holy Light's Protection	Holy Light's Protection
 11028	Players Completed: ${1}	เสร็จสิ้นแล้ว:${1}ผู้เล่น
 11029	Crit increases by ${1}.	คริติคอลเพิ่มขึ้น${1}
 11030	Create Announcement NPC	สร้างประกาศ NPC
@@ -35,36 +35,36 @@
 11034	Auto-play on Wi-Fi only	Auto-play on Wi-Fi only
 11035	Message cannot be empty	ข้อความไม่สามารถเว้นว่างได้
 11036	Broadcast item required	จำเป็นต้องมีรายการออกอากาศ
-11037	Clue Treasure Map: Shop	แผนที่สมบัติเบาะแส: ร้านค้า
-11038	Rolling Cutter Assassin	นักฆ่าโรลลิ่งคัตเตอร์
-11039	Teleport to Target Area	เทเลพอร์ตไปยังพื้นที่เป้าหมาย
-11040	Clock-Hand Magic Circle	วงเวทย์เข็มนาฬิกา
-11041	Precious Treasure Chest	หีบสมบัติล้ำค่า
-11042	Moonlight on the Breeze	แสงจันทร์บนสายลม
-11043	Training Dummy - Normal	หุ่นฝึกซ้อม - ปกติ
-11044	@{1}D Bounding Box Test	@{1}D การทดสอบกรอบล้อมรอบ
-11045	Dragon Fly Magic Circle	วงเวทย์มังกรบิน
-11046	Accelerate Dragon Blood	เร่งเลือดมังกร
-11047	Deathproof Dragon Blood	เลือดมังกรมรณะ
-11048	Kafra Voting Campaigner	นักรณรงค์ลงคะแนนเสียงของ Kafra
-11049	Person Watching the Sea	คนชมทะเล
-11050	Adventurer's Guild Tree	ต้นไม้กิลด์นักผจญภัย
-11051	Geffen Tower Floor @{1}	ชั้นเกฟเฟนทาวเวอร์@{1}
-11052	Prontera-Flying Trigger	Prontera-ทริกเกอร์บิน
-11053	Territory War - Fifteen	สงครามดินแดน - สิบห้า
-11054	Territory War - Sixteen	สงครามดินแดน - สิบหก
-11055	Swordsman (Monster)@{1}	นักดาบ (มอนสเตอร์)@{1}
-11056	No Translation Required	ไม่ต้องแปล
-11057	Squidgitte Magic Circle	สควิดจิตต์ เมจิก เซอร์เคิล
-11058	Red Tracking Bubble NPC	NPC ฟองติดตามสีแดง
-11059	P@{1} Yellow Bubble NPC	P@{1}ฟองสีเหลือง NPC
-11060	Zhuntuo Agency Promoter	ผู้สนับสนุนหน่วยงาน Zhuntuo
-11061	Moonlight Flower-Normal	ดอกไม้แสงจันทร์-ธรรมดา
+11037	Clue Treasure Map: Shop	Clue Treasure Map: Shop
+11038	Rolling Cutter Assassin	Rolling Cutter Assassin
+11039	Teleport to Target Area	Teleport to Target Area
+11040	Clock-Hand Magic Circle	Clock-Hand Magic Circle
+11041	Precious Treasure Chest	Precious Treasure Chest
+11042	Moonlight on the Breeze	Moonlight on the Breeze
+11043	Training Dummy - Normal	Training Dummy - Normal
+11044	@{1}D Bounding Box Test	@{1}D Bounding Box Test
+11045	Dragon Fly Magic Circle	Dragon Fly Magic Circle
+11046	Accelerate Dragon Blood	Accelerate Dragon Blood
+11047	Deathproof Dragon Blood	Deathproof Dragon Blood
+11048	Kafra Voting Campaigner	Kafra Voting Campaigner
+11049	Person Watching the Sea	Person Watching the Sea
+11050	Adventurer's Guild Tree	Adventurer's Guild Tree
+11051	Geffen Tower Floor @{1}	Geffen Tower Floor @{1}
+11052	Prontera-Flying Trigger	Prontera-Flying Trigger
+11053	Territory War - Fifteen	Territory War - Fifteen
+11054	Territory War - Sixteen	Territory War - Sixteen
+11055	Swordsman (Monster)@{1}	Swordsman (Monster)@{1}
+11056	No Translation Required	No Translation Required
+11057	Squidgitte Magic Circle	Squidgitte Magic Circle
+11058	Red Tracking Bubble NPC	Red Tracking Bubble NPC
+11059	P@{1} Yellow Bubble NPC	P@{1} Yellow Bubble NPC
+11060	Zhuntuo Agency Promoter	Zhuntuo Agency Promoter
+11061	Moonlight Flower-Normal	Moonlight Flower-Normal
 11062	Resets daily at 5:00 AM	รีเซ็ตทุกวัน เวลา 05.00 น
 11063	Today's Teammate Kills:	การสังหารเพื่อนร่วมทีมในวันนี้:
-11064	Accomplished Adventurer	นักผจญภัยที่ประสบความสำเร็จ
-11065	Teleport to the Culvert	เทเลพอร์ตไปที่ท่อระบายน้ำ
-11066	Adventurer Camp Manager	ผู้จัดการค่ายนักผจญภัย
+11064	Accomplished Adventurer	Adventurer ที่ประสบความสำเร็จ
+11065	Teleport to the Culvert	Teleport ไปที่ Culvert
+11066	Adventurer Camp Manager	ผู้จัดการค่าย Adventurer
 11067	Event Not Yet Available	ยังไม่พร้อมใช้งาน
 11068	Poison Damage Reduction	ลดความเสียหายจากพิษ
 11069	Shadow Damage Reduction	ลดความเสียหายจากเงา
@@ -72,18 +72,18 @@
 11071	Damage to Formless Race	สร้างความเสียหายให้กับการแข่งขันที่ไร้รูปแบบ
 11072	Basic - Green Nameplate	Basic - ป้ายชื่อสีเขียว
 11073	Total Auction Dividend:	เงินปันผลการประมูลรวม:
-11074	Guild Investor Rankings	อันดับนักลงทุนกิลด์
-11075	Guild Contribution Cost	ค่าบริจาคกิลด์
+11074	Guild Investor Rankings	อันดับนักลงทุน Guild
+11075	Guild Contribution Cost	ค่าบริจาค Guild
 11076	Pet Metric - Obtain Pet	Pet Metric - รับสัตว์เลี้ยง
 11077	Visit Gutei (@{1}/@{2})	เยี่ยมชม Gutei (@{1}/@{2})
-11078	Adventurer Registration	การลงทะเบียนนักผจญภัย
+11078	Adventurer Registration	การลงทะเบียน Adventurer
 11079	Rare Balancing Bristles	ขนแปรงปรับสมดุลหายาก
-11080	Traces of the Professor	ร่องรอยของศาสตราจารย์
+11080	Traces of the Professor	ร่องรอยของ Professor
 11081	Just a Passing Old Lady	แค่หญิงชราผู้จากไป
 11082	Opinions from Passersby	ความคิดเห็นจากผู้สัญจรไปมา
 11083	The Family's Accusation	ข้อกล่าวหาของครอบครัว
 11084	An Easier Way to Battle	วิธีการต่อสู้ที่ง่ายกว่า
-11085	Open CG @{1} - QTE @{2}	เปิด CG@{1}- QTE@{2}
+11085	Open CG @{1} - QTE @{2}	Open CG@{1}- QTE@{2}
 11086	Complete 1st Job Change	เปลี่ยนงานครั้งที่ 1 ให้เสร็จสมบูรณ์
 11087	Complete the Commission	ทำคอมมิชชั่นให้เสร็จสิ้น
 11088	Begin Stowing the Cargo	เริ่มจัดเก็บสินค้า
@@ -98,18 +98,18 @@
 11097	Click to open the menu.	คลิกเพื่อเปิดเมนู
 11098	^{1}Defeat Orc Hero^{2}	^{1}สยบฮีโร่ออร์ค^{2}
 11099	^{1}Defeat Mistress^{2}	^{1}ปราบเมียน้อย^{2}
-11100	^{1}Defeat Baphomet^{2}	^{1}เอาชนะบาโฟเมต^{2}
+11100	^{1}Defeat Baphomet^{2}	^{1}เอาชนะ Baphomet^{2}
 11101	Transition Dialogue@{1}	บทสนทนาการเปลี่ยนผ่าน@{1}
 11102	View Summoning Progress	ดูความคืบหน้าในการอัญเชิญ
-11103	Darn it! I fell for it!	ให้ตายเถอะ!ฉันตกหลุมรักมัน!
+11103	Darn it! I fell for it!	ให้ตายเถอะ! ฉันตกหลุมรักมัน!
 11104	Say a heartfelt goodbye	บอกลาอย่างจริงใจ
 11105	Wait for Reinforcements	รอกำลังเสริม
-11106	I'll Never Abandon Bobo	ฉันจะไม่มีวันทิ้งโบโบ้
+11106	I'll Never Abandon Bobo	ฉันจะไม่มีวันทิ้ง Bobo
 11107	About the Bounty Notice	เกี่ยวกับประกาศรางวัล
 11108	Recall Anything Unusual	เรียกคืนสิ่งผิดปกติ
 11109	This is temporary text!	นี่เป็นข้อความชั่วคราว!
-11110	Teleport To the Academy	เทเลพอร์ตไปยังสถาบัน
-11111	Here's Katie the kitty!	นี่ลูกแมวเคธี่!
+11110	Teleport To the Academy	Teleport ไปยังสถาบัน
+11111	Here's Katie the kitty!	นี่ลูกแมว Katie!
 11112	A cockroach researcher?	นักวิจัยแมลงสาบ?
 11113	Woof, woof, woof, woof!	โฮ่ง โฮ่ง โฮ่ง โฮ่ง!
 11114	Instance closes in ${1}	อินสแตนซ์ปิดใน${1}
@@ -121,103 +121,103 @@
 11120	Ah! Doushale, Doushale!	อ่า! ดูชาเล่ ดูชาเล่!
 11121	Bottom-bar message test	การทดสอบข้อความแถบด้านล่าง
 11122	You collected this note	คุณรวบรวมบันทึกนี้แล้ว
-11123	Meow, meow~ Meow, meow!	เหมียว เหมียว~ เหมียว เหมียว!
+11123	Meow, meow~ Meow, meow!	Meow Meow~ Meow Meow!
 11124	You got the move wrong!	คุณเคลื่อนไหวผิด!
-11125	Katie\nMeow, meow meow!	เคธี่\nเหมียว เหมียว เหมียว!
-11126	Bobo\nLet's keep going.	Bobo\nไปกันต่อครับ
+11125	Katie\nMeow, meow meow!	Katie\n เหมียว เหมียว เหมียว!
+11126	Bobo\nLet's keep going.	Bobo\n ไปกันต่อครับ
 11127	seconds until skippable	วินาทีจนกว่าจะสามารถข้ามได้
 11128	Touch the stone pillar.	แตะเสาหิน
 11129	Show Pre-purchases Only	แสดงการซื้อล่วงหน้าเท่านั้น
-11130	Current Guild Division:	แผนกกิลด์ปัจจุบัน:
+11130	Current Guild Division:	แผนก Guild ปัจจุบัน:
 11131	Victory Auction Rewards	รางวัลการประมูลชัยชนะ
 11132	Limited-Time Appearance	ลักษณะที่ปรากฏในเวลาจำกัด
-11133	Scorching Dragon Breath	ลมหายใจมังกรแผดเผา
-11134	Fafnir - Leaping Pounce	Fafnir - กระโจนกระโจน
-11135	Memory Game-Left Damage	เกมหน่วยความจำ - ความเสียหายด้านซ้าย
-11136	Memory Game-Ring Damage	ความเสียหายของวงแหวนเกมหน่วยความจำ
+11133	Scorching Dragon Breath	Scorching Dragon Breath
+11134	Fafnir - Leaping Pounce	Fafnir - Leaping Pounce
+11135	Memory Game-Left Damage	Memory Game-Left Damage
+11136	Memory Game-Ring Damage	Memory Game-Ring Damage
 11137	Demonic Dragon's Breath	ลมหายใจมังกรปีศาจ
 11138	Active in Siege Battles	ใช้งานใน Siege Battles
 11139	10-Player Raid · Normal	การโจมตีผู้เล่น 10 คน · ปกติ
-11140	Silk Shoulderwear Blank	เสื้อคลุมไหล่ผ้าไหมเปล่า
+11140	Silk Shoulderwear Blank	Silk Shoulderwear Blank
 11141	Learn About Auto-Battle	เรียนรู้เกี่ยวกับการต่อสู้อัตโนมัติ
 11142	Introducing Soul Echoes	ขอแนะนำ Soul Echoes
 11143	The Relic's Whereabouts	ที่อยู่ของวัตถุโบราณ
 11144	Retrieve the Instrument	ดึงอุปกรณ์
 11145	Suspicious Evidence (I)	หลักฐานที่น่าสงสัย (I)
-11146	The Professor's Request	คำขอร้องของศาสตราจารย์
+11146	The Professor's Request	คำขอร้องของ Professor
 11147	The Incubator's Purpose	จุดประสงค์ของตู้ฟัก
 11148	The Secret in the Notes	ความลับในบันทึกย่อ
 11149	Invalid deployment slot	สล็อตการปรับใช้ไม่ถูกต้อง
 11150	War God's Power - Green	พลังเทพสงคราม - สีเขียว
 11151	Bulwark's Power - Green	พลังของป้อมปราการ - สีเขียว
-11152	Life Percentage - Green	เปอร์เซ็นต์ชีวิต - สีเขียว
+11152	Life Percentage - Green	เปอร์เซ็นต์ Life - สีเขียว
 11153	A makeshift litter box.	กล่องทิ้งขยะชั่วคราว
 11154	A large piece of Scell.	สเซลชิ้นใหญ่.
 11155	Used for card Level-up.	ใช้สำหรับอัพเลเวลการ์ด
 11156	Pet is already deployed	Pet ถูกใช้งานแล้ว
 11157	A club made of mithril.	ไม้กระบองที่ทำจากมิธริล
 11158	The Concealed Arrowhead	หัวลูกศรที่ซ่อนอยู่
-11159	Basic Hunting Technique	เทคนิคการล่าสัตว์ขั้นพื้นฐาน
-11160	Low-Tier DMG vs All Job	DMG ระดับต่ำเทียบกับงานทั้งหมด
-11161	Minor Shadow Resistance	ต้านทานเงาเล็กน้อย
-11162	Minor Poison Resistance	ต้านทานพิษเล็กน้อย
-11163	Low-Tier Vengeful Might	พลังพยาบาทระดับต่ำ
-11164	Low-Tier Abundant Magic	เวทมนตร์ระดับต่ำมากมาย
-11165	Low-Tier Vengeful Magic	เวทมนตร์ล้างแค้นระดับต่ำ
-11166	Pet Shard: Forest Fairy	ชิ้นส่วนสัตว์เลี้ยง: นางฟ้าแห่งป่า
-11167	Pet Shard: Ancient Tree	Pet Shard: ต้นไม้โบราณ
-11168	Pet Shard: Baphomet Jr.	ชิ้นส่วนสัตว์เลี้ยง: บาโฟเมต จูเนียร์
-11169	Pet Shard: Warrior Lola	Pet Shard: นักรบโลล่า
-11170	Silver Moon Witch Shard	ชิ้นส่วนแม่มดพระจันทร์สีเงิน
-11171	Growth Gift Box · Day 7	กล่องของขวัญการเติบโต · วันที่ 7
-11172	Growth Gift Box · Day 6	กล่องของขวัญการเติบโต · วันที่ 6
-11173	Growth Gift Box · Day 5	กล่องของขวัญการเติบโต · วันที่ 5
-11174	Growth Gift Box · Day 4	กล่องของขวัญการเติบโต · วันที่ 4
-11175	Growth Gift Box · Day 3	กล่องของขวัญการเติบโต · วันที่ 3
-11176	Growth Gift Box · Day 2	กล่องของขวัญการเติบโต · วันที่ 2
-11177	Growth Gift Box · Day 1	กล่องของขวัญการเติบโต · วันที่ 1
-11178	Headgear Material Chest	กล่องวัสดุหมวก
-11179	Card: Savage Babe Chest	การ์ด: Savage Babe Chest
-11180	Random Purple Card Pack	ซองการ์ดสุ่มสีม่วง
+11159	Basic Hunting Technique	Basic Hunting Technique
+11160	Low-Tier DMG vs All Job	Low-Tier DMG vs All Job
+11161	Minor Shadow Resistance	Minor Shadow Resistance
+11162	Minor Poison Resistance	Minor Poison Resistance
+11163	Low-Tier Vengeful Might	Low-Tier Vengeful Might
+11164	Low-Tier Abundant Magic	Low-Tier Abundant Magic
+11165	Low-Tier Vengeful Magic	Low-Tier Vengeful Magic
+11166	Pet Shard: Forest Fairy	Pet Shard: Forest Fairy
+11167	Pet Shard: Ancient Tree	Pet Shard: Ancient Tree
+11168	Pet Shard: Baphomet Jr.	Pet Shard: Baphomet Jr.
+11169	Pet Shard: Warrior Lola	Pet Shard: Warrior Lola
+11170	Silver Moon Witch Shard	Silver Moon Witch Shard
+11171	Growth Gift Box · Day 7	Growth Gift Box · Day 7
+11172	Growth Gift Box · Day 6	Growth Gift Box · Day 6
+11173	Growth Gift Box · Day 5	Growth Gift Box · Day 5
+11174	Growth Gift Box · Day 4	Growth Gift Box · Day 4
+11175	Growth Gift Box · Day 3	Growth Gift Box · Day 3
+11176	Growth Gift Box · Day 2	Growth Gift Box · Day 2
+11177	Growth Gift Box · Day 1	Growth Gift Box · Day 1
+11178	Headgear Material Chest	Headgear Material Chest
+11179	Card: Savage Babe Chest	Card: Savage Babe Chest
+11180	Random Purple Card Pack	Random Purple Card Pack
 11181	Gift sent successfully.	ส่งของขวัญเรียบร้อยแล้ว
-11182	Golden Thief Bug's Gift	ของขวัญจากแมลงจอมโจรสีทอง
-11183	Basic Pack (Deprecated)	Basic Pack (เลิกใช้แล้ว)
+11182	Golden Thief Bug's Gift	Golden Thief Bug's Gift
+11183	Basic Pack (Deprecated)	Basic Pack (Deprecated)
 11184	Assassin Cross Portrait	ภาพเหมือนของนักฆ่าครอส
-11185	Masterless Soul Crystal	คริสตัลวิญญาณไร้ผู้ชำนาญ
-11186	Candle of Contemplation	เทียนแห่งการไตร่ตรอง
-11187	Tier @{1} Red Equipment	Tier@{1}อุปกรณ์สีแดง
-11188	Green Headgear Material	วัสดุหมวกสีเขียว
-11189	Talent Divine Art Totem	โทเท็มศิลปะศักดิ์สิทธิ์ที่มีพรสวรรค์
-11190	Orange Divine Art Totem	โทเท็มศิลปะศักดิ์สิทธิ์สีส้ม
-11191	Universal Emotes Unlock	ปลดล็อคอิโมติคอนสากล
-11192	Hunting Emblem · Warden	Hunting Emblem · ผู้คุม
-11193	Advanced Ignition Agent	ตัวแทนการจุดระเบิดขั้นสูง
-11194	Cross Star Core - Green	แกนครอสสตาร์ - สีเขียว
-11195	Moon Star Core - Orange	แกนมูนสตาร์ - สีส้ม
-11196	Moon Star Core - Purple	แกนดาวพระจันทร์ - สีม่วง
-11197	Prism Star Core - Green	แกนปริซึมสตาร์ - สีเขียว
-11198	Legendary Accessory Gem	อัญมณีเครื่องประดับในตำนาน
-11199	Oak Scroll · Shoes-Blue	Oak Scroll · รองเท้า-สีน้ำเงิน
-11200	Oak Scroll·Cloak-Purple	Oak Scroll·เสื้อคลุม-ม่วง
+11185	Masterless Soul Crystal	Masterless Soul Crystal
+11186	Candle of Contemplation	Candle of Contemplation
+11187	Tier @{1} Red Equipment	Tier @{1} Red Equipment
+11188	Green Headgear Material	Green Headgear Material
+11189	Talent Divine Art Totem	Talent Divine Art Totem
+11190	Orange Divine Art Totem	Orange Divine Art Totem
+11191	Universal Emotes Unlock	Universal Emotes Unlock
+11192	Hunting Emblem · Warden	Hunting Emblem · Warden
+11193	Advanced Ignition Agent	Advanced Ignition Agent
+11194	Cross Star Core - Green	Cross Star Core - Green
+11195	Moon Star Core - Orange	Moon Star Core - Orange
+11196	Moon Star Core - Purple	Moon Star Core - Purple
+11197	Prism Star Core - Green	Prism Star Core - Green
+11198	Legendary Accessory Gem	Legendary Accessory Gem
+11199	Oak Scroll · Shoes-Blue	Oak Scroll · Shoes-Blue
+11200	Oak Scroll·Cloak-Purple	Oak Scroll·Cloak-Purple
 11201	Giant Scroll·Armor-Blue	Giant Scroll·Armor-Blue
-11202	Fate Scroll·Armor-Green	Fate Scroll·เกราะ-เขียว
-11203	Ymir Scroll·Armor-Green	Ymir Scroll·เกราะ-เขียว
-11204	Hollgrehenn's Testimony	คำให้การของ Hollgrehenn
-11205	Happy Sparkling Balloon	ลูกโป่งประกายสุขสันต์
-11206	Premium Breath Medicine	ยารักษาโรคลมหายใจระดับพรีเมียม
-11207	Lv. @{1} Shield (No BD)	เลเวลชิลด์@{1}(ไม่มี BD)
-11208	Lv. @{1} Dagger (No BD)	เลเวลกริช@{1}(ไม่มี BD)
-11209	Lv. @{1} Two-Handed Axe	เลเวล@{1}ขวานสองมือ
-11210	Lv. @{1} One-Handed Axe	เลเวล@{1}ขวานมือเดียว
-11211	Super Tournament Dagger	กริชซูเปอร์ทัวร์นาเมนต์
+11202	Fate Scroll·Armor-Green	Fate Scroll·Armor-Green
+11203	Ymir Scroll·Armor-Green	Ymir Scroll·Armor-Green
+11204	Hollgrehenn's Testimony	Hollgrehenn's Testimony
+11205	Happy Sparkling Balloon	Happy Sparkling Balloon
+11206	Premium Breath Medicine	Premium Breath Medicine
+11207	Lv. @{1} Shield (No BD)	Lv. @{1} Shield (No BD)
+11208	Lv. @{1} Dagger (No BD)	Lv. @{1} Dagger (No BD)
+11209	Lv. @{1} Two-Handed Axe	Lv. @{1} Two-Handed Axe
+11210	Lv. @{1} One-Handed Axe	Lv. @{1} One-Handed Axe
+11211	Super Tournament Dagger	Super Tournament Dagger
 11212	No equipment available.	ไม่มีอุปกรณ์
-11213	Novice Hooded Pauldrons	พอลดรอนมีฮู้ดมือใหม่
-11214	Secret Blade: Dark Howl	ดาบลับ: คำรามแห่งความมืด
-11215	Two-Tone - Green/Yellow	ทูโทน - เขียว/เหลือง
+11213	Novice Hooded Pauldrons	Novice Hooded Pauldrons
+11214	Secret Blade: Dark Howl	Secret Blade: Dark Howl
+11215	Two-Tone - Green/Yellow	Two-Tone - Green/Yellow
 11216	Must win in Tower Climb	ต้องชนะใน Tower Climb
 11217	Not enough pet searches	ค้นหาสัตว์เลี้ยงไม่เพียงพอ
-11218	Codex Points (Monsters)	คะแนน Codex (มอนสเตอร์)
-11219	Shadow Card: Thara Frog	การ์ดเงา : กบธารา
+11218	Codex Points (Monsters)	Codex Points (Monsters)
+11219	Shadow Card: Thara Frog	Shadow Card: Thara Frog
 11220	Appearance Gift Details	รายละเอียดของขวัญลักษณะที่ปรากฏ
 11221	MVP Ranking Point Decay	MVP อันดับคะแนนเสื่อมลง
 11222	Base Power ^{1}${1}^{2}	กำลังพื้นฐาน ^{1}${1}^{2}สถิติพื้นฐาน
@@ -237,19 +237,19 @@
 11236	South Morroc Prefecture	จังหวัดมอร์ร็อกใต้
 11237	Tap to Search for Cards	แตะเพื่อค้นหาการ์ด
 11238	Monster [${1}] unlocked	[${1}] แล้ว
-11239	Instant Recovery Potion	ยาฟื้นฟูทันที
+11239	Instant Recovery Potion	Instant Recovery Potion
 11240	Unlocked from the Start	ปลดล็อคตั้งแต่เริ่มต้น
-11241	Sanctuary [Buff Effect]	Sanctuary [เอฟเฟกต์บัฟ]
+11241	Sanctuary [Buff Effect]	Sanctuary [Buff Effect]
 11242	S@{1} Firepower Loading	S@{1}กำลังโหลดอำนาจการยิง
 11243	Connected by Red Thread	เชื่อมต่อด้วยด้ายสีแดง
-11244	Grand Cross Triggers ST	แกรนด์ครอสทริกเกอร์ ST
+11244	Grand Cross Triggers ST	Grand Cross ทริกเกอร์ ST
 11245	Skill Damage Multiplier	ตัวคูณความเสียหายจากทักษะ
 11246	Buff Applied to Enemies	บัฟมีผลกับศัตรู
 11247	Instantly Restore @{1}%	กู้คืน@{1}ทันที %
 11248	Storm Gust (Deprecated)	Storm Gust (เลิกใช้แล้ว)
 11249	Close Friend (Lv. @{1})	เพื่อนสนิท (Lv.@{1})
 11250	Revive Point Protection	ป้องกันจุดฟื้นคืนชีพ
-11251	Gain Cooldown Reduction	ได้รับการลดคูลดาวน์
+11251	Gain Cooldown Reduction	ได้รับการ Cooldown Reduction
 11252	More Left-Click Actions	การดำเนินการคลิกซ้ายเพิ่มเติม
 11253	Quick Item Display Area	พื้นที่แสดงรายการด่วน
 11254	${1}/${2} Conversations	การสนทนา${1}/${2}
@@ -262,10 +262,10 @@
 11261	Intermediate Magic Rune	รูนเวทย์มนตร์ระดับกลาง
 11262	Cast Time Increase @{1}	เพิ่มเวลาในการร่าย@{1}
 11263	Directional Effect Test	การทดสอบเอฟเฟกต์ทิศทาง
-11264	Trap Hunter Boss Target	เป้าหมายบอสนักล่ากับดัก
+11264	Trap Hunter Boss Target	เป้าหมายบอส Trap Hunter
 11265	Protection of the Sands	การปกป้องผืนทราย
 11266	Power of the Wander Man	พลังแห่งชายผู้พเนจร
-11267	Collective Surveillance	การเฝ้าระวังโดยรวม
+11267	Collective Surveillance	Collective Surveillance
 11268	Damage Reduction Filter	ตัวกรองลดความเสียหาย
 11269	Stationary Green Bubble	เครื่องเขียน Bubble สีเขียว
 11270	Dance Machine Transform	การแปลงเครื่องเต้น
@@ -277,20 +277,20 @@
 11276	Spellbook-Little Meteor	หนังสือเวทย์มนตร์ - ดาวตกน้อย
 11277	Replace Fearless Charge	แทนที่ Fearless Charge
 11278	Flowing Shadow_S@{1}_BD	เงาไหล_S@{1}_BD
-11279	Shadow GuardBD_S@{1}_BD	การ์ดเงาBD_S@{1}_BD
+11279	Shadow GuardBD_S@{1}_BD	การ์ดเงา BD_S@{1}_BD
 11280	Intense Telekinesis@{1}	เทเลคิเนซิสเข้มข้น@{1}
-11281	Thousand Shadows Status	สถานะพันเงา
+11281	Thousand Shadows Status	สถานะ Thousand Shadows
 11282	Claim ${1} Area Rewards	รับรางวัลพื้นที่${1}
-11283	Leave Room Confirmation	ยืนยันการออกจากห้อง
+11283	Leave Room Confirmation	ยืนยันการ Leave จากห้อง
 11284	The host has muted you.	โฮสต์ปิดเสียงคุณ
 11285	Base Level reaches ${1}	ระดับฐานถึง${1}
 11286	^{1}Defeat Angeling^{2}	^{1}เอาชนะแองเจลิ่ง^{2}
-11287	^{1}[Phantom Realm]^{2}	^{1}[อาณาจักรปีศาจ]^{2}
-11288	^{1}[Epic Campaign]^{2}	^{1}[แคมเปญมหากาพย์]^{2}
+11287	^{1}[Phantom Realm]^{2}	^{1}[Phantom Realm]^{2}
+11288	^{1}[Epic Campaign]^{2}	^{1}[Epic Campaign]^{2}
 11289	Casting Method Overview	ภาพรวมวิธีการหล่อ
 11290	Commander Skill Details	รายละเอียดทักษะผู้บัญชาการ
 11291	Siege Weapon - Ballista	อาวุธปิดล้อม - Ballista
-11292	Weaponry - Heavy Cannon	- ปืนใหญ่หนัก
+11292	Weaponry - Heavy Cannon	- Cannon หนัก
 11293	Auto-Battle Skill Order	ลำดับทักษะการต่อสู้อัตโนมัติ
 11294	Mount already activated	เมาท์เปิดใช้งานแล้ว
 11295	Configuration not found	ไม่พบการกำหนดค่า
@@ -316,7 +316,7 @@
 11315	Invitation has expired.	คำเชิญหมดอายุแล้ว
 11316	^{1}Gunpowder Smash^{2}	^{1}ดินปืนทุบ^{2}
 11317	^{1}Self-Motivation^{2}	^{1}แรงจูงใจในตนเอง^{2}
-11318	^{1}Cart Remodeling^{2}	^{1}การปรับปรุงรถเข็น^{2}
+11318	^{1}Cart Remodeling^{2}	^{1}Cart Remodeling^{2}
 11319	^{1}Weapon Research^{2}	^{1}การวิจัยอาวุธ^{2}
 11320	^{1}Speed Is Weight^{2}	^{1}ความเร็วคือน้ำหนัก^{2}
 11321	^{1}Terminate Blast^{2}	^{1}ยุติการระเบิด^{2}
@@ -325,7 +325,7 @@
 11324	Minor Undead Resistance	ความต้านทาน Undead เล็กน้อย
 11325	Minor Hunting Technique	เทคนิคการล่าสัตว์รอง
 11326	Advanced DMG vs All Job	ความเสียหายขั้นสูงเทียบกับงานทั้งหมด
-11327	Efficient Deadly Poison	พิษร้ายแรงอย่างมีประสิทธิภาพ
+11327	Efficient Deadly Poison	Deadly Poison อย่างมีประสิทธิภาพ
 11328	^{1}Elemental Shock^{2}	^{1}โช๊คธาตุ^{2}
 11329	^{1}Gravity Enhance^{2}	^{1}เพิ่มแรงโน้มถ่วง^{2}
 11330	Requires the ${1} class	ต้องมีคลาส${1}
@@ -343,7 +343,7 @@
 11342	Contribution Percentage	เปอร์เซ็นต์การมีส่วนร่วม
 11343	Participants: ${1}/${2}	:${1}/${2}
 11344	Failed to switch modes.	ไม่สามารถสลับโหมดได้
-11345	UI_Sys_Card_@{1}.prefab	UI_Sys_Card_@{1}.รูปแบบสำเร็จรูป
+11345	UI_Sys_Card_@{1}.prefab	UI_Sys_Card_@{1}. รูปแบบสำเร็จรูป
 11346	Summon puppet monsters.	อัญเชิญสัตว์ประหลาดหุ่นเชิด
 11347	Gangplank barrel chain.	โซ่ถัง Gangplank
 11348	Reading this chapter...	กำลังอ่านบทนี้...
@@ -358,42 +358,42 @@
 11357	Best Single-Match Stats	สถิตินัดเดียวที่ดีที่สุด
 11358	First Five Matches Only	ห้านัดแรกเท่านั้น
 11359	Probably best not to...	คงไม่ดีที่สุดที่จะไม่...
-11360	Support Adventure Guild	สนับสนุนกิลด์การผจญภัย
+11360	Support Adventure Guild	สนับสนุน Guild การผจญภัย
 11361	Support Time Remaining:	เวลาสนับสนุนที่เหลืออยู่:
 11362	Disband Adventure Group	ยุบกลุ่มผจญภัย
 11363	Achieved at ${1} Growth	ประสบความสำเร็จที่การเติบโต${1}
 11364	Adventure Group Sapling	กลุ่มผจญภัยต้นอ่อน
 11365	{2} unlocks at Lv. ${1}	{2}ปลดล็อคที่ Lv.${1}
-11366	CRIT DMG Reduction Stat	สถิติการลดความเสียหาย CRIT
+11366	CRIT DMG Reduction Stat	สถิติการ DMG Reduction CRIT
 11367	Reduces field of vision	ลดขอบเขตการมองเห็น
 11368	Increases DEF by @{1}%.	เพิ่ม DEF ขึ้น@{1}%
 11369	Tap to select equipment	แตะเพื่อเลือกอุปกรณ์
 11370	Damage tracking Paused.	การติดตามความเสียหายหยุดชั่วคราว
-11371	Blitz Beat【Buff Effect】	Blitz Beat【เอฟเฟกต์บัฟ】
+11371	Blitz Beat【Buff Effect】	Blitz Beat【Buff Effect】
 11372	Set Periodic Damage Cap	ตั้งค่าขีดจำกัดความเสียหายเป็นระยะ
 11373	Battle Start Protection	การป้องกันการเริ่มการต่อสู้
 11374	Frontal rectangular AoE	AoE สี่เหลี่ยมด้านหน้า
 11375	Skill@{1}-Random Circle	@{1}- วงกลมแบบสุ่ม
-11376	Stone-Shaped Slash @{1}	ฟันหิน@{1}
-11377	Rotar Zairo Cone - Wind	Rotar Zairo Cone - ลม
+11376	Stone-Shaped Slash @{1}	ฟัน Stone@{1}
+11377	Rotar Zairo Cone - Wind	Rotar Zairo Cone - Wind
 11378	Enhanced Sharp Shooting	ปรับปรุงการถ่ายภาพให้คมชัด
-11379	Enhanced Falcon Assault	การโจมตีเหยี่ยวขั้นสูง
-11380	The One Riding a Dragon	ผู้ขี่มังกร
-11381	[Hard-Golden Thief Bug]	[แมลงขโมยทองแข็ง]
-11382	[Hard-Moonlight Flower]	[ดอกไม้แสงจันทร์]
+11379	Enhanced Falcon Assault	Falcon Assault ขั้นสูง
+11380	The One Riding a Dragon	ผู้ Riding มังกร
+11381	[Hard-Golden Thief Bug]	[Hard-Golden Thief Bug]
+11382	[Hard-Moonlight Flower]	[Hard-Moonlight Flower]
 11383	Refreshed successfully.	รีเฟรชสำเร็จแล้ว
 11384	Select up to ${1} tags.	เลือกแท็กได้สูงสุด${1}
 11385	Group Chat ${1} created	แชทกลุ่ม สร้าง${1}แล้ว
-11386	Alberta Map Description	คำอธิบายแผนที่อัลเบอร์ตา
+11386	Alberta Map Description	คำอธิบายแผนที่ Alberta
 11387	Betting closes in: ${1}	การเดิมพันปิดใน:${1}
 11388	Card Objective - Rank Up	- เลื่อนระดับ
 11389	Cannot be used in combat	ไม่สามารถใช้ในการต่อสู้ได้
-11390	Please wait. Processing…	กรุณารอสักครู่.กำลังประมวลผล...
+11390	Please wait. Processing…	กรุณารอสักครู่. กำลังประมวลผล...
 11391	Clear the Boss Challenge	เคลียร์บอสท้าทาย
 11392	Challenge the Next Stage	ท้าทายด่านต่อไป
-11393	Crowd Control Resistance	ความต้านทานต่อการควบคุมฝูงชน
+11393	Crowd Control Resistance	ความต้านทานต่อการ Control ฝูงชน
 11394	Out-of-Combat HP recover	ฟื้นฟู HP เมื่อไม่ได้ต่อสู้
-11395	DMG Reduction vs All Job	การลด DMG เทียบกับงานทั้งหมด
+11395	DMG Reduction vs All Job	DMG Reduction vs All Job
 11396	Elemental Counter Ignore	ละเว้น
 11397	Global Healing Received%	การรักษาทั่วโลกที่ได้รับ%
 11398	Item MP Recovery Effect%	ผลการฟื้นฟู MP ของไอเทม%
@@ -408,36 +408,36 @@
 11407	Battle Merit Leaderboard	กระดานผู้นำการต่อสู้บุญ
 11408	Personal Portrait Emblem	สัญลักษณ์รูปบุคคล
 11409	Mid-Season Event Rewards	รางวัลกิจกรรมกลางฤดูกาล
-11410	Continue chasing Dracula	ไล่ล่าแดร็กคูล่าต่อไป
+11410	Continue chasing Dracula	ไล่ล่า Dracula ต่อไป
 11411	Deploy @{1} support pets	ปรับใช้@{1}รองรับสัตว์เลี้ยง
 11412	Try out your new weapon.	ลองอาวุธใหม่ของคุณ
 11413	Equip @{1} purple Echoes	ติดตั้ง Echoes สีม่วง@{1}
 11414	Equip @{1} orange Echoes	ติดตั้ง Echoes สีส้ม@{1}
 11415	Defeat Jack the Scalper.	เอาชนะ Jack the Scalper
 11416	Check the wanted poster.	ตรวจสอบโปสเตอร์ที่ต้องการ
-11417	Ride the Wild Boar mount	ขี่สัตว์ขี่หมูป่า
-11418	Obtain the Ostrich mount	รับพาหนะนกกระจอกเทศ
-11419	Talk to the Party Leader	คุยกับหัวหน้าปาร์ตี้
+11417	Ride the Wild Boar mount	Ride สัตว์ Ride หมูป่า
+11418	Obtain the Ostrich mount	รับพาหนะ Ostrich
+11419	Talk to the Party Leader	คุยกับ Party Leader
 11420	Talk to the woman nearby	คุยกับผู้หญิงที่อยู่ใกล้ๆ
 11421	Head to the Inn and Rest	มุ่งหน้าไปยังโรงแรมและพักผ่อน
-11422	Open the treasured chest	เปิดหีบสมบัติ
+11422	Open the treasured chest	Open หีบสมบัติ
 11423	You are already friends.	คุณเป็นเพื่อนกันแล้ว
 11424	Game Mode Auction Failed	การประมูลโหมดเกมล้มเหลว
 11425	Dragon Quest Return Mail	Dragon Quest ส่งคืนจดหมาย
 11426	Item Purchase Successful	การซื้อสินค้าสำเร็จแล้ว
 11427	Purchase Item from Stall	ซื้อสินค้าจากแผงลอย
-11428	Guild GvE Activity Quest	ภารกิจกิจกรรม Guild GvE
-11429	Blackhole Activity Quest	ภารกิจกิจกรรมหลุมดำ
+11428	Guild GvE Activity Quest	ภารกิจ Activity Guild GvE
+11429	Blackhole Activity Quest	ภารกิจ Activity หลุมดำ
 11430	Head to the Escort Wagon	มุ่งหน้าไปยัง Escort Wagon
 11431	Forced Instant Interrupt	บังคับให้ขัดจังหวะทันที
-11432	Undead Rapid-Fire Cannon	ปืนใหญ่เพลิงอันเดดอันเดด
-11433	Adventurer Guild Created	สร้างกิลด์นักผจญภัยแล้ว
-11434	Adventurer Guild Renamed	เปลี่ยนชื่อกิลด์นักผจญภัยแล้ว
+11432	Undead Rapid-Fire Cannon	Cannon เพลิงอันเดดอันเดด
+11433	Adventurer Guild Created	สร้าง GuildAdventurer แล้ว
+11434	Adventurer Guild Renamed	เปลี่ยนชื่อ GuildAdventurer แล้ว
 11435	Smelted ${1} times today	วันนี้หลอมไป ${1} ครั้ง
 11436	Save Smelting Attributes	บันทึกคุณสมบัติการถลุง
 11437	Auto-Battle After Revive	การต่อสู้อัตโนมัติหลังการฟื้นคืนชีพ
 11438	^{1}Peerless Heights^{2}	^{1}ความสูงที่ไม่มีใครเทียบได้^{2}
-11439	Today's Drops: ${1}/${2}	หยดวันนี้:${1}/${2}
+11439	Today's Drops: ${1}/${2}	Drops วันนี้:${1}/${2}
 11440	Performance Instructions	ประสิทธิภาพการทำงานของ
 11441	Event Not Yet Available.	ยังไม่พร้อมใช้งาน
 11442	Reach @{1} Total Points*	ถึงคะแนนรวมของ@{1}*
@@ -449,10 +449,10 @@
 11448	Upper-Right Revive Point	จุดฟื้นคืนชีพด้านบนขวา
 11449	Lower-Right Revive Point	จุดฟื้นคืนชีพล่างขวา
 11450	Refinement limit reached	ถึงขีดจำกัดการปรับแต่งแล้ว
-11451	Guild Activity Dividends	เงินปันผลกิจกรรมกิลด์
-11452	Manage Guild Permissions	จัดการสิทธิ์กิลด์
+11451	Guild Activity Dividends	เงินปันผล Guild Activity
+11452	Manage Guild Permissions	จัดการสิทธิ์ Guild
 11453	Pinnacle Top Ten - Mages	สิบอันดับแรก - ผู้วิเศษ
-11454	Guild Merits Leaderboard	กระดานผู้นำความดีความชอบของกิลด์
+11454	Guild Merits Leaderboard	กระดานผู้นำความดีความชอบของ Guild
 11455	Divine Realm Leaderboard	กระดานผู้นำอาณาจักรศักดิ์สิทธิ์
 11456	There are no items here.	ไม่มีรายการที่นี่
 11457	Price (Descending Order)	(ลำดับจากมากไปน้อย)
@@ -464,18 +464,18 @@
 11463	RO Pass Information Text	RO ข้อความข้อมูลผ่าน
 11464	Battle Royale Point Mall	แบทเทิลรอยัลพอยต์มอลล์
 11465	Obtain from Outfit Draws	ได้รับจากการจับรางวัล
-11466	Complete Activity Quests	ทำภารกิจกิจกรรมให้สำเร็จ
+11466	Complete Activity Quests	ทำภารกิจ Activity ให้สำเร็จ
 11467	Watchlist limit reached.	ถึงขีดจำกัดรายการเฝ้าดูแล้ว
-11468	Not enough Credit Points	คะแนนเครดิตไม่เพียงพอ
+11468	Not enough Credit Points	Credit Points ไม่เพียงพอ
 11469	Listing Time - Ascending	- จากน้อยไปมาก
 11470	Go add some friends now!	ไปเพิ่มเพื่อนเลยตอนนี้!
 11471	Disband this Group Chat?	ยกเลิกการแชทกลุ่มนี้หรือไม่
 11472	${1} left the Group Chat	${1}ออกจากการสนทนากลุ่ม
 11473	Power Rankings Help Text	ข้อความช่วยเหลือเกี่ยวกับการจัดอันดับพลังงาน
-11474	Leave the current party?	ออกจากปาร์ตี้ปัจจุบัน?
-11475	Remove Power Requirement	ลบข้อกำหนดด้านพลังงาน
+11474	Leave the current party?	Leave จากปาร์ตี้ปัจจุบัน?
+11475	Remove Power Requirement	Remove ข้อกำหนดด้านพลังงาน
 11476	${1} removed marker ${2}	${1}ลบเครื่องหมาย${2}ออก
-11477	Enter Follow Leader mode	เข้าสู่โหมดติดตามผู้นำ
+11477	Enter Follow Leader mode	เข้าสู่โหมดติดตาม Leader
 11478	Switched to Warzone ${1}	เปลี่ยนเป็น Warzone${1}
 11479	Qualified to Participate	มีคุณสมบัติที่จะเข้าร่วม
 11480	Insufficient permissions	สิทธิ์ไม่เพียงพอ
@@ -486,12 +486,12 @@
 11485	Impeachment Requirements	รางวัลชัยชนะส่วนบุคคล
 11486	You have left the guild.	คุณออกจากกิลด์แล้ว
 11487	Combat Power Requirement	ความต้องการกำลังรบ
-11488	Select Members to Remove	เลือกสมาชิกที่จะลบ
+11488	Select Members to Remove	เลือกสมาชิกที่จะ Remove
 11489	${1} has joined a guild.	${1}ได้เข้าร่วมกิลด์แล้ว
 11490	Requirement to level up:	ข้อกำหนดในการเลื่อนระดับ:
 11491	The caravan has departed	คาราวานออกเดินทางแล้ว
 11492	Get Help request expired	ขอความช่วยเหลือหมดอายุ
-11493	Battleground of the Gods	สมรภูมิแห่งทวยเทพ
+11493	Battleground of the Gods	Battleground of the Gods
 11494	Quest not yet completed.	ภารกิจยังไม่เสร็จสิ้น
 11495	Quests ${1} not accepted	ไม่ยอมรับ${1}ภารกิจ
 11496	Rank requirement not met	ไม่ตรงตามข้อกำหนดอันดับ
@@ -501,104 +501,104 @@
 11500	Increases CRIT by @{1}%.	เพิ่ม CRIT โดย@{1}%
 11501	Increases MSPD by @{1}%.	เพิ่ม MSPD โดย@{1}%
 11502	You never feel fatigued.	คุณจะไม่รู้สึกเหนื่อยล้า
-11503	Double Holy Light: Magic	แสงศักดิ์สิทธิ์คู่: เวทมนตร์
+11503	Double Holy Light: Magic	Double Holy Light: Magic
 11504	Max Characters on Screen	Max อักขระบนหน้าจอ
 11505	Save the current layout?	บันทึกเค้าโครงปัจจุบันหรือไม่
-11506	Gundam AOE Visual Effect	กันดั้ม AOE วิชวลเอฟเฟกต์
-11507	Inner and Outer Ring AOE	AOE วงแหวนด้านในและด้านนอก
-11508	Skill@{1} Kun Water Wall	สกิล@{1}กำแพงน้ำคุน
-11509	Skill@{1} Ring Explosion	การระเบิดของแหวน@{1}
-11510	Skill@{1} Ilma Blackhole	ทักษะ@{1}อิลมา แบล็คโฮล
-11511	Skill@{1} Fins@{2} Sides	ทักษะ@{1} ครีบ@{2} ข้าง
-11512	Skill@{1} Cloud Tracking	@{1}การติดตามคลาวด์
-11513	Skill@{1} Stationary Fin	ทักษะ@{1}ครีบนิ่ง
-11514	Memory Game-Left Warning	-ซ้าย
-11515	Phase Transition Cleanup	การล้างข้อมูลการเปลี่ยนเฟส
-11516	Greedy Flame Wolf's Fang	เขี้ยวหมาป่าเปลวไฟโลภ
-11517	Dragon Fly Normal Attack	ดราก้อนฟลาย โจมตีปกติ
-11518	Maya Normal Attack-Earth	มายา โจมตีปกติ-ดิน
-11519	Eddga Normal Attack-Fire	Eddga โจมตีปกติ-ไฟ
+11506	Gundam AOE Visual Effect	Gundam AOE Visual Effect
+11507	Inner and Outer Ring AOE	Inner and Outer Ring AOE
+11508	Skill@{1} Kun Water Wall	Skill@{1} Kun Water Wall
+11509	Skill@{1} Ring Explosion	Skill@{1} Ring Explosion
+11510	Skill@{1} Ilma Blackhole	Skill@{1} Ilma Blackhole
+11511	Skill@{1} Fins@{2} Sides	Skill@{1} Fins@{2} Sides
+11512	Skill@{1} Cloud Tracking	Skill@{1} Cloud Tracking
+11513	Skill@{1} Stationary Fin	Skill@{1} Stationary Fin
+11514	Memory Game-Left Warning	Memory Game-Left Warning
+11515	Phase Transition Cleanup	Phase Transition Cleanup
+11516	Greedy Flame Wolf's Fang	Greedy Flame Wolf's Fang
+11517	Dragon Fly Normal Attack	Dragon Fly Normal Attack
+11518	Maya Normal Attack-Earth	Maya Normal Attack-Earth
+11519	Eddga Normal Attack-Fire	Eddga Normal Attack-Fire
 11520	Return to Screen (${1}s)	กลับไปที่หน้าจอ (${1}s)
 11521	Armor-Shattering War Cry	Armor-Shattering War Cry
 11522	Failed to enter the area	ล้มเหลวในการเข้าสู่พื้นที่
-11523	Blade Mountain-Ring-@{1}	วงแหวนภูเขาใบมีด-@{1}
-11524	Drake Minion Wave Attack	เดรคมินเนี่ยนเวฟโจมตี
-11525	Petrifying Mist Tracking	การติดตามหมอกหิน
-11526	Coffin Bandage Restraint	สายรัดโลงศพ
-11527	EsteP@{1} Random Bubbles	EsteP@{1}ฟองสุ่ม
-11528	Create @{1} Grid Bubbles	สร้างฟองกริด@{1}
-11529	Launch Red Homing Bubble	เปิดตัว Red Homing Bubble
-11530	Linked Skill Variant@{1}	ตัวแปรทักษะที่เชื่อมโยง@{1}
-11531	Return of the Demon King	การกลับมาของราชาปีศาจ
-11532	Special Dual-Wield Logic	ลอจิกแบบ Dual-Wield พิเศษ
+11523	Blade Mountain-Ring-@{1}	Blade Mountain-Ring-@{1}
+11524	Drake Minion Wave Attack	Drake Minion Wave Attack
+11525	Petrifying Mist Tracking	Petrifying Mist Tracking
+11526	Coffin Bandage Restraint	Coffin Bandage Restraint
+11527	EsteP@{1} Random Bubbles	EsteP@{1} Random Bubbles
+11528	Create @{1} Grid Bubbles	Create @{1} Grid Bubbles
+11529	Launch Red Homing Bubble	Launch Red Homing Bubble
+11530	Linked Skill Variant@{1}	Linked Skill Variant@{1}
+11531	Return of the Demon King	Return of the Demon King
+11532	Special Dual-Wield Logic	Special Dual-Wield Logic
 11533	This Bond does not exist	ไม่มีพันธบัตรนี้
 11534	Consume Collection Cards	ใช้การ์ดสะสม
 11535	Test Small Card Pool@{1}	ทดสอบพูลการ์ดขนาดเล็ก@{1}
 11536	Consume Vigor: ${1}/${2}	Consume Vigor:${1}/${2}
 11537	Reset Stage Skill Points	รีเซ็ตคะแนนทักษะสเตจ
-11538	【Special Cooldown Notes】	【บันทึกคูลดาวน์พิเศษ】
+11538	【Special Cooldown Notes】	【Special Cooldown Notes】
 11539	Confirm Point Allocation	ยืนยันการจัดสรรคะแนน
 11540	Rhythm of Music Scenario	จังหวะดนตรีสถานการณ์
 11541	Auto-Play Voice Settings	Auto-Play Voice Settings
 11542	Tree Hollow Chat Channel	ช่องแชททรีฮอลโลว์
 11543	Go join a Golden Orchid!	เข้าร่วม Golden Orchid!
-11544	Territory War Trap Chest	กล่องกับดักสงครามดินแดน
-11545	Note Pillar (Deprecated)	เสาหมายเหตุ (เลิกใช้แล้ว)
-11546	Melody Conch-Special@{1}	Melody Conch-พิเศษ@{1}
-11547	Flame Zone Contamination	การปนเปื้อนบริเวณเปลวไฟ
-11548	Shattered Southern Dream	ความฝันใต้ที่แตกสลาย
-11549	Evil Forces Sharpshooter	นักแม่นปืนแห่งกองทัพชั่วร้าย
-11550	Deep Alley℡Boyhood Dream	ตรอกลึก℡ความฝันในวัยเด็ก
-11551	Training Dummy Challenge	การฝึกหุ่นจำลองการท้าทาย
-11552	Zhunta Voting Campaigner	Zhunta นักรณรงค์ลงคะแนนเสียง
-11553	Criatura Academy Student	นักเรียนสถาบัน Criatura
-11554	Territory War - Thirteen	สงครามดินแดน - สิบสาม
-11555	Territory War - Fourteen	สงครามดินแดน - สิบสี่
-11556	Territory War - Eighteen	สงครามดินแดน - สิบแปด
-11557	Territory War - Nineteen	สงครามดินแดน - สิบเก้า
-11558	Mandragora Ranged Attack	การโจมตีระยะไกลของแมนดราโกร่า
-11559	Pirate Ship (Projectile)	เรือโจรสลัด (กระสุนปืน)
-11560	Water Blade (Projectile)	ใบมีดน้ำ (กระสุนปืน)
-11561	Blue Tracking Bubble NPC	NPC ฟองติดตามสีน้ำเงิน
-11562	P@{1} Red Bubble NPC@{2}	P@{1}ฟองแดง NPC@{2}
-11563	Dance Machine Step Point	จุดสเต็ปเครื่องเต้น
-11564	Test Circular Projectile	ทดสอบกระสุนปืนแบบวงกลม
+11544	Territory War Trap Chest	Territory War Trap Chest
+11545	Note Pillar (Deprecated)	Note Pillar (Deprecated)
+11546	Melody Conch-Special@{1}	Melody Conch-Special@{1}
+11547	Flame Zone Contamination	Flame Zone Contamination
+11548	Shattered Southern Dream	Shattered Southern Dream
+11549	Evil Forces Sharpshooter	Evil Forces Sharpshooter
+11550	Deep Alley℡Boyhood Dream	Deep Alley℡Boyhood Dream
+11551	Training Dummy Challenge	Training Dummy Challenge
+11552	Zhunta Voting Campaigner	Zhunta Voting Campaigner
+11553	Criatura Academy Student	Criatura Academy Student
+11554	Territory War - Thirteen	Territory War - Thirteen
+11555	Territory War - Fourteen	Territory War - Fourteen
+11556	Territory War - Eighteen	Territory War - Eighteen
+11557	Territory War - Nineteen	Territory War - Nineteen
+11558	Mandragora Ranged Attack	Mandragora Ranged Attack
+11559	Pirate Ship (Projectile)	Pirate Ship (Projectile)
+11560	Water Blade (Projectile)	Water Blade (Projectile)
+11561	Blue Tracking Bubble NPC	Blue Tracking Bubble NPC
+11562	P@{1} Red Bubble NPC@{2}	P@{1} Red Bubble NPC@{2}
+11563	Dance Machine Step Point	Dance Machine Step Point
+11564	Test Circular Projectile	Test Circular Projectile
 11565	Fastest Clear Time: ${1}	เวลาเคลียร์เร็วที่สุด:${1}
 11566	All grand prizes claimed	รับรางวัลใหญ่ทั้งหมดที่ถูกอ้างสิทธิ์
 11567	Reward requirements met.	รางวัล
 11568	${1} added to favorites.	เพิ่ม${1}ในรายการโปรดแล้ว
 11569	Magic Resistance Enhance	เพิ่มความต้านทานเวทย์มนตร์
-11570	Leave the Garden of Time	ออกจากสวนแห่งกาลเวลา
+11570	Leave the Garden of Time	Leave จาก Garden of Time
 11571	Stall Distance Too Great	ระยะห่างแผงลอยมากเกินไป
 11572	Physical Damage Increase	เพิ่มความเสียหายกายภาพ
 11573	Neutral Damage Reduction	การลดความเสียหายที่เป็นกลาง
 11574	Basic - Yellow Nameplate	Basic - ป้ายชื่อสีเหลือง
-11575	Reach Maya's hidden nest	เข้าถึงรังที่ซ่อนอยู่ของมายา
+11575	Reach Maya's hidden nest	เข้าถึงรังที่ซ่อนอยู่ของ Maya
 11576	Daily Sweeps (${1}/${2})	กวาดรายวัน (${1}/${2})
 11577	${1} unlocks at Lv. ${2}	${1}ปลดล็อคที่ Lv.${2}
 11578	Elite Members: ${1}/${2}	สมาชิกระดับสูง:${1}/${2}
 11579	Join a guild: Successful	เข้าร่วมกิลด์: สำเร็จ
 11580	Show Online players only	แสดงผู้เล่นออนไลน์เท่านั้น
 11581	No matching guilds found	ไม่พบกิลด์ที่ตรงกัน
-11582	Guild Members: ${1}/${2}	สมาชิกกิลด์:${1}/${2}
-11583	Guild Merger Declaration	ประกาศควบรวมกิจการกิลด์
+11582	Guild Members: ${1}/${2}	สมาชิก Guild:${1}/${2}
+11583	Guild Merger Declaration	ประกาศควบรวมกิจการ Guild
 11584	This Week's Contribution	ผลงานประจำสัปดาห์นี้
 11585	Drive Away the Chonchons	ขับชนชอนออกไป
 11586	Find a Way into the Nest	หาทางเข้าไปในรัง
 11587	Mysterious Cave Entrance	ทางเข้าถ้ำลึกลับ
 11588	Return to the Real World	กลับไปสู่โลกแห่งความจริง
-11589	A Soldier's Cry for Help	เสียงร้องขอความช่วยเหลือจากทหาร
+11589	A Soldier's Cry for Help	เสียงร้องขอความช่วยเหลือจาก Soldier
 11590	The Secret of Space-Time	ความลับของอวกาศ-เวลา
-11591	Clear the West Gate @{1}	เคลียร์ประตูทิศตะวันตก@{1}
-11592	Clear Eastern Payon @{1}	เคลียร์ ตะวันออก Payon@{1}
+11591	Clear the West Gate @{1}	เคลียร์ Gate ทิศตะวันตก@{1}
+11592	Clear Eastern Payon @{1}	เคลียร์ Eastern Payon@{1}
 11593	【B】Adventure Advancement	【B】ความก้าวหน้าด้านการผจญภัย
-11594	Clear Goblin Forest @{1}	เคลียร์ป่าก็อบลิน@{1}
-11595	The Suspicious Stray Cat	แมวจรจัดน่าสงสัย
+11594	Clear Goblin Forest @{1}	เคลียร์ Goblin Forest@{1}
+11595	The Suspicious Stray Cat	Cat จรจัดน่าสงสัย
 11596	Complete the Job Advance	ทำงานล่วงหน้าให้เสร็จสิ้น
 11597	Precious Medicinal Herbs	สมุนไพรล้ำค่า
 11598	The Fate of an Egg Thief	ชะตากรรมของขโมยไข่
 11599	Adventuring Achievements	ความสำเร็จในการผจญภัย
-11600	The Missing Party Leader	หัวหน้าปาร์ตี้ที่หายไป
+11600	The Missing Party Leader	Party Leader ที่หายไป
 11601	Head to the Airship Port	มุ่งหน้าไปยังท่าเรือเหาะ
 11602	Everyone Boards Together	ทุกคนมาบอร์ดด้วยกัน
 11603	Dismantled successfully.	รื้อถอนสำเร็จ
@@ -620,11 +620,11 @@
 11619	^{1}Confirm Boarding^{2}	^{1}ยืนยันการขึ้นเครื่อง^{2}
 11620	What do I do after that?	หลังจากนั้นต้องทำอย่างไร?
 11621	Overall Completion: ${1}	ความสมบูรณ์โดยรวม:${1}
-11622	Adventurer Guild Details	รายละเอียดกิลด์นักผจญภัย
+11622	Adventurer Guild Details	รายละเอียด GuildAdventurer
 11623	Daily Requests ${1}/${2}	คำขอรายวัน${1}/${2}รางวัลกวาดรายวัน
 11624	Challenge (^{1}${1}^{2})	(^{1}${1}^{2})
 11625	Whoa, I'm going to fall!	อ้าว จะล้มแล้ว!
-11626	Boya sent me to see you.	โบย่า ส่งมาให้ดูครับ
+11626	Boya sent me to see you.	Boya ส่งมาให้ดูครับ
 11627	What are you doing here?	คุณมาทำอะไรที่นี่?
 11628	Then let the game begin!	งั้นเริ่มเกมได้เลย!
 11629	Players on High Platform	บนแพลตฟอร์มสูง
@@ -632,26 +632,26 @@
 11631	Tap to Enter Information	แตะเพื่อป้อนข้อมูล
 11632	Auto-Dismantle Equipment	Auto-Dismantle Equipment
 11633	Monsters begin to appear	มอนสเตอร์เริ่มปรากฏตัว
-11634	Phase I\nDefend the Gate	Phase I\nปกป้องประตู
+11634	Phase I\nDefend the Gate	Phase I\n ปกป้อง Gate
 11635	Behemoth Altar is ready!	Behemoth Altar พร้อมแล้ว!
 11636	The behemoth has fallen!	ยักษ์ใหญ่ล้มแล้ว!
-11637	^{1}Dracula has appeared	^{1}แดร็กคูล่าปรากฏตัวแล้ว
+11637	^{1}Dracula has appeared	^{1}Dracula ปรากฏตัวแล้ว
 11638	Advancing to the Finals!	ก้าวเข้าสู่รอบชิงชนะเลิศ!
 11639	Thank you for your help!	ขอบคุณสำหรับความช่วยเหลือของคุณ!
 11640	What a captivating dance	ท่าเต้นมีเสน่ห์จริงๆ
-11641	Maya\nKids, come on out!	Maya\nเด็กๆ ออกมาเลย!
+11641	Maya\nKids, come on out!	Maya\n เด็กๆ ออกมาเลย!
 11642	Growth Journey complete.	เส้นทางการเติบโตเสร็จสมบูรณ์
 11643	Spectacular Presentation	การนำเสนออันตระการตา
 11644	HP Lock for @{1} Seconds	HP ล็อคเป็นเวลา@{1}วินาที
-11645	Guild Schedule Help Text	ข้อความช่วยเหลือกำหนดการกิลด์
+11645	Guild Schedule Help Text	ข้อความช่วยเหลือกำหนดการ Guild
 11646	Preliminaries-Semifinals	รอบคัดเลือก-รอบรองชนะเลิศ
 11647	Guild Emblem Unlock Item	ไอเทมปลดล็อค Guild Emblem
 11648	Looking for a Pet Parent	หาพ่อเลี้ยงสัตว์เลี้ยง
 11649	Fewer than @{1} Openings	น้อยกว่าช่องเปิด@{1}
 11650	Magic Strike Calibration	การปรับเทียบ Magic Strike
-11651	Vehicle Explosive Device	อุปกรณ์ระเบิดยานพาหนะ
-11652	Memory Game-Ring Warning	คำเตือนวงแหวนเกมหน่วยความจำ
-11653	Memory Game-Right Damage	เกมหน่วยความจำ - ความเสียหายที่ถูกต้อง
+11651	Vehicle Explosive Device	Vehicle Explosive Device
+11652	Memory Game-Ring Warning	Memory Game-Ring Warning
+11653	Memory Game-Right Damage	Memory Game-Right Damage
 11654	Secret Realm Exploration	Secret Realm Exploration
 11655	Active in Escort Battles	ใช้งานในการรบคุ้มกัน
 11656	10-Player Dungeon · Hard	ดันเจี้ยนผู้เล่น 10 คน · ยาก
@@ -659,12 +659,12 @@
 11658	Learning the Professions	การเรียนรู้วิชาชีพ
 11659	Suspicious Evidence (II)	หลักฐานที่น่าสงสัย (II)
 11660	An Unpredictable Visitor	ผู้มาเยือนที่คาดเดาไม่ได้
-11661	The Professor's Research	ผลงานวิจัยของศาสตราจารย์
+11661	The Professor's Research	ผลงานวิจัยของ Professor
 11662	^{1}Wedding Crashers^{2}	^{1}เครื่องทำลายงานแต่งงาน^{2}
 11663	^{1}Temple of Melody^{2}	^{1}วิหารแห่งเมโลดี้^{2}
 11664	^{1}Complete Assists^{2}	^{1}ช่วยเต็มที่^{2}
 11665	Revive Protection Effect	เอฟเฟกต์ปกป้องฟื้นคืนชีพ
-11666	Invincible Out of Combat	อยู่ยงคงกระพันเมื่อไม่ได้ต่อสู้
+11666	Invincible Out of Combat	Invincible เมื่อไม่ได้ต่อสู้
 11667	War God's Power - Orange	พลังเทพสงคราม - สีส้ม
 11668	War God's Power - Purple	พลังเทพสงคราม - สีม่วง
 11669	Bulwark's Power - Orange	พลังป้อมปราการ - สีส้ม
@@ -672,7 +672,7 @@
 11671	Life Percentage - Orange	Life Percentage - สีส้ม
 11672	Destiny's Power - Orange	พลังแห่งโชคชะตา - สีส้ม
 11673	Hawkeye's Power - Orange	พลังฮ็อคอาย - สีส้ม
-11674	Life Percentage - Purple	เปอร์เซ็นต์ชีวิต - สีม่วง
+11674	Life Percentage - Purple	เปอร์เซ็นต์ Life - สีม่วง
 11675	Destiny's Power - Purple	พลังแห่งโชคชะตา - สีม่วง
 11676	Hawkeye's Power - Purple	พลังฮ็อคอาย - สีม่วง
 11677	Giant's Strength - Green	Giant's Strength - สีเขียว
@@ -690,53 +690,53 @@
 11689	Maximum Number of Skills	จำนวนทักษะสูงสุด
 11690	Divine Art Totem Preview	Divine Art Totem
 11691	Initial Divine Art Totem	โทเท็มศิลปะศักดิ์สิทธิ์เริ่มต้น
-11692	Low-Tier Physical Attack	การโจมตีทางกายภาพระดับต่ำ
-11693	Goddess of Hope Fragment	ชิ้นส่วนเทพีแห่งความหวัง
-11694	Fire Ninja Shinobi Shard	ชิ้นส่วนชิโนบินินจาไฟ
-11695	Goblin Balloon - Limited	Goblin Balloon - มีจำนวนจำกัด
-11696	Random Divine Arts Totem	โทเท็มศิลปะศักดิ์สิทธิ์แบบสุ่ม
-11697	Refinement Material Pack	ชุดวัสดุปรับแต่ง
-11698	Grilled Mushroom Skewers	เห็ดเสียบไม้ย่าง
-11699	Strawberry Cocoa Truffle	สตรอเบอร์รี่ โกโก้ ทรัฟเฟิล
-11700	Blessed Weapon Ore-Clear	แร่อาวุธศักดิ์สิทธิ์-เคลียร์
-11701	Enriched Oridecon-Expire	อุดมด้วย Oridecon-หมดอายุ
-11702	Deluxe Pack (Deprecated)	Deluxe Pack (เลิกใช้แล้ว)
-11703	Precision Grinding Wheel	ใบเจียรแม่นยำ
-11704	Masterless Soul Fragment	ชิ้นส่วนวิญญาณไร้ผู้เชี่ยวชาญ
-11705	Purple Divine Arts Totem	โทเท็มศิลปะศักดิ์สิทธิ์สีม่วง
-11706	Orange Headgear Material	วัสดุหมวกสีส้ม
-11707	Purple Headgear Material	วัสดุหมวกสีม่วง
-11708	Tier @{1} Blue Equipment	เทียร์@{1}อุปกรณ์สีน้ำเงิน
-11709	Cardboard Cat Litter Box	กล่องกระดาษแข็งสำหรับแมว
-11710	Poring's Medicinal Herbs	สมุนไพรพอริ่ง
-11711	Hunting Emblem · Pursuer	Hunting Emblem · ผู้ไล่ตาม
-11712	Cross Star Core - Orange	แกนครอสสตาร์ - สีส้ม
-11713	Cross Star Core - Purple	แกนครอสสตาร์ - สีม่วง
-11714	Guild League - Placement	ลีกกิลด์ - ตำแหน่ง
-11715	Prism Star Core - Orange	แกนปริซึมสตาร์ - สีส้ม
-11716	Prism Star Core - Purple	แกนปริซึมสตาร์ - สีม่วง
-11717	Blue-Green Card Fragment	ชิ้นส่วนการ์ดสีน้ำเงิน-เขียว
-11718	Oak Scroll · Shoes-Green	Oak Scroll · รองเท้า-เขียว
-11719	Fate Scroll·Armor-Orange	Fate Scroll·เกราะ-สีส้ม
-11720	Ymir Scroll·Armor-Orange	Ymir Scroll·เกราะ-สีส้ม
-11721	Fate Scroll·Armor-Purple	Fate Scroll·เกราะ-ม่วง
-11722	Ymir Scroll·Armor-Purple	Ymir Scroll·เกราะ-ม่วง
-11723	Giant Scroll·Armor-Green	Giant Scroll·เกราะ-เขียว
-11724	Superior Vitality Potion	ยาเพิ่มพลังชีวิตที่เหนือกว่า
-11725	Superior Breath Medicine	ยารักษาโรคลมหายใจที่เหนือกว่า
-11726	Super Arena Knight Spear	หอกอัศวินซูเปอร์อารีน่า
-11727	Basic Earth Spirit Spear	หอก Earth Spirit พื้นฐาน
-11728	Soldier Skeleton's Cloak	เสื้อคลุมโครงกระดูกทหาร
-11729	Katar of Dusty Thornbush	Katar แห่ง Dusty Thornbush
-11730	Secret Hammer: Cold Moon	ค้อนลับ : พระจันทร์เย็น
-11731	Supreme Scepter of Order	คทาสูงสุดแห่งภาคี
-11732	Prisoner's Dancing Bells	ระฆังเต้นรำของนักโทษ
+11692	Low-Tier Physical Attack	Low-Tier Physical Attack
+11693	Goddess of Hope Fragment	Goddess of Hope Fragment
+11694	Fire Ninja Shinobi Shard	Fire Ninja Shinobi Shard
+11695	Goblin Balloon - Limited	Goblin Balloon - Limited
+11696	Random Divine Arts Totem	Random Divine Arts Totem
+11697	Refinement Material Pack	Refinement Material Pack
+11698	Grilled Mushroom Skewers	Grilled Mushroom Skewers
+11699	Strawberry Cocoa Truffle	Strawberry Cocoa Truffle
+11700	Blessed Weapon Ore-Clear	Blessed Weapon Ore-Clear
+11701	Enriched Oridecon-Expire	Enriched Oridecon-Expire
+11702	Deluxe Pack (Deprecated)	Deluxe Pack (Deprecated)
+11703	Precision Grinding Wheel	Precision Grinding Wheel
+11704	Masterless Soul Fragment	Masterless Soul Fragment
+11705	Purple Divine Arts Totem	Purple Divine Arts Totem
+11706	Orange Headgear Material	Orange Headgear Material
+11707	Purple Headgear Material	Purple Headgear Material
+11708	Tier @{1} Blue Equipment	Tier @{1} Blue Equipment
+11709	Cardboard Cat Litter Box	Cardboard Cat Litter Box
+11710	Poring's Medicinal Herbs	Poring's Medicinal Herbs
+11711	Hunting Emblem · Pursuer	Hunting Emblem · Pursuer
+11712	Cross Star Core - Orange	Cross Star Core - Orange
+11713	Cross Star Core - Purple	Cross Star Core - Purple
+11714	Guild League - Placement	ลีก Guild - ตำแหน่ง
+11715	Prism Star Core - Orange	Prism Star Core - Orange
+11716	Prism Star Core - Purple	Prism Star Core - Purple
+11717	Blue-Green Card Fragment	Blue-Green Card Fragment
+11718	Oak Scroll · Shoes-Green	Oak Scroll · Shoes-Green
+11719	Fate Scroll·Armor-Orange	Fate Scroll·Armor-Orange
+11720	Ymir Scroll·Armor-Orange	Ymir Scroll·Armor-Orange
+11721	Fate Scroll·Armor-Purple	Fate Scroll·Armor-Purple
+11722	Ymir Scroll·Armor-Purple	Ymir Scroll·Armor-Purple
+11723	Giant Scroll·Armor-Green	Giant Scroll·Armor-Green
+11724	Superior Vitality Potion	Superior Vitality Potion
+11725	Superior Breath Medicine	Superior Breath Medicine
+11726	Super Arena Knight Spear	Super Arena Knight Spear
+11727	Basic Earth Spirit Spear	Basic Earth Spirit Spear
+11728	Soldier Skeleton's Cloak	Soldier Skeleton's Cloak
+11729	Katar of Dusty Thornbush	Katar of Dusty Thornbush
+11730	Secret Hammer: Cold Moon	Secret Hammer: Cold Moon
+11731	Supreme Scepter of Order	Supreme Scepter of Order
+11732	Prisoner's Dancing Bells	Prisoner's Dancing Bells
 11733	Not enough pets deployed	มีสัตว์เลี้ยงไม่เพียงพอ
 11734	Not enough participation	การเข้าร่วมไม่เพียงพอ
 11735	Refine level Not Reached	ไม่ถึงระดับการปรับแต่ง
 11736	Deploy more support pets	ปรับใช้สัตว์เลี้ยงสนับสนุนเพิ่มเติม
-11737	Paper Crane of Affection	เครนกระดาษแห่งความเสน่หา
-11738	Time Rift Silver Casting	งานหล่อเงิน Time Rift
+11737	Paper Crane of Affection	Paper Crane of Affection
+11738	Time Rift Silver Casting	Time Rift Silver Casting
 11739	Point Allocation Preset:	การจัดสรรคะแนนล่วงหน้า:
 11740	Soul Echo Resonance Info	ข้อมูลเสียงสะท้อนของวิญญาณ
 11741	Select Starting Location	Select Starting Location
@@ -746,19 +746,19 @@
 11745	Lucky Crafting - Carving	Lucky Crafting - งานแกะสลัก
 11746	Lucky Crafting - Forging	Lucky Crafting - การตีขึ้นรูป
 11747	Falling Dynamite Barrels	ถังไดนาไมต์ที่ตกลงมา
-11748	Cannon Damage Over @{1}m	ความเสียหายของปืนใหญ่เหนือ@{1}ม
-11749	Cannon Damage Over @{1}k	ความเสียหายของปืนใหญ่เหนือ@{1}k
-11750	Cannon Damage Over @{1}M	ความเสียหายของปืนใหญ่เหนือ@{1}M
-11751	Cannon Damage Over @{1}K	ความเสียหายของปืนใหญ่เหนือ@{1}K
+11748	Cannon Damage Over @{1}m	ความเสียหายของ Cannon เหนือ@{1}ม
+11749	Cannon Damage Over @{1}k	ความเสียหายของ Cannon เหนือ@{1}k
+11750	Cannon Damage Over @{1}M	ความเสียหายของ Cannon เหนือ@{1}M
+11751	Cannon Damage Over @{1}K	ความเสียหายของ Cannon เหนือ@{1}K
 11752	Defense Score Over @{1}K	คะแนนการป้องกันมากกว่า@{1}K
-11753	Alberta Southern Capital	เมืองหลวงตอนใต้ของอัลเบอร์ตา
-11754	Western Payon Prefecture	จังหวัดเพยอนตะวันตก
+11753	Alberta Southern Capital	เมืองหลวงตอนใต้ของ Alberta
+11754	Western Payon Prefecture	จังหวัด Payon ตะวันตก
 11755	Eastern Payon Prefecture	จังหวัดพะยอนตะวันออก
 11756	Go to ${1} habitat ${2}?	ไปที่ที่อยู่อาศัย${1}${2}?
 11757	Adventure Handbook Theme	ธีมคู่มือการผจญภัย
-11758	Survivor's Running Shoes	รองเท้าวิ่ง Survivor
+11758	Survivor's Running Shoes	Survivor's Running Shoes
 11759	Sexual or Vulgar Content	เนื้อหาทางเพศหรือหยาบคาย
-11760	Battle Axe Assembly Test	การทดสอบการประกอบขวานรบ
+11760	Battle Axe Assembly Test	การทดสอบการประกอบ Battle Axe
 11761	Grand Cross Triggers AoE	Grand Cross ทริกเกอร์ AoE
 11762	King's Grace Enemy Orbit	วงโคจรศัตรูของราชา
 11763	Custom Damage Parameters	พารามิเตอร์ความเสียหายที่กำหนดเอง
@@ -771,26 +771,26 @@
 11770	Spellbook - Crimson Rock	หนังสือเวทย์มนตร์ - Crimson Rock
 11771	Spellbook - Earth Strain	Spellbook - สายพันธุ์ดิน
 11772	Spellbook - Tetra Vortex	หนังสือคาถา - Tetra Vortex
-11773	Serpent Spirit's Embrace	อ้อมกอดของวิญญาณอสรพิษ
-11774	Holy Spirit Divine Light	แสงศักดิ์สิทธิ์แห่งวิญญาณศักดิ์สิทธิ์
+11773	Serpent Spirit's Embrace	Serpent Spirit's Embrace
+11774	Holy Spirit Divine Light	Holy Spirit Divine Light
 11775	Silver Moon Trigger Buff	บัฟทริกเกอร์ซิลเวอร์มูน
-11776	Fairy Blessing - HP Lock	นางฟ้าอวยพร - HP Lock
-11777	Dance of the Sea Monster	การเต้นรำของสัตว์ประหลาดแห่งท้องทะเล
+11776	Fairy Blessing - HP Lock	Fairy อวย Blessing - HP Lock
+11777	Dance of the Sea Monster	Dance of the Sea Monster
 11778	Golden Thief Bug Stealth	ลักลอบแมลงจอมโจรทอง
 11779	Stationary Yellow Bubble	เครื่องเขียน Bubble สีเหลือง
 11780	Red Tracking Link Effect	เอฟเฟกต์ลิงค์ติดตามสีแดง
 11781	Dance Machine Skill Swap	สลับทักษะเครื่องเต้น
 11782	King's Grace Unstoppable	พระคุณของราชาที่หยุดไม่ได้
 11783	Focused Shot: Dark Night	ช็อตที่เน้น: กลางคืนอันมืดมิด
-11784	Shadow PierceBD_S@{1}_BD	เงาเจาะBD_S@{1}_BD
+11784	Shadow PierceBD_S@{1}_BD	เงาเจาะ BD_S@{1}_BD
 11785	Pinpoint Attack Listener	ระบุผู้ฟังการโจมตี
-11786	Minor Speed Boost Effect	เอฟเฟกต์การเพิ่มความเร็วเล็กน้อย
-11787	Major Speed Boost Effect	เอฟเฟกต์การเพิ่มความเร็วหลัก
-11788	Flame Trap Hunter Effect	เอฟเฟกต์นักล่ากับดักเปลวไฟ
-11789	Move back Increase Dodge	เคลื่อนที่กลับ เพิ่มการหลบหลีก
+11786	Minor Speed Boost Effect	เอฟเฟกต์การ Minor Speed Boost
+11787	Major Speed Boost Effect	เอฟเฟกต์การ Major Speed Boost
+11788	Flame Trap Hunter Effect	เอฟเฟกต์ Flame Trap Hunter
+11789	Move back Increase Dodge	เคลื่อนที่กลับ Increase Dodge
 11790	Please read and agree to	กรุณาอ่านและยอมรับ
 11791	Mic queue changes saved.	บันทึกการเปลี่ยนแปลงคิวไมโครโฟนแล้ว
-11792	^{1}[Stronghold War]^{2}	^{1}[สงครามฐานที่มั่น]^{2}
+11792	^{1}[Stronghold War]^{2}	^{1}[Stronghold War]^{2}
 11793	Adventure Party Overview	ภาพรวมปาร์ตี้ผจญภัย
 11794	Effect at the next level	เอฟเฟคไปอีกระดับ
 11795	Escort Mode Instructions	คำแนะนำโหมด Escort
@@ -800,7 +800,7 @@
 11799	No associated appearance	ไม่มีลักษณะที่ปรากฏที่เกี่ยวข้อง
 11800	You already have a Stall	คุณมีแผงลอยอยู่แล้ว
 11801	Already in the mic queue	อยู่ในคิวไมค์แล้ว
-11802	Invalid Tavern language.	ภาษาโรงเตี๊ยมไม่ถูกต้อง
+11802	Invalid Tavern language.	ภาษา Tavern ไม่ถูกต้อง
 11803	Card slot does not exist	ไม่มีช่องเสียบการ์ด
 11804	No stalls are available.	ไม่มีแผงขายของ
 11805	Player is not in Blocks.	ไม่ได้อยู่ในบล็อก
@@ -808,9 +808,9 @@
 11807	You cannot gift yourself	คุณไม่สามารถให้ของขวัญตัวเองได้
 11808	Advanced Pass: Not owned	บัตรผ่านขั้นสูง: ไม่ได้เป็นเจ้าของ
 11809	Cannot draw at this time	ไม่สามารถวาดได้ในขณะนี้
-11810	Life Skill title too low	ชื่อทักษะชีวิตต่ำเกินไป
-11811	Life Skill Level too low	ระดับทักษะชีวิตต่ำเกินไป
-11812	Life Skill not activated	ทักษะชีวิตไม่ได้เปิดใช้งาน
+11810	Life Skill title too low	ชื่อทักษะ Life ต่ำเกินไป
+11811	Life Skill Level too low	ระดับทักษะ Life ต่ำเกินไป
+11812	Life Skill not activated	ทักษะ Life ไม่ได้เปิดใช้งาน
 11813	NPC skill is on cooldown	อยู่ในคูลดาวน์
 11814	Failed to switch builds.	ไม่สามารถสลับบิลด์ได้
 11815	Invalid Revive location.	ตำแหน่ง Revive ไม่ถูกต้อง
@@ -821,7 +821,7 @@
 11820	^{1}Weapon Polishing^{2}	^{1}การขัดอาวุธ^{2}
 11821	^{1}Gathering Charge^{2}	^{1}ค่าบริการรวบรวม^{2}
 11822	^{1}AoE Power Thrust^{2}	^{1}แรงขับ AoE^{2}
-11823	Shield Boomerang Enhance	ชิลด์บูมเมอแรงเสริม
+11823	Shield Boomerang Enhance	Shield บูมเมอแรงเสริม
 11824	Aura Insight - Swiftness	Aura Insight - Swiftness
 11825	Aura Insight - Technique	Aura Insight - Technique
 11826	Minor Neutral Resistance	ความต้านทานเป็นกลางเล็กน้อย
@@ -841,17 +841,17 @@
 11840	Insufficient Stat Points	Insufficient Stat Points
 11841	Not enough skill points.	คะแนนทักษะไม่เพียงพอ
 11842	Battlefield Contribution	การมีส่วนร่วมในสนามรบ
-11843	Guild Leader Marker ${1}	เครื่องหมายผู้นำกิลด์${1}
+11843	Guild Leader Marker ${1}	เครื่องหมาย LeaderGuild${1}
 11844	HP requirements not met.	ไม่เป็นไปตามข้อกำหนดของ HP
 11845	Mount already activated.	เมาท์เปิดใช้งานแล้ว
 11846	Invasion Intensity: ${1}	ความเข้มของการบุกรุก:${1}
 11847	Go to the region 【${1}】?	ไปที่ภูมิภาค 【${1}】?
 11848	Battle Preparation Phase	ขั้นเตรียมการรบ
-11849	Free the Shaking Ant Egg	ปล่อยไข่มดสั่น
+11849	Free the Shaking Ant Egg	ปล่อย Ant Egg สั่น
 11850	War of Emperium Entrance	ทางเข้าสงครามเอ็มเพอเรี่ยม
 11851	Template Editor - [${1}]	- [${1}]
 11852	Character limit exceeded	เกินขีดจำกัดอักขระ
-11853	Pirate King Basic Attack	การโจมตีพื้นฐานของราชาโจรสลัด
+11853	Pirate King Basic Attack	Basic Attack ของราชาโจรสลัด
 11854	Unable to like right now	ไม่สามารถถูกใจได้ในขณะนี้
 11855	Not enough listing space	พื้นที่รายการไม่เพียงพอ
 11856	Incorrect equipment slot	ช่องใส่อุปกรณ์ไม่ถูกต้อง
@@ -867,22 +867,22 @@
 11866	Personal build replaced.	บิลด์ส่วนตัวถูกแทนที่แล้ว
 11867	Magic ATK +^{1}${1}%^{2}	พลังโจมตีเวทย์ +^{1}${1}%^{2}
 11868	Lucky Savage Babe Lv@{1}	Lucky Savage Babe Lv@{1}
-11869	Sniper's Aim【Stat Boost】	เป้าหมายของ Sniper 【เพิ่มสถิติ】
+11869	Sniper's Aim【Stat Boost】	เป้าหมายของ Sniper 【Stat Boost】
 11870	Arrow Shower【Stat Boost】	Arrow Shower【Stat Boost】
-11871	Basic Attack【Stat Boost】	การโจมตีพื้นฐาน【เพิ่มสถิติ】
+11871	Basic Attack【Stat Boost】	Basic Attack【Stat Boost】
 11872	Link Distance Check @{1}	ตรวจสอบระยะทางลิงก์@{1}
 11873	Momentum-Breaking Hammer	ค้อนทำลายโมเมนตัม
-11874	Rending Lightning Strike	เรนเดอร์สายฟ้าฟาด
+11874	Rending Lightning Strike	เรนเดอร์ Lightning Strike
 11875	Cancel your application?	ยกเลิกการสมัครของคุณ?
 11876	Prontera Map Description	คำอธิบายแผนที่พรอนเทรา
 11877	Congratulate the winners	ขอแสดงความยินดีกับผู้ชนะ
 11878	Failed to set idle action	ไม่สามารถตั้งค่าการดำเนินการที่ไม่ได้ใช้งาน
-11879	Grand Peco Hair Accessory	เครื่องประดับผม Grand Peco
-11880	Orchid Waterside Pavilion	ศาลากล้วยไม้ริมน้ำ
-11881	Fish of the Northern Deep	ปลาน้ำลึกภาคเหนือ
+11879	Grand Peco Hair Accessory	Grand Peco Hair Accessory
+11880	Orchid Waterside Pavilion	Orchid Waterside Pavilion
+11881	Fish of the Northern Deep	Fish of the Northern Deep
 11882	Current server time: ${1}	เวลาเซิร์ฟเวอร์ปัจจุบัน:${1}
 11883	Network request timed out	หมดเวลา
-11884	Savage Babe - Placeholder	Savage Babe - ตัวยึดตำแหน่ง
+11884	Savage Babe - Placeholder	Savage Babe - Placeholder
 11885	Fund the Unsealing Ritual	ให้ทุนสำหรับพิธีกรรมเปิดผนึก
 11886	Out-of-Combat MP Recovery	การกู้คืน MP นอกการต่อสู้
 11887	Neutral Damage Reduction%	การลดความเสียหายที่เป็นกลาง%
@@ -892,45 +892,45 @@
 11891	Damage to BOSS Monsters %	สร้างความเสียหายต่อมอนสเตอร์ BOSS %
 11892	^{1}Preparation Phase^{2}	^{1}ขั้นตอนการเตรียมการ^{2}
 11893	No rewards for this tier.	ไม่มีรางวัลสำหรับระดับนี้
-11894	Reach @{1} Daily Activity	เข้าถึงกิจกรรมประจำวันของ@{1}
+11894	Reach @{1} Daily Activity	เข้าถึง Activity ประจำวันของ@{1}
 11895	Activate the Growth Badge	เปิดใช้งานป้ายการเติบโต
-11896	Teleport! Whoosh! Whoosh!	เทเลพอร์ต!โห่!โห่!
-11897	Help the Soldiers escape.	ช่วยทหารหลบหนี
+11896	Teleport! Whoosh! Whoosh!	Teleport! โห่! โห่!
+11897	Help the Soldiers escape.	ช่วย Soldiers หลบหนี
 11898	Find out what's going on.	ค้นหาว่าเกิดอะไรขึ้น
 11899	Secret Trove Chest Claims	Secret Trove Chest Claims
 11900	Selection Countdown: ${1}	นับถอยหลังการเลือก:${1}ช่วงการเลือก
 11901	A Hunter calls out to you	นักล่าโทรหาคุณ
 11902	Clear out the ants nearby	กำจัดมดบริเวณใกล้เคียง
-11903	Clear the Pharaoh Dungeon	เคลียร์ดันเจี้ยนฟาโรห์
+11903	Clear the Pharaoh Dungeon	เคลียร์ดันเจี้ยน Pharaoh
 11904	Talk to the Knight Leader	คุยกับหัวหน้าอัศวิน
 11905	Distance moved per second	ระยะทางที่เคลื่อนที่ต่อวินาที
 11906	No information available.	ไม่มีข้อมูล
-11907	Appoint Vice Guild Master	แต่งตั้งรองหัวหน้ากิลด์
-11908	Guild Creation Successful	การสร้างกิลด์สำเร็จ
-11909	Guild Building Leveled up	อาคารกิลด์อัปเลเวลแล้ว
+11907	Appoint Vice Guild Master	แต่งตั้งรองหัวหน้า Guild
+11908	Guild Creation Successful	การสร้าง Guild สำเร็จ
+11909	Guild Building Leveled up	อาคาร Guild อัปเลเวลแล้ว
 11910	Expired Resource Recovery	การกู้คืนทรัพยากรที่หมดอายุ
 11911	Season Settlement Rewards	Season Settlement Rewards
 11912	Collection Progress: ${1}	:${1}ความคืบหน้าการรวบรวม
-11913	Life Skill Activity Quest	ภารกิจกิจกรรมทักษะชีวิต
-11914	(No translation required)	(ไม่จำเป็นต้องแปล)
+11913	Life Skill Activity Quest	ภารกิจ Activity ทักษะ Life
+11914	(No translation required)	(No translation required)
 11915	Follow the Caravan Escort	ติดตามคาราวานคุ้มกัน
 11916	Please join a guild first	กรุณาเข้าร่วมกิลด์ก่อน
-11917	Adventurer Guild Level-up	เลเวลอัพกิลด์นักผจญภัย
-11918	Adventurer Guild Watering	รดน้ำกิลด์นักผจญภัย
+11917	Adventurer Guild Level-up	เลเวลอัพ GuildAdventurer
+11918	Adventurer Guild Watering	รดน้ำ GuildAdventurer
 11919	Reset Smelting Attributes	รีเซ็ตคุณสมบัติการถลุง
 11920	This area is inaccessible	พื้นที่นี้ไม่สามารถเข้าถึงได้
 11921	Token verification failed	ล้มเหลว
 11922	Find the Trial Instructor	ค้นหาผู้สอนการทดลอง
-11923	Approach the Strange Girl	เข้าใกล้หญิงสาวแปลกหน้า
+11923	Approach the Strange Girl	เข้าใกล้หญิง Girl แปลกหน้า
 11924	Reenter the Court of Time	กลับเข้าสู่ศาลแห่งกาลเวลาอีกครั้ง
-11925	Check the Space-Time Gate	ตรวจสอบประตูอวกาศ-เวลา
+11925	Check the Space-Time Gate	ตรวจสอบ Gate อวกาศ-เวลา
 11926	Rest in the upstairs room	พักผ่อนห้องชั้นบน
 11927	Defeat the Forces of Evil	ปราบพลังแห่งความชั่วร้าย
 11928	Use a Fly Wing @{1} times	ใช้ Fly Wing@{1}ครั้ง
 11929	Tap Instant Promotion@{1}	แตะโปรโมชั่นทันที@{1}
 11930	Ask Rhine about the trial	Ask Rhine about the trial
 11931	Defeat the Nearby Fabres*	เอาชนะ Fabres ที่อยู่ใกล้เคียง*
-11932	Meet Boya in Payon Forest	พบกับ โบย่า ในป่าพยอน
+11932	Meet Boya in Payon Forest	พบกับ Boya ใน Payon Forest
 11933	Continue following Fervor	ติดตามความร้อนแรงต่อไป
 11934	Next Base Level cap: ${1}	ระดับฐานถัดไปสูงสุด:${1}
 11935	Activate Refine Ascension	เปิดใช้งานการกลั่นกรองการขึ้นสู่สวรรค์
@@ -941,7 +941,7 @@
 11940	Combined-Duration Penalty	การลงโทษแบบรวมระยะเวลา
 11941	Trade Started Description	คำอธิบายการเริ่มต้นการค้า
 11942	Message Crane Information	ข้อมูลเครนข้อความ
-11943	Mysterious Treasure Chest	หีบสมบัติลึกลับ
+11943	Mysterious Treasure Chest	Mysterious Treasure Chest
 11944	Item listed successfully.	รายการรายการสำเร็จแล้ว
 11945	Season Limited-Time Offer	ข้อเสนอเวลาจำกัดฤดูกาล
 11946	Listing Time - Descending	- จากมากไปน้อย
@@ -952,50 +952,50 @@
 11951	(No Translation Required)	(ไม่จำเป็นต้องแปล)
 11952	Divine Armament Rank ${1}	อาวุธยุทโธปกรณ์ศักดิ์สิทธิ์${1}ตัวอย่าง
 11953	Marker index out of range	Marker อยู่นอกช่วง
-11954	Opens in ${1} hr ${2} min	เปิดใน${1}ชม${2}นาที
-11955	Earth Property Resistance	ความต้านทานต่อคุณสมบัติดิน
-11956	Ghost Property Resistance	ต้านทานคุณสมบัติ Ghost
-11957	Guild creation successful	การสร้างกิลด์สำเร็จ
+11954	Opens in ${1} hr ${2} min	Opens ใน${1}ชม${2}นาที
+11955	Earth Property Resistance	Earth Property Resistance
+11956	Ghost Property Resistance	Ghost Property Resistance
+11957	Guild creation successful	การสร้าง Guild สำเร็จ
 11958	Get Help Today: ${1}/${2}	รับความช่วยเหลือวันนี้:${1}/${2}
-11959	Territory War Grid - @{1}	ตารางสงครามอาณาเขต -@{1}
+11959	Territory War Grid - @{1}	Territory War Grid - @{1}
 11960	Please select a direction	กรุณาเลือกทิศทาง
-11961	Sketch Card: Doppelganger	การ์ดสเก็ตช์: ดอพเพลแกงเกอร์
-11962	Shadow Card: Doppelganger	การ์ดเงา: ดอพเพลแกงเกอร์
+11961	Sketch Card: Doppelganger	Sketch Card: Doppelganger
+11962	Shadow Card: Doppelganger	Shadow Card: Doppelganger
 11963	Not in the specified area	ไม่อยู่ในพื้นที่ที่กำหนด
 11964	No next dungeon available	ไม่มีดันเจี้ยนถัดไป
-11965	Not at the Bonfire Party!	ไม่ได้อยู่ที่ปาร์ตี้กองไฟ!
+11965	Not at the Bonfire Party!	ไม่ได้อยู่ที่ปาร์ตี้ Bonfire!
 11966	Obtain a Red Thread item.	รับรายการด้ายสีแดง
 11967	Periodically takes damage	ได้รับความเสียหายเป็นระยะ
 11968	Cannot move or use skills	ไม่สามารถเคลื่อนที่หรือใช้ทักษะได้
 11969	Attack slightly increased	Attack slightly increased
-11970	Prayer of the Holy Spirit	คำอธิษฐานของพระวิญญาณบริสุทธิ์
-11971	Drag with Mouse Right Tap	ลากด้วยเมาส์แตะขวา
-11972	Bullet-Hell Mechanism@{1}	กลไกกระสุน-นรก@{1}
-11973	Rolling Boulder Mechanism	กลไกการกลิ้งหิน
-11974	Skill@{1}Harp Performance	ประสิทธิภาพของพิณ@{1}
-11975	Skill@{1}Opening Movement	Skill@{1}การเคลื่อนไหวในการเปิด
-11976	Tiamat Rectangular Damage	Tiamat ความเสียหายเป็นสี่เหลี่ยม
-11977	Hunter Battle Royale Spin	นักล่า Battle Royale Spin
-11978	Skill@{1} Cloud Explosion	@{1}การระเบิดของเมฆ
-11979	Kun Appears (Boss Action)	Kun ปรากฏตัว (Boss Action)
-11980	Continuous Ring Drum @{1}	Continuous Ring Drum@{1}
-11981	Enhance Warg Hunt (Melee)	ปรับปรุงการล่า Warg (ระยะประชิด)
-11982	Maya Purple Normal Attack	มายาม่วง โจมตีปกติ
-11983	Dark Priest Normal Attack	ดาร์คพรีสต์ โจมตีปกติ
+11970	Prayer of the Holy Spirit	Prayer of the Holy Spirit
+11971	Drag with Mouse Right Tap	ลากด้วย Mouse แตะขวา
+11972	Bullet-Hell Mechanism@{1}	Bullet-Hell Mechanism@{1}
+11973	Rolling Boulder Mechanism	Rolling Boulder Mechanism
+11974	Skill@{1}Harp Performance	Skill@{1}Harp Performance
+11975	Skill@{1}Opening Movement	Skill@{1}Opening Movement
+11976	Tiamat Rectangular Damage	Tiamat Rectangular Damage
+11977	Hunter Battle Royale Spin	Hunter Battle Royale Spin
+11978	Skill@{1} Cloud Explosion	Skill@{1} Cloud Explosion
+11979	Kun Appears (Boss Action)	Kun Appears (Boss Action)
+11980	Continuous Ring Drum @{1}	Continuous Ring Drum @{1}
+11981	Enhance Warg Hunt (Melee)	Enhance Warg Hunt (Melee)
+11982	Maya Purple Normal Attack	Maya Purple Normal Attack
+11983	Dark Priest Normal Attack	Dark Priest Normal Attack
 11984	This Week's Limit Reached	ถึงขีดจำกัดของสัปดาห์นี้แล้ว
-11985	Ancient Tree Entanglement	การพันกันของต้นไม้โบราณ
-11986	Stone Blades - Inner Ring	ใบมีดหิน - วงแหวนด้านใน
-11987	Ringblade Kunai-Alternate	Ringblade Kunai-สำรอง
-11988	Use Instance Revive Count	ใช้จำนวนการฟื้นฟูอินสแตนซ์
-11989	Falling Cross Cannonballs	ลูกปืนใหญ่ล้มขวาง
-11990	Drake Thrust (Quick Stop)	Drake Thrust (หยุดด่วน)
-11991	Stone Pillar (Deprecated)	เสาหิน (เลิกใช้แล้ว)
-11992	Reverse Stone Glyph Slash	เครื่องหมายทับหินกลับด้าน
-11993	Link Red Status Check@{1}	ลิงก์ตรวจสอบสถานะสีแดง@{1}
-11994	Divine Light Purification	การทำให้แสงบริสุทธิ์อันศักดิ์สิทธิ์
-11995	Increase Damage Reduction	เพิ่มการลดความเสียหาย
-11996	Pyramid Skill Interrupted	ทักษะพีระมิดถูกขัดจังหวะ
-11997	Launch Blue Homing Bubble	เปิดตัว Blue Homing Bubble
-11998	Yellow Interaction Circle	วงกลมโต้ตอบสีเหลือง
-11999	Purple Interaction Circle	วงกลมโต้ตอบสีม่วง
-12000	Skill@{1}Enrage Countdown	@{1}นับถอยหลังอย่างบ้าคลั่ง
+11985	Ancient Tree Entanglement	Ancient Tree Entanglement
+11986	Stone Blades - Inner Ring	Stone Blades - Inner Ring
+11987	Ringblade Kunai-Alternate	Ringblade Kunai-Alternate
+11988	Use Instance Revive Count	Use Instance Revive Count
+11989	Falling Cross Cannonballs	Falling Cross Cannonballs
+11990	Drake Thrust (Quick Stop)	Drake Thrust (Quick Stop)
+11991	Stone Pillar (Deprecated)	Stone Pillar (Deprecated)
+11992	Reverse Stone Glyph Slash	Reverse Stone Glyph Slash
+11993	Link Red Status Check@{1}	Link Red Status Check@{1}
+11994	Divine Light Purification	Divine Light Purification
+11995	Increase Damage Reduction	Increase Damage Reduction
+11996	Pyramid Skill Interrupted	Pyramid Skill Interrupted
+11997	Launch Blue Homing Bubble	Launch Blue Homing Bubble
+11998	Yellow Interaction Circle	Yellow Interaction Circle
+11999	Purple Interaction Circle	Purple Interaction Circle
+12000	Skill@{1}Enrage Countdown	Skill@{1}Enrage Countdown

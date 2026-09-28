@@ -1,6 +1,6 @@
 ﻿Index	English	Thai_Translation
-10001	Woof! Woof woof woof!	โฮ่ง!วูฟ วูฟ วูฟ!
-10002	Wait! I'm coming too!	รอก่อน!ฉันก็มาเหมือนกัน!
+10001	Woof! Woof woof woof!	โฮ่ง! วูฟ วูฟ วูฟ!
+10002	Wait! I'm coming too!	รอก่อน! ฉันก็มาเหมือนกัน!
 10003	Current Battle Report	รายงานการต่อสู้ปัจจุบัน
 10004	Players in Inner Area	ในพื้นที่ด้านใน
 10005	Better Luck Next Time	ครั้งต่อไปโชคดียิ่งขึ้น
@@ -25,23 +25,23 @@
 10024	DMG Bonus vs All Race	โบนัส DMG เทียบกับทุกการแข่งขัน
 10025	DMG Bonus vs All Size	โบนัส DMG เทียบกับทุกขนาด
 10026	Kun Dungeon Challenge	ภารกิจท้าทายคุนดันเจี้ยน
-10027	Expansion Jutsu Check	ตรวจสอบ Jutsu การขยายตัว
-10028	Escort Cart Explosion	รถคุ้มกันระเบิด
-10029	Soul Expansion (Copy)	การขยายตัวของวิญญาณ (คัดลอก)
-10030	Raging Wave Cataclysm	ภัยพิบัติจากคลื่นโหมกระหน่ำ
-10031	Young Dragon Fireball	ลูกไฟมังกรหนุ่ม
-10032	Switch to Fire Turret	เปลี่ยนเป็นป้อมปืนไฟ
-10033	Empowered Warg Strike	โจมตี Warg ที่เสริมพลัง
-10034	Night Judgment - Mask	Night Judgement - หน้ากาก
+10027	Expansion Jutsu Check	Expansion Jutsu Check
+10028	Escort Cart Explosion	Escort Cart Explosion
+10029	Soul Expansion (Copy)	Soul Expansion (Copy)
+10030	Raging Wave Cataclysm	Raging Wave Cataclysm
+10031	Young Dragon Fireball	Young Dragon Fireball
+10032	Switch to Fire Turret	Switch to Fire Turret
+10033	Empowered Warg Strike	Empowered Warg Strike
+10034	Night Judgment - Mask	Night Judgment - Mask
 10035	Mid-Season Settlement	การตั้งถิ่นฐานกลางฤดู
-10036	Sacred Footwear Blank	รองเท้าศักดิ์สิทธิ์เปล่า
+10036	Sacred Footwear Blank	Sacred Footwear Blank
 10037	Ultra Suggested Items	รายการแนะนำพิเศษ
-10038	^{1}[Job Advance]^{2}	^{1}[งานล่วงหน้า]^{2}
-10039	Rent a Madogear Pilot	เช่านักบิน Madogear
+10038	^{1}[Job Advance]^{2}	^{1}[Job Advance]^{2}
+10039	Rent a Madogear Pilot	เช่า Madogear Pilot
 10040	An Assistant's Duties	หน้าที่ของผู้ช่วย
 10041	An Unusual Preference	การตั้งค่าที่ผิดปกติ
-10042	The Puzzled Professor	ศาสตราจารย์ปริศนา
-10043	The Captain's Concern	ความห่วงใยของกัปตัน
+10042	The Puzzled Professor	Professor ปริศนา
+10043	The Captain's Concern	ความห่วงใยของ Captain
 10044	Clear Out the Insects	กำจัดแมลง
 10045	Help defeat @{1} MVPs	ช่วยปราบ@{1}MVP
 10046	Spirit Tower Rankings	อันดับหอคอยวิญญาณ
@@ -61,143 +61,143 @@
 10060	Goddess's Overture IV	การทาบทามของเทพธิดา IV
 10061	Suggested Build: ${1}	รุ่นที่แนะนำ:${1}
 10062	The Bustle by the Bar	ความคึกคักริมบาร์
-10063	Flames of Inquisition	เปลวไฟแห่งการสืบสวน
+10063	Flames of Inquisition	Flames of Inquisition
 10064	Combine is successful	การรวมสำเร็จ
 10065	Appraise ${1} Item(s)	Appraise${1}Item(s)
-10066	Healing Amplification	การขยายการรักษา
-10067	Minor Holy Resistance	การต้านทานศักดิ์สิทธิ์เล็กน้อย
-10068	Minor Fire Resistance	ทนไฟเล็กน้อย
-10069	Low-Tier Magic Attack	การโจมตีด้วยเวทมนตร์ระดับต่ำ
-10070	Low-Tier Multi Strike	การโจมตีหลายระดับต่ำ
-10071	Pet Shard: Earth Lord	Pet Shard: เอิร์ธลอร์ด
-10072	Pet Shard: Water Lord	Pet Shard: เจ้าแห่งน้ำ
-10073	Pet Shard: Squidgitte	ชิ้นส่วนสัตว์เลี้ยง: Squidgitte
-10074	Pet Shard: Marionette	ชิ้นส่วนสัตว์เลี้ยง: หุ่นเชิด
-10075	Chapter One of a Book	บทที่หนึ่งของหนังสือ
-10076	Dream Horse - Limited	Dream Horse-ลิมิเต็ด
-10077	Sun Chariot - Limited	ซันแชเรียต - จำกัด
-10078	Dig - Exquisite Chest	Dig - หีบอันงดงาม
-10079	Strawberry Hard Candy	ลูกอมรสสตรอเบอร์รี่
-10080	Refreshing Lemon Brew	เบียร์เลมอนสดชื่น
-10081	Grape Sparkling Water	น้ำองุ่นมีฟอง
-10082	Workhorse Potion Pack	แพ็คยาม้าทำงาน
-10083	Commemorative Medal E	เหรียญที่ระลึก E
-10084	Commemorative Medal D	เหรียญที่ระลึก D
-10085	Commemorative Medal C	เหรียญที่ระลึก C
-10086	Commemorative Medal B	เหรียญที่ระลึก B
-10087	Commemorative Medal A	เหรียญที่ระลึก A
-10088	Blessed Armor Ore-Use	แร่เกราะศักดิ์สิทธิ์-ใช้
+10066	Healing Amplification	Healing Amplification
+10067	Minor Holy Resistance	Minor Holy Resistance
+10068	Minor Fire Resistance	Minor Fire Resistance
+10069	Low-Tier Magic Attack	Low-Tier Magic Attack
+10070	Low-Tier Multi Strike	Low-Tier Multi Strike
+10071	Pet Shard: Earth Lord	Pet Shard: Earth Lord
+10072	Pet Shard: Water Lord	Pet Shard: Water Lord
+10073	Pet Shard: Squidgitte	Pet Shard: Squidgitte
+10074	Pet Shard: Marionette	Pet Shard: Marionette
+10075	Chapter One of a Book	Chapter One of a Book
+10076	Dream Horse - Limited	Dream Horse - Limited
+10077	Sun Chariot - Limited	Sun Chariot - Limited
+10078	Dig - Exquisite Chest	Dig - Exquisite Chest
+10079	Strawberry Hard Candy	Strawberry Hard Candy
+10080	Refreshing Lemon Brew	Refreshing Lemon Brew
+10081	Grape Sparkling Water	Grape Sparkling Water
+10082	Workhorse Potion Pack	Workhorse Potion Pack
+10083	Commemorative Medal E	Commemorative Medal E
+10084	Commemorative Medal D	Commemorative Medal D
+10085	Commemorative Medal C	Commemorative Medal C
+10086	Commemorative Medal B	Commemorative Medal B
+10087	Commemorative Medal A	Commemorative Medal A
+10088	Blessed Armor Ore-Use	Blessed Armor Ore-Use
 10089	Equipment Enchantment	เสริมพลังอุปกรณ์
 10090	Total Treasure Hunts:	การล่าขุมทรัพย์ทั้งหมด:
-10091	Energized Honing Iron	เหล็กเสริมพลัง
-10092	Dense Meteorite Chunk	ก้อนอุกกาบาตหนาแน่น
-10093	Coarse Grinding Wheel	หินเจียรหยาบ
-10094	Sourcefire of Insight	ที่มาของ Insight
-10095	Tier @{1} Blue Weapon	ระดับ @{1} อาวุธสีน้ำเงิน
-10096	Colorful Worm Peeling	เครื่องปอกหนอนหลากสี
-10097	Top-Tier Pet EXP Book	หนังสือ EXP สัตว์เลี้ยงระดับสูง
+10091	Energized Honing Iron	Energized Honing Iron
+10092	Dense Meteorite Chunk	Dense Meteorite Chunk
+10093	Coarse Grinding Wheel	Coarse Grinding Wheel
+10094	Sourcefire of Insight	Sourcefire of Insight
+10095	Tier @{1} Blue Weapon	Tier @{1} Blue Weapon
+10096	Colorful Worm Peeling	Colorful Worm Peeling
+10097	Top-Tier Pet EXP Book	Top-Tier Pet EXP Book
 10098	Pet Training Diary II	Pet Training Diary II
-10099	Symbol of the Sun God	สัญลักษณ์ของเทพแห่งดวงอาทิตย์
-10100	Little Deviruchi Horn	เขาเดวิรุจิน้อย
-10101	Guild Emblem - Castle	Guild Emblem - ปราสาท
-10102	Guild Emblem - Shield	Guild Emblem - โล่
-10103	Cross Star Core - Red	แกนครอสสตาร์ - สีแดง
-10104	Moon Star Core - Blue	แกนมูนสตาร์ - สีฟ้า
-10105	Moon Star Core - Gray	แกนมูนสตาร์ - สีเทา
-10106	Guild League - Finals	กิลด์ลีก - รอบชิงชนะเลิศ
-10107	Sun Star Core - Green	แกนซันสตาร์ - สีเขียว
-10108	Prism Star Core - Red	แกนปริซึมสตาร์ - สีแดง
-10109	Orange Cards Fragment	ชิ้นส่วนการ์ดสีส้ม
-10110	Blessed Accessory Ore	แร่เสริมมงคล
-10111	Standard Treasure Map	แผนที่สมบัติมาตรฐาน
-10112	Oak Scroll·Cloak-Blue	Oak Scroll·เสื้อคลุม-น้ำเงิน
-10113	Superior Green Potion	น้ำยาสีเขียวที่เหนือกว่า
-10114	Condensed Blue Potion	ยาสีน้ำเงินเข้มข้น
-10115	Lv. @{1} Wand (No BD)	เลเวล@{1}ไม้กายสิทธิ์ (ไม่มี BD)
-10116	Lv. @{1} Mace (No BD)	เลเวล@{1}กระบอง (ไม่มี BD)
-10117	Superior Knight Spear	หอกอัศวินชั้นสูง
-10118	Advanced Knight Spear	หอกอัศวินขั้นสูง
+10099	Symbol of the Sun God	Symbol of the Sun God
+10100	Little Deviruchi Horn	Little Deviruchi Horn
+10101	Guild Emblem - Castle	Guild Emblem - Castle
+10102	Guild Emblem - Shield	Guild Emblem - Shield
+10103	Cross Star Core - Red	Cross Star Core - Red
+10104	Moon Star Core - Blue	Moon Star Core - Blue
+10105	Moon Star Core - Gray	Moon Star Core - Gray
+10106	Guild League - Finals	Guild ลีก - รอบชิงชนะเลิศ
+10107	Sun Star Core - Green	Sun Star Core - Green
+10108	Prism Star Core - Red	Prism Star Core - Red
+10109	Orange Cards Fragment	Orange Cards Fragment
+10110	Blessed Accessory Ore	Blessed Accessory Ore
+10111	Standard Treasure Map	Standard Treasure Map
+10112	Oak Scroll·Cloak-Blue	Oak Scroll·Cloak-Blue
+10113	Superior Green Potion	Superior Green Potion
+10114	Condensed Blue Potion	Condensed Blue Potion
+10115	Lv. @{1} Wand (No BD)	Lv. @{1} Wand (No BD)
+10116	Lv. @{1} Mace (No BD)	Lv. @{1} Mace (No BD)
+10117	Superior Knight Spear	Superior Knight Spear
+10118	Advanced Knight Spear	Advanced Knight Spear
 10119	Mink Coat-STR/VIT-DEF	Mink Coat-STR/VIT-DEF
-10120	Mink Coat-DEX/AGI-ATK	เสื้อขนมิงค์-DEX/AGI-ATK
+10120	Mink Coat-DEX/AGI-ATK	Mink Coat-DEX/AGI-ATK
 10121	Mink Coat-INT/DEX-ATK	Mink Coat-INT/DEX-ATK
 10122	Mink Coat-STR/VIT-ATK	Mink Coat-STR/VIT-ATK
-10123	Mink Coat-STR/LUK-ATK	โค้ทขนมิงค์-STR/LUK-ATK
-10124	Mink Coat-STR/AGI-ATK	ขนมิงค์-STR/AGI-ATK
-10125	Novice Leather Jacket	เสื้อแจ็คเก็ตหนังมือใหม่
-10126	Double-Bladed Halberd	ง้าวใบมีดคู่
-10127	Two-Tone - Yellow/Red	ทูโทน - เหลือง/แดง
-10128	Two-Tone - Green/Blue	ทูโทน - เขียว/น้ำเงิน
-10129	Snowy Night Music Box	กล่องดนตรีคืนหิมะตก
+10123	Mink Coat-STR/LUK-ATK	Mink Coat-STR/LUK-ATK
+10124	Mink Coat-STR/AGI-ATK	Mink Coat-STR/AGI-ATK
+10125	Novice Leather Jacket	Novice Leather Jacket
+10126	Double-Bladed Halberd	Double-Bladed Halberd
+10127	Two-Tone - Yellow/Red	Two-Tone - Yellow/Red
+10128	Two-Tone - Green/Blue	Two-Tone - Green/Blue
+10129	Snowy Night Music Box	Snowy Night Music Box
 10130	Insufficient Activity	Insufficient Activity
 10131	Power must reach ${1}	กำลังจะต้องถึง${1}
 10132	Not enough challenges	ความท้าทายไม่เพียงพอ
-10133	Adventure Bond Points	คะแนนพันธบัตรการผจญภัย
-10134	Shadow Card: Minorous	การ์ดเงา: มีน้อย
+10133	Adventure Bond Points	Adventure Bond Points
+10134	Shadow Card: Minorous	Shadow Card: Minorous
 10135	Divine Totem Overview	ภาพรวม Totem ศักดิ์สิทธิ์
-10136	Divine Totem Level-up	เลเวลโทเท็มศักดิ์สิทธิ์
+10136	Divine Totem Level-up	เลเวล Divine Totem
 10137	Reading Level Details	รายละเอียดระดับการอ่าน
 10138	Random Event Overview	ภาพรวมเหตุการณ์สุ่ม
 10139	The instance is full.	อินสแตนซ์เต็ม
 10140	${1} canceled Queuing	${1}ยกเลิกการรอคิว
-10141	Powerful Auto Counter	เครื่องนับอัตโนมัติอันทรงพลัง
+10141	Powerful Auto Counter	Powerful Auto Counter
 10142	Top Cannon Dismantler	สุดยอดเครื่องแยกชิ้นส่วนแคนนอน
 10143	Help in Times of Need	ช่วยเหลือในยามจำเป็น
-10144	Card Album Collection	คอลเลกชันอัลบั้มการ์ด
+10144	Card Album Collection	คอลเลกชัน Card Album
 10145	Go to Monster Habitat	ไปที่ที่อยู่อาศัยของสัตว์ประหลาด
 10146	Divine Realm Speedrun	อาณาจักรศักดิ์สิทธิ์ สปีดรัน
 10147	Party Mode (Official)	โหมดปาร์ตี้ (เป็นทางการ)
 10148	Event Period: All Day	ระยะเวลากิจกรรม: ทั้งวัน
 10149	Scroll of Bygone Days	คัมภีร์แห่งอดีต
-10150	Mammonite Replacement	การเปลี่ยนแมมโมไนต์
+10150	Mammonite Replacement	การเปลี่ยน Mammonite
 10151	Mind and Body Renewal	การฟื้นฟูจิตใจและร่างกาย
 10152	Enhanced Power Thrust	เพิ่มพลังขับดัน
-10153	Self-Destruct HP Lock	ล็อค HP แบบทำลายตัวเอง
+10153	Self-Destruct HP Lock	ล็อค HP แบบ Self-Destruct
 10154	Energy Release Shield	โล่ปล่อยพลังงาน
 10155	Trigger Self-Destruct	กระตุ้นการทำลายตนเอง
 10156	Minimum Cast Distance	ระยะการร่ายขั้นต่ำ
 10157	Maximum Cast Distance	ระยะการร่ายสูงสุด
 10158	BDTarget_MaxStack_Tag	BDTarget_MaxStack_Tag
-10159	Blessing (Deprecated)	พร (เลิกใช้แล้ว)
+10159	Blessing (Deprecated)	Blessing (เลิกใช้แล้ว)
 10160	Escort Cart Destroyed	รถคุ้มกันถูกทำลาย
 10161	Protection Orbit Mark	เครื่องหมายวงโคจรป้องกัน
 10162	Unstoppable Dragonkin	ดราก้อนคินที่ไม่อาจหยุดยั้งได้
 10163	Tiamat Frontal Damage	Tiamat ความเสียหายที่ด้านหน้า
 10164	Connect Function Menu	เชื่อมต่อเมนูฟังก์ชั่น
 10165	Mini Map Display Area	พื้นที่แสดงแผนที่ขนาดเล็ก
-10166	Lord of Vermilion SFX	ลอร์ดแห่งชาด SFX
+10166	Lord of Vermilion SFX	Lord of Vermilion SFX
 10167	Elemental Preparation	การเตรียมองค์ประกอบ
 10168	Petrify Screen Effect	เอฟเฟกต์หน้าจอกลายเป็นหิน
 10169	Totem ZS (Deprecated)	Totem ZS (เลิกใช้แล้ว)
 10170	Blackhole Boss Shield	โล่บอสหลุมดำ
 10171	Holy Light Descending	Holy Light Descending
-10172	Ancient Mummy Passive	มัมมี่โบราณ แบบพาสซีฟ
+10172	Ancient Mummy Passive	Ancient Mummy แบบ Passive
 10173	Damage Taken Increase	ความเสียหายที่ได้รับเพิ่มขึ้น
 10174	DEF and MDEF Increase	DEF และ MDEF เพิ่มขึ้น
 10175	Arcane Silver Serpent	Arcane Silver Serpent
-10176	Formless Entanglement	สิ่งพันกันที่ไม่มีรูปแบบ
-10177	Deliberate Laceration	การฉีกขาดโดยเจตนา
+10176	Formless Entanglement	Formless Entanglement
+10177	Deliberate Laceration	Deliberate Laceration
 10178	Player-to-Player Link	ลิงก์ระหว่างผู้เล่นกับผู้เล่น
 10179	Stationary Red Bubble	เครื่องเขียน Bubble สีแดง
 10180	Skill @{1} Cast Check	ทักษะ @{1} ตรวจสอบการร่าย
-10181	Blade Mark-Accelerate	ใบมีด Mark-เร่ง
-10182	Switch Twilight Light	สวิตซ์ไฟทไวไลท์
+10181	Blade Mark-Accelerate	Blade Mark-เร่ง
+10182	Switch Twilight Light	สวิตซ์ไฟ Twilight
 10183	Dragon Transformation	การแปลงร่างมังกร
 10184	Normal Attack Counter	เคาน์เตอร์โจมตีปกติ
-10185	Switch White Imprison	สวิทซ์เรือนจำสีขาว
+10185	Switch White Imprison	สวิทซ์เรือนจำ White
 10186	Switch Gravity Impact	สวิตช์แรงโน้มถ่วง
 10187	Phantom Thrust Stacks	Phantom Thrust Stacks
 10188	Flowing Shadow Floors	พื้นเงาลื่นไหล
 10189	Psychic Astrolabe@{1}	ดวงดาวพลังจิต@{1}
 10190	Phantom Thrust Target	เป้าหมายแรงขับ Phantom
 10191	Reduced Field of View	ลดขอบเขตการมองเห็น
-10192	Increase Dodge (Test)	เพิ่มการหลบหลีก (ทดสอบ)
-10193	Ten Kills in One Step	ฆ่าสิบคนในขั้นตอนเดียว
+10192	Increase Dodge (Test)	Increase Dodge (ทดสอบ)
+10193	Ten Kills in One Step	Kills สิบคนในขั้นตอนเดียว
 10194	Politically Sensitive	มีความอ่อนไหวทางการเมือง
 10195	Mic Requests Approved	คำขอไมค์ได้รับการอนุมัติแล้ว
 10196	Mic Requests Rejected	ถูกปฏิเสธ
 10197	Cargo Placement Rules	กฎการจัดวางสินค้า
 10198	Sub-Battlefield Rules	กฎสนามรบย่อย
-10199	Guild Points Overview	คะแนนกิลด์
+10199	Guild Points Overview	คะแนน Guild
 10200	Event Calendar Rules:	กฎปฏิทินกิจกรรม:
 10201	Insufficient attempts	ความพยายามไม่เพียงพอ
 10202	Invalid Group Chat ID	ID การแชทกลุ่มไม่ถูกต้อง
@@ -206,7 +206,7 @@
 10205	Insufficient quantity	ปริมาณไม่เพียงพอ
 10206	Order already exists.	มีคำสั่งซื้ออยู่แล้ว
 10207	The mic queue is full	คิวไมค์เต็มครับ
-10208	Not in a Tavern room.	ไม่ได้อยู่ในห้องโรงเตี๊ยม
+10208	Not in a Tavern room.	ไม่ได้อยู่ในห้อง Tavern
 10209	Skill does not exist.	ทักษะไม่มีอยู่
 10210	${1} is not equipped.	ไม่ได้ติดตั้ง${1}
 10211	Not owned: ${1} Card.	ไม่ได้เป็นเจ้าของ: การ์ด${1}
@@ -216,21 +216,21 @@
 10215	Level too low to join	ระดับต่ำเกินไปที่จะเข้าร่วม
 10216	Action does not exist	ไม่มีการดำเนินการ
 10217	Invalid prize pool ID	ID กลุ่มรางวัลไม่ถูกต้อง
-10218	Invalid Life Skill ID	ID ทักษะชีวิตไม่ถูกต้อง
+10218	Invalid Life Skill ID	ID ทักษะ Life ไม่ถูกต้อง
 10219	Initialization failed	ล้มเหลว
 10220	Modifier check failed	ล้มเหลว
 10221	Trigger type mismatch	ประเภททริกเกอร์ไม่ตรงกัน
-10222	Mace Mastery Lv. @{1}	คทามาสเตอรี Lv.@{1}
+10222	Mace Mastery Lv. @{1}	Mace Mastery Lv.@{1}
 10223	^{1}Rousing Cheer^{2}	^{1}เชียร์เร้าใจ^{2}
-10224	Gloria Domini Enhance	กลอเรีย โดมินิ เสริมประสิทธิภาพ
+10224	Gloria Domini Enhance	Gloria โดมินิ เสริมประสิทธิภาพ
 10225	Rapid Smiting Enhance	เพิ่มประสิทธิภาพการตีอย่างรวดเร็ว
-10226	Spiral Pierce Enhance	เสริมการเจาะเกลียว
-10227	Spiral Pierce Mastery	เกลียวเพียร์ซมาสเตอรี
+10226	Spiral Pierce Enhance	เสริมการ Spiral Pierce
+10227	Spiral Pierce Mastery	เกลียว Pierce มาสเตอรี
 10228	Valhalla's Protection	การคุ้มครองของ Valhalla
 10229	Basic Physical Attack	การโจมตีทางกายภาพขั้นพื้นฐาน
 10230	Minor Wind Resistance	ต้านทานลมเล็กน้อย
 10231	Advanced Magic Attack	การโจมตีด้วยเวทมนตร์ขั้นสูง
-10232	Enhance Deadly Poison	เสริมพิษร้ายแรง
+10232	Enhance Deadly Poison	เสริม Deadly Poison
 10233	^{1}Flame Enhance^{2}	^{1}เพิ่มเปลวไฟ^{2}
 10234	^{1}Mana Infusion^{2}	^{1}การเติมมานา^{2}
 10235	Account limit reached	ถึงขีดจำกัดบัญชีแล้ว
@@ -239,7 +239,7 @@
 10238	Hotbar slot is empty.	Hotbar ว่างเปล่า
 10239	Slot is out of range.	อยู่นอกขอบเขต
 10240	Battle about to start	การต่อสู้กำลังจะเริ่มขึ้น
-10241	Defend the Outer Gate	ปกป้องประตูด้านนอก
+10241	Defend the Outer Gate	ปกป้อง Gate ด้านนอก
 10242	Item is not equipped.	รายการไม่ได้ติดตั้ง
 10243	End Transform: Poring	สิ้นสุดการแปลง: การเจาะ
 10244	Monster Normal Attack	มอนสเตอร์โจมตีปกติ
@@ -247,44 +247,44 @@
 10246	No actions to restore	ไม่มีการดำเนินการที่จะกู้คืน
 10247	Incorrect Trade price	ราคาซื้อขายไม่ถูกต้อง
 10248	Purchase Premium Pass	ซื้อบัตรผ่านพรีเมียม
-10249	Guild already exists.	กิลด์มีอยู่แล้ว
+10249	Guild already exists.	Guild มีอยู่แล้ว
 10250	League of Ten Friends	ลีกสิบเพื่อน
 10251	Spirit Tower Pinnacle	พินนาเคิลทาวเวอร์วิญญาณ
 10252	Spirit Tower Champion	แชมป์ Spirit Tower
-10253	Eye of Wisdom: Skills	ดวงตาแห่งปัญญา: ทักษะ
+10253	Eye of Wisdom: Skills	Eye of Wisdom: ทักษะ
 10254	First Touch of Purple	สัมผัสแรกของสีม่วง
 10255	Arunafeltz's Follower	Arunafeltz's Follower
 10256	Enter the Battlefield	เข้าสู่สนามรบ
 10257	Group Rank: ${1}/${2}	:${1}/${2}รายงานกลุ่ม
 10258	Longest Survival Time	เวลาเอาชีวิตรอดที่ยาวนานที่สุด
 10259	Could you... help me?	คุณช่วย... ช่วยฉันหน่อยได้ไหม?
-10260	Leave Adventure Group	ออกจากกลุ่มการผจญภัย
+10260	Leave Adventure Group	Leave จากกลุ่มการผจญภัย
 10261	Stopped following {1}	หยุดติดตาม{1}
 10262	${1} gave you a like.	${1}กดไลค์คุณแล้ว
 10263	So, will you take it?	แล้วรับมั้ย?
-10264	Life recovery +@{1}%.	การฟื้นฟูพลังชีวิต +@{1}%
+10264	Life recovery +@{1}%.	การฟื้นฟูพลัง Life +@{1}%
 10265	Number of skill casts	จำนวนการใช้ทักษะ
 10266	Plan [${1}] Activated	[${1}] เปิดใช้งานแล้ว
 10267	Get Help code Copied.	รับรหัสช่วยเหลือคัดลอกแล้ว
 10268	Tap to Preset Talents	แตะเพื่อตั้งค่าความสามารถพิเศษล่วงหน้า
-10269	Popo's Bubble Shield.	บับเบิ้ลชีลด์ของ Popo
+10269	Popo's Bubble Shield.	Bubble ชีลด์ของ Popo
 10270	Cannot move or attack	ไม่สามารถเคลื่อนที่หรือโจมตีได้
 10271	Clearing Rewards-${1}	รางวัลการหักบัญชี-${1}
 10272	Boss-Bound Projectile	กระสุนจับบอส
 10273	Right Rectangular AOE	AOE สี่เหลี่ยมด้านขวา
 10274	Front Rectangular AOE	AOE สี่เหลี่ยมด้านหน้า
-10275	Blade Mountain - Rise	ดาบภูเขา - Rise
-10276	Savage Charge - Earth	Savage Charge - ดิน
-10277	Verit Charge - Undead	Verit Charge - อันเดด
-10278	Nightmare AOE - Ghost	Nightmare AOE - ผี
-10279	Blood Butterfly Dance	ระบำผีเสื้อเลือด
-10280	Passive Trigger Skill	ทักษะทริกเกอร์แบบพาสซีฟ
-10281	Normal Attack Mastery	ความชำนาญการโจมตีปกติ
-10282	Grand Cross Exorciser	แกรนด์ครอสเอ็กซอร์ซิเซอร์
+10275	Blade Mountain - Rise	Blade Mountain - Rise
+10276	Savage Charge - Earth	Savage Charge - Earth
+10277	Verit Charge - Undead	Verit Charge - Undead
+10278	Nightmare AOE - Ghost	Nightmare AOE - Ghost
+10279	Blood Butterfly Dance	Blood Butterfly Dance
+10280	Passive Trigger Skill	Passive Trigger Skill
+10281	Normal Attack Mastery	ความชำนาญ Normal Attack
+10282	Grand Cross Exorciser	Grand Cross เอ็กซอร์ซิเซอร์
 10283	Enhanced Arrow Shower	ฝักบัวก้านแข็งรุ่น Enhanced Arrow
 10284	Enhanced Sniper's Aim	ปรับปรุงการเล็งของ Sniper
 10285	Payon Map Description	คำอธิบายแผนที่ Payon
-10286	Change Bonfire Effect	เปลี่ยนเอฟเฟกต์กองไฟ
+10286	Change Bonfire Effect	เปลี่ยนเอฟเฟกต์ Bonfire
 10287	Product ${1} unlocked	สินค้า${1}ปลดล็อคแล้ว
 10288	Event starts in: ${1}	เหตุการณ์เริ่มต้นใน:${1}
 10289	Interaction Invitation	คำเชิญโต้ตอบ
@@ -292,7 +292,7 @@
 10291	Please select a player	กรุณาเลือกผู้เล่น
 10292	You've got this, Boss!	เข้าใจแล้วบอส!
 10293	Tap anywhere to leave.	แตะที่ใดก็ได้เพื่อออก
-10294	Share to Guild Channel	แชร์ไปที่ช่องกิลด์
+10294	Share to Guild Channel	แชร์ไปที่ช่อง Guild
 10295	Share to World Channel	แชร์ไปที่ World Channel
 10296	Crit Damage Reduction%	การลดความเสียหายคริติคอล%
 10297	Physical Damage Bonus%	โบนัสความเสียหายกายภาพ%
@@ -315,18 +315,18 @@
 10314	Flame Projectile Count	จำนวนกระสุนเปลวไฟ
 10315	Frost Projectile Count	จำนวนกระสุนฟรอสต์
 10316	^{1}Final Showdown^{2}	^{1}การเปิดไพ่รอบสุดท้าย^{2}
-10317	Try to Ride the Deniro	ลองขี่เดนิโรดู
-10318	Maya's Secret Treasure	สมบัติลับของมายา
-10319	Peco Peco Ancient Nest	Peco Peco รังโบราณ
+10317	Try to Ride the Deniro	ลอง RideDeniro ดู
+10318	Maya's Secret Treasure	สมบัติลับของ Maya
+10319	Peco Peco Ancient Nest	Peco Peco Ancient Nest
 10320	Time Until Season Ends	เวลาจนกว่าฤดูกาลจะสิ้นสุด
 10321	Distance to Season End	ระยะทางถึงสิ้นสุดฤดูกาล
 10322	The airship starts up.	เรือเหาะเริ่มทำงาน
-10323	Kill @{1} Orc Warriors	ฆ่า@{1}Orc Warriors
+10323	Kill @{1} Orc Warriors	Kill@{1}Orc Warriors
 10324	Claim @{1} map rewards	รับรางวัลแผนที่@{1}
 10325	Talk to the professor.	คุยกับอาจารย์
 10326	Allocate Skill Points.	จัดสรรคะแนนทักษะ
 10327	Obtain the Hyena mount	รับอุปกรณ์ยึด Hyena
-10328	Ride the Ostrich mount	ขี่สัตว์ขี่นกกระจอกเทศ
+10328	Ride the Ostrich mount	Ride สัตว์ RideOstrich
 10329	Stronghold War Auction	การประมูลสงครามฐานที่มั่น
 10330	North-South Brown King	เหนือ-ใต้ คิงบราวน์
 10331	Reach 800 Total Points	มีคะแนนรวมถึง 800 คะแนน
@@ -335,8 +335,8 @@
 10334	Successful Impeachment	การฟ้องร้องสำเร็จ
 10335	Fashion Rating Ranking	อันดับเรตติ้งแฟชั่น
 10336	Item Manually Delisted	รายการถูกเพิกถอนด้วยตนเอง
-10337	Unusual Activity Alert	การแจ้งเตือนกิจกรรมที่ผิดปกติ
-10338	Guild Auction Dividend	เงินปันผลการประมูลกิลด์
+10337	Unusual Activity Alert	การแจ้งเตือน Activity ที่ผิดปกติ
+10338	Guild Auction Dividend	เงินปันผลการประมูล Guild
 10339	Reputation Score Alert	การแจ้งเตือนคะแนนชื่อเสียง
 10340	Supply Transport Phase	ระยะการขนส่งอุปทาน
 10341	Vehicles on the Field:	ในสนาม:
@@ -354,14 +354,14 @@
 10353	Use the Magic Fly Wing	ใช้ Magic Fly Wing
 10354	Defense Star Core @{1}	แกนป้องกันดาว@{1}
 10355	Go to the inn and rest	ไปที่โรงเตี๊ยมแล้วพักผ่อน
-10356	Talk to Captain Aikuni	คุยกับกัปตันไอคุนิ
+10356	Talk to Captain Aikuni	คุยกับ Captain ไอคุนิ
 10357	Career Total DMG Taken	อาชีพรวม DMG ที่ถ่าย
 10358	Cannot Enter as a team	ไม่สามารถเข้าร่วมเป็นทีมได้
 10359	Enhancement Successful	สำเร็จแล้ว
 10360	Novice Seven-Day Gifts	ของขวัญเจ็ดวันมือใหม่
 10361	Prelude of the Goddess	โหมโรงของเทพธิดา
-10362	Post Guild Recruitment	โพสต์รับสมัครกิลด์
-10363	Disband Inactive Guild	ยกเลิกกิลด์ที่ไม่ใช้งาน
+10362	Post Guild Recruitment	โพสต์รับสมัคร Guild
+10363	Disband Inactive Guild	ยกเลิก Guild ที่ไม่ใช้งาน
 10364	Default Portrait Frame	กรอบแนวตั้งเริ่มต้น
 10365	Minimum value reached!	ถึงมูลค่าขั้นต่ำแล้ว!
 10366	Maximum value reached!	ถึงมูลค่าสูงสุดแล้ว!
@@ -382,7 +382,7 @@
 10381	How to Gain Affection:	วิธีรับความรัก:
 10382	Selected Friends: ${1}	เพื่อนที่เลือก:${1}
 10383	Intimacy Bonus Effect:	เอฟเฟกต์โบนัสความใกล้ชิด:
-10384	Leave this Group Chat?	ออกจากการแชทกลุ่มนี้หรือไม่
+10384	Leave this Group Chat?	Leave จากการแชทกลุ่มนี้หรือไม่
 10385	No recommended friends	ไม่มีเพื่อนแนะนำ
 10386	No new friend requests	ไม่มีคำขอเป็นเพื่อนใหม่
 10387	Placement confirmation	การยืนยันตำแหน่ง
@@ -391,7 +391,7 @@
 10390	Party is being created	กำลังสร้างปาร์ตี้
 10391	Dedicated Scholar-@{1}	นักวิชาการเฉพาะทาง -@{1}
 10392	Stronghold War - Ended	สงครามฐานที่มั่น - สิ้นสุดแล้ว
-10393	Not enough Guild Funds	เงินกิลด์ไม่เพียงพอ
+10393	Not enough Guild Funds	เงิน Guild ไม่เพียงพอ
 10394	No Bidding Eligibility	ไม่มีสิทธิ์ในการประมูล
 10395	Insufficient resources	ทรัพยากรไม่เพียงพอ
 10396	Gather ${1} ${2} times	รวบรวม${1}${2}ครั้ง
@@ -403,25 +403,25 @@
 10402	Less than 1 minute ago	น้อยกว่า 1 นาทีที่แล้ว
 10403	Get Help limit reached	รับความช่วยเหลือถึงขีดจำกัดแล้ว
 10404	Guild Fund Description	Guild
-10405	Multilevel Pathfinding	การค้นหาเส้นทางหลายระดับ
-10406	Stronghold Battle-@{1}	การต่อสู้ฐานที่มั่น -@{1}
-10407	MVP Role-Playing Party	ปาร์ตี้เล่นตามบทบาท MVP
+10405	Multilevel Pathfinding	Multilevel Pathfinding
+10406	Stronghold Battle-@{1}	Stronghold Battle-@{1}
+10407	MVP Role-Playing Party	MVP Role-Playing Party
 10408	Main Battle - Recovery	การต่อสู้หลัก - การกู้คืน
-10409	Card: Thief Bug Female	การ์ด: โจรแมลงตัวเมีย
-10410	Card: Greatest General	: ทั่วไปที่ยิ่งใหญ่ที่สุด
-10411	Card: Soldier Skeleton	: โครงกระดูกทหาร
-10412	Card: Cat o' Nine-Tail	การ์ด: แมวเก้าหาง
-10413	Portrait Card: Pharaoh	การ์ดแนวตั้ง: ฟาโรห์
-10414	Portrait Card: Dracula	การ์ดแนวตั้ง: Dracula
-10415	Card: Golden Thief Bug	การ์ด: แมลงขโมยทอง
-10416	Card: Moonlight Flower	การ์ด: ดอกไม้แสงจันทร์
-10417	MVP Season Rank Points	คะแนนอันดับ MVP ประจำฤดูกาล
+10409	Card: Thief Bug Female	Card: Thief Bug Female
+10410	Card: Greatest General	Card: Greatest General
+10411	Card: Soldier Skeleton	Card: Soldier Skeleton
+10412	Card: Cat o' Nine-Tail	Card: Cat o' Nine-Tail
+10413	Portrait Card: Pharaoh	Portrait Card: Pharaoh
+10414	Portrait Card: Dracula	Portrait Card: Dracula
+10415	Card: Golden Thief Bug	Card: Golden Thief Bug
+10416	Card: Moonlight Flower	Card: Moonlight Flower
+10417	MVP Season Rank Points	MVP Season Rank Points
 10418	Requires the ${1} job.	ต้องมีงาน${1}
 10419	Function Not Available	ไม่พร้อมใช้งาน
-10420	Heavy Two-Handed Sword	ดาบสองมือหนัก
-10421	Giant Two-Handed Sword	ดาบสองมือยักษ์
+10420	Heavy Two-Handed Sword	Heavy Two-Handed Sword
+10421	Giant Two-Handed Sword	Giant Two-Handed Sword
 10422	LUK increases by ${1}.	LUK เพิ่มขึ้นโดย${1}
-10423	Guild Battle Prep Buff	บัฟเตรียมการต่อสู้กิลด์
+10423	Guild Battle Prep Buff	บัฟเตรียมการต่อสู้ Guild
 10424	Physical Damage +@{1}%	+@{1}%
 10425	STR increases by ${1}.	STR เพิ่มขึ้น${1}
 10426	VIT increases by ${1}.	VIT เพิ่มขึ้น${1}
@@ -431,47 +431,47 @@
 10430	Reduces field of view.	ลดขอบเขตการมองเห็น
 10431	Immune to all debuffs.	ภูมิคุ้มกันต่อดีบัฟทั้งหมด
 10432	Greatly increases DEF.	เพิ่ม DEF อย่างมาก
-10433	Wood Spirit's Blessing	คำอวยพรจากวิญญาณไม้
-10434	Shield Boomerang Combo	ชิลด์บูมเมอแรงคอมโบ
+10433	Wood Spirit's Blessing	Wood Spirit's Blessing
+10434	Shield Boomerang Combo	Shield Boomerang Combo
 10435	Additional Skill Range	ช่วงทักษะเพิ่มเติม
 10436	Display Character Info	แสดงข้อมูลอักขระ
 10437	Chase with Drag Skills	ไล่ล่าด้วยทักษะการลาก
-10438	Nightmare Circular AOE	AOE แบบวงกลมฝันร้าย
-10439	Baphomet Normal Attack	บาโฟเมต โจมตีปกติ
-10440	Concentrated Squid Ink	หมึกปลาหมึกเข้มข้น
-10441	Skill@{1} Kun Entrance	ทักษะ@{1}คุนทางเข้า
-10442	Skill@{1} Kun Movement	ทักษะ@{1}การเคลื่อนไหวของคุน
-10443	Jellyfish Mouth Bullet	กระสุนปากแมงกะพรุน
-10444	Skill@{1} Fin Tracking	@{1}Fin Tracking
-10445	Transform into Tornado	แปลงร่างเป็นทอร์นาโด
-10446	Rock-Shattering Strike	การโจมตีที่ทำให้หินแตก
-10447	Powerful Drain Trigger	ทริกเกอร์เดรนอันทรงพลัง
-10448	Mistress Normal Attack	นายหญิงโจมตีปกติ
-10449	Gift of the Underworld	ของขวัญจากยมโลก
-10450	Orc Lord Normal Attack	ออร์คลอร์ด โจมตีปกติ
+10438	Nightmare Circular AOE	Nightmare Circular AOE
+10439	Baphomet Normal Attack	Baphomet Normal Attack
+10440	Concentrated Squid Ink	Concentrated Squid Ink
+10441	Skill@{1} Kun Entrance	Skill@{1} Kun Entrance
+10442	Skill@{1} Kun Movement	Skill@{1} Kun Movement
+10443	Jellyfish Mouth Bullet	Jellyfish Mouth Bullet
+10444	Skill@{1} Fin Tracking	Skill@{1} Fin Tracking
+10445	Transform into Tornado	Transform into Tornado
+10446	Rock-Shattering Strike	Rock-Shattering Strike
+10447	Powerful Drain Trigger	Powerful Drain Trigger
+10448	Mistress Normal Attack	Mistress Normal Attack
+10449	Gift of the Underworld	Gift of the Underworld
+10450	Orc Lord Normal Attack	Orc Lord Normal Attack
 10451	All Players: ${1}/${2}	ผู้เล่นทั้งหมด:${1}/${2}
-10452	Gun-Smoke Severe Wound	บาดแผลรุนแรงจากปืน-ควัน
-10453	Nightmare Entanglement	ฝันร้ายพัวพัน
-10454	Ninja Art: Chain Blast	นินจาอาร์ต: ระเบิดลูกโซ่
+10452	Gun-Smoke Severe Wound	Gun-Smoke Severe Wound
+10453	Nightmare Entanglement	Nightmare Entanglement
+10454	Ninja Art: Chain Blast	Ninja Art: Chain Blast
 10455	Traveling to ${1} ${2}	กำลังเดินทางไป${1}${2}
-10456	Four Drake Waterspouts	รางน้ำ Drake สี่อัน
-10457	Sandstorm (Deprecated)	พายุทราย (เลิกใช้แล้ว)
-10458	Pre-Astral Shift Split	การแยกกะก่อนดวงดาว
-10459	Send Stage Message@{1}	ส่งข้อความสเตจ@{1}
-10460	Unstable Yellow Bubble	ฟองสีเหลืองไม่เสถียร
-10461	P@{1} Green Bubble@{2}	P@{1}ฟองสีเขียว@{2}
-10462	Skill@{1}Meteor Shower	ทักษะฝนดาวตก@{1}
-10463	Skill@{1}Drumbeat Cage	ทักษะ@{1}Drumbeat Cage
-10464	Ultimate Hundred Spear	สุดยอดหอกร้อยอัน
-10465	White Imprison Trigger	ทริกเกอร์กักขังสีขาว
-10466	Evil Spirit Possession	วิญญาณชั่วร้ายครอบครอง
-10467	S@{1}Vulcan Cannon@{2}	S@{1}วัลแคนแคนนอน@{2}
-10468	S@{1}High-Energy Pulse	S@{1}พัลส์พลังงานสูง
-10469	Elemental Annihilation	การทำลายล้างธาตุ
-10470	Cat o' Nine-Tail Skill	ทักษะแมวเก้าหาง
-10471	Advanced Katar Mastery	ความเชี่ยวชาญ Katar ขั้นสูง
-10472	Mystical Amplification	การขยายเสียงอันลึกลับ
-10473	Spellbook Page Passive	หน้าสมุดสะกด เรื่อยๆ
+10456	Four Drake Waterspouts	Four Drake Waterspouts
+10457	Sandstorm (Deprecated)	Sandstorm (Deprecated)
+10458	Pre-Astral Shift Split	Pre-Astral Shift Split
+10459	Send Stage Message@{1}	Send Stage Message@{1}
+10460	Unstable Yellow Bubble	Unstable Yellow Bubble
+10461	P@{1} Green Bubble@{2}	P@{1} Green Bubble@{2}
+10462	Skill@{1}Meteor Shower	Skill@{1}Meteor Shower
+10463	Skill@{1}Drumbeat Cage	Skill@{1}Drumbeat Cage
+10464	Ultimate Hundred Spear	Ultimate Hundred Spear
+10465	White Imprison Trigger	White Imprison Trigger
+10466	Evil Spirit Possession	Evil Spirit Possession
+10467	S@{1}Vulcan Cannon@{2}	S@{1}Vulcan Cannon@{2}
+10468	S@{1}High-Energy Pulse	S@{1}High-Energy Pulse
+10469	Elemental Annihilation	Elemental Annihilation
+10470	Cat o' Nine-Tail Skill	Cat o' Nine-Tail Skill
+10471	Advanced Katar Mastery	Advanced Katar Mastery
+10472	Mystical Amplification	Mystical Amplification
+10473	Spellbook Page Passive	Spellbook Page Passive
 10474	Don't Show Again Today	ไม่ต้องแสดงอีกในวันนี้
 10475	War Machine Management	การจัดการเครื่องจักรสงคราม
 10476	Build Engineering Camp	สร้างค่ายวิศวกรรม
@@ -483,33 +483,33 @@
 10482	Channel window created	แล้ว
 10483	You are not in a party	คุณไม่ได้อยู่ในงานปาร์ตี้
 10484	Party application sent	แล้ว
-10485	Memory Particle Device	อุปกรณ์อนุภาคหน่วยความจำ
-10486	Intermediate Live Coal	ถ่านหินสดระดับกลาง
-10487	Clue Treasure Map: Inn	แผนที่สมบัติเบาะแส: อินน์
-10488	Clue Map: Knight Order	แผนที่เบาะแส: Knight Order
-10489	Music Orb@{1}-Prontera	ลูกแก้วดนตรี@{1}-Prontera
-10490	Discarded Supply Crate	ลังพัสดุที่ถูกทิ้ง
-10491	【Pursuit】Despair Demon	【การไล่ตาม】ปีศาจแห่งความสิ้นหวัง
-10492	God of Nature - Ilmata	เทพเจ้าแห่งธรรมชาติ - อิลมาตา
-10493	Holy Anti-Aircraft Gun	ปืนต่อต้านอากาศยานศักดิ์สิทธิ์
-10494	Dark Anti-Aircraft Gun	ปืนต่อต้านอากาศยานสีเข้ม
-10495	Mountain Puppet Type α	หุ่นภูเขา ชนิด α
-10496	Mountain Puppet Type β	หุ่นภูเขา β
-10497	Mountain Puppet Type γ	หุ่นเชิดภูเขา γ
-10498	︶Too Handsome to Sleep	︶หล่อเกินจะนอน
-10499	Damage Reduction Dummy	หุ่นจำลองการลดความเสียหาย
-10500	Friendly Monster Dummy	หุ่นสัตว์ประหลาดที่เป็นมิตร
-10501	Vote for It Campaigner	โหวตให้นักรณรงค์
-10502	Lovey-Dovey Girlfriend	แฟนเลิฟวี่-โดวีย์
+10485	Memory Particle Device	Memory Particle Device
+10486	Intermediate Live Coal	Intermediate Live Coal
+10487	Clue Treasure Map: Inn	Clue Treasure Map: Inn
+10488	Clue Map: Knight Order	Clue Map: Knight Order
+10489	Music Orb@{1}-Prontera	Music Orb@{1}-Prontera
+10490	Discarded Supply Crate	Discarded Supply Crate
+10491	【Pursuit】Despair Demon	【Pursuit】Despair Demon
+10492	God of Nature - Ilmata	God of Nature - Ilmata
+10493	Holy Anti-Aircraft Gun	Holy Anti-Aircraft Gun
+10494	Dark Anti-Aircraft Gun	Dark Anti-Aircraft Gun
+10495	Mountain Puppet Type α	Mountain Puppet Type α
+10496	Mountain Puppet Type β	Mountain Puppet Type β
+10497	Mountain Puppet Type γ	Mountain Puppet Type γ
+10498	︶Too Handsome to Sleep	︶Too Handsome to Sleep
+10499	Damage Reduction Dummy	Damage Reduction Dummy
+10500	Friendly Monster Dummy	Friendly Monster Dummy
+10501	Vote for It Campaigner	Vote for It Campaigner
+10502	Lovey-Dovey Girlfriend	Lovey-Dovey Girlfriend
 10503	Quest Complete: 【${1}】	เสร็จสมบูรณ์: 【${1}】
-10504	Adventure Guild Mentor	ที่ปรึกษากิลด์ผจญภัย
-10505	Guild Supplies Manager	ผู้จัดการอุปกรณ์กิลด์
-10506	Territory War - Twelve	สงครามดินแดน - สิบสอง
-10507	Strange Stone Platform	แท่นหินประหลาด
-10508	P@{1} Green Bubble NPC	P@{1}ฟองสีเขียว NPC
-10509	Test Homing Projectile	ทดสอบกระสุนกลับบ้าน
-10510	Magic Circle_Assumptio	Magic Circle_สมมุติ
-10511	Moonlight Flower-Final	ดอกไม้แสงจันทร์-รอบชิงชนะเลิศ
+10504	Adventure Guild Mentor	Adventure Guild Mentor
+10505	Guild Supplies Manager	Guild Supplies Manager
+10506	Territory War - Twelve	Territory War - Twelve
+10507	Strange Stone Platform	Strange Stone Platform
+10508	P@{1} Green Bubble NPC	P@{1} Green Bubble NPC
+10509	Test Homing Projectile	Test Homing Projectile
+10510	Magic Circle_Assumptio	Magic Circle_Assumptio
+10511	Moonlight Flower-Final	Moonlight Flower-Final
 10512	Invalid number of pets	จำนวนสัตว์เลี้ยงไม่ถูกต้อง
 10513	Next-Day Sweep Rewards	รางวัลกวาดวันถัดไป
 10514	A bat-shaped headband.	ที่คาดผมรูปค้างคาว
@@ -528,22 +528,22 @@
 10527	Visit Seth (@{1}/@{2})	เยี่ยมชมเซท (@{1}/@{2})
 10528	Gather Medicinal Herbs	รวบรวมสมุนไพร
 10529	Novice Trial Complete!	การทดลองใช้งานมือใหม่เสร็จสมบูรณ์!
-10530	Enthusiastic Young Man	ชายหนุ่มผู้กระตือรือร้น
-10531	Adventurer Advancement	ความก้าวหน้าของนักผจญภัย
+10530	Enthusiastic Young Man	Young Man ผู้กระตือรือร้น
+10531	Adventurer Advancement	ความก้าวหน้าของ Adventurer
 10532	First Airship Boarding	ขึ้นเรือเหาะลำแรก
-10533	The Professor's Safety	ความปลอดภัยของศาสตราจารย์
+10533	The Professor's Safety	ความปลอดภัยของ Professor
 10534	Thoughtform Technology	เทคโนโลยีรูปแบบความคิด
-10535	The Professor's Ordeal	บททดสอบของศาสตราจารย์
-10536	To Prontera North Gate	ไปยังประตูทิศเหนือพรอนเทรา
-10537	Clear the Culvert @{1}	เคลียร์ท่อระบายน้ำ@{1}
+10535	The Professor's Ordeal	บททดสอบของ Professor
+10536	To Prontera North Gate	ไปยัง Gate ทิศเหนือพรอนเทรา
+10537	Clear the Culvert @{1}	เคลียร์ Culvert@{1}
 10538	Clear Orc Village @{1}	หมู่บ้านเคลียร์ออร์ค@{1}
 10539	Rat-Catching Operation	ปฏิบัติการจับหนู
 10540	Return to Payon Forest	กลับสู่ป่า Payon
-10541	The Professor's Letter	จดหมายศาสตราจารย์
-10542	The Frenzied Giant Ant	มดยักษ์บ้าคลั่ง
+10541	The Professor's Letter	จดหมาย Professor
+10542	The Frenzied Giant Ant	Giant Ant บ้าคลั่ง
 10543	Find the Wanted Poster	ค้นหาโปสเตอร์ที่ต้องการ
 10544	Stranded in the Desert	ติดอยู่ในทะเลทราย
-10545	Open Full-screen Image	เปิดภาพเต็มหน้าจอ
+10545	Open Full-screen Image	Open ภาพเต็มหน้าจอ
 10546	Find the Trial Officer	ค้นหาเจ้าหน้าที่พิจารณาคดี
 10547	Tap anywhere to close.	แตะที่ใดก็ได้เพื่อปิด
 10548	Novice Pool Draw Rules	กฎการจับสลากพูลมือใหม่
@@ -556,24 +556,24 @@
 10555	Clear the Natural Land	เคลียร์ดินแดนธรรมชาติ
 10556	Go back and try again.	ย้อนกลับไปและลองอีกครั้ง
 10557	Click here to view it.	คลิกที่นี่เพื่อดู
-10558	Fly Wing (Click Quest)	ฟลายวิง (คลิกเควส)
+10558	Fly Wing (Click Quest)	Fly Wing (คลิกเควส)
 10559	Canopied Merchant Cart	รถเข็นสินค้าแบบมีหลังคา
-10560	Leave the Epic Battle.	ออกจากการต่อสู้ครั้งยิ่งใหญ่
-10561	^{1}Defeat Pharaoh^{2}	^{1}เอาชนะฟาโรห์^{2}
+10560	Leave the Epic Battle.	Leave จากการต่อสู้ครั้งยิ่งใหญ่
+10561	^{1}Defeat Pharaoh^{2}	^{1}เอาชนะ Pharaoh^{2}
 10562	Help Summon the Dragon	ช่วยอัญเชิญมังกร
 10563	I'm looking for Eddga.	ตามหาเอ็ดก้าครับ
-10564	Who is Professor Ryan?	ศาสตราจารย์ไรอันคือใคร?
+10564	Who is Professor Ryan?	Professor Ryan คือใคร?
 10565	Describe What Happened	อธิบายสิ่งที่เกิดขึ้น
-10566	...Just one last time.	...เพียงครั้งสุดท้ายเท่านั้น
+10566	...Just one last time.	... เพียงครั้งสุดท้ายเท่านั้น
 10567	All right, rest it is.	เอาล่ะ พักผ่อนเถอะ
 10568	You already said that.	คุณพูดไปแล้ว
 10569	Whimper... Woof, woof!	คราง... โฮ่ง โฮ่ง!
 10570	A perfect performance!	การแสดงที่สมบูรณ์แบบ!
 10571	Of course we're going.	แน่นอนเรากำลังไป
-10572	Go to Guild Management	ไปที่การจัดการกิลด์
+10572	Go to Guild Management	ไปที่การจัดการ Guild
 10573	No Difficulty Selected	ไม่ได้เลือกความยาก
 10574	Instance opens in ${1}	เปิดใน${1}
-10575	Fresh-Faced Adventurer	นักผจญภัยหน้าใหม่
+10575	Fresh-Faced Adventurer	Adventurer หน้าใหม่
 10576	Disable Auto-Dismantle	ปิดใช้งานการแยกส่วนอัตโนมัติ
 10577	Entering\nFinal Stage!	เข้าสู่รอบสุดท้าย\n!
 10578	Auction: Yet to start!	Auction: Yet to start!
@@ -588,25 +588,25 @@
 10587	Registration Condition	เงื่อนไขการลงทะเบียน
 10588	Emote Pack Unlock Item	ไอเทมปลดล็อค Emote Pack
 10589	Basic Totem Skill Book	หนังสือทักษะ Totem ขั้นพื้นฐาน
-10590	Pet Selection Gift Box	กล่องของขวัญสำหรับสัตว์เลี้ยง
+10590	Pet Selection Gift Box	Pet Selection Gift Box
 10591	This Week's Star Value	มูลค่าดาวประจำสัปดาห์นี้
 10592	Looking for a Goofball	ตามหากู๊ฟบอล
 10593	At Least @{1} Openings	At Least@{1}Openings
 10594	Strong Solo Capability	ความสามารถเดี่ยวที่แข็งแกร่ง
 10595	Afternoon Variations	การเปลี่ยนแปลงช่วงบ่าย
-10596	Body Style - Expansion	ทรงตัว - ขยาย
-10597	Fire Style - Flame Jet	สไตล์ไฟ - Flame Jet
-10598	Fafnir - Summon Shield	Fafnir - อัญเชิญโล่
-10599	Fafnir - Summon Whelps	Fafnir - อัญเชิญลูกหมา
-10600	Memory Game-Top Damage	เกมหน่วยความจำ - ความเสียหายสูงสุด
-10601	Make Statue Fire Laser	ทำเลเซอร์ไฟรูปปั้น
-10602	Music Box Circular AoE	กล่องดนตรี Circular AoE
+10596	Body Style - Expansion	Body Style - Expansion
+10597	Fire Style - Flame Jet	Fire Style - Flame Jet
+10598	Fafnir - Summon Shield	Fafnir - Summon Shield
+10599	Fafnir - Summon Whelps	Fafnir - Summon Whelps
+10600	Memory Game-Top Damage	Memory Game-Top Damage
+10601	Make Statue Fire Laser	Make Statue Fire Laser
+10602	Music Box Circular AoE	Music Box Circular AoE
 10603	New Season Preparation	การเตรียมการสำหรับฤดูกาลใหม่
 10604	Pet Guardian Live@{1}D	สัตว์เลี้ยงผู้พิทักษ์สด@{1}D
-10605	^{1}[Horse Racing]^{2}	^{1}[การแข่งม้า]^{2}
+10605	^{1}[Horse Racing]^{2}	^{1}[Horse Racing]^{2}
 10606	Time to Explore Freely	ถึงเวลาสำรวจอย่างอิสระ
 10607	Help in a Time of Need	ช่วยเหลือในเวลาที่ต้องการ
-10608	Anomaly in the Pyramid	ความผิดปกติในพีระมิด
+10608	Anomaly in the Pyramid	ความผิดปกติใน Pyramid
 10609	Scattered Cargo Crates	ลังสินค้ากระจัดกระจาย
 10610	The Dog's New Discover	การค้นพบใหม่ของสุนัข
 10611	Equipment - Equip Gear	อุปกรณ์ - ติดตั้งเกียร์
@@ -617,12 +617,12 @@
 10616	Giant's Power - Orange	พลังยักษ์ - สีส้ม
 10617	Giant's Power - Purple	พลังยักษ์ - สีม่วง
 10618	Life Percentage - Blue	Life Percentage - สีฟ้า
-10619	Reinforced Armor Plate	แผ่นเกราะเสริมแรง
+10619	Reinforced Armor Plate	Reinforced Armor Plate
 10620	START_WITH_PC_LAUNCHER	START_WITH_PC_LAUNCHER
 10621	PATCH_WRITE_FILE_ERROR	PATCH_WRITE_FILE_ERROR
 10622	PATCH_RESTART_TIPS@{1}	PATCH_RESTART_TIPS@{1}
 10623	Real-Name Registration	การลงทะเบียนชื่อจริง
-10624	Life Skill Grandmaster	ปรมาจารย์ทักษะชีวิต
+10624	Life Skill Grandmaster	ปรมาจารย์ทักษะ Life
 10625	Select one S-Rank pet.	เลือกสัตว์เลี้ยงระดับ S หนึ่งตัว
 10626	Prelude II: Solar Leap	โหมโรง II: Solar Leap
 10627	Performance Successful	สำเร็จแล้ว
@@ -633,55 +633,55 @@
 10632	Cries Beside the Stall	ร้องไห้ข้างแผงลอย
 10633	Glory Before the Tower	ความรุ่งโรจน์ก่อนหอคอย
 10634	No Skill Books for now	ไม่มีหนังสือทักษะในขณะนี้
-10635	Minor Water Resistance	ต้านทานน้ำได้เล็กน้อย
-10636	Minor Earth Resistance	ความต้านทานดินเล็กน้อย
-10637	Low-Tier Magic Defense	การป้องกันเวทมนตร์ระดับต่ำ
-10638	Pet Shard: Lava Lizard	Pet Shard: กิ้งก่าลาวา
-10639	Pet Shard: Retribution	ชิ้นส่วนสัตว์เลี้ยง: การแก้แค้น
-10640	Pet Shard: Sarah Irene	ชิ้นส่วนสัตว์เลี้ยง: ซาราห์ ไอรีน
-10641	Pet Shard: Miyabi Doll	Pet Shard: ตุ๊กตามิยาบิ
-10642	Wild Rose Knight Shard	ชิ้นส่วนอัศวินกุหลาบป่า
+10635	Minor Water Resistance	Minor Water Resistance
+10636	Minor Earth Resistance	Minor Earth Resistance
+10637	Low-Tier Magic Defense	Low-Tier Magic Defense
+10638	Pet Shard: Lava Lizard	Pet Shard: Lava Lizard
+10639	Pet Shard: Retribution	Pet Shard: Retribution
+10640	Pet Shard: Sarah Irene	Pet Shard: Sarah Irene
+10641	Pet Shard: Miyabi Doll	Pet Shard: Miyabi Doll
+10642	Wild Rose Knight Shard	Wild Rose Knight Shard
 10643	Cat o' Nine-Tail Shard	Cat o' Nine-Tail Shard
-10644	Fluffy Bunny - Limited	กระต่ายขนปุย - จำนวนจำกัด
-10645	Orange Soul Echo Chest	กล่องสะท้อนวิญญาณสีส้ม
-10646	Novice Chest--Lv. @{1}	หีบมือใหม่--Lv.@{1}
+10644	Fluffy Bunny - Limited	Fluffy Bunny - Limited
+10645	Orange Soul Echo Chest	Orange Soul Echo Chest
+10646	Novice Chest--Lv. @{1}	Novice Chest--Lv. @{1}
 10647	Gift one ${2} to ${1}?	มอบ${2}หนึ่งอันให้กับ${1}?
-10648	Sharpened Honing Stone	หินลับคม
-10649	Blue Headgear Material	วัสดุหมวกสีน้ำเงิน
-10650	Tier @{1} Green Weapon	เทียร์@{1}อาวุธสีเขียว
-10651	Change Guild Name Card	เปลี่ยนชื่อกิลด์
+10648	Sharpened Honing Stone	Sharpened Honing Stone
+10649	Blue Headgear Material	Blue Headgear Material
+10650	Tier @{1} Green Weapon	Tier @{1} Green Weapon
+10651	Change Guild Name Card	Change Guild Name Card
 10652	Pet Training Diary III	Pet Training Diary III
-10653	Cross Star Core - Blue	แกนครอสสตาร์ - สีน้ำเงิน
-10654	Cross Star Core - Gray	แกนครอสสตาร์ - สีเทา
-10655	Moon Star Core - Green	แกนดาวพระจันทร์ - สีเขียว
-10656	Sun Star Core - Orange	แกนซันสตาร์ - สีส้ม
-10657	Sun Star Core - Purple	แกนซันสตาร์ - สีม่วง
-10658	Solar Star Core - Gray	Solar Star Core - สีเทา
-10659	Prism Star Core - Blue	แกนปริซึมสตาร์ - สีฟ้า
-10660	Prism Star Core - Gray	แกนปริซึมสตาร์ - สีเทา
-10661	Advanced Forging Totem	Totem การตีขึ้นรูปขั้นสูง
-10662	Oak Scroll·Cloak-Green	Oak Scroll·เสื้อคลุม-เขียว
-10663	Fate Scroll·Armor-Blue	Fate Scroll·เกราะ-น้ำเงิน
-10664	Ymir Scroll·Armor-Blue	Ymir Scroll·เกราะ-น้ำเงิน
-10665	Cute Sparkling Balloon	ลูกโป่งสปาร์คลิ่งน่ารัก
-10666	Yor's Kitchen Creation	ยอสร้างสรรค์ครัว
-10667	Superior Spirit Potion	ยาวิเศษแห่งวิญญาณ
-10668	Superior Yellow Potion	ยาเหลืองที่เหนือกว่า
-10669	Superior Orange Potion	ยาน้ำส้มสุพีเรีย
-10670	Potent Breath Medicine	ยารักษาโรคลมหายใจที่มีศักยภาพ
-10671	Gentle Breath Medicine	ยาระงับกลิ่นปาก
-10672	Lv. @{1} Katar (No BD)	เลเวล@{1}กาตาร์ (ไม่มี BD)
-10673	Lv. @{1} Staff (No BD)	เลเวลพนักงาน@{1}(ไม่มี BD)
-10674	Basic Two-Handed Sword	ดาบสองมือพื้นฐาน
-10675	Novice Staff of Wisdom	ไม้เท้าแห่งปัญญามือใหม่
-10676	Two-Tone - Blue/Yellow	ทูโทน - น้ำเงิน/เหลือง
-10677	Desolate Mist Bagpipes	ปี่ท่อหมอกรกร้าง
-10678	Throat of the Ash Tree	คอของต้นแอช
+10653	Cross Star Core - Blue	Cross Star Core - Blue
+10654	Cross Star Core - Gray	Cross Star Core - Gray
+10655	Moon Star Core - Green	Moon Star Core - Green
+10656	Sun Star Core - Orange	Sun Star Core - Orange
+10657	Sun Star Core - Purple	Sun Star Core - Purple
+10658	Solar Star Core - Gray	Solar Star Core - Gray
+10659	Prism Star Core - Blue	Prism Star Core - Blue
+10660	Prism Star Core - Gray	Prism Star Core - Gray
+10661	Advanced Forging Totem	Advanced Forging Totem
+10662	Oak Scroll·Cloak-Green	Oak Scroll·Cloak-Green
+10663	Fate Scroll·Armor-Blue	Fate Scroll·Armor-Blue
+10664	Ymir Scroll·Armor-Blue	Ymir Scroll·Armor-Blue
+10665	Cute Sparkling Balloon	Cute Sparkling Balloon
+10666	Yor's Kitchen Creation	Yor's Kitchen Creation
+10667	Superior Spirit Potion	Superior Spirit Potion
+10668	Superior Yellow Potion	Superior Yellow Potion
+10669	Superior Orange Potion	Superior Orange Potion
+10670	Potent Breath Medicine	Potent Breath Medicine
+10671	Gentle Breath Medicine	Gentle Breath Medicine
+10672	Lv. @{1} Katar (No BD)	Lv. @{1} Katar (No BD)
+10673	Lv. @{1} Staff (No BD)	Lv. @{1} Staff (No BD)
+10674	Basic Two-Handed Sword	Basic Two-Handed Sword
+10675	Novice Staff of Wisdom	Novice Staff of Wisdom
+10676	Two-Tone - Blue/Yellow	Two-Tone - Blue/Yellow
+10677	Desolate Mist Bagpipes	Desolate Mist Bagpipes
+10678	Throat of the Ash Tree	Throat of the Ash Tree
 10679	Monster not yet killed	มอนสเตอร์ยังไม่ถูกฆ่า
 10680	Not enough completions	การดำเนินการไม่เพียงพอ
 10681	No Job Talent selected	ไม่ได้เลือกผู้มีความสามารถพิเศษในการทำงาน
-10682	Time Rift Gold Casting	งานหล่อทอง Time Rift
-10683	Card: Baby Desert Wolf	การ์ด: หมาป่าทะเลทรายตัวน้อย
+10682	Time Rift Gold Casting	Time Rift Gold Casting
+10683	Card: Baby Desert Wolf	Card: Baby Desert Wolf
 10684	Divine Totem Synthesis	การสังเคราะห์โทเทมศักดิ์สิทธิ์
 10685	Card Slotting Details:	รายละเอียดช่องใส่การ์ด:
 10686	Codex Function Details	รายละเอียดฟังก์ชั่น Codex
@@ -690,57 +690,57 @@
 10689	I Have the Highest Bid	ฉันมีผู้เสนอราคาสูงสุด
 10690	Summon the Four Saints	อัญเชิญสี่นักบุญ
 10691	Holy Light Suppression	Holy Light Suppression
-10692	Reflect Damage Passive	สะท้อนความเสียหายแบบพาสซีฟ
+10692	Reflect Damage Passive	Reflect Damage Passive
 10693	Defeat Normal Monsters	กำจัดมอนสเตอร์ธรรมดา
-10694	Dismantle @{1} Cannons	ถอดปืนใหญ่@{1}
+10694	Dismantle @{1} Cannons	ถอด Cannons@{1}
 10695	Monster Reward Preview	พรีวิวรางวัลมอนสเตอร์
 10696	Chapter Reading Reward	รางวัลการอ่านบท
 10697	All Research Completed	การวิจัยทั้งหมดเสร็จสมบูรณ์
 10698	Chapter of Bygone Days	บทแห่งวันอดีต
-10699	Sanctuary [Buff Check]	Sanctuary [ตรวจสอบบัฟ]
+10699	Sanctuary [Buff Check]	Sanctuary [Buff Check]
 10700	Unlimited Acceleration	อัตราเร่งไม่จำกัด
-10701	Sustained Acceleration	การเร่งความเร็วอย่างต่อเนื่อง
+10701	Sustained Acceleration	Acceleration อย่างต่อเนื่อง
 10702	Cart Tornado - Enhance	รถเข็น Tornado - เสริมประสิทธิภาพ
-10703	Transform into Lunatic	แปลงร่างเป็นคนบ้า
+10703	Transform into Lunatic	แปลงร่างเป็น Lunatic
 10704	Buff Applied to Allies	ใช้กับพันธมิตร
 10705	BDTarget_LogicData_Tag	BDTarget_LogicData_Tag
 10706	Damage Reduction Orbit	วงโคจรลดความเสียหาย
-10707	Invincible Escort Cart	รถเข็นคุ้มกันอยู่ยงคงกระพัน
+10707	Invincible Escort Cart	รถเข็นคุ้มกัน Invincible
 10708	Dragonblood Protection	น้ำยาป้องกันเลือดมังกร
 10709	Bride Character Marker	ปากกามาร์กเกอร์ตัวอักษรเจ้าสาว
 10710	Quick Target Selection	การเลือกเป้าหมายด่วน
 10711	Spellbook - Soul Burst	คัมภีร์คาถา - Soul Burst
-10712	Bell Activation Effect	เอฟเฟกต์การเปิดใช้งานเบลล์
+10712	Bell Activation Effect	เอฟเฟกต์การเปิดใช้งาน Bell
 10713	Pain of the Wind Blade	ความเจ็บปวดของดาบลม
 10714	ATK and MATK Reduction	ลด ATK และ MATK
 10715	Ranged Damage Increase	เพิ่มความเสียหายระยะไกล
-10716	Continuous Area Shield	ชิลด์พื้นที่ต่อเนื่อง
+10716	Continuous Area Shield	Shield พื้นที่ต่อเนื่อง
 10717	DEF and MDEF Reduction	DEF และ MDEF ลด
 10718	Mist Formation Stealth	การซ่อนตัวของการก่อตัวของหมอก
-10719	Player Accelerate/Slow	ผู้เล่นเร่งความเร็ว/ช้า
+10719	Player Accelerate/Slow	ผู้เล่นเร่งความเร็ว/Slow
 10720	Bell Untargetable Buff	Bell บัฟที่ไม่สามารถกำหนดเป้าหมายได้
 10721	Stationary Blue Bubble	เครื่องเขียน Bubble สีน้ำเงิน
 10722	Sacred Music True Form	ดนตรีศักดิ์สิทธิ์ รูปแบบที่แท้จริง
-10723	Shield Casting Passive	การหล่อโล่แบบพาสซีฟ
+10723	Shield Casting Passive	การหล่อโล่แบบ Passive
 10724	Switch Earth Drive@{1}	สวิตช์ Earth Drive@{1}
 10725	Slashing Strike Floors	พื้นกระแทกอย่างเจ็บแสบ
-10726	Hundred Spear Mode@{1}	โหมดร้อยหอก@{1}
+10726	Hundred Spear Mode@{1}	โหมดร้อย Spear@{1}
 10727	Dark Illusion_S@{1}_BD	ภาพลวงตามืด_S@{1}_BD
 10728	Reduce Twilight Ray CD	ลดซีดี Twilight Ray
 10729	Pinpoint Attack Stacks	ระบุสแต็คการโจมตี
 10730	Dual-Wield Mastery@{1}	การเรียนรู้ด้วยอาวุธคู่@{1}
 10731	Damage Increase Effect	เอฟเฟกต์เพิ่มความเสียหาย
-10732	Rolling Cutter Passive	เครื่องรีดแบบพาสซีฟ
-10733	Holy Light Convergence	การบรรจบกันของแสงศักดิ์สิทธิ์
+10732	Rolling Cutter Passive	เครื่องรีดแบบ Passive
+10733	Holy Light Convergence	การบรรจบกันของ Holy Light
 10734	Claim ${1} Map Rewards	รับรางวัลแผนที่${1}
 10735	Win ${1} Siege Battles	ชนะการต่อสู้ล้อม${1}
 10736	Don't show again today	ไม่ต้องแสดงอีกในวันนี้
 10737	Complete Tutorial ${1}	บทช่วยสอนที่สมบูรณ์${1}
 10738	Reach Title Level ${1}	เข้าถึงระดับหัวเรื่อง${1}
 10739	Complete Instance ${1}	ทำอินสแตนซ์ให้สมบูรณ์${1}
-10740	^{1}Defeat Dracula^{2}	^{1}เอาชนะแดร็กคูล่า^{2}
-10741	^{1}Defeat Gryphon^{2}	^{1}เอาชนะกริฟฟอน^{2}
-10742	^{1}[Divine Realm]^{2}	^{1}[อาณาจักรศักดิ์สิทธิ์]^{2}
+10740	^{1}Defeat Dracula^{2}	^{1}เอาชนะ Dracula^{2}
+10741	^{1}Defeat Gryphon^{2}	^{1}เอาชนะ Gryphon^{2}
+10742	^{1}[Divine Realm]^{2}	^{1}[Divine Realm]^{2}
 10743	Main Battlefield Rules	กฎสนามรบหลัก
 10744	Tournament Description	คำอธิบายการแข่งขัน
 10745	Trade Exchange Details	รายละเอียดการแลกเปลี่ยนการค้า
@@ -774,8 +774,8 @@
 10773	^{1}Body Tempering^{2}	^{1}แบ่งเบาร่างกาย^{2}
 10774	^{1}Power of Earth^{2}	^{1}พลังแห่งโลก^{2}
 10775	^{1}Weapon Enhance^{2}	^{1}เสริมอาวุธ^{2}
-10776	Concussive Shield Bash	ทุบตีโล่แบบสั่นสะเทือน
-10777	Brandish Spear Enhance	เสริมหอกแบรนดิช
+10776	Concussive Shield Bash	Bash โล่แบบสั่นสะเทือน
+10777	Brandish Spear Enhance	เสริม Brandish Spear
 10778	Basic Physical Defense	การป้องกันทางกายภาพขั้นพื้นฐาน
 10779	Minor Ghost Resistance	ต้านทานผีเล็กน้อย
 10780	Advanced Magic Defense	การป้องกันเวทมนตร์ขั้นสูง
@@ -802,8 +802,8 @@
 10801	Failed to detect mode.	ล้มเหลวในการตรวจหาโหมด
 10802	Invalid top-up option.	ตัวเลือกการเติมเงินไม่ถูกต้อง
 10803	You're not in a party.	คุณไม่ได้อยู่ในงานปาร์ตี้
-10804	Garrisoned Guild: ${1}	กิลด์ที่ถูกคุมขัง:${1}ประตู
-10805	Exit Stronghold Battle	ออกจากการต่อสู้ฐานที่มั่น
+10804	Garrisoned Guild: ${1}	Guild ที่ถูกคุมขัง:${1}ประตู
+10805	Exit Stronghold Battle	ออกจาก Stronghold Battle
 10806	Player Limit ${1}/${2}	ขีดจำกัดผู้เล่น${1}/${2}ลิงค์ผู้เล่น
 10807	Input cannot be empty.	ต้องไม่เว้นว่าง
 10808	${1}'s Book Collection	คอลเลกชันหนังสือของ${1}
@@ -811,7 +811,7 @@
 10810	Equipment Preset error	ข้อผิดพลาดการตั้งค่าอุปกรณ์ล่วงหน้า
 10811	The cargo has expired.	สินค้าหมดอายุแล้ว
 10812	Cargo has been loaded.	มีการโหลดสินค้าแล้ว
-10813	Guild group not found.	ไม่พบกลุ่มกิลด์
+10813	Guild group not found.	ไม่พบกลุ่ม Guild
 10814	Unlock · Solar Chariot	ปลดล็อค · Solar Chariot
 10815	A Gathering of Friends	การรวมตัวของเพื่อน
 10816	Two Spirits in Harmony	สองวิญญาณประสานกัน
@@ -825,38 +825,38 @@
 10824	Compliment her sweater	ชมเสื้อสเวตเตอร์ของเธอ
 10825	The professor sent me.	อาจารย์ส่งมาครับ
 10826	Thank you, adventurer!	ขอบคุณนักผจญภัย!
-10827	Create Adventure Guild	สร้างกิลด์ผจญภัย
+10827	Create Adventure Guild	สร้าง Guild ผจญภัย
 10828	Place It in the Device	วางลงในอุปกรณ์
 10829	Damage +@{1}%. Stacks.	+@{1}%สแต็ค
 10830	Coffin uses skill @{1}	โลงศพใช้ทักษะ@{1}
 10831	Coffin Summoned marker	เครื่องหมายเรียกโลงศพ
-10832	Full-screen Shield AoE	ชิลด์ AoE แบบเต็มหน้าจอ
+10832	Full-screen Shield AoE	Shield AoE แบบเต็มหน้าจอ
 10833	Generate Get Help Code	สร้างรับรหัสช่วยเหลือ
 10834	Player Requesting Help	กำลังขอความช่วยเหลือ
 10835	System build replaced.	โครงสร้างระบบถูกแทนที่
-10836	Life increased by ${1}	ชีวิตเพิ่มขึ้นโดย${1}
+10836	Life increased by ${1}	Life เพิ่มขึ้นโดย${1}
 10837	Intelligence Resonance	เสียงสะท้อนอัจฉริยะ
 10838	Chest Level-up Rewards	รางวัลการอัพเลเวลหน้าอก
-10839	Wind Walk【Buff Effect】	Wind Walk【เอฟเฟกต์บัฟ】
-10840	Blitz Beat【Skill Mode】	Blitz Beat【โหมดทักษะ】
-10841	Blitz Beat【Stat Boost】	Blitz Beat【เพิ่มสถิติ】
-10842	White Circle Underfoot	วงกลมสีขาว ใต้ฝ่าเท้า
+10839	Wind Walk【Buff Effect】	Wind Walk【Buff Effect】
+10840	Blitz Beat【Skill Mode】	Blitz Beat【Skill Mode】
+10841	Blitz Beat【Stat Boost】	Blitz Beat【Stat Boost】
+10842	White Circle Underfoot	วงกลม White ใต้ฝ่าเท้า
 10843	Silk Spit—@{1} Players	Silk Spit— ผู้เล่น@{1}
-10844	Mistress Basic Attack.	การโจมตีขั้นพื้นฐานของนายหญิง
-10845	Roda Frog Cone - Water	Roda กบโคน-น้ำ
+10844	Mistress Basic Attack.	การโจมตีขั้นพื้นฐานของ Mistress
+10845	Roda Frog Cone - Water	Roda Frog Cone - Water
 10846	Elder Willow Cone-Fire	Elder Willow Cone-Fire
 10847	Enhanced Double Strafe	เครื่องยิงกราดคู่ที่ได้รับการปรับปรุง
-10848	The One with the Sword	ผู้ที่มีดาบ
+10848	The One with the Sword	ผู้ที่มี Sword
 10849	Assassin Normal Attack	Assassin Normal Attack
 10850	No Member Applications	ไม่มีการสมัครสมาชิก
 10851	Izlude Map Description	คำอธิบายแผนที่ Izlude
-10852	Geffen Map Description	คำอธิบายแผนที่เกฟเฟน
+10852	Geffen Map Description	คำอธิบายแผนที่ Geffen
 10853	Morroc Map Description	คำอธิบายแผนที่ Morroc
 10854	Next question in ${1}s	คำถามถัดไปใน${1}s
 10855	Drag to select a target	ลากเพื่อเลือกเป้าหมาย
-10856	Baphomet Attack Enhance	เสริมพลังโจมตีบาโฟเมต
-10857	Urgent Treatment Needed	จำเป็นต้องได้รับการรักษาอย่างเร่งด่วน
-10858	Academy Journal: Recess	วารสารสถาบัน: ปิดภาคเรียน
+10856	Baphomet Attack Enhance	เสริมพลังโจมตี Baphomet
+10857	Urgent Treatment Needed	Urgent Treatment Needed
+10858	Academy Journal: Recess	Academy Journal: Recess
 10859	${1} monsters remaining	มอนสเตอร์${1}ที่เหลืออยู่
 10860	Head to the Chaos Ruins	มุ่งหน้าสู่ Chaos Ruins
 10861	Starshard Dragon Unseal	สตาร์ฮาร์ด ดราก้อน Unseal
@@ -876,24 +876,24 @@
 10875	Universal Damage Shield	โล่ความเสียหายสากล
 10876	Shield Effect Received%	เอฟเฟกต์โล่ที่ได้รับ%
 10877	Challenge the Protector	ท้าทายผู้พิทักษ์
-10878	Encounter the Evil Boss	เผชิญหน้ากับบอสตัวร้าย
+10878	Encounter the Evil Boss	เผชิญหน้ากับ Evil Boss
 10879	Battle Merit Settlement	ข้อตกลงสมรภูมิรบ
 10880	${1}'s Spacetime Emblem	สัญลักษณ์ Spacetime ของ${1}
-10881	Guild Merit Leaderboard	กระดานผู้นำบุญกิลด์
+10881	Guild Merit Leaderboard	กระดานผู้นำบุญ Guild
 10882	Reach @{1} Total Points	ถึงคะแนนรวมของ@{1}
-10883	Whoosh! Whoosh! Whoosh!	โห่!โห่!โห่!
+10883	Whoosh! Whoosh! Whoosh!	โห่! โห่! โห่!
 10884	Fall asleep at the inn.	เผลอหลับไปในโรงเตี๊ยม
 10885	Reach @{1} Battle Merit	เข้าถึง@{1}Battle Merit
 10886	Equip @{1} blue Echoes.	ติดตั้ง Echoes สีฟ้า@{1}
-10887	Kill @{1} Orc Skeletons	ฆ่าโครงกระดูกออร์ค@{1}
+10887	Kill @{1} Orc Skeletons	KillOrc Skeletons@{1}
 10888	Claim @{1} area rewards	รับรางวัลพื้นที่@{1}
 10889	Obtain the Alpaca mount	รับพาหนะ Alpaca
 10890	Complete Pet Tower once	ผ่าน Pet Tower หนึ่งครั้ง
 10891	Equip the Divine Totem.	สวมใส่ Divine Totem
-10892	Talk to the Guide again	พูดคุยกับไกด์อีกครั้ง
-10893	Talk to your companions	พูดคุยกับเพื่อนของคุณ
+10892	Talk to the Guide again	Talk กับไกด์อีกครั้ง
+10893	Talk to your companions	Talk กับเพื่อนของคุณ
 10894	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
-10895	Life +@{1}%, ATK +@{2}%	พลังชีวิต +@{1}%, ATK +@{2}%
+10895	Life +@{1}%, ATK +@{2}%	พลัง Life +@{1}%, ATK +@{2}%
 10896	Current Encounter Group	กลุ่มการเผชิญหน้าปัจจุบัน
 10897	Outfit Not Yet Unlocked	ชุดยังไม่ได้ปลดล็อค
 10898	Third Class Advancement	ความก้าวหน้าระดับสาม
@@ -914,8 +914,8 @@
 10913	Approach the giant ant.	Approach the giant ant.
 10914	Complete the shell game	จบเกมเชลล์
 10915	Ask about the next move	Ask about the next move
-10916	So lucky! I'll be next!	โชคดีจัง!ฉันจะเป็นรายต่อไป!
-10917	We're rich! We're rich!	เรารวย!เรารวยแล้ว!
+10916	So lucky! I'll be next!	โชคดีจัง! ฉันจะเป็นรายต่อไป!
+10917	We're rich! We're rich!	เรารวย! เรารวยแล้ว!
 10918	Upper-Left Revive Point	จุดฟื้นฟูด้านซ้ายบน
 10919	Lower-Left Revive Point	จุดฟื้นคืนชีพล่างซ้าย
 10920	Main-Hand/Off-Hand Slot	สล็อตมือหลัก/รองมือ
@@ -923,7 +923,7 @@
 10922	Official Recommendation	คำแนะนำอย่างเป็นทางการ
 10923	Suggestions from Others	คำแนะนำจากผู้อื่น
 10924	Friend Gifts - Benefits	ของขวัญจากเพื่อน - สิทธิประโยชน์
-10925	Victory of the Covenant	ชัยชนะแห่งพันธสัญญา
+10925	Victory of the Covenant	Victory of the Covenant
 10926	Price (Ascending Order)	(ลำดับจากน้อยไปหามาก)
 10927	It can't go any higher!	ขึ้นไปสูงกว่านี้ไม่ได้แล้ว!
 10928	Keep up to ${1} records	เก็บบันทึก${1}ได้สูงสุด
@@ -942,14 +942,14 @@
 10941	Friend Recommendations:	คำแนะนำจากเพื่อน:
 10942	Active Mount Attributes	คุณสมบัติ Mount ที่ใช้งานอยู่
 10943	Opposite-Gender Players	ผู้เล่นเพศตรงข้าม
-10944	Leave the current raid?	ออกจากการโจมตีปัจจุบันหรือไม่
+10944	Leave the current raid?	Leave จากการโจมตีปัจจุบันหรือไม่
 10945	This player is offline.	เครื่องเล่นนี้ออฟไลน์อยู่
 10946	Invalid party objective	วัตถุประสงค์ปาร์ตี้ไม่ถูกต้อง
 10947	Default Listing Message	ข้อความรายการเริ่มต้น
 10948	Recommended Party Size:	ขนาดปาร์ตี้ที่แนะนำ:
 10949	Rent Job-exclusive ${1}	เช่างานพิเศษ${1}
 10950	Claim ${1}'s Map Reward	รับรางวัลแผนที่ของ${1}
-10951	Guild Creation Response	การตอบสนองการสร้างกิลด์
+10951	Guild Creation Response	การตอบสนองการสร้าง Guild
 10952	Share text is too long.	ข้อความแชร์ยาวเกินไป
 10953	${1} reaches level ${2}	${1}ถึงระดับ${2}
 10954	Level-up in progress...	อยู่ระหว่างการอัปเลเวล...
@@ -957,45 +957,45 @@
 10956	${1}'s Get Help Request	คำขอความช่วยเหลือของ${1}
 10957	Helped Today: ${1}/${2}	ช่วยวันนี้:${1}/${2}
 10958	Already refreshed today	รีเฟรชแล้ววันนี้
-10959	Above the Sea of Clouds	เหนือทะเลเมฆ
-10960	Card: Goblin Steamrider	: ก็อบลินสตีมไรเดอร์
-10961	Portrait Card: Orc Hero	การ์ดแนวตั้ง: ออร์คฮีโร่
-10962	Portrait Card: Mistress	การ์ดแนวตั้ง: นายหญิง
-10963	Portrait Card: Baphomet	การ์ดรูปเหมือน: Baphomet
-10964	Portrait Card: Deviling	การ์ดแนวตั้ง: Deviling
-10965	Portrait Card: Angeling	การ์ดแนวตั้ง: Angeling
-10966	Portrait Card: Orc Lord	การ์ดรูปเหมือน: ออร์คลอร์ด
-10967	Portrait Card: Phreeoni	การ์ดแนวตั้ง: Phreeoni
+10959	Above the Sea of Clouds	Above the Sea of Clouds
+10960	Card: Goblin Steamrider	Card: Goblin Steamrider
+10961	Portrait Card: Orc Hero	Portrait Card: Orc Hero
+10962	Portrait Card: Mistress	Portrait Card: Mistress
+10963	Portrait Card: Baphomet	Portrait Card: Baphomet
+10964	Portrait Card: Deviling	Portrait Card: Deviling
+10965	Portrait Card: Angeling	Portrait Card: Angeling
+10966	Portrait Card: Orc Lord	Portrait Card: Orc Lord
+10967	Portrait Card: Phreeoni	Portrait Card: Phreeoni
 10968	Interaction unavailable	ไม่พร้อมใช้งาน
 10969	Must equip ^{1}${1}^{2}	ต้องติดตั้ง ^{1}${1}^{2}
 10970	Must carry ^{1}${1}^{2}	ต้องพกไว้ ^{1}${1}^{2}
 10971	Clear 【${1}】 difficulty	ล้าง 【${1}】 ความยาก
 10972	You're not a Lucky Star	คุณไม่ใช่ Lucky Star
 10973	No corresponding skill!	ไม่มีทักษะที่สอดคล้องกัน!
-10974	Novice Two-Handed Sword	ดาบสองมือมือใหม่
+10974	Novice Two-Handed Sword	Novice Two-Handed Sword
 10975	Gain ${1}% Holy damage.	ได้รับ${1}% ความเสียหายอันศักดิ์สิทธิ์
 10976	Damage Reduction +@{1}%	การลดความเสียหาย +@{1}%
-10977	Permanent Joint Passive	ข้อต่อถาวรแบบพาสซีฟ
+10977	Permanent Joint Passive	ข้อต่อถาวรแบบ Passive
 10978	Convert Armor to Poison	แปลงเกราะเป็นพิษ
 10979	Takes Damage over Time.	รับความเสียหายต่อเนื่อง
 10980	Movement Speed Increase	เพิ่มความเร็วในการเคลื่อนที่
 10981	Damage Increase +@{1}%.	เพิ่มความเสียหาย +@{1}%
-10982	Holy Light Resurrection	การฟื้นคืนชีพด้วยแสงศักดิ์สิทธิ์
-10983	Fire and Earth Research	การวิจัยไฟและโลก
-10984	Magic Absorption - Card	การดูดซึมเวทย์มนตร์ - การ์ด
-10985	Physical Reflect - Card	ตัวสะท้อนทางกายภาพ - การ์ด
+10982	Holy Light Resurrection	Holy Light Resurrection
+10983	Fire and Earth Research	Fire and Earth Research
+10984	Magic Absorption - Card	Magic Absorption - Card
+10985	Physical Reflect - Card	Physical Reflect - Card
 10986	Save shortcut settings?	บันทึกการตั้งค่าทางลัดหรือไม่
-10987	Compressed Gas Canister	ถังอัดแก๊ส
-10988	Skill@{1}Goblet Shatter	@{1}ถ้วยแตก
-10989	Skill@{1}Kun Appearance	ทักษะ@{1}คุนปรากฏตัว
-10990	Jellyfish Ranged Attack	แมงกะพรุนโจมตีระยะไกล
-10991	Skill@{1} Orbiting Fins	ทักษะ@{1}ครีบโคจร
-10992	Skill@{1} Fin Formation	@{1}การสร้างครีบ
-10993	Skill@{1} Aggro Control	@{1}การควบคุม Aggro
-10994	Summon Airship Monsters	อัญเชิญมอนสเตอร์เรือเหาะ
-10995	Rectangular Sonic Blast	Sonic Blast ทรงสี่เหลี่ยม
-10996	Memory Game-Top Warning	Memory Game-คำเตือนยอดนิยม
-10997	Kun Dives (Boss Action)	Kun Dives (บอสแอคชั่น)
-10998	Jellyfish Death Cleanup	การล้างพิษแมงกะพรุน
-10999	Generic Finishing Skill	ทักษะการตกแต่งทั่วไป
-11000	Mastering Normal Attack	เชี่ยวชาญการโจมตีปกติ
+10987	Compressed Gas Canister	Compressed Gas Canister
+10988	Skill@{1}Goblet Shatter	Skill@{1}Goblet Shatter
+10989	Skill@{1}Kun Appearance	Skill@{1}Kun Appearance
+10990	Jellyfish Ranged Attack	Jellyfish Ranged Attack
+10991	Skill@{1} Orbiting Fins	Skill@{1} Orbiting Fins
+10992	Skill@{1} Fin Formation	Skill@{1} Fin Formation
+10993	Skill@{1} Aggro Control	Skill@{1} Aggro Control
+10994	Summon Airship Monsters	Summon Airship Monsters
+10995	Rectangular Sonic Blast	Rectangular Sonic Blast
+10996	Memory Game-Top Warning	Memory Game-Top Warning
+10997	Kun Dives (Boss Action)	Kun Dives (Boss Action)
+10998	Jellyfish Death Cleanup	Jellyfish Death Cleanup
+10999	Generic Finishing Skill	Generic Finishing Skill
+11000	Mastering Normal Attack	Mastering Normal Attack

@@ -4,7 +4,7 @@
 16003	Physical Damage increased by ${1}%.	เพิ่มขึ้น${1}%
 16004	Recruitment withdrawn successfully.	ถอนการรับสมัครเรียบร้อยแล้ว
 16005	Not enough items. Unable to unlock!	รายการไม่เพียงพอปลดล็อคไม่ได้!
-16006	Not enough Vivify. Unable to craft!	มีชีวิตชีวาไม่เพียงพอไม่สามารถประดิษฐ์ได้!
+16006	Not enough Vivify. Unable to craft!	Vivify ไม่เพียงพอไม่สามารถประดิษฐ์ได้!
 16007	Action ${1} Unlock Requirement: ${2}	ข้อกำหนดในการปลดล็อคการดำเนินการ${1}:${2}
 16008	Closes automatically in ${1} seconds	ปิดโดยอัตโนมัติใน${1}วินาที
 16009	Waiting for the new Season to begin.	กำลังรอให้ซีซั่นใหม่เริ่มต้นขึ้น
@@ -14,9 +14,9 @@
 16013	Complete @{1} Trades at the Exchange	ทำการซื้อขาย@{1}ให้เสร็จสมบูรณ์ที่ตลาดแลกเปลี่ยน
 16014	Choose a path to begin your journey!	เลือกเส้นทางเพื่อเริ่มต้นการเดินทางของคุณ!
 16015	Automatically ride the Balloon Mount	ขึ้นบอลลูนโดยอัตโนมัติ
-16016	Kill @{1} monsters in the Munak Cave	ฆ่าสัตว์ประหลาด@{1}ในถ้ำ Munak
-16017	Perform the opening dance with Luna.	แสดงการเต้นรำเปิดกับลูน่า
-16018	Head to Grandpa Bob's yard together.	มุ่งหน้าไปยังสนามหญ้าของคุณปู่บ๊อบด้วยกัน
+16016	Kill @{1} monsters in the Munak Cave	Kill สัตว์ประหลาด@{1}ในถ้ำ Munak
+16017	Perform the opening dance with Luna.	แสดงการเต้นรำเปิดกับ Luna
+16018	Head to Grandpa Bob's yard together.	มุ่งหน้าไปยังสนามหญ้าของ GrandpaBob ด้วยกัน
 16019	Check out the Weapon dealer's stall.	ตรวจสอบแผงขายอาวุธ
 16020	Tell the professor the race results.	บอกผลการแข่งขันกับอาจารย์
 16021	Participate in the Guild Capital War	เข้าร่วมใน Guild Capital War
@@ -24,10 +24,10 @@
 16023	Use a certain number of Skill Points	ใช้แต้มทักษะจำนวนหนึ่ง
 16024	Find Poya and accept his commission.	ค้นหา Poya และยอมรับค่าคอมมิชชั่นของเขา
 16025	Go to Ant Hell to find the professor	ไปที่ Ant Hell เพื่อตามหาศาสตราจารย์
-16026	Ask the Pet Merchant what to do next	ถามพ่อค้าสัตว์เลี้ยงว่าต้องทำอย่างไรต่อไป
+16026	Ask the Pet Merchant what to do next	ถาม Pet Merchant ว่าต้องทำอย่างไรต่อไป
 16027	Encounter the mysterious woman again	พบกับหญิงสาวลึกลับอีกครั้ง
 16028	Complete the Phantom Realm Challenge	พิชิต Phantom Realm Challenge
-16029	Follow Bobo to Rent a Madogear Pilot	ติดตาม Bobo เพื่อเช่านักบิน Madogear
+16029	Follow Bobo to Rent a Madogear Pilot	ติดตาม Bobo เพื่อเช่า Madogear Pilot
 16030	Please select ${1} Encounters first.	โปรดเลือกการเผชิญหน้า${1}ก่อน
 16031	Affects your damage against monsters	ส่งผลต่อความเสียหายของคุณต่อมอนสเตอร์
 16032	Affects your Chance to inflict Curse	ส่งผลต่อโอกาสที่คุณจะติดคำสาป
@@ -35,27 +35,27 @@
 16034	Reduces ranged Physical damage taken	ลดความเสียหายทางกายภาพที่ได้รับจากระยะไกล
 16035	Increases your damage dealt by ${1}%	เพิ่มความเสียหายที่คุณทำได้${1}%
 16036	Go to the fork and see what happened	ไปที่ทางแยกแล้วดูว่าเกิดอะไรขึ้น
-16037	Retrieve the Professor's instrument.	รับเครื่องดนตรีของศาสตราจารย์
+16037	Retrieve the Professor's instrument.	รับเครื่องดนตรีของ Professor
 16038	Take up the position as Guild Master	รับตำแหน่ง Guild Master
-16039	Passive Stall Closure (Time Expired)	การปิดแผงลอยแบบพาสซีฟ (หมดเวลา)
+16039	Passive Stall Closure (Time Expired)	การปิดแผงลอยแบบ Passive (หมดเวลา)
 16040	Season Settlement: Conqueror Rewards	ข้อตกลงซีซั่น: รางวัลผู้พิชิต
 16041	Guild League Elite Settings Reminder	การแจ้งเตือนการตั้งค่า Guild League Elite
 16042	Delisted Due to Trade Market Closure	ถูกเพิกถอนเนื่องจากการปิดตลาดการค้า
-16043	Talk to the Mentor about Job Advance	พูดคุยกับที่ปรึกษาเกี่ยวกับ Job Advance
-16044	Member Removed from Adventurer Guild	ถูกนำออกจากกิลด์นักผจญภัย
+16043	Talk to the Mentor about Job Advance	Talk กับที่ปรึกษาเกี่ยวกับ Job Advance
+16044	Member Removed from Adventurer Guild	ถูกนำออกจาก GuildAdventurer
 16045	No equipment available for smelting.	ไม่มีอุปกรณ์สำหรับการถลุง
 16046	You can save the current attributes.	คุณสามารถบันทึกแอ็ตทริบิวต์ปัจจุบันได้
 16047	Rank ${1}: ${2}, Final Score: ${3}\n	อันดับ${1}:${2}, คะแนนสุดท้าย:${3}\n
-16048	Listen to what the Hunter has to say	ฟังสิ่งที่ฮันเตอร์พูด
+16048	Listen to what the Hunter has to say	ฟังสิ่งที่ Hunter พูด
 16049	Collect fur from the defeated Eddga*	เก็บขนจาก Eddga ที่พ่ายแพ้*
-16050	Ask the Woman what this is all about	ถามผู้หญิงว่านี่เป็นเรื่องเกี่ยวกับอะไร
+16050	Ask the Woman what this is all about	ถาม Woman ว่านี่เป็นเรื่องเกี่ยวกับอะไร
 16051	No other Star Cores in your Backpack	ไม่มี Star Core อื่นในกระเป๋าเป้ของคุณ
 16052	Increases Move Speed---/Attack Speed	เพิ่มความเร็วในการเคลื่อนที่---/ความเร็วในการโจมตี
 16053	Loading remote configuration file...	กำลังโหลดไฟล์การกำหนดค่าระยะไกล...
 16054	Error verifying version differences.	เกิดข้อผิดพลาดในการตรวจสอบความแตกต่างของเวอร์ชัน
 16055	Regional Capital War Auction - Ready	การประมูลสงครามทุนระดับภูมิภาค - พร้อมแล้ว
 16056	Regional Capital War Auction - Final	การประมูลสงครามทุนระดับภูมิภาค - รอบชิงชนะเลิศ
-16057	\nYou bought new clothes ${1} times.	\nคุณซื้อเสื้อผ้าใหม่${1}ครั้ง
+16057	\nYou bought new clothes ${1} times.	\n คุณซื้อเสื้อผ้าใหม่${1}ครั้ง
 16058	Restrict Selling on the Trade Market	จำกัดการขายในตลาดการค้า
 16059	Adventure Party Function Information	ข้อมูลฟังก์ชั่นปาร์ตี้ผจญภัย
 16060	Season Exploration Event - Go to Map	- ไปที่แผนที่
@@ -77,7 +77,7 @@
 16076	Not enough items to create the guild	ไอเท็มไม่เพียงพอที่จะสร้างกิลด์
 16077	You have not responded to this guild	คุณยังไม่ได้ตอบกลับกิลด์นี้
 16078	Do not post my content in Guild News	อย่าโพสต์เนื้อหาของฉันใน Guild News
-16079	Guild Member limit increased to ${1}	ขีดจำกัดสมาชิกกิลด์เพิ่มขึ้นเป็น${1}
+16079	Guild Member limit increased to ${1}	ขีดจำกัดสมาชิก Guild เพิ่มขึ้นเป็น${1}
 16080	Black Gold prices have soared today.	Black Gold ราคาพุ่งสูงขึ้นวันนี้
 16081	Pet Protection Effect Trigger - Buff	ทริกเกอร์เอฟเฟกต์การปกป้องสัตว์เลี้ยง - บัฟ
 16082	Insufficient buff Floors^{1}${1}^{2}	พื้นบัฟไม่เพียงพอ^{1}${1}^{2}
@@ -91,16 +91,16 @@
 16090	Dragon's Highest-Aggro Target Effect	เอฟเฟกต์เป้าหมาย Aggro สูงสุดของมังกร
 16091	Increases damage reduction by @{1}%.	เพิ่มการลดความเสียหายโดย@{1}%
 16092	Drag UI elements to reposition them.	ลากองค์ประกอบ UI เพื่อเปลี่ยนตำแหน่ง
-16093	Skill@{1}Flying Goblet Row Slam-Easy	ทักษะ@{1}Flying Goblet Row Slam-Easy
+16093	Skill@{1}Flying Goblet Row Slam-Easy	Skill@{1}Flying Goblet Row Slam-Easy
 16094	Please enter a valid invitation code	โปรดป้อนรหัสเชิญที่ถูกต้อง
-16095	Heavy Shield Defense - Shield Raised	การป้องกันด้วยโล่หนัก - โล่ที่ยกขึ้น
-16096	Ghost Ship Grand Charge Vertical@{1}	เรือผี แกรนด์ชาร์จแนวตั้ง@{1}
-16097	Falling Cross Cannonballs (Vertical)	ลูกปืนใหญ่ข้ามตก (แนวตั้ง)
-16098	Moonlight Flower Launches Light Wave	ดอกไม้แสงจันทร์ เปิดตัวคลื่นแสง
-16099	Moonlight Flower Bell Charge Shuffle	ระฆังดอกไม้แสงจันทร์ สุ่มชาร์จ
-16100	Create @{1} Same-Color Cross Bubbles	สร้าง@{1}Cross Bubbles สีเดียวกัน
-16101	Praiser Priest Hymn: Angel Incarnate	เพลงสรรเสริญพระสงฆ์: เทวดาจุติมา
-16102	When a Sword is equipped, STR +${1}.	เมื่อติดตั้งดาบ STR +${1}
+16095	Heavy Shield Defense - Shield Raised	Heavy Shield Defense - Shield Raised
+16096	Ghost Ship Grand Charge Vertical@{1}	Ghost Ship Grand Charge Vertical@{1}
+16097	Falling Cross Cannonballs (Vertical)	Falling Cross Cannonballs (Vertical)
+16098	Moonlight Flower Launches Light Wave	Moonlight Flower Launches Light Wave
+16099	Moonlight Flower Bell Charge Shuffle	Moonlight Flower Bell Charge Shuffle
+16100	Create @{1} Same-Color Cross Bubbles	Create @{1} Same-Color Cross Bubbles
+16101	Praiser Priest Hymn: Angel Incarnate	Praiser Priest Hymn: Angel Incarnate
+16102	When a Sword is equipped, STR +${1}.	เมื่อติดตั้ง Sword STR +${1}
 16103	Changes armor to the Earth property.	เปลี่ยนเกราะเป็นคุณสมบัติ Earth
 16104	Changes armor to the Water property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติน้ำ
 16105	Changes armor to the Ghost property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติ Ghost
@@ -111,15 +111,15 @@
 16110	This area has not been unlocked yet.	พื้นที่นี้ยังไม่ได้ปลดล็อค
 16111	You may enter up to ${1} characters.	คุณสามารถป้อนอักขระได้สูงสุด${1}
 16112	Learn prerequisite skill ${1} first.	เรียนรู้ทักษะเบื้องต้น${1}ก่อน
-16113	Open Friday from @{1}:@{2}~@{3}:@{4}	เปิดวันศุกร์ตั้งแต่@{1}:@{2}~@{3}:@{4}
+16113	Open Friday from @{1}:@{2}~@{3}:@{4}	Open วันศุกร์ตั้งแต่@{1}:@{2}~@{3}:@{4}
 16114	Join a guild to chat in this channel	เข้าร่วมกิลด์เพื่อแชทในช่องนี้
 16115	Failed to send message to the server	ไม่สามารถส่งข้อความไปยังเซิร์ฟเวอร์
 16116	You haven't joined a mentorship yet!	คุณยังไม่ได้เข้าร่วมการให้คำปรึกษา!
-16117	Rock Puppet Type A - Chaotic Watcher	Rock Puppet Type A - ผู้เฝ้าดูวุ่นวาย
-16118	Resource Management Department Staff	เจ้าหน้าที่ฝ่ายจัดการทรัพยากร
-16119	Same-Color Collision Bubble NPC Left	ฟองชนสีเดียวกัน NPC ซ้าย
-16120	Same-Color Collision Bubble NPC Down	ฟองชนสีเดียวกัน NPC ลง
-16121	Show Only Monsters with Purple Cards	แสดงเฉพาะมอนสเตอร์ที่มีการ์ดสีม่วง
+16117	Rock Puppet Type A - Chaotic Watcher	Rock Puppet Type A - Chaotic Watcher
+16118	Resource Management Department Staff	Resource Management Department Staff
+16119	Same-Color Collision Bubble NPC Left	Same-Color Collision Bubble NPC Left
+16120	Same-Color Collision Bubble NPC Down	Same-Color Collision Bubble NPC Down
+16121	Show Only Monsters with Purple Cards	แสดงเฉพาะมอนสเตอร์ที่มี Purple Cards
 16122	Unsold items have been sent by mail.	สินค้าที่ขายไม่ออกได้ส่งทางไปรษณีย์แล้ว
 16123	This item cannot be sold at a Stall.	สินค้าชิ้นนี้ไม่สามารถขายที่แผงลอยได้
 16124	Damage Reduction from Earth Monsters	การลดความเสียหายจากมอนสเตอร์ดิน
@@ -129,50 +129,50 @@
 16128	Guild application sent successfully.	เรียบร้อยแล้ว
 16129	No items available for Purchase Item	ไม่มีสินค้าสำหรับซื้อสินค้า
 16130	Visit the Monsterologist (@{1}/@{2})	เยี่ยมชมนักสัตว์ประหลาด (@{1}/@{2})
-16131	【Guild Co-op】Realm of the Gods Quest	【ความร่วมมือกิลด์】ภารกิจอาณาจักรแห่งเทพเจ้า
-16132	Guild Activities - Hunting Challenge	กิจกรรมกิลด์ - ท้าทายการล่าสัตว์
-16133	[Adventure Party] Divine Realm Quest	[ปาร์ตี้ผจญภัย] ภารกิจอาณาจักรศักดิ์สิทธิ์
+16131	【Guild Co-op】Realm of the Gods Quest	【Guild Co-op】ภารกิจ Realm of the Gods
+16132	Guild Activities - Hunting Challenge	กิจกรรม Guild - ท้าทายการล่าสัตว์
+16133	[Adventure Party] Divine Realm Quest	[Adventure Party] ภารกิจอาณาจักรศักดิ์สิทธิ์
 16134	No Pet Shards available to dismantle	ไม่มีชิ้นส่วนสัตว์เลี้ยงให้ถอดออก
 16135	Swipe Through the Grass to Find Pets	ปัดผ่านหญ้าเพื่อค้นหาสัตว์เลี้ยง
 16136	You've reached today's search limit.	คุณถึงขีดจำกัดการค้นหาของวันนี้แล้ว
 16137	Unlock the Rapid Incubation Function	ปลดล็อกฟังก์ชันการฟักตัวอย่างรวดเร็ว
 16138	Craft high-Rarity equipment quickly.	ประดิษฐ์อุปกรณ์หายากสูงอย่างรวดเร็ว
-16139	Obtain a Red Card for the first time	ได้รับใบแดงเป็นครั้งแรก
+16139	Obtain a Red Card for the first time	ได้รับ Red Card เป็นครั้งแรก
 16140	Clear Floor @{1} of the Spirit Tower	พื้นใส@{1}ของ Spirit Tower
-16141	Defeat Isti in the Realm of the Gods	เอาชนะ Isti ในอาณาจักรแห่งเทพเจ้า
-16142	Defeat Ilmo in the Realm of the Gods	เอาชนะ Ilmo ในอาณาจักรแห่งเทพเจ้า
+16141	Defeat Isti in the Realm of the Gods	เอาชนะ Isti ใน Realm of the Gods
+16142	Defeat Ilmo in the Realm of the Gods	เอาชนะ Ilmo ใน Realm of the Gods
 16143	Reach Favor Lv. @{1} with any friend	บรรลุความโปรดปราน Lv.@{1}กับเพื่อนคนไหนก็ได้
-16144	Free the Professor from the ant egg.	ปล่อยศาสตราจารย์จากไข่มด
-16145	Open the treasure collected by Maya.	เปิดขุมทรัพย์ที่ Maya รวบรวมไว้
+16144	Free the Professor from the ant egg.	ปล่อย Professor จากไข่มด
+16145	Open the treasure collected by Maya.	Open ขุมทรัพย์ที่ Maya รวบรวมไว้
 16146	Tap to claim the title quest reward.	แตะเพื่อรับรางวัลภารกิจฉายา
 16147	Tap here to view the detailed rules.	แตะที่นี่เพื่อดูกฎโดยละเอียด
 16148	Defend the gate until time runs out.	ป้องกันประตูจนกว่าเวลาจะหมด
 16149	The time has come. Begin the ritual.	ถึงเวลาแล้วเริ่มพิธีกรรม.
-16150	Guild name changed from ${1} to ${2}	ชื่อกิลด์เปลี่ยนจาก${1}เป็น${2}
+16150	Guild name changed from ${1} to ${2}	ชื่อ Guild เปลี่ยนจาก${1}เป็น${2}
 16151	Safe travels, and return victorious!	เดินทางปลอดภัย และกลับมามีชัย!
-16152	Appear! Please, hurry up and appear!	ปรากฏตัว!กรุณารีบปรากฏตัว!
+16152	Appear! Please, hurry up and appear!	ปรากฏตัว! กรุณารีบปรากฏตัว!
 16153	But it's all worth it for Shilude...	แต่ก็คุ้มนะสำหรับ Shilude...
 16154	No idea how she's been doing Recent.	ไม่รู้ว่าเธอเป็นยังไงบ้าง ล่าสุด.
-16155	Hey, rookie! Here to take a request?	เฮ้ มือใหม่!นี่จะขอเหรอ?
-16156	I want to create an Adventurer Guild	ฉันต้องการสร้างกิลด์นักผจญภัย
+16155	Hey, rookie! Here to take a request?	เฮ้ มือใหม่! นี่จะขอเหรอ?
+16156	I want to create an Adventurer Guild	ฉันต้องการสร้าง GuildAdventurer
 16157	Would you like to leave the Academy?	คุณอยากจะออกจาก Academy หรือไม่?
 16158	These woods are perfect for hunting.	ไม้เหล่านี้เหมาะสำหรับการล่าสัตว์
 16159	This mission is sure to go smoothly!	ภารกิจนี้ราบรื่นแน่นอน!
 16160	Take her hand (Click to dance again)	จับมือเธอ (คลิกเต้นอีกครั้ง)
 16161	Calm down and tell me what happened.	ใจเย็นๆ แล้วบอกฉันว่าเกิดอะไรขึ้น
 16162	Purchase Standard + Premium Together	ซื้อ Standard + Premium ร่วมกัน
-16163	Waiting for the Guild Leader to Open	กำลังรอหัวหน้ากิลด์เปิด
+16163	Waiting for the Guild Leader to Open	กำลังรอหัวหน้า GuildOpen
 16164	Select the class you want to replace	เลือกคลาสที่คุณต้องการแทนที่
 16165	The strings are beginning to vibrate	สตริงเริ่มสั่น
 16166	A stone monument has been activated!	อนุสาวรีย์หินถูกเปิดใช้งานแล้ว!
 16167	The BOSS will spawn in ${1} seconds!	บอสจะเกิดใน${1}วินาที!
 16168	^{1}${2}^{2} eliminated ^{3}${4}^{4}	^{1}${2}^{2}ตัดออก ^{3}${4}^{4}
 16169	Bombard the puppets with cannon fire	ยิงปืนใหญ่ใส่หุ่นเชิด
-16170	Mock Battle has begun. Go there now?	การต่อสู้จำลองได้เริ่มขึ้นแล้ว ไปที่นั่นตอนนี้เหรอ?
-16171	Bobo\nWhoa! Watch out for its claws!	โบโบ\nอ้าว!ระวังกรงเล็บของมัน!
-16172	Bobo\nQuick, hide behind the pillar!	Bobo\nเร็วเข้า ซ่อนหลังเสา!
-16173	Bobo\nWe're rich! What a haul! Hehe!	โบโบ้\nเรารวย!ช่างลากอะไร!อิอิ!
-16174	Bobo\nGot it! Let's get out of here~	โบโบ้\nได้เลย!ออกไปจากที่นี่กันเถอะ~
+16170	Mock Battle has begun. Go there now?	Mock Battle ได้เริ่มขึ้นแล้ว ไปที่นั่นตอนนี้เหรอ?
+16171	Bobo\nWhoa! Watch out for its claws!	โบโบ\n อ้าว! ระวังกรงเล็บของมัน!
+16172	Bobo\nQuick, hide behind the pillar!	Bobo\n เร็วเข้า ซ่อนหลังเสา!
+16173	Bobo\nWe're rich! What a haul! Hehe!	Bobo\n เรารวย! ช่างลากอะไร! อิอิ!
+16174	Bobo\nGot it! Let's get out of here~	Bobo\n ได้เลย! ออกไปจากที่นี่กันเถอะ~
 16175	Tsk, tsk. It's only the first round.	จุ๊ จุ๊นี่แค่รอบแรกเท่านั้น
 16176	Follow Me. See that door over there?	ติดตามฉันมาเห็นประตูนั่นไหม?
 16177	Quest not unlocked. Unable to claim.	ภารกิจไม่ได้ปลดล็อค ไม่สามารถเรียกร้องได้
@@ -180,9 +180,9 @@
 16179	Local Server League Screen Help Text	ค้นหา
 16180	You are not on the Main Battlefield.	คุณไม่ได้อยู่ในสนามรบหลัก
 16181	On cooldown. Please try again later.	เมื่อคูลดาวน์โปรดลองอีกครั้งในภายหลัง
-16182	Combat NPC Turret Cast Skill (Shell)	ทักษะการร่ายป้อมปืน NPC ต่อสู้ (กระสุน)
+16182	Combat NPC Turret Cast Skill (Shell)	Combat NPC Turret Cast Skill (Shell)
 16183	Mass Territory War: Royal City Siege	สงครามดินแดนมวลชน: ล้อมเมืองหลวง
-16184	Open a total of @{1} treasure chests	เปิดหีบสมบัติ@{1}ทั้งหมด
+16184	Open a total of @{1} treasure chests	Open หีบสมบัติ@{1}ทั้งหมด
 16185	Description of the Alliance Ballista	คำอธิบายของ Alliance Ballista
 16186	A gemstone that emits a purple glow.	อัญมณีที่เปล่งแสงสีม่วงออกมา
 16187	Material used to Craft an Accessory.	วัสดุที่ใช้สร้างเครื่องประดับ
@@ -191,43 +191,43 @@
 16190	A luxurious ring set with a diamond.	แหวนหรูหราประดับเพชร
 16191	A ring imbued with mysterious magic.	แหวนที่เต็มไปด้วยเวทมนตร์ลึกลับ
 16192	An extremely large and heavy shield.	โล่ที่ใหญ่และหนักมาก
-16193	A one-handed Spear used by infantry.	หอกมือเดียวที่ทหารราบใช้
-16194	TBD: A widely used one-handed Spear.	TBD: หอกมือเดียวที่ใช้กันอย่างแพร่หลาย
+16193	A one-handed Spear used by infantry.	Spear มือเดียวที่ทหารราบใช้
+16194	TBD: A widely used one-handed Spear.	TBD: Spear มือเดียวที่ใช้กันอย่างแพร่หลาย
 16195	A dagger with a gently curved blade.	กริชที่มีใบมีดโค้งเล็กน้อย
 16196	Unlocks when Base Level reaches ${1}	ปลดล็อคเมื่อระดับพื้นฐานถึง${1}
-16197	Secret History of Prontera@{1}: @{2}	ประวัติความลับของพรอนเทรา@{1}:@{2}
+16197	Secret History of Prontera@{1}: @{2}	Secret History of Prontera@{1}: @{2}
 16198	Discover the Forgotten Treasure Room	ค้นพบห้องสมบัติที่ถูกลืม
 16199	Obtain from the Growth Support event	รับจากกิจกรรมสนับสนุนการเติบโต
 16200	Regional Capital War (Auction Check)	สงครามทุนภูมิภาค (ตรวจสอบการประมูล)
-16201	God of War Scroll · Accessory-Orange	God of War Scroll · อุปกรณ์เสริม-สีส้ม
-16202	God of War Scroll · Accessory-Purple	God of War Scroll · เครื่องประดับ-สีม่วง
-16203	Siegebreaker Scroll · Accessory-Blue	Siegebreaker Scroll · อุปกรณ์เสริม-สีน้ำเงิน
-16204	Golden Realm Ward Scroll · Shoes-Red	Golden Realm Ward Scroll · รองเท้า-แดง
-16205	Golden Realm Ward Scroll · Cloak-Red	Golden Realm Ward Scroll · เสื้อคลุม-แดง
-16206	Azure Realmguard Scroll·Off-Hand-Red	Azure Realmguard Scroll·นอกมือ-แดง
-16207	Hummingbird Scroll·One-Handed-Orange	Hummingbird Scroll·มือเดียว-สีส้ม
-16208	Hummingbird Scroll·One-Handed-Purple	Hummingbird Scroll·มือเดียว-สีม่วง
-16209	Hummingbird Scroll·Dual-Wield-Orange	Hummingbird Scroll·ด้ามคู่-สีส้ม
-16210	Hummingbird Scroll·Dual-Wield-Purple	Hummingbird Scroll·อาวุธคู่-สีม่วง
-16211	Eagle Eye Scroll · Dual Wield - Blue	Eagle Eye Scroll · อาวุธคู่ - สีน้ำเงิน
-16212	Life Percentage · Dual Wield - Green	Life Percentage · อาวุธคู่ - สีเขียว
-16213	Mountain Scroll · Dual Wield - Green	Mountain Scroll · ด้ามคู่ - สีเขียว
+16201	God of War Scroll · Accessory-Orange	God of War Scroll · Accessory-Orange
+16202	God of War Scroll · Accessory-Purple	God of War Scroll · Accessory-Purple
+16203	Siegebreaker Scroll · Accessory-Blue	Siegebreaker Scroll · Accessory-Blue
+16204	Golden Realm Ward Scroll · Shoes-Red	Golden Realm Ward Scroll · Shoes-Red
+16205	Golden Realm Ward Scroll · Cloak-Red	Golden Realm Ward Scroll · Cloak-Red
+16206	Azure Realmguard Scroll·Off-Hand-Red	Azure Realmguard Scroll·Off-Hand-Red
+16207	Hummingbird Scroll·One-Handed-Orange	Hummingbird Scroll·One-Handed-Orange
+16208	Hummingbird Scroll·One-Handed-Purple	Hummingbird Scroll·One-Handed-Purple
+16209	Hummingbird Scroll·Dual-Wield-Orange	Hummingbird Scroll·Dual-Wield-Orange
+16210	Hummingbird Scroll·Dual-Wield-Purple	Hummingbird Scroll·Dual-Wield-Purple
+16211	Eagle Eye Scroll · Dual Wield - Blue	Eagle Eye Scroll · Dual Wield - Blue
+16212	Life Percentage · Dual Wield - Green	Life Percentage · Dual Wield - Green
+16213	Mountain Scroll · Dual Wield - Green	Mountain Scroll · Dual Wield - Green
 16214	Must claim Tower Climb sweep rewards	ต้องรับรางวัลกวาด Tower Climb
 16215	Not enough MINI event participations	การเข้าร่วมกิจกรรม MINI ไม่เพียงพอ
-16216	Not enough active days in the Tavern	จำนวนวันใช้งานในโรงเตี๊ยมไม่เพียงพอ
+16216	Not enough active days in the Tavern	จำนวนวันใช้งานใน Tavern ไม่เพียงพอ
 16217	Play While Downloading not completed	เล่นขณะดาวน์โหลดไม่เสร็จสมบูรณ์
 16218	Item consumption requirement not met	ไม่เป็นไปตามข้อกำหนดการใช้รายการ
-16219	Not enough Guild Members on the team	สมาชิกกิลด์ในทีมไม่เพียงพอ
+16219	Not enough Guild Members on the team	สมาชิก Guild ในทีมไม่เพียงพอ
 16220	Not enough Appearance types unlocked	ปลดล็อคประเภทลักษณะที่ปรากฏไม่เพียงพอ
 16221	Enter Dungeon once everyone is ready	เข้าสู่ดันเจี้ยนเมื่อทุกคนพร้อม
-16222	Alberta Southern Capital - Base @{1}	อัลเบอร์ตาเซาเทิร์นแคปิตอล - ฐาน@{1}
+16222	Alberta Southern Capital - Base @{1}	Alberta เซาเทิร์นแคปิตอล - ฐาน@{1}
 16223	Collector Cards Collected: ${1}/${2}	ที่รวบรวมได้:${1}/${2}
-16224	Divine Light/Sanctuary [Buff Effect]	Divine Light/Sanctuary [เอฟเฟกต์บัฟ]
-16225	Basilica [Cast Completion Detection]	Basilica [การตรวจจับการหล่อเสร็จสมบูรณ์]
+16224	Divine Light/Sanctuary [Buff Effect]	Divine Light/Sanctuary [Buff Effect]
+16225	Basilica [Cast Completion Detection]	Basilica [Cast Completion Detection]
 16226	Crazy Uproar - Mind and Body Renewal	Crazy Uproar - การฟื้นฟูจิตใจและร่างกาย
 16227	High Speed Cart Ram Replacement Mode	โหมดการเปลี่ยน Ram รถเข็นความเร็วสูง
 16228	Season Vulcan Cannon CRIT Boost Buff	บัฟ Vulcan Cannon CRIT ฤดูกาล
-16229	S@{1} Vulcan Cannon Mode Replacement	S@{1}การเปลี่ยนโหมดปืนใหญ่วัลแคน
+16229	S@{1} Vulcan Cannon Mode Replacement	S@{1}การเปลี่ยนโหมด Cannon วัลแคน
 16230	S@{1} High-Energy Impact Mode Switch	S@{1}สวิตช์โหมดแรงกระแทกพลังงานสูง
 16231	Spear Mastery Increased Physical ATK	Spear Mastery เพิ่มพลังโจมตีทางกายภาพ
 16232	Transform into a Blue Note underfoot	แปลงร่างเป็น Blue Note ใต้ฝ่าเท้า
@@ -236,18 +236,18 @@
 16235	Skill and Misc cast bar display area	พื้นที่แสดงแถบร่ายทักษะและเบ็ดเตล็ด
 16236	MVP Skill Reset After Leaving Combat	รีเซ็ตทักษะ MVP หลังจากออกจากการต่อสู้
 16237	Transform: Poring Cannot Be Attacked	: ไม่สามารถโจมตี Poring ได้
-16238	Yellow Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอฟองสีเหลือง
-16239	Advanced Hundred Spear Counter S@{1}	เครื่องนับหอกขั้นสูง S@{1}
-16240	Assassin Talent Placeholder@{1}-@{2}	ตัวยึดตำแหน่งนักฆ่าผู้มีพรสวรรค์@{1}-@{2}
-16241	Complete Cat Hand Caravan ${1} times	คาราวานมือแมวครบชุด${1}ครั้ง
+16238	Yellow Bubble Screen Tracking Effect	เอฟเฟกต์การติดตามหน้าจอ Yellow Bubble
+16239	Advanced Hundred Spear Counter S@{1}	เครื่องนับ Spear ขั้นสูง S@{1}
+16240	Assassin Talent Placeholder@{1}-@{2}	Placeholder นักฆ่าผู้มีพรสวรรค์@{1}-@{2}
+16241	Complete Cat Hand Caravan ${1} times	คาราวานมือ Cat ครบชุด${1}ครั้ง
 16242	Participate in GVE events ${1} times	เข้าร่วมกิจกรรม GVE${1}ครั้ง
 16243	Participate in MVP events ${1} times	เข้าร่วมกิจกรรม MVP${1}ครั้ง
 16244	Hunting Challenge - No Report Notice	ความท้าทายในการล่าสัตว์ - ไม่มีการแจ้งเตือนรายงาน
 16245	Dual-Front Offense and Defense Guide	คู่มือการโจมตีและป้องกันสองหน้า
 16246	Achievement reward has been received	ได้รับรางวัลความสำเร็จแล้ว
 16247	Muted. Unable to use the microphone.	ปิดเสียงไม่สามารถใช้ไมโครโฟนได้
-16248	The Adventurer Group does not exist.	ไม่มีกลุ่มนักผจญภัย
-16249	Insufficient Guild Auction Supplies.	อุปกรณ์การประมูลกิลด์ไม่เพียงพอ
+16248	The Adventurer Group does not exist.	ไม่มีกลุ่ม Adventurer
+16249	Insufficient Guild Auction Supplies.	อุปกรณ์การประมูล Guild ไม่เพียงพอ
 16250	The guild is not currently escorting	กิลด์ไม่ได้คุ้มกันในขณะนี้
 16251	A party member canceled matchmaking.	สมาชิกปาร์ตี้ยกเลิกการจับคู่
 16252	You cannot Revive others while dead.	คุณไม่สามารถชุบชีวิตผู้อื่นในขณะที่ตายไปแล้วได้
@@ -262,7 +262,7 @@
 16261	Use to leap back onto the city wall.	ใช้กระโดดกลับเข้ากำแพงเมือง
 16262	Use to leap down from the city wall.	ใช้กระโดดลงมาจากกำแพงเมือง
 16263	Feed the Deniro Fluorescent Supplies	ป้อนวัสดุฟลูออเรสเซนต์ Deniro
-16264	Locate Orc Lord and use Auto Counter	ค้นหา Orc Lord และใช้ Auto Counter
+16264	Locate Orc Lord and use Auto Counter	Locate Orc Lord และใช้ Auto Counter
 16265	Immobilizes the target for @{1} sec.	ตรึงเป้าหมายเป็นเวลา@{1}วินาที
 16266	You have already provided assistance	คุณได้ให้ความช่วยเหลือแล้ว
 16267	Invalid number of pets for the tower	จำนวนสัตว์เลี้ยงสำหรับหอคอยไม่ถูกต้อง
@@ -283,13 +283,13 @@
 16282	Increases Magic ATK by ^{1}${1}^{2}.	เพิ่มพลังโจมตีเวทย์โดย ^{1}${1}^{2}
 16283	Increases Wind damage taken by @{1}%	เพิ่มความเสียหายจากลมที่ได้รับโดย@{1}%
 16284	Increases Fire damage taken by @{1}%	เพิ่มความเสียหายทางไฟที่ได้รับโดย@{1}%
-16285	Baby Desert Wolf Reward Boost Lv@{1}	รางวัลบูสต์หมาป่าทะเลทรายเด็ก Lv@{1}
-16286	Archer Skeleton Normal Attack-Undead	Archer Skeleton โจมตีปกติ-อันเดด
+16285	Baby Desert Wolf Reward Boost Lv@{1}	รางวัลบูสต์ Baby Desert Wolf Lv@{1}
+16286	Archer Skeleton Normal Attack-Undead	Archer Skeleton Normal Attack-Undead
 16287	Not enough items. Unable to refresh!	รายการไม่เพียงพอไม่สามารถรีเฟรชได้!
-16288	Not enough Vivify. Unable to gather!	มีชีวิตชีวาไม่เพียงพอรวบรวมไม่ได้!
+16288	Not enough Vivify. Unable to gather!	Vivify ไม่เพียงพอรวบรวมไม่ได้!
 16289	The koi you bet on took first place!	ปลาคราฟที่คุณเดิมพันเกิดขึ้นที่หนึ่ง!
 16290	Hunting Challenge - Preparation Phase	ความท้าทายในการล่าสัตว์ - ขั้นตอนการเตรียมการ
-16291	World-Scorching Feather · Golden Crow	ขนนกที่แผดเผาโลก · อีกาทองคำ
+16291	World-Scorching Feather · Golden Crow	World-Scorching Feather · Golden Crow
 16292	Damage Reduction from Wind Monsters %	การลดความเสียหายจากมอนสเตอร์ลม %
 16293	Damage Reduction from Fire Monsters %	การลดความเสียหายจากมอนสเตอร์ไฟ %
 16294	Damage Reduction from Holy Monsters %	การลดความเสียหายจากมอนสเตอร์ศักดิ์สิทธิ์ %
@@ -299,9 +299,9 @@
 16298	Cannot exchange items during preview.	ไม่สามารถแลกเปลี่ยนรายการระหว่างการแสดงตัวอย่าง
 16299	Activate @{1} Season Refinement slots	เปิดใช้งานสล็อต@{1}Season Refinement
 16300	Socket @{2} Tier @{1} or higher cards	การ์ด@{2}เทียร์@{1}หรือสูงกว่า
-16301	Say hello to the Young Man for Dumby.	ทักทายชายหนุ่มเพื่อดัมบี้
+16301	Say hello to the Young Man for Dumby.	ทักทาย Young Man เพื่อดัมบี้
 16302	Raise all equipped Echoes to Lv. @{1}	เพิ่ม Echoes ที่สวมใส่ทั้งหมดเป็น Lv.@{1}
-16303	Kill Goblin (Flail) and Goblin Archer	ฆ่า Goblin (Flail) และ Goblin Archer
+16303	Kill Goblin (Flail) and Goblin Archer	Kill Goblin (Flail) และ Goblin Archer
 16304	Carry out the rat-catching operation.	ดำเนินการจับหนู
 16305	Go to the bulletin board in Prontera.	ไปที่กระดานข่าวใน Prontera
 16306	Check the note around the cat's neck.	เช็คโน้ตรอบคอแมว
@@ -312,25 +312,25 @@
 16311	Increases your magic recovery by ${1}	เพิ่มการฟื้นฟูเวทมนตร์ของคุณโดย${1}
 16312	Affects your Chance of being Silenced	ส่งผลต่อโอกาสที่คุณจะติดใบ้
 16313	Affects your Chance to inflict Freeze	ส่งผลต่อโอกาสที่คุณจะติดสถานะแช่แข็ง
-16314	Join the Adventurers and defeat Eddga	เข้าร่วมนักผจญภัยและเอาชนะ Eddga
-16315	Rescue the Professor from the ant egg	ช่วยศาสตราจารย์จากไข่มด
-16316	Complete the opening dance with Luna.	เต้นเปิดเพลงกับลูน่า
+16314	Join the Adventurers and defeat Eddga	เข้าร่วม Adventurers และเอาชนะ Eddga
+16315	Rescue the Professor from the ant egg	ช่วย Professor จากไข่มด
+16316	Complete the opening dance with Luna.	เต้นเปิดเพลงกับ Luna
 16317	Beginner Challenge Event End Reminder	การแจ้งเตือนการสิ้นสุดกิจกรรมการท้าทายระดับเริ่มต้น
 16318	Pre-Season Warm-Up Event Wish Rewards	รางวัลกิจกรรมอุ่นเครื่องก่อนเปิดฤดูกาล
 16319	Festival Invitation Place Bet Rewards	เทศกาลเชิญ วางเดิมพันรางวัล
 16320	Evil Boss Barrels Rolling Attack Buff	บอสชั่วร้ายบาร์เรลบัฟการโจมตีแบบกลิ้ง
 16321	<color=#97e533>${1}</color> Remaining	<color=#97e533>${1}</color> Remaining
 16322	<color=#00FF2E>Leaving Combat</color>	<color=#00FF2E>Leaving Combat</color>
-16323	Defeat Willows and collect Tree Bark*	กำจัดต้นหลิวและรวบรวมเปลือกไม้*
+16323	Defeat Willows and collect Tree Bark*	กำจัดต้นหลิวและรวบรวม Tree Bark*
 16324	Recover all the cargo from the Mukas*	กู้สินค้าทั้งหมดจาก Mukas*
 16325	Move forward and assess the situation	เดินหน้าและประเมินสถานการณ์
-16326	Talk to the familiar Woman before you	คุยกับผู้หญิงที่คุ้นเคยตรงหน้าคุณ
+16326	Talk to the familiar Woman before you	คุยกับ Woman ที่คุ้นเคยตรงหน้าคุณ
 16327	Increases allies' MP recovery by @{1}	เพิ่มการฟื้นฟู MP ของพันธมิตรโดย@{1}
 16328	I'm so happy I could spin in circles!	ฉันมีความสุขมากที่ได้หมุนเป็นวงกลม!
 16329	Weekly Rewards Claim Count: ${1}/${2}	จำนวนการรับรางวัลรายสัปดาห์:${1}/${2}
 16330	Tap the map to start auto-navigation.	แตะแผนที่เพื่อเริ่มการนำทางอัตโนมัติ
 16331	Do not remind again during this login	อย่าเตือนอีกครั้งระหว่างการเข้าสู่ระบบนี้
-16332	Realm of the Gods · Flawless Speedrun	อาณาจักรแห่งเทพเจ้า · Speedrun ไร้ที่ติ
+16332	Realm of the Gods · Flawless Speedrun	Realm of the Gods · Speedrun ไร้ที่ติ
 16333	You received new mail. Check it soon.	คุณได้รับจดหมายใหม่โปรดตรวจสอบเร็วๆ นี้
 16334	Today's data is updated daily at 5:00	ข้อมูลวันนี้อัพเดททุกวัน เวลา 05:00 น
 16335	Season Exploration Event (Deprecated)	กิจกรรมสำรวจฤดูกาล (เลิกใช้งาน)
@@ -343,32 +343,32 @@
 16342	${1} has invited you to join a Party.	${1}ขอเชิญคุณเข้าร่วมปาร์ตี้
 16343	The target is too far away to target.	เป้าหมายอยู่ไกลเกินเป้าหมาย
 16344	Unable to retrieve player information	ไม่สามารถดึงข้อมูลผู้เล่นได้
-16345	${1} transferred Party Leader to ${2}	${1}ย้ายหัวหน้าปาร์ตี้ไปที่${2}
+16345	${1} transferred Party Leader to ${2}	${1}ย้าย Party Leader ไปที่${2}
 16346	Use Play While Downloading ${1} times	ใช้การเล่นขณะดาวน์โหลด${1}ครั้ง
 16347	Equip ${1} pieces of gear with Stunts	ติดตั้งชิ้นส่วนเกียร์${1}พร้อม Stunts
 16348	"Unit Price: <sprite name=""${1}""> ${2}"	"Unit Price: <sprite name=""${1}""> ${2}"
 16349	Pet Protection: Actual Effect Trigger	การป้องกันสัตว์เลี้ยง: ทริกเกอร์เอฟเฟกต์จริง
 16350	Corresponding Appearance not unlocked	ลักษณะที่ปรากฏที่สอดคล้องกันไม่ได้ปลดล็อค
 16351	No Connect Bond with any party Member	ไม่มีพันธะเชื่อมต่อกับสมาชิกฝ่ายใด ๆ
-16352	This unit continuously restores Life.	ยูนิตนี้จะฟื้นฟูพลังชีวิตอย่างต่อเนื่อง
+16352	This unit continuously restores Life.	ยูนิตนี้จะฟื้นฟูพลัง Life อย่างต่อเนื่อง
 16353	Reduces Physical ATK and DEF by ${1}%	ลด ATK และ DEF กายภาพลง${1}%
 16354	Changes your armor's element to Holy.	เปลี่ยนองค์ประกอบของชุดเกราะของคุณเป็นศักดิ์สิทธิ์
-16355	Upon death, Splits into @{1} monsters	เมื่อตาย จะแยกออกเป็นมอนสเตอร์@{1}
+16355	Upon death, Splits into @{1} monsters	เมื่อตาย จะ Splits ออกเป็นมอนสเตอร์@{1}
 16356	Immune to crowd control and knockback	ภูมิคุ้มกันต่อการควบคุมฝูงชนและการกระเด็นกลับ
-16357	The Madogear Pilot is being repaired.	นักบิน Madogear กำลังได้รับการซ่อมแซม
+16357	The Madogear Pilot is being repaired.	Madogear Pilot กำลังได้รับการซ่อมแซม
 16358	Damage Reduction and Damage Increase.	การลดความเสียหายและเพิ่มความเสียหาย
 16359	Press 【BackSpace】 to clear a shortcut	กด 【BackSpace】 เพื่อล้างทางลัด
-16360	Golden Thief Bug Normal Attack - Fire	Golden Thief Bug โจมตีปกติ - ไฟ
-16361	Skill@{1}Spinning Bagpipe Sound Blade	Skill@{1}ใบมีดเสียงปี่ปั่น
-16362	Skill@{1}Lute Rectangle Clone Monster	ทักษะ@{1}ลูท มอนสเตอร์โคลนสี่เหลี่ยมผืนผ้า
-16363	Skill@{1} Horizontal Square Formation	@{1}การสร้างสี่เหลี่ยมแนวนอน
-16364	Ghost Ship Grand Charge Vertical Easy	Ghost Ship Grand Charge แนวตั้งง่าย ๆ
-16365	Create @{1} Same-Color Homing Bubbles	สร้าง@{1}Homing Bubbles สีเดียวกัน
-16366	Skill@{1}_Flash Bomb (Variant) Damage	Skill@{1}ความเสียหายจากระเบิดแฟลช (ตัวแปร)
-16367	Boss Creates Interaction Magic Circle	Boss สร้างวงแหวนเวทย์มนตร์โต้ตอบ
-16368	Skill@{1}Drumbeat Cage_Area Knockback	@{1}Drumbeat Cage_Area กระเด็นกลับ
-16369	Skill@{1}Phase Transition Performance	@{1}ประสิทธิภาพการเปลี่ยนเฟส
-16370	S@{1}Axe Tornado Invincible Whirlwind	S@{1}ขวานทอร์นาโด ลมกรดที่อยู่ยงคงกระพัน
+16360	Golden Thief Bug Normal Attack - Fire	Golden Thief Bug Normal Attack - Fire
+16361	Skill@{1}Spinning Bagpipe Sound Blade	Skill@{1}Spinning Bagpipe Sound Blade
+16362	Skill@{1}Lute Rectangle Clone Monster	Skill@{1}Lute Rectangle Clone Monster
+16363	Skill@{1} Horizontal Square Formation	Skill@{1} Horizontal Square Formation
+16364	Ghost Ship Grand Charge Vertical Easy	Ghost Ship Grand Charge Vertical Easy
+16365	Create @{1} Same-Color Homing Bubbles	Create @{1} Same-Color Homing Bubbles
+16366	Skill@{1}_Flash Bomb (Variant) Damage	Skill@{1}_Flash Bomb (Variant) Damage
+16367	Boss Creates Interaction Magic Circle	Boss Creates Interaction Magic Circle
+16368	Skill@{1}Drumbeat Cage_Area Knockback	Skill@{1}Drumbeat Cage_Area Knockback
+16369	Skill@{1}Phase Transition Performance	Skill@{1}Phase Transition Performance
+16370	S@{1}Axe Tornado Invincible Whirlwind	S@{1}Axe Tornado Invincible Whirlwind
 16371	Changes armor to the Poison property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติพิษ
 16372	Reduces Poison damage taken by ${1}%.	ลดความเสียหายจากพิษที่ได้รับโดย${1}%
 16373	Reduces Shadow damage taken by ${1}%.	ลดความเสียหายจากเงาที่ได้รับโดย${1}%
@@ -378,12 +378,12 @@
 16377	Points cannot be reset during combat.	คะแนนไม่สามารถรีเซ็ตได้ระหว่างการต่อสู้
 16378	Drag skills into slots to equip them.	ลากทักษะลงในช่องเพื่อสวมใส่
 16379	Reduces ${1} Resonance damage by ${2}	ลดความเสียหายของเรโซแนนซ์${1}โดย${2}
-16380	Open Tuesday from @{1}:@{2}~@{3}:@{4}	เปิดวันอังคาร ตั้งแต่@{1}:@{2}~@{3}:@{4}
-16381	Clue Treasure Map: Small Wooden Table	แผนที่ขุมทรัพย์เบาะแส: โต๊ะไม้เล็ก
-16382	Vessel Protector (Cannot Be Attacked)	ตัวป้องกันเรือ (ไม่สามารถถูกโจมตีได้)
-16383	Sand Puppet Type A - Chaotic Wanderer	ตุ๊กตาทราย Type A - ผู้พเนจรวุ่นวาย
-16384	Moonlight Flower Spotlight Projectile	กระสุนสปอตไลท์ดอกไม้แสงจันทร์
-16385	A Hat modeled after Moonlight Flower.	หมวกที่ออกแบบตามดอกไม้แสงจันทร์
+16380	Open Tuesday from @{1}:@{2}~@{3}:@{4}	Open วันอังคาร ตั้งแต่@{1}:@{2}~@{3}:@{4}
+16381	Clue Treasure Map: Small Wooden Table	Clue Treasure Map: Small Wooden Table
+16382	Vessel Protector (Cannot Be Attacked)	Vessel Protector (Cannot Be Attacked)
+16383	Sand Puppet Type A - Chaotic Wanderer	Sand Puppet Type A - Chaotic Wanderer
+16384	Moonlight Flower Spotlight Projectile	Moonlight Flower Spotlight Projectile
+16385	A Hat modeled after Moonlight Flower.	หมวกที่ออกแบบตาม Moonlight Flower
 16386	Dinner Date · Matching Theme Facewear	Dinner Date · หน้ากากธีมที่เข้ากัน
 16387	You cannot set up a Stall while dead.	คุณไม่สามารถสร้างแผงลอยในขณะที่ตายได้
 16388	Damage Reduction from Poison Monsters	การลดความเสียหายจากมอนสเตอร์พิษ
@@ -391,12 +391,12 @@
 16390	Damage Reduction from Undead Monsters	การลดความเสียหายจากมอนสเตอร์ Undead
 16391	Damage Reduction from Demi-Human Race	การลดความเสียหายจากเผ่าพันธุ์กึ่งมนุษย์
 16392	Eliminate the Threat in Eastern Payon	กำจัดภัยคุกคามใน Payon ตะวันออก
-16393	Guild Recruitment posted successfully	การรับสมัครกิลด์โพสต์สำเร็จแล้ว
+16393	Guild Recruitment posted successfully	การรับสมัคร Guild โพสต์สำเร็จแล้ว
 16394	You must Join a guild to participate.	คุณต้องเข้าร่วมกิลด์จึงจะเข้าร่วมได้
-16395	[Adventure Party] Phantom Realm Quest	[ปาร์ตี้ผจญภัย] ภารกิจอาณาจักร Phantom
+16395	[Adventure Party] Phantom Realm Quest	[Adventure Party] ภารกิจอาณาจักร Phantom
 16396	Complete Equipment Forging @{1} times	อุปกรณ์การตีขึ้นรูป@{1}เสร็จสมบูรณ์ครั้ง
-16397	Defeat Nasha in the Realm of the Gods	เอาชนะ Nasha ในอาณาจักรแห่งเทพเจ้า
-16398	Defeat Mirko in the Realm of the Gods	เอาชนะ Mirko ในอาณาจักรแห่งเทพเจ้า
+16397	Defeat Nasha in the Realm of the Gods	เอาชนะ Nasha ใน Realm of the Gods
+16398	Defeat Mirko in the Realm of the Gods	เอาชนะ Mirko ใน Realm of the Gods
 16399	Tap here to view auto-battle monsters	แตะที่นี่เพื่อดูมอนสเตอร์ต่อสู้อัตโนมัติ
 16400	Hurry and use it to obtain the mount.	รีบใช้มันเพื่อรับพาหนะ
 16401	You can view potions in your Backpack	คุณสามารถดูยาในกระเป๋าเป้สะพายหลังของคุณ
@@ -405,44 +405,44 @@
 16404	Click Level-up to grow even stronger!	คลิกเพิ่มเลเวลเพื่อเติบโตให้แข็งแกร่งยิ่งขึ้น!
 16405	Use a Fly Wing to teleport instantly!	ใช้ Fly Wing เพื่อเทเลพอร์ตทันที!
 16406	Select Prontera to begin fast travel!	Select Prontera to begin fast travel!
-16407	You got some equipment! Go put it on!	คุณมีอุปกรณ์แล้ว!ไปใส่เลย!
+16407	You got some equipment! Go put it on!	คุณมีอุปกรณ์แล้ว! ไปใส่เลย!
 16408	Hey~ Hurry and Tap to view the quest.	เฮ้~ รีบแตะเพื่อดูภารกิจ
 16409	My name is Zenji, and I like origami.	ฉันชื่อเซนจิ และฉันชอบพับกระดาษโอริกามิ
 16410	It looks like a jumbled pile of junk.	ดูเหมือนกองขยะที่กองกันยุ่ง
 16411	I'll definitely pass the Novice exam!	ฉันจะผ่านการสอบ Novice แน่นอน!
 16412	Excitement, of course. They're young.	ตื่นเต้นแน่นอนพวกเขายังเด็ก
-16413	Mmm, Delicious! Absolutely Delicious!	อืม อร่อย!อร่อยอย่างแน่นอน!
+16413	Mmm, Delicious! Absolutely Delicious!	อืม อร่อย! อร่อยอย่างแน่นอน!
 16414	I need a little more time to prepare.	ฉันต้องการเวลาเตรียมตัวอีกเล็กน้อย
 16415	Let's set out and return to Prontera.	ออกเดินทางและกลับไปที่พรอนเทรากันเถอะ
 16416	It's almost time. You should go back.	ใกล้จะถึงเวลาแล้วคุณควรกลับไป
-16417	Meow, meow, meow, meow... Meow, meow!	เหมียว เหมียว เหมียว... เหมียว เหมียว!
+16417	Meow, meow, meow, meow... Meow, meow!	Meow Meow Meow... Meow Meow!
 16418	Relax and enjoy the rest of the party	ผ่อนคลายและเพลิดเพลินกับปาร์ตี้ที่เหลือ
 16419	Combine is successful. Obtained ${1}.	การรวมสำเร็จได้รับ${1}แล้ว
 16420	Monster DEF increases after @{1} sec.	DEF ของมอนสเตอร์เพิ่มขึ้นหลังจาก@{1}วินาที
 16421	Epic Campaign (Easy), Begin Challenge	Epic Campaign (ง่าย) เริ่มการท้าทาย
 16422	${1} Killed ${2} and became Peerless.	${1}ฆ่า${2}และกลายเป็นผู้ไม่มีใครเทียบได้
-16423	The Demonic Dragon Soul has appeared!	วิญญาณมังกรปีศาจปรากฏตัวแล้ว!
+16423	The Demonic Dragon Soul has appeared!	Demonic Dragon Soul ปรากฏตัวแล้ว!
 16424	The Dragonblood Crystal has appeared!	Dragonblood Crystal ปรากฏตัวแล้ว!
-16425	Shadow of Agony\nNo one can Judex me!	เงาแห่งความทุกข์ทรมาน\nไม่มีใครสามารถตัดสินฉันได้!
+16425	Shadow of Agony\nNo one can Judex me!	เงาแห่งความทุกข์ทรมาน\n ไม่มีใครสามารถตัดสินฉันได้!
 16426	Mechanic alert above message bar test	การแจ้งเตือนกลไกเหนือการทดสอบแถบข้อความ
 16427	^{1}${2}^{2} has captured Point ${3}!	^{1}${2}^{2}ได้ยึดจุดแล้ว${3}!
 16428	Territory War escort Trade has ended.	การค้าคุ้มกันสงครามดินแดนสิ้นสุดลงแล้ว
 16429	The Boss will use the recorded skills	บอสจะใช้ทักษะที่บันทึกไว้
-16430	Bobo\nSorry, that's the wrong answer~	Bobo\nขออภัย นั่นเป็นคำตอบที่ผิด~
-16431	Call for backup! I'll heal him first~	โทรสำรอง!ฉันจะรักษาเขาก่อน~
-16432	Bobo\nWe almost won. Let's Try Again!	Bobo\nเราเกือบชนะแล้วมาลองอีกครั้ง!
+16430	Bobo\nSorry, that's the wrong answer~	Bobo\n ขออภัย นั่นเป็นคำตอบที่ผิด~
+16431	Call for backup! I'll heal him first~	โทรสำรอง! ฉันจะรักษาเขาก่อน~
+16432	Bobo\nWe almost won. Let's Try Again!	Bobo\n เราเกือบชนะแล้วมาลองอีกครั้ง!
 16433	Complete this chapter's quests first.	ทำภารกิจของบทนี้ให้สำเร็จก่อน
 16434	Complete the Golden Thief Bug Dungeon	สำเร็จดันเจี้ยน Golden Thief Bug
 16435	Someone else purchased the item first	มีคนอื่นซื้อสินค้าก่อน
 16436	Request Items from Friends and Allies	ขอไอเทมจากเพื่อนและพันธมิตร
 16437	Field Auto-Battle Challenge @{1}-@{2}	การท้าทายการต่อสู้อัตโนมัติในสนาม@{1}-@{2}กฎการสลายตัวของการต่อสู้อัตโนมัติของสนาม
-16438	Combat NPC Ice Turret Cast Skill (ST)	ต่อสู้ NPC ทักษะการร่ายป้อมน้ำแข็ง (ST)
+16438	Combat NPC Ice Turret Cast Skill (ST)	Combat NPC Ice Turret Cast Skill (ST)
 16439	Complete Trans. 2nd Class Advancement	ทรานส์สมบูรณ์ความก้าวหน้าชั้นที่ 2
-16440	Spend @{1} minutes in any Tavern room	ใช้เวลา@{1}นาทีในห้องโรงเตี๊ยมใดก็ได้
+16440	Spend @{1} minutes in any Tavern room	ใช้เวลา@{1}นาทีในห้อง Tavern ใดก็ได้
 16441	Description of the Dwarven Bone Flute	คำอธิบายของขลุ่ยกระดูกคนแคระ
 16442	MINIENGINE_LESS_THAN_REMOTE_ERROR_WIN	MINIENGINE_LESS_THAN_REMOTE_ERROR_WIN
 16443	Mount · Fox can be unlocked upon use.	Mount · สามารถปลดล็อค Fox ได้เมื่อใช้งาน
-16444	Use to Activate Composer (Permanent).	ใช้เพื่อเปิดใช้งานนักแต่งเพลง (ถาวร)
+16444	Use to Activate Composer (Permanent).	ใช้เพื่อเปิดใช้งาน Composer (ถาวร)
 16445	Guest accounts cannot make purchases.	บัญชี Guest ไม่สามารถซื้อสินค้าได้
 16446	Crafting Moonlit Challenger - Forging	การประดิษฐ์ผู้ท้าชิงแสงจันทร์ - การตีขึ้นรูป
 16447	Crafting Moonlit Challenger - Carving	Crafting Moonlit Challenger - งานแกะสลัก
@@ -452,26 +452,26 @@
 16451	The Clue is nearby. Search carefully!	เบาะแสอยู่ใกล้ๆค้นหาอย่างระมัดระวัง!
 16452	Not enough materials to breakthrough.	วัสดุไม่เพียงพอต่อการพัฒนา
 16453	A weapon fitted with numerous blades.	อาวุธที่ติดตั้งใบมีดจำนวนมาก
-16454	A Spear with an inward-curving blade.	หอกที่มีใบมีดโค้งเข้าด้านใน
-16455	A Spear made exclusively for knights.	หอกที่สร้างขึ้นเพื่ออัศวินโดยเฉพาะ
+16454	A Spear with an inward-curving blade.	Spear ที่มีใบมีดโค้งเข้าด้านใน
+16455	A Spear made exclusively for knights.	Spear ที่สร้างขึ้นเพื่ออัศวินโดยเฉพาะ
 16456	A versatile sword with a thick blade.	ดาบอเนกประสงค์ที่มีใบมีดหนา
 16457	Premium Currency for the Season Shop.	สกุลเงินพรีเมียมสำหรับร้านค้าซีซั่น
 16458	Chance to obtain the following skills	โอกาสที่จะได้รับทักษะดังต่อไปนี้
-16459	Deluxe Pack-Test Cross-Season Removal	Deluxe Pack-Test การกำจัดข้ามฤดูกาล
-16460	Test Item Repeat Acquisition Function	ฟังก์ชันการซื้อซ้ำรายการทดสอบ
+16459	Deluxe Pack-Test Cross-Season Removal	Deluxe Pack-Test Cross-Season Removal
+16460	Test Item Repeat Acquisition Function	Test Item Repeat Acquisition Function
 16461	You cannot gift Crystals to yourself.	คุณไม่สามารถมอบคริสตัลเป็นของขวัญให้ตัวเองได้
-16462	Tier @{1} Equipment Forging Blueprint	Tier@{1}พิมพ์เขียวการตีอุปกรณ์
-16463	【Guild Joint Battle】Realm of the Gods	【การต่อสู้ร่วมกิลด์】อาณาจักรแห่งเทพเจ้า
+16462	Tier @{1} Equipment Forging Blueprint	Tier @{1} Equipment Forging Blueprint
+16463	【Guild Joint Battle】Realm of the Gods	【Guild Joint Battle】Realm of the Gods
 16464	Guild League - Finals (Auction Check)	Guild League - รอบชิงชนะเลิศ (ตรวจสอบการประมูล)
 16465	Irmata, God of Nature (Auction Check)	Irmata เทพเจ้าแห่งธรรมชาติ (ตรวจสอบการประมูล)
-16466	Magic Breaker Scroll · Accessory-Blue	Magic Breaker Scroll · อุปกรณ์เสริม-สีน้ำเงิน
-16467	Siegebreaker Scroll · Accessory-Green	Siegebreaker Scroll · อุปกรณ์เสริม-สีเขียว
-16468	Emerald Realm Ward Scroll · Shoes-Red	Emerald Realm Ward Scroll · รองเท้า-แดง
-16469	Crimson Realm Ward Scroll · Shoes-Red	Crimson Realm Ward Scroll · รองเท้า-แดง
-16470	Emerald Realm Ward Scroll · Cloak-Red	Emerald Realm Ward Scroll · เสื้อคลุม-แดง
-16471	Crimson Realm Ward Scroll · Cloak-Red	Crimson Realm Ward Scroll · เสื้อคลุม-แดง
-16472	Golden Realmguard Scroll·Off-Hand-Red	Golden Realmguard Scroll·นอกมือ-แดง
-16473	Eagle Eye Scroll · Dual Wield - Green	Eagle Eye Scroll · อาวุธคู่ - สีเขียว
+16466	Magic Breaker Scroll · Accessory-Blue	Magic Breaker Scroll · Accessory-Blue
+16467	Siegebreaker Scroll · Accessory-Green	Siegebreaker Scroll · Accessory-Green
+16468	Emerald Realm Ward Scroll · Shoes-Red	Emerald Realm Ward Scroll · Shoes-Red
+16469	Crimson Realm Ward Scroll · Shoes-Red	Crimson Realm Ward Scroll · Shoes-Red
+16470	Emerald Realm Ward Scroll · Cloak-Red	Emerald Realm Ward Scroll · Cloak-Red
+16471	Crimson Realm Ward Scroll · Cloak-Red	Crimson Realm Ward Scroll · Cloak-Red
+16472	Golden Realmguard Scroll·Off-Hand-Red	Golden Realmguard Scroll·Off-Hand-Red
+16473	Eagle Eye Scroll · Dual Wield - Green	Eagle Eye Scroll · Dual Wield - Green
 16474	Select the equipment slot to Enchant.	เลือกช่องอุปกรณ์ที่จะเสริมพลัง
 16475	Not enough pets of the required level	มีสัตว์เลี้ยงไม่เพียงพอในระดับที่กำหนด
 16476	Not enough time spent in field combat	ใช้เวลาไม่เพียงพอในการต่อสู้ภาคสนาม
@@ -486,10 +486,10 @@
 16485	Cannot be used in your current state.	ไม่สามารถใช้ในสถานะปัจจุบันของคุณได้
 16486	Unlock this skill to view its details	ปลดล็อคทักษะนี้เพื่อดูรายละเอียด
 16487	Purchase from the Magic Fashion Shop.	ซื้อจากร้าน Magic Fashion
-16488	Maximum Over Thrust - Critical Strike	แรงขับเกินสูงสุด - การโจมตีแบบคริติคอล
+16488	Maximum Over Thrust - Critical Strike	Maximum Over Thrust - การโจมตีแบบคริติคอล
 16489	Spear Mastery - Increased Holy Damage	Spear Mastery - เพิ่มความเสียหายศักดิ์สิทธิ์
 16490	BDDictionary_enum@{1}_Tag_AddSubtract	BDDictionary_enum@{1}_Tag_AddSubtract
-16491	Restores @{1}% of Max Life per second	คืนค่า@{1}% ของพลังชีวิตสูงสุดต่อวินาที
+16491	Restores @{1}% of Max Life per second	คืนค่า@{1}% ของพลัง Life สูงสุดต่อวินาที
 16492	Boss @{1} Persistent Water Orb Effect	Boss@{1}เอฟเฟกต์ลูกแก้วน้ำถาวร
 16493	Assassin Talent@{1}-@{2} Support Buff	Assassin Talent@{1}- บัฟสนับสนุน@{2}
 16494	Reach Refinement Resonance Level ${1}	เข้าถึงระดับเรโซแนนซ์การปรับแต่ง${1}
@@ -505,16 +505,16 @@
 16504	Already on the request-to-speak list.	อยู่ในรายการขอพูดแล้ว
 16505	This monster is already in Favorites.	มอนสเตอร์ตัวนี้อยู่ในรายการโปรดแล้ว
 16506	This item cannot be listed right now.	ไม่สามารถแสดงรายการนี้ได้ในขณะนี้
-16507	Invalid Adventurer Group declaration.	การประกาศกลุ่มนักผจญภัยไม่ถูกต้อง
+16507	Invalid Adventurer Group declaration.	การประกาศกลุ่ม Adventurer ไม่ถูกต้อง
 16508	Temporary Members cannot be appointed	ไม่สามารถแต่งตั้งสมาชิกชั่วคราวได้
 16509	No Soul Echoes are currently deployed	ไม่มี Soul Echoes ที่ใช้งานอยู่ในขณะนี้
 16510	Gift order has already been processed	คำสั่งซื้อของขวัญได้รับการประมวลผลแล้ว
-16511	Life Skill title requirements not met	ไม่ตรงตามข้อกำหนดชื่อทักษะชีวิต
-16512	Life Skill title skill does not exist	ทักษะฉายาทักษะชีวิตไม่มีอยู่
+16511	Life Skill title requirements not met	ไม่ตรงตามข้อกำหนดชื่อทักษะ Life
+16512	Life Skill title skill does not exist	ทักษะฉายาทักษะ Life ไม่มีอยู่
 16513	This build cannot be submitted again.	build นี้ไม่สามารถส่งอีกครั้งได้
 16514	Preset name contains sensitive words.	ชื่อที่ตั้งไว้ล่วงหน้ามีคำที่ละเอียดอ่อน
-16515	Master Smith's Blessing - Arcane Arts	พรของอาจารย์ Smith - Arcane Arts
-16516	Master Smith's Blessing - Destruction	พรของ Master Smith - การทำลายล้าง
+16515	Master Smith's Blessing - Arcane Arts	Blessing ของอาจารย์ Smith - Arcane Arts
+16516	Master Smith's Blessing - Destruction	Blessing ของ Master Smith - การทำลายล้าง
 16517	Participate in Guild Siege ${1} times	เข้าร่วม Guild Siege${1}ครั้ง
 16518	Character is already pending deletion	อักขระอยู่ระหว่างรอการลบ
 16519	Cannot perform this action while dead	ไม่สามารถดำเนินการนี้ได้ในขณะที่ไม่ทำงาน
@@ -522,10 +522,10 @@
 16521	Hotbar equipment is already equipped.	อุปกรณ์ Hotbar มีการติดตั้งไว้แล้ว
 16522	Defeat the Archer Guardian +${1} sec.	กำจัด Archer Guardian +${1}วินาที
 16523	Cannot teleport while riding a mount.	ไม่สามารถเทเลพอร์ตขณะขี่สัตว์พาหนะได้
-16524	Phase Two\nDefeat the Knight Guardian	เฟสสอง\nกำจัดอัศวินผู้พิทักษ์
-16525	Stage 4\nDefend the Magnificent Metal	Stage 4\nปกป้องโลหะอันงดงาม
+16524	Phase Two\nDefeat the Knight Guardian	เฟสสอง\n กำจัด Knight Guardian
+16525	Stage 4\nDefend the Magnificent Metal	Stage 4\n ปกป้องโลหะอันงดงาม
 16526	This special Job item does not exist.	ไม่มีรายการงานพิเศษนี้
-16527	Tree Spirit ^{1}^{2}[Respawn]^{3}^{4}	ต้นไม้วิญญาณ ^{1}^{2}[เกิดใหม่]^{3}^{4}
+16527	Tree Spirit ^{1}^{2}[Respawn]^{3}^{4}	ต้นไม้วิญญาณ ^{1}^{2}[Respawn]^{3}^{4}
 16528	The text contains sensitive language.	ข้อความมีภาษาที่ละเอียดอ่อน
 16529	Appraised equipment cannot be listed.	ไม่สามารถแสดงรายการอุปกรณ์ประเมินได้
 16530	Class-specific items cannot be Traded	ไอเทมเฉพาะคลาสไม่สามารถแลกเปลี่ยนได้
@@ -538,7 +538,7 @@
 16537	Mail has been deleted or has expired.	เมลถูกลบหรือหมดอายุแล้ว
 16538	Unlock · Lord of the Starry Firmament	ปลดล็อค · เจ้าแห่งนภาดวงดาว
 16539	A-A free Mount? Hurry and Receive it!	A-A ฟรีเมาท์เหรอ? รีบและรับมัน!
-16540	Come on. Let's head back to Prontera.	มาเลยกลับไปที่พรอนเทร่ากันเถอะ
+16540	Come on. Let's head back to Prontera.	มาเลยกลับไปที่ Prontera กันเถอะ
 16541	Tap the left side to record your oath	แตะด้านซ้ายเพื่อบันทึกคำสาบานของคุณ
 16542	Tap the right side to enter your oath	แตะทางด้านขวาเพื่อสาบาน
 16543	Adventure Group reaches Lv. ${1}/${2}	กลุ่มผจญภัยถึงเลเวลแล้ว${1}/${2}
@@ -548,16 +548,16 @@
 16547	Increases your Poison damage by @{1}%	เพิ่มความเสียหายพิษของคุณโดย@{1}%
 16548	Add a sound effect at maximum stacks.	เพิ่มเอฟเฟกต์เสียงที่สแต็คสูงสุด
 16549	Increases Holy damage dealt by @{1}%.	เพิ่มความเสียหายศักดิ์สิทธิ์ที่ทำได้@{1}%
-16550	Life cannot fall below ^{1}${1}%^{2}.	ชีวิตไม่ตกต่ำกว่า ^{1}${1}%^{2}.
+16550	Life cannot fall below ^{1}${1}%^{2}.	Life ไม่ตกต่ำกว่า ^{1}${1}%^{2}.
 16551	Select an original build on the left.	เลือกโครงสร้างดั้งเดิมทางด้านซ้าย
 16552	Reach <color=#63a22b>${1}</color> DPS	Reach <color=#63a22b>${1}</color> DPS
 16553	Physical/Magic DEF decreases by @{1}%	DEF กายภาพ/เวทมนตร์ลดลง@{1}%
 16554	Resets all skills upon leaving combat	รีเซ็ตทักษะทั้งหมดเมื่อออกจากการต่อสู้
-16555	Increases Life by ${1}~${2} when used	เพิ่มพลังชีวิตโดย${1}~${2}เมื่อใช้
+16555	Increases Life by ${1}~${2} when used	เพิ่มพลัง Life โดย${1}~${2}เมื่อใช้
 16556	Increases Cast Speed by ^{1}${1}^{2}.	เพิ่มความเร็วในการร่ายโดย ^{1}${1}^{2}
 16557	Increases Ghost damage dealt by @{1}%	เพิ่มความเสียหายของ Ghost ที่สร้างโดย@{1}%
 16558	The event ends in less than one hour.	กิจกรรมสิ้นสุดในเวลาไม่ถึงหนึ่งชั่วโมง
-16559	Blade Deflection - Repeat Until Death	การโก่งของใบมีด - ทำซ้ำจนกว่าจะตาย
+16559	Blade Deflection - Repeat Until Death	Blade Deflection - Repeat Until Death
 16560	Job Level too low. Unable to advance!	ระดับงานต่ำเกินไปก้าวหน้าไม่ได้!
 16561	Daily quests refresh at ${1} o'clock.	รีเฟรชเควสรายวันเวลา${1}โมง
 16562	Damage Reduction from Earth Monsters %	การลดความเสียหายจากมอนสเตอร์ดิน %
@@ -565,7 +565,7 @@
 16564	Damage Reduction from Ghost Monsters %	การลดความเสียหายจาก Ghost Monsters %
 16565	Reach the deepest part of the ant nest	เข้าถึงส่วนที่ลึกที่สุดของรังมด
 16566	^{1}Battle of Dragon Coffin Island^{2}	^{1}ศึกเกาะโลงศพมังกร^{2}
-16567	Move Forward and catch up with Dracula	ก้าวไปข้างหน้าและไล่ตามแดร็กคูล่าให้ทัน
+16567	Move Forward and catch up with Dracula	ก้าวไปข้างหน้าและไล่ตาม Dracula ให้ทัน
 16568	Deploy @{1} pets at Lv. @{2} or higher	ปรับใช้สัตว์เลี้ยง@{1}ที่ระดับ@{2}หรือสูงกว่า
 16569	Obtain @{1} activated attribute skills	รับทักษะคุณลักษณะที่เปิดใช้งาน@{1}
 16570	A nearby Eden Group Member greets you.	สมาชิกกลุ่มอีเดนที่อยู่ใกล้ๆ ทักทายคุณ
@@ -574,7 +574,7 @@
 16573	Head to the professor's research site.	มุ่งหน้าไปยังเว็บไซต์วิจัยของอาจารย์
 16574	Find out why the stray cat is meowing.	หาคำตอบว่าทำไมแมวจรจัดถึงร้องเหมียว
 16575	Rare Reward-Golden Thief Bug-MVP Limit	รางวัลหายาก-Golden Thief Bug-ขีดจำกัด MVP
-16576	Rare Reward-Moonlight Flower-MVP Limit	รางวัลหายาก-ดอกไม้แสงจันทร์-ขีดจำกัด MVP
+16576	Rare Reward-Moonlight Flower-MVP Limit	รางวัลหายาก-Moonlight Flower-ขีดจำกัด MVP
 16577	Novice Tutorial-Eddga-@{1}-Time Reward	บทช่วยสอนมือใหม่-Eddga-@{1}-รางวัลเวลา
 16578	Return to the NPC to claim your reward	กลับไปที่ NPC เพื่อรับรางวัลของคุณ
 16579	Participate in the guild bonfire event	ร่วมกิจกรรมกองไฟกิลด์
@@ -595,35 +595,35 @@
 16594	Affects your Chance to inflict Silence	ส่งผลต่อโอกาสในการสร้างความเงียบ
 16595	Affects your Chance to inflict Petrify	ส่งผลต่อโอกาสในการสร้างสถานะกลายเป็นหิน
 16596	Affects your Chance of being Petrified	ส่งผลต่อโอกาสในการกลายเป็นหิน
-16597	Guild creation failed. Items returned.	การสร้างกิลด์ล้มเหลวสินค้าถูกส่งคืน
-16598	Passive Stall Closure (Items Sold Out)	การปิดแผงลอยแบบพาสซีฟ (สินค้าจำหน่ายหมดแล้ว)
+16597	Guild creation failed. Items returned.	การสร้าง Guild ล้มเหลวสินค้าถูกส่งคืน
+16598	Passive Stall Closure (Items Sold Out)	การปิดแผงลอยแบบ Passive (สินค้าจำหน่ายหมดแล้ว)
 16599	Delisted Due to Character Restrictions	ถูกเพิกถอนเนื่องจากข้อจำกัดของอักขระ
-16600	[War of Emperium] Participation Reward	[สงครามแห่งเอ็มเพอเรียม] รางวัลการเข้าร่วม
+16600	[War of Emperium] Participation Reward	[War of Emperium] รางวัลการเข้าร่วม
 16601	Prontera Defense Guild Ranking Rewards	Prontera Defense
 16602	Tribute of Echoes Event Reward Reissue	การออกรางวัลกิจกรรม Tribute of Echoes ใหม่
-16603	Temporary Battle Royale Activity Quest	ภารกิจกิจกรรม Battle Royale ชั่วคราว
+16603	Temporary Battle Royale Activity Quest	ภารกิจ Activity Battle Royale ชั่วคราว
 16604	The location will be shown on the map.	ตำแหน่งจะแสดงบนแผนที่
 16605	Tap to Move to the caravan's Location.	แตะเพื่อย้ายไปยังตำแหน่งของคาราวาน
 16606	[Current <color=#c27b47>+${1}</color>]	[Current <color=#c27b47>+${1}</color>]
 16607	Press and hold to open potion settings	กดค้างไว้เพื่อเปิดการตั้งค่ายา
 16608	<color=#FF0000>Entering Combat</color>	<color=#FF0000>Entering Combat</color>
 16609	Clear out the Nearby Deniro and Piere*	เคลียร์ Deniro และ Piere ที่อยู่ใกล้เคียง*
-16610	Go to Ant Hell and find Professor Ryan	ไปที่ Ant Hell แล้วค้นหาศาสตราจารย์ Ryan
+16610	Go to Ant Hell and find Professor Ryan	ไปที่ Ant Hell แล้วค้นหา Professor Ryan
 16611	Examine the cargo crate on the ground*	ตรวจสอบลังสินค้าบนพื้น*
 16612	Bragis has appeared again. Talk to her	Bragis ปรากฏตัวอีกครั้งคุยกับเธอ
 16613	Extra World Paragon Level bonus: ${1}%	โบนัสระดับพารากอน Extra World:${1}%
 16614	Increases Movement Speed---/HP recover	เพิ่มความเร็วในการเคลื่อนที่---/ฟื้นฟู HP
-16615	\nYou transported supplies ${1} times.	\nคุณขนส่งวัสดุสิ้นเปลือง${1}ครั้ง
-16616	\nYou enjoyed ${1} artistic activities	\nคุณเพลิดเพลินกับกิจกรรมทางศิลปะของ${1}
-16617	Territory War Guild Points Leaderboard	กระดานคะแนนกิลด์สงครามดินแดน
-16618	Appearance Shop - Mining Star Treasure	ลักษณะร้านค้า - สมบัติการขุดดาว
+16615	\nYou transported supplies ${1} times.	\n คุณขนส่งวัสดุสิ้นเปลือง${1}ครั้ง
+16616	\nYou enjoyed ${1} artistic activities	\n คุณเพลิดเพลินกับกิจกรรมทางศิลปะของ${1}
+16617	Territory War Guild Points Leaderboard	กระดานคะแนน Guild สงครามดินแดน
+16618	Appearance Shop - Mining Star Treasure	ลักษณะร้านค้า - สมบัติ Mining ดาว
 16619	Combine Earth and Fire for AoE damage.	รวม Earth และ Fire เพื่อสร้างความเสียหายแบบ AoE
 16620	This mail has no attachments to claim.	เมลนี้ไม่มีไฟล์แนบที่จะอ้างสิทธิ์
 16621	Decreases by @{1}% daily, up to @{2}%.	ลดลง@{1}% ทุกวัน สูงสุด@{2}%
 16622	Obtain Crystals by participating daily	รับคริสตัลจากการเข้าร่วมทุกวัน
 16623	You can refresh again in ${1} seconds!	คุณสามารถรีเฟรชได้อีกครั้งใน${1}วินาที!
 16624	Use 1 Yggdrasil Leaf to Revive 【${1}】?	ใช้ใบไม้ Yggdrasil 1 ใบเพื่อฟื้นคืนชีพ 【${1}】?
-16625	Realm of the Gods · No-Revive Speedrun	อาณาจักรแห่งเทพเจ้า · Speedrun ที่ไม่มีการฟื้นคืนชีพ
+16625	Realm of the Gods · No-Revive Speedrun	Realm of the Gods · Speedrun ที่ไม่มีการฟื้นคืนชีพ
 16626	Enter a friend's name or UID to search	ใส่ชื่อเพื่อนหรือ UID เพื่อค้นหา
 16627	Selected (<color=#cc762a>${1}</color>)	เลือกแล้ว (<color=#cc762a>${1}</color>)
 16628	Tap a player's Portrait to Add Friend.	แตะรูปผู้เล่นเพื่อเพิ่มเพื่อน
@@ -640,37 +640,37 @@
 16639	Pet Protection Effect Trigger - Shield	ทริกเกอร์เอฟเฟกต์การปกป้องสัตว์เลี้ยง - โล่
 16640	Insufficient Guild Siege participation	การเข้าร่วม Guild Siege ไม่เพียงพอ
 16641	Not all objectives have been completed	วัตถุประสงค์ยังไม่เสร็จสมบูรณ์ทั้งหมด
-16642	Physical DEF +${1} and Max Life +${2}.	DEF กายภาพ +${1}และพลังชีวิตสูงสุด +${2}
+16642	Physical DEF +${1} and Max Life +${2}.	DEF กายภาพ +${1}และพลัง Life สูงสุด +${2}
 16643	Gain ${1}% Magic ATK and Physical ATK.	ได้รับ${1}% พลังโจมตีเวทย์มนตร์และพลังโจมตีกายภาพ
 16644	Grant All Players Full Mini Map Vision	มอบการมองเห็นแผนที่ย่อแบบเต็มให้กับผู้เล่นทุกคน
 16645	Blessing Angel Persistent Magic Circle	วงเวทย์ศักดิ์สิทธิ์ Blessing Angel
-16646	Decreases Cooldown Reduction by @{1}%.	ลดการลดคูลดาวน์ลง@{1}%
+16646	Decreases Cooldown Reduction by @{1}%.	ลดการ Cooldown Reduction ลง@{1}%
 16647	An Archer has their sights set on you.	นักธนูมุ่งเป้าไปที่คุณ
 16648	The queue timed out. Please try again.	คิวหมดเวลาโปรดลองอีกครั้ง
-16649	Heavy Shield Defense - Full-screen AOE	การป้องกันด้วยโล่หนัก - AOE แบบเต็มหน้าจอ
-16650	Ghost Ship Grand Charge Horizontal@{1}	เรือผี แกรนด์ชาร์จแนวนอน@{1}
-16651	Moonlight Flower Four-Corner Bell Hard	กระดิ่งสี่มุม ดอกแสงจันทร์ แบบแข็ง
-16652	Moonlight Flower Five-Corner Bell Hard	กระดิ่งห้ามุม ดอกแสงจันทร์ แบบแข็ง
-16653	Up, Down, Left, Right-Failure Feedback	ขึ้น, ลง, ซ้าย, ขวา - ข้อเสนอแนะความล้มเหลว
-16654	Skill@{1}(New)_Summon Compression Zone	@{1}(ใหม่) _อัญเชิญโซนการบีบอัด
-16655	Skill@{1}(New)_Compression Zone Damage	@{1}(ใหม่) _ความเสียหายจากโซนการบีบอัด
+16649	Heavy Shield Defense - Full-screen AOE	Heavy Shield Defense - Full-screen AOE
+16650	Ghost Ship Grand Charge Horizontal@{1}	Ghost Ship Grand Charge Horizontal@{1}
+16651	Moonlight Flower Four-Corner Bell Hard	Moonlight Flower Four-Corner Bell Hard
+16652	Moonlight Flower Five-Corner Bell Hard	Moonlight Flower Five-Corner Bell Hard
+16653	Up, Down, Left, Right-Failure Feedback	Up, Down, Left, Right-Failure Feedback
+16654	Skill@{1}(New)_Summon Compression Zone	Skill@{1}(New)_Summon Compression Zone
+16655	Skill@{1}(New)_Compression Zone Damage	Skill@{1}(New)_Compression Zone Damage
 16656	For every +${1} Refine, Max Life +${2}	สำหรับทุก ๆ +${1}Refine, Max Life +${2}
-16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม Lv.ตัวละคร*${1}】
+16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม Lv. ตัวละคร*${1}】
 16658	Reduces Neutral damage taken by ${1}%.	ลดความเสียหายที่เป็นกลางที่ได้รับโดย${1}%
 16659	Magic damage dealt increases by ${1}%.	ความเสียหายเวทย์ที่สร้างเพิ่มขึ้น${1}%
-16660	Find the missing Caravan Party Leader.	ค้นหาหัวหน้าปาร์ตี้คาราวานที่หายไป
+16660	Find the missing Caravan Party Leader.	ค้นหา Caravan Party Leader ที่หายไป
 16661	Help the caravan with Cargo Placement.	ช่วยคาราวานด้วย Cargo Placement
-16662	When phase @{1} begins, play Fireworks	เมื่อเฟส@{1}เริ่มต้น ให้เล่นดอกไม้ไฟ
+16662	When phase @{1} begins, play Fireworks	เมื่อเฟส@{1}เริ่มต้น ให้เล่น Fireworks
 16663	Send Boss Death Notification to Client	ส่งการแจ้งเตือนการตายของบอสให้กับลูกค้า
 16664	Title level is already at the maximum.	ระดับหัวเรื่องอยู่ที่ระดับสูงสุดแล้ว
 16665	Fly Wings cannot be used in this area.	Fly Wings ไม่สามารถใช้ได้ในบริเวณนี้
 16666	You cannot switch channels while dead.	คุณไม่สามารถเปลี่ยนช่องในขณะที่ตายได้
 16667	Skills default to their maximum level.	มีค่าเริ่มต้นเป็นระดับสูงสุด
-16668	Open Thursday from @{1}:@{2}~@{3}:@{4}	เปิดวันพฤหัสบดีตั้งแต่@{1}:@{2}~@{3}:@{4}
+16668	Open Thursday from @{1}:@{2}~@{3}:@{4}	Open วันพฤหัสบดีตั้งแต่@{1}:@{2}~@{3}:@{4}
 16669	You can enter up to ${1} items at once	คุณสามารถป้อนรายการได้สูงสุด${1}ในครั้งเดียว
 16670	You haven't added any Group Chats yet!	คุณยังไม่ได้เพิ่มการแชทกลุ่มเลย!
-16671	【Magic Damage Reduction】Greedy Phoenix	【ลดความเสียหายเวทย์มนตร์】ฟีนิกซ์โลภ
-16672	Moonlight Flower Bell Cage Deathrattle	กรงระฆังดอกไม้แสงจันทร์ เสียงสุดท้าย
+16671	【Magic Damage Reduction】Greedy Phoenix	【Magic Damage Reduction】Greedy Phoenix
+16672	Moonlight Flower Bell Cage Deathrattle	Moonlight Flower Bell Cage Deathrattle
 16673	Complete the prerequisite stage first.	ดำเนินการขั้นตอนเบื้องต้นให้เสร็จสมบูรณ์ก่อน
 16674	There are currently no chests to open.	ขณะนี้ไม่มีหีบให้เปิด
 16675	Not enough Currency for the Stall fee~	สกุลเงินไม่เพียงพอสำหรับค่าธรรมเนียมแผงลอย~
@@ -680,28 +680,28 @@
 16679	Defeat All Monsters in Stage @{1}-@{2}	กำจัดมอนสเตอร์ทั้งหมดในระยะ@{1}-@{2}
 16680	Automatically Approve Support Requests	อนุมัติคำขอการสนับสนุนโดยอัตโนมัติ
 16681	Invite all Elite Members to the party?	เชิญสมาชิก Elite ทุกคนมางานปาร์ตี้เหรอ?
-16682	Visit the Prontera Soldier (@{1}/@{2})	เยี่ยมชมทหารพรอนเทรา (@{1}/@{2})
+16682	Visit the Prontera Soldier (@{1}/@{2})	เยี่ยมชม Soldier พรอนเทรา (@{1}/@{2})
 16683	Visit the Foreign Merchant (@{1}/@{2})	เยี่ยมชมร้านค้าต่างประเทศ (@{1}/@{2})
-16684	[Adventure Guild] Daily Watering Quest	[กิลด์ผจญภัย] ภารกิจรดน้ำประจำวัน
-16685	【Adventure Party】Kafra Survivor Battle	【ปาร์ตี้ผจญภัย】การต่อสู้ของผู้รอดชีวิตคาฟรา
+16684	[Adventure Guild] Daily Watering Quest	[Adventure Guild] ภารกิจรดน้ำประจำวัน
+16685	【Adventure Party】Kafra Survivor Battle	【Adventure Party】การต่อสู้ของผู้รอดชีวิต Kafra
 16686	Increase the star rating of All Skills	เพิ่มระดับดาวของทักษะทั้งหมด
-16687	Obtain Orange Cards for the first time	ได้รับการ์ดสีส้มเป็นครั้งแรก
+16687	Obtain Orange Cards for the first time	ได้รับ Orange Cards เป็นครั้งแรก
 16688	Equip @{1} Cards across all Card slots	ติดตั้งการ์ด@{1}ในช่องการ์ดทั้งหมด
 16689	Choose a Job Talent for the first time	เลือกผู้มีความสามารถพิเศษในการทำงานเป็นครั้งแรก
 16690	Reach Wardrobe Fashion Rating Lv. @{1}	ตู้เสื้อผ้า Reach ระดับแฟชั่น Lv.@{1}
-16691	Unlock the Worldscorch Feather Costume	ปลดล็อคชุดขนนก Worldscorch
+16691	Unlock the Worldscorch Feather Costume	ปลดล็อคชุด Feather Worldscorch
 16692	Unlock the Silverwing Covenant Costume	ปลดล็อคชุด Silverwing Covenant
 16693	We're almost done. Tap here, tap here.	เกือบเสร็จแล้วแตะที่นี่ แตะที่นี่
 16694	Go check out the tower-climbing quest.	ไปลองดูภารกิจปีนหอคอย
 16695	Breach the gate within the time limit.	ฝ่าฝืนประตูภายในเวลาที่กำหนด
 16696	Some of the roads don't exist anymore~	ถนนบางสายไม่มีอีกต่อไป~
 16697	All right, all right. Izlude is great.	เอาล่ะเอาล่ะ อิซลูเด้เก่งมาก
-16698	Only the brave can become Adventurers.	มีเพียงผู้กล้าเท่านั้นที่สามารถเป็นนักผจญภัยได้
+16698	Only the brave can become Adventurers.	มีเพียงผู้กล้าเท่านั้นที่สามารถเป็น Adventurers ได้
 16699	Restricted government area. Keep away.	พื้นที่ราชการที่ถูกจำกัด ให้ห่างกัน.
 16700	(All you hear is the clash of blades.)	(สิ่งที่คุณได้ยินคือการปะทะกันของใบมีด)
 16701	Getting enough rest is very important.	การพักผ่อนให้เพียงพอเป็นสิ่งสำคัญมาก
 16702	Cannot claim outside the Event Period.	ไม่สามารถรับสิทธิ์ได้นอกระยะเวลากิจกรรม
-16703	Huh? 30%? Has someone not arrived yet?	หือ?30%?มีใครยังมาไม่ถึงหรือเปล่า?
+16703	Huh? 30%? Has someone not arrived yet?	หือ?30%? มีใครยังมาไม่ถึงหรือเปล่า?
 16704	<color=#FF6161>Time Until Exit</color>	<color=#FF6161>Time Until Exit</color>
 16705	Tap an area on the map to add a marker	แตะพื้นที่บนแผนที่เพื่อเพิ่มเครื่องหมาย
 16706	The auction will open after Settlement	การประมูลจะเปิดหลังจากการชำระบัญชี
@@ -709,28 +709,28 @@
 16708	The Base Vehicle has been activated!!!	Base Vehicle เปิดใช้งานแล้ว!!!
 16709	${1} seconds until the dream collapses	${1}วินาทีจนกระทั่งความฝันพังทลาย
 16710	Almachia's minions are coming for you!	สมุนของ Almachia กำลังมาหาคุณ!
-16711	Bobo\nCongratulations! That's correct!	โบโบ\nยินดีด้วย!ถูกต้อง!
+16711	Bobo\nCongratulations! That's correct!	โบโบ\n ยินดีด้วย! ถูกต้อง!
 16712	Welcome, ${1}, to the Adventure Party!	ยินดีต้อนรับ${1}สู่ปาร์ตี้ผจญภัย!
-16713	Mysterious Voice\nSing! Sing for me...	เสียงลึกลับ\nร้องเพลง!ร้องเพลงให้ฉัน...
+16713	Mysterious Voice\nSing! Sing for me...	เสียงลึกลับ\n ร้องเพลง! ร้องเพลงให้ฉัน...
 16714	Bobo\n(Weakly) Am I... still alive...?	Bobo\n(อ่อนแอ) ฉัน... ยังมีชีวิตอยู่ไหม...?
-16715	Your eyesight is terrible! Hahahahaha!	สายตาคุณแย่มาก!ฮ่าๆๆๆ!
-16716	Bobo\nAdventurer! Adventurer! Wake up!	โบโบะ\nนักผจญภัย!นักผจญภัย!ตื่น!
-16717	Weak Voice\nHelp me... I need water...	เสียงอ่อน\nช่วยด้วย... ฉันต้องการน้ำ...
+16715	Your eyesight is terrible! Hahahahaha!	สายตาคุณแย่มาก! ฮ่าๆๆๆ!
+16716	Bobo\nAdventurer! Adventurer! Wake up!	โบโบะ\nAdventurer!Adventurer! ตื่น!
+16717	Weak Voice\nHelp me... I need water...	เสียงอ่อน\n ช่วยด้วย... ฉันต้องการน้ำ...
 16718	The ball is about to begin. Get ready!	ลูกบอลกำลังจะเริ่มแล้วเตรียมตัวให้พร้อม!
 16719	@{1} VS @{2}—an electrifying showdown!	@{1}VS@{2}—การเผชิญหน้าที่น่าตื่นเต้น!
-16720	Combat NPC Ice Turret Cast Skill (AOE)	ต่อสู้กับ NPC ทักษะการร่ายป้อมน้ำแข็ง (AOE)
-16721	Main Screen and Control Mode Selection	หน้าจอหลักและการเลือกโหมดควบคุม
+16720	Combat NPC Ice Turret Cast Skill (AOE)	Combat NPC Ice Turret Cast Skill (AOE)
+16721	Main Screen and Control Mode Selection	หน้าจอหลักและการเลือกโหมด Control
 16722	Defeat MVP Moonlight Flower in a party	เอาชนะ MVP Moonlight Flower ในปาร์ตี้
 16723	Clear Natural Land dungeons @{1} times	เคลียร์ดันเจี้ยน Natural Land@{1}ครั้ง
-16724	Invincible and Untargetable by Enemies	อยู่ยงคงกระพันและไม่ตกเป็นเป้าหมายของศัตรู
+16724	Invincible and Untargetable by Enemies	Invincible และไม่ตกเป็นเป้าหมายของศัตรู
 16725	Mount · Lion can be unlocked upon use.	Mount · Lion สามารถปลดล็อคได้เมื่อใช้งาน
-16726	Open to receive Dig Boss Kill Rewards.	เปิดรับรางวัล Dig Boss Kill
+16726	Open to receive Dig Boss Kill Rewards.	Open รับรางวัล Dig Boss Kill
 16727	Green material used to craft headgear.	วัสดุสีเขียวใช้ประดิษฐ์หมวก
 16728	Quest Items: Poring's medicinal herbs.	ไอเทมเควส: สมุนไพรของ Poring
 16729	A Rare mineral that emits a blue glow.	แร่ธาตุหายากที่เปล่งแสงสีน้ำเงิน
 16730	Unlocks in <color=#76c233>${1}</color>	Unlocks in <color=#76c233>${1}</color>
 16731	Hatchery level too low for Quick Hatch	ระดับโรงฟักต่ำเกินไปสำหรับ Quick Hatch
-16732	Professor Ryan's experimental results.	ผลการทดลองของศาสตราจารย์ไรอัน
+16732	Professor Ryan's experimental results.	ผลการทดลองของ Professor Ryan
 16733	A pet in the Pet Preset does not exist	ไม่มีสัตว์เลี้ยงใน Pet Preset
 16734	A shield that can block enemy attacks.	โล่ที่สามารถป้องกันการโจมตีของศัตรูได้
 16735	A katar made from sharp, thorny vines.	กาตาร์ทำจากเถาวัลย์ที่มีหนามแหลมคม
@@ -742,33 +742,33 @@
 16741	You've alerted an ultra-powerful boss!	คุณได้รับการแจ้งเตือนจากบอสสุดแกร่ง!
 16742	This Crystal has already been donated.	คริสตัลนี้ได้รับการบริจาคแล้ว
 16743	Cross Impact Guillotine Cross Portrait	Cross Impact Guillotine Cross Portrait
-16744	Orange Soul Echo (Two Matching Colors)	Orange Soul Echo (มี 2 สีเข้ากัน)
-16745	Universal Emotes Unlock (Limited-Time)	Universal Emotes ปลดล็อค (จำกัดเวลา)
-16746	Siegebreaker Scroll · Accessory-Orange	Siegebreaker Scroll · อุปกรณ์เสริม-สีส้ม
-16747	Siegebreaker Scroll · Accessory-Purple	Siegebreaker Scroll · อุปกรณ์เสริม-สีม่วง
-16748	Magic Breaker Scroll · Accessory-Green	Magic Breaker Scroll · อุปกรณ์เสริม-สีเขียว
-16749	Emerald Realmguard Scroll·Off-Hand-Red	Emerald Realmguard Scroll·นอกมือ-แดง
-16750	Crimson Realmguard Scroll·Off-Hand-Red	Crimson Realmguard Scroll·นอกมือ-แดง
-16751	Hummingbird Scroll · Dual Wield - Blue	Hummingbird Scroll · ด้ามคู่ - สีน้ำเงิน
+16744	Orange Soul Echo (Two Matching Colors)	Orange Soul Echo (Two Matching Colors)
+16745	Universal Emotes Unlock (Limited-Time)	Universal Emotes Unlock (Limited-Time)
+16746	Siegebreaker Scroll · Accessory-Orange	Siegebreaker Scroll · Accessory-Orange
+16747	Siegebreaker Scroll · Accessory-Purple	Siegebreaker Scroll · Accessory-Purple
+16748	Magic Breaker Scroll · Accessory-Green	Magic Breaker Scroll · Accessory-Green
+16749	Emerald Realmguard Scroll·Off-Hand-Red	Emerald Realmguard Scroll·Off-Hand-Red
+16750	Crimson Realmguard Scroll·Off-Hand-Red	Crimson Realmguard Scroll·Off-Hand-Red
+16751	Hummingbird Scroll · Dual Wield - Blue	Hummingbird Scroll · Dual Wield - Blue
 16752	Randomly replaces an existing Enchant.	สุ่มแทนที่ Enchant ที่มีอยู่
 16753	Growth Badge level requirement not met	ไม่เป็นไปตามข้อกำหนดระดับป้ายการเติบโต
-16754	Dragon Coffin Island Protection Points	จุดป้องกันเกาะโลงศพมังกร
+16754	Dragon Coffin Island Protection Points	Dragon Coffin Island Protection Points
 16755	${1} declined the dungeon ready check.	${1}ปฏิเสธการตรวจสอบความพร้อมของดันเจี้ยน
-16756	Glast Heim Underground Cave Floor @{1}	พื้นถ้ำใต้ดิน Glast Heim@{1}
+16756	Glast Heim Underground Cave Floor @{1}	Glast Heim Underground Cave Floor @{1}
 16757	Chapter [${2}] of Book [${1}] unlocked	บทที่ [${2}] ของหนังสือ [${1}] ปลดล็อคแล้ว
-16758	Season Vulcan Cannon Damage Boost Buff	บัฟเพิ่มความเสียหายของปืนใหญ่วัลแคนฤดูกาล
-16759	Play Season Standard Cannon Hit Effect	เล่นเอฟเฟกต์การยิงปืนใหญ่มาตรฐานในฤดูกาล
-16760	Play Season Enhanced Cannon Hit Effect	เล่นเอฟเฟกต์การยิงปืนใหญ่ที่ปรับปรุงฤดูกาล
+16758	Season Vulcan Cannon Damage Boost Buff	บัฟเพิ่มความเสียหายของ Cannon วัลแคนฤดูกาล
+16759	Play Season Standard Cannon Hit Effect	เล่นเอฟเฟกต์การยิง Cannon มาตรฐานในฤดูกาล
+16760	Play Season Enhanced Cannon Hit Effect	เล่นเอฟเฟกต์การยิง Cannon ที่ปรับปรุงฤดูกาล
 16761	Increased Grand Cross and Other Damage	เพิ่ม Grand Cross และความเสียหายอื่น ๆ
 16762	Spear Mastery - Increased Physical ATK	Spear Mastery - เพิ่ม ATK ทางกายภาพ
-16763	Increased Max Life During Battle Chant	เพิ่มพลังชีวิตสูงสุดในระหว่างการสวดมนต์การต่อสู้
-16764	Phase 1 Goddess Large Musical Note@{1}	เฟส 1 เจ้าแม่โน้ตดนตรีขนาดใหญ่@{1}
+16763	Increased Max Life During Battle Chant	เพิ่มพลัง Life สูงสุดในระหว่างการสวดมนต์การต่อสู้
+16764	Phase 1 Goddess Large Musical Note@{1}	เฟส 1 เจ้าแม่ Musical Note ขนาดใหญ่@{1}
 16765	Little Note Counterclockwise Skill@{1}	หมายเหตุเล็กๆ น้อยๆ ทักษะทวนเข็มนาฬิกา@{1}
 16766	Battle Royale Transition Player Effect	เอฟเฟกต์ผู้เล่นเปลี่ยน Battle Royale
 16767	Skill and Combat Resource Display Area	พื้นที่แสดงทรัพยากรทักษะและการต่อสู้
 16768	Main Gameplay Information Display Area	พื้นที่แสดงข้อมูลการเล่นเกมหลัก
-16769	Invincible and Untargetable Deprecated	อยู่ยงคงกระพันและเลิกใช้แล้วไม่สามารถกำหนดเป้าหมายได้
-16770	Lightning Strike Damage Increase Stack	ความเสียหายจากสายฟ้าฟาดเพิ่มสแต็ค
+16769	Invincible and Untargetable Deprecated	Invincible และเลิกใช้แล้วไม่สามารถกำหนดเป้าหมายได้
+16770	Lightning Strike Damage Increase Stack	ความเสียหายจาก Lightning Strike เพิ่มสแต็ค
 16771	Corrupted Wander Man Exclusive Passive	Corrupted Wander Man เอกสิทธิ์เฉพาะ
 16772	Gravity Impact Continuous Ghost Attack	แรงโน้มถ่วงส่งผลกระทบต่อการโจมตีของผีอย่างต่อเนื่อง
 16773	Complete War of Survivors ${1} time(s)	สงครามผู้รอดชีวิตเสร็จสิ้น${1}ครั้ง
@@ -783,25 +783,25 @@
 16782	This appearance has not been activated	ลักษณะที่ปรากฏนี้ยังไม่ได้เปิดใช้งาน
 16783	Not enough Distance from another Stall	ระยะทางจากแผงอื่นไม่เพียงพอ
 16784	The selected Totems cannot be combined	Totem ที่เลือกไม่สามารถรวมกันได้
-16785	The gift recipient has left the Tavern	ผู้รับของขวัญออกจากโรงเตี๊ยมแล้ว
+16785	The gift recipient has left the Tavern	ผู้รับของขวัญออกจาก Tavern แล้ว
 16786	The Pre-purchase order does not exist.	ไม่มีคำสั่งซื้อล่วงหน้า
 16787	Sorry, your purchase was unsuccessful.	ขออภัย การซื้อของคุณไม่สำเร็จ
-16788	Adventurer Group name cannot be empty.	ชื่อกลุ่มนักผจญภัยต้องไม่เว้นว่าง
+16788	Adventurer Group name cannot be empty.	ชื่อกลุ่ม Adventurer ต้องไม่เว้นว่าง
 16789	Guild Supplies have reached the limit.	Guild Supplies ถึงขีดจำกัดแล้ว
 16790	Cannot Repeat a Merge Guild invitation	ไม่สามารถทำซ้ำคำเชิญ Merge Guild
-16791	Guild activity dividend reward claimed	รับรางวัลเงินปันผลจากกิจกรรมกิลด์แล้ว
+16791	Guild activity dividend reward claimed	รับรางวัลเงินปันผลจากกิจกรรม Guild แล้ว
 16792	Not enough Currency to purchase levels	สกุลเงินไม่เพียงพอที่จะซื้อระดับ
 16793	Challenge configuration does not exist	Challenge
 16794	Lifetime prize pool draw limit reached	ถึงขีดจำกัดการจับรางวัลตลอดชีพแล้ว
-16795	Master Smith's Blessing - Power Strike	พรของ Master Smith - Power Strike
+16795	Master Smith's Blessing - Power Strike	Blessing ของ Master Smith - Power Strike
 16796	Item is outside its valid usage period	รายการอยู่นอกระยะเวลาการใช้งานที่ถูกต้อง
 16797	Skill Level exceeds the maximum level.	เกินระดับสูงสุด
 16798	The rally is full. Unable to teleport.	แรลลี่เต็มแล้วไม่สามารถเทเลพอร์ตได้
-16799	Phase 1\nBreak Through the Castle Gate	Phase 1\nทะลุผ่านประตูปราสาท
-16800	Phase Two\nFortify the Knight Guardian	ระยะที่สอง\nเสริมกำลังอัศวินผู้พิทักษ์
+16799	Phase 1\nBreak Through the Castle Gate	Phase 1\n ทะลุผ่าน Gate ปราสาท
+16800	Phase Two\nFortify the Knight Guardian	ระยะที่สอง\n เสริมกำลัง Knight Guardian
 16801	Cannot equip this Job item: Wrong Job.	ไม่สามารถติดตั้งรายการงานนี้: ผิดงาน
 16802	You've reached today's Donation limit.	คุณบริจาคถึงขีดจำกัดการบริจาคของวันนี้แล้ว
-16803	Build a shield wall with Dragon Scales	สร้างกำแพงโล่ด้วยเกล็ดมังกร
+16803	Build a shield wall with Dragon Scales	สร้างกำแพงโล่ด้วย Dragon Scales
 16804	Summon a circular water-pillar attack.	เรียกการโจมตีเสาน้ำเป็นวงกลม
 16805	Service error. Please try again later.	ข้อผิดพลาดในการบริการ โปรดลองอีกครั้งในภายหลัง
 16806	Not enough item-based Revive attempts.	ความพยายามในการฟื้นฟูตามไอเท็มไม่เพียงพอ
@@ -809,7 +809,7 @@
 16808	The other player is already in Blocks.	ผู้เล่นอีกคนอยู่ในบล็อกแล้ว
 16809	Current Protected Victory Points: ${1}	คะแนนชัยชนะที่ได้รับการป้องกันในปัจจุบัน:${1}
 16810	No party matchmaking information found	ไม่พบข้อมูลการจับคู่ปาร์ตี้
-16811	My name is Bragis Skjald. I am a bard.	ฉันชื่อ Bragis Skjaldฉันเป็นกวี
+16811	My name is Bragis Skjald. I am a bard.	ฉันชื่อ Bragis Skjald ฉันเป็นกวี
 16812	${1} will unlock at ${2}. Please wait.	${1}จะปลดล็อคที่${2}โปรดรอ.
 16813	Safe Zone contraction #${1} has begun.	การหดตัวของ Safe Zone #${1}ได้เริ่มขึ้นแล้ว
 16814	Not enough items in stock to purchase.	มีสินค้าในสต็อกไม่เพียงพอที่จะซื้อ
@@ -817,10 +817,10 @@
 16816	This skill cannot be moved or replaced	ทักษะนี้ไม่สามารถย้ายหรือเปลี่ยนได้
 16817	Increases 【Grimtooth】 damage by ${1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น${1}%
 16818	Increases 【Grimtooth】 damage by @{1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น@{1}%
-16819	Kill an enemy to refresh the Cooldown.	ฆ่าศัตรูเพื่อรีเฟรชคูลดาวน์
+16819	Kill an enemy to refresh the Cooldown.	Kill ศัตรูเพื่อรีเฟรชคูลดาวน์
 16820	Physical/Magic DEF decreases by @{1}%.	DEF กายภาพ/เวทมนตร์ลดลง@{1}%
 16821	Poring's bubble shield for its master.	บับเบิ้ลชิลด์ของ Poring สำหรับต้นแบบ
-16822	Create an Adventurer Group named ${1}?	สร้างกลุ่มนักผจญภัยชื่อ${1}?
+16822	Create an Adventurer Group named ${1}?	สร้างกลุ่ม Adventurer ชื่อ${1}?
 16823	${1}'s level has increased to Lv. ${2}	เลเวลของ${1}เพิ่มขึ้นเป็น Lv.${2}
 16824	Space is stable. No rifts have appeared	พื้นที่มีเสถียรภาพไม่มีรอยแยกปรากฏ
 16825	I completed the Beginner Challenge ${1}	ฉันพิชิต Beginner Challenge${1}แล้ว
@@ -828,25 +828,25 @@
 16827	Damage Reduction from Shadow Monsters %	การลดความเสียหายจาก Shadow Monsters %
 16828	Damage Reduction from Undead Monsters %	การลดความเสียหายจากมอนสเตอร์ Undead %
 16829	Damage Reduction from Demi-Human Race %	การลดความเสียหายจากเผ่าพันธุ์กึ่งมนุษย์ %
-16830	^{1}Stronghold Battle Contest Phase^{2}	^{1}ระยะการแข่งขันการต่อสู้ฐานที่มั่น^{2}
+16830	^{1}Stronghold Battle Contest Phase^{2}	^{1}ระยะการแข่งขัน Stronghold Battle^{2}
 16831	Season Rank Details Season Rank Details	รายละเอียดอันดับฤดูกาล รายละเอียดอันดับฤดูกาล
 16832	^{1}Defeat Ilmata, Primordial Chaos^{2}	^{1}เอาชนะอิลมาตา ความโกลาหลดั่งเดิม^{2}
 16833	Collect Purple Quality Cards @{1} times	รวบรวมการ์ดคุณภาพสีม่วง@{1}เท่า
 16834	Collect Orange Quality cards @{1} times	รวบรวมการ์ดคุณภาพสีส้ม@{1}เท่า
-16835	Send @{1} messages in the Guild Channel	ส่งข้อความ@{1}ในช่องกิลด์
+16835	Send @{1} messages in the Guild Channel	ส่งข้อความ@{1}ในช่อง Guild
 16836	Head to Izlude and ask Luna about Baya.	มุ่งหน้าไปที่ Izlude และถาม Luna เกี่ยวกับ Baya
-16837	Head to the ball and meet up with Luna.	มุ่งหน้าไปที่ลูกบอลแล้วพบกับลูน่า
-16838	Place Whispering Flowers along the way.	วางดอกไม้กระซิบไว้ข้างทาง
+16837	Head to the ball and meet up with Luna.	มุ่งหน้าไปที่ลูกบอลแล้วพบกับ Luna
+16838	Place Whispering Flowers along the way.	วาง Whispering Flowers ไว้ข้างทาง
 16839	Learn about the Monster Conquest System	เรียนรู้เกี่ยวกับระบบพิชิตสัตว์ประหลาด
 16840	Rare Reward-Doppelganger-Illusion Limit	รางวัลหายาก-Doppelganger-ภาพลวงตาจำกัด
 16841	Territory War-Weekly Blackhole Attempts	สงครามอาณาเขต - ความพยายาม Blackhole รายสัปดาห์
-16842	Participate in the Guild Stronghold War	เข้าร่วมในสงครามฐานที่มั่นกิลด์
+16842	Participate in the Guild Stronghold War	เข้าร่วมในสงครามฐานที่มั่น Guild
 16843	Auto-battle in a party for @{1} minutes	ต่อสู้อัตโนมัติในปาร์ตี้เป็นเวลา@{1}นาที
 16844	Defeat Hard Moonlight Flower in a party	กำจัด Hard Moonlight Flower ในปาร์ตี้
 16845	Reach @{1}% completion for Movement III	เข้าถึง@{1}% สำเร็จสำหรับการเคลื่อนไหว III
-16846	Learn about the Novice Trial from Rhine	เรียนรู้เกี่ยวกับการทดลองเบื้องต้นจากแม่น้ำไรน์
+16846	Learn about the Novice Trial from Rhine	เรียนรู้เกี่ยวกับการทดลองเบื้องต้นจากแม่น้ำ Rhine
 16847	Board the Airship and prepare to depart	ขึ้นเรือเหาะและเตรียมพร้อมออกเดินทาง
-16848	Help the Soldier Deal with the Monsters	ช่วยทหารจัดการกับสัตว์ประหลาด
+16848	Help the Soldier Deal with the Monsters	ช่วย Soldier จัดการกับสัตว์ประหลาด
 16849	Converted to Physical ATK and Magic ATK	แปลงเป็น ATK กายภาพและ Magic ATK
 16850	Converted to Physical DEF and Magic DEF	แปลงเป็น DEF กายภาพและ DEF เวทมนตร์
 16851	Affects damage taken from Damage Skills	ส่งผลต่อความเสียหายที่ได้รับจากทักษะความเสียหาย
@@ -854,10 +854,10 @@
 16853	Increases damage ${1} deals to monsters	เพิ่มความเสียหายที่${1}ทำกับมอนสเตอร์
 16854	Defeat the Peco Peco and rescue Bragis.	เอาชนะ Peco Peco และช่วยเหลือ Bragis
 16855	Season Settlement: Battle Merit Rewards	ข้อตกลงซีซั่น: รางวัล Battle Merit
-16856	Open your Backpack and use a Red Potion	เปิดกระเป๋าเป้สะพายหลังของคุณแล้วใช้ Red Potion
-16857	Temporary Caravan Escort Activity Quest	ภารกิจกิจกรรมคุ้มกันคาราวานชั่วคราว
-16858	Stronghold War Temporary Activity Quest	ภารกิจกิจกรรมชั่วคราวสงครามฐานที่มั่น
-16859	Royal City War Temporary Activity Quest	ภารกิจกิจกรรมชั่วคราวสงครามเมืองหลวง
+16856	Open your Backpack and use a Red Potion	Open กระเป๋าเป้สะพายหลังของคุณแล้วใช้ Red Potion
+16857	Temporary Caravan Escort Activity Quest	ภารกิจ Activity คุ้มกันคาราวานชั่วคราว
+16858	Stronghold War Temporary Activity Quest	ภารกิจ Activity ชั่วคราวสงครามฐานที่มั่น
+16859	Royal City War Temporary Activity Quest	ภารกิจ Activity ชั่วคราวสงครามเมืองหลวง
 16860	Reach ${1}/${2} Supply Transport Points	เข้าถึงจุดขนส่งอุปทาน${1}/${2}
 16861	Complete the survey to receive rewards.	ทำแบบสำรวจให้เสร็จสิ้นเพื่อรับรางวัล
 16862	Available on the first day after launch	วางจำหน่ายวันแรกหลังเปิดตัว
@@ -869,20 +869,20 @@
 16868	Give the poor girl some Clothes to wear	มอบเสื้อผ้าให้สาวน้อยผู้น่าสงสาร
 16869	Ask Hollgrehenn about Equipment Forging	ถาม Hollgrehenn เกี่ยวกับการตีอุปกรณ์
 16870	Press and hold to quickly assign points	กดค้างไว้เพื่อกำหนดคะแนนอย่างรวดเร็ว
-16871	\nYou traveled with friends ${1} times.	\nคุณไปเที่ยวกับเพื่อน${1}ครั้ง
-16872	\nYou dressed up for a date ${1} times.	\nคุณแต่งตัวสำหรับการออกเดท${1}ครั้ง
+16871	\nYou traveled with friends ${1} times.	\n คุณไปเที่ยวกับเพื่อน${1}ครั้ง
+16872	\nYou dressed up for a date ${1} times.	\n คุณแต่งตัวสำหรับการออกเดท${1}ครั้ง
 16873	Summon a Falcon to Fight Alongside you.	เรียกเหยี่ยวมาต่อสู้เคียงข้างคุณ
 16874	Use Sharp Shooting for piercing damage.	ใช้ Sharp Shooting เพื่อเจาะความเสียหาย
 16875	Combine Ice and Thunder for AoE damage.	รวมน้ำแข็งและฟ้าร้องเพื่อสร้างความเสียหายแบบ AoE
 16876	Not enough stall slots. Listing failed.	ช่องแผงไม่เพียงพอลงรายการไม่สำเร็จ
 16877	Restrict Purchasing on the Trade Market	จำกัดการซื้อในตลาดการค้า
-16878	Guild ID: ${1}\nFormer Guild Name: ${2}	รหัสกิลด์:${1}\nชื่อกิลด์เดิม:${2}ข้อมูลกิลด์
+16878	Guild ID: ${1}\nFormer Guild Name: ${2}	รหัส Guild:${1}\n ชื่อ Guild เดิม:${2}ข้อมูล Guild
 16879	Set the Dummy's Race, Size, and element	กำหนดการแข่งขัน ขนาด และองค์ประกอบของหุ่นจำลอง
 16880	Cannot organize during batch processing	ไม่สามารถจัดระเบียบระหว่างการประมวลผลแบตช์
 16881	<color=#cc762a>${1}</color> valid items	<color=#cc762a>${1}</color>รายการที่ถูกต้อง
 16882	The other player's friend list is full.	รายชื่อเพื่อนผู้เล่นอื่นเต็มแล้ว
 16883	Maximum number of group Members reached	ถึงจำนวนสมาชิกกลุ่มสูงสุดแล้ว
-16884	Remove this Member from the Group Chat?	ลบสมาชิกนี้ออกจากการแชทเป็นกลุ่มหรือไม่
+16884	Remove this Member from the Group Chat?	Remove สมาชิกนี้ออกจากการแชทเป็นกลุ่มหรือไม่
 16885	Daily Ranking Reward Settlement at ${1}	การชำระรางวัลอันดับรายวันที่${1}
 16886	Enjoy thrilling battles between guilds~	เพลิดเพลินไปกับการต่อสู้อันน่าตื่นเต้นระหว่างกิลด์~
 16887	${1} removed ${2} as Deputy Raid Leader	${1}ถอด${2}ออกจากตำแหน่งรองหัวหน้าหน่วยจู่โจม
@@ -890,7 +890,7 @@
 16889	Some Members have not set a declaration	สมาชิกบางคนยังไม่ได้ตั้งค่าการประกาศ
 16890	Load ${1} goods before you can Get Help	โหลดสินค้า${1}ก่อนที่คุณจะสามารถรับความช่วยเหลือได้
 16891	Betting hasn't opened yet. Please wait.	เดิมพันยังไม่เปิดโปรดรอ.
-16892	Secondary Profession Season Rank Points	คะแนนอันดับฤดูกาลอาชีพรอง
+16892	Secondary Profession Season Rank Points	Secondary Profession Season Rank Points
 16893	Requires the specified number of items.	ต้องระบุจำนวนรายการ
 16894	Insufficient Guild League participation	การเข้าร่วม Guild League ไม่เพียงพอ
 16895	Valhalla ${1} has not been cleared yet.	Valhalla${1}ยังไม่ถูกเคลียร์
@@ -898,44 +898,44 @@
 16897	A red thread now connects you and them.	ด้ายสีแดงเชื่อมโยงคุณและพวกเขาเข้าด้วยกัน
 16898	Increases Movement Speed and HP recover	เพิ่มความเร็วในการเคลื่อนที่และฟื้นฟู HP
 16899	Increases damage by @{1}% for @{2} sec.	เพิ่มความเสียหายโดย@{1}% เป็นเวลา@{2}วินาที
-16900	Cart Damage Lv. @{1} visual effect buff	ความเสียหายต่อรถเข็น Lv.บัฟเอฟเฟกต์ภาพ@{1}
+16900	Cart Damage Lv. @{1} visual effect buff	ความเสียหายต่อรถเข็น Lv. บัฟเอฟเฟกต์ภาพ@{1}
 16901	Greatly increases Defense for @{1} sec.	เพิ่มพลังป้องกันอย่างมากสำหรับ@{1}วินาที
 16902	Periodically takes AoE lightning damage	รับความเสียหายสายฟ้าแบบ AoE เป็นระยะ
 16903	Gain a Shield equal to @{1}% of max HP.	ได้รับโล่เท่ากับ@{1}% ของ HP สูงสุด
 16904	Every @{1} sec., Reply @{2}% of max HP.	ทุกๆ@{1}วินาที ตอบกลับ@{2}% ของ HP สูงสุด
-16905	Skill@{1}Triangular Bagpipe Sound Blade	Skill@{1}ใบมีดเสียงปี่สก็อตสามเหลี่ยม
-16906	Send Stage Message to Change Boss State	ส่งข้อความสเตจเพื่อเปลี่ยนสถานะบอส
-16907	Blade Mountain-Rectangle-@{1}-Alternate	ใบมีด Mountain-Rectangle-@{1}-สำรอง
-16908	Ghost Ship Grand Charge Horizontal Easy	Ghost Ship Grand Charge แนวนอนง่าย ๆ
-16909	P@{1} Launches @{3} Bubbles Every @{2}s	P@{1}เปิดตัว@{3}Bubbles ทุกๆ@{2}s
+16905	Skill@{1}Triangular Bagpipe Sound Blade	Skill@{1}Triangular Bagpipe Sound Blade
+16906	Send Stage Message to Change Boss State	Send Stage Message to Change Boss State
+16907	Blade Mountain-Rectangle-@{1}-Alternate	Blade Mountain-Rectangle-@{1}-Alternate
+16908	Ghost Ship Grand Charge Horizontal Easy	Ghost Ship Grand Charge Horizontal Easy
+16909	P@{1} Launches @{3} Bubbles Every @{2}s	P@{1} Launches @{3} Bubbles Every @{2}s
 16910	Skill@{1}_Summon Cross Compression Zone	Skill@{1}_Summon Cross Compression Zone
-16911	Skill@{1}Memory Game_Magic Circle Skill	@{1}เกมความจำ_ทักษะวงกลมเวทย์มนตร์
-16912	Exorciser Spell: Evil Spirit Possession	คาถาขับไล่ผี: วิญญาณชั่วร้ายครอบครอง
+16911	Skill@{1}Memory Game_Magic Circle Skill	Skill@{1}Memory Game_Magic Circle Skill
+16912	Exorciser Spell: Evil Spirit Possession	Exorciser Spell: Evil Spirit Possession
 16913	For every +${1} Refine, Magic ATK +${2}	สำหรับทุกๆ +${1}ปรับแต่ง, พลังโจมตีเวทย์ +${2}
 16914	For every +${1} Refine, CRIT DMG +${2}%	สำหรับทุก +${1}ปรับแต่ง, CRIT DMG +${2}%
 16915	Ignores ${1}% of the target's Magic DEF	ไม่สนใจ${1}% ของ DEF เวทมนตร์ของเป้าหมาย
-16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม Lv.ตัวละคร*${1}】
+16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม Lv. ตัวละคร*${1}】
 16917	Highest recorded Power is insufficient.	Highest recorded Power is insufficient.
 16918	You must explore this area on your own.	คุณต้องสำรวจพื้นที่นี้ด้วยตัวเอง
 16919	Public channel chat unlocks at Lv. ${1}	แชทช่องสาธารณะจะปลดล็อคที่ระดับ${1}
-16920	Starshatter Dragon Ritual Administrator	ผู้ดูแลพิธีกรรมมังกรดาวแตก
+16920	Starshatter Dragon Ritual Administrator	Starshatter Dragon Ritual Administrator
 16921	Tap a Portrait to adjust your Formation	แตะภาพบุคคลเพื่อปรับรูปแบบของคุณ
 16922	List an item before opening your Stall.	ลงรายการก่อนเปิดแผงลอยของคุณ
 16923	First week of the season: ${1}${2}-${3}	สัปดาห์แรกของฤดูกาล:${1}${2}-${3}
-16924	Investigate the Area Around the Culvert	สำรวจพื้นที่รอบๆ ท่อระบายน้ำ
+16924	Investigate the Area Around the Culvert	สำรวจพื้นที่รอบๆ Culvert
 16925	Elite Members can tap to join the party	Elite สามารถแตะเพื่อเข้าร่วมปาร์ตี้ได้
 16926	<color=#9F433A>Unequip Strategy</color>	<color=#9F433A>Unequip Strategy</color>
-16927	Visit the Life Skill Mentor (@{1}/@{2})	เยี่ยมชมที่ปรึกษาด้านทักษะชีวิต (@{1}/@{2})
-16928	Guild Event - Provincial Capital Battle	กิจกรรมกิลด์ - การต่อสู้ในเมืองหลวงของจังหวัด
+16927	Visit the Life Skill Mentor (@{1}/@{2})	เยี่ยมชม Life Skill Mentor (@{1}/@{2})
+16928	Guild Event - Provincial Capital Battle	กิจกรรม Guild - การต่อสู้ในเมืองหลวงของจังหวัด
 16929	There are currently no Faction effects.	ขณะนี้ไม่มีเอฟเฟกต์ฝ่าย
 16930	Complete Equipment Appraisal @{1} times	ประเมินอุปกรณ์เสร็จสมบูรณ์@{1}ครั้ง
-16931	Obtain a Purple Card for the first time	ได้รับการ์ดสีม่วงเป็นครั้งแรก
+16931	Obtain a Purple Card for the first time	ได้รับ Purple Card เป็นครั้งแรก
 16932	This is my favorite card slot. Pick it.	นี่คือช่องเสียบการ์ดที่ฉันชอบเลือกมัน
-16933	Tap here to claim Activity rewards, bo~	แตะที่นี่เพื่อรับรางวัลกิจกรรม โบ~
+16933	Tap here to claim Activity rewards, bo~	แตะที่นี่เพื่อรับรางวัล Activity โบ~
 16934	Turn in supplies to earn guild rewards!	มอบเสบียงเพื่อรับรางวัลกิลด์!
 16935	Shilude will return safely, won't they?	ชิลูดจะกลับมาอย่างปลอดภัยใช่ไหม?
 16936	How long did this one live... 87 years.	ตัวนี้อยู่ได้นานแค่ไหน... 87 ปี
-16937	...It's gone. Did someone take it down?	...หายแล้ว. มีใครเอามันลงมั้ย?
+16937	...It's gone. Did someone take it down?	... หายแล้ว. มีใครเอามันลงมั้ย?
 16938	Patrol or rest today—(Flips coin) Rest.	ตระเวนหรือพักผ่อนวันนี้—(พลิกเหรียญ) พักผ่อน
 16939	Lady Irmata is the most exalted of all.	Lady Irmata เป็นผู้สูงส่งที่สุด
 16940	Are you ready to begin the competition?	คุณพร้อมที่จะเริ่มการแข่งขันแล้วหรือยัง?
@@ -944,7 +944,7 @@
 16943	Someone else is already controlling it!	มีคนอื่นควบคุมมันอยู่แล้ว!
 16944	Select an item to dismantle on the left	เลือกรายการที่จะรื้อทางด้านซ้าย
 16945	Epic Campaign (Normal), Begin Challenge	Epic Campaign (ปกติ) เริ่มการท้าทาย
-16946	Help! Hurry and break this coffin open!	ช่วยด้วย!รีบเปิดโลงศพนี้ซะ!
+16946	Help! Hurry and break this coffin open!	ช่วยด้วย! รีบเปิดโลงศพนี้ซะ!
 16947	${1} Terminated ${2}'s Peerless streak.	${1}ยุติแนว Peerless ของ${2}
 16948	Main-screen Notification interface test	การทดสอบอินเทอร์เฟซการแจ้งเตือนบนหน้าจอหลัก
 16949	^{1}The flag-bearing Boss has appeared!	^{1}บอสผู้ถือธงปรากฏตัวแล้ว!
@@ -956,42 +956,42 @@
 16955	Unfortunately, ${1} has left the guild.	น่าเสียดายที่${1}ออกจากกิลด์แล้ว
 16956	The battlefield closes in ${1} seconds.	สนามรบจะปิดลงใน${1}วินาที
 16957	Quick, we can't hold out much longer...	ด่วนๆ ทนไม่ไหวแล้ว...
-16958	Bobo\nWhatever! Let's defeat her first!	Bobo\nอะไรก็ได้!มาเอาชนะเธอก่อน!
-16959	Boya\nDamn, this Eddga is really tough!	Boya\nให้ตายเถอะ Eddga นี่ช่างแข็งแกร่งจริงๆ!
-16960	Bobo\nLook! There's a chest over there~	โบโบ\nดูสิ!มีหน้าอกอยู่ตรงนั้น~
+16958	Bobo\nWhatever! Let's defeat her first!	Bobo\n อะไรก็ได้! มาเอาชนะเธอก่อน!
+16959	Boya\nDamn, this Eddga is really tough!	Boya\n ให้ตายเถอะ Eddga นี่ช่างแข็งแกร่งจริงๆ!
+16960	Bobo\nLook! There's a chest over there~	โบโบ\n ดูสิ! มีหน้าอกอยู่ตรงนั้น~
 16961	A huge wave of monsters is approaching!	คลื่นสัตว์ประหลาดขนาดมหึมากำลังใกล้เข้ามา!
 16962	Reach Lv. @{1} to Begin a New Adventure	ถึงระดับ@{1}เพื่อเริ่มต้นการผจญภัยครั้งใหม่
 16963	PATCH_REPAIR_CLIENT_FINISH_ANDROID_TIPS	PATCH_REPAIR_CLIENT_FINISH_ANDROID_TIPS
 16964	Permanently unlocks the Pipe appearance	ปลดล็อครูปลักษณ์ของ Pipe อย่างถาวร
 16965	Mount · Hyena can be unlocked upon use.	Mount · Hyena สามารถปลดล็อคได้เมื่อใช้งาน
-16966	Open to receive Dig Elite Kill Rewards.	เปิดรับรางวัล Dig Elite Kill
-16967	Open to select one T@{1} orange weapon.	เปิดเพื่อเลือกอาวุธสีส้ม T@{1}หนึ่งอัน
+16966	Open to receive Dig Elite Kill Rewards.	Open รับรางวัล Dig Elite Kill
+16967	Open to select one T@{1} orange weapon.	Open เพื่อเลือกอาวุธสีส้ม T@{1}หนึ่งอัน
 16968	Crafting Moonlit Challenger - Tailoring	Crafting Moonlit Challenger - การตัดเย็บ
 16969	Chance to obtain Blue Quality Headwear.	โอกาสที่จะได้รับ Blue Quality Headwear
 16970	Orange material used to craft headgear.	วัสดุสีส้มใช้ประดิษฐ์หมวก
 16971	Purple material used to craft headgear.	วัสดุสีม่วงใช้ประดิษฐ์หมวก
 16972	A crystal that emits a mysterious glow.	คริสตัลที่เปล่งประกายลึกลับ
 16973	A plant with three heart-shaped leaves.	พืชที่มีใบรูปหัวใจสามใบ
-16974	A bone from an undead Skeleton Soldier.	กระดูกจากทหารโครงกระดูกอันเดด
+16974	A bone from an undead Skeleton Soldier.	กระดูกจาก SoldierSkeleton อันเดด
 16975	A Trunk. Can be exchanged for Headwear.	ลำต้น สามารถเปลี่ยนเป็น Headwear ได้
 16976	You can only faintly make out note ${1}	คุณสามารถจดบันทึกได้เพียงแผ่วเบาเท่านั้น${1}
 16977	Unlocks <color=#76c233>Tomorrow</color>	Unlocks <color=#76c233>Tomorrow</color>
-16978	Use to receive Advanced Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์กิลด์ขั้นสูง
-16979	Use to receive Beginner Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์กิลด์มือใหม่
+16978	Use to receive Advanced Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์ Guild ขั้นสูง
+16979	Use to receive Beginner Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์ Guild มือใหม่
 16980	Pet has reached the maximum star rating	สัตว์เลี้ยงมีระดับดาวสูงสุดแล้ว
 16981	Clothing made from high-quality fabric.	เสื้อผ้าผลิตจากผ้าคุณภาพสูง
 16982	Consumed during gathering and crafting.	Consumed during gathering and crafting.
 16983	Not applied: This skill already exists.	ไม่ได้ใช้: ทักษะนี้มีอยู่แล้ว
-16984	Hero Registry (@{1} Hours) Discontinued	Hero Registry (@{1}ชั่วโมง) ถูกยกเลิก
-16985	Advanced Treasure Chest@{1}(Deprecated)	กล่องสมบัติขั้นสูง@{1}(เลิกใช้แล้ว)
-16986	Deluxe Pack-Test Cross-Season Allowlist	Deluxe Pack-Test รายการที่อนุญาตข้ามฤดูกาล
-16987	Intermediate All-Member Guild Gift Pack	ชุดของขวัญกิลด์สมาชิกทุกคนระดับกลาง
-16988	Magic Breaker Scroll · Accessory-Orange	Magic Breaker Scroll · อุปกรณ์เสริม-สีส้ม
-16989	Magic Breaker Scroll · Accessory-Purple	Magic Breaker Scroll · อุปกรณ์เสริม-สีม่วง
-16990	Hummingbird Scroll · Dual Wield - Green	Hummingbird Scroll · ด้ามคู่ - สีเขียว
+16984	Hero Registry (@{1} Hours) Discontinued	Hero Registry (@{1} Hours) Discontinued
+16985	Advanced Treasure Chest@{1}(Deprecated)	Advanced Treasure Chest@{1}(Deprecated)
+16986	Deluxe Pack-Test Cross-Season Allowlist	Deluxe Pack-Test Cross-Season Allowlist
+16987	Intermediate All-Member Guild Gift Pack	Intermediate All-Member Guild Gift Pack
+16988	Magic Breaker Scroll · Accessory-Orange	Magic Breaker Scroll · Accessory-Orange
+16989	Magic Breaker Scroll · Accessory-Purple	Magic Breaker Scroll · Accessory-Purple
+16990	Hummingbird Scroll · Dual Wield - Green	Hummingbird Scroll · Dual Wield - Green
 16991	Not enough pets of the required quality	มีสัตว์เลี้ยงไม่เพียงพอตามคุณภาพที่ต้องการ
 16992	Not enough offline idle rewards claimed	รับรางวัลเมื่อไม่ได้ใช้งานออฟไลน์ไม่เพียงพอ
-16993	Dragon Coffin Island Net Victory Points	คะแนนชัยชนะสุทธิของเกาะโลงศพมังกร
+16993	Dragon Coffin Island Net Victory Points	Dragon Coffin Island Net Victory Points
 16994	No Revives remaining for this challenge	ไม่มีการฟื้นฟูเหลืออยู่สำหรับการท้าทายนี้
 16995	Complete a Territory War Faction Quest.	สำเร็จภารกิจฝ่ายสงครามอาณาเขต
 16996	Combat Assistance Function Display Area	พื้นที่แสดงผลฟังก์ชันช่วยเหลือการต่อสู้
