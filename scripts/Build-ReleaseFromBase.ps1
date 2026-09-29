@@ -140,6 +140,10 @@ try {
         -Destination (Join-Path $Stage 'licenses\XUnity-AutoTranslator-LICENSE.txt') -Force
     Set-Content -LiteralPath (Join-Path $Stage 'VERSION.txt') -Value $Version -Encoding ASCII
 
+    # Include the offline hand-translation editor for contributors.
+    Copy-Item -LiteralPath (Join-Path $RepoRoot 'Translation-Editor') `
+        -Destination (Join-Path $Stage 'Translation-Editor') -Recurse -Force
+
     foreach ($relative in $repoPayloadFiles) {
         $source = Join-Path (Join-Path $RepoRoot 'Client') $relative
         if (-not (Test-Path -LiteralPath $source -PathType Leaf)) {
