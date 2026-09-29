@@ -413,7 +413,7 @@
 12412	Sketch Card: Goblin Leader	Sketch Card: Goblin Leader
 12413	Shadow Card: Goblin Leader	Shadow Card: Goblin Leader
 12414	Vitality +@{1}, Luck +@{2}	ความมีชีวิตชีวา +@{1}, โชคลาภ +@{2}
-12415	Armor cannot be destroyed.	Armor cannot be destroyed.
+12415	Armor cannot be destroyed.	เกราะไม่สามารถถูกทำลายได้
 12416	Smite damage is increased.	ความเสียหายจาก Smite เพิ่มขึ้น
 12417	Continuously recover Life.	ฟื้นฟูพลัง Life อย่างต่อเนื่อง
 12418	Unlocks @{1} Extra skills.	ปลดล็อคทักษะพิเศษ@{1}
@@ -798,9 +798,9 @@
 12797	Field Auto-Battle EXP Bonus	Field Auto-Battle EXP Bonus
 12798	^{1}Festival Invitation^{2}	^{1}Festival Invitation^{2}
 12799	Obtained from: ${1}  【${2}】	Obtained from: ${1}  【${2}】
-12800	Kill @{1} Soldier Skeletons	KillSkeletonsSoldier@{1}
+12800	Kill @{1} Soldier Skeletons	กำจัด Soldier Skeletons @{1} ตัว
 12801	Kill Deniro and Piere: @{1}	KillDeniro และ Piere:@{1}
-12802	Kill Andre and Vitata: @{1}	Kill Andre และ Vitata:@{1}
+12802	Kill Andre and Vitata: @{1}	กำจัด Andre และ Vitata: @{1}
 12803	Receive a letter from Wule.	รับจดหมายจาก Wule
 12804	Continue exploring Ant Hell	สำรวจ Ant Hell ต่อไป
 12805	Continue exploring Orc Cave	สำรวจ Orc Cave ต่อ
@@ -808,7 +808,7 @@
 12807	Expedition Activity Mission	ภารกิจ Activity การสำรวจ
 12808	Rare Reward-Drake-MVP Limit	Rare Reward-Drake-MVP Limit
 12809	Rare Reward-Eddga-MVP Limit	Rare Reward-Eddga-MVP Limit
-12810	Kill Monster A +@{1} Points	Kill มอนสเตอร์ A + คะแนน@{1}
+12810	Kill Monster A +@{1} Points	กำจัด Monster A เพื่อรับ @{1} คะแนน
 12811	Defeat Hard Maya in a party	เอาชนะ Hard Maya ในปาร์ตี้
 12812	Defeat Hard Ilmo in a party	เอาชนะ Hard Ilmo ในปาร์ตี้
 12813	Inspect the scattered cargo	ตรวจสอบสินค้าที่กระจัดกระจาย
@@ -834,7 +834,7 @@
 12833	Release the pathfinder ant.	ปล่อยมดผู้เบิกทาง
 12834	What is the Temporal Court?	ศาลชั่วคราวคืออะไร?
 12835	Gather Whispering Flowers.*	รวบรวม Whispering Flowers*
-12836	Ask Rhine about the request	Ask Rhine about the request
+12836	Ask Rhine about the request	สอบถาม Rhine เกี่ยวกับคำขอ
 12837	Give the Snake Eggs to Boya	มอบไข่งูให้ Boya
 12838	Clear out the nearby Horns*	เคลียร์ Horns ที่อยู่ใกล้เคียง*
 12839	Current Paragon Level: ${1}	Current Paragon Level: ${1}

@@ -282,7 +282,7 @@
 17281	Say hello to the Gift Merchant for Dumby.	ทักทาย Gift Merchant for Dumby
 17282	[Reserved] Participate in @{1} GVE events	[Reserved] เข้าร่วมกิจกรรม@{1}GVE
 17283	Obtain Soft Fur and report back to Rhine.	รับ Soft Fur แล้วรายงานกลับไปยังแม่น้ำ Rhine
-17284	Kill the restless monsters along the way.	Kill สัตว์ประหลาดที่กระสับกระส่ายไปพร้อมกัน
+17284	Kill the restless monsters along the way.	กำจัดมอนสเตอร์ที่กระสับกระส่ายระหว่างทาง
 17285	The innkeeper invites you inside to rest.	เจ้าของโรงแรมขอเชิญคุณเข้าไปพักผ่อนข้างใน
 17286	Territory War-Weekly Trap Hunter Attempts	Territory War-Weekly Trap Hunter Attempts
 17287	Participate in a battle royale as a party	เข้าร่วมในการต่อสู้แบบปาร์ตี้
@@ -292,7 +292,7 @@
 17291	Team up to defeat Ilmo in the Final Trial	รวมทีมเพื่อเอาชนะ Ilmo ในการทดสอบครั้งสุดท้าย
 17292	Defeat @{1} Fabres to prove your strength	เอาชนะ@{1}Fabres เพื่อพิสูจน์ความแข็งแกร่งของคุณ
 17293	Search for traces of Eddga along the road	ค้นหาร่องรอยของ Eddga ริมถนน
-17294	Talk to the attendant to officially board	Talk กับเจ้าหน้าที่เพื่อขึ้นเครื่องอย่างเป็นทางการ
+17294	Talk to the attendant to officially board	คุยกับเจ้าหน้าที่เพื่อขึ้นยาน
 17295	Clear out the excess monsters in Ant Hell	กำจัดมอนสเตอร์ส่วนเกินใน Ant Hell
 17296	Converted to the character's Physical ATK	Converted to the character's Physical ATK
 17297	Increases the character's Critical Chance	Increases the character's Critical Chance
@@ -316,7 +316,7 @@
 17315	Redemption failed. This code has expired.	Redemption failed. This code has expired.
 17316	Each restoration has a ${1}-day cooldown.	Each restoration has a ${1}-day cooldown.
 17317	Ranking Reward Settlement after ${1} Ends	Ranking Reward Settlement after ${1} Ends
-17318	Talk to the familiar-looking Woman Nearby	Talk กับ Woman หน้าตาคุ้นเคยที่อยู่ใกล้ๆ
+17318	Talk to the familiar-looking Woman Nearby	คุยกับผู้หญิงหน้าคุ้นที่อยู่ใกล้ๆ
 17319	Give the recovered parts to the Professor	มอบชิ้นส่วนที่หายแล้วให้กับ Professor
 17320	Stat allocation unlocks after Job Advance	Stat allocation unlocks after Job Advance
 17321	AoE Protection with exceptional Survival.	AoE Protection with exceptional Survival.
@@ -343,7 +343,7 @@
 17342	Items cannot be used while in this state.	รายการไม่สามารถใช้งานได้ในขณะที่อยู่ในสถานะนี้
 17343	You are continuously being pulled inward!	คุณถูกดึงเข้าด้านในอย่างต่อเนื่อง!
 17344	Cannot move while affected by Chain Bind.	ไม่สามารถเคลื่อนที่ได้ในขณะที่ได้รับผลกระทบจาก Chain Bind
-17345	Continuously restores HP to nearby allies	Continuously restores HP to nearby allies
+17345	Continuously restores HP to nearby allies	ฟื้นฟู HP ให้พันธมิตรที่อยู่ใกล้เคียงอย่างต่อเนื่อง
 17346	Shift + Right-click to control the camera	Shift + Right-click to control the camera
 17347	Skill@{1} Sequential Circular Sonic Blast	Skill@{1} Sequential Circular Sonic Blast
 17348	Focused Arrow Strike (Unlimited Shooting)	Focused Arrow Strike (Unlimited Shooting)
@@ -717,14 +717,14 @@
 17716	You hear a boy calling out. Go take a look.	คุณได้ยินเสียงเด็กผู้ชายร้องเรียกไปดูสิ.
 17717	Defeat the Maya that looks like a Familiar.	เอาชนะ Maya ที่ดูเหมือน Familiar
 17718	Enter Maya's Nest and rescue the Professor.	เข้าไปในรังของ Maya และช่วยเหลือ Professor
-17719	Talk with the Guild Members at the banquet.	Talk กับสมาชิก Guild ในงานเลี้ยง
+17719	Talk with the Guild Members at the banquet.	คุยกับสมาชิก Guild ในงานเลี้ยง
 17720	Return the sword to Blacksmith Hollgrehenn.	คืนดาบให้กับ Blacksmith Hollgrehenn
 17721	Select the quest to learn about Auto-Battle	เลือกภารกิจเพื่อเรียนรู้เกี่ยวกับ Auto-Battle
 17722	Rare Reward-Golden Thief Bug-Illusion Limit	Rare Reward-Golden Thief Bug-Illusion Limit
 17723	Rare Reward-Moonlight Flower-Illusion Limit	Rare Reward-Moonlight Flower-Illusion Limit
 17724	Defeat Golden Thief Bug (Normal) in a party	กำจัด Golden Thief Bug (ปกติ) ในปาร์ตี้
 17725	Form a party and defeat Baphomet on Normal.	จัดปาร์ตี้และเอาชนะ Baphomet ในโหมด Normal
-17726	Job Advance successful. Talk to the Mentor.	การเลื่อนงานสำเร็จแล้ว Talk กับอาจารย์ที่ปรึกษา
+17726	Job Advance successful. Talk to the Mentor.	เปลี่ยนอาชีพสำเร็จแล้ว คุยกับ Mentor
 17727	Talk to Boya to learn the mission objective	คุยกับ Boya เพื่อเรียนรู้วัตถุประสงค์ของภารกิจ
 17728	Use a Fly Wing to search for signs of Eddga	ใช้ปีกบินเพื่อค้นหาสัญญาณของ Eddga
 17729	Ask the professor why he went to the desert	ถามอาจารย์ว่าทำไมเขาถึงไปทะเลทราย
@@ -833,7 +833,7 @@
 17832	(Pre-purchase: <color=#cc762a>${1}</color>)	(Pre-purchase: <color=#cc762a>${1}</color>)
 17833	The Revive invitation you sent has expired.	The Revive invitation you sent has expired.
 17834	Craft @{1} Tier @{2} Purple Quality Weapons	Craft@{1}Tier@{2}อาวุธคุณภาพสีม่วง
-17835	Kill @{1} Monsters (any Monster) in matches	Kill มอนสเตอร์@{1}(มอนสเตอร์ตัวใดก็ได้) ในแมตช์
+17835	Kill @{1} Monsters (any Monster) in matches	กำจัดมอนสเตอร์ @{1} ตัว (ตัวใดก็ได้) ในแมตช์
 17836	Description of the Undead Rapid-Fire Cannon	Description of the Undead Rapid-Fire Cannon
 17837	Number of winners for all prize tiers +@{1}	Number of winners for all prize tiers +@{1}
 17838	Permanently unlocks the Fox Mask appearance	ปลดล็อครูปลักษณ์ Fox Mask อย่างถาวร
@@ -959,7 +959,7 @@
 17958	Listen to What the Beginner Guide Has to Say	ฟังสิ่งที่คู่มือเริ่มต้นจะพูด
 17959	Tell Captain Aikuni everything that happened	บอก CaptainAikuni ทุกสิ่งที่เกิดขึ้น
 17960	Ask the Nearby Caravan Members what happened	ถาม Caravan Members ใกล้เคียงว่าเกิดอะไรขึ้น
-17961	Everything's ready. Talk to the Party Leader	ทุกอย่างพร้อมแล้ว Talk กับ Party Leader
+17961	Everything's ready. Talk to the Party Leader	ทุกอย่างพร้อมแล้ว คุยกับ Party Leader
 17962	A Sudden Turn leaves you momentarily stunned	การเลี้ยวกะทันหันทำให้คุณมึนงงชั่วขณะ
 17963	Examine the suspicious Clothes Fervor found*	ตรวจสอบเสื้อผ้าที่น่าสงสัยที่พบ*
 17964	Reduces the Movement Speed of nearby enemies	ลดความเร็วในการเคลื่อนที่ของศัตรูที่อยู่ใกล้เคียง

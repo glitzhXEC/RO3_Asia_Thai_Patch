@@ -704,7 +704,7 @@
 18703	Reach Refine Level @{1} for all equipment slots	เข้าถึงระดับการปรับแต่ง@{1}สำหรับช่องอุปกรณ์ทั้งหมด
 18704	Craft @{1} Tier @{2} Purple Quality Accessories	Craft@{1}Tier@{2}อุปกรณ์เสริมคุณภาพสีม่วง
 18705	Say hello to the Soldier in Prontera for Dumby.	ทักทาย Soldier ใน Prontera for Dumby
-18706	Have the team Kill a total of @{1} participants	ให้ทีม Kill ผู้เข้าร่วม@{1}ทั้งหมด
+18706	Have the team Kill a total of @{1} participants	ให้ทีมกำจัดผู้เข้าร่วมทั้งหมด @{1} คน
 18707	Activate the Kitty Tail Appearance (Permanent).	เปิดใช้งานลักษณะที่ปรากฏของ Kitty Tail (ถาวร)
 18708	Permanently unlocks the Grand Voyage appearance	ปลดล็อครูปลักษณ์ Grand Voyage อย่างถาวร
 18709	Permanently unlocks the Lucky Clover appearance	ปลดล็อครูปลักษณ์ Lucky Clover อย่างถาวร
@@ -794,7 +794,7 @@
 18793	Estimated Wait Time: <color=#63A22B>${1}</color>	Estimated Wait Time: <color=#63A22B>${1}</color>
 18794	Your party has obtained a supply transport cart.	Your party has obtained a supply transport cart.
 18795	Ask the Adventurer about Traces of the Professor	ถาม Adventurer เกี่ยวกับร่องรอยของ Professor
-18796	Talk to the Head Job Advance Mentor about skills	Talk กับหัวหน้าที่ปรึกษางานล่วงหน้าเกี่ยวกับทักษะ
+18796	Talk to the Head Job Advance Mentor about skills	คุยกับหัวหน้า Mentor เรื่องสกิล
 18797	No stat points have been allocated. Exit anyway?	No stat points have been allocated. Exit anyway?
 18798	Thanks for being here. I'll give it my all, too!	Thanks for being here. I'll give it my all, too!
 18799	Client update complete. Please restart the game.	Client update complete. Please restart the game.
@@ -885,7 +885,7 @@
 18884	Testimony obtained by investigating Hollgrehenn.	คำให้การที่ได้รับจากการสอบสวน Hollgrehenn
 18885	Pet is currently deployed or assigned as support	Pet is currently deployed or assigned as support
 18886	A dagger once used in an ancient Western nation.	กริชที่ครั้งหนึ่งเคยใช้ในชาติตะวันตกโบราณ
-18887	Obtainable by participating in daily activities.	Obtainable by participating in daily activities.
+18887	Obtainable by participating in daily activities.	รับได้จากการเข้าร่วมกิจกรรมประจำวัน
 18888	Can be refined <color=#c27b47>${1}</color> times	Can be refined <color=#c27b47>${1}</color> times
 18889	0 reforge attempts remaining. Unable to reforge.	0 reforge attempts remaining. Unable to reforge.
 18890	The Box of the Future can be opened next Season.	The Box of the Future can be opened next Season.
@@ -961,7 +961,7 @@
 18960	An unknown server database storage error occurred	An unknown server database storage error occurred
 18961	Go to the Grand Lecture Hall for your Job Advance	ไปที่ Grand Lecture Hall เพื่อเลื่อนตำแหน่งงานของคุณ
 18962	Report the Outcome to the Head Job Advance Mentor	รายงานผลต่อหัวหน้าที่ปรึกษางานล่วงหน้า
-18963	Talk to the Head Job Advance Mentor about talents	Talk กับ Head Job Advance Mentor เกี่ยวกับความสามารถพิเศษ
+18963	Talk to the Head Job Advance Mentor about talents	คุยกับหัวหน้า Mentor เรื่องพรสวรรค์
 18964	The Nail of Order is somehow resonating with You…	The Nail of Order โดนใจคุณ...
 18965	Off-hand slots do not inherit Enhance attributes.	Off-hand slots do not inherit Enhance attributes.
 18966	\nYou set up a Stall at the South Gate ${1} times	\nYou set up a Stall at the South Gate ${1} times

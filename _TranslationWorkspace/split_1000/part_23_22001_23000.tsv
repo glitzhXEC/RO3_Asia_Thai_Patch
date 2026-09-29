@@ -28,7 +28,7 @@
 22027	Plant fluff that drifts on the wind. It can be gathered and used as stuffing.	ปุยฝ้ายที่ปลิวไปตามสายลมสามารถรวบรวมใช้เป็นไส้ได้
 22028	Ornate Tier @{1} Purple Equipment, clearly crafted by the Moonlit Challenger.	Ornate Tier@{1}Purple Equipment สร้างขึ้นอย่างชัดเจนโดย Moonlit Challenger
 22029	A Madogear Pilot made of exceptionally Rare mithril with incredible hardness.	Madogear Pilot ที่สร้างจากมิธริลที่หายากเป็นพิเศษและมีความแข็งอย่างเหลือเชื่อ
-22030	A sword made specifically for "fighting." Its hilt has a distinctive S shape.	ดาบที่สร้างขึ้นมาเพื่อ "การต่อสู้" โดยเฉพาะ ด้ามจับมีรูปทรงตัว S ที่โดดเด่น
+22030	"A sword made specifically for ""fighting."" Its hilt has a distinctive S shape."	"ดาบที่สร้างขึ้นมาเพื่อ ""การต่อสู้"" โดยเฉพาะ ด้ามจับมีรูปทรงตัว S ที่โดดเด่น"
 22031	<color=#CC762A>Members with insufficient Reward Count are shown first</color>	<color=#CC762A>Members with insufficient Reward Count are shown first</color>
 22032	Event Period: During the Ignition Test, opens Friday from @{1}:@{2}~@{3}:@{4}	Event Period: During the Ignition Test, opens Friday from @{1}:@{2}~@{3}:@{4}
 22033	Event Period: During the Ignition Test, opens Sunday from @{1}:@{2}~@{3}:@{4}	Event Period: During the Ignition Test, opens Sunday from @{1}:@{2}~@{3}:@{4}
@@ -64,8 +64,8 @@
 22063	There are still pets Not Deployed. Are you sure you want to Enter Battlefield?	There are still pets Not Deployed. Are you sure you want to Enter Battlefield?
 22064	A very old-fashioned television set that can surprisingly still play programs.	A very old-fashioned television set that can surprisingly still play programs.
 22065	You have not met this map's Unlock Requirement. Keep working on your Level-up!	You have not met this map's Unlock Requirement. Keep working on your Level-up!
-22066	In Ragnarok Online, equipping a "Katar" sets your critical hit Chance to @{1}.	In Ragnarok Online, equipping a "Katar" sets your critical hit Chance to @{1}.
-22067	After defeating an MVP, the letters "MVP" will appear above the player's head.	After defeating an MVP, the letters "MVP" will appear above the player's head.
+22066	"In Ragnarok Online, equipping a ""Katar"" sets your critical hit Chance to @{1}."	"In Ragnarok Online, equipping a ""Katar"" sets your critical hit Chance to @{1}."
+22067	"After defeating an MVP, the letters ""MVP"" will appear above the player's head."	"After defeating an MVP, the letters ""MVP"" will appear above the player's head."
 22068	Press the directional key corresponding to the direction of Luna's Dance Move.	Press the directional key corresponding to the direction of Luna's Dance Move.
 22069	Complete all quests to advance your title and earn a grand advancement reward.	Complete all quests to advance your title and earn a grand advancement reward.
 22070	Come, extend your hand and let this great prophet guide you to your true path!	Come, extend your hand and let this great prophet guide you to your true path!
@@ -144,7 +144,7 @@
 22143	You can't travel there during the current activity. Please leave and try again.	You can't travel there during the current activity. Please leave and try again.
 22144	He is the sun; He has no need to look up.\nWorldscorch Feather · Theme Headwear	He is the sun; He has no need to look up.\nWorldscorch Feather · Theme Headwear
 22145	Solo dungeons cannot be entered as a party. Leave your party and Enter Dungeon?	Solo dungeons cannot be entered as a party. Leave your party and Enter Dungeon?
-22146	In RO, "++" means asking an Acolyte to cast both Blessing and Increase Agility.	In RO, "++" means asking an Acolyte to cast both Blessing and Increase Agility.
+22146	"In RO, ""++"" means asking an Acolyte to cast both Blessing and Increase Agility."	"In RO, ""++"" means asking an Acolyte to cast both Blessing and Increase Agility."
 22147	Costume Enchant only costs a fixed amount of Zeny and grants special effects.	Costume Enchant only costs a fixed amount of Zeny and grants special effects.
 22148	Your Stall was open for XX. You listed XX items and earned XX. Close the Stall?	Your Stall was open for XX. You listed XX items and earned XX. Close the Stall?
 22149	Levin, glasses, poor eyesight... Is he from Payon? And didn't he study in Juno?	Levin, glasses, poor eyesight... Is he from Payon? And didn't he study in Juno?
@@ -192,7 +192,7 @@
 22191	Sword proficiency increases Physical ATK by @{1} when using sword-type weapons.	ความสามารถด้าน Sword จะเพิ่ม ATK กายภาพขึ้น@{1}เมื่อใช้อาวุธประเภท Sword
 22192	No playstyle builds available. Create a build for another player to obtain one.	No playstyle builds available. Create a build for another player to obtain one.
 22193	Reduces Movement Speed by @{1}% and increases Ghost magic damage taken by @{2}%	ลดความเร็วในการเคลื่อนที่ลง@{1}% และเพิ่มความเสียหายเวทย์มนต์ Ghost ที่ได้รับโดย@{2}%
-22194	Talk to the Professor and learn that he is researching memory entity technology.	Talk กับ Professor และเรียนรู้ว่าเขากำลังค้นคว้าเทคโนโลยีเอนทิตีหน่วยความจำ
+22194	Talk to the Professor and learn that he is researching memory entity technology.	คุยกับ Professor และทราบว่าเขากำลังค้นคว้าเทคโนโลยี Memory Entity
 22195	When you receive a critical hit, reduces its critical damage multiplier by ${1}%	When you receive a critical hit, reduces its critical damage multiplier by ${1}%
 22196	A highest-ranking cleric with greatly improved survivability and AoE protection.	A highest-ranking cleric with greatly improved survivability and AoE protection.
 22197	A bright Red Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีแดงสดใสที่จะฟื้นฟู@{1}HP ทันที คูลดาวน์:@{2}วินาที
@@ -240,7 +240,7 @@
 22239	Maya's loyal servant. It can smell its master even from thousands of miles away.	คนรับใช้ที่ภักดีของ Maya มันสามารถได้กลิ่นของเจ้าของมันแม้อยู่ห่างออกไปหลายพันไมล์
 22240	A faintly glowing Crystal shield. Use to permanently increase Magic DEF by @{1}.	โล่คริสตัลที่ส่องแสงเล็กน้อย ใช้เพื่อเพิ่ม Magic DEF อย่างถาวรโดย@{1}
 22241	Restores the character's Life, instantly restoring @{1}% HP. Cooldown: @{2} sec.	ฟื้นฟูพลัง Life ของตัวละคร ฟื้นฟู@{1}% HP ทันทีคูลดาวน์:@{2}วินาที
-22242	An enormous axe so massive and heavy that even "oversized" fails to describe it.	ขวานขนาดยักษ์ที่ใหญ่โตและหนักมากจนแม้แต่ "ตัวใหญ่" ก็อธิบายไม่ได้
+22242	"An enormous axe so massive and heavy that even ""oversized"" fails to describe it."	"ขวานขนาดยักษ์ที่ใหญ่โตและหนักมากจนแม้แต่ ""ตัวใหญ่"" ก็อธิบายไม่ได้"
 22243	A massive two-handed sword that subdues enemies with its weight and swing speed.	ดาบสองมือขนาดใหญ่ที่ปราบศัตรูด้วยน้ำหนักและความเร็วในการแกว่ง
 22244	Event Period: Monday through Thursday, Saturday, and Sunday, @{1}:@{2}~@{3}:@{4}	Event Period: Monday through Thursday, Saturday, and Sunday, @{1}:@{2}~@{3}:@{4}
 22245	Event Period: During the Ignition Test, opens Wednesday from @{1}:@{2}~@{3}:@{4}	Event Period: During the Ignition Test, opens Wednesday from @{1}:@{2}~@{3}:@{4}
@@ -266,7 +266,7 @@
 22265	A Peco Peco captured the Party Leader! Is it planning to feed them to its chicks?	Peco Peco จับ Party Leader ได้! มันวางแผนที่จะเลี้ยงลูกไก่ของมันหรือเปล่า?
 22266	Check that your siege equipment, potions, gear, and skills are properly prepared.	Check that your siege equipment, potions, gear, and skills are properly prepared.
 22267	Protect the Glorious Metal from destruction until time runs out to claim victory!	Protect the Glorious Metal from destruction until time runs out to claim victory!
-22268	Survey Ends:<sprite name="icon_questionnaire_time_03"><color=#63a22b>${1}</color>	Survey Ends:<sprite name="icon_questionnaire_time_03"><color=#63a22b>${1}</color>
+22268	"Survey Ends:<sprite name=""icon_questionnaire_time_03""><color=#63a22b>${1}</color>"	"Survey Ends:<sprite name=""icon_questionnaire_time_03""><color=#63a22b>${1}</color>"
 22269	Professor Ryan seems to have something very important to tell You. Go talk to him	Professor Ryan ดูเหมือนจะมีเรื่องสำคัญมากที่จะบอกคุณไปคุยกับเขาสิ
 22270	Clear the client's local Data? After the game closes, please restart it manually.	Clear the client's local Data? After the game closes, please restart it manually.
 22271	Keep up to 20 Purchase History and Sales History entries. Updates may be delayed.	Keep up to 20 Purchase History and Sales History entries. Updates may be delayed.
@@ -348,8 +348,8 @@
 22347	${1} Adventure Begins! Today is day <color=#c27b47>${2}</color> of your adventure!	${1} Adventure Begins! Today is day <color=#c27b47>${2}</color> of your adventure!
 22348	When ^{1}^{2}[Impositio Manus]^{3}^{4} reaches Lv. ${1}, Physical/Magic ATK +${2}.	เมื่อ ^{1}^{2}[Impositio Manus]^{3}^{4}ถึง Lv.${1}, พลังโจมตีกายภาพ/เวทย์ +${2}
 22349	Awakening Potions grant characters extremely high movement speed for a short time.	Awakening Potions grant characters extremely high movement speed for a short time.
-22350	To successfully use "Emergency Call," you must complete its full @{1}-second cast.	To successfully use "Emergency Call," you must complete its full @{1}-second cast.
-22351	The "Azoth" has a low Chance to transform monsters it attacks into other monsters.	The "Azoth" has a low Chance to transform monsters it attacks into other monsters.
+22350	"To successfully use ""Emergency Call,"" you must complete its full @{1}-second cast."	"To successfully use ""Emergency Call,"" you must complete its full @{1}-second cast."
+22351	"The ""Azoth"" has a low Chance to transform monsters it attacks into other monsters."	"The ""Azoth"" has a low Chance to transform monsters it attacks into other monsters."
 22352	Monsters in the Guild Dungeon grant exactly the same EXP as monsters in the field.	Monsters in the Guild Dungeon grant exactly the same EXP as monsters in the field.
 22353	Only the Core Passive effects of pets in lower-numbered Utility slots take effect.	Only the Core Passive effects of pets in lower-numbered Utility slots take effect.
 22354	Bobo knows how this works! First, tap here or press and hold to drag and place it.	Bobo knows how this works! First, tap here or press and hold to drag and place it.
@@ -395,7 +395,7 @@
 22394	When Drops dies, there is a @{1}% Chance to create @{2}-@{3} Transformation Manuals	When Drops dies, there is a @{1}% Chance to create @{2}-@{3} Transformation Manuals
 22395	Stage lights focus on designated areas. Enemies outside the spotlights take damage.	Stage lights focus on designated areas. Enemies outside the spotlights take damage.
 22396	A headband adorned with a beautiful kitten doll. The lace trim makes it even cuter.	A headband adorned with a beautiful kitten doll. The lace trim makes it even cuter.
-22397	In RO, the "boss" of a "Boss Party" is usually a powerful PvE damage-dealing class.	In RO, the "boss" of a "Boss Party" is usually a powerful PvE damage-dealing class.
+22397	"In RO, the ""boss"" of a ""Boss Party"" is usually a powerful PvE damage-dealing class."	"In RO, the ""boss"" of a ""Boss Party"" is usually a powerful PvE damage-dealing class."
 22398	The main battle skill's star rating increases when the pet's star rating increases.	The main battle skill's star rating increases when the pet's star rating increases.
 22399	Defeat monsters using Auto Mode in the Field to earn EXP, Cards, and other rewards.	Defeat monsters using Auto Mode in the Field to earn EXP, Cards, and other rewards.
 22400	Battle Royale Tournament—fight on equal footing. Going Well—chicken dinner tonight!	Battle Royale Tournament—fight on equal footing. Going Well—chicken dinner tonight!
@@ -639,7 +639,7 @@
 22638	You must wait for the countdown to reach zero and the quest to begin before proceeding.	You must wait for the countdown to reach zero and the quest to begin before proceeding.
 22639	This Crown sharpens the wearer's mind and contains magic that bolsters mental strength.	This Crown sharpens the wearer's mind and contains magic that bolsters mental strength.
 22640	A bizarre-looking mask. Its frightening appearance makes it perfect for playing pranks.	A bizarre-looking mask. Its frightening appearance makes it perfect for playing pranks.
-22641	Among RO players, the "South Gate Field" is the largest Trade hub on the Entire Server.	Among RO players, the "South Gate Field" is the largest Trade hub on the Entire Server.
+22641	"Among RO players, the ""South Gate Field"" is the largest Trade hub on the Entire Server."	"Among RO players, the ""South Gate Field"" is the largest Trade hub on the Entire Server."
 22642	Allocate talent points to improve your abilities and define your class characteristics.	Allocate talent points to improve your abilities and define your class characteristics.
 22643	Challenge a Boss alongside multiple teammates to earn Rare equipment and other rewards.	Challenge a Boss alongside multiple teammates to earn Rare equipment and other rewards.
 22644	Wow, a golden Legend! Rare gold-quality equipment can undergo one Extra stat appraisal~	Wow, a golden Legend! Rare gold-quality equipment can undergo one Extra stat appraisal~
@@ -754,7 +754,7 @@
 22753	When a Split Poporing dies, there is a @{1}% Chance to create @{2} Transformation Manuals	When a Split Poporing dies, there is a @{1}% Chance to create @{2} Transformation Manuals
 22754	Baphomet ^{1}repeatedly summons charging illusions^{2} that damage targets in their path.	Baphomet ^{1}repeatedly summons charging illusions^{2} that damage targets in their path.
 22755	Drag skills from the left to the skill bar. Drag a skill to an empty area to unassign it.	Drag skills from the left to the skill bar. Drag a skill to an empty area to unassign it.
-22756	<u><color=#62af5e><link="jumpskillpos/${1}">[Go to Prerequisite Skill]</link></color></u>	<u><color=#62af5e><link="jumpskillpos/${1}">[Go to Prerequisite Skill]</link></color></u>
+22756	"<u><color=#62af5e><link=""jumpskillpos/${1}"">[Go to Prerequisite Skill]</link></color></u>"	"<u><color=#62af5e><link=""jumpskillpos/${1}"">[Go to Prerequisite Skill]</link></color></u>"
 22757	Black glasses that can shield your eyes from the sun or serve as a fashionable accessory.	Black glasses that can shield your eyes from the sun or serve as a fashionable accessory.
 22758	Quick, tap here! You can team up with your friends for a challenge. It's tons of fun, bo!	Quick, tap here! You can team up with your friends for a challenge. It's tons of fun, bo!
 22759	Jack says he knows a pest-control expert who can drive away the Rockers. What can you do?	Jack says he knows a pest-control expert who can drive away the Rockers. What can you do?
@@ -804,7 +804,7 @@
 22803	What happened just now? You suddenly froze up and even broke the thoughtform storage vial!	What happened just now? You suddenly froze up and even broke the thoughtform storage vial!
 22804	Huh? You felt it too? The flow of Elements in Geffen has definitely seemed strange Recent.	Huh? You felt it too? The flow of Elements in Geffen has definitely seemed strange Recent.
 22805	Somewhere in this land, a tremendous power is beginning to reveal itself in subtle ways...	Somewhere in this land, a tremendous power is beginning to reveal itself in subtle ways...
-22806	Yesterday, I folded a huge boat for Mom. She said, "Thank You," and patted me on the head!	Yesterday, I folded a huge boat for Mom. She said, "Thank You," and patted me on the head!
+22806	"Yesterday, I folded a huge boat for Mom. She said, ""Thank You,"" and patted me on the head!"	"Yesterday, I folded a huge boat for Mom. She said, ""Thank You,"" and patted me on the head!"
 22807	I can submit another evaluation Request in a month. A month is plenty of time to practice.	I can submit another evaluation Request in a month. A month is plenty of time to practice.
 22808	You know... the kind that gives you an upset stomach. It won't cause any real harm, right?	You know... the kind that gives you an upset stomach. It won't cause any real harm, right?
 22809	Marriage is about looking forward to a happy future. Is there someone you'd like to marry?	Marriage is about looking forward to a happy future. Is there someone you'd like to marry?
@@ -898,7 +898,7 @@
 22897	For every @{1} enemy hit by 【Lord of Vermilion】, its damage increases by ${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่ถูกโจมตีโดย 【Lord of Vermilion】 ความเสียหายของมันจะเพิ่มขึ้น${1}% สูงสุดถึง${2}%
 22898	A tiny kun hidden in the deep sea. Someday, it will slowly grow and soar into the heavens...	A tiny kun hidden in the deep sea. Someday, it will slowly grow and soar into the heavens...
 22899	After High-Rate AFK Mode is disabled, it will automatically reactivate at 5:00 the next day.	After High-Rate AFK Mode is disabled, it will automatically reactivate at 5:00 the next day.
-22900	Compared to the White Potion sold in shops, "Tasty Fish" has the advantage of weighing less.	Compared to the White Potion sold in shops, "Tasty Fish" has the advantage of weighing less.
+22900	"Compared to the White Potion sold in shops, ""Tasty Fish"" has the advantage of weighing less."	"Compared to the White Potion sold in shops, ""Tasty Fish"" has the advantage of weighing less."
 22901	Once the Merge Guild process begins, the guilds will be merged at 5:00 the following morning	Once the Merge Guild process begins, the guilds will be merged at 5:00 the following morning
 22902	Utility-slot pets activate Passive Skills\nOnly 1 core Passive Skill can be active at a time	Utility-slot pets activate Passive Skills\nOnly 1 core Passive Skill can be active at a time
 22903	An S-Rank Pet is guaranteed within <color=#fdab5b><size=36>${1}</size></color> more searches	An S-Rank Pet is guaranteed within <color=#fdab5b><size=36>${1}</size></color> more searches
@@ -918,7 +918,7 @@
 22917	Hoho! It's been ages since the Knights joined an event like this. What a lively celebration!	Hoho! It's been ages since the Knights joined an event like this. What a lively celebration!
 22918	Hey, we could use a strong, reliable partner like You. So, are you interested in Joining us?	Hey, we could use a strong, reliable partner like You. So, are you interested in Joining us?
 22919	Heh-heh, dummy! After seeing how you handled that crisis, I fully acknowledge your strength.	Heh-heh, dummy! After seeing how you handled that crisis, I fully acknowledge your strength.
-22920	(Sticks out his tongue, about to lick the "Treasure" in the cardboard box) Woof, woof, woof!	(Sticks out his tongue, about to lick the "Treasure" in the cardboard box) Woof, woof, woof!
+22920	"(Sticks out his tongue, about to lick the ""Treasure"" in the cardboard box) Woof, woof, woof!"	"(Sticks out his tongue, about to lick the ""Treasure"" in the cardboard box) Woof, woof, woof!"
 22921	Hahaha! Yes, exactly. Since you're okay, I'll be going. I still have a mission to carry out.	Hahaha! Yes, exactly. Since you're okay, I'll be going. I still have a mission to carry out.
 22922	The fun and good fortune keep coming! It's time for the prize drawing!\nSecond Prize Drawing	The fun and good fortune keep coming! It's time for the prize drawing!\nSecond Prize Drawing
 22923	@{1} of our ^{1}Elite Treasure Carts^{2} are under attack!^{3}^{4}^{5}Rescue Now^{6}^{7}^{8}	@{1} of our ^{1}Elite Treasure Carts^{2} are under attack!^{3}^{4}^{5}Rescue Now^{6}^{7}^{8}

@@ -14,7 +14,7 @@
 16013	Complete @{1} Trades at the Exchange	ทำการซื้อขาย@{1}ให้เสร็จสมบูรณ์ที่ตลาดแลกเปลี่ยน
 16014	Choose a path to begin your journey!	เลือกเส้นทางเพื่อเริ่มต้นการเดินทางของคุณ!
 16015	Automatically ride the Balloon Mount	ขึ้นบอลลูนโดยอัตโนมัติ
-16016	Kill @{1} monsters in the Munak Cave	Kill สัตว์ประหลาด@{1}ในถ้ำ Munak
+16016	Kill @{1} monsters in the Munak Cave	กำจัดมอนสเตอร์ @{1} ตัวในถ้ำ Munak
 16017	Perform the opening dance with Luna.	แสดงการเต้นรำเปิดกับ Luna
 16018	Head to Grandpa Bob's yard together.	มุ่งหน้าไปยังสนามหญ้าของ GrandpaBob ด้วยกัน
 16019	Check out the Weapon dealer's stall.	ตรวจสอบแผงขายอาวุธ
@@ -41,7 +41,7 @@
 16040	Season Settlement: Conqueror Rewards	Season Settlement: Conqueror Rewards
 16041	Guild League Elite Settings Reminder	Guild League Elite Settings Reminder
 16042	Delisted Due to Trade Market Closure	Delisted Due to Trade Market Closure
-16043	Talk to the Mentor about Job Advance	Talk กับที่ปรึกษาเกี่ยวกับ Job Advance
+16043	Talk to the Mentor about Job Advance	คุยกับ Mentor เรื่องการเปลี่ยนอาชีพ
 16044	Member Removed from Adventurer Guild	Member Removed from Adventurer Guild
 16045	No equipment available for smelting.	No equipment available for smelting.
 16046	You can save the current attributes.	You can save the current attributes.
@@ -301,7 +301,7 @@
 16300	Socket @{2} Tier @{1} or higher cards	การ์ด@{2}เทียร์@{1}หรือสูงกว่า
 16301	Say hello to the Young Man for Dumby.	ทักทาย Young Man เพื่อดัมบี้
 16302	Raise all equipped Echoes to Lv. @{1}	เพิ่ม Echoes ที่สวมใส่ทั้งหมดเป็น Lv.@{1}
-16303	Kill Goblin (Flail) and Goblin Archer	Kill Goblin (Flail) และ Goblin Archer
+16303	Kill Goblin (Flail) and Goblin Archer	กำจัด Goblin (Flail) และ Goblin Archer
 16304	Carry out the rat-catching operation.	ดำเนินการจับหนู
 16305	Go to the bulletin board in Prontera.	ไปที่กระดานข่าวใน Prontera
 16306	Check the note around the cat's neck.	เช็คโน้ตรอบคอแมว
@@ -980,7 +980,7 @@
 16979	Use to receive Beginner Guild Benefits.	ใช้เพื่อรับสิทธิประโยชน์ Guild มือใหม่
 16980	Pet has reached the maximum star rating	Pet has reached the maximum star rating
 16981	Clothing made from high-quality fabric.	เสื้อผ้าผลิตจากผ้าคุณภาพสูง
-16982	Consumed during gathering and crafting.	Consumed during gathering and crafting.
+16982	Consumed during gathering and crafting.	ใช้เป็นวัตถุดิบเมื่อรวบรวมหรือคราฟต์
 16983	Not applied: This skill already exists.	Not applied: This skill already exists.
 16984	Hero Registry (@{1} Hours) Discontinued	Hero Registry (@{1} Hours) Discontinued
 16985	Advanced Treasure Chest@{1}(Deprecated)	Advanced Treasure Chest@{1}(Deprecated)

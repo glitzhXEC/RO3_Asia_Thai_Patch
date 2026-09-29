@@ -449,10 +449,10 @@
 8448	Guild Banner Emblem	Guild Banner Emblem
 8449	Defeat Doppelganger	กำจัด Doppelganger
 8450	Reach Base Lv. @{1}	การเข้าถึงฐาน Lv.@{1}
-8451	Kill @{1} Mushrooms	KillMushrooms@{1}
-8452	Kill @{1} Skeletons	KillSkeletons@{1}
+8451	Kill @{1} Mushrooms	กำจัด Mushrooms @{1} ตัว
+8452	Kill @{1} Skeletons	กำจัด Skeletons @{1} ตัว
 8453	Play hide-and-seek.	เล่นซ่อนหา
-8454	Ride the Lion mount	RideLion
+8454	Ride the Lion mount	ขี่ Lion
 8455	Crawl into the hole	คลานเข้าไปในรู
 8456	Complete Trans. 2nd	ทรานส์สมบูรณ์2
 8457	Respond to a Crisis	ตอบสนองต่อภาวะวิกฤติ
@@ -583,7 +583,7 @@
 8582	Transform: Angeling	แปลงร่าง: นางฟ้า
 8583	Transform: Deviling	แปลงร่าง: ปีศาจ
 8584	Teleportation Magic	Teleportation Magic
-8585	Attack Speed +@{1}%	Attack Speed +@{1}%
+8585	Attack Speed +@{1}%	เพิ่มความเร็วโจมตี @{1}%
 8586	Physical ATK +${1}.	พลังโจมตีกายภาพ +${1}
 8587	Holy Cross Judgment	Holy Cross Judgment
 8588	Divine Light Strike	Divine Light Strike

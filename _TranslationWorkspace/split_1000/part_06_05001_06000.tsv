@@ -645,7 +645,7 @@
 5644	% FLEE Increase	% FLEE Increase
 5645	% CRIT Increase	% CRIT Increase
 5646	% Skill MP Cost	% Skill MP Cost
-5647	Ride the Deniro	RideDeniro
+5647	Ride the Deniro	ขี่ Deniro
 5648	Defeat Baphomet	เอาชนะ Baphomet
 5649	Prototype Trial	Prototype Trial
 5650	Listing Removed	Listing Removed
@@ -843,7 +843,7 @@
 5842	Ultimate - Easy	Ultimate - Easy
 5843	Horong Tracking	Horong Tracking
 5844	Full-Arena Wave	Full-Arena Wave
-5845	Obtain Red Note	Obtain Red Note
+5845	Obtain Red Note	รับ Red Note
 5846	Knight Note@{1}	Knight Note@{1}
 5847	Hunter Note@{1}	Hunter Note@{1}
 5848	Priest Note@{1}	Priest Note@{1}

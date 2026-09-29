@@ -77,7 +77,7 @@
 4076	Territory War	Territory War
 4077	Royal Capital	Royal Capital
 4078	Emblems: ${1}	Emblems: ${1}
-4079	Kill Baphomet	KillBaphomet
+4079	Kill Baphomet	กำจัด Baphomet
 4080	Talk to Rhine	คุยกับ Rhine
 4081	Defeat Morroc	เอาชนะ Morroc
 4082	Guild Auction	Guild Auction
@@ -843,8 +843,8 @@
 4842	Not Yet Ranked	Not Yet Ranked
 4843	Defeat Wraith.	กำจัดเจตภูต
 4844	Defeat Dracula	เอาชนะ Dracula
-4845	Kill @{1} Boas	Kill@{1}Boas
-4846	Kill Peco Peco	Kill Peco Peco
+4845	Kill @{1} Boas	กำจัด Boas @{1} ตัว
+4846	Kill Peco Peco	กำจัด Peco Peco
 4847	Effect Details	Effect Details
 4848	No buff effect	No buff effect
 4849	Portrait Frame	Portrait Frame

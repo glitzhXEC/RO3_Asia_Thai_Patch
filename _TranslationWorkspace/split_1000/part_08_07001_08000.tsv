@@ -111,13 +111,13 @@
 7110	Refine @{1} times	ปรับแต่ง@{1}ครั้ง
 7111	Have @{1} friends	มีเพื่อน@{1}
 7112	Equipment Forging	อุปกรณ์การตีขึ้นรูป
-7113	Kill @{1} Rockers	Kill@{1}Rockers
+7113	Kill @{1} Rockers	กำจัด Rockers @{1} ตัว
 7114	Fly Wing Tutorial	สอนทำปีกบิน
 7115	Current Encounter	Current Encounter
 7116	Talk to the woman	คุยกับผู้หญิงคนนั้น
 7117	Capture the Thief	จับโจร
 7118	Inspect the cargo	ตรวจสอบสินค้า
-7119	Ask the Professor	Ask the Professor
+7119	Ask the Professor	สอบถาม Professor
 7120	Permanently Owned	Permanently Owned
 7121	Second Job Change	Second Job Change
 7122	Change Guild Name	Change Guild Name
@@ -296,7 +296,7 @@
 7295	P@{1} Blue Bubble	P@{1} Blue Bubble
 7296	Ground Red Bubble	Ground Red Bubble
 7297	Skill@{1}Call@{2}	Skill@{1}Call@{2}
-7298	Obtain Green Note	Obtain Green Note
+7298	Obtain Green Note	รับ Green Note
 7299	Lock-On Rectangle	Lock-On Rectangle
 7300	Skill@{1} Variant	Skill@{1} Variant
 7301	Crusader Note@{1}	Crusader Note@{1}
@@ -796,7 +796,7 @@
 7795	Opens in ${1} days	Opens in ${1} days
 7796	Log in to the game	เข้าสู่ระบบเกม
 7797	Help the poor man.	ช่วยเหลือชายยากจน
-7798	Ride the Fox mount	Ride สุนัขจิ้งจอก
+7798	Ride the Fox mount	ขี่ Fox
 7799	Equipment Refining	การกลั่นอุปกรณ์
 7800	MVP Activity Quest	ภารกิจ Activity MVP
 7801	Take a look around	Take a look around
@@ -827,7 +827,7 @@
 7826	Prepare for battle	เตรียมพร้อมรบ
 7827	Star Core No. @{1}	Star Core No. @{1}
 7828	Go to South Morroc	ไปที่ South Morroc
-7829	Talk to the Mentor	Talk กับที่ปรึกษา
+7829	Talk to the Mentor	คุยกับ Mentor
 7830	Defeat the Pharaoh	เอาชนะ Pharaoh
 7831	Insufficient items	Insufficient items
 7832	Pending activation	Pending activation
@@ -911,7 +911,7 @@
 7910	Divine Retribution	Divine Retribution
 7911	High-Energy Impact	High-Energy Impact
 7912	Aerial Bombardment	Aerial Bombardment
-7913	Collect Live Coals	Collect Live Coals
+7913	Collect Live Coals	เก็บ Live Coals
 7914	Earth Poring Split	Earth Poring Split
 7915	Monster Resistance	Monster Resistance
 7916	Display UI Buttons	Display UI Buttons
@@ -962,7 +962,7 @@
 7961	Left_Trigger Check	Left_Trigger Check
 7962	Skill@{1}Charge Up	Skill@{1}Charge Up
 7963	Skill@{1}Shout@{2}	Skill@{1}Shout@{2}
-7964	Obtain Yellow Note	Obtain Yellow Note
+7964	Obtain Yellow Note	รับ Yellow Note
 7965	Normal Attack_@{1}	Normal Attack_@{1}
 7966	Triple Strike_@{1}	Triple Strike_@{1}
 7967	Melody Bombardment	Melody Bombardment

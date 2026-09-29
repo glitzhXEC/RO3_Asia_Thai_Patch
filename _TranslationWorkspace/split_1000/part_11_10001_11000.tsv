@@ -321,12 +321,12 @@
 10320	Time Until Season Ends	Time Until Season Ends
 10321	Distance to Season End	Distance to Season End
 10322	The airship starts up.	เรือเหาะเริ่มทำงาน
-10323	Kill @{1} Orc Warriors	Kill@{1}Orc Warriors
+10323	Kill @{1} Orc Warriors	กำจัด Orc Warriors @{1} ตัว
 10324	Claim @{1} map rewards	รับรางวัลแผนที่@{1}
 10325	Talk to the professor.	คุยกับอาจารย์
 10326	Allocate Skill Points.	จัดสรรคะแนนทักษะ
 10327	Obtain the Hyena mount	รับอุปกรณ์ยึด Hyena
-10328	Ride the Ostrich mount	Ride สัตว์ RideOstrich
+10328	Ride the Ostrich mount	ขี่ Ostrich
 10329	Stronghold War Auction	Stronghold War Auction
 10330	North-South Brown King	North-South Brown King
 10331	Reach 800 Total Points	Reach 800 Total Points
@@ -422,7 +422,7 @@
 10421	Giant Two-Handed Sword	Giant Two-Handed Sword
 10422	LUK increases by ${1}.	LUK เพิ่มขึ้นโดย${1}
 10423	Guild Battle Prep Buff	บัฟเตรียมการต่อสู้ Guild
-10424	Physical Damage +@{1}%	+@{1}%
+10424	Physical Damage +@{1}%	เพิ่มความเสียหายกายภาพ @{1}%
 10425	STR increases by ${1}.	STR เพิ่มขึ้น${1}
 10426	VIT increases by ${1}.	VIT เพิ่มขึ้น${1}
 10427	Stun Resistance +@{1}.	ต้านทานการสตัน +@{1}
@@ -885,13 +885,13 @@
 10884	Fall asleep at the inn.	เผลอหลับไปในโรงเตี๊ยม
 10885	Reach @{1} Battle Merit	เข้าถึง@{1}Battle Merit
 10886	Equip @{1} blue Echoes.	ติดตั้ง Echoes สีฟ้า@{1}
-10887	Kill @{1} Orc Skeletons	KillOrc Skeletons@{1}
+10887	Kill @{1} Orc Skeletons	กำจัด Orc Skeletons @{1} ตัว
 10888	Claim @{1} area rewards	รับรางวัลพื้นที่@{1}
 10889	Obtain the Alpaca mount	รับพาหนะ Alpaca
 10890	Complete Pet Tower once	ผ่าน Pet Tower หนึ่งครั้ง
 10891	Equip the Divine Totem.	สวมใส่ Divine Totem
-10892	Talk to the Guide again	Talk กับไกด์อีกครั้ง
-10893	Talk to your companions	Talk กับเพื่อนของคุณ
+10892	Talk to the Guide again	คุยกับ Guide อีกครั้ง
+10893	Talk to your companions	คุยกับเพื่อนร่วมทาง
 10894	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
 10895	Life +@{1}%, ATK +@{2}%	Life +@{1}%, ATK +@{2}%
 10896	Current Encounter Group	Current Encounter Group
@@ -911,9 +911,9 @@
 10910	A New World Has Arrived	A New World Has Arrived
 10911	Damage Reflection Build	Damage Reflection Build
 10912	Go to the banquet venue	ไปที่สถานที่จัดเลี้ยง
-10913	Approach the giant ant.	Approach the giant ant.
+10913	Approach the giant ant.	เข้าไปหา Giant Ant
 10914	Complete the shell game	จบเกมเชลล์
-10915	Ask about the next move	Ask about the next move
+10915	Ask about the next move	สอบถามเกี่ยวกับขั้นตอนต่อไป
 10916	So lucky! I'll be next!	So lucky! I'll be next!
 10917	We're rich! We're rich!	We're rich! We're rich!
 10918	Upper-Left Revive Point	Upper-Left Revive Point

@@ -77,7 +77,7 @@
 9076	Tap to Select a Pet	Tap to Select a Pet
 9077	Current Battle Data	Current Battle Data
 9078	Suggested Resonance	Suggested Resonance
-9079	Attack Speed +${1}%	Attack Speed +${1}%
+9079	Attack Speed +${1}%	เพิ่มความเร็วโจมตี ${1}%
 9080	Enters Blind status	เข้าสู่สถานะตาบอด
 9081	Lucky Poring Lv@{1}	Lucky Poring Lv@{1}
 9082	Dexterity Resonance	Dexterity Resonance
@@ -126,11 +126,11 @@
 9125	Conqueror Settlement	Conqueror Settlement
 9126	MVP-Golden Thief Bug	MVP-Golden Thief Bug
 9127	MVP-Moonlight Flower	MVP-Moonlight Flower
-9128	Kill @{1} Roda Frogs	Kill กบ@{1}Roda
-9129	Kill @{1} Thief Bugs	Kill แมลงจอมโจร@{1}
-9130	Kill @{1} Orc Ladies	Kill@{1}Orc Ladies
+9128	Kill @{1} Roda Frogs	กำจัด Roda Frogs @{1} ตัว
+9129	Kill @{1} Thief Bugs	กำจัด Thief Bugs @{1} ตัว
+9130	Kill @{1} Orc Ladies	กำจัด Orc Ladies @{1} ตัว
 9131	Play the shell game.	เล่นเกมเชลล์.
-9132	Ride the Hyena mount	Ride สัตว์ Ride ไฮยีน่า
+9132	Ride the Hyena mount	ขี่ Hyena
 9133	Obtain the Fox mount	รับสัตว์พาหนะ Fox
 9134	Tower Activity Quest	ภารกิจ Activity ทาวเวอร์
 9135	Equip the Soul Echo.	ติดตั้ง Soul Echo
@@ -146,7 +146,7 @@
 9145	Guild League Rewards	Guild League Rewards
 9146	Game Mode Bid Outbid	Game Mode Bid Outbid
 9147	Guild Auction Closed	Guild Auction Closed
-9148	Kill Orc Warrior@{1}	KillOrc Warrior@{1}
+9148	Kill Orc Warrior@{1}	กำจัด Orc Warrior @{1} ตัว
 9149	Daily Activity Quest	ภารกิจ Activity ประจำวัน
 9150	Can escort ${1} more	Can escort ${1} more
 9151	Campfire Interaction	Campfire Interaction
@@ -239,8 +239,8 @@
 9238	Shadow Card: Pharaoh	Shadow Card: Pharaoh
 9239	Sacred Relic Crystal	Sacred Relic Crystal
 9240	Guild Auction locked	Guild Auction locked
-9241	Attack Speed +${1}%.	Attack Speed +${1}%.
-9242	Attack Speed +@{1}%.	Attack Speed +@{1}%.
+9241	Attack Speed +${1}%.	เพิ่มความเร็วโจมตี ${1}%
+9242	Attack Speed +@{1}%.	เพิ่มความเร็วโจมตี @{1}%
 9243	Poring Counterattack	Poring Counterattack
 9244	Increase SP Recovery	Increase SP Recovery
 9245	Radiant Resurrection	Radiant Resurrection
@@ -731,11 +731,11 @@
 9730	Defeat the Marionette	เอาชนะหุ่นเชิด
 9731	Click Me to Start Now	คลิกฉันเพื่อเริ่มเลย
 9732	Head toward Prontera.	มุ่งหน้าไปยังพรอนเทรา
-9733	Kill @{1} Orc Zombies	KillZombies@{1}Orc
+9733	Kill @{1} Orc Zombies	กำจัด Orc Zombies @{1} ตัว
 9734	Prepare for the race.	เตรียมพร้อมการแข่งขัน
 9735	Allocate Stat Points.	จัดสรรคะแนนสถิติ
 9736	Obtain the Lion Mount	รับ Lion Mount
-9737	Ride the Alpaca mount	RideAlpaca
+9737	Ride the Alpaca mount	ขี่ Alpaca
 9738	Encounter Cards: ${1}	Encounter Cards: ${1}
 9739	Talk to Boya and Wule	คุยกับ Boya และ Wule
 9740	Cannot refresh again.	Cannot refresh again.
@@ -759,7 +759,7 @@
 9758	Find the Guild Leader	ค้นหาหัวหน้า Guild
 9759	Attack Star Core @{1}	Attack Star Core @{1}
 9760	Spray the pheromones.	สเปรย์ฟีโรโมน
-9761	Talk to the Professor	Talk กับ Professor
+9761	Talk to the Professor	คุยกับ Professor
 9762	Title Function locked	Title Function locked
 9763	Soul Breaker Assassin	Soul Breaker Assassin
 9764	Participation Rewards	Participation Rewards
@@ -827,7 +827,7 @@
 9826	Shadow Card: Orc Hero	Shadow Card: Orc Hero
 9827	Shadow Card: Mistress	Shadow Card: Mistress
 9828	Invalid Ritual status	Invalid Ritual status
-9829	Movement Speed -@{1}%	-@{1}%
+9829	Movement Speed -@{1}%	ลดความเร็วเคลื่อนที่ @{1}%
 9830	Movement Speed +@{1}%	ความเร็วในการเคลื่อนที่ +@{1}%
 9831	Purifying Light Orbit	Purifying Light Orbit
 9832	Axe Tornado - Enhance	Axe Tornado - Enhance

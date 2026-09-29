@@ -174,7 +174,7 @@
 13150000191	Enter Maya's Nest and rescue the Professor.	เข้าไปในรังของ Maya และช่วยเหลือ Professor
 13150000192	After successfully rescuing the Professor, you earn the Captain's praise.	หลังจากช่วยเหลือ Professor ได้สำเร็จ คุณจะได้รับการยกย่องจาก Captain
 13150000193	After many twists and turns, you've finally found the Professor. Return to camp and rest.	หลังจากพลิกผันหลายครั้ง ในที่สุดคุณก็พบ Professor แล้ว กลับเข้าค่ายและพักผ่อน
-13150000194	Talk to the Professor and learn that he is researching memory entity technology.	Talk กับ Professor และเรียนรู้ว่าเขากำลังค้นคว้าเทคโนโลยีเอนทิตีหน่วยความจำ
+13150000194	Talk to the Professor and learn that he is researching memory entity technology.	คุยกับ Professor และทราบว่าเขากำลังค้นคว้าเทคโนโลยี Memory Entity
 13150000195	Touch the memory entity prototype and fall into another dimension.	สัมผัสต้นแบบเอนทิตีหน่วยความจำแล้วตกไปสู่อีกมิติหนึ่ง
 13150000196	You encounter the mysterious woman again, and she asks you to look around.	คุณพบกับผู้หญิงลึกลับอีกครั้ง และเธอขอให้คุณมองไปรอบๆ
 13150000197	Ki explains how the Garden of Chronology works.	Ki อธิบายวิธีการทำงานของ Garden of Chronology
@@ -186,7 +186,7 @@
 13150000203	Search nearby for traces of the cargo.	ค้นหาร่องรอยของสินค้าในบริเวณใกล้เคียง
 13150000204	Encounter the caravan searching for the cargo.	พบกับคาราวานที่กำลังค้นหาสินค้า
 13150000205	Continue to Search for the cargo.	ค้นหาสินค้าต่อไป
-13150000206	Kill Baphomet	KillBaphomet
+13150000206	Kill Baphomet	กำจัด Baphomet
 13150000207	Discover the Professor's supplies in Baphomet's lair.	ค้นพบสิ่งของของ Professor ในถ้ำของ Baphomet
 13150000208	Say goodbye to the caravan Members.	บอกลาสมาชิกคาราวาน
 13150000209	Take the cargo to the Professor and report back.	นำสินค้าไปให้ Professor แล้วรายงานกลับ
@@ -199,7 +199,7 @@
 13150000216	After the tremor, a glowing Relic appeared in Goblin Forest. Go investigate.	หลังจากแรงสั่นสะเทือน Relic ที่เรืองแสงก็ปรากฏขึ้นใน Goblin Forest ไปสอบสวน.
 13150000217	After the Relic appeared, the monsters in the area began growing restless.	หลังจากที่ Relic ปรากฏตัว มอนสเตอร์ในพื้นที่ก็เริ่มกระสับกระส่าย
 13150000218	Go provide Utility to the stationed Soldiers.	Go มอบสาธารณูปโภคให้กับ Soldiers ประจำการ
-13150000219	Kill the restless monsters along the way.	Kill สัตว์ประหลาดที่กระสับกระส่ายไปพร้อมกัน
+13150000219	Kill the restless monsters along the way.	กำจัดมอนสเตอร์ที่กระสับกระส่ายระหว่างทาง
 13150000220	Help the Soldiers escape.	ช่วย Soldiers หลบหนี
 13150000221	Ask the Soldiers about the Relic's whereabouts.	ถาม Soldiers เกี่ยวกับที่อยู่ของโบราณวัตถุ
 13150000222	Search for the Relic using the information provided by the Soldiers.	ค้นหาโบราณวัตถุโดยใช้ข้อมูลที่ Soldiers ให้ไว้
@@ -228,27 +228,27 @@
 13150000245	Equip @{1} purple Echoes	ติดตั้ง Echoes สีม่วง@{1}
 13150000246	Equip @{1} orange Echoes	ติดตั้ง Echoes สีส้ม@{1}
 13150000247	Enhance Echoes by a total of @{1} levels	เพิ่มเสียงสะท้อนโดยรวมของระดับ@{1}
-13150000248	Kill @{1} Roda Frogs	Kill กบ@{1}Roda
-13150000249	Kill @{1} Rockers	Kill@{1}Rockers
+13150000248	Kill @{1} Roda Frogs	กำจัด Roda Frogs @{1} ตัว
+13150000249	Kill @{1} Rockers	กำจัด Rockers @{1} ตัว
 13150000250	Head to Payon and search for signs of Mushroom monsters.	มุ่งหน้าไปยัง Payon และค้นหาสัญญาณของสัตว์ประหลาด Mushroom
 13150000251	The Elder Lady gives you a Flying mount so you won't get lost	The Elder Lady มอบพาหนะบินให้คุณเพื่อที่คุณจะได้ไม่หลงทาง
-13150000252	Kill @{1} Mushrooms	KillMushrooms@{1}
-13150000253	Kill @{1} Boas	Kill@{1}Boas
-13150000254	Kill @{1} Thief Bugs	Kill แมลงจอมโจร@{1}
-13150000255	Kill Muka	KillMuka
-13150000256	Kill Peco Peco	Kill Peco Peco
-13150000257	Kill Bigfoot	KillBigfoot
-13150000258	Kill @{1} Soldier Skeletons	KillSkeletonsSoldier@{1}
-13150000259	Kill @{1} Skeletons	KillSkeletons@{1}
+13150000252	Kill @{1} Mushrooms	กำจัด Mushrooms @{1} ตัว
+13150000253	Kill @{1} Boas	กำจัด Boas @{1} ตัว
+13150000254	Kill @{1} Thief Bugs	กำจัด Thief Bugs @{1} ตัว
+13150000255	Kill Muka	กำจัด Muka
+13150000256	Kill Peco Peco	กำจัด Peco Peco
+13150000257	Kill Bigfoot	กำจัด Bigfoot
+13150000258	Kill @{1} Soldier Skeletons	กำจัด Soldier Skeletons @{1} ตัว
+13150000259	Kill @{1} Skeletons	กำจัด Skeletons @{1} ตัว
 13150000260	Kill Deniro and Piere: @{1}	KillDeniro และ Piere:@{1}
-13150000261	Kill Andre and Vitata: @{1}	Kill Andre และ Vitata:@{1}
-13150000262	Kill @{1} Orc Warriors	Kill@{1}Orc Warriors
-13150000263	Kill @{1} Orc Ladies	Kill@{1}Orc Ladies
-13150000264	Kill @{1} Orc Skeletons	KillOrc Skeletons@{1}
-13150000265	Kill @{1} Orc Zombies	KillZombies@{1}Orc
+13150000261	Kill Andre and Vitata: @{1}	กำจัด Andre และ Vitata: @{1}
+13150000262	Kill @{1} Orc Warriors	กำจัด Orc Warriors @{1} ตัว
+13150000263	Kill @{1} Orc Ladies	กำจัด Orc Ladies @{1} ตัว
+13150000264	Kill @{1} Orc Skeletons	กำจัด Orc Skeletons @{1} ตัว
+13150000265	Kill @{1} Orc Zombies	กำจัด Orc Zombies @{1} ตัว
 13150000266	Kill Goblin (Dagger) and Goblin (Hammer)	KillGoblin (Dagger) และ Goblin (Hammer)
-13150000267	Kill Goblin (Flail) and Goblin Archer	Kill Goblin (Flail) และ Goblin Archer
-13150000268	Kill @{1} monsters in the Munak Cave	Kill สัตว์ประหลาด@{1}ในถ้ำ Munak
+13150000267	Kill Goblin (Flail) and Goblin Archer	กำจัด Goblin (Flail) และ Goblin Archer
+13150000268	Kill @{1} monsters in the Munak Cave	กำจัดมอนสเตอร์ @{1} ตัวในถ้ำ Munak
 13150000269	Claim @{1} map rewards	รับรางวัลแผนที่@{1}
 13150000270	Claim @{1} area rewards	รับรางวัลพื้นที่@{1}
 13150000271	Claim the South Gate map reward	รับรางวัลแผนที่ South Gate
@@ -266,7 +266,7 @@
 13150000283	Exchange them for a Bunny Hair Band with the Headgear Merchant.	แลกเปลี่ยนเป็น Bunny Hair Band กับพ่อค้าหมวก
 13150000284	Deliver the Bunny Hair Band to Baya with Allen.	มอบผ้าคาดผมกระต่ายให้บาย่ากับ Allen
 13150000285	Stumbled upon an argument in Payon Forest.	สะดุดกับการโต้เถียงในป่า Payon
-13150000286	Ask passersby what happened.	Ask passersby what happened.
+13150000286	Ask passersby what happened.	ถามผู้คนที่เดินผ่านมาว่าเกิดอะไรขึ้น
 13150000287	Decide to take down the scalpers from within, starting with Granny Gwen.	ตัดสินใจกำจัดพวกถลกหนังจากภายใน โดยเริ่มจาก Granny Gwen
 13150000288	Collect Whispering Flowers favored by Rockers.	รวบรวม Whispering Flowers ที่ชาวร็อคชื่นชอบ
 13150000289	Report your collection progress to Granny Gwen.	รายงานความคืบหน้าในการเก็บรวบรวมของคุณไปยัง Granny Gwen
@@ -287,7 +287,7 @@
 13150000304	Follow Jax to the banquet.	ตามแจ็กซ์ไปงานเลี้ยง
 13150000305	The attackers on the road were the Guild Members' family members. Hear what they have to say.	ผู้โจมตีบนท้องถนนคือสมาชิกในครอบครัวของสมาชิก Guild ฟังสิ่งที่พวกเขาจะพูด
 13150000306	Enter the banquet hall and listen to Jax's speech.	เข้าไปในห้องจัดเลี้ยงและฟังคำพูดของแจ็กซ์
-13150000307	Talk with the Guild Members at the banquet.	Talk กับสมาชิก Guild ในงานเลี้ยง
+13150000307	Talk with the Guild Members at the banquet.	คุยกับสมาชิก Guild ในงานเลี้ยง
 13150000308	It's time to make the final choice.	ถึงเวลาตัดสินใจขั้นสุดท้ายแล้ว
 13150000309	Receive an urgent letter from Professor Ryan.	รับจดหมายด่วนจาก Professor Ryan
 13150000310	Buy a sandwich for the professor.	ซื้อแซนด์วิชให้อาจารย์
@@ -333,17 +333,17 @@
 13150000350	Tower Trial	ทาวเวอร์ทดลอง
 13150000351	Level-up Talents @{1} time(s)	ความสามารถพิเศษในการเลเวลอัพ@{1}ครั้ง
 13150000352	Obtain the Lion Mount	รับ Lion Mount
-13150000353	Ride the Lion mount	RideLion
+13150000353	Ride the Lion mount	ขี่ Lion
 13150000354	Obtain the Hyena mount	รับอุปกรณ์ยึด Hyena
-13150000355	Ride the Hyena mount	Ride สัตว์ Ride ไฮยีน่า
+13150000355	Ride the Hyena mount	ขี่ Hyena
 13150000356	Obtain the Wild Boar mount	รับพาหนะ Wild Boar
-13150000357	Ride the Wild Boar mount	Ride สัตว์ Ride หมูป่า
+13150000357	Ride the Wild Boar mount	ขี่ Wild Boar
 13150000358	Obtain the Alpaca mount	รับพาหนะ Alpaca
-13150000359	Ride the Alpaca mount	RideAlpaca
+13150000359	Ride the Alpaca mount	ขี่ Alpaca
 13150000360	Obtain the Ostrich mount	รับพาหนะ Ostrich
-13150000361	Ride the Ostrich mount	Ride สัตว์ RideOstrich
+13150000361	Ride the Ostrich mount	ขี่ Ostrich
 13150000362	Obtain the Fox mount	รับสัตว์พาหนะ Fox
-13150000363	Ride the Fox mount	Ride สุนัขจิ้งจอก
+13150000363	Ride the Fox mount	ขี่ Fox
 13150000364	Equip @{1} cards	ติดตั้งการ์ด@{1}
 13150000365	Enter the airship and defeat the evil forces.	เข้าสู่เรือเหาะและเอาชนะกองกำลังชั่วร้าย
 13150000366	Enter Maya's Nest and defeat Maya.	เข้าสู่รังของ Maya และเอาชนะ Maya
@@ -369,7 +369,7 @@
 13150000441	Complete the following objectives to earn points	ทำวัตถุประสงค์ต่อไปนี้ให้สำเร็จเพื่อรับคะแนน
 13150000442	Return to the NPC to claim your reward	กลับไปที่ NPC เพื่อรับรางวัลของคุณ
 13150000443	Collect Magic Crystals +@{1} Points	รวบรวม Magic Crystals + คะแนน@{1}
-13150000444	Kill Monster A +@{1} Points	Kill มอนสเตอร์ A + คะแนน@{1}
+13150000444	Kill Monster A +@{1} Points	กำจัด Monster A เพื่อรับ @{1} คะแนน
 13150000445	Defeat players from other guilds: +@{1} points	เอาชนะผู้เล่นจากกิลด์อื่น: + คะแนน@{1}
 13150000446	Remaining on the current channel	ยังคงอยู่ในช่องปัจจุบัน
 13150000447	Secret Trove Chest Claims	Secret Trove Chest Claims
@@ -448,7 +448,7 @@
 13150000532	Learn about the Novice Trial from Rhine	เรียนรู้เกี่ยวกับการทดลองเบื้องต้นจากแม่น้ำ Rhine
 13150000533	Defeat @{1} Porings to prove your combat prowess	เอาชนะ@{1}Porings เพื่อพิสูจน์ความกล้าหาญในการต่อสู้ของคุณ
 13150000534	Tell Rhine how your trial went	บอก Rhine ว่าการทดลองใช้ของคุณเป็นอย่างไรบ้าง
-13150000535	Talk to the Guide again	Talk กับไกด์อีกครั้ง
+13150000535	Talk to the Guide again	คุยกับ Guide อีกครั้ง
 13150000536	Prepare for the next trial	เตรียมทดลองครั้งต่อไป
 13150000537	Defeat @{1} Fabres to prove your strength	เอาชนะ@{1}Fabres เพื่อพิสูจน์ความแข็งแกร่งของคุณ
 13150000538	Tell the Trial Officer you have completed the trial	แจ้งเจ้าหน้าที่พิจารณาคดีว่าคุณได้เสร็จสิ้นการพิจารณาคดีแล้ว
@@ -456,11 +456,11 @@
 13150000540	Go To Prontera and visit the Head Job Advance Mentor	ไปที่ Prontera และเยี่ยมชม Head Job Advance Mentor
 13150000541	Go to the Grand Lecture Hall and find the Head Job Advance Mentor	ไปที่ Grand Lecture Hall และค้นหา Head Job Advance Mentor
 13150000542	Touch the Book of Job Advancement.	สัมผัสหนังสือแห่งความก้าวหน้าของงาน
-13150000543	Job Advance successful. Talk to the Mentor.	การเลื่อนงานสำเร็จแล้ว Talk กับอาจารย์ที่ปรึกษา
+13150000543	Job Advance successful. Talk to the Mentor.	เปลี่ยนอาชีพสำเร็จแล้ว คุยกับ Mentor
 13150000544	Use a certain number of Skill Points	ใช้แต้มทักษะจำนวนหนึ่ง
 13150000545	The Mentor has something to teach you about attributes.	Mentor มีบางอย่างที่จะสอนคุณเกี่ยวกับคุณลักษณะ
 13150000546	You've grown much stronger. Now go take on some Eden Group commissions.	คุณแข็งแกร่งขึ้นมากตอนนี้ไปรับค่าคอมมิชชั่นของกลุ่ม Eden
-13150000547	Talk to Eden Group Secretary Lime to accept a request	Talk กับเลขานุการกลุ่ม Eden Lime เพื่อยอมรับคำขอ
+13150000547	Talk to Eden Group Secretary Lime to accept a request	คุยกับ Lime เลขานุการของ Eden Group เพื่อรับคำขอ
 13150000548	Defeat any @{1} monsters outside the South Gate	กำจัดมอนสเตอร์@{1}ใดๆ ที่อยู่นอก South Gate
 13150000549	Ask Rhine how to use the equipment you just obtained	ถาม Rhine ถึงวิธีใช้อุปกรณ์ที่คุณเพิ่งได้มา
 13150000550	Turn in the request to Rhine and receive your reward	ส่งคำขอไปยัง Rhine และรับรางวัลของคุณ
@@ -469,7 +469,7 @@
 13150000553	Talk to Rhine. She seems to have a new request for you.	คุยกับ Rhine ดูเหมือนว่าเธอจะมีคำขอใหม่สำหรับคุณ
 13150000554	Find Poya and accept his commission.	ค้นหา Poya และยอมรับค่าคอมมิชชั่นของเขา
 13150000555	Head to Southern Payon and meet up with Baoya	มุ่งหน้าไปยัง Southern Payon และพบกับ Baoya
-13150000556	Kill @{1} Boa to obtain Snake Galls	Kill@{1}Boa เพื่อรับน้ำดีงู
+13150000556	Kill @{1} Boa to obtain Snake Galls	กำจัด Boa @{1} ตัวเพื่อรับ Snake Galls
 13150000557	Give the collected Snake Gallbladders to Baoya	มอบ Snake Gallbladders ที่รวบรวมไว้ให้กับ Baoya
 13150000558	Defeat @{1} Willows and collect their bark	เอาชนะ@{1}Willows และรวบรวมเปลือกไม้ของพวกมัน
 13150000559	Give the collected bark to Boya	มอบเปลือกที่รวบรวมไว้ให้กับ Boya
@@ -506,12 +506,12 @@
 13150000590	Rescue the Party Leader and the mysterious woman	ช่วยเหลือ Party Leader และหญิงสาวลึกลับ
 13150000591	Talk to the Party Leader	คุยกับ Party Leader
 13150000592	Gather up the caravan's cargo	รวบรวมสินค้าคาราวาน
-13150000593	It's finally time to leave. Talk to the Party Leader	ในที่สุดก็ถึงเวลาออกเดินทาง Talk กับ Party Leader
+13150000593	It's finally time to leave. Talk to the Party Leader	ได้เวลาออกเดินทางแล้ว คุยกับ Party Leader
 13150000594	Board the Airship and prepare to depart	ขึ้นเรือเหาะและเตรียมพร้อมออกเดินทาง
 13150000595	The compass you're carrying suddenly starts glowing. Very strange	เข็มทิศที่คุณถืออยู่เริ่มเรืองแสงขึ้นมาแปลกมาก
 13150000596	Touch the glowing compass to reveal a strange vision	แตะเข็มทิศเรืองแสงเพื่อเผยให้เห็นนิมิตที่แปลกประหลาด
-13150000597	Talk to the attendant to officially board	Talk กับเจ้าหน้าที่เพื่อขึ้นเครื่องอย่างเป็นทางการ
-13150000598	Talk to your companions	Talk กับเพื่อนของคุณ
+13150000597	Talk to the attendant to officially board	คุยกับเจ้าหน้าที่เพื่อขึ้นยาน
+13150000598	Talk to your companions	คุยกับเพื่อนร่วมทาง
 13150000599	Go to the Adventurer camp at the edge of the desert	ไปที่แคมป์ Adventurer ที่ขอบทะเลทราย
 13150000600	Ask Hawk, the camp manager, about the professor's whereabouts	ถามฮอว์ก ผู้จัดการค่าย เกี่ยวกับที่อยู่ของศาสตราจารย์
 13150000601	Search west of the camp for signs of the professor	ค้นหาป้ายของศาสตราจารย์ทางตะวันตกของค่าย
@@ -595,17 +595,17 @@
 13150000679	Help the Soldier Deal with the Monsters	ช่วย Soldier จัดการกับสัตว์ประหลาด
 13150000680	Ask the Soldier about the situation	ถาม Soldier เกี่ยวกับสถานการณ์
 13150000681	Find the Relic and the Professor's group	ค้นหาโบราณวัตถุและกลุ่ม Professor
-13150000682	See what's happening up ahead	See what's happening up ahead
+13150000682	See what's happening up ahead	ไปดูว่าเกิดอะไรขึ้นข้างหน้า
 13150000683	Clear the Pharaoh Dungeon	เคลียร์ดันเจี้ยน Pharaoh
 13150000684	Talk to the Knight Leader	คุยกับหัวหน้าอัศวิน
-13150000685	Ask the Professor	Ask the Professor
+13150000685	Ask the Professor	สอบถาม Professor
 13150000686	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
 13150000687	Respond to a Crisis	ตอบสนองต่อภาวะวิกฤติ
 13150000688	Awaken in the Court of Time	ตื่นขึ้นมาในศาลแห่งกาลเวลา
 13150000689	Say hello to Bragis	ทักทาย Bragis
 13150000690	Go to the second platform in the Garden of Time	ไปที่ชานชาลาที่สองใน Garden of Time
 13150000691	Observe what happens	สังเกตสิ่งที่เกิดขึ้น
-13150000692	Ask Bragis about the situation	Ask Bragis about the situation
+13150000692	Ask Bragis about the situation	สอบถาม Bragis เกี่ยวกับสถานการณ์
 13150000693	You Discover yourself lying on the ground...	คุณค้นพบตัวเองนอนอยู่บนพื้น...
 13150000694	Listen to the professor explain everything	ฟังอาจารย์อธิบายทุกอย่าง
 13150000695	Head to the Inn and Rest	มุ่งหน้าไปยังโรงแรมและพักผ่อน
@@ -699,7 +699,7 @@
 13150200069	Enter Maya's Nest and rescue the Professor.	เข้าไปในรังของ Maya และช่วยเหลือ Professor
 13150200070	After successfully rescuing the Professor, you earn the Captain's praise.	หลังจากช่วยเหลือ Professor ได้สำเร็จ คุณจะได้รับการยกย่องจาก Captain
 13150200071	After many twists and turns, you've finally found the Professor. Return to camp and rest.	หลังจากพลิกผันหลายครั้ง ในที่สุดคุณก็พบ Professor แล้ว กลับเข้าค่ายและพักผ่อน
-13150200072	Talk to the Professor and learn that he is researching memory entity technology.	Talk กับ Professor และเรียนรู้ว่าเขากำลังค้นคว้าเทคโนโลยีเอนทิตีหน่วยความจำ
+13150200072	Talk to the Professor and learn that he is researching memory entity technology.	คุยกับ Professor และทราบว่าเขากำลังค้นคว้าเทคโนโลยี Memory Entity
 13150200073	Touch the memory entity prototype and fall into another dimension.	สัมผัสต้นแบบเอนทิตีหน่วยความจำแล้วตกไปสู่อีกมิติหนึ่ง
 13150200074	You encounter the mysterious woman again, and she asks you to look around.	คุณพบกับผู้หญิงลึกลับอีกครั้ง และเธอขอให้คุณมองไปรอบๆ
 13150200075	Ki explains how the Garden of Chronology works.	Ki อธิบายวิธีการทำงานของ Garden of Chronology
@@ -718,27 +718,27 @@
 13150200108	Return to Prontera with the Professor's group.	กลับไปที่พรอนเทราพร้อมกับกลุ่มของ Professor
 13150200109	The innkeeper invites you inside to rest.	เจ้าของโรงแรมขอเชิญคุณเข้าไปพักผ่อนข้างใน
 13150200110	Fall asleep at the inn.	เผลอหลับไปในโรงเตี๊ยม
-13150200111	Kill @{1} Roda Frogs	Kill กบ@{1}Roda
-13150200112	Kill @{1} Rockers	Kill@{1}Rockers
+13150200111	Kill @{1} Roda Frogs	กำจัด Roda Frogs @{1} ตัว
+13150200112	Kill @{1} Rockers	กำจัด Rockers @{1} ตัว
 13150200113	Head to Payon and search for signs of Mushroom monsters.	มุ่งหน้าไปยัง Payon และค้นหาสัญญาณของสัตว์ประหลาด Mushroom
 13150200114	The Elder Lady gives you a Flying mount so you won't get lost	The Elder Lady มอบพาหนะบินให้คุณเพื่อที่คุณจะได้ไม่หลงทาง
-13150200115	Kill @{1} Mushrooms	KillMushrooms@{1}
-13150200116	Kill @{1} Boas	Kill@{1}Boas
-13150200117	Kill @{1} Thief Bugs	Kill แมลงจอมโจร@{1}
-13150200118	Kill Muka	KillMuka
-13150200119	Kill Peco Peco	Kill Peco Peco
-13150200120	Kill Bigfoot	KillBigfoot
-13150200121	Kill @{1} Soldier Skeletons	KillSkeletonsSoldier@{1}
-13150200122	Kill @{1} Skeletons	KillSkeletons@{1}
+13150200115	Kill @{1} Mushrooms	กำจัด Mushrooms @{1} ตัว
+13150200116	Kill @{1} Boas	กำจัด Boas @{1} ตัว
+13150200117	Kill @{1} Thief Bugs	กำจัด Thief Bugs @{1} ตัว
+13150200118	Kill Muka	กำจัด Muka
+13150200119	Kill Peco Peco	กำจัด Peco Peco
+13150200120	Kill Bigfoot	กำจัด Bigfoot
+13150200121	Kill @{1} Soldier Skeletons	กำจัด Soldier Skeletons @{1} ตัว
+13150200122	Kill @{1} Skeletons	กำจัด Skeletons @{1} ตัว
 13150200123	Kill Deniro and Piere: @{1}	KillDeniro และ Piere:@{1}
-13150200124	Kill Andre and Vitata: @{1}	Kill Andre และ Vitata:@{1}
-13150200125	Kill Orc Warrior@{1}	KillOrc Warrior@{1}
-13150200126	Kill @{1} Orc Ladies	Kill@{1}Orc Ladies
-13150200127	Kill @{1} Orc Skeletons	KillOrc Skeletons@{1}
-13150200128	Kill @{1} Orc Zombies	KillZombies@{1}Orc
+13150200124	Kill Andre and Vitata: @{1}	กำจัด Andre และ Vitata: @{1}
+13150200125	Kill Orc Warrior@{1}	กำจัด Orc Warrior @{1} ตัว
+13150200126	Kill @{1} Orc Ladies	กำจัด Orc Ladies @{1} ตัว
+13150200127	Kill @{1} Orc Skeletons	กำจัด Orc Skeletons @{1} ตัว
+13150200128	Kill @{1} Orc Zombies	กำจัด Orc Zombies @{1} ตัว
 13150200129	Kill Goblin (Dagger) and Goblin (Hammer)	KillGoblin (Dagger) และ Goblin (Hammer)
-13150200130	Kill Goblin (Flail) and Goblin Archer	Kill Goblin (Flail) และ Goblin Archer
-13150200131	Kill @{1} monsters in the Munak Cave	Kill สัตว์ประหลาด@{1}ในถ้ำ Munak
+13150200130	Kill Goblin (Flail) and Goblin Archer	กำจัด Goblin (Flail) และ Goblin Archer
+13150200131	Kill @{1} monsters in the Munak Cave	กำจัดมอนสเตอร์ @{1} ตัวในถ้ำ Munak
 13150200132	Claim @{1} map rewards	รับรางวัลแผนที่@{1}
 13150200133	Claim @{1} area rewards	รับรางวัลพื้นที่@{1}
 13150200134	Claim the South Gate map reward	รับรางวัลแผนที่ South Gate
@@ -756,7 +756,7 @@
 13150200146	Exchange them for a Bunny Hair Band with the Headgear Merchant.	แลกเปลี่ยนเป็น Bunny Hair Band กับพ่อค้าหมวก
 13150200147	Deliver the Bunny Hair Band to Baya with Allen.	มอบผ้าคาดผมกระต่ายให้บาย่ากับ Allen
 13150200148	Stumbled upon an argument in Payon Forest.	สะดุดกับการโต้เถียงในป่า Payon
-13150200149	Ask passersby what happened.	Ask passersby what happened.
+13150200149	Ask passersby what happened.	ถามผู้คนที่เดินผ่านมาว่าเกิดอะไรขึ้น
 13150200150	Decide to take down the scalpers from within, starting with Granny Gwen.	ตัดสินใจกำจัดพวกถลกหนังจากภายใน โดยเริ่มจาก Granny Gwen
 13150200151	Collect Whispering Flowers favored by Rockers.	รวบรวม Whispering Flowers ที่ชาวร็อคชื่นชอบ
 13150200152	Report your collection progress to Granny Gwen.	รายงานความคืบหน้าในการเก็บรวบรวมของคุณไปยัง Granny Gwen
@@ -777,7 +777,7 @@
 13150200167	Follow Jax to the banquet.	ตามแจ็กซ์ไปงานเลี้ยง
 13150200168	The attackers on the road were the Guild Members' family members. Hear what they have to say.	ผู้โจมตีบนท้องถนนคือสมาชิกในครอบครัวของสมาชิก Guild ฟังสิ่งที่พวกเขาจะพูด
 13150200169	Enter the banquet hall and listen to Jax's speech.	เข้าไปในห้องจัดเลี้ยงและฟังคำพูดของแจ็กซ์
-13150200170	Talk with the Guild Members at the banquet.	Talk กับสมาชิก Guild ในงานเลี้ยง
+13150200170	Talk with the Guild Members at the banquet.	คุยกับสมาชิก Guild ในงานเลี้ยง
 13150200171	It's time to make the final choice.	ถึงเวลาตัดสินใจขั้นสุดท้ายแล้ว
 13150200172	Receive an urgent letter from Professor Ryan.	รับจดหมายด่วนจาก Professor Ryan
 13150200173	Buy a sandwich for the professor.	ซื้อแซนด์วิชให้อาจารย์
@@ -881,19 +881,19 @@
 13150200271	Learn about the Novice Trial from Rhine	เรียนรู้เกี่ยวกับการทดลองเบื้องต้นจากแม่น้ำ Rhine
 13150200272	Defeat @{1} Porings to prove your combat prowess	เอาชนะ@{1}Porings เพื่อพิสูจน์ความกล้าหาญในการต่อสู้ของคุณ
 13150200273	Tell Rhine how your trial went	บอก Rhine ว่าการทดลองใช้ของคุณเป็นอย่างไรบ้าง
-13150200274	Talk to the Guide again	Talk กับไกด์อีกครั้ง
+13150200274	Talk to the Guide again	คุยกับ Guide อีกครั้ง
 13150200275	Prepare for the next trial	เตรียมทดลองครั้งต่อไป
 13150200276	Defeat @{1} Fabres to prove your strength	เอาชนะ@{1}Fabres เพื่อพิสูจน์ความแข็งแกร่งของคุณ
 13150200277	Tell the Trial Officer you have completed the trial	แจ้งเจ้าหน้าที่พิจารณาคดีว่าคุณได้เสร็จสิ้นการพิจารณาคดีแล้ว
 13150200278	To Prontera	ถึงพรอนเทรา
-13150200279	Talk to the Mentor about Job Advance	Talk กับที่ปรึกษาเกี่ยวกับ Job Advance
+13150200279	Talk to the Mentor about Job Advance	คุยกับ Mentor เรื่องการเปลี่ยนอาชีพ
 13150200280	Go to the Grand Lecture Hall and find the Head Job Advance Mentor	ไปที่ Grand Lecture Hall และค้นหา Head Job Advance Mentor
 13150200281	Touch the Book of Job Advancement.	สัมผัสหนังสือแห่งความก้าวหน้าของงาน
-13150200282	Job Advance successful. Talk to the Mentor.	การเลื่อนงานสำเร็จแล้ว Talk กับอาจารย์ที่ปรึกษา
+13150200282	Job Advance successful. Talk to the Mentor.	เปลี่ยนอาชีพสำเร็จแล้ว คุยกับ Mentor
 13150200283	Use a certain number of Skill Points	ใช้แต้มทักษะจำนวนหนึ่ง
 13150200284	The Mentor has something to teach you about attributes.	Mentor มีบางอย่างที่จะสอนคุณเกี่ยวกับคุณลักษณะ
 13150200285	You've grown much stronger. Now go take on some Eden Group commissions.	คุณแข็งแกร่งขึ้นมากตอนนี้ไปรับค่าคอมมิชชั่นของกลุ่ม Eden
-13150200286	Talk to Eden Group Secretary Lime to accept a request	Talk กับเลขานุการกลุ่ม Eden Lime เพื่อยอมรับคำขอ
+13150200286	Talk to Eden Group Secretary Lime to accept a request	คุยกับ Lime เลขานุการของ Eden Group เพื่อรับคำขอ
 13150200287	Defeat any @{1} monsters outside the South Gate	กำจัดมอนสเตอร์@{1}ใดๆ ที่อยู่นอก South Gate
 13150200288	Ask Rhine how to use the equipment you just obtained	ถาม Rhine ถึงวิธีใช้อุปกรณ์ที่คุณเพิ่งได้มา
 13150200289	Turn in the request to Rhine and receive your reward	ส่งคำขอไปยัง Rhine และรับรางวัลของคุณ
@@ -901,7 +901,7 @@
 13150200291	Talk to Rhine. She seems to have a new request for you.	คุยกับ Rhine ดูเหมือนว่าเธอจะมีคำขอใหม่สำหรับคุณ
 13150200292	Find Poya and accept his commission.	ค้นหา Poya และยอมรับค่าคอมมิชชั่นของเขา
 13150200293	Head to Southern Payon and meet up with Baoya	มุ่งหน้าไปยัง Southern Payon และพบกับ Baoya
-13150200294	Kill @{1} Boa to obtain Snake Galls	Kill@{1}Boa เพื่อรับน้ำดีงู
+13150200294	Kill @{1} Boa to obtain Snake Galls	กำจัด Boa @{1} ตัวเพื่อรับ Snake Galls
 13150200295	Give the collected Snake Gallbladders to Baoya	มอบ Snake Gallbladders ที่รวบรวมไว้ให้กับ Baoya
 13150200296	Defeat @{1} Willows and collect their bark	เอาชนะ@{1}Willows และรวบรวมเปลือกไม้ของพวกมัน
 13150200297	Give the collected bark to Boya	มอบเปลือกที่รวบรวมไว้ให้กับ Boya
@@ -938,13 +938,13 @@
 13150200328	Rescue the Party Leader and the mysterious woman	ช่วยเหลือ Party Leader และหญิงสาวลึกลับ
 13150200329	Talk to the Party Leader	คุยกับ Party Leader
 13150200330	Gather up the caravan's cargo	รวบรวมสินค้าคาราวาน
-13150200331	It's finally time to leave. Talk to the Party Leader	ในที่สุดก็ถึงเวลาออกเดินทาง Talk กับ Party Leader
+13150200331	It's finally time to leave. Talk to the Party Leader	ได้เวลาออกเดินทางแล้ว คุยกับ Party Leader
 13150200332	Board the Airship and prepare to depart	ขึ้นเรือเหาะและเตรียมพร้อมออกเดินทาง
 13150200333	The compass you're carrying suddenly starts glowing. Very strange	เข็มทิศที่คุณถืออยู่เริ่มเรืองแสงขึ้นมาแปลกมาก
 13150200334	Bobo seems to have something to say	โบโบดูเหมือนจะมีเรื่องจะพูด
-13150200335	Talk to the attendant to officially board	Talk กับเจ้าหน้าที่เพื่อขึ้นเครื่องอย่างเป็นทางการ
+13150200335	Talk to the attendant to officially board	คุยกับเจ้าหน้าที่เพื่อขึ้นยาน
 13150200336	Board the Ship with the Captain and the Others	ขึ้นเรือพร้อมกับ Captain และคนอื่นๆ
-13150200337	Talk to your companions	Talk กับเพื่อนของคุณ
+13150200337	Talk to your companions	คุยกับเพื่อนร่วมทาง
 13150200338	Go to the Adventurer camp at the edge of the desert	ไปที่แคมป์ Adventurer ที่ขอบทะเลทราย
 13150200339	Ask Hawk, the camp manager, about the professor's whereabouts	ถามฮอว์ก ผู้จัดการค่าย เกี่ยวกับที่อยู่ของศาสตราจารย์
 13150200340	Search west of the camp for signs of the professor	ค้นหาป้ายของศาสตราจารย์ทางตะวันตกของค่าย
@@ -1028,16 +1028,16 @@
 13150200418	Help the Soldier Deal with the Monsters	ช่วย Soldier จัดการกับสัตว์ประหลาด
 13150200419	Ask the Soldier about the situation	ถาม Soldier เกี่ยวกับสถานการณ์
 13150200420	Find the Relic and the Professor's group	ค้นหาโบราณวัตถุและกลุ่ม Professor
-13150200421	See what's happening up ahead	See what's happening up ahead
+13150200421	See what's happening up ahead	ไปดูว่าเกิดอะไรขึ้นข้างหน้า
 13150200422	Clear the Pharaoh Dungeon	เคลียร์ดันเจี้ยน Pharaoh
 13150200423	Talk to the Knight Leader	คุยกับหัวหน้าอัศวิน
-13150200424	Ask the Professor	Ask the Professor
+13150200424	Ask the Professor	สอบถาม Professor
 13150200425	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
 13150200426	Respond to a Crisis	ตอบสนองต่อภาวะวิกฤติ
 13150200427	Awaken in the Court of Time	ตื่นขึ้นมาในศาลแห่งกาลเวลา
 13150200428	Say hello to Bragis	ทักทาย Bragis
 13150200429	Observe what happens	สังเกตสิ่งที่เกิดขึ้น
-13150200430	Ask Bragis about the situation	Ask Bragis about the situation
+13150200430	Ask Bragis about the situation	สอบถาม Bragis เกี่ยวกับสถานการณ์
 13150200431	You Discover yourself lying on the ground...	คุณค้นพบตัวเองนอนอยู่บนพื้น...
 13150200432	Listen to the professor explain everything	ฟังอาจารย์อธิบายทุกอย่าง
 13150200433	Head to the Inn and Rest	มุ่งหน้าไปยังโรงแรมและพักผ่อน
@@ -1124,7 +1124,7 @@
 13150600083	Go to the banquet venue	ไปที่สถานที่จัดเลี้ยง
 13150600084	Go to the Professor	ไปหา Professor
 13150600085	Spray the pheromones.	สเปรย์ฟีโรโมน
-13150600086	Approach the giant ant.	Approach the giant ant.
+13150600086	Approach the giant ant.	เข้าไปหา Giant Ant
 13150600087	Complete the race	จบการแข่งขัน
 13150600088	Go to the bulletin board	ไปที่กระดานข่าว
 13150600089	Check the wanted poster.	ตรวจสอบโปสเตอร์ที่ต้องการ
@@ -1142,17 +1142,17 @@
 13150600101	Clear the first floor of the tower	เคลียร์ชั้น 1 ของทาวเวอร์
 13150600102	Level-up Talents @{1} time(s)	ความสามารถพิเศษในการเลเวลอัพ@{1}ครั้ง
 13150600103	Obtain the Lion Mount	รับ Lion Mount
-13150600104	Ride the Lion mount	RideLion
+13150600104	Ride the Lion mount	ขี่ Lion
 13150600105	Obtain the Hyena mount	รับอุปกรณ์ยึด Hyena
-13150600106	Ride the Hyena mount	Ride สัตว์ Ride ไฮยีน่า
+13150600106	Ride the Hyena mount	ขี่ Hyena
 13150600107	Obtain the Wild Boar mount	รับพาหนะ Wild Boar
-13150600108	Ride the Wild Boar mount	Ride สัตว์ Ride หมูป่า
+13150600108	Ride the Wild Boar mount	ขี่ Wild Boar
 13150600109	Obtain the Alpaca mount	รับพาหนะ Alpaca
-13150600110	Ride the Alpaca mount	RideAlpaca
+13150600110	Ride the Alpaca mount	ขี่ Alpaca
 13150600111	Obtain the Ostrich mount	รับพาหนะ Ostrich
-13150600112	Ride the Ostrich mount	Ride สัตว์ RideOstrich
+13150600112	Ride the Ostrich mount	ขี่ Ostrich
 13150600113	Obtain the Fox mount	รับสัตว์พาหนะ Fox
-13150600114	Ride the Fox mount	Ride สุนัขจิ้งจอก
+13150600114	Ride the Fox mount	ขี่ Fox
 13150600115	Equip @{1} cards	ติดตั้งการ์ด@{1}
 13150600116	Defeat the Forces of Evil	ปราบพลังแห่งความชั่วร้าย
 13150600117	Clear the third floor of the tower	เคลียร์หอคอยชั้นสาม
@@ -1171,7 +1171,7 @@
 13150600130	Earn @{1} points	รับคะแนน@{1}
 13150600131	Return to the NPC to claim your reward	กลับไปที่ NPC เพื่อรับรางวัลของคุณ
 13150600132	Collect Magic Crystals +@{1} Points	รวบรวม Magic Crystals + คะแนน@{1}
-13150600133	Kill Monster A +@{1} Points	Kill มอนสเตอร์ A + คะแนน@{1}
+13150600133	Kill Monster A +@{1} Points	กำจัด Monster A เพื่อรับ @{1} คะแนน
 13150600134	Defeat players from other guilds: +@{1} points	เอาชนะผู้เล่นจากกิลด์อื่น: + คะแนน@{1}
 13150600135	Rift Stone*	Rift Stone*
 13150600136	Tap Instant Promotion@{1}	แตะโปรโมชั่นทันที@{1}
@@ -1184,7 +1184,7 @@
 13150600143	A crowd has gathered up ahead. Go take a look.	ฝูงชนมารวมตัวกันข้างหน้า ไปดูสิ.
 13150600144	Listen to What the Beginner Guide Has to Say	ฟังสิ่งที่คู่มือเริ่มต้นจะพูด
 13150600145	Go Take Part in the Novice Trial	ไปมีส่วนร่วมในการทดลองใช้มือใหม่
-13150600146	Ask Rhine about the trial	Ask Rhine about the trial
+13150600146	Ask Rhine about the trial	สอบถาม Rhine เกี่ยวกับการทดสอบ
 13150600147	Defeat the Nearby Porings*	เอาชนะ Poring ที่อยู่ใกล้เคียง*
 13150600148	Tell Rhine you completed the trial	แจ้ง Rhine ว่าคุณทดลองใช้งานเสร็จแล้ว
 13150600149	Tell Rhine about what you Learn from skills	บอก Rhine เกี่ยวกับสิ่งที่คุณเรียนรู้จากทักษะ
@@ -1192,11 +1192,11 @@
 13150600151	Go To Prontera and visit the Head Job Advance Mentor	ไปที่ Prontera และเยี่ยมชม Head Job Advance Mentor
 13150600152	Go to the Grand Lecture Hall for your Job Advance	ไปที่ Grand Lecture Hall เพื่อเลื่อนตำแหน่งงานของคุณ
 13150600153	Choose the class You want and Complete the Job Advance	เลือกคลาสที่คุณต้องการและทำงานให้เสร็จสิ้น
-13150600154	Job Advance successful. Talk to the Mentor.	การเลื่อนงานสำเร็จแล้ว Talk กับอาจารย์ที่ปรึกษา
+13150600154	Job Advance successful. Talk to the Mentor.	เปลี่ยนอาชีพสำเร็จแล้ว คุยกับ Mentor
 13150600155	Use skill points*	ใช้คะแนนทักษะ*
-13150600156	Talk to the Mentor	Talk กับที่ปรึกษา
+13150600156	Talk to the Mentor	คุยกับ Mentor
 13150600157	Accept A New Request	ยอมรับคำขอใหม่
-13150600158	Ask Rhine about the request	Ask Rhine about the request
+13150600158	Ask Rhine about the request	สอบถาม Rhine เกี่ยวกับคำขอ
 13150600159	Defeat any monster outside the South Gate*	กำจัดสัตว์ประหลาดที่อยู่นอก South Gate*
 13150600160	Turn in the request to Rhine	ยื่นคำขอไปที่ Rhine
 13150600161	Talk to Rhine	คุยกับ Rhine
@@ -1212,7 +1212,7 @@
 13150600171	Pick up the snake egg quickly without being discovered	เก็บไข่งูอย่างรวดเร็วโดยไม่ถูกค้นพบ
 13150600172	Fend off the endless waves of monsters	ต่อสู้กับคลื่นสัตว์ประหลาดที่ไม่มีที่สิ้นสุด
 13150600173	Give the Snake Eggs to Boya	มอบไข่งูให้ Boya
-13150600174	Ask about the next move	Ask about the next move
+13150600174	Ask about the next move	สอบถามเกี่ยวกับขั้นตอนต่อไป
 13150600175	Meet Boya in Payon Forest	พบกับ Boya ใน Payon Forest
 13150600176	Talk to Boya	คุยกับ Boya
 13150600177	Use a Fly Wing to search for signs of Eddga	ใช้ปีกบินเพื่อค้นหาสัญญาณของ Eddga
@@ -1241,7 +1241,7 @@
 13150600200	Rescue the Party Leader and the mysterious woman	ช่วยเหลือ Party Leader และหญิงสาวลึกลับ
 13150600201	The Caravan Party Leader wants to talk to You	Caravan Party Leader ต้องการคุยกับคุณ
 13150600202	Go to the port and help the Caravan Members arrange the cargo	ไปที่ท่าเรือและช่วย Caravan Members ในการจัดเตรียมสินค้า
-13150600203	Everything's ready. Talk to the Party Leader	ทุกอย่างพร้อมแล้ว Talk กับ Party Leader
+13150600203	Everything's ready. Talk to the Party Leader	ทุกอย่างพร้อมแล้ว คุยกับ Party Leader
 13150600204	Your chest suddenly feels warm...	จู่ๆ อกก็รู้สึกอบอุ่น...
 13150600205	Find the attendant and have your ticket checked	ค้นหาผู้ดูแลและตรวจสอบตั๋วของคุณ
 13150600206	Board the Ship with the Captain and the Others	ขึ้นเรือพร้อมกับ Captain และคนอื่นๆ
@@ -1256,12 +1256,12 @@
 13150600215	Clear out the Nearby Deniro and Piere*	เคลียร์ Deniro และ Piere ที่อยู่ใกล้เคียง*
 13150600216	Return to Camp and talk to Hawke	กลับไปที่แคมป์แล้วคุยกับฮอว์ค
 13150600217	Advance a Growth Emblem once	พัฒนา Growth Emblem หนึ่งครั้ง
-13150600218	Talk to the Head Job Advance Mentor about your Job Advance	Talk กับหัวหน้าที่ปรึกษางานล่วงหน้าเกี่ยวกับงานล่วงหน้าของคุณ
+13150600218	Talk to the Head Job Advance Mentor about your Job Advance	คุยกับหัวหน้า Mentor เรื่องการเปลี่ยนอาชีพ
 13150600219	Defeat monsters in Sograt Desert*	กำจัดสัตว์ประหลาดในทะเลทราย Sograt*
 13150600220	Report the Outcome to the Head Job Advance Mentor	รายงานผลต่อหัวหน้าที่ปรึกษางานล่วงหน้า
 13150600221	Choose your Job Advance path	เลือกเส้นทางความก้าวหน้างานของคุณ
-13150600222	Talk to the Head Job Advance Mentor about skills	Talk กับหัวหน้าที่ปรึกษางานล่วงหน้าเกี่ยวกับทักษะ
-13150600223	Talk to the Head Job Advance Mentor about talents	Talk กับ Head Job Advance Mentor เกี่ยวกับความสามารถพิเศษ
+13150600222	Talk to the Head Job Advance Mentor about skills	คุยกับหัวหน้า Mentor เรื่องสกิล
+13150600223	Talk to the Head Job Advance Mentor about talents	คุยกับหัวหน้า Mentor เรื่องพรสวรรค์
 13150600224	Hawke has found a New Clue about the Professor. Talk to him	Hawke พบเบาะแสใหม่เกี่ยวกับ Professor คุยกับเขา
 13150600225	Go to Ant Hell and find Professor Ryan	ไปที่ Ant Hell แล้วค้นหา Professor Ryan
 13150600226	Defeat any monster in the Ant Hell*	กำจัดสัตว์ประหลาดใน Ant Hell*
@@ -1287,7 +1287,7 @@
 13150600246	Tell the Merchant about what You Hatched	บอกพ่อค้าเกี่ยวกับสิ่งที่คุณฟักออกมา
 13150600247	Ask the professor why he went to the desert	ถามอาจารย์ว่าทำไมเขาถึงไปทะเลทราย
 13150600248	Something completely unexpected happened...	มีบางอย่างที่ไม่คาดคิดเกิดขึ้น...
-13150600249	Talk to the familiar-looking Woman Nearby	Talk กับ Woman หน้าตาคุ้นเคยที่อยู่ใกล้ๆ
+13150600249	Talk to the familiar-looking Woman Nearby	คุยกับผู้หญิงหน้าคุ้นที่อยู่ใกล้ๆ
 13150600250	Ask the Woman what this is all about	ถาม Woman ว่านี่เป็นเรื่องเกี่ยวกับอะไร
 13150600251	The Professor and the captain seem to have something to tell You	ดูเหมือนว่า Professor และกัปตันจะมีเรื่องจะบอกคุณ
 13150600252	Open ^{1}Daily Must-Dos^{2} and complete ^{3}Daily Misc activities (Dumby's Request, AFK in the Field, etc.)^{4} to earn lots of EXP	Open ^{1}สิ่งที่ต้องทำประจำวัน^{2}และทำสำเร็จ ^{3}กิจกรรมเบ็ดเตล็ดรายวัน (คำขอของ Dumby, AFK ในสนาม ฯลฯ ) ^{4}เพื่อรับ EXP มากมาย
@@ -1303,7 +1303,7 @@
 13150600262	Talk to Fervor	คุยกับเฟอร์เวอร์
 13150600263	Catch up with Jiyang	ตามทันจีหยาง
 13150600264	Fervor found another suspicious cardboard box. Investigate it*	Fervor พบกล่องกระดาษแข็งที่น่าสงสัยอีกกล่องตรวจสอบมัน*
-13150600265	Ask Fervor about the new Discover	Ask Fervor about the new Discover
+13150600265	Ask Fervor about the new Discover	สอบถาม Fervor เกี่ยวกับสิ่งที่ค้นพบใหม่
 13150600266	Don't lose sight of Fervor. Hurry and Catch up with Jiyang	อย่าละสายตาจากความร้อนแรงรีบตามจีหยางให้ทัน
 13150600267	Defeat the Tarou ahead that are scaring Fervor*	เอาชนะ Tarou ที่อยู่ข้างหน้าซึ่งทำให้ Fervor หวาดกลัว*
 13150600268	Continue exploring and follow Fervor into Culvert Floor @{1}	สำรวจต่อและติดตาม Fervor เข้าไปใน Culvert@{1}
@@ -1346,7 +1346,7 @@
 13150600305	The Professor and the others appear to be surrounded by monsters. Hurry over and see what's happening.	Professor และคนอื่นๆ ดูเหมือนจะถูกรายล้อมไปด้วยสัตว์ประหลาดรีบไปดูว่าเกิดอะไรขึ้น
 13150600306	Defeat the Pharaoh	เอาชนะ Pharaoh
 13150600307	The Knight nearby wants to speak with you.	อัศวินที่อยู่ใกล้ๆ ต้องการคุยกับคุณ
-13150600308	Talk to the Professor	Talk กับ Professor
+13150600308	Talk to the Professor	คุยกับ Professor
 13150600309	Touch the Realm Diorama	สัมผัสอาณาจักรไดโอรามา
 13150600310	Respond to a Crisis	ตอบสนองต่อภาวะวิกฤติ
 13150600311	You Enter the Garden of Time once again...	คุณเข้าสู่ Garden of Time อีกครั้ง...
@@ -1425,7 +1425,7 @@
 10220300016	Physical DEF and Magic DEF +${1}%, Healing Received +${2}%.	DEF กายภาพและ DEF เวทมนตร์ +${1}%, การรักษาที่ได้รับ + ​​${2}%
 10220300017	Holy damage +${1}%.	ความเสียหายอันศักดิ์สิทธิ์ +${1}%
 10220300018	Each stack increases Magic ATK by ${1}.	แต่ละสแต็คจะเพิ่มพลังโจมตีเวทย์ขึ้น${1}
-10220300019	Attack Speed +${1}%.	Attack Speed +${1}%.
+10220300019	Attack Speed +${1}%.	เพิ่มความเร็วโจมตี ${1}%
 10220300020	Physical/Physical DEF +${1}%.	DEF กายภาพ/กายภาพ +${1}%
 10220300021	Gain @{1} chances to become immune to movement-impairing status effects.	ได้รับโอกาส@{1}ที่จะมีภูมิคุ้มกันต่อเอฟเฟกต์สถานะที่ทำให้การเคลื่อนไหวบกพร่อง
 10220300022	Includes Stun, Knockback, Knock-up, Fear, Freeze, Petrify, Sleep, Silence, Immobilize, Darkness, Chill, Slow, Bleed, and Poisoned. These effects caused by dungeon content are excluded.	รวมถึง Stun, Knockback, Knock-up, ความกลัว, แช่แข็ง, กลายเป็นหิน, นอนหลับ, ความเงียบ, ทำให้เคลื่อนที่ไม่ได้, Darkness, หนาวสั่น, Slow, เลือดออกและพิษไม่รวมเอฟเฟกต์เหล่านี้ที่เกิดจากเนื้อหาดันเจี้ยน
@@ -1446,9 +1446,9 @@
 10220300037	Strength +@{1}, Physical ATK +@{2}	ความแรง +@{1}, พลังโจมตีกายภาพ +@{2}
 10220300038	Vitality +@{1}, Luck +@{2}	ความมีชีวิตชีวา +@{1}, โชคลาภ +@{2}
 10220300039	Strength +@{1}	ความแรง +@{1}
-10220300040	Attack Speed +@{1}%.	Attack Speed +@{1}%.
+10220300040	Attack Speed +@{1}%.	เพิ่มความเร็วโจมตี @{1}%
 10220300041	Physical ATK +@{1}	พลังโจมตีกายภาพ +@{1}
-10220300042	Physical Damage +@{1}%	+@{1}%
+10220300042	Physical Damage +@{1}%	เพิ่มความเสียหายกายภาพ @{1}%
 10220300043	Movement Speed increases by ${1}%	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}%
 10220300044	Gain Melt Down for ${1} seconds. While active, attacks against enemy players have a ${2}% Chance to cause ^{1}Weapon Damage^{2} (disabling all attributes, affixes, and Stunts on both main-hand and off-hand weapons) for ${3} seconds. Attacks against monsters instead have a ${4}% Chance to reduce their ^{3}${5}%^{4} Physical ATK and DEF for ${6} seconds.	Melt Down เป็นเวลา${1}วินาทีในขณะที่ใช้งาน การโจมตีผู้เล่นศัตรูมีโอกาส${2}% ที่จะสร้าง ^{1}Weapon Damage^{2}(ปิดการใช้งานคุณลักษณะทั้งหมด สิ่งที่แนบมา และ Stunts ทั้งบนอาวุธมือหลักและอาวุธรอง) เป็นเวลา${3}วินาทีการโจมตีมอนสเตอร์แทนที่จะมีโอกาส${4}% ที่จะลด ^{3}${5}%^{4}Physical ATK และ DEF เป็นเวลา${6}วินาที
 10220300045	Weapon damaged. All Main/Off-Hand Weapon stats and Affixes are not Active.	อาวุธเสียหายสถิติและส่วนเสริมอาวุธหลัก/รองทั้งหมดจะไม่ทำงาน
@@ -1483,7 +1483,7 @@
 10220300074	^{1}^{2}【Maximum Over Thrust】^{3}^{4} is Active for up to ${2} allies within ${1} meters.	^{1}^{2}【Maximum Over Thrust】^{3}^{4}ใช้งานได้สำหรับพันธมิตร${2}ภายในระยะ${1}เมตร
 10220300075	^{1}^{2}【Maximum Over Thrust】^{3}^{4}increases Physical damage dealt by ${1}%.	^{1}^{2}【Maximum Over Thrust】^{3}^{4}เพิ่มความเสียหายทางกายภาพที่ทำได้โดย${1}%
 10220300076	^{1}^{2}【Maximum Over Thrust】^{3}^{4}grants an Extra ${1}% Crit Chance.	^{1}^{2}【Maximum Over Thrust】^{3}^{4}ให้โอกาสพิเศษ${1}% Crit
-10220300077	Movement Speed -@{1}%	-@{1}%
+10220300077	Movement Speed -@{1}%	ลดความเร็วเคลื่อนที่ @{1}%
 10220300078	Gain a shield equal to ${1}% of your Life.	ได้รับเกราะเท่ากับ${1}% พลัง Life ของคุณ
 10220300079	Restore ${1}% of your Life.	คืนค่า${1}% ของ Life ของคุณ
 10220300080	Using 【Axe Smash】 or 【Axe Tornado】 grants stacks of 【Blade Mark】. At @{1} stacks, triggers 【Axe Boomerang - Enhance】.	การใช้ 【Axe Smash】 หรือ 【Axe Tornado】 จะได้รับแต้มสะสมของ 【Blade Mark】ที่@{1}สแต็ค จะเรียกใช้ 【Axe Boomerang - Enhance】
@@ -1516,7 +1516,7 @@
 10220300107	Damage against all Orcs +@{1}% (excluding Orc Lord and Orc Hero).	สร้างความเสียหายต่อ Orc ทั้งหมด +@{1}% (ไม่รวม Orc Lord และ Orc Hero)
 10220300108	Weapon cannot be destroyed.	อาวุธไม่สามารถทำลายได้
 10220300109	When dealing damage, has a @{1}% Chance to restore Life equal to @{2}% of the damage dealt to the enemy, up to @{3}. Internal Cooldown: @{4} sec. Chance stacks with multiple cards.	เมื่อสร้างความเสียหาย มีโอกาส@{1}% ที่จะฟื้นฟูพลัง Life เท่ากับ@{2}% ของความเสียหายที่ทำกับศัตรู สูงสุด@{3}คูลดาวน์ภายใน:@{4}วินาทีโอกาสซ้อนกับไพ่หลายใบ
-10220300110	Armor cannot be destroyed.	Armor cannot be destroyed.
+10220300110	Armor cannot be destroyed.	เกราะไม่สามารถถูกทำลายได้
 10220300111	When making a Physical attack, has a ${1}% Chance to autocast ^{1}^{2}【Bash】 Lv.@{1}^{3}^{4}. Internal Cooldown: ${2} sec. Chance stacks with multiple cards.	เมื่อทำการโจมตีทางกายภาพ มีโอกาส${1}% ที่จะร่ายอัตโนมัติ ^{1}^{2}【Bash】 Lv.@{1}^{3}^{4}คูลดาวน์ภายใน:${2}วินาทีโอกาสซ้อนกับไพ่หลายใบ
 10220300112	When making a Physical attack, has a ${1}% Chance to autocast ^{1}^{2}【Jupitel Thunder】 Lv.@{1}^{3}^{4}. Internal Cooldown: ${2} sec. Chance stacks with multiple cards.	เมื่อทำการโจมตีทางกายภาพ มีโอกาส${1}% ที่จะร่ายอัตโนมัติ ^{1}^{2}【Jupitel Thunder】 Lv.@{1}^{3}^{4}คูลดาวน์ภายใน:${2}วินาทีโอกาสซ้อนกับไพ่หลายใบ
 10220300113	Basic Attack has a @{1}% Chance to trigger 【Double Attack】, dealing Extra Neutral melee Physical damage equal to @{2}%. Internal Cooldown: @{3} sec. Chance stacks with multiple cards.	มีโอกาส@{1}% ที่จะทำให้เกิด 【Double Attack】 สร้างความเสียหายทางกายภาพระยะประชิดที่เป็นกลางเป็นพิเศษเท่ากับ@{2}%คูลดาวน์ภายใน:@{3}วินาทีโอกาสซ้อนกับไพ่หลายใบ
@@ -1593,7 +1593,7 @@
 10220300184	【Spear Formation - Blood Cross】 damage +@{1}%	【Spear Formation - Blood Cross】 ความเสียหาย +@{1}%
 10220300185	Permanently triggers Charge-Up	ทริกเกอร์การ Charge อย่างถาวร
 10220300186	Movement Speed +@{1}%. Your next attack deals Extra damage	ความเร็วในการเคลื่อนที่ +@{1}%การโจมตีครั้งต่อไปของคุณจะสร้างความเสียหายเพิ่มเติม
-10220300187	Movement Speed -@{1}%	-@{1}%
+10220300187	Movement Speed -@{1}%	ลดความเร็วเคลื่อนที่ @{1}%
 10220300188	Each stack grants a shield equal to @{1}% of Max Life	แต่ละสแต็กมอบโล่เท่ากับ@{1}% ของพลัง Life สูงสุด
 10220300189	When hit, Deals Physical damage. Nearby enemies are affected.	เมื่อถูกโจมตี สร้างความเสียหายทางกายภาพศัตรูที่อยู่ใกล้เคียงจะได้รับผลกระทบ
 10220300190	Shield equal to @{1}% Max Life	Shield เท่ากับ@{1}% พลัง Life สูงสุด
@@ -1805,9 +1805,9 @@
 10220300396	You are continuously being pushed outward!	คุณถูกผลักออกไปด้านนอกอย่างต่อเนื่อง!
 10220300397	Gain Accelerate and continuously deal DMG to nearby characters, inflicting Slow.	ได้รับการเร่งความเร็วและสร้าง DMG อย่างต่อเนื่องให้กับตัวละครใกล้เคียง ส่งผลให้ Slow ลง
 10220300398	Gains DMG Reduction and continuously Deals DMG to nearby targets, inflicting Burn	ได้รับการลด DMG และสร้าง DMG อย่างต่อเนื่องไปยังเป้าหมายใกล้เคียง และทำให้ติดสถานะเผาไหม้
-10220300399	Continuously restores HP to nearby allies	Continuously restores HP to nearby allies
+10220300399	Continuously restores HP to nearby allies	ฟื้นฟู HP ให้พันธมิตรที่อยู่ใกล้เคียงอย่างต่อเนื่อง
 10220300400	Defense slightly increased	พลังป้องกันเพิ่มขึ้นเล็กน้อย
-10220300401	Attack slightly increased	Attack slightly increased
+10220300401	Attack slightly increased	เพิ่มพลังโจมตีเล็กน้อย
 10220300402	Damage Increase +@{1}%.	เพิ่มความเสียหาย +@{1}%
 10220300403	Gain a Shield equal to @{1}% of max HP.	ได้รับโล่เท่ากับ@{1}% ของ HP สูงสุด
 10220300404	Every @{1} sec., Reply @{2}% of max HP.	ทุกๆ@{1}วินาที ตอบกลับ@{2}% ของ HP สูงสุด
@@ -1865,7 +1865,7 @@
 10220300457	At ^{1}^{2}【Blitz Beat】^{3}^{4} Lv. ${1}, DEX +${2}.	ที่ ^{1}^{2}【Blitz Beat】^{3}^{4}Lv.${1}, DEX +${2}.
 10220300458	Increases the Chance for ^{1}^{2}【Arrow Attack】^{3}^{4} to trigger ^{5}^{6}【Blitz Beat】^{7}^{8} by ${1}%.	เพิ่มโอกาสให้ ^{1}^{2}【Arrow Attack】^{3}^{4}ที่จะทริกเกอร์ ^{5}^{6}【Blitz Beat】^{7}^{8}โดย${1}%.
 10220300459	After casting ^{1}^{2}【Blitz Beat】^{3}^{4}, ASPD increases by ${1}% for ${2} seconds. Internal Cooldown: ${3} seconds.	หลังจากร่าย ^{1}^{2}【Blitz Beat】^{3}^{4}, ASPD จะเพิ่มขึ้น${1}% เป็นเวลา${2}วินาที คูลดาวน์ภายใน:${3}วินาที
-10220300460	Attack Speed +@{1}%	Attack Speed +@{1}%
+10220300460	Attack Speed +@{1}%	เพิ่มความเร็วโจมตี @{1}%
 10220300461	Physical ATK +${1}.	พลังโจมตีกายภาพ +${1}
 10220300462	Damage Increase: ${1}% while fighting alongside ^{1}【Falcon】^{2}.	เพิ่มความเสียหาย:${1}% ขณะต่อสู้เคียงข้าง ^{1}【Falcon】^{2}
 10220300463	^{1}【Trap Hunter】^{2} skills have their cast range increased to ${1} meters and their percentage damage multiplier increased by ${2}%.	^{1}【Trap Hunter】^ ทักษะของ{2}มีระยะร่ายเพิ่มขึ้นเป็นเมตร${1}และตัวคูณเปอร์เซ็นต์ความเสียหายเพิ่มขึ้น${2}%
@@ -2055,7 +2055,7 @@
 10800100168	Changes armor to the Poison property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติพิษ
 10800100169	Changes armor to the Fire property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติไฟ
 10800100170	Changes armor to the Ghost property.	เปลี่ยนชุดเกราะเป็นคุณสมบัติ Ghost
-10800100171	Makes the weapon indestructible.	Makes the weapon indestructible.
+10800100171	Makes the weapon indestructible.	ทำให้อาวุธไม่สามารถถูกทำลายได้
 10800100172	Makes the armor indestructible.	ทำให้เกราะไม่สามารถทำลายได้
 10800100173	Every ${1} HIT increases Physical damage by ${2}%, up to ${3}%.	ทุกๆ ครั้งของ${1}HIT จะเพิ่มความเสียหายทางกายภาพขึ้น${2}% สูงสุดถึง${3}%
 10800100174	Allows use of ^{1}^{2}Hiding Lv. @{1}^{3}^{4} and ^{5}^{6}Sightless Mind Lv. @{2}^{7}^{8}.	อนุญาตให้ใช้ ^{1}^{2}การซ่อน Lv.@{1}^{3}^{4}และ ^{5}^{6}Sightless Mind Lv.@{2}^{7}^{8}.
@@ -2190,7 +2190,7 @@
 13150200100	Search for the Relic using the information provided by the Soldiers.	ค้นหาโบราณวัตถุโดยใช้ข้อมูลที่ Soldiers ให้ไว้
 13150200099	Ask the Soldiers about the Relic's whereabouts.	ถาม Soldiers เกี่ยวกับที่อยู่ของโบราณวัตถุ
 13150200098	Help the Soldiers escape.	ช่วย Soldiers หลบหนี
-13150200097	Kill the restless monsters along the way.	Kill สัตว์ประหลาดที่กระสับกระส่ายไปพร้อมกัน
+13150200097	Kill the restless monsters along the way.	กำจัดมอนสเตอร์ที่กระสับกระส่ายระหว่างทาง
 13150200096	Find the Source of the Disturbance	ค้นหาแหล่งที่มาของการรบกวน
 13150200095	After the Relic appeared, the monsters in the area began growing restless.	หลังจากที่ Relic ปรากฏตัว มอนสเตอร์ในพื้นที่ก็เริ่มกระสับกระส่าย
 13150200094	After the tremor, a glowing Relic appeared in Goblin Forest. Go investigate.	หลังจากแรงสั่นสะเทือน Relic ที่เรืองแสงก็ปรากฏขึ้นใน Goblin Forest ไปสอบสวน.
@@ -2203,7 +2203,7 @@
 13150200087	Take the cargo to the Professor and report back.	นำสินค้าไปให้ Professor แล้วรายงานกลับ
 13150200086	Say goodbye to the caravan Members.	บอกลาสมาชิกคาราวาน
 13150200085	Discover the Professor's supplies in Baphomet's lair.	ค้นพบสิ่งของของ Professor ในถ้ำของ Baphomet
-13150200084	Kill Baphomet	KillBaphomet
+13150200084	Kill Baphomet	กำจัด Baphomet
 13150200083	Continue to Search for the cargo.	ค้นหาสินค้าต่อไป
 13150200082	Encounter the caravan searching for the cargo.	พบกับคาราวานที่กำลังค้นหาสินค้า
 13150200081	Search nearby for traces of the cargo.	ค้นหาร่องรอยของสินค้าในบริเวณใกล้เคียง
@@ -2285,11 +2285,11 @@
 13150000076	Defeat the monsters hidden throughout the world.	กำจัดสัตว์ประหลาดที่ซ่อนอยู่ทั่วโลก
 13150000075	Say hello to the Soldier in Prontera for Dumby.	ทักทาย Soldier ใน Prontera for Dumby
 13150000074	Battle of Survivors Activity Task	ภารกิจ Activity การต่อสู้ของผู้รอดชีวิต
-13150000073	Have the team Kill a total of @{1} participants	ให้ทีม Kill ผู้เข้าร่วม@{1}ทั้งหมด
+13150000073	Have the team Kill a total of @{1} participants	ให้ทีมกำจัดผู้เข้าร่วมทั้งหมด @{1} คน
 13150000072	Have the team use Camouflage @{1} times in matches	ให้ทีมใช้ลายพราง@{1}ครั้งในการแข่งขัน
 13150000071	Have the team obtain Orange Quality equipment @{1} times	ให้ทีมงานได้รับอุปกรณ์ Orange Quality@{1}เท่า
 13150000070	Open a total of @{1} treasure chests	Open หีบสมบัติ@{1}ทั้งหมด
-13150000069	Kill @{1} Monsters (any Monster) in matches	Kill มอนสเตอร์@{1}(มอนสเตอร์ตัวใดก็ได้) ในแมตช์
+13150000069	Kill @{1} Monsters (any Monster) in matches	กำจัดมอนสเตอร์ @{1} ตัว (ตัวใดก็ได้) ในแมตช์
 13150000068	Use Medicine (HP recovery Medicine) @{1} times in a match	ใช้ยา (ยาฟื้นฟู HP)@{1}ครั้งในการแข่งขัน
 13150000067	Place in the top @{1} a total of @{2} times This Week	ติดอันดับบนสุด@{1}รวม@{2}เท่าในสัปดาห์นี้
 13150000066	Spend @{1} minutes in any Tavern room	ใช้เวลา@{1}นาทีในห้อง Tavern ใดก็ได้
@@ -2755,7 +2755,7 @@
 12390100476	A crystal obtained from certain monsters.	คริสตัลที่ได้รับจากมอนสเตอร์บางตัว
 12390100475	A Rare mineral that emits a blue glow.	แร่ธาตุหายากที่เปล่งแสงสีน้ำเงิน
 12390100474	An empty bottle.	ขวดเปล่า.
-12390100473	Trunk.	.
+12390100473	Trunk.	ลำต้นไม้
 12390100472	A special Magic item that can predict and reveal the distant future.	ไอเทมเวทมนตร์พิเศษที่สามารถทำนายและเปิดเผยอนาคตอันไกลโพ้นได้
 12390100471	A golden crystal that looks as though it contains the sun.	คริสตัลสีทองที่ดูราวกับว่ามีดวงอาทิตย์อยู่
 12390100470	A small bead made of glass.	ลูกปัดเล็กๆ ทำจากแก้ว
@@ -3010,7 +3010,7 @@
 12390100184	A hooded Muffler that protects the shoulders and head.	ผ้าพันคอมีฮู้ดที่ปกป้องไหล่และศีรษะ
 12390100183	Clothing made from high-quality fabric.	เสื้อผ้าผลิตจากผ้าคุณภาพสูง
 12390100182	Armor woven from sturdy Metal.	เสื้อเกราะทอจากโลหะที่แข็งแรง
-12390100181	Armor made from sturdy Metal.	Armor made from sturdy Metal.
+12390100181	Armor made from sturdy Metal.	เกราะที่ทำจากโลหะทนทาน
 12390100180	A coat made from soft animal fur. It has drawn heavy criticism from conservation groups, so please be kind to animals. Comes with a powerful defensive special effect.	เสื้อคลุมที่ทำจากขนสัตว์เนื้อนุ่ม ได้รับการวิพากษ์วิจารณ์อย่างหนักจากกลุ่มอนุรักษ์ ดังนั้นกรุณามีเมตตาต่อสัตว์ด้วย มาพร้อมเอฟเฟกต์พิเศษป้องกันอันทรงพลัง
 12390100179	A coat made from soft animal fur. It has drawn heavy criticism from conservation groups, so please be kind to animals. Comes with a powerful damage-dealing special effect.	เสื้อคลุมที่ทำจากขนสัตว์เนื้อนุ่ม ได้รับการวิพากษ์วิจารณ์อย่างหนักจากกลุ่มอนุรักษ์ ดังนั้นกรุณามีเมตตาต่อสัตว์ด้วย มาพร้อมกับเอฟเฟกต์พิเศษสร้างความเสียหายอันทรงพลัง
 12390100178	A coat made from soft animal fur. It has drawn heavy criticism from conservation groups, so please be kind to animals.	เสื้อคลุมที่ทำจากขนสัตว์เนื้อนุ่ม ได้รับการวิพากษ์วิจารณ์อย่างหนักจากกลุ่มอนุรักษ์ ดังนั้นกรุณามีเมตตาต่อสัตว์ด้วย
@@ -3149,7 +3149,7 @@
 12390100045	Points obtained by defeating monsters in the ^{1}Morroc^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Morroc^{2}
 12390100044	Points obtained by defeating monsters in the ^{1}Prontera^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Prontera^{2}
 12390100043	A medal obtained by defeating monsters. Can be exchanged for various rewards in the shop.	เหรียญรางวัลที่ได้รับจากการปราบมอนสเตอร์ สามารถแลกรับรางวัลต่างๆภายในร้านได้
-12390100042	Consumed during gathering and crafting.	Consumed during gathering and crafting.
+12390100042	Consumed during gathering and crafting.	ใช้เป็นวัตถุดิบเมื่อรวบรวมหรือคราฟต์
 12390100041	Used for Life Skill Level-up.	ใช้สำหรับอัพเลเวลทักษะ Life
 12390100040	Can be exchanged for rewards in the Contributor Shop.	สามารถแลกรับรางวัลได้ที่ Contributor Shop
 12390100039	Ore containing special energy.	แร่ที่มีพลังงานพิเศษ
@@ -3186,7 +3186,7 @@
 12390100008	Used to offset Net Victory Points deducted in Survivor Battle Misc	ใช้เพื่อชดเชยคะแนนชัยชนะสุทธิที่หักใน Survivor Battle Misc
 12390100007	Survivor Battle Misc Net Victory Points (Victory Points)	ผู้รอดชีวิตจากการต่อสู้เบ็ดเตล็ด คะแนนชัยชนะสุทธิ (คะแนนชัยชนะ)
 12390100006	A reward for participating in Competition Misc. Can be exchanged for rewards in the shop.	รางวัลสำหรับการเข้าร่วมการแข่งขันเบ็ดเตล็ด สามารถแลกรับรางวัลได้ภายในร้าน
-12390100005	Obtainable by participating in daily activities.	Obtainable by participating in daily activities.
+12390100005	Obtainable by participating in daily activities.	รับได้จากการเข้าร่วมกิจกรรมประจำวัน
 12390100004	Credit Points	Credit Points
 12390100003	A highly valuable Crystal infused with concentrated energy.	คริสตัลล้ำค่าที่อัดแน่นไปด้วยพลังงานอันเข้มข้น
 12390100002	A dazzling coin used to exchange for valuable items.	เหรียญแวววาวที่ใช้แลกสิ่งของมีค่า
@@ -3335,7 +3335,7 @@
 10110300101	Deviling consecutively releases three rings of dark energy around itself, damaging players hit.	Deviling ปล่อยวงแหวนพลังงานมืดสามวงรอบๆ ตัวมันเองอย่างต่อเนื่อง สร้างความเสียหายให้กับผู้เล่นที่โดน
 10110300102	Place Live Coal	วาง Live Coal
 10110300103	Place Accelerant	ตัวเร่งความเร็ว
-10110300104	Collect Live Coals	Collect Live Coals
+10110300104	Collect Live Coals	เก็บ Live Coals
 10110300105	Collect	Collect
 10110300106	Cancel Transformation	Cancel Transformation
 10110300107	Enlarge the target	Enlarge เป้าหมาย
@@ -3577,7 +3577,7 @@
 10110300397	Places a Claymore Trap within ${1}m. When an enemy enters the Trap's ${2}m trigger radius, it explodes, dealing Physical ATK*^{1}${5}%+${6}^{2} Fire ranged Physical damage to up to ${4} enemies within a ${3}m radius. The Trap lasts ${7} sec.	วาง Claymore Trap ภายใน${1}ม. เมื่อศัตรูเข้าไปในรัศมีทริกเกอร์${2}m ของกับดัก มันจะระเบิด สร้างความเสียหายทางกายภาพ*^{1}${5}%+${6}^{2}สร้างความเสียหายทางกายภาพจากการยิง ให้กับศัตรูสูงสุด${4}ภายในรัศมี${3}m กับดักคงอยู่${7}วินาที
 10110300398	Places a Freezing Trap within ${1}m. When an enemy enters the Trap's ${2}m trigger radius, it explodes, dealing Physical ATK*^{1}${5}%+${6}^{2} Water ranged Physical damage to up to ${4} enemies within a ${3}m radius and inflicting ^{3}^{4}【Freeze】^{5}^{6} for ${7} sec. The Trap lasts ${8} sec.	วางกับดักเยือกแข็งภายใน${1}ม. เมื่อศัตรูเข้าไปในรัศมีทริกเกอร์${2}m ของกับดัก มันจะระเบิด สร้างความเสียหายทางกายภาพ*^{1}${5}%+${6}^{2}สร้างความเสียหายกายภาพจากน้ำไปยังศัตรูสูงสุด${4}ภายในรัศมี${3}m และทำให้ ^{3}^{4}【Freeze】^{5}^{6}สำหรับ${7}วินาทีกับดักคงอยู่${8}วินาที
 10110300399	Places a Flasher within ${1}m. When an enemy enters the Trap's ${2}m trigger radius, it explodes, dealing Physical ATK*^{1}${5}%+${6}^{2} Wind ranged Physical damage to up to ${4} enemies within a ${3}m radius and inflicting ^{3}^{4}【Blind】^{5}^{6} for ${7} sec. The Trap lasts ${8} sec.	วาง Flasher ภายใน${1}m. เมื่อศัตรูเข้าไปในรัศมีทริกเกอร์${2}m ของกับดัก มันจะระเบิด สร้างความเสียหายทางกายภาพ*^{1}${5}%+${6}^{2}ลมสร้างความเสียหายทางกายภาพให้กับศัตรูสูงสุด${4}ภายในรัศมี${3}m และทำให้เกิดความเสียหาย ^{3}^{4}【Blind】^{5}^{6}สำหรับ${7}วินาทีกับดักคงอยู่${8}วินาที
-10110300400	Grants yourself and up to ${2} allies within a ${1}m radius ^{1}${3}%^{2} Movement Speed and ^{3}${4}^{4} FLEE for ${5} sec.	ให้ตัวเองและพันธมิตรสูงสุด${2}ภายในรัศมี${1}m ^{1}${3}%^ ความเร็วการเคลื่อนที่ของ{2}และ ^{3}${4}^{4}FLEE สำหรับ${5}วินาที
+10110300400	Grants yourself and up to ${2} allies within a ${1}m radius ^{1}${3}%^{2} Movement Speed and ^{3}${4}^{4} FLEE for ${5} sec.	เพิ่มความเร็วเคลื่อนที่ ^{1}${3}%^{2} และ FLEE ^{3}${4}^{4} ให้ตนเองและพันธมิตรสูงสุด ${2} คนที่อยู่ในรัศมี ${1} เมตร เป็นเวลา ${5} วินาที
 10110300401	Can only be cast while the Falcon is in Follow mode. Use the Falcon to perform Concentration, dealing PATK * ^{1}${2}% + ${3}^{2} Neutral Ranged Physical DMG to the designated ST enemy within ${1} meters.	สามารถร่ายได้เฉพาะในขณะที่เหยี่ยวอยู่ในโหมดติดตามเท่านั้นใช้เหยี่ยวเพื่อทำการรวมสมาธิ สร้าง PATK * ^{1}${2}% +${3}^{2}สร้างความเสียหายทางกายภาพระยะไกลแบบเป็นกลาง ไปยังศัตรู ST ที่กำหนดภายในระยะ${1}เมตร
 10110300402	Grants yourself ^{1}${1}^{2} to all base stats, ^{3}${2}^{4} HIT, and ^{5}${3}%^{6} Physical damage for ${4} sec.	ให้สิทธิ์ ^{1}${1}^{2}ให้กับสถิติพื้นฐานทั้งหมด ^{3}${2}^{4}HIT และ ^{5}${3}%^{6}ความเสียหายทางกายภาพเป็นเวลา${4}วินาที
 10110300403	Bow-exclusive skill. Unleashes a powerful attack against the designated ST enemy within ${1} meters, dealing PATK * ^{1}${3}% + ${4}^{2} Neutral Ranged Physical DMG to the target and up to ${2} enemies in a line within Attack Range.	ทักษะพิเศษเฉพาะคันธนูปล่อยการโจมตีอันทรงพลังต่อศัตรู ST ที่กำหนดภายในระยะ${1}เมตร สร้าง PATK * ^{1}${3}% +${4}^{2}สร้างความเสียหายทางกายภาพระยะไกลแบบเป็นกลางไปยังเป้าหมาย และศัตรูสูงสุด${2}ในแนวภายในระยะการโจมตี
@@ -3612,7 +3612,7 @@
 10110300432	Free the Shaking Ant Egg	ปล่อย Ant Egg สั่น
 10110300433	Help the fallen Professor to their feet.	ช่วย Professor ที่ล้มให้ลุกขึ้นยืน
 10110300434	Open the Treasure in Maya's Nest	Open สมบัติในรัง Maya
-10110300435	Ride the Deniro	RideDeniro
+10110300435	Ride the Deniro	ขี่ Deniro
 10110300436	Dismount the Deniro	ลงจากหลังม้า Deniro
 10110300437	Feed the Deniro Fluorescent Supplies	ป้อนวัสดุฟลูออเรสเซนต์ Deniro
 10110300438	Collect the fluorescent substance	รวบรวมสารเรืองแสง
@@ -4437,10 +4437,10 @@
 10220300724	Full-screen Shield AoE	Shield AoE แบบเต็มหน้าจอ
 10220300723	Check for teammates within 5 meters, then Launch your Kunai at them to deal damage.	ตรวจสอบเพื่อนร่วมทีมในระยะ 5 เมตร จากนั้นยิง Kunai ไปที่พวกเขาเพื่อสร้างความเสียหาย
 10220300722	Dungeon matchmaking decline penalty I: Cannot join dungeon matchmaking for @{1} sec.	การลงโทษการปฏิเสธการจับคู่ดันเจี้ยน I: ไม่สามารถเข้าร่วมการจับคู่ดันเจี้ยนเป็นเวลา@{1}วินาที
-10220300721	Movement Speed -@{1}%	-@{1}%
+10220300721	Movement Speed -@{1}%	ลดความเร็วเคลื่อนที่ @{1}%
 10220300720	Enchant Carapace Shield, Damage Reduction	โล่ Enchant Carapace ลดความเสียหาย
 10220300719	Burrows underground, becoming immune to damage and Debuffs.	โพรงใต้ดิน ต้านทานความเสียหายและดีบัฟ
-10220300718	Attack Speed +@{1}%.	Attack Speed +@{1}%.
+10220300718	Attack Speed +@{1}%.	เพิ่มความเร็วโจมตี @{1}%
 10220300717	Damage Reduction +^{1}${6}%^{2}.	การลดความเสียหาย +^{1}${6}%^{2}
 10220300716	Damage Reduction +^{1}${5}%^{2}.	การลดความเสียหาย +^{1}${5}%^{2}
 10220300715	Damage Reduction +^{1}${4}%^{2}.	การลดความเสียหาย +^{1}${4}%^{2}
@@ -4518,7 +4518,7 @@
 10220300643	Physical and Magic DEF increase by @{1}%.	DEF กายภาพและเวทมนตร์เพิ่มขึ้น@{1}%
 10220300642	When you Kill an enemy, cast [Curse of Malice] at the target's location.	เมื่อคุณสังหารศัตรู ร่าย [Curse of Malice] ไปยังตำแหน่งของเป้าหมาย
 10220300641	Gain ${1}% Lifesteal; Normal Attacks trigger Extra damage, dealing damage equal to a Normal Attack to up to @{2} enemies within @{1} meters of the target.	ได้รับ${1}% ดูดพลังชีวิต;Normal Attack จะทำให้เกิดความเสียหายเพิ่มเติม สร้างความเสียหายเท่ากับ Normal Attack ให้กับศัตรูสูงสุด@{2}ภายใน@{1}เมตรจากเป้าหมาย
-10220300640	Attack Speed +${1}%	Attack Speed +${1}%
+10220300640	Attack Speed +${1}%	เพิ่มความเร็วโจมตี ${1}%
 10220300639	Buff duration extended by ${1} sec.	ระยะเวลาบัฟขยายออกไป${1}วินาที
 10220300638	Physical ATK and Magic ATK +${6}%	ATK กายภาพและ ATK เวทย์ +${6}%
 10220300637	Physical ATK and Magic ATK increase by ${5}%	ATK กายภาพและเวทย์มนต์เพิ่มขึ้น${5}%
@@ -4746,10 +4746,10 @@
 10110300785	Left Rectangular AOE	AOE สี่เหลี่ยมด้านซ้าย
 10110300784	Rear Rectangular AOE	AOE สี่เหลี่ยมด้านหลัง
 10110300783	Front Rectangular AOE	AOE สี่เหลี่ยมด้านหน้า
-10110300782	Obtain Green Note	Obtain Green Note
-10110300781	Obtain Yellow Note	Obtain Yellow Note
-10110300780	Obtain Blue Note	Obtain Blue Note
-10110300779	Obtain Red Note	Obtain Red Note
+10110300782	Obtain Green Note	รับ Green Note
+10110300781	Obtain Yellow Note	รับ Yellow Note
+10110300780	Obtain Blue Note	รับ Blue Note
+10110300779	Obtain Red Note	รับ Red Note
 10110300778	Spin with a Dance Move and stomp the music circles	หมุนตัวด้วย Dance Move และกระทืบวงการดนตรี
 10110300777	Filler Skill	ทักษะฟิลเลอร์
 10110300776	Launch a bubble of a random color	เปิดฟองสีแบบสุ่ม
@@ -4865,7 +4865,7 @@
 10110300227	Chants a powerful purification spell, removing ^{1}【Movement Restriction】^{2} and ^{3}【Abnormal Status】^{4} effects from self and party Members within a @{1} m radius. For the next @{2} sec., grants immunity to up to ^{5}@{3}^{6} ^{7}【Movement Restriction】^{8} and ^{9}【Abnormal Status】^{10} effects. Skill Cooldown: ^{11}@{4}^{12} sec.	ร่ายคาถาชำระล้างอันทรงพลัง ลบ ^{1}【Movement Restriction】^{2}และ ^{3}【Abnormal Status】^ เอฟเฟกต์{4}จากตนเองและสมาชิกปาร์ตี้ภายในรัศมี@{1}m สำหรับ@{2}วินาทีถัดไป ให้ภูมิคุ้มกันสูงสุดถึง ^{5}@{3}^{6}^{7}【Movement Restriction】^{8}และ ^{9}【Abnormal Status】^ เอฟเฟกต์{10}คูลดาวน์ทักษะ: ^{11}@{4}^{12}วินาที
 10110300226	Unleashes a powerful Holy Light, dealing own ATK * ^{1}@{4}%^{2} damage to up to @{3} enemies in a designated area with a @{2} m radius within @{1} m and inflicting ^{3}【Immobilize】^{4} and ^{5}【Blind】^{6} for @{5} sec.	ปลดปล่อย Holy Light อันทรงพลัง สร้าง ATK ของตัวเอง * ^{1}@{4}%^{2}สร้างความเสียหายให้กับศัตรูสูงสุด@{3}ในพื้นที่ที่กำหนดด้วยรัศมี@{2}m ภายใน@{1}m และทำดาเมจ ^{3}【Immobilize】^{4}และ ^{5}【Blind】^{6}สำหรับ@{5}วินาที
 10110300225	Summons a Holy Light talisman from the heavens, dealing ATK * ^{1}@{2}%^{2} damage to the designated ST enemy within @{1} m.	อัญเชิญเครื่องราง Holy Light จากสวรรค์ สร้าง ATK * ^{1}@{2}%^{2}สร้างความเสียหายให้กับศัตรู ST ที่กำหนดภายใน@{1}m
-10110300224	Uses an Exorciser incantation to create a Holy Light field, dealing ATK * ^{1}@{4}%^{2} damage to up to @{3} enemies in a designated area with a @{2} m radius within @{1} m.	Uses an Exorciser incantation to create a Holy Light field, dealing ATK * ^{1}@{4}%^{2}damage to up to@{3}enemies in a designated area with a@{2}m radius within@{1}m.
+10110300224	Uses an Exorciser incantation to create a Holy Light field, dealing ATK * ^{1}@{4}%^{2} damage to up to @{3} enemies in a designated area with a @{2} m radius within @{1} m.	ร่ายคาถา Exorciser เพื่อสร้างเขตแสงศักดิ์สิทธิ์ สร้างความเสียหาย ATK × ^{1}@{4}%^{2} แก่ศัตรูสูงสุด @{3} ตัวในพื้นที่เป้าหมาย รัศมี @{2} เมตร ภายในระยะ @{1} เมตร
 10110300223	Strengthens holy power through a prayer of devotion, granting ^{1}continuous recovery^{2} to self and party Members within a @{1} m radius. Restores ^{5}Life^{6} equal to own ATK * ^{3}@{2}%^{4} to each target every sec. for @{3} sec.	เสริมสร้างพลังศักดิ์สิทธิ์ผ่านการสวดมนต์ด้วยความจงรักภักดี ให้ ^{1}ฟื้นตัวอย่างต่อเนื่อง^{2}แก่ตนเองและสมาชิกปาร์ตี้ภายในรัศมี@{1}เมตรคืนค่า ^{5}Life^{6}เท่ากับ ATK ของตัวเอง * ^{3}@{2}%^{4}ให้กับแต่ละเป้าหมายทุกๆ วินาทีสำหรับ@{3}วินาที
 10110300222	Summons a golden Sacred Tree of Life at the caster's location, increasing damage reduction by ^{1}@{2}%^{2} for self and party Members within a @{1} m radius for @{3} sec. If self or a party Member takes ^{3}fatal damage^{4} while the effect is active, triggers ^{5}【Death Immunity】^{6} once and sets Life to ^{7}@{4}% of Max Life^{8}.	เรียกต้นไม้ศักดิ์สิทธิ์แห่ง Life สีทองมาที่ตำแหน่งของนักเวทย์ เพิ่มการลดความเสียหายโดย ^{1}@{2}%^{2}สำหรับตนเองและสมาชิกปาร์ตี้ภายในรัศมี@{1}m เป็นเวลา@{3}วินาทีหากตนเองหรือสมาชิกปาร์ตี้ได้รับ ^{3}fataldamage^{4}ขณะที่เอฟเฟกต์ทำงาน ทริกเกอร์ ^{5}【Death Immunity】^{6}หนึ่งครั้งและตั้งค่า Life เป็น ^{7}@{4}% ของ Max Life^{8}
 10110300221	Invokes Divine Light, restoring ^{3}Life^{4} equal to own ATK * ^{1}@{2}%^{2} for self and the designated ST ally within @{1} m.	อัญเชิญ Divine Light ฟื้นฟู ^{3}Life^{4}เท่ากับ ATK ของตัวเอง * ^{1}@{2}%^{2}สำหรับตนเองและพันธมิตร ST ที่กำหนดภายใน@{1}m.
