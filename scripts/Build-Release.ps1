@@ -140,11 +140,13 @@ foreach ($relative in $repoPayloadFiles) {
 $stageCanonical = Join-Path $Stage 'payload\BepInEx\Translation\ja\Text\RO3_CanonicalTranslations.txt'
 $stageOverrides = Join-Path $Stage 'payload\BepInEx\config\RO3.LocalizationOverrides.tsv'
 $canonicalText = Get-Content -LiteralPath $stageCanonical -Raw
-$overrideText = Get-Content -LiteralPath $stageOverrides -Raw
 if ($canonicalText -notmatch '(?m)^ST=Single Target\r?$') {
     throw 'Release payload is missing ST=Single Target.'
 }
-if ($overrideText -notmatch '(?m)^10110300401\t[^\r\n]*Single Target[^\r\n]*P\.ATK') {
+$falconRow = Get-Content -LiteralPath $stageOverrides | Where-Object {
+    $_.StartsWith("10110300401`t")
+} | Select-Object -First 1
+if (-not $falconRow -or -not $falconRow.Contains('Single Target') -or -not $falconRow.Contains('P.ATK')) {
     throw 'Release payload is missing the reviewed Falcon Concentration translation.'
 }
 
