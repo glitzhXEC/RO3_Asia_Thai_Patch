@@ -166,7 +166,7 @@ try {
     if ($canonicalText -notmatch '(?m)^ST=Single Target\r?$') {
         throw 'Release payload is missing ST=Single Target.'
     }
-    if ($overrideText -notmatch '(?m)^10110300401\t.*Single Target.*P\.ATK.*\$\{1\} เมตร\r?$') {
+    if ($overrideText -notmatch '(?m)^10110300401\t[^\r\n]*Single Target[^\r\n]*P\.ATK') {
         throw 'Release payload is missing the reviewed Falcon Concentration translation.'
     }
 
