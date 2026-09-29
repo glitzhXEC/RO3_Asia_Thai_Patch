@@ -5,7 +5,7 @@
 20004	Max support applications: <color=${3}>${1}</color>/${2}	Max support applications: <color=${3}>${1}</color>/${2}
 20005	You successfully aided ${1}${2} using the Revive Altar.	You successfully aided ${1}${2} using the Revive Altar.
 20006	Healing on targets below @{1}% Life increased by @{2}%.	การรักษาเป้าหมายที่ต่ำกว่า@{1}% พลัง Life เพิ่มขึ้น@{2}%
-20007	When 【Slashing Strike】 hits a target, gain @{1}% Haste.	เมื่อ 【Slashing Strike】 โดนเป้าหมาย จะได้รับ@{1}% Haste
+20007	When 【Slashing Strike】 hits a target, gain @{1}% Haste.	เมื่อ [ Slashing Strike ] โดนเป้าหมาย จะได้รับ@{1}% Haste
 20008	Duration of control Protector skills +^{1}${1}^{2} sec.	ระยะเวลาของการควบคุม ทักษะการป้องกัน +^{1}${1}^{2}วินาที
 20009	Replace Personal Build ${1} with the recommended build?	Replace Personal Build ${1} with the recommended build?
 20010	Increases Physical DEF by ${1}% and Magic DEF by ${2}%.	เพิ่ม DEF กายภาพโดย${1}% และ DEF เวทมนตร์โดย${2}%
@@ -13,7 +13,7 @@
 20012	You haven't finished today's journey. End the day early?	You haven't finished today's journey. End the day early?
 20013	Every journey has an end, but yours has only just begun.	Every journey has an end, but yours has only just begun.
 20014	^{1}Escape to the finish line as quickly as possible^{2}	^{1}หนีเข้าเส้นชัยให้เร็วที่สุด^{2}
-20015	[Reserved] Spend a total of @{1} minutes in field combat	[Reserved] ใช้เวลา@{1}นาทีในการต่อสู้ภาคสนาม
+20015	[Reserved] Spend a total of @{1} minutes in field combat	[ Reserved ] ใช้เวลา@{1}นาทีในการต่อสู้ภาคสนาม
 20016	Follow the Pathfinder Ant to a mysterious cave entrance.	เดินตาม Pathfinder Ant ไปยังทางเข้าถ้ำลึกลับ
 20017	Head to Payon and search for signs of Mushroom monsters.	มุ่งหน้าไปยัง Payon และค้นหาสัญญาณของสัตว์ประหลาด Mushroom
 20018	Defeated, Jack fled as fast as his legs could carry him.	พ่ายแพ้ Jack จึงรีบวิ่งหนีให้เร็วที่สุดเท่าที่จะทำได้
@@ -32,11 +32,11 @@
 20031	The Party Leader role cannot be transferred during Misc.	The Party Leader role cannot be transferred during Misc.
 20032	The supply listing price does not meet the requirements.	The supply listing price does not meet the requirements.
 20033	Participate in Battle of Dragon Coffin Island ${1} times	Participate in Battle of Dragon Coffin Island ${1} times
-20034	This unit's Physical ATK and Magic ATK increase by ${1}.	พลังโจมตีกายภาพและเวทมนตร์ของยูนิตนี้เพิ่มขึ้น${1}
+20034	This unit's Physical ATK and Magic ATK increase by ${1}.	P.ATKและเวทมนตร์ของยูนิตนี้เพิ่มขึ้น${1}
 20035	Open Mondays, Wednesdays, and Saturdays from 17:00–18:30	Open Mondays, Wednesdays, and Saturdays from 17:00–18:30
 20036	Test version. Does not represent final quality. UID:${1}	Test version. Does not represent final quality. UID:${1}
-20037	【Mystical Amplification】 grants an Extra {1} Cast Speed.	【Mystical Amplification】ให้ความเร็วในการร่าย{1}พิเศษ
-20038	【Mystical Amplification】 grants an Extra ${1} Magic ATK.	【Mystical Amplification】มอบพลังโจมตีเวทย์พิเศษ${1}
+20037	【Mystical Amplification】 grants an Extra {1} Cast Speed.	[ Mystical Amplification ]ให้ความเร็วในการร่าย{1}พิเศษ
+20038	【Mystical Amplification】 grants an Extra ${1} Magic ATK.	[ Mystical Amplification ]มอบM.ATKพิเศษ${1}
 20039	This area is too dangerous to dismount from your Deniro.	This area is too dangerous to dismount from your Deniro.
 20040	You can mark up to ${1} monsters. Select one to replace.	You can mark up to ${1} monsters. Select one to replace.
 20041	Guild emblem design not unlocked. Please choose another.	Guild emblem design not unlocked. Please choose another.
@@ -122,7 +122,7 @@
 20121	I am a man who yearns for luck! Bring me good luuuuuuck!	I am a man who yearns for luck! Bring me good luuuuuuck!
 20122	Ugh, hah, ha! I'm... fine. I can still... keep... going!	Ugh, hah, ha! I'm... fine. I can still... keep... going!
 20123	Party member ${1}'s current status prevents matchmaking.	Party member ${1}'s current status prevents matchmaking.
-20124	When a katar-type weapon is equipped, Physical ATK +@{1}	เมื่อติดตั้งอาวุธประเภท Katar พลังโจมตีกายภาพ +@{1}
+20124	When a katar-type weapon is equipped, Physical ATK +@{1}	เมื่อติดตั้งอาวุธประเภท Katar P.ATK +@{1}
 20125	Entangled in the Pharaoh's burial shroud and Cannot move	ติดอยู่ในผ้าห่อศพของ Pharaoh และขยับไม่ได้
 20126	Cast Time increased by @{1}, MP Cost increased by @{2}%.	เวลาร่ายเพิ่มขึ้น@{1}ค่าใช้จ่าย MP เพิ่มขึ้น@{2}%
 20127	Detects hidden enemies within @{1} meters of the Ranger.	ตรวจจับศัตรูที่ซ่อนอยู่ภายในระยะ@{1}เมตรของ Ranger
@@ -163,8 +163,8 @@
 20162	This activity is unavailable on the day you change guilds	This activity is unavailable on the day you change guilds
 20163	Not enough Guild Members from the same guild in the party	Not enough Guild Members from the same guild in the party
 20164	Insufficient Kills of monsters at the corresponding level	Insufficient Kills of monsters at the corresponding level
-20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}【Bow】^{2} ตัวคูณความเสียหายของทักษะเพิ่มขึ้น${1}%
-20166	Physical damage dealt to Brute and Insect monsters +${1}%	ความเสียหายทางกายภาพที่ทำกับสัตว์ประหลาดสัตว์เดรัจฉานและแมลง +${1}%
+20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}[ Bow ]^{2} ตัวคูณความเสียหายของทักษะเพิ่มขึ้น${1}%
+20166	Physical damage dealt to Brute and Insect monsters +${1}%	P.DMGที่ทำกับสัตว์ประหลาดสัตว์เดรัจฉานและแมลง +${1}%
 20167	Play Event Closure @{2} after Campfire Phase @{1} begins!	Play Event Closure @{2} after Campfire Phase @{1} begins!
 20168	Second Prize will always be drawn from Baby Desert Wolves	Second Prize will always be drawn from Baby Desert Wolves
 20169	Cannot socket cards until the Wardrobe System is unlocked	Cannot socket cards until the Wardrobe System is unlocked
@@ -234,7 +234,7 @@
 20233	No non-top-tier items are available at the current price.	No non-top-tier items are available at the current price.
 20234	The item price has changed. Please refresh and try again.	The item price has changed. Please refresh and try again.
 20235	You cannot Repeat a Get Help request for the same player.	You cannot Repeat a Get Help request for the same player.
-20236	Increases your Physical ATK by ^{1}${1}^{2} for ${2} sec.	เพิ่ม ATK ทางกายภาพของคุณโดย ^{1}${1}^{2}เป็นเวลา${2}วินาที
+20236	Increases your Physical ATK by ^{1}${1}^{2} for ${2} sec.	เพิ่ม P.ATKของคุณโดย ^{1}${1}^{2}เป็นเวลา${2}วินาที
 20237	Trade items cannot currently be purchased on this server.	Trade items cannot currently be purchased on this server.
 20238	Due to inactivity, you cannot start matchmaking for ${1}.	Due to inactivity, you cannot start matchmaking for ${1}.
 20239	You are outside the barrier and taking continuous damage.	You are outside the barrier and taking continuous damage.
@@ -243,9 +243,9 @@
 20242	The Guild Auction will begin at ${1}. Please be prepared.	The Guild Auction will begin at ${1}. Please be prepared.
 20243	Each skill on this Totem increases your healing by @{1}%.	แต่ละทักษะบน Totem นี้จะเพิ่มการรักษาของคุณโดย@{1}%
 20244	Maximum Floors of all your magic buffs increased by @{1}.	ชั้นสูงสุดของบัฟเวทมนตร์ทั้งหมดของคุณเพิ่มขึ้น@{1}
-20245	Transform into a Mummy and reduce Movement Speed by @{1}%	แปลงร่างเป็น Mummy และลดความเร็วในการเคลื่อนที่ลง@{1}%
+20245	Transform into a Mummy and reduce Movement Speed by @{1}%	แปลงร่างเป็น Mummy และลดMSPDลง@{1}%
 20246	Determine whether it is protected by a shield; hide later	ตรวจสอบว่ามีการป้องกันด้วยโล่หรือไม่ซ่อนในภายหลัง
-20247	Reduces Attack Speed by ${1}% and Movement Speed by ${2}%	ลดความเร็วในการโจมตีโดย${1}% และความเร็วในการเคลื่อนที่โดย${2}%
+20247	Reduces Attack Speed by ${1}% and Movement Speed by ${2}%	ลดASPDโดย${1}% และMSPDโดย${2}%
 20248	Actions cannot be played in your current state or location	Actions cannot be played in your current state or location
 20249	Craft @{1} pieces of equipment of Purple Quality or higher	Craft ชิ้นส่วนอุปกรณ์@{1}คุณภาพสีม่วงหรือสูงกว่า
 20250	Prepare to board the airship and search for the professor.	เตรียมขึ้นเรือเหาะและตามหาอาจารย์
@@ -274,12 +274,12 @@
 20273	Lowest unit price selected based on the required quantity.	Lowest unit price selected based on the required quantity.
 20274	Current guild building level does not meet the requirement	Current guild building level does not meet the requirement
 20275	Searching for enemies within range who are ^{1}Hidden^{2}.	ค้นหาศัตรูที่อยู่ในระยะ ^{1}ซ่อนอยู่^{2}.
-20276	Agility +${1}, Attack Speed +${2}%, Movement Speed +${3}%.	ความคล่องตัว +${1}, ความเร็วโจมตี +${2}%, ความเร็วในการเคลื่อนที่ +${3}%
-20277	^{1}^{2}【Adrenaline Rush】^{3}^{4} ignores Job Restriction.	^{1}^{2}【Adrenaline Rush】^{3}^{4}ละเว้นข้อจำกัดงาน
-20278	Movement Speed +@{1}%. Your next attack deals Extra damage	ความเร็วในการเคลื่อนที่ +@{1}%การโจมตีครั้งต่อไปของคุณจะสร้างความเสียหายเพิ่มเติม
+20276	Agility +${1}, Attack Speed +${2}%, Movement Speed +${3}%.	ความคล่องตัว +${1}, ความเร็วโจมตี +${2}%, MSPD +${3}%
+20277	^{1}^{2}【Adrenaline Rush】^{3}^{4} ignores Job Restriction.	^{1}^{2}[ Adrenaline Rush ]^{3}^{4}ละเว้นข้อจำกัดงาน
+20278	Movement Speed +@{1}%. Your next attack deals Extra damage	MSPD +@{1}%การโจมตีครั้งต่อไปของคุณจะสร้างความเสียหายเพิ่มเติม
 20279	Morale is high, granting Increase Attack and DEF by @{1}%.	สูง ทำให้เพิ่มการโจมตีและ DEF ขึ้น@{1}%
 20280	Protects nearby allies, continuously restoring their Life.	ปกป้องพันธมิตรที่อยู่ใกล้เคียง ฟื้นฟูพลัง Life อย่างต่อเนื่อง
-20281	Learning ^{1}^{2}[Spear Mastery]^{3}^{4} grants ${1} PATK.	การเรียนรู้ ^{1}^{2}[Spear Mastery]^{3}^{4}ให้สิทธิ์${1}PATK
+20281	Learning ^{1}^{2}[Spear Mastery]^{3}^{4} grants ${1} PATK.	การเรียนรู้ ^{1}^{2}[ Spear Mastery ]^{3}^{4}ให้สิทธิ์${1}P.ATK
 20282	When phase @{1} begins, set the server event phase to @{2}	When phase @{1} begins, set the server event phase to @{2}
 20283	Periodically grants Bonfire Rewards when Phase @{1} begins	Periodically grants Bonfire Rewards when Phase @{1} begins
 20284	Create Upper-Left @{1} NPC @{2}-@{3} when the event begins	Create Upper-Left @{1} NPC @{2}-@{3} when the event begins
@@ -358,12 +358,12 @@
 20357	Party member ${1} is not Online. Cannot start matchmaking.	Party member ${1} is not Online. Cannot start matchmaking.
 20358	Not enough Backpack space. Rewards have been sent by mail.	Not enough Backpack space. Rewards have been sent by mail.
 20359	The Gala Invitation will begin in @{1} minutes. Get ready!	The Gala Invitation will begin in @{1} minutes. Get ready!
-20360	Each skill on this Totem increases your Magic ATK by @{1}.	แต่ละทักษะบนโทเทมนี้จะเพิ่มพลังโจมตีเวทย์ของคุณขึ้น@{1}
+20360	Each skill on this Totem increases your Magic ATK by @{1}.	แต่ละทักษะบนโทเทมนี้จะเพิ่มM.ATKของคุณขึ้น@{1}
 20361	Carry the aura of a red note to dissolve the matching note	พกพาออร่าโน้ตสีแดงละลายโน้ตที่เข้ากัน
 20362	Damage dealt by the Prismatic Earth Dragon -^{1}${1}%^{2}.	ความเสียหายที่สร้างโดยมังกรดินปริซึม -^{1}${1}%^{2}
 20363	Submit this build? It cannot be modified after submission.	Submit this build? It cannot be modified after submission.
 20364	Try different skill combinations and learn class synergies	Try different skill combinations and learn class synergies
-20365	Reduces Movement Speed by @{1}% and damage dealt by @{2}%.	ลดความเร็วในการเคลื่อนที่ลง@{1}% และความเสียหายที่สร้างโดย@{2}%
+20365	Reduces Movement Speed by @{1}% and damage dealt by @{2}%.	ลดMSPDลง@{1}% และความเสียหายที่สร้างโดย@{2}%
 20366	Restores a certain amount of SP upon Killing an enemy unit	ฟื้นฟู SP จำนวนหนึ่งเมื่อสังหารยูนิตศัตรู
 20367	An indicator circle appears under the clone monster's feet	An indicator circle appears under the clone monster's feet
 20368	Pass the Dynamite to the nearest player within @{1} meters	ส่งไดนาไมต์ไปยังผู้เล่นที่ใกล้ที่สุดภายในระยะ@{1}เมตร
@@ -390,14 +390,14 @@
 20389	I helped you load ${1} ${2} during the Guild Caravan event.	I helped you load ${1} ${2} during the Guild Caravan event.
 20390	Physical DEF and Magic DEF +${1}%, Healing Received +${2}%.	DEF กายภาพและ DEF เวทมนตร์ +${1}%, การรักษาที่ได้รับ + ​​${2}%
 20391	Shield mastery reduces damage taken from monsters by @{1}%.	ความเชี่ยวชาญของโล่จะลดความเสียหายที่ได้รับจากมอนสเตอร์ลง@{1}%
-20392	Attacks have a @{1}% Chance to recover @{2} HP. No cooldown	มีโอกาส@{1}% ที่จะฟื้นฟู HP ของ@{2}ไม่มีคูลดาวน์
+20392	Attacks have a @{1}% Chance to recover @{2} HP. No cooldown	มีโอกาส@{1}% ที่จะฟื้นฟู HP ของ@{2}ไม่มีCD
 20393	Self-heal, recovering @{1}% Max Life per sec. for @{2} sec.	ฟื้นฟูตัวเอง ฟื้นฟู@{1}% พลัง Life สูงสุดต่อวินาทีสำหรับ@{2}วินาที
-20394	Loses HP equal to @{1}% of the applier's Fire Magic Damage.	สูญเสีย HP เท่ากับ@{1}% ของความเสียหายเวทย์ไฟของผู้ใช้งาน
-20395	Movement Speed increased by @{1}%. Stacks up to @{2} times.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น@{1}%ซ้อนได้สูงสุด@{2}เท่า
+20394	Loses HP equal to @{1}% of the applier's Fire Magic Damage.	สูญเสีย HP เท่ากับ@{1}% ของM.DMGย์ไฟของผู้ใช้งาน
+20395	Movement Speed increased by @{1}%. Stacks up to @{2} times.	MSPDเพิ่มขึ้น@{1}%ซ้อนได้สูงสุด@{2}เท่า
 20396	Unique Effect: CRIT +${1}. Each stack grants an Extra ${2}.	เอฟเฟกต์เฉพาะ: CRIT +${1}แต่ละสแต็กให้สิทธิ์ Extra${2}
 20397	For every ${1} VIT, increases Max Life by ${2}, up to ${3}.	สำหรับทุก ๆ${1}VIT จะเพิ่ม Max Life ขึ้น${2}สูงสุด${3}
-20398	【Meteor Storm】 and 【Heaven's Drive】 deal ${1}% more damage.	【Meteor Storm】 และ 【Heaven's Drive】 สร้างความเสียหายได้มากขึ้น${1}%
-20399	【Magic Crasher】 and 【Napalm Vulcan】 deal ${1}% more damage.	【Magic Crasher】 และ 【Napalm Vulcan】 สร้างความเสียหายได้มากขึ้น${1}%
+20398	【Meteor Storm】 and 【Heaven's Drive】 deal ${1}% more damage.	[ Meteor Storm ] และ [ Heaven's Drive ] สร้างความเสียหายได้มากขึ้น${1}%
+20399	【Magic Crasher】 and 【Napalm Vulcan】 deal ${1}% more damage.	[ Magic Crasher ] และ [ Napalm Vulcan ] สร้างความเสียหายได้มากขึ้น${1}%
 20400	Create Lower-Right @{1} NPC @{2}-@{3} when the event begins	Create Lower-Right @{1} NPC @{2}-@{3} when the event begins
 20401	Off-hand cards are inactive while using a two-handed weapon	Off-hand cards are inactive while using a two-handed weapon
 20402	s@{1} Large Card Pool - Lv. @{2} (Special Novice Card Pool)	s@{1} Large Card Pool - Lv. @{2} (Special Novice Card Pool)
@@ -484,15 +484,15 @@
 20483	Only Soul Echoes from the current scenario can be deployed.	Only Soul Echoes from the current scenario can be deployed.
 20484	Wrong Job: The skill's job does not match the player's job.	Wrong Job: The skill's job does not match the player's job.
 20485	A Member is in a Dungeon. The party size cannot be changed.	A Member is in a Dungeon. The party size cannot be changed.
-20486	Increases the skill multiplier of 【Comet】 by ^{1}${1}%^{2}.	เพิ่มตัวคูณทักษะของ 【Comet】 โดย ^{1}${1}%^{2}
-20487	Permanently increases Physical ATK by ${1} and DEX by ${2}.	เพิ่ม ATK ทางกายภาพอย่างถาวรโดย${1}และ DEX โดย${2}
+20486	Increases the skill multiplier of 【Comet】 by ^{1}${1}%^{2}.	เพิ่มตัวคูณทักษะของ [ Comet ] โดย ^{1}${1}%^{2}
+20487	Permanently increases Physical ATK by ${1} and DEX by ${2}.	เพิ่ม P.ATKอย่างถาวรโดย${1}และ DEX โดย${2}
 20488	Purchase <color=#fe993f>30</color> days at once to receive:	Purchase <color=#fe993f>30</color> days at once to receive:
 20489	Cannot Enter another Dungeon during Placement confirmation.	Cannot Enter another Dungeon during Placement confirmation.
 20490	Guild Technology does not meet the Requirement to level up:	Guild Technology does not meet the Requirement to level up:
 20491	Gitan died long ago. Gitan has no regrets. Gitan isn't bad.	Gitan died long ago. Gitan has no regrets. Gitan isn't bad.
 20492	You are outside the barrier and continuously taking damage.	You are outside the barrier and continuously taking damage.
 20493	Maximum Floors of all your healing buffs increased by @{1}.	ชั้นสูงสุดของบัฟการรักษาทั้งหมดของคุณเพิ่มขึ้น@{1}
-20494	Magic damage buff: Each Floor increases Magic ATK by @{1}%.	บัฟความเสียหายเวทย์: แต่ละชั้นจะเพิ่ม ATK เวทย์มนตร์@{1}%
+20494	Magic damage buff: Each Floor increases Magic ATK by @{1}%.	บัฟM.DMGย์: แต่ละชั้นจะเพิ่ม M.ATKมนตร์@{1}%
 20495	Carry the aura of a blue note to dissolve the matching note	พกพาออร่าของโน้ตสีน้ำเงินเพื่อละลายโน้ตที่เข้ากัน
 20496	Burrows underground, becoming immune to damage and Debuffs.	โพรงใต้ดิน ต้านทานความเสียหายและดีบัฟ
 20497	Select a Divine Arts Totem Preset in the upper-right corner	Select a Divine Arts Totem Preset in the upper-right corner
@@ -503,7 +503,7 @@
 20502	A party Member has already joined another Adventurer Group.	A party Member has already joined another Adventurer Group.
 20503	You've reached today's limit for receiving gifted Crystals.	You've reached today's limit for receiving gifted Crystals.
 20504	The Party Leader selects a sapling and hangs the declaration	Party Leader เลือกต้นอ่อนและแขวนประกาศ
-20505	[Reserved] Participate in the Guild Bonfire event @{1} times	[Reserved] เข้าร่วมกิจกรรม BonfireGuild@{1}ครั้ง
+20505	[Reserved] Participate in the Guild Bonfire event @{1} times	[ Reserved ] เข้าร่วมกิจกรรม BonfireGuild@{1}ครั้ง
 20506	Find the Head Job Advance Mentor and begin your Job Advance.	ค้นหาหัวหน้าที่ปรึกษางานล่วงหน้า และเริ่มต้นงานของคุณล่วงหน้า
 20507	Choose your desired job and complete your first Job Advance.	เลือกงานที่คุณต้องการและทำ Job Advance ครั้งแรกให้เสร็จสิ้น
 20508	Learn about the Eden Group from the Head Job Advance Mentor.	เรียนรู้เกี่ยวกับ Eden Group จาก Head Job Advance Mentor
@@ -525,13 +525,13 @@
 20524	The caravan has departed. It will return after 5:00 Tomorrow	The caravan has departed. It will return after 5:00 Tomorrow
 20525	You cannot help load an item you submitted through Get Help.	You cannot help load an item you submitted through Get Help.
 20526	Party does not meet the required number of different classes	Party does not meet the required number of different classes
-20527	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra VIT +${1} and LUK +${2}.	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra VIT +${1}และ LUK +${2}.
+20527	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra VIT +${1} and LUK +${2}.	^{1}^{2}[ Crazy Uproar ]^{3}^{4}Extra VIT +${1}และ LUK +${2}.
 20528	Control effects cannot interrupt casting. Variable CT +@{1}%	เอฟเฟกต์การ Control ไม่สามารถขัดจังหวะการร่ายได้ตัวแปร CT +@{1}%
 20529	STR, INT, and DEX each increase by @{1} points for @{2} sec.	STR, INT และ DEX เพิ่มขึ้นแต่ละจุด@{1}สำหรับ@{2}วินาที
-20530	While ^{1}^{2}[Increase AGI]^{3}^{4} is active, ASPD +${1}%.	ในขณะที่ ^{1}^{2}[Increase AGI]^{3}^{4}ทำงานอยู่, ASPD +${1}%
-20531	For every ${1} INT, increases Magic ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}INT จะเพิ่ม Magic ATK ขึ้น${2}สูงสุด${3}
-20532	For every ${1} DEX, increases Magic ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}DEX จะเพิ่ม Magic ATK ขึ้น${2}สูงสุด${3}
-20533	【Storm Gust】 and 【Lord of Vermilion】 deal ${1}% more damage.	【Storm Gust】 และ 【Lord of Vermilion】 สร้างความเสียหายได้มากขึ้น${1}%
+20530	While ^{1}^{2}[Increase AGI]^{3}^{4} is active, ASPD +${1}%.	ในขณะที่ ^{1}^{2}[ Increase AGI ]^{3}^{4}ทำงานอยู่, ASPD +${1}%
+20531	For every ${1} INT, increases Magic ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}INT จะเพิ่ม M.ATK ขึ้น${2}สูงสุด${3}
+20532	For every ${1} DEX, increases Magic ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}DEX จะเพิ่ม M.ATK ขึ้น${2}สูงสุด${3}
+20533	【Storm Gust】 and 【Lord of Vermilion】 deal ${1}% more damage.	[ Storm Gust ] และ [ Lord of Vermilion ] สร้างความเสียหายได้มากขึ้น${1}%
 20534	Remove the normal brazier when the campfire reaches Lv. @{1}	Remove the normal brazier when the campfire reaches Lv. @{1}
 20535	Third-Prize Preview @{2} ms after Campfire Phase @{1} begins	Third-Prize Preview @{2} ms after Campfire Phase @{1} begins
 20536	First-Prize Preview @{2} ms after Campfire Phase @{1} begins	First-Prize Preview @{2} ms after Campfire Phase @{1} begins
@@ -626,15 +626,15 @@
 20625	This is already the same Party type. No conversion is needed.	This is already the same Party type. No conversion is needed.
 20626	Former Guild Names: ${1}; ${2}; ${3}; ${4}; ${5} (Deprecated)	Former Guild Names: ${1}; ${2}; ${3}; ${4}; ${5} (Deprecated)
 20627	You can only Get Help for this item 1 time every ${1} minutes	You can only Get Help for this item 1 time every ${1} minutes
-20628	^{1}^{2}[Maximize Power]^{3}^{4} Increases your PATK by ${1}.	^{1}^{2}[Maximize Power]^{3}^{4}เพิ่ม PATK ของคุณโดย${1}
+20628	^{1}^{2}[Maximize Power]^{3}^{4} Increases your PATK by ${1}.	^{1}^{2}[ Maximize Power ]^{3}^{4}เพิ่ม P.ATK ของคุณโดย${1}
 20629	Control effects cannot interrupt casting. Variable CT +@{1}%.	เอฟเฟกต์การ Control ไม่สามารถขัดจังหวะการร่ายได้ CT ตัวแปร +@{1}%
-20630	When hit, Deals Physical damage. Nearby enemies are affected.	เมื่อถูกโจมตี สร้างความเสียหายทางกายภาพศัตรูที่อยู่ใกล้เคียงจะได้รับผลกระทบ
-20631	Increases your and your allies' Movement Speed and HP recover	เพิ่มความเร็วในการเคลื่อนที่ของคุณและพันธมิตรและการฟื้นฟู HP
+20630	When hit, Deals Physical damage. Nearby enemies are affected.	เมื่อถูกโจมตี สร้างP.DMGศัตรูที่อยู่ใกล้เคียงจะได้รับผลกระทบ
+20631	Increases your and your allies' Movement Speed and HP recover	เพิ่มMSPDของคุณและพันธมิตรและการฟื้นฟู HP
 20632	Reduces damage taken by @{1}% after entering a relay station.	ลดความเสียหายที่ได้รับโดย@{1}% หลังจากเข้าสู่สถานีรีเลย์
 20633	Immune to damage for up to @{1} sec. Ends upon using a skill.	ภูมิคุ้มกันต่อความเสียหายสูงสุด@{1}วินาทีสิ้นสุดเมื่อใช้ทักษะ
 20634	To enter the game, check the box to agree to the terms below.	To enter the game, check the box to agree to the terms below.
-20635	When ^{1}^{2}[Assumptio]^{3}^{4} reaches Lv. ${1}, VIT +${2}.	เมื่อ ^{1}^{2}[Assumptio]^{3}^{4}ถึง Lv.${1}, VIT +${2}.
-20636	^{1}^{2}[Adrenaline Rush]^{3}^{4} grants an Extra ${1}% ASPD.	^{1}^{2}[Adrenaline Rush]^{3}^{4}ให้${1}% ASPD พิเศษ
+20635	When ^{1}^{2}[Assumptio]^{3}^{4} reaches Lv. ${1}, VIT +${2}.	เมื่อ ^{1}^{2}[ Assumptio ]^{3}^{4}ถึง Lv.${1}, VIT +${2}.
+20636	^{1}^{2}[Adrenaline Rush]^{3}^{4} grants an Extra ${1}% ASPD.	^{1}^{2}[ Adrenaline Rush ]^{3}^{4}ให้${1}% ASPD พิเศษ
 20637	Create an Advanced Brazier when the Campfire reaches Lv. @{1}	Create an Advanced Brazier when the Campfire reaches Lv. @{1}
 20638	Second-Prize Preview @{2} ms after Campfire Phase @{1} begins	Second-Prize Preview @{2} ms after Campfire Phase @{1} begins
 20639	Program @{3} Preview @{2} ms after Campfire Phase @{1} begins	Program @{3} Preview @{2} ms after Campfire Phase @{1} begins
@@ -705,7 +705,7 @@
 20704	When a dagger is equipped, Attack Speed +@{1}% and AGI +@{2}.	เมื่อติดตั้งกริช ความเร็วโจมตี +@{1}% และ AGI +@{2}
 20705	Carry the aura of a yellow note to dissolve the matching note	พกพาออร่าของโน้ตสีเหลืองละลายโน้ตที่เข้ากัน
 20706	Only the Party Leader can invite the party to Party Training.	Only the Party Leader can invite the party to Party Training.
-20707	Inflicted by Baphomet Jr. Reduces this unit's Movement Speed.	สร้างความเสียหายโดย Baphomet Jr. ลดความเร็วในการเคลื่อนที่ของยูนิตนี้
+20707	Inflicted by Baphomet Jr. Reduces this unit's Movement Speed.	สร้างความเสียหายโดย Baphomet Jr. ลดMSPDของยูนิตนี้
 20708	Increases Ghost damage dealt by @{1}% and Cast Speed by @{2}.	เพิ่มความเสียหายของ Ghost ที่สร้างโดย@{1}% และความเร็วในการร่ายโดย@{2}
 20709	You Discover hidden enemy targets within a ${1}-meter radius.	คุณค้นพบเป้าหมายศัตรูที่ซ่อนอยู่ภายในรัศมี${1}เมตร
 20710	Launch water blades in the direction of the giant waterspout.	ปล่อยใบพัดน้ำไปในทิศทางของรางน้ำขนาดยักษ์
@@ -734,10 +734,10 @@
 20733	[Guild Recruitment]【${1}】 is recruiting: ${2}【Request to Join】	[Guild Recruitment]【${1}】 is recruiting: ${2}【Request to Join】
 20734	Loading more goods grants more Additional rewards. Depart now?	Loading more goods grants more Additional rewards. Depart now?
 20735	You've already placed a bet on a Lucky Star. Don't get greedy!	You've already placed a bet on a Lucky Star. Don't get greedy!
-20736	This shield absorbs Physical damage equal to Magic ATK *${1}%.	โล่นี้ดูดซับความเสียหายทางกายภาพเท่ากับ Magic ATK *${1}%
-20737	^{1}^{2}【Cart Boost】^{3}^{4} duration is extended by ${1} sec.	^{1}^{2}【Cart Boost】^{3}^{4}ระยะเวลาถูกขยายโดย${1}วินาที
+20736	This shield absorbs Physical damage equal to Magic ATK *${1}%.	โล่นี้ดูดซับP.DMGเท่ากับ M.ATK *${1}%
+20737	^{1}^{2}【Cart Boost】^{3}^{4} duration is extended by ${1} sec.	^{1}^{2}[ Cart Boost ]^{3}^{4}ระยะเวลาถูกขยายโดย${1}วินาที
 20738	Skills @{1}–@{2} have already been used. Don't use them again.	@{1}–@{2}ได้ถูกใช้งานแล้ว อย่าใช้มันอีก
-20739	Kill Dragon monsters to restore @{1} MP. No internal Cooldown.	Kill มอนสเตอร์มังกรเพื่อฟื้นฟู MP ของ@{1}ไม่มีคูลดาวน์ภายใน
+20739	Kill Dragon monsters to restore @{1} MP. No internal Cooldown.	Kill มอนสเตอร์มังกรเพื่อฟื้นฟู MP ของ@{1}ไม่มีCDภายใน
 20740	Become immune to all debuffs and control effects for @{1} sec.	ต้านทานดีบัฟและเอฟเฟกต์การควบคุมทั้งหมดเป็นเวลา@{1}วินาที
 20741	Hide-and-Seek status. Revealed after taking damage @{1} times.	สถานะ Hide-and-Seek เผยตัวหลังจากได้รับความเสียหาย@{1}แล้ว
 20742	Each stack increases damage taken by @{1}%, up to @{2} stacks.	แต่ละสแต็กจะเพิ่มความเสียหายที่ได้รับโดย@{1}% สูงสุดถึง@{2}สแต็ค
@@ -745,7 +745,7 @@
 20744	You are not connected to Wi-Fi. Download the resources anyway?	You are not connected to Wi-Fi. Download the resources anyway?
 20745	You can enter the game once the resource download is complete.	You can enter the game once the resource download is complete.
 20746	Dance Machine_Remove Transform Buff[Consecutive Transform Fix]	Dance Machine_Remove Transform Buff[Consecutive Transform Fix]
-20747	^{1}^{2}[Magnus Exorcismus]^{3}^{4} Variable CT -${1} seconds.	^{1}^{2}[Magnus Exorcismus]^{3}^{4}CT ตัวแปร -${1}วินาที
+20747	^{1}^{2}[Magnus Exorcismus]^{3}^{4} Variable CT -${1} seconds.	^{1}^{2}[ Magnus Exorcismus ]^{3}^{4}CT ตัวแปร -${1}วินาที
 20748	When HP is above ${1}%, increases healing efficiency by ${2}%.	เมื่อ HP มากกว่า${1}% จะเพิ่มประสิทธิภาพการรักษาขึ้น${2}%
 20749	Wind/Earth/Water/Fire/Neutral/Ghost damage increases by ${1}%.	ความเสียหายจากลม/ดิน/น้ำ/ไฟ/เป็นกลาง/ผี เพิ่มขึ้น${1}%
 20750	The whirlpool's coming! Group up and watch out for pufferfish!	The whirlpool's coming! Group up and watch out for pufferfish!
@@ -796,15 +796,15 @@
 20795	Nicknames cannot contain special characters. Please try again.	Nicknames cannot contain special characters. Please try again.
 20796	After use, increases DMG Reduction by @{1}% and grants Endure.	หลังการใช้งาน เพิ่มการลด DMG ขึ้น@{1}% และมอบ Endure
 20797	New evil spirit possession—pretend there's a cross behind you.	วิญญาณชั่วร้ายครอบครองใหม่—แกล้งทำเป็นว่ามีไม้กางเขนอยู่ข้างหลังคุณ
-20798	Deals ${1}% Neutral Physical damage to the specified ST target	สร้างความเสียหายทางกายภาพที่เป็นกลาง${1}% ไปยังเป้าหมาย ST ที่ระบุ
+20798	Deals ${1}% Neutral Physical damage to the specified ST target	สร้างP.DMGที่เป็นกลาง${1}% ไปยังเป้าหมาย Single Target ที่ระบุ
 20799	The item has been refreshed. Refresh the screen and try again.	The item has been refreshed. Refresh the screen and try again.
 20800	${1} failed to ready up and cannot start matchmaking for ${2}.	${1} failed to ready up and cannot start matchmaking for ${2}.
 20801	<color=#594E3D>Points:</color>${1}<color=#594E3D>/${2}</color>	<color=#594E3D>Points:</color>${1}<color=#594E3D>/${2}</color>
 20802	Are you sure you want to remove ${1} from the Adventure Group?	Are you sure you want to remove ${1} from the Adventure Group?
 20803	A teammate is trapped inside a Bell! Hurry and smash the Bell!	A teammate is trapped inside a Bell! Hurry and smash the Bell!
 20804	While above @{1}% Life, healing efficiency increased by @{2}%.	ในขณะที่มากกว่า@{1}% พลัง Life ประสิทธิภาพการรักษาเพิ่มขึ้นอีก@{2}%
-20805	Increases the Physical ATK granted by 【Deadly Poison】 by ${1}.	เพิ่ม ATK ทางกายภาพที่ได้รับจาก 【Deadly Poison】 โดย${1}
-20806	Shield: Absorbs total damage equal to ${1}% of your Magic ATK.	: ดูดซับความเสียหายทั้งหมดเท่ากับ${1}% ของพลังโจมตีเวทย์มนตร์ของคุณ
+20805	Increases the Physical ATK granted by 【Deadly Poison】 by ${1}.	เพิ่ม P.ATKที่ได้รับจาก [ Deadly Poison ] โดย${1}
+20806	Shield: Absorbs total damage equal to ${1}% of your Magic ATK.	: ดูดซับความเสียหายทั้งหมดเท่ากับ${1}% ของM.ATKมนตร์ของคุณ
 20807	Granted by Angel Popo. Increases this unit's healing received.	ได้รับจาก Angel Popo เพิ่มการรักษาที่ได้รับของยูนิตนี้
 20808	Increases damage reduction from Medium Monsters by ${1}%~${2}%	เพิ่มการลดความเสียหายจากมอนสเตอร์ขนาดกลางโดย${1}%~${2}%
 20809	After a @{1}-second warning, Launch a Dark Pulse at one player	หลังจากการเตือนครั้งที่สองของ@{1}ให้เปิด Dark Pulse ไปที่ผู้เล่นหนึ่งคน
@@ -828,20 +828,20 @@
 20827	Go to the designated area in ${1} and use the ${2} Emote/Action	Go to the designated area in ${1} and use the ${2} Emote/Action
 20828	You must Join a guild at least ${1} days before you can Impeach	You must Join a guild at least ${1} days before you can Impeach
 20829	The Impeachment of Guild Leader ${1} was automatically canceled	The Impeachment of Guild Leader ${1} was automatically canceled
-20830	Every @{1} HIT increases Physical damage by @{2}%, up to @{3}%.	ทุกๆ ครั้งของ@{1}HIT จะเพิ่มความเสียหายทางกายภาพขึ้น@{2}% สูงสุดถึง@{3}%
+20830	Every @{1} HIT increases Physical damage by @{2}%, up to @{3}%.	ทุกๆ ครั้งของ@{1}HIT จะเพิ่มP.DMGขึ้น@{2}% สูงสุดถึง@{3}%
 20831	@{1}~@{2} Do Not Use—buff used to implement the card's Function	@{1}~@{2}Do Not Use—บัฟใช้เพื่อใช้งานฟังก์ชันของการ์ด
-20832	Increases your and your allies' Movement Speed and Attack Speed	เพิ่มความเร็วในการเคลื่อนที่และความเร็วในการโจมตีของคุณและเพื่อนของคุณ
-20833	Reveals enemies in ^{1}【Hiding】^{2} within a @{1}-meter radius.	เผยศัตรูใน ^{1}【Hiding】^{2}ภายในรัศมี@{1}เมตร
+20832	Increases your and your allies' Movement Speed and Attack Speed	เพิ่มMSPDและASPDของคุณและเพื่อนของคุณ
+20833	Reveals enemies in ^{1}【Hiding】^{2} within a @{1}-meter radius.	เผยศัตรูใน ^{1}[ Hiding ]^{2}ภายในรัศมี@{1}เมตร
 20834	Carrying a cannonball that can be loaded into a repaired Turret	บรรทุกลูกกระสุนปืนใหญ่ที่สามารถบรรจุลงใน Turret ที่ซ่อมแซมแล้ว
 20835	A new version is available. Please update the game to continue.	A new version is available. Please update the game to continue.
 20836	Earn ${1} Extra Battle Merit Points to advance to the next rank	Earn ${1} Extra Battle Merit Points to advance to the next rank
 20837	For every @{1} additional Stunt on all equipped gear, VIT +${1}	สำหรับการแสดงความสามารถเพิ่มเติมของ@{1}ในทุกอุปกรณ์ที่ติดตั้ง VIT +${1}
-20838	Every ${1} HIT increases Physical damage by ${2}%, up to ${3}%.	ทุกๆ ครั้งของ${1}HIT จะเพิ่มความเสียหายทางกายภาพขึ้น${2}% สูงสุดถึง${3}%
+20838	Every ${1} HIT increases Physical damage by ${2}%, up to ${3}%.	ทุกๆ ครั้งของ${1}HIT จะเพิ่มP.DMGขึ้น${2}% สูงสุดถึง${3}%
 20839	Unique Effect: CRIT RES +${1}. Each stack grants an Extra ${2}.	เอฟเฟกต์พิเศษ: CRIT RES +${1}แต่ละสแต็กให้สิทธิ์ Extra${2}
-20840	For every ${1} STR, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}STR จะเพิ่ม ATK กายภาพขึ้น${2}สูงสุด${3}
-20841	For every ${1} AGI, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}AGI จะเพิ่ม ATK กายภาพขึ้น${2}สูงสุด${3}
-20842	For every ${1} LUK, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}LUK จะเพิ่ม ATK กายภาพขึ้น${2}สูงสุด${3}
-20843	For every ${1} DEX, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}DEX จะเพิ่ม ATK ทางกายภาพขึ้น${2}สูงสุด${3}
+20840	For every ${1} STR, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}STR จะเพิ่ม P.ATKขึ้น${2}สูงสุด${3}
+20841	For every ${1} AGI, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}AGI จะเพิ่ม P.ATKขึ้น${2}สูงสุด${3}
+20842	For every ${1} LUK, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}LUK จะเพิ่ม P.ATKขึ้น${2}สูงสุด${3}
+20843	For every ${1} DEX, increases Physical ATK by ${2}, up to ${3}.	สำหรับทุก ๆ${1}DEX จะเพิ่ม P.ATKขึ้น${2}สูงสุด${3}
 20844	Destroy any existing small Porings when drawing prize tier @{1}	Destroy any existing small Porings when drawing prize tier @{1}
 20845	In Auto mode, skills are cast automatically in the order shown.	In Auto mode, skills are cast automatically in the order shown.
 20846	You're sending messages too frequently. Please try again later.	You're sending messages too frequently. Please try again later.
@@ -897,16 +897,16 @@
 20896	The maximum number of Siege Camps in this area has been reached	The maximum number of Siege Camps in this area has been reached
 20897	After use, increases the selected Guild Battlefield Boss's DEF.	หลังการใช้งาน เพิ่ม DEF ของ Guild Battlefield Boss ที่เลือก
 20898	Summons up to @{1} guild members on the same map to the caster.	เรียกสมาชิกกิลด์@{1}สูงสุดบนแผนที่เดียวกันให้ผู้ร่าย
-20899	【Shield Block】's DEF and MDEF bonuses increase by ^{1}${1}%^{2}	【Shield Block】 โบนัส DEF และ MDEF เพิ่มขึ้น ^{1}${1}%^{2}
+20899	【Shield Block】's DEF and MDEF bonuses increase by ^{1}${1}%^{2}	[ Shield Block ] โบนัส DEF และ M.DEF เพิ่มขึ้น ^{1}${1}%^{2}
 20900	Can be used after leaving Battle Status to slowly restore Life.	สามารถใช้ได้หลังจากออกจากสถานะการต่อสู้เพื่อฟื้นฟูพลัง Life อย่างช้าๆ
 20901	Reapplying the Monthly Pass will extend it by 30 days. Reapply?	Reapplying the Monthly Pass will extend it by 30 days. Reapply?
 20902	Max Adventure Guild applications: <color=${3}>${1}</color>/${2}	Max Adventure Guild applications: <color=${3}>${1}</color>/${2}
 20903	Healing buff: Each Floor increases healing efficiency by @{1}%.	: แต่ละชั้นจะเพิ่มประสิทธิภาพการรักษาขึ้น@{1}%
-20904	Each CRIT with 【Advanced Katar Mastery】 now grants ${1} Floors.	แต่ละ CRIT ที่มี 【Advanced Katar Mastery】 จะได้รับพื้น${1}แล้ว
+20904	Each CRIT with 【Advanced Katar Mastery】 now grants ${1} Floors.	แต่ละ CRIT ที่มี [ Advanced Katar Mastery ] จะได้รับพื้น${1}แล้ว
 20905	${1} is currently used in a build. Use it for synthesis anyway?	${1} is currently used in a build. Use it for synthesis anyway?
 20906	The requester deleted their Get Help request. Unable to submit.	The requester deleted their Get Help request. Unable to submit.
-20907	Reduces Ranged Physical damage taken by ${2}% for ${3} seconds.	ลดความเสียหายทางกายภาพระยะไกลที่ได้รับโดย${2}% เป็นเวลา${3}วินาที
-20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}MATK สูงสุด ^{3}${2}^{4} สแต็ก
+20907	Reduces Ranged Physical damage taken by ${2}% for ${3} seconds.	ลดP.DMGระยะไกลที่ได้รับโดย${2}% เป็นเวลา${3}วินาที
+20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}M.ATK สูงสุด ^{3}${2}^{4} สแต็ก
 20909	Are you sure you want to Apply to Support this Adventure Guild?	Are you sure you want to Apply to Support this Adventure Guild?
 20910	You're performing actions too frequently. Please try again later	You're performing actions too frequently. Please try again later
 20911	[Rift Crisis] Special Commendation has reached This Week's Limit	[Rift Crisis] Special Commendation has reached This Week's Limit
@@ -929,11 +929,11 @@
 20928	Are you sure you want to remove the selected ${1} Guild Members?	Are you sure you want to remove the selected ${1} Guild Members?
 20929	Leave this screen?\nLeaving will automatically cancel your edits	Leave this screen?\nLeaving will automatically cancel your edits
 20930	[Caravan Help] ${1} posted a request for ${2}X${3} [Tap to Help]	[Caravan Help] ${1} posted a request for ${2}X${3} [Tap to Help]
-20931	^{1}^{2}【Cart Revolution】^{3}^{4}CRIT Chance increases by ${1}%.	^{1}^{2}【Cart Revolution】^{3}^{4}โอกาส CRIT เพิ่มขึ้น${1}%
+20931	^{1}^{2}【Cart Revolution】^{3}^{4}CRIT Chance increases by ${1}%.	^{1}^{2}[ Cart Revolution ]^{3}^{4}โอกาส CRIT เพิ่มขึ้น${1}%
 20932	Check whether this is needed; currently, it doesn't appear to be	ตรวจสอบว่าจำเป็นหรือไม่ปัจจุบันดูเหมือนจะไม่เป็นเช่นนั้น
 20933	Continually weakens, causing damage taken to increase over time.	อ่อนกำลังลงอย่างต่อเนื่อง ทำให้ความเสียหายที่ได้รับเพิ่มขึ้นเมื่อเวลาผ่านไป
 20934	Failed to enter the area. You have been transported to Prontera.	Failed to enter the area. You have been transported to Prontera.
-20935	When ^{1}^{2}[Mace Mastery]^{3}^{4} reaches Lv. ${1}, STR +${2}.	เมื่อ ^{1}^{2}[Mace Mastery]^{3}^{4}ถึง Lv.${1}, STR +${2}.
+20935	When ^{1}^{2}[Mace Mastery]^{3}^{4} reaches Lv. ${1}, STR +${2}.	เมื่อ ^{1}^{2}[ Mace Mastery ]^{3}^{4}ถึง Lv.${1}, STR +${2}.
 20936	Maya ^{1}slashes in front of and behind herself^{2} in sequence.	Maya ^{1}slashes in front of and behind herself^{2} in sequence.
 20937	Based on an analysis of the strange fluctuations in the Ant Hell	Based on an analysis of the strange fluctuations in the Ant Hell
 20938	Gospel Resonance is unaffected by Counters and other Resonances.	Gospel Resonance is unaffected by Counters and other Resonances.
@@ -993,7 +993,7 @@
 20992	Your Backpack is overweight. You cannot carry any more supplies.	Your Backpack is overweight. You cannot carry any more supplies.
 20993	Star Shift will strike in ${1} seconds! Keep moving to dodge it!	Star Shift will strike in ${1} seconds! Keep moving to dodge it!
 20994	Increases your Crit by @{1} for @{2} seconds, up to @{3} stacks.	เพิ่ม Crit ของคุณขึ้น@{1}เป็นเวลา@{2}วินาที สูงสุดถึง@{3}stacks
-20995	Each floor grants a ^{1}【Shield】^{2} equal to @{1}% of Max Life.	แต่ละชั้นจะได้รับ ^{1}【Shield】^{2}เท่ากับ@{1}% ของพลัง Life สูงสุด
+20995	Each floor grants a ^{1}【Shield】^{2} equal to @{1}% of Max Life.	แต่ละชั้นจะได้รับ ^{1}[ Shield ]^{2}เท่ากับ@{1}% ของพลัง Life สูงสุด
 20996	Your guild is not yet ranked, so there are no rewards available!	Your guild is not yet ranked, so there are no rewards available!
 20997	After a brief cast, strikes players within the current grid area	หลังจากร่ายช่วงสั้นๆ จะโจมตีผู้เล่นที่อยู่ในพื้นที่ตารางปัจจุบัน
 20998	[Rift Crisis] Commendation Gift Box has reached This Week's Limit	[Rift Crisis] Commendation Gift Box has reached This Week's Limit

@@ -107,7 +107,7 @@
 19106	Strikes the currently targeted player in the grid	โจมตีผู้เล่นที่เป็นเป้าหมายในตาราง
 19107	Cross-shaped AoE, vertical first, then horizontal	AoE รูปกากบาท แนวตั้งก่อน แล้วจึงแนวนอน
 19108	Cross-shaped AoE, first vertical, then horizontal	AoE รูปกากบาท แนวตั้งแรก จากนั้นเป็นแนวนอน
-19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}【Reading】^{3}^{4} สถานะ
+19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}[ Reading ]^{3}^{4} สถานะ
 19110	Unable to find the Luxury Dragon configuration ID	Unable to find the Luxury Dragon configuration ID
 19111	Equipment in this Equipment Preset does not exist	Equipment in this Equipment Preset does not exist
 19112	Attempted to remove a player who is not a friend.	Attempted to remove a player who is not a friend.
@@ -115,7 +115,7 @@
 19114	Enter the Adventure Guild recruitment declaration	Enter the Adventure Guild recruitment declaration
 19115	You must leave your party to enter Solo Training.	You must leave your party to enter Solo Training.
 19116	You must link a System build before replacing it.	You must link a System build before replacing it.
-19117	Physical ATK increases by ${1}% for ${2} seconds.	พลังโจมตีทางกายภาพเพิ่มขึ้น${1}% เป็นเวลา${2}วินาที
+19117	Physical ATK increases by ${1}% for ${2} seconds.	P.ATKเพิ่มขึ้น${1}% เป็นเวลา${2}วินาที
 19118	Increases damage dealt by ${1}% for ${2} seconds.	เพิ่มความเสียหายที่เกิดขึ้น${1}% เป็นเวลา${2}วินาที
 19119	Creates a Dark Field underfoot after @{1} seconds	สร้างสนามมืดใต้ฝ่าเท้าหลังจาก@{1}วินาที
 19120	Reveals hidden targets within a @{1}-meter radius	เผยเป้าหมายที่ซ่อนอยู่ภายในรัศมี@{1}เมตร
@@ -129,7 +129,7 @@
 19128	Equip @{1} pieces of Orange Quality or higher gear	ติดตั้งชิ้นส่วน@{1}สีส้มคุณภาพหรือสูงกว่า
 19129	Have @{1} Enchants on equipped Purple Quality gear	มี Enchant ของ@{1}บนอุปกรณ์คุณภาพสีม่วงที่ติดตั้ง
 19130	Deploy @{1} Totem Skills of Blue Quality or higher	ปรับใช้ทักษะโทเท็ม@{1}คุณภาพสีน้ำเงินหรือสูงกว่า
-19131	[Reserved] Participate in Guild Auction @{1} times	[Reserved] ร่วมประมูล Guild@{1}ครั้ง
+19131	[Reserved] Participate in Guild Auction @{1} times	[ Reserved ] ร่วมประมูล Guild@{1}ครั้ง
 19132	Rescue the Novice Swordsman surrounded by Rockers.	ช่วยเหลือ Swordsman มือใหม่ที่รายล้อมไปด้วย Rockers
 19133	Enter the banquet hall and listen to Jax's speech.	เข้าไปในห้องจัดเลี้ยงและฟังคำพูดของแจ็กซ์
 19134	Ask Hollgrehenn what he remembers about the theft.	ถาม Hollgrehenn ว่าเขาจำอะไรเกี่ยวกับการโจรกรรมได้บ้าง
@@ -280,8 +280,8 @@
 19279	Attempted to remove a player who is not in Blocks.	Attempted to remove a player who is not in Blocks.
 19280	Can anyone help me find a four-leaf Lucky Clover?!	Can anyone help me find a four-leaf Lucky Clover?!
 19281	Welcome to the Oak Inn! Do you have a reservation?	Welcome to the Oak Inn! Do you have a reservation?
-19282	After a player Kill, Magic ATK increased by @{1}%.	หลังจากที่ผู้เล่นสังหารได้ พลังโจมตีเวทย์เพิ่มขึ้น@{1}%
-19283	【Double Attack】 trigger Chance increased by ${1}%.	【Double Attack】 โอกาสทริกเกอร์เพิ่มขึ้นโดย${1}%
+19282	After a player Kill, Magic ATK increased by @{1}%.	หลังจากที่ผู้เล่นสังหารได้ M.ATKเพิ่มขึ้น@{1}%
+19283	【Double Attack】 trigger Chance increased by ${1}%.	[ Double Attack ] โอกาสทริกเกอร์เพิ่มขึ้นโดย${1}%
 19284	After dealing damage, increases your DEF by @{1}%.	หลังจากสร้างความเสียหาย เพิ่ม DEF ของคุณขึ้น@{1}%
 19285	Overconcentration increases damage taken by @{1}%.	ความเข้มข้นมากเกินไปจะเพิ่มความเสียหายที่ได้รับโดย@{1}%
 19286	Looping VFX for the stone blade left on the ground	Looping VFX สำหรับใบมีดหินที่เหลืออยู่บนพื้น
@@ -291,13 +291,13 @@
 19290	Increases damage taken from all elements by @{1}%.	เพิ่มความเสียหายที่ได้รับจากองค์ประกอบทั้งหมด@{1}%
 19291	Increases damage dealt with all elements by @{1}%.	เพิ่มความเสียหายที่สร้างกับองค์ประกอบทั้งหมดโดย@{1}%
 19292	Creates a Light Field underfoot after @{1} seconds	สร้างสนามแสงใต้ฝ่าเท้าหลังจาก@{1}วินาที
-19293	Increases Magic ATK by ${1} and Cast Speed by ${2}	เพิ่ม Magic ATK โดย${1}และความเร็วในการร่ายโดย${2}
+19293	Increases Magic ATK by ${1} and Cast Speed by ${2}	เพิ่ม M.ATK โดย${1}และความเร็วในการร่ายโดย${2}
 19294	Spin with a Dance Move and stomp the music circles	หมุนตัวด้วย Dance Move และกระทืบวงการดนตรี
 19295	Changing the language requires a restart. Continue?	Changing the language requires a restart. Continue?
 19296	Monster Selects Players Regardless of Line of Sight	Monster Selects Players Regardless of Line of Sight
 19297	^{1}Use the Grappling Hook to Restrain Almakia!^{2}	^{1}ใช้ตะขอเกี่ยวเพื่อควบคุมอัลมาเกีย!^{2}
 19298	Activate @{1} Soul Resonances at Lv. @{2} or higher	เปิดใช้งาน@{1}Soul Resonances ที่ Lv.@{2}หรือสูงกว่า
-19299	[Reserved] Participate in Guild Blessing @{1} times	[Reserved] เข้าร่วม Guild Blessing@{1}ครั้ง
+19299	[Reserved] Participate in Guild Blessing @{1} times	[ Reserved ] เข้าร่วม Guild Blessing@{1}ครั้ง
 19300	Having completed the initial trial, report to Rein.	หลังจากเสร็จสิ้นการทดลองเบื้องต้นแล้ว ให้รายงานต่อ Rein
 19301	Ask the Adventurer about the Black Market Merchant.	ถาม Adventurer เกี่ยวกับพ่อค้าในตลาดมืด
 19302	Z is taking a while. Pet the kitten while you wait.	Z ใช้เวลาสักครู่ลูบไล้ลูกแมวในขณะที่คุณรอ
@@ -449,7 +449,7 @@
 19448	Ask the professor about the results of the research.	ถามอาจารย์เกี่ยวกับผลการวิจัย
 19449	Drop Test @{1}-Entire Server Limit-Limit Replacement	Drop Test @{1}-Entire Server Limit-Limit Replacement
 19450	Hidden Treasure-Additional rewards-Basic Chest Limit	Hidden Treasure-Additional rewards-Basic Chest Limit
-19451	【Watering】 Water the Adventure Party's sapling once.	【Watering】 รดน้ำต้นอ่อนของ Adventure Party หนึ่งครั้ง
+19451	【Watering】 Water the Adventure Party's sapling once.	[ Watering ] รดน้ำต้นอ่อนของ Adventure Party หนึ่งครั้ง
 19452	Go To Prontera and visit the Head Job Advance Mentor	ไปที่ Prontera และเยี่ยมชม Head Job Advance Mentor
 19453	Ask Rhine how to use the equipment you just obtained	ถาม Rhine ถึงวิธีใช้อุปกรณ์ที่คุณเพิ่งได้มา
 19454	Turn in the request to Rhine and receive your reward	ส่งคำขอไปยัง Rhine และรับรางวัลของคุณ
@@ -484,10 +484,10 @@
 19483	Current guild position does not meet the requirement	Current guild position does not meet the requirement
 19484	Strength +${1}, Dexterity +${2}, Intelligence +${3}.	ความแข็งแกร่ง +${1}, ความคล่องตัว +${2}, ความฉลาด +${3}.
 19485	Increases Physical Attack and Magic Attack by @{1}%.	เพิ่มการโจมตีทางกายภาพและการโจมตีเวทย์โดย@{1}%
-19486	At ^{1}^{2}【Blitz Beat】^{3}^{4} Lv. ${1}, DEX +${2}.	ที่ ^{1}^{2}【Blitz Beat】^{3}^{4}Lv.${1}, DEX +${2}.
+19486	At ^{1}^{2}【Blitz Beat】^{3}^{4} Lv. ${1}, DEX +${2}.	ที่ ^{1}^{2}[ Blitz Beat ]^{3}^{4}Lv.${1}, DEX +${2}.
 19487	Allows use of ^{1}^{2}Divine Light Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Divine Light Lv.@{1}^{3}^{4}
 19488	Allows use of ^{1}^{2}Magnum Break Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Magnum Break Lv.@{1}^{3}^{4}
-19489	Increases Magic-Breaking Curse by [your Lv. * ${1}].	เพิ่ม Magic-Breaking Curse ตาม [your Lv. * ${1}]
+19489	Increases Magic-Breaking Curse by [your Lv. * ${1}].	เพิ่ม Magic-Breaking Curse ตาม [ your Lv. * ${1} ]
 19490	${1}/${2}/${3} ${4}:${5}\n~${6}/${7}/${8} ${9}:${10}	${1}/${2}/${3} ${4}:${5}\n~${6}/${7}/${8} ${9}:${10}
 19491	Do not accept Guild Voice invitations for 10 minutes	Do not accept Guild Voice invitations for 10 minutes
 19492	Unable to join this channel. Please try again later.	Unable to join this channel. Please try again later.
@@ -569,7 +569,7 @@
 19568	Maximum number of simultaneous Interactions reached.	Maximum number of simultaneous Interactions reached.
 19569	Pick up the Dragon Scales dropped by the fire dragon	หยิบ Dragon Scales ที่มังกรไฟทิ้งเอาไว้
 19570	Discard the Dragon Scales dropped by the fire dragon	ทิ้ง Dragon Scales ที่มังกรไฟทิ้งไป
-19571	Removes the ^{1}【Poisoned】^{2} status from yourself.	Removes สถานะ ^{1}【Poisoned】^{2}ออกจากตัวคุณเอง
+19571	Removes the ^{1}【Poisoned】^{2} status from yourself.	Removes สถานะ ^{1}[ Poisoned ]^{2}ออกจากตัวคุณเอง
 19572	Backpack is full. @{1}-star cards cannot be advanced	Backpack is full. @{1}-star cards cannot be advanced
 19573	This card has already had a Level-up or Star Upgrade	This card has already had a Level-up or Star Upgrade
 19574	This action cannot be performed during Guild League.	This action cannot be performed during Guild League.
@@ -577,13 +577,13 @@
 19576	Cannot start matchmaking while in Cross-server mode.	Cannot start matchmaking while in Cross-server mode.
 19577	As the seal weakens, monsters emerge into the world.	As the seal weakens, monsters emerge into the world.
 19578	You can only spectate teammates who are still alive!	You can only spectate teammates who are still alive!
-19579	Mastery of riding increases Movement Speed by @{1}%.	ความชำนาญในการขี่จะเพิ่มความเร็วในการเคลื่อนที่ขึ้น@{1}%
+19579	Mastery of riding increases Movement Speed by @{1}%.	ความชำนาญในการขี่จะเพิ่มMSPDขึ้น@{1}%
 19580	Select an Equipment Preset in the upper-right corner	Select an Equipment Preset in the upper-right corner
 19581	This preset is being configured and cannot be viewed	This preset is being configured and cannot be viewed
 19582	Your selected build has not been saved. Exit anyway?	Your selected build has not been saved. Exit anyway?
 19583	Inflicts Blind, reducing Physical/Magic DEF by @{1}%	ทำให้ตาบอด ลด DEF กายภาพ/เวทมนตร์ลง@{1}%
 19584	Physical DEF increased by ${1} and Magic DEF by ${2}	Physical DEF เพิ่มขึ้น${1}และ Magic DEF เพิ่มขึ้น${2}
-19585	Magic ATK increased by ${1} and Physical ATK by ${2}	Magic ATK เพิ่มขึ้น${1}และ Physical ATK เพิ่มขึ้น${2}
+19585	Magic ATK increased by ${1} and Physical ATK by ${2}	M.ATK เพิ่มขึ้น${1}และ P.ATK เพิ่มขึ้น${2}
 19586	Are you sure you want to create the Adventure Group?	Are you sure you want to create the Adventure Group?
 19587	Players ranked ${1} or higher placed the correct bet	Players ranked ${1} or higher placed the correct bet
 19588	Space has stabilized, and this rift has been quelled.	Space has stabilized, and this rift has been quelled.
@@ -633,10 +633,10 @@
 19632	Equip ${1} skills of ${1} quality or higher to Totems	Equip ${1} skills of ${1} quality or higher to Totems
 19633	The guild announcement contains inappropriate content	The guild announcement contains inappropriate content
 19634	Each stack grants a shield equal to @{1}% of Max Life	แต่ละสแต็กมอบโล่เท่ากับ@{1}% ของพลัง Life สูงสุด
-19635	Increases Max Life by @{1}% and Physical ATK by @{2}%	เพิ่มพลัง Life สูงสุดโดย@{1}% และ ATK ทางกายภาพโดย@{2}%
+19635	Increases Max Life by @{1}% and Physical ATK by @{2}%	เพิ่มพลัง Life สูงสุดโดย@{1}% และ P.ATKโดย@{2}%
 19636	Increases each of your and your allies' stats by @{1}	เพิ่มค่าสถานะของคุณและพันธมิตรของคุณทีละ@{1}
 19637	Healing from items has no effect while in this state.	การรักษาจากไอเท็มจะไม่มีผลขณะอยู่ในสถานะนี้
-19638	【Fire Ball】 and 【Sightrasher】 deal ${1}% more damage.	【Fire Ball】 และ 【Sightrasher】 สร้างความเสียหายได้มากขึ้น${1}%
+19638	【Fire Ball】 and 【Sightrasher】 deal ${1}% more damage.	[ Fire Ball ] และ [ Sightrasher ] สร้างความเสียหายได้มากขึ้น${1}%
 19639	Destroy the Live Coal upon entering the Bonfire Phase	Destroy the Live Coal upon entering the Bonfire Phase
 19640	Play Fireworks @{2} after Campfire Phase @{1} begins!	Play Fireworks @{2} after Campfire Phase @{1} begins!
 19641	Cards are inactive when the appearance is not applied	Cards are inactive when the appearance is not applied
@@ -721,7 +721,7 @@
 19720	The Crystal is under protection. Entry is prohibited.	The Crystal is under protection. Entry is prohibited.
 19721	The party declaration does not meet the requirements.	The party declaration does not meet the requirements.
 19722	${1} does not meet the requirements to Enter Dungeon.	${1} does not meet the requirements to Enter Dungeon.
-19723	You can rent a ^{1}【Falcon】^{2} to aid you in battle.	คุณสามารถเช่า ^{1}【Falcon】^{2}เพื่อช่วยคุณในการต่อสู้
+19723	You can rent a ^{1}【Falcon】^{2} to aid you in battle.	คุณสามารถเช่า ^{1}[ Falcon ]^{2}เพื่อช่วยคุณในการต่อสู้
 19724	Drop blades directly in front of and behind the BOSS.	วางใบมีดไว้ด้านหน้าและด้านหลัง BOSS โดยตรง
 19725	You're liking too frequently. Please try again later.	You're liking too frequently. Please try again later.
 19726	This person is lazy and didn't leave anything behind.	This person is lazy and didn't leave anything behind.
@@ -763,10 +763,10 @@
 19762	The guild name is already in use. Please enter another	The guild name is already in use. Please enter another
 19763	Reveals hidden or cloaked monsters within @{1} meters.	เผยมอนสเตอร์ที่ซ่อนอยู่หรือปิดบังอยู่ในระยะ@{1}เมตร
 19764	Allows use of Hiding Lv@{1} and Sightless Mind Lv@{2}.	อนุญาตให้ใช้ Hiding Lv@{1}และ Sightless Mind Lv@{2}
-19765	Greatly increases Movement Speed and ATK for @{1} sec.	เพิ่มความเร็วในการเคลื่อนที่และ ATK อย่างมากสำหรับ@{1}วินาที
+19765	Greatly increases Movement Speed and ATK for @{1} sec.	เพิ่มMSPDและ ATK อย่างมากสำหรับ@{1}วินาที
 19766	Moonlight Flower Bell Charge Hard Shuffle, Second Wave	Moonlight Flower Bell Charge Hard Shuffle, Second Wave
-19767	^{1}^{2}[Magnus Exorcismus]^{3}^{4} target count +${1}	^{1}^{2}[Magnus Exorcismus]^{3}^{4}จำนวนเป้าหมาย +${1}
-19768	^{1}^{2}[Cart Revolution]^{3}^{4} fixed damage +${1}%.	^{1}^{2}[Cart Revolution]^{3}^{4}ความเสียหายคงที่ +${1}%
+19767	^{1}^{2}[Magnus Exorcismus]^{3}^{4} target count +${1}	^{1}^{2}[ Magnus Exorcismus ]^{3}^{4}จำนวนเป้าหมาย +${1}
+19768	^{1}^{2}[Cart Revolution]^{3}^{4} fixed damage +${1}%.	^{1}^{2}[ Cart Revolution ]^{3}^{4}ความเสียหายคงที่ +${1}%
 19769	Each Soul Echo Element ^{1} grants @{1} DMG vs All Job	แต่ละองค์ประกอบ Soul Echo ^{1}มอบ@{1}DMG เทียบกับงานทั้งหมด
 19770	For buffs with the @{1} tag, maximum buff Floors +@{2}	สำหรับบัฟที่มีแท็ก@{1}บัฟชั้นสูงสุด +@{2}
 19771	When the event begins, create @{1} Fireworks Launchers	When the event begins, create @{1} Fireworks Launchers
@@ -903,14 +903,14 @@
 19902	${1} initiated a Placement confirmation. Are you ready?	${1} initiated a Placement confirmation. Are you ready?
 19903	The Party Leader's channel is full. Auto-follow stopped	The Party Leader's channel is full. Auto-follow stopped
 19904	Rally actions are unavailable at your current Location.	Rally actions are unavailable at your current Location.
-19905	^{1}^{2}【Crazy Uproar】^{3}^{4}grants an Extra ${1} STR.	^{1}^{2}【Crazy Uproar】^{3}^{4}ให้${1}STR พิเศษ
-19906	Movement Speed +@{1}% (unique effect), Max Life +@{2}%.	ความเร็วในการเคลื่อนที่ +@{1}% (เอฟเฟกต์เฉพาะ), Life สูงสุด +@{2}%
-19907	Caused by Rift Impact. Reduces Movement Speed by @{1}%.	เกิดจากการกระแทกของรอยแยกลดความเร็วในการเคลื่อนที่ลง@{1}%
+19905	^{1}^{2}【Crazy Uproar】^{3}^{4}grants an Extra ${1} STR.	^{1}^{2}[ Crazy Uproar ]^{3}^{4}ให้${1}STR พิเศษ
+19906	Movement Speed +@{1}% (unique effect), Max Life +@{2}%.	MSPD +@{1}% (เอฟเฟกต์เฉพาะ), Life สูงสุด +@{2}%
+19907	Caused by Rift Impact. Reduces Movement Speed by @{1}%.	เกิดจากการกระแทกของรอยแยกลดMSPDลง@{1}%
 19908	Element advantages and disadvantages do not affect you.	ไม่มีผลกระทบต่อคุณ
 19909	Fafnir takes flight and becomes immune to Basic Attacks	Fafnir บินหนีและมีภูมิคุ้มกันต่อ Basic Attacks
 19910	Upon death, explodes and deals damage to nearby enemies	เมื่อตาย จะระเบิดและสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียง
 19911	Failed to connect to the region. Please select another.	Failed to connect to the region. Please select another.
-19912	When HP is below @{1}%, Physical DEF +【Your Level*@{2}】	เมื่อ HP ต่ำกว่า@{1}%, Physical DEF +【Your Level*@{2}】
+19912	When HP is below @{1}%, Physical DEF +【Your Level*@{2}】	เมื่อ HP ต่ำกว่า@{1}%, Physical DEF +[ Your Level*@{2} ]
 19913	When a dagger or katar is equipped, Physical ATK +${1}.	เมื่อสวมใส่กริชหรือคาตาร์ โจมตีกายภาพ +${1}
 19914	Cannot socket cards without an off-hand weapon equipped	Cannot socket cards without an off-hand weapon equipped
 19915	Upgrading this item will make it untradeable. Continue?	Upgrading this item will make it untradeable. Continue?

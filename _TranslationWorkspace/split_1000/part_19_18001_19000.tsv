@@ -1,6 +1,6 @@
 ﻿Index	English	Thai_Translation
-18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม 【Character Lv.*${1}】
-18002	【Gravitation Field】 deals ${1}% more damage.	【Gravitation Field】สร้างความเสียหายมากขึ้น${1}%
+18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม [ Character Lv.*${1} ]
+18002	【Gravitation Field】 deals ${1}% more damage.	[ Gravitation Field ]สร้างความเสียหายมากขึ้น${1}%
 18003	You can adjust your cards in the Card System	You can adjust your cards in the Card System
 18004	Butterfly Wings cannot be used in this area.	Butterfly Wings cannot be used in this area.
 18005	This skill is Not Available yet. Stay tuned!	This skill is Not Available yet. Stay tuned!
@@ -121,20 +121,20 @@
 18120	This Month's Total Guild Contributions: ${1}	This Month's Total Guild Contributions: ${1}
 18121	Guild Readiness has increased to Lv. 【${1}】.	Guild Readiness has increased to Lv. 【${1}】.
 18122	Carry a fire shell from the ammunition crate	ถือกระสุนไฟจากลังกระสุน
-18123	After use, increases PATK and MATK by @{1}%.	หลังการใช้งาน เพิ่ม PATK และ MATK ขึ้น@{1}%
+18123	After use, increases PATK and MATK by @{1}%.	หลังการใช้งาน เพิ่ม P.ATK และ M.ATK ขึ้น@{1}%
 18124	Crafting is complete. The ritual is underway	Crafting is complete. The ritual is underway
 18125	Broken equipment cannot be repaired normally	Broken equipment cannot be repaired normally
 18126	Unlock the following rewards as you level up	Unlock the following rewards as you level up
 18127	Real-time group coordinates are on cooldown.	Real-time group coordinates are on cooldown.
 18128	Item is on cooldown. Please try again later.	Item is on cooldown. Please try again later.
 18129	${1} was eliminated in the raging sandstorm.	${1} was eliminated in the raging sandstorm.
-18130	Increases 【Envenomed Blade】 damage by ${1}%.	เพิ่มความเสียหายของ 【Envenomed Blade】 เป็น${1}%
-18131	Gain a @{1}% Movement Speed and damage bonus	ได้รับโบนัสความเร็วในการเคลื่อนที่และโบนัสความเสียหาย@{1}%
+18130	Increases 【Envenomed Blade】 damage by ${1}%.	เพิ่มความเสียหายของ [ Envenomed Blade ] เป็น${1}%
+18131	Gain a @{1}% Movement Speed and damage bonus	ได้รับโบนัสMSPDและโบนัสความเสียหาย@{1}%
 18132	Current Preset has not been saved. Continue?	Current Preset has not been saved. Continue?
 18133	Overall Ranking: <color=#e5dcc1>${1}</color>	Overall Ranking: <color=#e5dcc1>${1}</color>
-18134	Physical ATK and Magic ATK reduced by ${1}%.	ATK กายภาพและ Magic ATK ลดลง${1}%
-18135	Physical ATK and Magic ATK increase by ${5}%	ATK กายภาพและเวทย์มนต์เพิ่มขึ้น${5}%
-18136	Physical ATK and Magic ATK increase by ${2}%	ATK กายภาพและเวทย์มนต์เพิ่มขึ้น${2}%
+18134	Physical ATK and Magic ATK reduced by ${1}%.	P.ATKและ M.ATK ลดลง${1}%
+18135	Physical ATK and Magic ATK increase by ${5}%	P.ATKและเวทย์มนต์เพิ่มขึ้น${5}%
+18136	Physical ATK and Magic ATK increase by ${2}%	P.ATKและเวทย์มนต์เพิ่มขึ้น${2}%
 18137	There are currently no active Season events.	There are currently no active Season events.
 18138	Are you sure you want to cancel recruitment?	Are you sure you want to cancel recruitment?
 18139	Event rewards have been sent to your mailbox.	Event rewards have been sent to your mailbox.
@@ -196,10 +196,10 @@
 18195	Spirit Tower Floor ${1} has not been cleared.	Spirit Tower Floor ${1} has not been cleared.
 18196	Flying is not allowed in the current Location	Flying is not allowed in the current Location
 18197	Only the Party Leader can perform this action	Only the Party Leader can perform this action
-18198	MP Recovery Speed +${1}% and Magic ATK +${2}.	ความเร็วในการฟื้นฟู MP +${1}% และ ATK เวทย์ +${2}
-18199	At @{1} stacks, triggers 【Firepower Loading】.	ที่@{1}สแต็ค จะทริกเกอร์ 【Firepower Loading】
+18198	MP Recovery Speed +${1}% and Magic ATK +${2}.	ความเร็วในการฟื้นฟู MP +${1}% และ M.ATK +${2}
+18199	At @{1} stacks, triggers 【Firepower Loading】.	ที่@{1}สแต็ค จะทริกเกอร์ [ Firepower Loading ]
 18200	Control debuff resistance increased by +@{1}.	ต้านทานดีบัฟ Control เพิ่มขึ้น +@{1}
-18201	【Spear Formation - Blood Cross】 damage +@{1}%	【Spear Formation - Blood Cross】 ความเสียหาย +@{1}%
+18201	【Spear Formation - Blood Cross】 damage +@{1}%	[ Spear Formation - Blood Cross ] ความเสียหาย +@{1}%
 18202	Recover @{1}% Max Life per sec. for @{2} sec.	กู้คืน@{1}% พลัง Life สูงสุดต่อวินาทีสำหรับ@{2}วินาที
 18203	Searching for enemies in Hiding within range.	ค้นหาศัตรูในการซ่อนตัวภายในระยะ
 18204	Skill@{1}Square Formation Bagpipe Sound Blade	Skill@{1}Square Formation Bagpipe Sound Blade
@@ -362,7 +362,7 @@
 18361	You're back! So... did you find anything out?	You're back! So... did you find anything out?
 18362	${2} unlocks when the server reaches Lv. ${1}	${2} unlocks when the server reaches Lv. ${1}
 18363	Cannot enter Battle of Survivors in raid mode	Cannot enter Battle of Survivors in raid mode
-18364	Physical damage buff: Physical damage +@{1}%.	บัฟความเสียหายกายภาพ: ความเสียหายกายภาพ +@{1}%
+18364	Physical damage buff: Physical damage +@{1}%.	บัฟP.DMG: P.DMG +@{1}%
 18365	Ten Kills in One Step (Indiscriminate Attack)	สิบสังหารในขั้นตอนเดียว (โจมตีตามอำเภอใจ)
 18366	Select a Stat Build in the upper-right corner	Select a Stat Build in the upper-right corner
 18367	Select a Pet Preset in the upper-right corner	Select a Pet Preset in the upper-right corner
@@ -422,10 +422,10 @@
 18421	Did not participate in the current guild event	Did not participate in the current guild event
 18422	Fire damage +@{1}%. Basic Attacks become Fire.	ความเสียหายจากไฟไหม้ +@{1}%Basic Attacks กลายเป็นไฟ
 18423	Attacks have a @{1}% Chance to recover @{2} HP	มี@{1}% โอกาสในการฟื้นฟู@{2}HP
-18424	Reduces skill cooldowns by @{1}% for @{2} sec.	ลดคูลดาวน์ทักษะลง@{1}% เป็นเวลา@{2}วินาที
-18425	Physical Damage Reduction, Magic Vulnerability	การลดความเสียหายทางกายภาพ, ช่องโหว่ทางเวทมนตร์
-18426	Magic Damage Reduction, Physical Vulnerability	การลดความเสียหายเวทย์มนตร์, ความอ่อนแอทางกายภาพ
-18427	Greatly increases Movement Speed for @{1} sec.	เพิ่มความเร็วในการเคลื่อนที่อย่างมากเป็นเวลา@{1}วินาที
+18424	Reduces skill cooldowns by @{1}% for @{2} sec.	ลดCDทักษะลง@{1}% เป็นเวลา@{2}วินาที
+18425	Physical Damage Reduction, Magic Vulnerability	การลดP.DMG, ช่องโหว่ทางเวทมนตร์
+18426	Magic Damage Reduction, Physical Vulnerability	การลดM.DMGย์มนตร์, ความอ่อนแอทางกายภาพ
+18427	Greatly increases Movement Speed for @{1} sec.	เพิ่มMSPDอย่างมากเป็นเวลา@{1}วินาที
 18428	Emperium takes @{1}% less damage for @{2} sec.	Emperium รับความเสียหายน้อยลง@{1}% เป็นเวลา@{2}วินาที
 18429	Continuously Normal Attack the Selected Target	Continuously Normal Attack the Selected Target
 18430	Start Matching: Battle of Dragon Coffin Island	Start Matching: Battle of Dragon Coffin Island
@@ -433,7 +433,7 @@
 18432	Create Interaction Magic Circle (Deformed)@{1}	Create Interaction Magic Circle (Deformed)@{1}
 18433	Skill@{1}_Cross Compression Zone Player Damage	Skill@{1}_Cross Compression Zone Player Damage
 18434	Completed <color=#c27b47>${1}</color> Trophies	Completed <color=#c27b47>${1}</color> Trophies
-18435	^{1}^{2}[Sanctuary]^{3}^{4} target count +${1}	^{1}^{2}[Sanctuary]^{3}^{4}จำนวนเป้าหมาย +${1}
+18435	^{1}^{2}[Sanctuary]^{3}^{4} target count +${1}	^{1}^{2}[ Sanctuary ]^{3}^{4}จำนวนเป้าหมาย +${1}
 18436	Allows use of ^{1}^{2}Hiding Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}ซ่อน Lv.@{1}^{3}^{4}
 18437	Prerequisite Skill <color=#cc762a>${1}</color>	Prerequisite Skill <color=#cc762a>${1}</color>
 18438	Their reinforcements are here—it's Sky Petite!	Their reinforcements are here—it's Sky Petite!
@@ -577,7 +577,7 @@
 18576	Select a Card Preset in the upper-right corner	Select a Card Preset in the upper-right corner
 18577	Current DPS Record <color=#c27b47>${1}</color>	Current DPS Record <color=#c27b47>${1}</color>
 18578	Increases melee damage dealt by ^{1}${1}%^{2}.	เพิ่มความเสียหายระยะประชิดที่ทำได้โดย ^{1}${1}%^{2}
-18579	Increases magic damage dealt by ^{1}${1}%^{2}.	เพิ่มความเสียหายทางเวทย์มนตร์ที่เกิดขึ้น ^{1}${1}%^{2}
+18579	Increases magic damage dealt by ^{1}${1}%^{2}.	เพิ่มM.DMGย์มนตร์ที่เกิดขึ้น ^{1}${1}%^{2}
 18580	Only the Party Leader can perform this action.	Only the Party Leader can perform this action.
 18581	The treasure chest is nearby. Search the area!	The treasure chest is nearby. Search the area!
 18582	I'm summoning a giant dragon! Come help me!${1}	I'm summoning a giant dragon! Come help me!${1}
@@ -631,14 +631,14 @@
 18630	The guild name is invalid. Please enter another	The guild name is invalid. Please enter another
 18631	Pet Protection Effect Triggered - Crowd Control	Pet Protection Effect Triggered - Crowd Control
 18632	Reach Friendship Lv. ${2} with any ${1} friends	Reach Friendship Lv. ${2} with any ${1} friends
-18633	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra PATK +${1}.	^{1}^{2}【Crazy Uproar】^{3}^{4}PATK พิเศษ +${1}.
+18633	^{1}^{2}【Crazy Uproar】^{3}^{4}Extra PATK +${1}.	^{1}^{2}[ Crazy Uproar ]^{3}^{4}P.ATK พิเศษ +${1}.
 18634	Your vision is currently impaired by squid ink.	ขณะนี้การมองเห็นของคุณบกพร่องเนื่องจากหมึกปลาหมึก
 18635	Novice, select a statue to confirm your gender.	Novice, select a statue to confirm your gender.
 18636	Claim all rewards to advance to the final rank.	Claim all rewards to advance to the final rank.
 18637	Allows use of ^{1}^{2}Envenom Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Envenom Lv.@{1}^{3}^{4}
-18638	Physical ATK +@{1} for each skill on this Totem	พลังโจมตีกายภาพ +@{1}สำหรับแต่ละทักษะบน Totem นี้
-18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม ATK ทางกายภาพตาม 【Character Lv.*${1}】
-18640	Increases Physical DEF by 【Character Lv.*${1}】.	เพิ่ม DEF กายภาพตาม 【Character Lv.*${1}】
+18638	Physical ATK +@{1} for each skill on this Totem	P.ATK +@{1}สำหรับแต่ละทักษะบน Totem นี้
+18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม P.ATKตาม [ Character Lv.*${1} ]
+18640	Increases Physical DEF by 【Character Lv.*${1}】.	เพิ่ม DEF กายภาพตาม [ Character Lv.*${1} ]
 18641	Notification Phase@{1} - Campfire Raffle Begins	Notification Phase@{1} - Campfire Raffle Begins
 18642	When the event begins, create the basic brazier	When the event begins, create the basic brazier
 18643	Consume Collection Cards to perform Collection?	Consume Collection Cards to perform Collection?
@@ -752,13 +752,13 @@
 18751	Destination area not found during teleportation	Destination area not found during teleportation
 18752	This build does not belong to the selected job.	This build does not belong to the selected job.
 18753	Cannot leave the vehicle while casting a skill.	Cannot leave the vehicle while casting a skill.
-18754	After use, reduces Cooldown reduction by @{1}%.	หลังการใช้งานจะลดการลดคูลดาวน์ลง@{1}%
+18754	After use, reduces Cooldown reduction by @{1}%.	หลังการใช้งานจะลดการลดCDลง@{1}%
 18755	Skill-based Revive is not allowed in this area.	Skill-based Revive is not allowed in this area.
 18756	The item has expired. Please exit and re-enter.	The item has expired. Please exit and re-enter.
 18757	Goodbye, imitators! Only the real RO can fight!	Goodbye, imitators! Only the real RO can fight!
 18758	Good. Looks like you've changed your equipment.	Good. Looks like you've changed your equipment.
 18759	(Voice recordings can be up to 15 seconds long)	(Voice recordings can be up to 15 seconds long)
-18760	Increases 【Basic Attack】 skill damage by ${1}%.	เพิ่มความเสียหายของทักษะ 【Basic Attack】 เป็น${1}%
+18760	Increases 【Basic Attack】 skill damage by ${1}%.	เพิ่มความเสียหายของทักษะ [ Basic Attack ] เป็น${1}%
 18761	You must be in a party to enter Party Training.	You must be in a party to enter Party Training.
 18762	Player behavior after the opening movement ends	Player behavior after the opening movement ends
 18763	You have been removed from the Adventure Group.	You have been removed from the Adventure Group.
@@ -768,7 +768,7 @@
 18767	Queuing for the new Season. Waiting for results.	Queuing for the new Season. Waiting for results.
 18768	Activate @{1} Faction effects with deployed pets	เปิดใช้งานเอฟเฟกต์ฝ่าย@{1}กับสัตว์เลี้ยงที่ปรับใช้
 18769	Complete the Main Quest: Fight Porings Every Day	สำเร็จภารกิจหลัก: ต่อสู้กับ Porings ทุกวัน
-18770	[Reserved] Claim offline idle rewards @{1} times	[Reserved] รับรางวัลที่ไม่ได้ใช้งานออฟไลน์@{1}ครั้ง
+18770	[Reserved] Claim offline idle rewards @{1} times	[ Reserved ] รับรางวัลที่ไม่ได้ใช้งานออฟไลน์@{1}ครั้ง
 18771	Raise the weapon slot's Refine Level to Lv. @{1}	เพิ่มระดับ Refine ของช่องอาวุธเป็น Lv.@{1}
 18772	Obtain high-quality Sticky Mucus from the trees.	รับ Sticky Mucus คุณภาพสูงจากต้นไม้
 18773	Take the cargo to the Professor and report back.	นำสินค้าไปให้ Professor แล้วรายงานกลับ
@@ -810,8 +810,8 @@
 18809	Recruitment information sent to the ${1} channel	Recruitment information sent to the ${1} channel
 18810	Pet Protection Effect Triggered - Remove Control	Pet Protection Effect Triggered - Remove Control
 18811	Please select the Lucky Star you want to bet on.	Please select the Lucky Star you want to bet on.
-18812	Reduces Attack Speed and Movement Speed by @{1}%	ลดความเร็วในการโจมตีและความเร็วในการเคลื่อนที่ลง@{1}%
-18813	【Camouflage】 status. Cannot be seen or targeted.	【Camouflage】 สถานะไม่สามารถมองเห็นหรือกำหนดเป้าหมายได้
+18812	Reduces Attack Speed and Movement Speed by @{1}%	ลดASPDและMSPDลง@{1}%
+18813	【Camouflage】 status. Cannot be seen or targeted.	[ Camouflage ] สถานะไม่สามารถมองเห็นหรือกำหนดเป้าหมายได้
 18814	I have carefully read and agree to ${1} and ${2}	I have carefully read and agree to ${1} and ${2}
 18815	Notification Phase@{1}-Audience Gathering Begins	Notification Phase@{1}-Audience Gathering Begins
 18816	Rewards for Depositing an Intermediate Live Coal	Rewards for Depositing an Intermediate Live Coal
@@ -929,14 +929,14 @@
 18928	This skill is being cast and cannot be replaced.	This skill is being cast and cannot be replaced.
 18929	Your Backpack is overweight. Unable to purchase.	Your Backpack is overweight. Unable to purchase.
 18930	You cannot switch builds while in Battle Status.	You cannot switch builds while in Battle Status.
-18931	Healing buff: Each Floor grants @{1}% Magic ATK.	: แต่ละชั้นมอบพลังโจมตีเวทย์มนตร์@{1}%
-18932	Grants 【Envenomed Blade】 ${1} Extra ricochet(s).	มอบ 【Envenomed Blade】${1}แฉลบพิเศษ
+18931	Healing buff: Each Floor grants @{1}% Magic ATK.	: แต่ละชั้นมอบM.ATKมนตร์@{1}%
+18932	Grants 【Envenomed Blade】 ${1} Extra ricochet(s).	มอบ [ Envenomed Blade ]${1}แฉลบพิเศษ
 18933	Restores a total of @{2} Life over @{1} seconds.	คืนค่าพลัง Life@{2}ทั้งหมดในช่วง@{1}วินาที
 18934	Use a dungeon Revive attempt to cancel Transform	ใช้ดันเจี้ยน Revive พยายามยกเลิกการแปลงร่าง
 18935	Damage taken from the caster increases by ${1}%.	ความเสียหายที่ได้รับจากลูกล้อเพิ่มขึ้น${1}%
 18936	Celebration Invitation Quiz (Question ${1}/${2})	Celebration Invitation Quiz (Question ${1}/${2})
 18937	Actions cannot be performed in your current state	Actions cannot be performed in your current state
-18938	[Reserved] Participate in Guild League @{1} times	[Reserved] เข้าร่วม Guild League@{1}ครั้ง
+18938	[Reserved] Participate in Guild League @{1} times	[ Reserved ] เข้าร่วม Guild League@{1}ครั้ง
 18939	Ask the Teleporter to take you to the Eden Group.	ขอให้เครื่องเทเลพอร์ตพาคุณไปที่กลุ่มอีเดน
 18940	Touch the stone pillar while carrying the device.	แตะเสาหินขณะถืออุปกรณ์
 18941	You receive a letter from the Job Advance Mentor.	คุณได้รับจดหมายจาก Job Advance Mentor
@@ -981,18 +981,18 @@
 18980	The guild name is too short. Please enter another	The guild name is too short. Please enter another
 18981	You canceled the Impeachment of Guild Leader ${1}	You canceled the Impeachment of Guild Leader ${1}
 18982	The current time is outside the specified period.	The current time is outside the specified period.
-18983	Attack Speed +@{1}%, Crit +@{2}, Crit DMG +@{3}%.	ความเร็วในการโจมตี +@{1}%, Crit +@{2}, Crit DMG +@{3}%
+18983	Attack Speed +@{1}%, Crit +@{2}, Crit DMG +@{3}%.	ASPD +@{1}%, Crit +@{2}, Crit DMG +@{3}%
 18984	Increases your and your allies' damage reflection	เพิ่มการสะท้อนความเสียหายของคุณและพันธมิตร
 18985	Increases healing received by @{1}% for @{2} sec.	เพิ่มการรักษาที่ได้รับโดย@{1}% สำหรับ@{2}วินาที
 18986	Gain damage reduction and survive one fatal blow.	ได้รับความเสียหายลดลงและรอดชีวิตจากการโจมตีที่รุนแรงครั้งหนึ่ง
-18987	Grants a @{1}% Movement Speed bonus for @{2} sec.	ให้โบนัสความเร็วในการเคลื่อนที่@{1}% สำหรับ@{2}วินาที
+18987	Grants a @{1}% Movement Speed bonus for @{2} sec.	ให้โบนัสMSPD@{1}% สำหรับ@{2}วินาที
 18988	Periodically restores the Life of nearby monsters	ฟื้นฟูพลัง Life ของมอนสเตอร์ที่อยู่ใกล้เคียงเป็นระยะ
 18989	Stunned by the Emperium's shockwave for @{1} sec.	ตะลึงกับคลื่นกระแทกของ Emperium เป็นเวลา@{1}วินาที
 18990	Download Pause because you are using mobile data.	Download Pause because you are using mobile data.
 18991	Moonlight Flower Bell Charge Shuffle, Second Wave	Moonlight Flower Bell Charge Shuffle, Second Wave
 18992	Moonlight Flower Spotlight Game Easy, Second Wave	Moonlight Flower Spotlight Game Easy, Second Wave
 18993	Moonlight Flower Spotlight Game Hard, Second Wave	Moonlight Flower Spotlight Game Hard, Second Wave
-18994	Increases Penetration Curse by [your Lv. * ${1}].	เพิ่ม Penetration Curse ตาม [your Lv. * ${1}]
+18994	Increases Penetration Curse by [your Lv. * ${1}].	เพิ่ม Penetration Curse ตาม [ your Lv. * ${1} ]
 18995	Activate affixes upon entering the Campfire Phase	Activate affixes upon entering the Campfire Phase
 18996	The card must be ranked up before it can Level-up	The card must be ranked up before it can Level-up
 18997	You cannot switch channels during an Interaction.	You cannot switch channels during an Interaction.

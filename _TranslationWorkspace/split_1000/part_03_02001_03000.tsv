@@ -209,7 +209,7 @@
 2208	Bash Sword	Bash Sword
 2209	Yalt Sword	Yalt Sword
 2210	Greatsword	Greatsword
-2211	FLEE +@{1}	FLEE +@{1}
+2211	FLEE +@{1}	Flee +@{1}
 2212	DEX +${1}.	DEX +${1}.
 2213	LUK +${1}.	LUK +${1}.
 2214	Holy Light	Holy Light

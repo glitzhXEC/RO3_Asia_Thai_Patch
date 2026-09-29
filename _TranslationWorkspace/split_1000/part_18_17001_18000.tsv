@@ -42,10 +42,10 @@
 17041	Select Adventure Guild tags (up to six)	Select Adventure Guild tags (up to six)
 17042	Skills cannot be upgraded during combat	Skills cannot be upgraded during combat
 17043	Focus on the charged Bell and smash it!	Focus on the charged Bell and smash it!
-17044	Increases 【Sonic Blow】 damage by ${1}%.	เพิ่มความเสียหายของ 【Sonic Blow】 เป็น${1}%
+17044	Increases 【Sonic Blow】 damage by ${1}%.	เพิ่มความเสียหายของ [ Sonic Blow ] เป็น${1}%
 17045	Hidden from players; for designers only	ซ่อนจากผู้เล่นสำหรับนักออกแบบเท่านั้น
 17046	Movement Speed -@{1}, up to @{2} stacks	-@{1}สูงสุดถึง@{2}สแต็ค
-17047	Movement Speed +@{1}, up to @{2} stacks	ความเร็วในการเคลื่อนที่ +@{1}สูงสุดถึง@{2}สแต็ค
+17047	Movement Speed +@{1}, up to @{2} stacks	MSPD +@{1}สูงสุดถึง@{2}สแต็ค
 17048	Increases Basic Attack damage by @{1}%.	เพิ่มความเสียหายจาก Basic Attack@{1}%
 17049	Party Training: Build team coordination	Party Training: Build team coordination
 17050	Increases Crit Chance by ^{1}${1}%^{2}.	เพิ่มโอกาสคริติคอลโดย ^{1}${1}%^{2}
@@ -111,9 +111,9 @@
 17110	No Adventurer has defeated this MVP yet!	No Adventurer has defeated this MVP yet!
 17111	This equipment is not currently equipped	This equipment is not currently equipped
 17112	Insufficient Guild Bonfire participation	Insufficient Guild Bonfire participation
-17113	Agility -${1} and Movement Speed -${2}%.	ความคล่องตัว -${1}และความเร็วในการเคลื่อนที่ -${2}%
+17113	Agility -${1} and Movement Speed -${2}%.	ความคล่องตัว -${1}และMSPD -${2}%
 17114	Releases energy when the countdown ends.	ปล่อยพลังงานเมื่อสิ้นสุดการนับถอยหลัง
-17115	Gain 【Charge Up】 when the countdown ends	ได้รับ 【Charge Up】 เมื่อการนับถอยหลังสิ้นสุดลง
+17115	Gain 【Charge Up】 when the countdown ends	ได้รับ [ Charge Up ] เมื่อการนับถอยหลังสิ้นสุดลง
 17116	Cannot attack and takes increased damage	ไม่สามารถโจมตีและรับความเสียหายเพิ่มขึ้น
 17117	This will reset all shortcuts. Continue?	This will reset all shortcuts. Continue?
 17118	Nearby Targets with Both High Priorities	Nearby Targets with Both High Priorities
@@ -280,7 +280,7 @@
 17279	Ends in <color=#97E553>${1}</color> hours	Ends in <color=#97E553>${1}</color> hours
 17280	Deploy a Totem with @{1} maxed attributes	ปรับใช้ Totem ด้วยแอตทริบิวต์สูงสุด@{1}
 17281	Say hello to the Gift Merchant for Dumby.	ทักทาย Gift Merchant for Dumby
-17282	[Reserved] Participate in @{1} GVE events	[Reserved] เข้าร่วมกิจกรรม@{1}GVE
+17282	[Reserved] Participate in @{1} GVE events	[ Reserved ] เข้าร่วมกิจกรรม@{1}GVE
 17283	Obtain Soft Fur and report back to Rhine.	รับ Soft Fur แล้วรายงานกลับไปยังแม่น้ำ Rhine
 17284	Kill the restless monsters along the way.	กำจัดมอนสเตอร์ที่กระสับกระส่ายระหว่างทาง
 17285	The innkeeper invites you inside to rest.	เจ้าของโรงแรมขอเชิญคุณเข้าไปพักผ่อนข้างใน
@@ -339,7 +339,7 @@
 17338	Adventure Group declaration not displayed	Adventure Group declaration not displayed
 17339	Reach Friendship Lv. ${1} with any friend	Reach Friendship Lv. ${1} with any friend
 17340	Become briefly Invincible and restore MP.	กลายเป็นอมตะชั่วครู่และฟื้นฟู MP
-17341	Increases Movement Speed and Attack Speed	เพิ่มความเร็วในการเคลื่อนที่และความเร็วในการโจมตี
+17341	Increases Movement Speed and Attack Speed	เพิ่มMSPDและASPD
 17342	Items cannot be used while in this state.	รายการไม่สามารถใช้งานได้ในขณะที่อยู่ในสถานะนี้
 17343	You are continuously being pulled inward!	คุณถูกดึงเข้าด้านในอย่างต่อเนื่อง!
 17344	Cannot move while affected by Chain Bind.	ไม่สามารถเคลื่อนที่ได้ในขณะที่ได้รับผลกระทบจาก Chain Bind
@@ -469,11 +469,11 @@
 17468	If you want the girl, court her yourself.	If you want the girl, court her yourself.
 17469	You can only pick up a teammate's ID Tag.	You can only pick up a teammate's ID Tag.
 17470	You cannot travel while in Battle Status.	You cannot travel while in Battle Status.
-17471	Increases 【Virus Spread】 damage by ${1}%.	เพิ่มความเสียหายของ 【Virus Spread】 โดย${1}%
+17471	Increases 【Virus Spread】 damage by ${1}%.	เพิ่มความเสียหายของ [ Virus Spread ] โดย${1}%
 17472	Increases Physical and Magic DEF by ${1}.	เพิ่ม DEF กายภาพและเวทมนตร์โดย${1}
 17473	Enchant Carapace Shield, Damage Reduction	โล่ Enchant Carapace ลดความเสียหาย
 17474	Shield equal to ^{1}${1}%^{2} of Max Life	Shield เท่ากับ ^{1}${1}%^{2}ของ Max Life
-17475	Movement Speed increases by ^{1}${1}%^{2}	ความเร็วในการเคลื่อนที่เพิ่มขึ้น ^{1}${1}%^{2}
+17475	Movement Speed increases by ^{1}${1}%^{2}	MSPDเพิ่มขึ้น ^{1}${1}%^{2}
 17476	Triggers Fire Damage when dealing damage.	ทำให้เกิดความเสียหายทางไฟเมื่อสร้างความเสียหาย
 17477	Physical and Magic DEF increase by @{1}%.	DEF กายภาพและเวทมนตร์เพิ่มขึ้น@{1}%
 17478	Orc Lord's Basic Attack deals area damage	Basic Attack ของ Orc Lord สร้างความเสียหายเป็นพื้นที่
@@ -488,7 +488,7 @@
 17487	Unlocks at Lv. <color=#97E553>${1}</color>	Unlocks at Lv. <color=#97E553>${1}</color>
 17488	All Members of the party water the sapling	สมาชิกทุกคนในปาร์ตี้รดน้ำต้นอ่อน
 17489	Say hello to the Monsterologist for Dumby.	ทักทายนักสัตว์ประหลาดแห่งดัมบี้
-17490	[Reserved] Participate in @{1} MINI events	[Reserved] เข้าร่วมกิจกรรม@{1}MINI
+17490	[Reserved] Participate in @{1} MINI events	[ Reserved ] เข้าร่วมกิจกรรม@{1}MINI
 17491	Defeat the nearby Fabre and collect Fluff.	เอาชนะ Fabre ที่อยู่ใกล้เคียงและรวบรวม Fluff
 17492	Place the magic component into the device.	วางส่วนประกอบเวทย์มนตร์ลงในอุปกรณ์
 17493	Stumbled upon an argument in Payon Forest.	สะดุดกับการโต้เถียงในป่า Payon
@@ -555,7 +555,7 @@
 17554	Gain a universal damage-absorption shield.	รับโล่ดูดซับความเสียหายสากล
 17555	Gain a permanent damage-absorption shield.	ได้รับโล่ดูดซับความเสียหายถาวร
 17556	Gain a shield equal to ${1}% of your Life.	ได้รับเกราะเท่ากับ${1}% พลัง Life ของคุณ
-17557	Physical ATK and Magic ATK reduced by @{1}	พลังโจมตีกายภาพและเวทย์มนต์ลดลง@{1}
+17557	Physical ATK and Magic ATK reduced by @{1}	P.ATKและเวทย์มนต์ลดลง@{1}
 17558	Currently Berserk. Deals DMG is increased.	Berserk ในปัจจุบันความเสียหายจากข้อเสนอเพิ่มขึ้น
 17559	You are continuously being pushed outward!	คุณถูกผลักออกไปด้านนอกอย่างต่อเนื่อง!
 17560	Skill@{1}Converging Circular Goblet Launch	Skill@{1}Converging Circular Goblet Launch
@@ -650,7 +650,7 @@
 17649	Western Payon Prefecture - Stronghold @{1}	Western Payon Prefecture - Stronghold @{1}
 17650	Eastern Payon Prefecture - Stronghold @{1}	Eastern Payon Prefecture - Stronghold @{1}
 17651	Transform into Red Musical Notes Underfoot	Transform into Red Musical Notes Underfoot
-17652	Movement Speed Increase When Out of Combat	ความเร็วในการเคลื่อนที่เพิ่มขึ้นเมื่อออกจากการต่อสู้
+17652	Movement Speed Increase When Out of Combat	MSPDเพิ่มขึ้นเมื่อออกจากการต่อสู้
 17653	Lock Life to Fixed Value @{1} (Deprecated)	Lock Life to Fixed Value @{1} (Deprecated)
 17654	Different-Color Collision Bubble NPC Right	Different-Color Collision Bubble NPC Right
 17655	Red Note Magic Circle Expanding Outer Ring	Red Note Magic Circle Expanding Outer Ring
@@ -695,8 +695,8 @@
 17694	The Safe Zone will shrink in ${1} seconds.	The Safe Zone will shrink in ${1} seconds.
 17695	Incorrect equipment slot. Unable to equip.	Incorrect equipment slot. Unable to equip.
 17696	Teammate ${1} declined your rally request.	Teammate ${1} declined your rally request.
-17697	Physical damage buff: Physical ATK +@{1}%.	บัฟความเสียหายกายภาพ: ATK กายภาพ +@{1}%
-17698	Slowed by @{1}% by 【Sky-Splitting Impact】.	ช้าลงโดย@{1}% โดย 【Sky-Splitting Impact】
+17697	Physical damage buff: Physical ATK +@{1}%.	บัฟP.DMG: P.ATK +@{1}%
+17698	Slowed by @{1}% by 【Sky-Splitting Impact】.	ช้าลงโดย@{1}% โดย [ Sky-Splitting Impact ]
 17699	Tap for Interaction with the rhythm circle	แตะเพื่อโต้ตอบกับวงกลมจังหวะ
 17700	Please select a linked System build first.	Please select a linked System build first.
 17701	Class Ranking: <color=#e5dcc1>${1}</color>	Class Ranking: <color=#e5dcc1>${1}</color>
@@ -775,7 +775,7 @@
 17774	Victory provides a tremendous morale boost!	Victory มอบกำลังใจอันมหาศาล!
 17775	Estimated Wait: <color=#63a22b>${1}</color>	Estimated Wait: <color=#63a22b>${1}</color>
 17776	Skill@{1}_Summon Eight-Way Compression Zone	Skill@{1}_Summon Eight-Way Compression Zone
-17777	Increases Max Life by 【Character Lv.*${1}】.	เพิ่ม Max Life ตาม 【Character Lv.*${1}】
+17777	Increases Max Life by 【Character Lv.*${1}】.	เพิ่ม Max Life ตาม [ Character Lv.*${1} ]
 17778	Defeat 15 Mukas and recover the lost cargo.	Defeat 15 Mukas and recover the lost cargo.
 17779	Add buff when the campfire reaches Lv. @{1}	Add buff when the campfire reaches Lv. @{1}
 17780	At the start of Phase @{1}, add Final Flame	At the start of Phase @{1}, add Final Flame
@@ -908,8 +908,8 @@
 17907	This Week's Currency limit has been reached	This Week's Currency limit has been reached
 17908	Start Matching: Kafra - Battle of Survivors	Start Matching: Kafra - Battle of Survivors
 17909	You were attacked, interrupting the rescue.	You were attacked, interrupting the rescue.
-17910	Increases 【Meteor Assault】 damage by ${1}%.	เพิ่มความเสียหายของ 【Meteor Assault】 เป็น${1}%
-17911	Each floor reduces Movement Speed by @{1}%.	แต่ละชั้นจะลดความเร็วในการเคลื่อนที่ลง@{1}%
+17910	Increases 【Meteor Assault】 damage by ${1}%.	เพิ่มความเสียหายของ [ Meteor Assault ] เป็น${1}%
+17911	Each floor reduces Movement Speed by @{1}%.	แต่ละชั้นจะลดMSPDลง@{1}%
 17912	This preset is being configured. Delete it?	This preset is being configured. Delete it?
 17913	Granted by Popo. Increases this unit's DEF.	ได้รับจาก Popo เพิ่ม DEF ของยูนิตนี้
 17914	Ranged Arrow Monster Normal Attack - Undead	Ranged Arrow Monster Normal Attack - Undead
@@ -962,7 +962,7 @@
 17961	Everything's ready. Talk to the Party Leader	ทุกอย่างพร้อมแล้ว คุยกับ Party Leader
 17962	A Sudden Turn leaves you momentarily stunned	การเลี้ยวกะทันหันทำให้คุณมึนงงชั่วขณะ
 17963	Examine the suspicious Clothes Fervor found*	ตรวจสอบเสื้อผ้าที่น่าสงสัยที่พบ*
-17964	Reduces the Movement Speed of nearby enemies	ลดความเร็วในการเคลื่อนที่ของศัตรูที่อยู่ใกล้เคียง
+17964	Reduces the Movement Speed of nearby enemies	ลดMSPDของศัตรูที่อยู่ใกล้เคียง
 17965	Please launch the game through the launcher.	Please launch the game through the launcher.
 17966	Master Toggle for In-Game Development Events	Master Toggle for In-Game Development Events
 17967	Appearance Shop - Direct Purchase - Headwear	Appearance Shop - Direct Purchase - Headwear
@@ -989,13 +989,13 @@
 17988	Enters a frenzy and gains extremely high ATK	เข้าสู่ความบ้าคลั่งและได้รับ ATK ที่สูงมาก
 17989	While Brass Blessing is active, gain Endure.	ขณะที่ Brass Blessing ทำงานอยู่ จะได้รับ Endure
 17990	Gradually restores Life while out of combat.	ค่อยๆ ฟื้นฟูพลัง Life ขณะอยู่นอกการต่อสู้
-17991	^{1}【Detect Stealth】^{2} range +${1} meters.	^{1}【Detect Stealth】^{2} ระยะ+ เมตร${1}
+17991	^{1}【Detect Stealth】^{2} range +${1} meters.	^{1}[ Detect Stealth ]^{2} ระยะ+ เมตร${1}
 17992	Skill@{1}Synchronized Spinning Goblet Launch	Skill@{1}Synchronized Spinning Goblet Launch
 17993	Join the Battle of Dragon Coffin Island Solo	Join the Battle of Dragon Coffin Island Solo
 17994	Moonlight Flower Targeted Ground-Slam Bullet	Moonlight Flower Targeted Ground-Slam Bullet
 17995	Skill@{1}_Player Transforms into Dancing NPC	Skill@{1}_Player Transforms into Dancing NPC
-17996	Increases PATK by ${1}% of MATK, up to ${2}.	เพิ่ม PATK โดย${1}% ของ MATK สูงสุด${2}
-17997	Increases MATK by ${1}% of PATK, up to ${2}.	เพิ่ม MATK ขึ้น${1}% ของ PATK สูงสุด${2}
-17998	Magic ATK +@{1} for each skill on this Totem	Magic ATK +@{1}สำหรับแต่ละทักษะบน Totem นี้
+17996	Increases PATK by ${1}% of MATK, up to ${2}.	เพิ่ม P.ATK โดย${1}% ของ M.ATK สูงสุด${2}
+17997	Increases MATK by ${1}% of PATK, up to ${2}.	เพิ่ม M.ATK ขึ้น${1}% ของ P.ATK สูงสุด${2}
+17998	Magic ATK +@{1} for each skill on this Totem	M.ATK +@{1}สำหรับแต่ละทักษะบน Totem นี้
 17999	Healing +@{1}% for each skill on this Totem.	การรักษา +@{1}% สำหรับแต่ละทักษะบน Totem นี้
-18000	Increases Magic ATK by 【Character Lv.*${1}】.	เพิ่ม Magic ATK ตาม 【Character Lv.*${1}】
+18000	Increases Magic ATK by 【Character Lv.*${1}】.	เพิ่ม M.ATK ตาม [ Character Lv.*${1} ]

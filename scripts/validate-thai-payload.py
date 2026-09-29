@@ -28,6 +28,43 @@ ALLOWED_PREFIXES = (
     "131502",  # quest descriptions
     "131506",  # active quest objectives
 )
+ALLOWED_EXACT_UI = {
+    # The compact skill-target label is expanded for readability.
+    "ST": "Single Target",
+}
+BRACKET_SOURCE_EXCEPTIONS = {
+    # The English source itself has a duplicated opening 【 before Poisoned.
+    "Plant timed Dynamite on a designated ST enemy within ${1} meters. After "
+    "${2} seconds, deal Physical ATK * ^{1}${5}%^{2} Poison ranged Physical "
+    "damage that ignores FLEE to the designated enemy and up to ${4} other "
+    "enemies within a ${3}-meter radius, and inflict "
+    "【^{3}^{4}【Poisoned】^{5}^{6} damage on the target.",
+}
+FALCON_CONCENTRATION = (
+    "Can only be cast while the Falcon is in Follow mode. Use the Falcon to "
+    "perform Concentration, dealing PATK * ^{1}${2}% + ${3}^{2} Neutral "
+    "Ranged Physical DMG to the designated ST enemy within ${1} meters."
+)
+FALCON_CONCENTRATION_TH = (
+    "ใช้ได้เฉพาะเมื่อ Falcon อยู่ใน Follow Mode เท่านั้น สั่ง Falcon ให้ทำการ "
+    "Concentration สร้าง Neutral P.DMG ระยะไกลเท่ากับ P.ATK * "
+    "^{1}${2}% + ${3}^{2} แก่ศัตรูแบบ Single Target ที่กำหนดภายในระยะ "
+    "${1} เมตร"
+)
+V2_FORBIDDEN_TARGETS = {
+    r"\bST\b": "Single Target",
+    r"(?<![.A-Z])PATK(?![.A-Z])": "P.ATK",
+    r"(?<![.A-Z])MATK(?![.A-Z])": "M.ATK",
+    r"(?<![.A-Z])PDEF(?![.A-Z])": "P.DEF",
+    r"(?<![.A-Z])MDEF(?![.A-Z])": "M.DEF",
+    r"\bFLEE\b": "Flee",
+    r"ความเสียหาย(?:ทาง)?กายภาพ": "P.DMG",
+    r"ความเสียหาย(?:ทาง)?(?:เวท|เวทย์|เวทมนตร์|เวทย์มนตร์)": "M.DMG",
+    r"ความเร็วในการโจมตี": "ASPD",
+    r"ความเร็วในการเคลื่อนที่": "MSPD",
+    r"คูลดาวน์": "CD",
+    r"[【】]": "[ Name ]",
+}
 TOKEN = re.compile(r"\$\{[^}\r\n]+\}|@\{[^}\r\n]+\}|\\u[0-9A-Fa-f]{4}|\\[nrt]")
 STYLE_TOKEN = re.compile(r"\^\{[^}\r\n]+\}")
 BRACKET_TOKEN = re.compile(r"(?:\[|【)[^\]】\r\n]+(?:\]|】)")
@@ -94,18 +131,25 @@ def check_format_integrity(label: str, rows: list[tuple[str, str]]) -> None:
     for source, target in rows:
         source_style = STYLE_TOKEN.findall(source)
         target_style = STYLE_TOKEN.findall(target)
-        source_brackets = BRACKET_TOKEN.findall(source)
-        target_brackets = BRACKET_TOKEN.findall(target)
+        source_brackets = [name.strip() for name in SOURCE_BRACKET.findall(source)]
+        target_brackets = [name.strip() for name in SOURCE_BRACKET.findall(target)]
+        target_bracket_tokens = BRACKET_TOKEN.findall(target)
+        target_brackets_normalized = source == target or all(
+            re.fullmatch(r"\[ [^\]\r\n]+ \]", token)
+            for token in target_bracket_tokens
+        )
         source_stray_carets = STYLE_TOKEN.sub("", source).count("^")
         target_stray_carets = STYLE_TOKEN.sub("", target).count("^")
-        delimiters_match = all(source.count(char) == target.count(char) for char in "[]【】")
         if (
             source_style != target_style
-            or source_brackets != target_brackets
+            or (
+                source not in BRACKET_SOURCE_EXCEPTIONS
+                and source_brackets != target_brackets
+            )
             or Counter(BARE_NUMBER_BRACE.findall(source)) != Counter(BARE_NUMBER_BRACE.findall(target))
             or source_stray_carets != target_stray_carets
             or UP_ARROW_MARKER.search(target)
-            or not delimiters_match
+            or not target_brackets_normalized
         ):
             failures.append((source, target))
             if len(failures) == 10:
@@ -132,7 +176,11 @@ for raw in LANGUAGE_KV.read_text(encoding="utf-8-sig").splitlines():
     if "\t" in raw:
         localization_id, english = raw.split("\t", 1)
         language_kv[localization_id] = english
-allowed_ids = {key for key in language_kv if key.startswith(ALLOWED_PREFIXES)}
+allowed_ids = {
+    key
+    for key, english in language_kv.items()
+    if key.startswith(ALLOWED_PREFIXES) or english in ALLOWED_EXACT_UI
+}
 allowed_texts = {language_kv[key] for key in allowed_ids}
 canonical = load_dictionary(CANON)
 auto = load_dictionary(AUTO)
@@ -146,6 +194,20 @@ if not (4000 <= len(canonical) <= len(allowed_texts)):
     raise SystemExit(f"unexpected canonical description count: {len(canonical)}")
 if any(source not in allowed_texts for source, _ in canonical):
     raise SystemExit("canonical contains text outside the description-only scope")
+for source, expected in ALLOWED_EXACT_UI.items():
+    matches = [target for canonical_source, target in canonical if canonical_source == source]
+    if matches != [expected]:
+        raise SystemExit(f"exact UI override changed: {source!r} -> {matches!r}")
+canonical_by_source = dict(canonical)
+if canonical_by_source.get(FALCON_CONCENTRATION) != FALCON_CONCENTRATION_TH:
+    raise SystemExit("Falcon Concentration description is not the reviewed V2 translation")
+for source, target in canonical:
+    for pattern, preferred in V2_FORBIDDEN_TARGETS.items():
+        if re.search(pattern, target):
+            raise SystemExit(
+                f"canonical still contains legacy terminology; use {preferred!r}: "
+                f"{source!r} -> {target!r}"
+            )
 if any(UNSAFE_STANDALONE.fullmatch(source) and target != source for source, target in canonical):
     raise SystemExit("canonical translates a standalone option/stat label")
 if any(localization_id not in allowed_ids for localization_id, _, _ in overrides):

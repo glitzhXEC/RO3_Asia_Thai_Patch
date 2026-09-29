@@ -39,10 +39,10 @@
 15038	Kafra: Battle of Survivors  ${1}	Kafra: Battle of Survivors  ${1}
 15039	Skill bar is full. Cannot equip.	Skill bar is full. Cannot equip.
 15040	Please help me! I'll reward you!	Please help me! I'll reward you!
-15041	Physical ATK increased by @{1}%.	พลังโจมตีทางกายภาพเพิ่มขึ้น@{1}%
-15042	Movement Speed -@{1}%, AGI -@{2}	ความเร็วในการเคลื่อนที่ -@{1}%, AGI -@{2}ความเร็วในการเคลื่อนที่
+15041	Physical ATK increased by @{1}%.	P.ATKเพิ่มขึ้น@{1}%
+15042	Movement Speed -@{1}%, AGI -@{2}	MSPD -@{1}%, AGI -@{2}MSPD
 15043	Damage taken increased by @{1}%.	ความเสียหายที่ได้รับเพิ่มขึ้น@{1}%
-15044	Attack Speed increased by ${1}%.	ความเร็วในการโจมตีเพิ่มขึ้น${1}%
+15044	Attack Speed increased by ${1}%.	ASPDเพิ่มขึ้น${1}%
 15045	Damage dealt increased by @{1}%.	ความเสียหายที่ทำได้เพิ่มขึ้น@{1}%
 15046	Immune to damage from Beat Cage.	ภูมิคุ้มกันต่อความเสียหายจาก Beat Cage
 15047	At @{1} stacks, inflicts Petrify	ที่@{1}สแต็ค จะทำให้กลายเป็นหิน
@@ -60,7 +60,7 @@
 15059	Increases damage dealt by ${1}%.	เพิ่มความเสียหายที่ทำได้โดย${1}%
 15060	Locks HP at the fixed value @{1}	ล็อค HP ที่ค่าคงที่@{1}
 15061	Increases Magic DEF by ${1}~${2}	เพิ่ม DEF เวทย์มนตร์โดย${1}~${2}
-15062	Increases Magic ATK by ${1}~${2}	เพิ่มพลังโจมตีเวทย์โดย${1}~${2}
+15062	Increases Magic ATK by ${1}~${2}	เพิ่มM.ATKโดย${1}~${2}
 15063	Baphomet Jr. Reward Boost Lv@{1}	Baphomet Jr. Reward Boost Lv@{1}
 15064	Fight for the glory that awaits!	Fight for the glory that awaits!
 15065	Please obtain a Soul Echo first.	Please obtain a Soul Echo first.
@@ -150,18 +150,18 @@
 15149	S@{1}10-Player Raid No. @{2}-@{3}	S@{1}10-Player Raid No. @{2}-@{3}
 15150	Available after the ${1} scenario	Available after the ${1} scenario
 15151	Royal City qualification required	Royal City qualification required
-15152	Movement Speed increases by ${1}%	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}%
+15152	Movement Speed increases by ${1}%	MSPDเพิ่มขึ้น${1}%
 15153	Changes armor property to Poison.	เปลี่ยนคุณสมบัติของเกราะเป็น Poison
 15154	Damage against Kara Crabs +@{1}%.	สร้างความเสียหายต่อ Crabs คาร่า +@{1}%
-15155	MP Cost -@{1}%, Magic DMG +@{2}%.	ใช้ MP -@{1}%, ความเสียหายเวทย์ +@{2}%
-15156	Increases Movement Speed by @{1}%	เพิ่มความเร็วในการเคลื่อนที่โดย@{1}%
+15155	MP Cost -@{1}%, Magic DMG +@{2}%.	ใช้ MP -@{1}%, M.DMGย์ +@{2}%
+15156	Increases Movement Speed by @{1}%	เพิ่มMSPDโดย@{1}%
 15157	Instantly recovers @{1}% Max Life	ฟื้นฟูทันที@{1}% พลัง Life สูงสุด
-15158	Movement Speed +@{1}%, FLEE +@{2}	ความเร็วในการเคลื่อนที่ +@{1}%, FLEE +@{2}
-15159	Reduces skill cooldowns by @{1}%.	ลดคูลดาวน์ทักษะลง@{1}%
+15158	Movement Speed +@{1}%, FLEE +@{2}	MSPD +@{1}%, Flee +@{2}
+15159	Reduces skill cooldowns by @{1}%.	ลดCDทักษะลง@{1}%
 15160	Dispels Lv. @{1} control effects.	Dispels Lv. เอฟเฟกต์การควบคุม@{1}
 15161	Blessing Angel Surrounding Effect	เอฟเฟกต์แสงเทวดาอวย Blessing
 15162	Inner-Arena Player-Exclusive Buff	บัฟพิเศษสำหรับผู้เล่นในสนามประลองภายใน
-15163	Increases PATK and MATK by @{1}%.	เพิ่ม PATK และ MATK ขึ้น@{1}%
+15163	Increases PATK and MATK by @{1}%.	เพิ่ม P.ATK และ M.ATK ขึ้น@{1}%
 15164	Are you sure you want to log out?	Are you sure you want to log out?
 15165	Skill@{1} Kun Water Vortex - Easy	Skill@{1} Kun Water Vortex - Easy
 15166	Fallen Poring Normal Attack-Earth	Fallen Poring Normal Attack-Earth
@@ -372,7 +372,7 @@
 15371	Broken watches and hair for sale~	Broken watches and hair for sale~
 15372	None of this is mere coincidence.	None of this is mere coincidence.
 15373	Increases Healing Volume by @{1}%	เพิ่มปริมาณการรักษาโดย@{1}%
-15374	【Bash】 damage increased by @{1}%.	【Bash】 ดาเมจเพิ่มขึ้น@{1}%
+15374	【Bash】 damage increased by @{1}%.	[ Bash ] ดาเมจเพิ่มขึ้น@{1}%
 15375	AOE released when the shield ends	AOE จะถูกปล่อยออกมาเมื่อโล่สิ้นสุดลง
 15376	Select a Replacement Build Preset	Select a Replacement Build Preset
 15377	Physical/Magic DEF -^{1}${1}%^{2}	DEF กายภาพ/เวทมนตร์ -^{1}${1}%^{2}
@@ -380,10 +380,10 @@
 15379	Damage increased by ^{1}${1}%^{2}	ความเสียหายเพิ่มขึ้น ^{1}${1}%^{2}
 15380	Detects nearby invisible enemies.	ตรวจจับศัตรูที่มองไม่เห็นในบริเวณใกล้เคียง
 15381	Physical and Magic DEF decreased.	DEF กายภาพและเวทมนตร์ลดลง
-15382	Physical ATK and Magic ATK +${6}%	ATK กายภาพและ ATK เวทย์ +${6}%
-15383	Physical ATK and Magic ATK +${4}%	พลังโจมตีกายภาพและพลังเวทย์ +${4}%
-15384	Physical ATK and Magic ATK +${3}%	ATK กายภาพและ ATK เวทย์ +${3}%
-15385	Physical ATK and Magic ATK +${1}%	พลังโจมตีกายภาพและพลังเวทย์ +${1}%
+15382	Physical ATK and Magic ATK +${6}%	P.ATKและ M.ATK +${6}%
+15383	Physical ATK and Magic ATK +${4}%	P.ATKและพลังเวทย์ +${4}%
+15384	Physical ATK and Magic ATK +${3}%	P.ATKและ M.ATK +${3}%
+15385	Physical ATK and Magic ATK +${1}%	P.ATKและพลังเวทย์ +${1}%
 15386	Grants Call Thunder buff Lv. @{1}	ให้บัฟ Call Thunder Lv.@{1}
 15387	Demonic Dragon Soul Vulnerability	Demonic Dragon Soul Vulnerability
 15388	Musical Instrument Full-Field AOE	เครื่องดนตรี AOE แบบเต็มสนาม
@@ -486,12 +486,12 @@
 15485	Survivor Battle Net Victory Points	Survivor Battle Net Victory Points
 15486	War of Emperium Season Rank Points	War of Emperium Season Rank Points
 15487	Not enough Adventure Group Members	Not enough Adventure Group Members
-15488	Strength +@{1}, Physical ATK +@{2}	ความแรง +@{1}, พลังโจมตีกายภาพ +@{2}
+15488	Strength +@{1}, Physical ATK +@{2}	ความแรง +@{1}, P.ATK +@{2}
 15489	Damage against all Kobolds +@{1}%.	สร้างความเสียหายต่อโคโบลด์ทั้งหมด +@{1}%
-15490	Increases Movement Speed by @{1}%.	เพิ่มความเร็วในการเคลื่อนที่โดย@{1}%
+15490	Increases Movement Speed by @{1}%.	เพิ่มMSPDโดย@{1}%
 15491	Reduces healing received by @{1}%.	ลดการรักษาที่ได้รับโดย@{1}%
 15492	Fafnir's damage increases by @{1}%	Fafnir ความเสียหายเพิ่มขึ้น@{1}%
-15493	Movement Speed increased by @{1}%.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น@{1}%
+15493	Movement Speed increased by @{1}%.	MSPDเพิ่มขึ้น@{1}%
 15494	Skill@{1}Spiral Goblet Launch-Easy	Skill@{1}Spiral Goblet Launch-Easy
 15495	Kun Sucks In Players (Boss Action)	Kun Sucks In Players (Boss Action)
 15496	Failed to load the area. Retrying…	Failed to load the area. Retrying…
@@ -682,15 +682,15 @@
 15681	Level-up successful! Reached ${1}.	Level-up successful! Reached ${1}.
 15682	Each stack increases ATK by ${2}%.	แต่ละสแต็คจะเพิ่ม ATK ขึ้น${2}%
 15683	Water damage taken -^{1}${1}%^{2}.	ได้รับความเสียหายจากน้ำ -^{1}${1}%^{2}
-15684	Physical/Magic ATK -^{1}${1}%^{2}.	พลังโจมตีกายภาพ/เวทมนตร์ -^{1}${1}%^{2}
-15685	Physical/Magic ATK +^{1}${1}%^{2}.	พลังโจมตีกายภาพ/เวทมนตร์ +^{1}${1}%^{2}
+15684	Physical/Magic ATK -^{1}${1}%^{2}.	P.ATK/เวทมนตร์ -^{1}${1}%^{2}
+15685	Physical/Magic ATK +^{1}${1}%^{2}.	P.ATK/เวทมนตร์ +^{1}${1}%^{2}
 15686	Physical/Magic DEF +^{1}${1}%^{2}.	DEF กายภาพ/เวทมนตร์ +^{1}${1}%^{2}
 15687	Ranged Damage Taken +^{1}${1}%^{2}	ความเสียหายระยะไกลที่ได้รับ +^{1}${1}%^{2}
-15688	Movement Speed decreases by ${1}%.	ความเร็วในการเคลื่อนที่ลดลง${1}%
+15688	Movement Speed decreases by ${1}%.	MSPDลดลง${1}%
 15689	Deals damage and inflicts Paralyze	สร้างความเสียหายและทำให้เป็นอัมพาต
 15690	Reduces Physical DEF and Magic DEF	ลด DEF กายภาพและ DEF เวทมนตร์
 15691	Healing received reduced by ${1}%.	การรักษาที่ได้รับลดลง${1}%
-15692	Movement Speed increased by ${1}%.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}%
+15692	Movement Speed increased by ${1}%.	MSPDเพิ่มขึ้น${1}%
 15693	Musical Instrument Death Animation	เครื่องดนตรีแอนิเมชั่นความตาย
 15694	Call the Adventurer Group Members?	Call the Adventurer Group Members?
 15695	Invite ${1} to use the ${2} action?	Invite ${1} to use the ${2} action?
@@ -795,7 +795,7 @@
 15794	Obtain a Giant Transformation item.	รับไอเทม Giant Transformation
 15795	Obtain a Dwarf Transformation item.	รับไอเทมแปลงร่างคนแคระ
 15796	Damage taken while Silenced -@{1}%.	ความเสียหายที่ได้รับขณะเงียบ -@{1}%
-15797	Ranged Physical damage taken -@{1}%	ได้รับความเสียหายทางกายภาพระยะไกล -@{1}%
+15797	Ranged Physical damage taken -@{1}%	ได้รับP.DMGระยะไกล -@{1}%
 15798	Max Life and Holy Resistance +@{1}%	พลัง Life สูงสุดและความต้านทานศักดิ์สิทธิ์ +@{1}%
 15799	Changes your armor to Holy property	เปลี่ยนชุดเกราะของคุณเป็นทรัพย์สินศักดิ์สิทธิ์
 15800	Increases your and your allies' DEF	เพิ่ม DEF ของคุณและพันธมิตร
@@ -995,7 +995,7 @@
 15994	The rescue target has been revived.	The rescue target has been revived.
 15995	Target out of range. Rescue failed.	Target out of range. Rescue failed.
 15996	Each stack increases MSPD by ${1}%.	แต่ละสแต็กจะเพิ่ม MSPD ขึ้น${1}%
-15997	HP Lock effect's internal Cooldown.	คูลดาวน์ภายในของเอฟเฟกต์ HP Lock
-15998	Movement Speed is reduced by @{1}%.	ความเร็วในการเคลื่อนที่ลดลง@{1}%
+15997	HP Lock effect's internal Cooldown.	CDภายในของเอฟเฟกต์ HP Lock
+15998	Movement Speed is reduced by @{1}%.	MSPDลดลง@{1}%
 15999	Buff duration extended by ${1} sec.	ระยะเวลาบัฟขยายออกไป${1}วินาที
 16000	Nearby allies recover continuously.	พันธมิตรที่อยู่ใกล้เคียงจะฟื้นตัวอย่างต่อเนื่อง

@@ -43,11 +43,11 @@
 22042	Hehe, clothes really do make the Adventurer. You look much more reliable now!	Hehe, clothes really do make the Adventurer. You look much more reliable now!
 22043	On our fortieth anniversary, he went out to buy me a ring and never returned.	On our fortieth anniversary, he went out to buy me a ring and never returned.
 22044	If you're here, stop wasting time and show me the equipment you want refined!	If you're here, stop wasting time and show me the equipment you want refined!
-22045	The shadow left behind by 【Move Back Afterimage】 mimics your 【Shadow Pierce】.	เงาที่ทิ้งไว้โดย 【Move Back Afterimage】 จะเลียนแบบ 【Shadow Pierce】 ของคุณ
-22046	Increases Attack Speed. Normal Attacks have a Chance to trigger Cursed Slash.	เพิ่มความเร็วในการโจมตี Normal Attacks มีโอกาสที่จะทำให้ Cursed Slash ทำงาน
+22045	The shadow left behind by 【Move Back Afterimage】 mimics your 【Shadow Pierce】.	เงาที่ทิ้งไว้โดย [ Move Back Afterimage ] จะเลียนแบบ [ Shadow Pierce ] ของคุณ
+22046	Increases Attack Speed. Normal Attacks have a Chance to trigger Cursed Slash.	เพิ่มASPD Normal Attacks มีโอกาสที่จะทำให้ Cursed Slash ทำงาน
 22047	Log in for a total of 7 days during the event to unlock all check-in rewards!	Log in for a total of 7 days during the event to unlock all check-in rewards!
-22048	Increases Magic ATK based on DEX. Every ${1} DEX increases Magic ATK by ${2}.	เพิ่มพลังโจมตีเวทย์ตาม DEX ทุก ๆ${1}DEX จะเพิ่มพลังโจมตีเวทย์ขึ้น${2}
-22049	Increases Magic ATK based on INT. Every ${1} INT increases Magic ATK by ${2}.	เพิ่มพลังโจมตีเวทย์ตาม INT ทุก${1}INT จะเพิ่มพลังโจมตีเวทย์ขึ้น${2}
+22048	Increases Magic ATK based on DEX. Every ${1} DEX increases Magic ATK by ${2}.	เพิ่มM.ATKตาม DEX ทุก ๆ${1}DEX จะเพิ่มM.ATKขึ้น${2}
+22049	Increases Magic ATK based on INT. Every ${1} INT increases Magic ATK by ${2}.	เพิ่มM.ATKตาม INT ทุก${1}INT จะเพิ่มM.ATKขึ้น${2}
 22050	The Headgear Merchant sets the terms for the exchange. Hear what Allen thinks.	ผู้ขายหมวกเป็นผู้กำหนดเงื่อนไขในการแลกเปลี่ยนฟังสิ่งที่ Allen คิด
 22051	\n${1} was your most frequent activity, adding a splash of color to your life.	\n${1} was your most frequent activity, adding a splash of color to your life.
 22052	Includes information such as player name, Guild name, Guild emblem, and Trophy	Includes information such as player name, Guild name, Guild emblem, and Trophy
@@ -55,11 +55,11 @@
 22054	Canceling the response will cause guild creation to fail. Cancel the response?	Canceling the response will cause guild creation to fail. Cancel the response?
 22055	Guild Member ${1} has initiated an Impeachment. You may Respond to Impeachment	Guild Member ${1} has initiated an Impeachment. You may Respond to Impeachment
 22056	Enrage time remaining after clearing the dungeon does not meet the requirement	Enrage time remaining after clearing the dungeon does not meet the requirement
-22057	^{1}^{2}【Maximum Over Thrust】^{3}^{4}increases Physical damage dealt by ${1}%.	^{1}^{2}【Maximum Over Thrust】^{3}^{4}เพิ่มความเสียหายทางกายภาพที่ทำได้โดย${1}%
+22057	^{1}^{2}【Maximum Over Thrust】^{3}^{4}increases Physical damage dealt by ${1}%.	^{1}^{2}[ Maximum Over Thrust ]^{3}^{4}เพิ่มP.DMGที่ทำได้โดย${1}%
 22058	Ignores monster Size. Damage against Small, Medium, and Large monsters +@{1}%.	ละเว้นขนาดสัตว์ประหลาดสร้างความเสียหายต่อมอนสเตอร์ขนาดเล็ก กลาง และใหญ่ +@{1}%
-22059	While ^{1}^{2}[Battle Chant]^{3}^{4} is active, your Max HP increases by ${1}.	ในขณะที่ ^{1}^{2}[Battle Chant]^{3}^{4}ทำงานอยู่ HP สูงสุดของคุณจะเพิ่มขึ้น${1}
-22060	For every ${1} additional skills on this Divine Arts Totem, Physical ATK +${2}	สำหรับทุกทักษะเพิ่มเติมของ${1}บน Divine Arts Totem, พลังโจมตีกายภาพ +${2}
-22061	For every ${1} Stunts on equipped gear, Physical ATK +${2} (up to ${3} Stunts)	สำหรับ${1}Stunts ทุกตัวบนอุปกรณ์ที่ติดตั้ง ATK กายภาพ +${2}(สูงสุด${3}Stunts)
+22059	While ^{1}^{2}[Battle Chant]^{3}^{4} is active, your Max HP increases by ${1}.	ในขณะที่ ^{1}^{2}[ Battle Chant ]^{3}^{4}ทำงานอยู่ HP สูงสุดของคุณจะเพิ่มขึ้น${1}
+22060	For every ${1} additional skills on this Divine Arts Totem, Physical ATK +${2}	สำหรับทุกทักษะเพิ่มเติมของ${1}บน Divine Arts Totem, P.ATK +${2}
+22061	For every ${1} Stunts on equipped gear, Physical ATK +${2} (up to ${3} Stunts)	สำหรับ${1}Stunts ทุกตัวบนอุปกรณ์ที่ติดตั้ง P.ATK +${2}(สูงสุด${3}Stunts)
 22062	Baphomet summons a ^{1}charging illusion^{2} that damages targets in its path.	Baphomet summons a ^{1}charging illusion^{2} that damages targets in its path.
 22063	There are still pets Not Deployed. Are you sure you want to Enter Battlefield?	There are still pets Not Deployed. Are you sure you want to Enter Battlefield?
 22064	A very old-fashioned television set that can surprisingly still play programs.	A very old-fashioned television set that can surprisingly still play programs.
@@ -110,8 +110,8 @@
 22109	Once learned, Mechanics can ride a Madogear in battle and use Madogear skills.	เมื่อเรียนรู้แล้ว ช่างเครื่องสามารถขี่ Madogear ในการต่อสู้และใช้ทักษะ Madogear ได้
 22110	Once learned, Mechanics can use the Kinetic Battle Axe and its related skills.	เมื่อเรียนรู้แล้ว ช่างกลจะสามารถใช้ Kinetic Battle Axe และทักษะที่เกี่ยวข้องได้
 22111	Deals ATK * ^{1}@{3}%^{2} damage to up to @{2} enemies within a @{1} m radius.	สร้างความเสียหายต่อ ATK * ^{1}@{3}%^{2}สร้างความเสียหายให้กับศัตรูสูงสุด@{2}ภายในรัศมี@{1}m
-22112	^{1}【Focused Arrow Strike】^{2}'s damage multiplier increases by ^{3}${1}%^{4}.	^{1}【Focused Arrow Strike】^{2} ตัวคูณความเสียหายของเพิ่มขึ้น ^{3}${1}%^{4}
-22113	Increases the percentage damage multiplier of ^{1}【Bash】^{2} by ^{3}${1}%^{4}.	เพิ่มเปอร์เซ็นต์ตัวคูณความเสียหายของ ^{1}【Bash】^{2}โดย ^{3}${1}%^{4}
+22112	^{1}【Focused Arrow Strike】^{2}'s damage multiplier increases by ^{3}${1}%^{4}.	^{1}[ Focused Arrow Strike ]^{2} ตัวคูณความเสียหายของเพิ่มขึ้น ^{3}${1}%^{4}
+22113	Increases the percentage damage multiplier of ^{1}【Bash】^{2} by ^{3}${1}%^{4}.	เพิ่มเปอร์เซ็นต์ตัวคูณความเสียหายของ ^{1}[ Bash ]^{2}โดย ^{3}${1}%^{4}
 22114	After casting Meteor Assault, cast a mini Meteor Assault at the same location.	หลังจากร่าย Meteor Assault แล้ว ให้ร่าย Meteor Assault ขนาดเล็กที่ตำแหน่งเดียวกัน
 22115	Server instability detected. Please try starting the conversation again later.	Server instability detected. Please try starting the conversation again later.
 22116	All right. You seem like a rather capable Adventurer. Could I ask you a favor?	All right. You seem like a rather capable Adventurer. Could I ask you a favor?
@@ -119,7 +119,7 @@
 22118	Party member ${1} did not confirm participation. This match has been canceled.	Party member ${1} did not confirm participation. This match has been canceled.
 22119	No playstyle builds available. Use Get Help to obtain one from another player.	No playstyle builds available. Use Get Help to obtain one from another player.
 22120	Hidden and cannot be seen or targeted\nRevealed after taking damage @{1} times	ซ่อนและไม่สามารถมองเห็นหรือกำหนดเป้าหมาย\n เปิดเผยหลังจากได้รับความเสียหาย@{1}ครั้ง
-22121	^{1}^{2}【Mystical Amplification】^{3}^{4} grants ^{5}${1}^{6} Extra Cast Speed.	^{1}^{2}【Mystical Amplification】^{3}^{4}ให้ ^{5}${1}^{6}ความเร็วในการร่ายพิเศษ
+22121	^{1}^{2}【Mystical Amplification】^{3}^{4} grants ^{5}${1}^{6} Extra Cast Speed.	^{1}^{2}[ Mystical Amplification ]^{3}^{4}ให้ ^{5}${1}^{6}ความเร็วในการร่ายพิเศษ
 22122	Increases the damage of ^{1}Offensive-type^{2} Primary Battle Skills by ${1}%.	เพิ่มความเสียหายของ ^{1}ประเภทรุก^{2}ทักษะการต่อสู้หลักเป็น${1}%
 22123	The character's maximum Life. The character dies when current Life reaches @{1}	The character's maximum Life. The character dies when current Life reaches @{1}
 22124	Affects the critical damage of the character's Damage Skills and healing skills	Affects the critical damage of the character's Damage Skills and healing skills
@@ -131,13 +131,13 @@
 22130	Auto-Bid is currently active. Bidding manually will disable Auto-Bid. Continue?	Auto-Bid is currently active. Bidding manually will disable Auto-Bid. Continue?
 22131	Weekly Active rating: There are 4 Active rating tiers based on Weekly Activity:	Weekly Active rating: There are 4 Active rating tiers based on Weekly Activity:
 22132	Gain ${1}% damage reduction and one chance to Respawn upon taking fatal damage.	ได้รับการลดความเสียหายของ${1}% และมีโอกาส Respawn หนึ่งครั้งเมื่อได้รับความเสียหายร้ายแรง
-22133	Grants permanent 【Endure】 (immune to knockback, knock-up, and hitstun effects).	ให้【Endure】ถาวร
-22134	^{1}^{2}【Sharp Shooting】^{3}^{4} gains ${1}% Crit Chance but no longer pierces.	^{1}^{2}【Sharp Shooting】^{3}^{4}ได้รับ${1}% โอกาสคริติคอล แต่ไม่ทะลุอีกต่อไป
+22133	Grants permanent 【Endure】 (immune to knockback, knock-up, and hitstun effects).	ให้[ Endure ]ถาวร
+22134	^{1}^{2}【Sharp Shooting】^{3}^{4} gains ${1}% Crit Chance but no longer pierces.	^{1}^{2}[ Sharp Shooting ]^{3}^{4}ได้รับ${1}% โอกาสคริติคอล แต่ไม่ทะลุอีกต่อไป
 22135	Camera controls conflict with the Select/Move key bindings. Please change them.	Camera controls conflict with the Select/Move key bindings. Please change them.
 22136	A new version of the game is available. Please update it through the app store.	A new version of the game is available. Please update it through the app store.
-22137	Physical damage dealt to Brute and Insect monsters +${1}%; Movement Speed ${2}%	ความเสียหายทางกายภาพที่ทำกับสัตว์ประหลาดที่ดุร้ายและแมลง +${1}%;ความเร็วในการเคลื่อนที่${2}%
-22138	^{1}^{2}[Envenomed Blade]^{3}^{4}'s ricochet effect gains an Extra ${1} bounce.	^{1}^{2}[Envenomed Blade]^{3}^{4} เอฟเฟกต์แฉลบของได้รับการกระดอนพิเศษของ${1}
-22139	Each CRIT with ^{1}^{2}【Advanced Katar Mastery】^{3}^{4} now grants ${1} Floors.	แต่ละ CRIT ที่มี ^{1}^{2}【Advanced Katar Mastery】^{3}^{4}ตอนนี้ให้สิทธิ์พื้น${1}
+22137	Physical damage dealt to Brute and Insect monsters +${1}%; Movement Speed ${2}%	P.DMGที่ทำกับสัตว์ประหลาดที่ดุร้ายและแมลง +${1}%;MSPD${2}%
+22138	^{1}^{2}[Envenomed Blade]^{3}^{4}'s ricochet effect gains an Extra ${1} bounce.	^{1}^{2}[ Envenomed Blade ]^{3}^{4} เอฟเฟกต์แฉลบของได้รับการกระดอนพิเศษของ${1}
+22139	Each CRIT with ^{1}^{2}【Advanced Katar Mastery】^{3}^{4} now grants ${1} Floors.	แต่ละ CRIT ที่มี ^{1}^{2}[ Advanced Katar Mastery ]^{3}^{4}ตอนนี้ให้สิทธิ์พื้น${1}
 22140	Mistress summons ^{1}Hornets^{2} that charge at players from random directions.	Mistress summons ^{1}Hornets^{2} that charge at players from random directions.
 22141	Drake quickly charges, then damages^{1}fan-shaped areas in @{1} directions^{2}.	Drake quickly charges, then damages^{1}fan-shaped areas in @{1} directions^{2}.
 22142	Burrow through the earth in the designated direction, moving up to @{1} meters.	Burrow through the earth in the designated direction, moving up to @{1} meters.
@@ -187,20 +187,20 @@
 22186	Your current server, [${1}], differs from the Adventure Group's server, [${2}].	Your current server, [${1}], differs from the Adventure Group's server, [${2}].
 22187	Otherwise, you will automatically leave the Adventure Group when time runs out.	Otherwise, you will automatically leave the Adventure Group when time runs out.
 22188	This slot is reserved for Adventure skills. Skills cannot be inserted manually.	This slot is reserved for Adventure skills. Skills cannot be inserted manually.
-22189	Reduces the Cooldown of 【Hiding】, 【Back Slide】, and 【Cloaking】 by ${1} seconds.	ลดคูลดาวน์ของ 【Hiding】, 【Back Slide】 และ 【Cloaking】 ลง${1}วินาที
-22190	Spear proficiency increases Physical ATK by @{1} when using Spear-type weapons.	ความชำนาญ Spear จะเพิ่ม ATK กายภาพขึ้น@{1}เมื่อใช้อาวุธประเภท Spear
-22191	Sword proficiency increases Physical ATK by @{1} when using sword-type weapons.	ความสามารถด้าน Sword จะเพิ่ม ATK กายภาพขึ้น@{1}เมื่อใช้อาวุธประเภท Sword
+22189	Reduces the Cooldown of 【Hiding】, 【Back Slide】, and 【Cloaking】 by ${1} seconds.	ลดCDของ [ Hiding ], [ Back Slide ] และ [ Cloaking ] ลง${1}วินาที
+22190	Spear proficiency increases Physical ATK by @{1} when using Spear-type weapons.	ความชำนาญ Spear จะเพิ่ม P.ATKขึ้น@{1}เมื่อใช้อาวุธประเภท Spear
+22191	Sword proficiency increases Physical ATK by @{1} when using sword-type weapons.	ความสามารถด้าน Sword จะเพิ่ม P.ATKขึ้น@{1}เมื่อใช้อาวุธประเภท Sword
 22192	No playstyle builds available. Create a build for another player to obtain one.	No playstyle builds available. Create a build for another player to obtain one.
-22193	Reduces Movement Speed by @{1}% and increases Ghost magic damage taken by @{2}%	ลดความเร็วในการเคลื่อนที่ลง@{1}% และเพิ่มความเสียหายเวทย์มนต์ Ghost ที่ได้รับโดย@{2}%
+22193	Reduces Movement Speed by @{1}% and increases Ghost magic damage taken by @{2}%	ลดMSPDลง@{1}% และเพิ่มM.DMGย์มนต์ Ghost ที่ได้รับโดย@{2}%
 22194	Talk to the Professor and learn that he is researching memory entity technology.	คุยกับ Professor และทราบว่าเขากำลังค้นคว้าเทคโนโลยี Memory Entity
 22195	When you receive a critical hit, reduces its critical damage multiplier by ${1}%	When you receive a critical hit, reduces its critical damage multiplier by ${1}%
 22196	A highest-ranking cleric with greatly improved survivability and AoE protection.	A highest-ranking cleric with greatly improved survivability and AoE protection.
-22197	A bright Red Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีแดงสดใสที่จะฟื้นฟู@{1}HP ทันที คูลดาวน์:@{2}วินาที
+22197	A bright Red Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีแดงสดใสที่จะฟื้นฟู@{1}HP ทันที CD:@{2}วินาที
 22198	The Initiator will become the new Guild Master if the Impeachment is successful.	The Initiator will become the new Guild Master if the Impeachment is successful.
 22199	You have initiated an impeachment against Guild Leader ${1}. Cancel Impeachment?	You have initiated an impeachment against Guild Leader ${1}. Cancel Impeachment?
 22200	When attacked, the Melody Bubble gradually expands and explodes, dealing damage.	เมื่อถูกโจมตี Melody Bubble จะค่อยๆ ขยายและระเบิด สร้างความเสียหาย
-22201	Reduces Movement Speed by @{1}% and CRIT, Attack Speed, and Cast Speed by @{2}%.	ลดความเร็วในการเคลื่อนที่ลง@{1}% และ CRIT ความเร็วในการโจมตี และความเร็วในการร่ายลง@{2}%
-22202	Every @{1} sec, loses HP equal to @{2}% of the applier's Poison Physical Damage.	ทุก ๆ@{1}วินาที จะสูญเสีย HP เท่ากับ@{2}% ของความเสียหายกายภาพพิษของผู้ส่ง
+22201	Reduces Movement Speed by @{1}% and CRIT, Attack Speed, and Cast Speed by @{2}%.	ลดMSPDลง@{1}% และ CRIT ASPD และความเร็วในการร่ายลง@{2}%
+22202	Every @{1} sec, loses HP equal to @{2}% of the applier's Poison Physical Damage.	ทุก ๆ@{1}วินาที จะสูญเสีย HP เท่ากับ@{2}% ของP.DMGพิษของผู้ส่ง
 22203	Gain Accelerate and continuously deal DMG to nearby characters, inflicting Slow.	ได้รับการเร่งความเร็วและสร้าง DMG อย่างต่อเนื่องให้กับตัวละครใกล้เคียง ส่งผลให้ Slow ลง
 22204	Mistress summons a ^{1}Hornet Army^{2} to perform ^{3}@{1}^{4} map-wide thrusts.	Mistress summons a ^{1}Hornet Army^{2} to perform ^{3}@{1}^{4} map-wide thrusts.
 22205	Switching Skill Builds will reset your current skill point allocation. Continue?	Switching Skill Builds will reset your current skill point allocation. Continue?
@@ -239,7 +239,7 @@
 22238	Brilliant Orange Equipment with impressive offensive and defensive capabilities.	Orange Equipment สดใสพร้อมความสามารถในการรุกและการป้องกันที่น่าประทับใจ
 22239	Maya's loyal servant. It can smell its master even from thousands of miles away.	คนรับใช้ที่ภักดีของ Maya มันสามารถได้กลิ่นของเจ้าของมันแม้อยู่ห่างออกไปหลายพันไมล์
 22240	A faintly glowing Crystal shield. Use to permanently increase Magic DEF by @{1}.	โล่คริสตัลที่ส่องแสงเล็กน้อย ใช้เพื่อเพิ่ม Magic DEF อย่างถาวรโดย@{1}
-22241	Restores the character's Life, instantly restoring @{1}% HP. Cooldown: @{2} sec.	ฟื้นฟูพลัง Life ของตัวละคร ฟื้นฟู@{1}% HP ทันทีคูลดาวน์:@{2}วินาที
+22241	Restores the character's Life, instantly restoring @{1}% HP. Cooldown: @{2} sec.	ฟื้นฟูพลัง Life ของตัวละคร ฟื้นฟู@{1}% HP ทันทีCD:@{2}วินาที
 22242	"An enormous axe so massive and heavy that even ""oversized"" fails to describe it."	"ขวานขนาดยักษ์ที่ใหญ่โตและหนักมากจนแม้แต่ ""ตัวใหญ่"" ก็อธิบายไม่ได้"
 22243	A massive two-handed sword that subdues enemies with its weight and swing speed.	ดาบสองมือขนาดใหญ่ที่ปราบศัตรูด้วยน้ำหนักและความเร็วในการแกว่ง
 22244	Event Period: Monday through Thursday, Saturday, and Sunday, @{1}:@{2}~@{3}:@{4}	Event Period: Monday through Thursday, Saturday, and Sunday, @{1}:@{2}~@{3}:@{4}
@@ -252,16 +252,16 @@
 22251	Deals 2 hits of High Damage to the target area, with a Chance to inflict Frozen.	สร้างความเสียหายสูง 2 ครั้งไปยังพื้นที่เป้าหมาย โดยมีโอกาสที่จะทำให้ติดสถานะแช่แข็ง
 22252	Gains DMG Reduction, periodically Deals DMG to nearby enemies and inflicts Burn.	ได้รับการลด DMG สร้าง DMG เป็นระยะๆ ให้กับศัตรูที่อยู่ใกล้เคียง และทำให้ติดสถานะเผาไหม้
 22253	Revive up to @{2} fallen allies within a @{1}-meter radius with @{3}% HP and MP.	ฟื้นคืนชีพพันธมิตรสูงสุด@{2}ภายในรัศมี@{1}เมตร ด้วย@{3}% HP และ MP
-22254	High Orc slashes the enemy, dealing ^{1}${1}%^{2} Neutral melee Physical damage.	ไฮออร์คฟันศัตรู สร้างความเสียหาย ^{1}${1}%^{2}สร้างความเสียหายทางกายภาพระยะประชิดที่เป็นกลาง
-22255	Target an enemy at a Distance of ${1} cells, dealing ${4}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}สร้างความเสียหายทางกายภาพระยะประชิด${4}%
-22256	Target an enemy at a Distance of ${1} cells and deal ${7}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${7}%
-22257	Target an enemy at a Distance of ${1} cells and deal ${8}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${8}%
-22258	Target an enemy at a Distance of ${1} cells, dealing ${9}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}สร้างความเสียหายทางกายภาพระยะประชิด${9}%
-22259	Deals ranged Wind magic damage equal to your MATK * ^{1}${1}%^{2} to the target.	สร้างความเสียหายเวทย์มนตร์ลมระยะไกลเท่ากับ MATK ของคุณ * ^{1}${1}%^{2}ไปยังเป้าหมาย
+22254	High Orc slashes the enemy, dealing ^{1}${1}%^{2} Neutral melee Physical damage.	ไฮออร์คฟันศัตรู สร้างความเสียหาย ^{1}${1}%^{2}สร้างP.DMGระยะประชิดที่เป็นกลาง
+22255	Target an enemy at a Distance of ${1} cells, dealing ${4}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}สร้างP.DMGระยะประชิด${4}%
+22256	Target an enemy at a Distance of ${1} cells and deal ${7}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${7}%
+22257	Target an enemy at a Distance of ${1} cells and deal ${8}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${8}%
+22258	Target an enemy at a Distance of ${1} cells, dealing ${9}% melee Physical damage	กำหนดเป้าหมายศัตรูที่ระยะห่างของเซลล์${1}สร้างP.DMGระยะประชิด${9}%
+22259	Deals ranged Wind magic damage equal to your MATK * ^{1}${1}%^{2} to the target.	สร้างM.DMGย์มนตร์ลมระยะไกลเท่ากับ M.ATK ของคุณ * ^{1}${1}%^{2}ไปยังเป้าหมาย
 22260	So it's him. I can't believe the Queen is letting someone from Juno handle this.	So it's him. I can't believe the Queen is letting someone from Juno handle this.
 22261	Upon entering combat, Physical DEF and Magic DEF increase by @{1}% for @{2} sec.	เมื่อเข้าสู่การต่อสู้ DEF กายภาพและ DEF เวทมนตร์จะเพิ่มขึ้น@{1}% เป็นเวลา@{2}วินาที
-22262	Movement Speed decreases by ${1}%, and Physical and Magic ATK decrease by ${2}%.	ความเร็วในการเคลื่อนที่ลดลง${1}% และ ATK กายภาพและเวทมนตร์ลดลง${2}%
-22263	Movement Speed increases by ${1}%, and Physical and Magic ATK increase by ${2}%.	ความเร็วในการเคลื่อนที่เพิ่มขึ้น${1}% และ ATK กายภาพและเวทมนตร์เพิ่มขึ้น${2}%
+22262	Movement Speed decreases by ${1}%, and Physical and Magic ATK decrease by ${2}%.	MSPDลดลง${1}% และ P.ATKและเวทมนตร์ลดลง${2}%
+22263	Movement Speed increases by ${1}%, and Physical and Magic ATK increase by ${2}%.	MSPDเพิ่มขึ้น${1}% และ P.ATKและเวทมนตร์เพิ่มขึ้น${2}%
 22264	Invite all responding Members to a party and begin creating the Adventure Group?	Invite all responding Members to a party and begin creating the Adventure Group?
 22265	A Peco Peco captured the Party Leader! Is it planning to feed them to its chicks?	Peco Peco จับ Party Leader ได้! มันวางแผนที่จะเลี้ยงลูกไก่ของมันหรือเปล่า?
 22266	Check that your siege equipment, potions, gear, and skills are properly prepared.	Check that your siege equipment, potions, gear, and skills are properly prepared.
@@ -276,7 +276,7 @@
 22275	You are participating in a Guild event. Are you sure you want to leave this area?	You are participating in a Guild event. Are you sure you want to leave this area?
 22276	You can only bet on one Lucky Star during each event. Confirm your bet on [${1}]?	You can only bet on one Lucky Star during each event. Confirm your bet on [${1}]?
 22277	When you land a critical hit, your next instance of damage is increased by @{1}%.	เมื่อคุณได้รับการโจมตีแบบคริติคอล ความเสียหายครั้งต่อไปของคุณจะเพิ่มขึ้น@{1}%
-22278	Every @{1} sec, loses HP equal to @{2}% of the applier's Neutral Physical Damage.	ทุก ๆ@{1}วินาที จะสูญเสีย HP เท่ากับ@{2}% ของความเสียหายทางกายภาพที่เป็นกลางของผู้ส่ง
+22278	Every @{1} sec, loses HP equal to @{2}% of the applier's Neutral Physical Damage.	ทุก ๆ@{1}วินาที จะสูญเสีย HP เท่ากับ@{2}% ของP.DMGที่เป็นกลางของผู้ส่ง
 22279	You are within the Sonic Barrier and will not take damage from Jellyfish Requiem.	คุณอยู่ใน Sonic Barrier และจะไม่ได้รับความเสียหายจาก Jellyfish Requiem
 22280	Gains DMG Reduction and continuously Deals DMG to nearby targets, inflicting Burn	ได้รับการลด DMG และสร้าง DMG อย่างต่อเนื่องไปยังเป้าหมายใกล้เคียง และทำให้ติดสถานะเผาไหม้
 22281	Failed to load the game. Please check your network connection. (Error Code: ${1})	Failed to load the game. Please check your network connection. (Error Code: ${1})
@@ -324,11 +324,11 @@
 22323	(Strokes chin) Looks like I'll have to sell Baphomet skewers to recoup my losses.	(Strokes chin) Looks like I'll have to sell Baphomet skewers to recoup my losses.
 22324	Week ${2}, Day ${3} after the Entire Server First Clear of 10-Player Dungeon ${1}	Week ${2}, Day ${3} after the Entire Server First Clear of 10-Player Dungeon ${1}
 22325	Gains Accelerate, periodically Deals low DMG to nearby enemies and inflicts Slow.	ได้รับการเร่งความเร็ว สร้างความเสียหายต่ำเป็นระยะๆ แก่ศัตรูในบริเวณใกล้เคียง และทำให้ Slow ลง
-22326	Deals Water ranged magic damage equal to Magic ATK * ^{1}${1}%^{2} to the target.	สร้างความเสียหายเวทย์มนตร์ระยะไกลเท่ากับพลังโจมตีเวทย์ * ^{1}${1}%^{2}ไปยังเป้าหมาย
-22327	Deals Earth ranged magic damage equal to Magic ATK * ^{1}${1}%^{2} to the target.	สร้างความเสียหายทางเวทย์มนตร์ Earth range เท่ากับ Magic ATK * ^{1}${1}%^{2}ไปยังเป้าหมาย
+22326	Deals Water ranged magic damage equal to Magic ATK * ^{1}${1}%^{2} to the target.	สร้างM.DMGย์มนตร์ระยะไกลเท่ากับM.ATK * ^{1}${1}%^{2}ไปยังเป้าหมาย
+22327	Deals Earth ranged magic damage equal to Magic ATK * ^{1}${1}%^{2} to the target.	สร้างM.DMGย์มนตร์ Earth range เท่ากับ M.ATK * ^{1}${1}%^{2}ไปยังเป้าหมาย
 22328	The future belongs to the young. There's no place left for us old-timers anymore.	The future belongs to the young. There's no place left for us old-timers anymore.
 22329	Hello. This area is very dangerous right now, so civilians aren't allowed inside.	Hello. This area is very dangerous right now, so civilians aren't allowed inside.
-22330	While in 【Frenzy】, immediately gains @{1} floors of Enhance Hundred Spear charge.	ขณะที่อยู่ใน 【Frenzy】 จะได้รับชั้น@{1}ของการชาร์จ Enhance Hundred Spear ทันที
+22330	While in 【Frenzy】, immediately gains @{1} floors of Enhance Hundred Spear charge.	ขณะที่อยู่ใน [ Frenzy ] จะได้รับชั้น@{1}ของการชาร์จ Enhance Hundred Spear ทันที
 22331	The shield granted by the Ancient Tree absorbs damage equal to ${1}% of Max Life.	โล่ที่ได้รับจาก Ancient Tree จะดูดซับความเสียหายเท่ากับ${1}% ของพลัง Life สูงสุด
 22332	Inflicted by the Death Witch. Reduces this unit's Magic DEF and healing received.	เกิดจาก Death Witch ลด Magic DEF และการรักษาที่ได้รับของยูนิตนี้
 22333	Damages all allies within a @{2}-meter radius every @{1} seconds for @{3} seconds	สร้างความเสียหายให้กับพันธมิตรทั้งหมดภายในรัศมี@{2}- เมตรทุกๆ@{1}วินาทีเป็นเวลา@{3}วินาที
@@ -342,11 +342,11 @@
 22341	Cumulative Charge for Entire Server: <size=#32><color=#d385f5>${1}%</color></size>	Cumulative Charge for Entire Server: <size=#32><color=#d385f5>${1}%</color></size>
 22342	Rent a Madogear Pilot (available after you Learn the Madogear Pilot License skill)	เช่า Madogear Pilot (ใช้ได้หลังจากที่คุณเรียนรู้ทักษะใบอนุญาต Madogear Pilot แล้ว)
 22343	After canceling the Pre-purchase, your payment will be returned by mail. Continue?	After canceling the Pre-purchase, your payment will be returned by mail. Continue?
-22344	A deep crimson Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีแดงเข้มที่ฟื้นฟู@{1}HP ทันที คูลดาวน์:@{2}วินาที
+22344	A deep crimson Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีแดงเข้มที่ฟื้นฟู@{1}HP ทันที CD:@{2}วินาที
 22345	After initiating an Impeachment, the initiator must rally Guild Members to respond	After initiating an Impeachment, the initiator must rally Guild Members to respond
-22346	^{1}^{2}[Adrenaline Rush]^{3}^{4} grants the Blacksmith Class an Extra ${1}% ASPD.	^{1}^{2}[Adrenaline Rush]^{3}^{4}ทำให้คลาส Blacksmith ได้รับ${1}% ASPD พิเศษ
+22346	^{1}^{2}[Adrenaline Rush]^{3}^{4} grants the Blacksmith Class an Extra ${1}% ASPD.	^{1}^{2}[ Adrenaline Rush ]^{3}^{4}ทำให้คลาส Blacksmith ได้รับ${1}% ASPD พิเศษ
 22347	${1} Adventure Begins! Today is day <color=#c27b47>${2}</color> of your adventure!	${1} Adventure Begins! Today is day <color=#c27b47>${2}</color> of your adventure!
-22348	When ^{1}^{2}[Impositio Manus]^{3}^{4} reaches Lv. ${1}, Physical/Magic ATK +${2}.	เมื่อ ^{1}^{2}[Impositio Manus]^{3}^{4}ถึง Lv.${1}, พลังโจมตีกายภาพ/เวทย์ +${2}
+22348	When ^{1}^{2}[Impositio Manus]^{3}^{4} reaches Lv. ${1}, Physical/Magic ATK +${2}.	เมื่อ ^{1}^{2}[ Impositio Manus ]^{3}^{4}ถึง Lv.${1}, P.ATK/เวทย์ +${2}
 22349	Awakening Potions grant characters extremely high movement speed for a short time.	Awakening Potions grant characters extremely high movement speed for a short time.
 22350	"To successfully use ""Emergency Call,"" you must complete its full @{1}-second cast."	"To successfully use ""Emergency Call,"" you must complete its full @{1}-second cast."
 22351	"The ""Azoth"" has a low Chance to transform monsters it attacks into other monsters."	"The ""Azoth"" has a low Chance to transform monsters it attacks into other monsters."
@@ -385,13 +385,13 @@
 22384	The Void Rift is unstable. Kill the boss within @{1} minutes to receive the reward.	The Void Rift is unstable. Kill the boss within @{1} minutes to receive the reward.
 22385	You've contributed <color=#CC762A>${1}</color> Crystal Energy to the Entire Server!	You've contributed <color=#CC762A>${1}</color> Crystal Energy to the Entire Server!
 22386	In some game modes and maps, HP bar display rules take priority over these settings	In some game modes and maps, HP bar display rules take priority over these settings
-22387	A vibrant Green Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	Green Healing Potion ที่มีชีวิตชีวาซึ่งจะฟื้นฟู@{1}HP ทันที คูลดาวน์:@{2}วินาที
-22388	A golden Yellow Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีเหลืองทองที่จะฟื้นฟู@{1}HP ทันที คูลดาวน์:@{2}วินาที
-22389	^{1}^{2}【Maximize Power】^{3}^{4}is Active for up to ${2} allies within ${1} meters.	^{1}^{2}【Maximize Power】^{3}^{4}ใช้งานได้สำหรับพันธมิตร${2}ภายในระยะ${1}เมตร
-22390	Reduces Movement Speed by @{1}% and Physical DEF, Magic DEF, and CRIT RES by @{2}%.	ลดความเร็วในการเคลื่อนที่ลง@{1}% และ DEF กายภาพ, DEF เวทมนตร์ และ CRIT RES ลง@{2}%
+22387	A vibrant Green Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	Green Healing Potion ที่มีชีวิตชีวาซึ่งจะฟื้นฟู@{1}HP ทันที CD:@{2}วินาที
+22388	A golden Yellow Healing Potion that instantly restores @{1} HP. Cooldown: @{2} sec.	ยารักษาสีเหลืองทองที่จะฟื้นฟู@{1}HP ทันที CD:@{2}วินาที
+22389	^{1}^{2}【Maximize Power】^{3}^{4}is Active for up to ${2} allies within ${1} meters.	^{1}^{2}[ Maximize Power ]^{3}^{4}ใช้งานได้สำหรับพันธมิตร${2}ภายในระยะ${1}เมตร
+22390	Reduces Movement Speed by @{1}% and Physical DEF, Magic DEF, and CRIT RES by @{2}%.	ลดMSPDลง@{1}% และ DEF กายภาพ, DEF เวทมนตร์ และ CRIT RES ลง@{2}%
 22391	Immune to Knockback, Launch, Stun, Freeze, Petrify, Silence, Immobilize, and Blind.	มีภูมิคุ้มกันต่อการกระเด็น ปล่อยตัว สตัน แช่แข็ง กลายเป็นหิน เงียบ ทำให้เคลื่อนที่ไม่ได้ และตาบอด
-22392	Casts ^{1}^{2}【Falcon Assault】^{3}^{4} ${1} times. Internal Cooldown: ${2} seconds.	ร่าย ^{1}^{2}【Falcon Assault】^{3}^{4}${1}ครั้งคูลดาวน์ภายใน:${2}วินาที
-22393	^{1}^{2}[Holy Cross]^{3}^{4} casts ${1}% faster, but is no longer affected by ASPD.	^{1}^{2}[Holy Cross]^{3}^{4}ร่าย${1}% เร็วขึ้น แต่ไม่ได้รับผลกระทบจาก ASPD อีกต่อไป
+22392	Casts ^{1}^{2}【Falcon Assault】^{3}^{4} ${1} times. Internal Cooldown: ${2} seconds.	ร่าย ^{1}^{2}[ Falcon Assault ]^{3}^{4}${1}ครั้งCDภายใน:${2}วินาที
+22393	^{1}^{2}[Holy Cross]^{3}^{4} casts ${1}% faster, but is no longer affected by ASPD.	^{1}^{2}[ Holy Cross ]^{3}^{4}ร่าย${1}% เร็วขึ้น แต่ไม่ได้รับผลกระทบจาก ASPD อีกต่อไป
 22394	When Drops dies, there is a @{1}% Chance to create @{2}-@{3} Transformation Manuals	When Drops dies, there is a @{1}% Chance to create @{2}-@{3} Transformation Manuals
 22395	Stage lights focus on designated areas. Enemies outside the spotlights take damage.	Stage lights focus on designated areas. Enemies outside the spotlights take damage.
 22396	A headband adorned with a beautiful kitten doll. The lace trim makes it even cuter.	A headband adorned with a beautiful kitten doll. The lace trim makes it even cuter.
@@ -438,20 +438,20 @@
 22437	Changes the main product quantity range to @{1}–@{2}\n(This skill effect is unique)	Changes the main product quantity range to @{1}–@{2}\n(This skill effect is unique)
 22438	The match was canceled because not enough players confirmed Placement confirmation.	The match was canceled because not enough players confirmed Placement confirmation.
 22439	Increases Fire resistance, reducing Fire and Neutral damage taken by ^{1}${1}%^{2}.	เพิ่มความต้านทานไฟ ลดความเสียหายจากไฟและเป็นกลางโดย ^{1}${1}%^{2}
-22440	Enrages itself and all Thief Bugs, increasing their Attack Speed and Movement Speed	โกรธตัวเองและแมลงโจรทั้งหมด เพิ่มความเร็วในการโจมตีและความเร็วในการเคลื่อนที่
+22440	Enrages itself and all Thief Bugs, increasing their Attack Speed and Movement Speed	โกรธตัวเองและแมลงโจรทั้งหมด เพิ่มASPDและMSPD
 22441	Detonates the greatswords on the ground, dealing heavy damage to players near them.	ระเบิดดาบใหญ่บนพื้น สร้างความเสียหายอย่างหนักแก่ผู้เล่นที่อยู่ใกล้พวกเขา
-22442	Reduces the Cooldown of ^{1}Healing-type^{2} Primary Battle Skills by ${1} seconds.	ลดคูลดาวน์ของ ^{1}Healing-type^{2}Primary Battle Skills ลง${1}วินาที
-22443	Lock onto an enemy at a Distance of ${1} cells and deal ${6}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${6}%
+22442	Reduces the Cooldown of ^{1}Healing-type^{2} Primary Battle Skills by ${1} seconds.	ลดCDของ ^{1}Healing-type^{2}Primary Battle Skills ลง${1}วินาที
+22443	Lock onto an enemy at a Distance of ${1} cells and deal ${6}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${6}%
 22444	Increases your Neutral, Ghost, Fire, Water, Wind, and Earth damage by ^{1}${1}%^{2}	เพิ่มความเสียหายของ Neutral, Ghost, Fire, Water, Wind และ Earth ของคุณ ^{1}${1}%^{2}
 22445	(Quietly) She's not my girlfriend... I'll take the Bunny Hair Band. How much is it?	(Quietly) She's not my girlfriend... I'll take the Bunny Hair Band. How much is it?
 22446	The battle is still underway. You will be penalized if you leave now. Are you sure?	The battle is still underway. You will be penalized if you leave now. Are you sure?
 22447	The Guild Auction has officially begun. Visit the Auction House to place your bids.	The Guild Auction has officially begun. Visit the Auction House to place your bids.
 22448	Check for teammates within 5 meters, then Launch your Kunai at them to deal damage.	ตรวจสอบเพื่อนร่วมทีมในระยะ 5 เมตร จากนั้นยิง Kunai ไปที่พวกเขาเพื่อสร้างความเสียหาย
 22449	Inflicted by the Fox Fairy. Reduces this unit's Wind damage dealt by ^{1}${1}%^{2}.	เกิดจาก Fairy จิ้งจอกลดความเสียหายจากลมของยูนิตนี้ที่สร้างโดย ^{1}${1}%^{2}
-22450	Increases Physical ATK based on DEX. Every ${1} DEX increases Physical ATK by ${2}.	เพิ่ม ATK กายภาพตาม DEX ทุก ๆ${1}DEX จะเพิ่ม ATK กายภาพขึ้น${2}
-22451	Increases Physical ATK based on LUK. Every ${1} LUK increases Physical ATK by ${2}.	เพิ่ม ATK กายภาพตาม LUK ทุก ๆ${1}LUK จะเพิ่ม ATK กายภาพขึ้น${2}
-22452	Increases Physical ATK based on AGI. Every ${1} AGI increases Physical ATK by ${2}.	เพิ่ม ATK กายภาพตาม AGI ทุก ๆ${1}AGI จะเพิ่ม ATK ทางกายภาพขึ้น${2}
-22453	Increases Physical ATK based on STR. Every ${1} STR increases Physical ATK by ${2}.	เพิ่ม ATK กายภาพตาม STR ทุก ๆ${1}STR จะเพิ่ม ATK กายภาพขึ้น${2}
+22450	Increases Physical ATK based on DEX. Every ${1} DEX increases Physical ATK by ${2}.	เพิ่ม P.ATKตาม DEX ทุก ๆ${1}DEX จะเพิ่ม P.ATKขึ้น${2}
+22451	Increases Physical ATK based on LUK. Every ${1} LUK increases Physical ATK by ${2}.	เพิ่ม P.ATKตาม LUK ทุก ๆ${1}LUK จะเพิ่ม P.ATKขึ้น${2}
+22452	Increases Physical ATK based on AGI. Every ${1} AGI increases Physical ATK by ${2}.	เพิ่ม P.ATKตาม AGI ทุก ๆ${1}AGI จะเพิ่ม P.ATKขึ้น${2}
+22453	Increases Physical ATK based on STR. Every ${1} STR increases Physical ATK by ${2}.	เพิ่ม P.ATKตาม STR ทุก ๆ${1}STR จะเพิ่ม P.ATKขึ้น${2}
 22454	Head to the center of the territory, Collect Live Coals, and add them to the bonfire	Head to the center of the territory, Collect Live Coals, and add them to the bonfire
 22455	Follow the Head Job Advance Mentor's guidance and touch the Book of Job Advancement.	ปฏิบัติตามคำแนะนำของ Head Job Advance Mentor และแตะที่ Book of Job Advancement
 22456	The professor's supplies were seized at the North Gate. Head there and recover them.	สิ่งของของศาสตราจารย์ถูกยึดที่ Gate ทิศเหนือมุ่งหน้าไปที่นั่นและกู้คืนพวกเขา
@@ -461,9 +461,9 @@
 22460	The Grand Celebration invitations have already begun, so no more bets can be placed!	The Grand Celebration invitations have already begun, so no more bets can be placed!
 22461	When hit during Auto Guard, has a @{1}% Chance to Stun the attacker for @{2} seconds	เมื่อถูกโจมตีระหว่างป้องกันอัตโนมัติ มีโอกาส@{1}% ที่จะทำให้ผู้โจมตีมึนงงเป็นเวลา@{2}วินาที
 22462	Gain Divine Blessing: Increases Damage Increase by @{1}% and DMG Reduction by @{2}%.	ได้รับ Blessing จากสวรรค์: เพิ่มความเสียหายเพิ่มขึ้น@{1}% และ DMG Reduction ลง@{2}%
-22463	Skills cost no SP, skill cooldowns and CT are reduced, and Attack Speed is increased	ทักษะไม่ต้องใช้ SP, คูลดาวน์ทักษะและ CT ลดลง และความเร็วในการโจมตีเพิ่มขึ้น
-22464	^{1}^{2}[Cart Revolution]^{3}^{4}'s percentage damage multiplier increases by ${1}%.	^{1}^{2}[Cart Revolution]^{3}^{4} ตัวคูณเปอร์เซ็นต์ความเสียหายของเพิ่มขึ้น${1}%
-22465	The Stun and Blind Chance of ^{1}^{2}【Meteor Assault】^{3}^{4} is increased by ${1}%.	โอกาสมึนงงและตาบอดของ ^{1}^{2}【Meteor Assault】^{3}^{4}เพิ่มขึ้น${1}%
+22463	Skills cost no SP, skill cooldowns and CT are reduced, and Attack Speed is increased	ทักษะไม่ต้องใช้ SP, CDทักษะและ CT ลดลง และASPDเพิ่มขึ้น
+22464	^{1}^{2}[Cart Revolution]^{3}^{4}'s percentage damage multiplier increases by ${1}%.	^{1}^{2}[ Cart Revolution ]^{3}^{4} ตัวคูณเปอร์เซ็นต์ความเสียหายของเพิ่มขึ้น${1}%
+22465	The Stun and Blind Chance of ^{1}^{2}【Meteor Assault】^{3}^{4} is increased by ${1}%.	โอกาสมึนงงและตาบอดของ ^{1}^{2}[ Meteor Assault ]^{3}^{4}เพิ่มขึ้น${1}%
 22466	When a Split Drops dies, it has a @{1}% Chance to create @{2} Transformation Manuals	When a Split Drops dies, it has a @{1}% Chance to create @{2} Transformation Manuals
 22467	Baphomet summons a ^{1}lightning strike^{2} that damages targets in a circular area.	Baphomet summons a ^{1}lightning strike^{2} that damages targets in a circular area.
 22468	This Quick Challenge cleared through Floor ${1}. You received the following rewards:	This Quick Challenge cleared through Floor ${1}. You received the following rewards:
@@ -499,7 +499,7 @@
 22498	A sea urchin covered in spiky armor. Handle it carefully, or it may prick your hand.	เม่นทะเลที่สวมชุดเกราะแหลมคม จับมันอย่างระมัดระวัง ไม่อย่างนั้นมันอาจทิ่มมือคุณได้
 22499	A canine tooth obtained from a creature called an Orc. Available from the Collector.	ฟันเขี้ยวที่ได้จากสิ่งมีชีวิตที่เรียกว่าออร์ค มีจำหน่ายจากนักสะสม
 22500	Obtain a full set of Tier @{1} Equipment Crafting Blueprints and Crafting Materials.	รับชุดพิมพ์เขียวการประดิษฐ์อุปกรณ์และวัสดุการประดิษฐ์ระดับ@{1}ครบชุด
-22501	A superb Fountain of Life. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	Fountain of Life ที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที คูลดาวน์:@{3}วินาที
+22501	A superb Fountain of Life. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	Fountain of Life ที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที CD:@{3}วินาที
 22502	A katar said to have been created by a Lich who gathered the resentment of the dead.	ว่ากันว่ากาตาร์ถูกสร้างขึ้นโดยลิชผู้รวบรวมความขุ่นเคืองของผู้ตาย
 22503	Successfully crafting a cloth item has a @{1}% Chance to increase the output by @{2}	Successfully crafting a cloth item has a @{1}% Chance to increase the output by @{2}
 22504	Successfully crafting a Metal item has a @{1}% Chance to increase the output by @{2}	Successfully crafting a Metal item has a @{1}% Chance to increase the output by @{2}
@@ -507,11 +507,11 @@
 22506	A mysterious Potion that can cure nearly every Status Effect. Cooldown: @{1} seconds	A mysterious Potion that can cure nearly every Status Effect. Cooldown: @{1} seconds
 22507	Your character is temporarily unable to purchase items at Stalls. Unseal time: ${1}.	Your character is temporarily unable to purchase items at Stalls. Unseal time: ${1}.
 22508	Once learned, allows you to rent a Pushcart and use various Pushcart-related skills.	เมื่อเรียนรู้แล้ว คุณจะสามารถเช่ารถเข็นและใช้ทักษะต่างๆ ที่เกี่ยวข้องกับรถเข็นได้
-22509	Increases Attack Speed by ^{1}${1}%^{2} and Physical and Magic DEF by ^{3}${2}%^{4}.	เพิ่มความเร็วในการโจมตีโดย ^{1}${1}%^{2}และ DEF กายภาพและเวทมนตร์โดย ^{3}${2}%^{4}
+22509	Increases Attack Speed by ^{1}${1}%^{2} and Physical and Magic DEF by ^{3}${2}%^{4}.	เพิ่มASPDโดย ^{1}${1}%^{2}และ DEF กายภาพและเวทมนตร์โดย ^{3}${2}%^{4}
 22510	Summon an Earthshatter Formation, inflicting Stun on enemies within ${1}m for ${2}s.	เรียกรูปแบบแผ่นดินไหว สร้างความมึนงงให้กับศัตรูที่อยู่ในระยะ${1}m เป็นเวลา${2}s
-22511	Lock on to an enemy at a Distance of ${1} cells and deal ${2}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${2}%
-22512	Target an enemy within a Distance of ${1} cells and deal ${3}% melee Physical damage	กำหนดเป้าหมายศัตรูภายในระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${3}%
-22513	Lock on to an enemy at a Distance of ${1} cells and deal ${5}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${5}%
+22511	Lock on to an enemy at a Distance of ${1} cells and deal ${2}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${2}%
+22512	Target an enemy within a Distance of ${1} cells and deal ${3}% melee Physical damage	กำหนดเป้าหมายศัตรูภายในระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${3}%
+22513	Lock on to an enemy at a Distance of ${1} cells and deal ${5}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${5}%
 22514	Clear any Realm of the Gods Dungeon with ^{1}@{1} Guild Members^{2} from your guild.	Clear any Realm of the Gods Dungeon with ^{1}@{1} Guild Members^{2} from your guild.
 22515	Dark Pulse will be unleashed in ${1} seconds! Use Dark Pulse to destroy the Horongs!	Dark Pulse will be unleashed in ${1} seconds! Use Dark Pulse to destroy the Horongs!
 22516	Dungeon matchmaking decline penalty I: Cannot join dungeon matchmaking for @{1} sec.	การลงโทษการปฏิเสธการจับคู่ดันเจี้ยน I: ไม่สามารถเข้าร่วมการจับคู่ดันเจี้ยนเป็นเวลา@{1}วินาที
@@ -527,9 +527,9 @@
 22526	Deals damage using Cart Revolution while providing buffs to themselves and the party.	Deals damage using Cart Revolution while providing buffs to themselves and the party.
 22527	Once Talent Tree ${1} is Activated, you can allocate points to Battle Pledge talents.	Once Talent Tree ${1} is Activated, you can allocate points to Battle Pledge talents.
 22528	Immune to knockback, knock-up, Stun, Freeze, Petrify, Silence, Immobilize, and Blind.	มีภูมิคุ้มกันต่อการกระเด็น, น็อคอัพ, สตัน, แช่แข็ง, กลายเป็นหิน, เงียบ, ทำให้เคลื่อนที่ไม่ได้ และตาบอด
-22529	While ^{1}^{2}【True Sight】^{3}^{4} is Active, STR, AGI, VIT, INT, DEX, and LUK +${1}.	ในขณะที่ ^{1}^{2}【True Sight】^{3}^{4}ใช้งานอยู่, STR, AGI, VIT, INT, DEX และ LUK +${1}
-22530	When HP is below ${1}%, increases Physical DEF and Magic DEF by 【Character Lv.*${2}】.	เมื่อ HP ต่ำกว่า${1}% จะเพิ่ม DEF กายภาพและ DEF เวทมนตร์ขึ้น 【Character Lv.*${2}】
-22531	【Fire Bolt】, 【Cold Bolt】, 【Lightning Bolt】, and 【Earth Spike】 deal ${1}% more damage.	【Fire Bolt】, 【Cold Bolt】, 【Lightning Bolt】 และ 【Earth Spike】 สร้างความเสียหายได้มากขึ้น${1}%
+22529	While ^{1}^{2}【True Sight】^{3}^{4} is Active, STR, AGI, VIT, INT, DEX, and LUK +${1}.	ในขณะที่ ^{1}^{2}[ True Sight ]^{3}^{4}ใช้งานอยู่, STR, AGI, VIT, INT, DEX และ LUK +${1}
+22530	When HP is below ${1}%, increases Physical DEF and Magic DEF by 【Character Lv.*${2}】.	เมื่อ HP ต่ำกว่า${1}% จะเพิ่ม DEF กายภาพและ DEF เวทมนตร์ขึ้น [ Character Lv.*${2} ]
+22531	【Fire Bolt】, 【Cold Bolt】, 【Lightning Bolt】, and 【Earth Spike】 deal ${1}% more damage.	[ Fire Bolt ], [ Cold Bolt ], [ Lightning Bolt ] และ [ Earth Spike ] สร้างความเสียหายได้มากขึ้น${1}%
 22532	When a Jet Goblin dies, there is a @{1}% Chance to create @{2} Transformation Manuals	When a Jet Goblin dies, there is a @{1}% Chance to create @{2} Transformation Manuals
 22533	Uses a bow to excel at ranged attacks and can knock enemies back at critical moments.	Uses a bow to excel at ranged attacks and can knock enemies back at critical moments.
 22534	Excels at close-range combat, wielding a sword with a balance of offense and defense.	Excels at close-range combat, wielding a sword with a balance of offense and defense.
@@ -559,25 +559,25 @@
 22558	Option A Event Text Event Text Event Text Event Text Event Text Event Text Event Text	Option A Event Text Event Text Event Text Event Text Event Text Event Text Event Text
 22559	Open to obtain @{1} Spirit Pact Stones, @{2} Pet Training Diary I, and @{3} Diamonds.	Open เพื่อรับ@{1}Spirit Pact Stones,@{2}Pet Training Diary I และ Diamonds@{3}
 22560	A clear, colorless liquid used in cooking to remove unwanted odors and enhance aroma.	ของเหลวใสไม่มีสีใช้ในการปรุงอาหารเพื่อขจัดกลิ่นไม่พึงประสงค์และเพิ่มกลิ่นหอม
-22561	Restores the character's Life by @{1} HP per second for @{2} sec. Cooldown: @{3} sec.	ฟื้นฟูพลัง Life ของตัวละครตาม@{1}HP ต่อวินาทีเป็นเวลา@{2}วินาทีคูลดาวน์:@{3}วินาที
+22561	Restores the character's Life by @{1} HP per second for @{2} sec. Cooldown: @{3} sec.	ฟื้นฟูพลัง Life ของตัวละครตาม@{1}HP ต่อวินาทีเป็นเวลา@{2}วินาทีCD:@{3}วินาที
 22562	A knee-length coat that protects against the cold, though it gets very hot in summer.	เสื้อคลุมยาวถึงเข่าที่ป้องกันความหนาวเย็นแม้ว่าจะร้อนจัดในฤดูร้อนก็ตาม
 22563	Learning Skills will <color=#c26b47>replace the original skill or add 1 skill</color>	Learning Skills will <color=#c26b47>replace the original skill or add 1 skill</color>
 22564	Your current settings haven't been saved. Are you sure you want to close this screen?	Your current settings haven't been saved. Are you sure you want to close this screen?
 22565	The host has disabled microphones. Players in the mic queue temporarily cannot speak.	The host has disabled microphones. Players in the mic queue temporarily cannot speak.
 22566	I'm so sorry. The Professor paid us so much, and we still let the cargo get stolen...	I'm so sorry. The Professor paid us so much, and we still let the cargo get stolen...
 22567	Rapidly restores Life, recovering a total of ^{1}@{2}% of Max Life^{2} over @{1} sec.	ฟื้นฟูพลัง Life อย่างรวดเร็ว โดยฟื้นฟู ^{1}@{2}% ของพลัง Life สูงสุด^{2}เหนือ@{1}วินาที
-22568	Increases the percentage damage coefficient of ^{1}【Blitz Beat】^{2} by ^{3}${1}%^{4}.	เพิ่มเปอร์เซ็นต์ค่าสัมประสิทธิ์ความเสียหายของ ^{1}【Blitz Beat】^{2}โดย ^{3}${1}%^{4}
+22568	Increases the percentage damage coefficient of ^{1}【Blitz Beat】^{2} by ^{3}${1}%^{4}.	เพิ่มเปอร์เซ็นต์ค่าสัมประสิทธิ์ความเสียหายของ ^{1}[ Blitz Beat ]^{2}โดย ^{3}${1}%^{4}
 22569	Your edits haven't been saved. Are you sure you want to revert and clear all changes?	Your edits haven't been saved. Are you sure you want to revert and clear all changes?
-22570	Lock on to an enemy at a Distance of ${1} cells and deal ${10}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างความเสียหายทางกายภาพระยะประชิด${10}%
+22570	Lock on to an enemy at a Distance of ${1} cells and deal ${10}% melee Physical damage	ล็อคศัตรูที่ระยะห่างของเซลล์${1}และสร้างP.DMGระยะประชิด${10}%
 22571	The target is in a special Location and cannot be invited or accepted into the party.	The target is in a special Location and cannot be invited or accepted into the party.
 22572	Sharing Materials reduced the Blacksmith's Craft time for high-tier equipment by 10s.	Sharing Materials reduced the Blacksmith's Craft time for high-tier equipment by 10s.
-22573	After a player Kill, Magic ATK increases by @{1}% for @{2} sec. (Cooldown: @{3} sec.)	หลังจากที่ผู้เล่นสังหารได้ พลังโจมตีเวทย์จะเพิ่มขึ้น@{1}% เป็นเวลา@{2}วินาที (คูลดาวน์:@{3}วินาที)
+22573	After a player Kill, Magic ATK increases by @{1}% for @{2} sec. (Cooldown: @{3} sec.)	หลังจากที่ผู้เล่นสังหารได้ M.ATKจะเพิ่มขึ้น@{1}% เป็นเวลา@{2}วินาที (CD:@{3}วินาที)
 22574	You've reached today's limit for sending request messages. Please try again tomorrow.	You've reached today's limit for sending request messages. Please try again tomorrow.
 22575	The System has detected unusual Trade activity on your account. You cannot list items.	The System has detected unusual Trade activity on your account. You cannot list items.
 22576	Carrying one of Fafnir's scales, which can be used to build a Dragon Scale Shield Wall	ถือเกล็ดของ Fafnir หนึ่งอันซึ่งใช้สร้างกำแพง Dragon Scale Shield ได้
-22577	While ^{1}^{2}【Wind Walker】^{3}^{4} is Active, MSPD +${1}% and duration +${2} seconds.	ในขณะที่ ^{1}^{2}【Wind Walker】^{3}^{4}ทำงานอยู่, MSPD +${1}% และระยะเวลา +${2}วินาที
-22578	^{1}^{2}[Heal]^{3}^{4} restores an Extra MATK*${2}%+${3} HP to targets below ${1}% HP.	^{1}^{2}[Heal]^{3}^{4}คืนค่า MATK พิเศษ*${2}%+${3}HP ไปยังเป้าหมายที่ต่ำกว่า${1}% HP
-22579	Increases the maximum Floors of the Physical Damage buff on the current Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟความเสียหายกายภาพบน Totem ปัจจุบันขึ้น${1}
+22577	While ^{1}^{2}【Wind Walker】^{3}^{4} is Active, MSPD +${1}% and duration +${2} seconds.	ในขณะที่ ^{1}^{2}[ Wind Walker ]^{3}^{4}ทำงานอยู่, MSPD +${1}% และระยะเวลา +${2}วินาที
+22578	^{1}^{2}[Heal]^{3}^{4} restores an Extra MATK*${2}%+${3} HP to targets below ${1}% HP.	^{1}^{2}[ Heal ]^{3}^{4}คืนค่า M.ATK พิเศษ*${2}%+${3}HP ไปยังเป้าหมายที่ต่ำกว่า${1}% HP
+22579	Increases the maximum Floors of the Physical Damage buff on the current Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟP.DMGบน Totem ปัจจุบันขึ้น${1}
 22580	When Poporing dies, there is a @{1}% Chance to create @{2}~@{3} Transformation Manuals	When Poporing dies, there is a @{1}% Chance to create @{2}~@{3} Transformation Manuals
 22581	When a Split Marin dies, there is a @{1}% Chance to create @{2} Transformation Manuals	When a Split Marin dies, there is a @{1}% Chance to create @{2} Transformation Manuals
 22582	Mistress summons ^{1}advancing Hornets^{2} that ^{3}knock back^{4} enemies they touch.	Mistress summons ^{1}advancing Hornets^{2} that ^{3}knock back^{4} enemies they touch.
@@ -617,16 +617,16 @@
 22616	When both professions are crafting professions, crafting Vigor cost is reduced by @{1}	When both professions are crafting professions, crafting Vigor cost is reduced by @{1}
 22617	Are you sure you want to consume Soul Echoes of Orange Quality or higher for Level-up?	Are you sure you want to consume Soul Echoes of Orange Quality or higher for Level-up?
 22618	Cart-exclusive skill. Merchants gain ^{1}${1}^{2} Extra slots while operating a Stall.	ทักษะพิเศษเฉพาะรถเข็นพ่อค้าจะได้รับ ^{1}${1}^{2}ช่องพิเศษขณะใช้งานแผงลอย
-22619	Removes ^{1}【Silence】^{2} and ^{3}【Blind】^{4} from a designated ST ally within ${1} m.	Removes ^{1}【Silence】^{2}และ ^{3}【Blind】^{4}จากพันธมิตร ST ที่กำหนดภายใน${1}m
+22619	Removes ^{1}【Silence】^{2} and ^{3}【Blind】^{4} from a designated ST ally within ${1} m.	Removes ^{1}[ Silence ]^{2}และ ^{3}[ Blind ]^{4}จากพันธมิตร Single Target ที่กำหนดภายใน${1}m
 22620	Max Life increases by ^{1}${1}^{2}, and Holy damage taken is reduced by ^{3}${2}%^{4}.	พลัง Life สูงสุดเพิ่มขึ้น ^{1}${1}^{2}และความเสียหายศักดิ์สิทธิ์ที่ได้รับจะลดลง ^{3}${2}%^{4}
 22621	Participate in Guild activities and make a Donation of supplies to repel the invasion.	Participate in Guild activities and make a Donation of supplies to repel the invasion.
 22622	Charge forward with the supply cart, knocking back and Stunning enemies along the way.	พุ่งไปข้างหน้าด้วยรถเข็นเสบียง กระแทกศัตรูให้กระเด็นไปด้านหลัง
-22623	After using 【Soul Destroyer】 ${1} times, damage dealt increases by ${2}% for ${3} sec.	หลังจากใช้ 【Soul Destroyer】${1}ครั้ง ความเสียหายที่สร้างจะเพิ่มขึ้น${2}% เป็นเวลา${3}วินาที
-22624	Deals ranged Fire magic damage equal to ^{1}${1}%^{2} of your Magic ATK to the target.	สร้างความเสียหายเวทย์ไฟระยะไกลเท่ากับ ^{1}${1}%^{2}ของพลังโจมตีเวทย์มนตร์ของคุณไปยังเป้าหมาย
+22623	After using 【Soul Destroyer】 ${1} times, damage dealt increases by ${2}% for ${3} sec.	หลังจากใช้ [ Soul Destroyer ]${1}ครั้ง ความเสียหายที่สร้างจะเพิ่มขึ้น${2}% เป็นเวลา${3}วินาที
+22624	Deals ranged Fire magic damage equal to ^{1}${1}%^{2} of your Magic ATK to the target.	สร้างM.DMGย์ไฟระยะไกลเท่ากับ ^{1}${1}%^{2}ของM.ATKมนตร์ของคุณไปยังเป้าหมาย
 22625	We eventually got married, but he always felt guilty for not giving me a wedding ring.	We eventually got married, but he always felt guilty for not giving me a wedding ring.
 22626	Matchmaking is already underway for another mode. You cannot initiate new matchmaking.	Matchmaking is already underway for another mode. You cannot initiate new matchmaking.
 22627	Cannot be seen or targeted. Revealed after taking damage @{1} times or dealing damage.	ไม่สามารถมองเห็นหรือกำหนดเป้าหมายได้เปิดเผยหลังจากได้รับความเสียหาย@{1}ครั้งหรือสร้างความเสียหาย
-22628	Reduces Movement Speed by @{1}% and increases damage taken from all elements by @{2}%.	ลดความเร็วในการเคลื่อนที่ลง@{1}% และเพิ่มความเสียหายที่ได้รับจากองค์ประกอบทั้งหมด@{2}%
+22628	Reduces Movement Speed by @{1}% and increases damage taken from all elements by @{2}%.	ลดMSPDลง@{1}% และเพิ่มความเสียหายที่ได้รับจากองค์ประกอบทั้งหมด@{2}%
 22629	Everyone is gathering around the Bonfire, chatting as they wait for the event to begin.	Everyone is gathering around the Bonfire, chatting as they wait for the event to begin.
 22630	You must Join a guild to participate in this event.\nWould you like to go Join a guild?	You must Join a guild to participate in this event.\nWould you like to go Join a guild?
 22631	\nYou defeated ^{1}${1}^{2} monster Bosses. Even the mightiest beings bow at your feet.	\nYou defeated ^{1}${1}^{2} monster Bosses. Even the mightiest beings bow at your feet.
@@ -634,7 +634,7 @@
 22633	Cannot reset the [Cart Use] skill. Please Clear all items from the Cart Merchant first.	Cannot reset the [Cart Use] skill. Please Clear all items from the Cart Merchant first.
 22634	Join the Bonfire Party at the Guild Base during the Event Period to complete the quest.	Join the Bonfire Party at the Guild Base during the Event Period to complete the quest.
 22635	If guilds submit the same bid, the guild with more total escort deliveries ranks higher	If guilds submit the same bid, the guild with more total escort deliveries ranks higher
-22636	Each stack reduces Movement Speed by @{1}%. At @{2} stacks, inflicts Stun for @{3} sec.	แต่ละสแต็คจะลดความเร็วในการเคลื่อนที่ลง@{1}%ที่@{2}สแต็ค จะทำให้ติดสตันเป็นเวลา@{3}วินาที
+22636	Each stack reduces Movement Speed by @{1}%. At @{2} stacks, inflicts Stun for @{3} sec.	แต่ละสแต็คจะลดMSPDลง@{1}%ที่@{2}สแต็ค จะทำให้ติดสตันเป็นเวลา@{3}วินาที
 22637	The new Skill Build is blank. You must manually allocate skill points and equip skills.	The new Skill Build is blank. You must manually allocate skill points and equip skills.
 22638	You must wait for the countdown to reach zero and the quest to begin before proceeding.	You must wait for the countdown to reach zero and the quest to begin before proceeding.
 22639	This Crown sharpens the wearer's mind and contains magic that bolsters mental strength.	This Crown sharpens the wearer's mind and contains magic that bolsters mental strength.
@@ -676,8 +676,8 @@
 22675	Healing increased by @{1}%. Each Floor of a healing buff grants an Extra @{2}% healing.	การรักษาเพิ่มขึ้นโดย@{1}%แต่ละชั้นของบัฟการรักษาจะให้การรักษาพิเศษ@{2}%
 22676	Healing and healing received decrease by @{1}%, and Crit Resistance decreases by @{2}%.	การรักษาและการรักษาได้รับการลดลง @{1}% และความต้านทานคริติคอลลดลง @{2}%
 22677	Inflicted by Evilheart Hunter Eve. Reduces Physical DEF and Magic DEF by ^{1}${1}%^{2}.	สร้างความเสียหายโดย Evilheart Hunter Eve ลด DEF กายภาพและ DEF เวทมนตร์โดย ^{1}${1}%^{2}
-22678	While active, [Warg Strike], [Warg Bite], and [Warg Hunt] summon Extra Warg companions.	ในขณะที่ใช้งาน [Warg Strike], [Warg Bite] และ [Warg Hunt] จะเรียกสหาย Extra Warg
-22679	Deals ranged Wind magic damage equal to Magic ATK * ^{1}${1}% + ${2}^{2} to the target.	สร้างความเสียหายเวทย์มนตร์ลมระยะไกลเท่ากับพลังโจมตีเวทย์ * ^{1}${1}% +${2}^{2}ไปยังเป้าหมาย
+22678	While active, [Warg Strike], [Warg Bite], and [Warg Hunt] summon Extra Warg companions.	ในขณะที่ใช้งาน [ Warg Strike ], [ Warg Bite ] และ [ Warg Hunt ] จะเรียกสหาย Extra Warg
+22679	Deals ranged Wind magic damage equal to Magic ATK * ^{1}${1}% + ${2}^{2} to the target.	สร้างM.DMGย์มนตร์ลมระยะไกลเท่ากับM.ATK * ^{1}${1}% +${2}^{2}ไปยังเป้าหมาย
 22680	${1} has begun the Starshatter Dragon summoning ritual. Adventurers, go lend a hand!${2}	${1} has begun the Starshatter Dragon summoning ritual. Adventurers, go lend a hand!${2}
 22681	This chapter's journey is complete. Head to the next chapter to continue your adventure~	This chapter's journey is complete. Head to the next chapter to continue your adventure~
 22682	Extra attacks triggered when dealing magic damage ignore damage reduction from Magic DEF	Extra attacks triggered when dealing magic damage ignore damage reduction from Magic DEF
@@ -686,8 +686,8 @@
 22685	Successfully crafting an orange cloth item has a @{1}% Chance to grant @{2} Extra copies	Successfully crafting an orange cloth item has a @{1}% Chance to grant @{2} Extra copies
 22686	Party members cannot follow you in this area. Please enter a public area to summon them.	Party members cannot follow you in this area. Please enter a public area to summon them.
 22687	Surrounded by lightning, shocking up to @{1} nearby enemies every second to deal damage.	ล้อมรอบด้วยสายฟ้า ทำให้ศัตรูที่อยู่ใกล้@{1}ตกตะลึงทุกวินาทีเพื่อสร้างความเสียหาย
-22688	Temporarily increases all base stats by @{1}, HIT by @{2}, and Physical Damage by @{3}%.	เพิ่มค่าสถานะพื้นฐานทั้งหมดชั่วคราวโดย@{1}, HIT โดย@{2}และความเสียหายทางกายภาพโดย@{3}%
-22689	For every @{1} enemy hit by 【Napalm Vulcan】, its damage increases by ${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่ถูกโจมตีโดย 【Napalm Vulcan】 ความเสียหายของมันจะเพิ่มขึ้น${1}% สูงสุดถึง${2}%
+22688	Temporarily increases all base stats by @{1}, HIT by @{2}, and Physical Damage by @{3}%.	เพิ่มค่าสถานะพื้นฐานทั้งหมดชั่วคราวโดย@{1}, HIT โดย@{2}และP.DMGโดย@{3}%
+22689	For every @{1} enemy hit by 【Napalm Vulcan】, its damage increases by ${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่ถูกโจมตีโดย [ Napalm Vulcan ] ความเสียหายของมันจะเพิ่มขึ้น${1}% สูงสุดถึง${2}%
 22690	Pharaoh's Pyramid fires ^{1}beams that track targets^{2}, with ^{3}more beams fired^{4}.	Pharaoh's Pyramid fires ^{1}beams that track targets^{2}, with ^{3}more beams fired^{4}.
 22691	When you become a little kitty, you'll discover Happiness in its purest, most Easy form.	When you become a little kitty, you'll discover Happiness in its purest, most Easy form.
 22692	You've resumed using Bonus Time. Killing Field Monsters can now yield plentiful rewards.	You've resumed using Bonus Time. Killing Field Monsters can now yield plentiful rewards.
@@ -719,20 +719,20 @@
 22718	Hide from a blue Pegasus said to exist only in Legend!\nIt's warm and soft to the touch.	ซ่อนตัวจากเพกาซัสสีน้ำเงินที่บอกว่ามีอยู่ในตำนานเท่านั้น!\n ให้สัมผัสที่อุ่นและนุ่มนวล
 22719	A pink gemstone from Daidai's Collector's collection. Can be used for prize wheel draws.	อัญมณีสีชมพูจากคอลเลกชันของ Daidai's Collector สามารถใช้ในการจับรางวัลวงล้อได้
 22720	A four-leaf Lucky Clover. Legend says it brings good LUK. Can be exchanged for Headwear.	Lucky Clover สี่แฉก ตำนานเล่าว่านำ LUK ที่ดีมาให้ สามารถเปลี่ยนเป็น Headwear ได้
-22721	A superb Green Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีเขียวที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที คูลดาวน์:@{3}วินาที
+22721	A superb Green Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีเขียวที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที CD:@{3}วินาที
 22722	A symbolic shield bearing the will of God, bestowed directly through a divine messenger.	โล่สัญลักษณ์ที่แสดงถึงน้ำพระทัยของพระเจ้า มอบให้โดยตรงผ่านผู้ส่งสารจากสวรรค์
 22723	Successfully crafting an engraved item has a @{1}% Chance to increase the output by @{2}	Successfully crafting an engraved item has a @{1}% Chance to increase the output by @{2}
 22724	Because you are under @{1}, the anti-addiction System prevents you from making purchases	Because you are under @{1}, the anti-addiction System prevents you from making purchases
 22725	Unable to switch Life Skills. The maximum number of active Life Skills has been reached.	Unable to switch Life Skills. The maximum number of active Life Skills has been reached.
 22726	Someone declined the match. You have returned to matchmaking at the front of the Lineup.	Someone declined the match. You have returned to matchmaking at the front of the Lineup.
-22727	A razor-sharp blade with an icy gleam. Use to permanently increase Physical ATK by @{1}.	ใบมีดคมกริบพร้อมประกายน้ำแข็ง ใช้เพื่อเพิ่ม ATK ทางกายภาพอย่างถาวรโดย@{1}
+22727	A razor-sharp blade with an icy gleam. Use to permanently increase Physical ATK by @{1}.	ใบมีดคมกริบพร้อมประกายน้ำแข็ง ใช้เพื่อเพิ่ม P.ATKอย่างถาวรโดย@{1}
 22728	This skill is not in the skill tree, so skill points cannot be allocated to it manually.	This skill is not in the skill tree, so skill points cannot be allocated to it manually.
 22729	Summons Sight around you, revealing hidden targets within a ${2} m radius over ${1} sec.	เรียก Sight รอบตัวคุณ เผยเป้าหมายที่ซ่อนอยู่ภายในรัศมี${2}m เหนือ${1}วินาที
 22730	The dragon leaps to the edge of the arena and summons a wall of fire that moves forward.	มังกรกระโดดไปที่ขอบเวทีแล้วเรียกกำแพงไฟที่เคลื่อนตัวไปข้างหน้า
-22731	Geographer spins rapidly, dealing ^{1}${1}%^{2} Neutral melee Magic damage to the enemy.	Geographer หมุนอย่างรวดเร็ว สร้างความเสียหาย ^{1}${1}%^{2}สร้างความเสียหายเวทย์ระยะประชิดที่เป็นกลางแก่ศัตรู
+22731	Geographer spins rapidly, dealing ^{1}${1}%^{2} Neutral melee Magic damage to the enemy.	Geographer หมุนอย่างรวดเร็ว สร้างความเสียหาย ^{1}${1}%^{2}สร้างM.DMGย์ระยะประชิดที่เป็นกลางแก่ศัตรู
 22732	Um... I want to give her something she'll like. Do you know what would make a good gift?	Um... I want to give her something she'll like. Do you know what would make a good gift?
-22733	After a player Kill, Physical ATK increases by @{1}% for @{2} sec. (Cooldown: @{3} sec.)	หลังจากที่ผู้เล่นสังหาร พลังโจมตีทางกายภาพจะเพิ่มขึ้น@{1}% เป็นเวลา@{2}วินาที (คูลดาวน์:@{3}วินาที)
-22734	Draws power from Rune Runes, increasing Physical ATK by @{1}% and Attack Speed by @{2}%.	ดึงพลังจากรูนรูน เพิ่ม ATK ทางกายภาพขึ้น@{1}% และความเร็วการโจมตีขึ้น@{2}%
+22733	After a player Kill, Physical ATK increases by @{1}% for @{2} sec. (Cooldown: @{3} sec.)	หลังจากที่ผู้เล่นสังหาร P.ATKจะเพิ่มขึ้น@{1}% เป็นเวลา@{2}วินาที (CD:@{3}วินาที)
+22734	Draws power from Rune Runes, increasing Physical ATK by @{1}% and Attack Speed by @{2}%.	ดึงพลังจากรูนรูน เพิ่ม P.ATKขึ้น@{1}% และความเร็วการโจมตีขึ้น@{2}%
 22735	After many twists and turns, you've finally found the Professor. Return to camp and rest.	หลังจากพลิกผันหลายครั้ง ในที่สุดคุณก็พบ Professor แล้ว กลับเข้าค่ายและพักผ่อน
 22736	A dangerous passage lies beneath the vortex. Make your way through as safely as possible.	A dangerous passage lies beneath the vortex. Make your way through as safely as possible.
 22737	Leaving the party will abandon the escort cart. Are you sure you want to leave the party?	Leaving the party will abandon the escort cart. Are you sure you want to leave the party?
@@ -740,7 +740,7 @@
 22739	Deals damage using High Speed Cart Ram while providing buffs to themselves and the party.	Deals damage using High Speed Cart Ram while providing buffs to themselves and the party.
 22740	Changing the price requires another Trade review, just like relisting the item. Continue?	Changing the price requires another Trade review, just like relisting the item. Continue?
 22741	You cannot Teleport to the quiz Location while in a Cross-server area, Dungeon, or plane.	You cannot Teleport to the quiz Location while in a Cross-server area, Dungeon, or plane.
-22742	^{1}^{2}【Maximum Over Thrust】^{3}^{4} is Active for up to ${2} allies within ${1} meters.	^{1}^{2}【Maximum Over Thrust】^{3}^{4}ใช้งานได้สำหรับพันธมิตร${2}ภายในระยะ${1}เมตร
+22742	^{1}^{2}【Maximum Over Thrust】^{3}^{4} is Active for up to ${2} allies within ${1} meters.	^{1}^{2}[ Maximum Over Thrust ]^{3}^{4}ใช้งานได้สำหรับพันธมิตร${2}ภายในระยะ${1}เมตร
 22743	Spear mastery increases Crit by @{1}, Crit Resistance by @{2}, and Attack Speed by @{3}%.	Spear Mastery เพิ่มคริติคอลโดย@{1}, ความต้านทานคริติคอลโดย@{2}และความเร็วการโจมตีโดย@{3}%
 22744	Reduces damage taken from monsters by @{1}% and increases Physical and Magic DEF by @{2}%	ลดความเสียหายที่ได้รับจากมอนสเตอร์ลง@{1}% และเพิ่ม DEF กายภาพและเวทมนตร์ขึ้น@{2}%
 22745	Immune to Knockback, Launch, Stun, Freeze, Petrify, Silence, Immobilize, Blind, and Slow.	ภูมิคุ้มกันต่อการกระเด็น ปล่อยตัว สตัน แช่แข็ง กลายเป็นหิน เงียบ ทำให้เคลื่อนที่ไม่ได้ ตาบอด และ Slow
@@ -750,7 +750,7 @@
 22749	${1}% Chance to deal a double critical hit. Double critical hits are affected by CRIT DMG	${1}% โอกาสที่จะสร้างการโจมตีแบบคริติคอลสองเท่า การโจมตีคริติคอลสองเท่าจะได้รับผลจาก CRIT DMG
 22750	Grants ${1} Hunting Skill, plus an Extra ${2} Hunting Skill for each skill on this Totem.	มอบทักษะการล่าสัตว์${1}บวกทักษะการล่าสัตว์พิเศษ${2}สำหรับแต่ละทักษะบน Totem นี้
 22751	Increases healing by ${1}%. Each Floor of the Healing buff grants an Extra ${2}% healing.	เพิ่มการรักษาโดย${1}%แต่ละชั้นของบัฟการรักษาจะให้การรักษาพิเศษ${2}%
-22752	When 【Gravitation Field】 ends, inflicts 【Immobilize】 on enemies in the area for ${1} sec.	เมื่อ 【Gravitation Field】 สิ้นสุดลง จะทำให้เกิดสถานะ 【Immobilize】 กับศัตรูในพื้นที่เป็นเวลา${1}วินาที
+22752	When 【Gravitation Field】 ends, inflicts 【Immobilize】 on enemies in the area for ${1} sec.	เมื่อ [ Gravitation Field ] สิ้นสุดลง จะทำให้เกิดสถานะ [ Immobilize ] กับศัตรูในพื้นที่เป็นเวลา${1}วินาที
 22753	When a Split Poporing dies, there is a @{1}% Chance to create @{2} Transformation Manuals	When a Split Poporing dies, there is a @{1}% Chance to create @{2} Transformation Manuals
 22754	Baphomet ^{1}repeatedly summons charging illusions^{2} that damage targets in their path.	Baphomet ^{1}repeatedly summons charging illusions^{2} that damage targets in their path.
 22755	Drag skills from the left to the skill bar. Drag a skill to an empty area to unassign it.	Drag skills from the left to the skill bar. Drag a skill to an empty area to unassign it.
@@ -780,20 +780,20 @@
 22779	Failed to list the item. The server's maximum number of active listings has been reached.	Failed to list the item. The server's maximum number of active listings has been reached.
 22780	A guild building is currently undergoing a Level-up. Please try again when it is complete	A guild building is currently undergoing a Level-up. Please try again when it is complete
 22781	Reduces prices by ^{1}${1}%^{2} when purchasing items with Minted Coins in certain shops.	ลดราคา ^{1}${1}%^{2}เมื่อซื้อสินค้าด้วย Minted Coins ในร้านค้าบางแห่ง
-22782	Burrow in the specified direction, moving up to @{1} m. Skill cooldown: ^{1}@{2}^{2} sec.	มุดไปในทิศทางที่กำหนด ขยับขึ้นไปถึง@{1}m. คูลดาวน์ทักษะ: ^{1}@{2}^{2}วินาที
+22782	Burrow in the specified direction, moving up to @{1} m. Skill cooldown: ^{1}@{2}^{2} sec.	มุดไปในทิศทางที่กำหนด ขยับขึ้นไปถึง@{1}m. CDทักษะ: ^{1}@{2}^{2}วินาที
 22783	Extends the Debuff duration of ^{1}Debuff-type^{2} Primary Battle Skills by ${1} seconds.	ขยายระยะเวลาดีบัฟ ^{1}Debuff-type^{2}Primary Battle Skills ขึ้น${1}วินาที
 22784	Extends the Buff duration of ^{1}Buff-type^{2} Primary Battle Skills by ^{3}${1}^{4} sec.	ขยายระยะเวลาบัฟของ ^{1}Buff-type^{2}Primary Battle Skills โดย ^{3}${1}^{4}วินาที
-22785	Master swordsmanship. When equipped with a sword, Physical ATK increases by ^{1}${1}^{2}.	ทักษะดาบระดับปรมาจารย์เมื่อสวมใส่ดาบ พลังโจมตีทางกายภาพจะเพิ่มขึ้น ^{1}${1}^{2}
+22785	Master swordsmanship. When equipped with a sword, Physical ATK increases by ^{1}${1}^{2}.	ทักษะดาบระดับปรมาจารย์เมื่อสวมใส่ดาบ P.ATKจะเพิ่มขึ้น ^{1}${1}^{2}
 22786	Maya is summoning quicksand again! Hide behind a stone pillar so you don't get pulled in!	Maya is summoning quicksand again! Hide behind a stone pillar so you don't get pulled in!
-22787	Endure. Increases HIT by @{1} and Physical ATK by @{2}, but reduces Physical DEF by @{3}.	Endure. เพิ่ม HIT ขึ้น@{1}และ ATK กายภาพ ขึ้น@{2}แต่ลด DEF กายภาพลง@{3}
-22788	On HIT, ^{1}${1}%^{2} Chance to reduce the enemy target's Movement Speed by ^{3}${2}%^{4}	เมื่อโจมตี ^{1}${1}%^{2}โอกาสที่จะลดความเร็วในการเคลื่อนที่ของเป้าหมายศัตรูลง ^{3}${2}%^{4}
+22787	Endure. Increases HIT by @{1} and Physical ATK by @{2}, but reduces Physical DEF by @{3}.	Endure. เพิ่ม HIT ขึ้น@{1}และ P.ATK ขึ้น@{2}แต่ลด DEF กายภาพลง@{3}
+22788	On HIT, ^{1}${1}%^{2} Chance to reduce the enemy target's Movement Speed by ^{3}${2}%^{4}	เมื่อโจมตี ^{1}${1}%^{2}โอกาสที่จะลดMSPDของเป้าหมายศัตรูลง ^{3}${2}%^{4}
 22789	Adventurers whose <color=#987f53>${1}</color> attribute exceeds <color=#63a22b>50%</color>	Adventurers whose <color=#987f53>${1}</color> attribute exceeds <color=#63a22b>50%</color>
 22790	Earn points through Kill/Assist/Destroying Escort Carts/Escorting Carts and other actions.	Earn points through Kill/Assist/Destroying Escort Carts/Escorting Carts and other actions.
 22791	Don't rush! Take a moment to calm down before asking your teammates for help again (*^_^*)	Don't rush! Take a moment to calm down before asking your teammates for help again (*^_^*)
 22792	Use High Burst to strike the backline, with two Stealth abilities ensuring the first move.	Use High Burst to strike the backline, with two Stealth abilities ensuring the first move.
-22793	When taking melee Physical damage, deals damage to the attacker based on your Physical ATK	เมื่อได้รับความเสียหายทางกายภาพระยะประชิด จะสร้างความเสียหายให้กับผู้โจมตีตามพลังโจมตีทางกายภาพของคุณ
+22793	When taking melee Physical damage, deals damage to the attacker based on your Physical ATK	เมื่อได้รับP.DMGระยะประชิด จะสร้างความเสียหายให้กับผู้โจมตีตามP.ATKของคุณ
 22794	When using an instant recovery item, there is a @{1}% Chance its effect increases by @{2}%	เมื่อใช้ไอเท็มฟื้นฟูทันที มี@{1}% โอกาสที่เอฟเฟกต์จะเพิ่มขึ้น@{2}%
-22795	For the Arch Mage job, every @{1} INT increases Magic ATK by @{2}, up to a maximum of @{3}	สำหรับงาน Arch Mage ทุก ๆ@{1}INT จะเพิ่ม Magic ATK ขึ้น 1@{2}สูงสุด@{3}
+22795	For the Arch Mage job, every @{1} INT increases Magic ATK by @{2}, up to a maximum of @{3}	สำหรับงาน Arch Mage ทุก ๆ@{1}INT จะเพิ่ม M.ATK ขึ้น 1@{2}สูงสุด@{3}
 22796	Allows use of ^{1}^{2}Hiding Lv. @{1}^{3}^{4} and ^{5}^{6}Sightless Mind Lv. @{2}^{7}^{8}.	อนุญาตให้ใช้ ^{1}^{2}การซ่อน Lv.@{1}^{3}^{4}และ ^{5}^{6}Sightless Mind Lv.@{2}^{7}^{8}.
 22797	Draw and replace affixes when adding an accelerant to the bonfire during the Bonfire Phase	Draw and replace affixes when adding an accelerant to the bonfire during the Bonfire Phase
 22798	Monster transformation cards grant special effects when socketed in the corresponding slot	การ์ดแปลงร่างสัตว์ประหลาดจะให้เอฟเฟกต์พิเศษเมื่อเสียบเข้าไปในช่องที่เกี่ยวข้อง
@@ -834,7 +834,7 @@
 22833	No, we can't do that! If they get hurt, we'll never be able to afford their medical bills.	No, we can't do that! If they get hurt, we'll never be able to afford their medical bills.
 22834	Hey, friend! Settle this for us! These old folks were obviously hired to hold these spots!	Hey, friend! Settle this for us! These old folks were obviously hired to hold these spots!
 22835	Immune to Knockback, Launch, Stun, Freeze, Petrify, Silence, Immobilize, and Blind effects	ภูมิคุ้มกันต่อเอฟเฟกต์ Knockback, Launch, Stun, Freeze, Petrify, Silence, Immobilize และ Blind
-22836	Enters Delusion, greatly increasing ATK and Attack Speed, but also increasing damage taken	เข้าสู่ Delusion เพิ่ม ATK และความเร็วในการโจมตีอย่างมาก แต่ยังเพิ่มความเสียหายที่ได้รับอีกด้วย
+22836	Enters Delusion, greatly increasing ATK and Attack Speed, but also increasing damage taken	เข้าสู่ Delusion เพิ่ม ATK และASPDอย่างมาก แต่ยังเพิ่มความเสียหายที่ได้รับอีกด้วย
 22837	You have no favorite actions. Tap Edit to enter Edit Mode and add actions to your favorites	You have no favorite actions. Tap Edit to enter Edit Mode and add actions to your favorites
 22838	Ki introduces himself as the Guide of Time and Space and tells you of the mission you bear.	Ki แนะนำตัวเองในฐานะผู้นำทางแห่งเวลาและอวกาศ และบอกคุณถึงภารกิจที่คุณแบกรับ
 22839	Adds an attack when dealing Physical damage that ignores damage reduction from Physical DEF	Adds an attack when dealing Physical damage that ignores damage reduction from Physical DEF
@@ -843,9 +843,9 @@
 22842	An advanced cleric of the Church with further improved damage and auto-battle capabilities.	An advanced cleric of the Church with further improved damage and auto-battle capabilities.
 22843	Successfully crafting an orange engraved item has a @{1}% Chance to grant @{2} Extra copies	Successfully crafting an orange engraved item has a @{1}% Chance to grant @{2} Extra copies
 22844	The following materials will be consumed to establish a Siege Camp at your current location	The following materials will be consumed to establish a Siege Camp at your current location
-22845	For every @{1} enemies hit by ^{1}^{2}[Hammer Fall]^{3}^{4}, DMG Bonus +${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่โดน ^{1}^{2}[Hammer Fall]^{3}^{4}, โบนัส DMG +${1}% สูงสุด${2}%
+22845	For every @{1} enemies hit by ^{1}^{2}[Hammer Fall]^{3}^{4}, DMG Bonus +${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่โดน ^{1}^{2}[ Hammer Fall ]^{3}^{4}, โบนัส DMG +${1}% สูงสุด${2}%
 22846	Grants ${1} DMG vs All Job, plus an Extra ${2} DMG vs All Job for each skill on this Totem.	ให้${1}DMG กับ All Job บวกกับ${2}DMG เพิ่มเติม vs All Job สำหรับแต่ละทักษะบน Totem นี้
-22847	Magic damage +${1}%. Each Floor of the Magic Damage buff grants an Extra ${2}% Magic damage	ความเสียหายเวทย์ +${1}%บัฟแต่ละชั้นของความเสียหายเวทย์มนตร์จะมอบความเสียหายเวทย์พิเศษ${2}%
+22847	Magic damage +${1}%. Each Floor of the Magic Damage buff grants an Extra ${2}% Magic damage	M.DMGย์ +${1}%บัฟแต่ละชั้นของM.DMGย์มนตร์จะมอบM.DMGย์พิเศษ${2}%
 22848	Pharaoh summons ^{1}Pharaoh's Coffins^{2} in sequence, dealing damage in cone-shaped areas.	Pharaoh summons ^{1}Pharaoh's Coffins^{2} in sequence, dealing damage in cone-shaped areas.
 22849	Osiris commands^{1}all Horongs^{2}to^{3}lash the target's location twice with bandages^{4}.	Osiris commands^{1}all Horongs^{2}to^{3}lash the target's location twice with bandages^{4}.
 22850	${1} is the Skill Upgrade for ${2}. After allocating points, ${3} will be replaced by ${4}.	${1} is the Skill Upgrade for ${2}. After allocating points, ${3} will be replaced by ${4}.
@@ -873,7 +873,7 @@
 22872	You can reenter from the Guild Events screen after leaving. Are you sure you want to leave?	You can reenter from the Guild Events screen after leaving. Are you sure you want to leave?
 22873	A small, common Basilac Clam that is easy to catch almost anywhere. Sometimes used as bait.	หอย Basilac ตัวเล็ก ๆ ทั่วไปที่จับได้ง่ายเกือบทุกที่ บางครั้งก็ใช้เป็นเหยื่อล่อ
 22874	Obtained by dismantling Purple Cards. Can be used for the Level-up of red and Orange Cards.	ได้มาจากการแยก Purple Cards ออกสามารถใช้สำหรับการอัพเลเวลการ์ดสีแดงและสีส้ม
-22875	A superb deep Red Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีแดงอันล้ำลึกที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที คูลดาวน์:@{3}วินาที
+22875	A superb deep Red Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีแดงอันล้ำลึกที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที CD:@{3}วินาที
 22876	A staff made from the skull of a powerful Lich. An aura of Curse continually pours from it.	ไม้เท้าที่สร้างจากกระโหลกของลิชผู้ทรงพลัง ออร่าแห่งคำสาปหลั่งไหลออกมาอย่างต่อเนื่อง
 22877	AGI Swordsman can deliver rapid Normal Attacks, dealing considerable damage with high ASPD.	AGI Swordsman can deliver rapid Normal Attacks, dealing considerable damage with high ASPD.
 22878	Use Movement to approach the target, then quickly Kill them with devastating critical hits.	Use Movement to approach the target, then quickly Kill them with devastating critical hits.
@@ -894,8 +894,8 @@
 22893	You have fewer supplies than the minimum listing quantity of ${1}. Unable to post the Trade.	You have fewer supplies than the minimum listing quantity of ${1}. Unable to post the Trade.
 22894	Vehicle shield activated, granting a shield equal to ${1}% of the vehicle's HP for ${2} sec.	โล่ยานพาหนะเปิดใช้งาน โดยมอบโล่เท่ากับ ${1}% ของ HP ยานพาหนะเป็นเวลา ${2} วินาที
 22895	When using an instant recovery item, there is a ${1}% Chance to increase its effect by ${2}%	เมื่อใช้ไอเท็มฟื้นฟูทันที มีโอกาส${1}% ที่จะเพิ่มเอฟเฟกต์เป็น${2}%
-22896	When equipped with a dagger, increases Attack Speed by ^{1}${1}^{2} and AGI by ^{3}${2}^{4}.	เมื่อสวมใส่กริช ความเร็วในการโจมตีจะเพิ่มขึ้น ^{1}${1}^{2}และ AGI โดย ^{3}${2}^{4}
-22897	For every @{1} enemy hit by 【Lord of Vermilion】, its damage increases by ${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่ถูกโจมตีโดย 【Lord of Vermilion】 ความเสียหายของมันจะเพิ่มขึ้น${1}% สูงสุดถึง${2}%
+22896	When equipped with a dagger, increases Attack Speed by ^{1}${1}^{2} and AGI by ^{3}${2}^{4}.	เมื่อสวมใส่กริช ASPDจะเพิ่มขึ้น ^{1}${1}^{2}และ AGI โดย ^{3}${2}^{4}
+22897	For every @{1} enemy hit by 【Lord of Vermilion】, its damage increases by ${1}%, up to ${2}%.	สำหรับศัตรู@{1}ทุกตัวที่ถูกโจมตีโดย [ Lord of Vermilion ] ความเสียหายของมันจะเพิ่มขึ้น${1}% สูงสุดถึง${2}%
 22898	A tiny kun hidden in the deep sea. Someday, it will slowly grow and soar into the heavens...	A tiny kun hidden in the deep sea. Someday, it will slowly grow and soar into the heavens...
 22899	After High-Rate AFK Mode is disabled, it will automatically reactivate at 5:00 the next day.	After High-Rate AFK Mode is disabled, it will automatically reactivate at 5:00 the next day.
 22900	"Compared to the White Potion sold in shops, ""Tasty Fish"" has the advantage of weighing less."	"Compared to the White Potion sold in shops, ""Tasty Fish"" has the advantage of weighing less."
@@ -937,7 +937,7 @@
 22936	After gathering any type of resource @{1} times, gain @{2} Extra corresponding main products	After gathering any type of resource @{1} times, gain @{2} Extra corresponding main products
 22937	You or a party member must obtain ${1}-quality equipment ${2} times in Kafra Survival Battle	You or a party member must obtain ${1}-quality equipment ${2} times in Kafra Survival Battle
 22938	Auto-Bid has already been initiated. Another Pre-purchase at the same price is Not Required.	Auto-Bid has already been initiated. Another Pre-purchase at the same price is Not Required.
-22939	Master the Spear. When equipped with a Spear weapon, increases Physical ATK by ^{1}${1}^{2}.	เชี่ยวชาญ Spear เมื่อสวมใส่อาวุธ Spear เพิ่ม ATK กายภาพขึ้น ^{1}${1}^{2}
+22939	Master the Spear. When equipped with a Spear weapon, increases Physical ATK by ^{1}${1}^{2}.	เชี่ยวชาญ Spear เมื่อสวมใส่อาวุธ Spear เพิ่ม P.ATKขึ้น ^{1}${1}^{2}
 22940	Reduces damage taken from Undead property monsters and Demon Race monsters by ^{1}${1}%^{2}.	ลดความเสียหายที่ได้รับจากมอนสเตอร์ประเภท Undead และมอนสเตอร์เผ่า Demon โดย ^{1}${1}%^{2}
 22941	Grants Endure, making you immune to crowd control, knock-up, and knockback for ${1} seconds.	ให้ Endure ทำให้คุณต้านทานต่อการควบคุมฝูงชน การน็อคอัพ และการกระเด็นกลับเป็นเวลา${1}วินาที
 22942	Damage dealt to enemies afflicted with ^{1}status effects^{2} is increased by ^{3}${1}%^{4}.	ความเสียหายที่กระทำต่อศัตรูที่ได้รับผลกระทบจาก ^{1} เอฟเฟกต์สถานะ^{2}เพิ่มขึ้น ^{3}${1}%^{4}
@@ -948,7 +948,7 @@
 22947	Casts several large AOEs at random locations in the arena, leaving a Horong at each location	ร่าย AOE ขนาดใหญ่หลายตัวไปยังสถานที่สุ่มในสนามประลอง โดยทิ้ง Horong ไว้ในแต่ละสถานที่
 22948	Non-Conquerors receive <color=#fdab5b>Veteran Rewards</color> based on their guild's ranking.	Non-Conquerors receive <color=#fdab5b>Veteran Rewards</color> based on their guild's ranking.
 22949	The attackers on the road were the Guild Members' family members. Hear what they have to say.	ผู้โจมตีบนท้องถนนคือสมาชิกในครอบครัวของสมาชิก Guild ฟังสิ่งที่พวกเขาจะพูด
-22950	【Challenge】 Clear any Phantom Realm with at least @{1} other Members of your Adventure Party.	【Challenge】 เคลียร์ Phantom Realm ใด ๆ ด้วยสมาชิกคนอื่น ๆ ในปาร์ตี้ผจญภัยของคุณอย่างน้อย@{1}
+22950	【Challenge】 Clear any Phantom Realm with at least @{1} other Members of your Adventure Party.	[ Challenge ] เคลียร์ Phantom Realm ใด ๆ ด้วยสมาชิกคนอื่น ๆ ในปาร์ตี้ผจญภัยของคุณอย่างน้อย@{1}
 22951	Talent Upgrade increases the character's relevant stats and allows you to select Job Talents.	Talent Upgrade increases the character's relevant stats and allows you to select Job Talents.
 22952	Another guild building is currently undergoing Level-up. Please try again once it is complete	Another guild building is currently undergoing Level-up. Please try again once it is complete
 22953	At Season Settlement, if you remain ranked ${1}-${2}, you will receive the following rewards.	At Season Settlement, if you remain ranked ${1}-${2}, you will receive the following rewards.
@@ -981,20 +981,20 @@
 22980	A Tiger's Footskin said to be very beneficial to one's health. Can be exchanged for Headwear.	Tiger's Footskin ว่ากันว่ามีประโยชน์ต่อสุขภาพอย่างมาก สามารถเปลี่ยนเป็น Headwear ได้
 22981	Distance until S1 Season officially begins: <color=#ede79d><size=72>${1}</size></color> hours	Distance until S1 Season officially begins: <color=#ede79d><size=72>${1}</size></color> hours
 22982	A Fly Wing imbued with spatial Magic. Use it to Move to a random location on the current map.	ปีกบินที่เต็มไปด้วยเวทย์มนตร์อวกาศ ใช้มันเพื่อย้ายไปยังตำแหน่งสุ่มบนแผนที่ปัจจุบัน
-22983	A superb bright Red Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีแดงที่สดใสที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที คูลดาวน์:@{3}วินาที
+22983	A superb bright Red Healing Potion. Instantly restores @{1}+@{2}% HP. Cooldown: @{3} seconds.	ยารักษาสีแดงที่สดใสที่ยอดเยี่ยม ฟื้นฟู@{1}+@{2}% HP ทันที CD:@{3}วินาที
 22984	Current Equipment has a high-quality Enchant. Enchanting may replace it and result in a loss.	Current Equipment has a high-quality Enchant. Enchanting may replace it and result in a loss.
 22985	Chase the bright moon and behold Dunhuang.\nExclusive Duo Action for the Nine-Tone Mantra set	Chase the bright moon and behold Dunhuang.\nExclusive Duo Action for the Nine-Tone Mantra set
 22986	Axe Tornado Listener - Remove Movement Speed Boost and Crowd Control Immunity When Skill Ends	Axe Tornado Listener - Remove Movement Speed Boost and Crowd Control Immunity When Skill Ends
-22987	Unleashes the weapon's full potential, increasing Physical DMG by ^{1}${2}%^{2} for ${1} sec.	ปลดปล่อยศักยภาพสูงสุดของอาวุธ เพิ่มความเสียหายทางกายภาพขึ้น ^{1}${2}%^{2}เป็นเวลา${1}วินาที
+22987	Unleashes the weapon's full potential, increasing Physical DMG by ^{1}${2}%^{2} for ${1} sec.	ปลดปล่อยศักยภาพสูงสุดของอาวุธ เพิ่มP.DMGขึ้น ^{1}${2}%^{2}เป็นเวลา${1}วินาที
 22988	Camouflages the Supply Cart for ${1} sec. Taking damage while camouflaged will not reveal it.	พรางรถเข็นซัพพลายเป็น${1}วินาทีการได้รับความเสียหายขณะพรางตัวจะไม่เปิดเผยมัน
 22989	Increases the direct Healing of ^{1}Recovery-type^{2} Primary Battle Skills by ^{3}${1}%^{4}.	เพิ่มการรักษาโดยตรงของ ^{1}Recovery-type^{2}Primary Battle Skills โดย ^{3}${1}%^{4}
-22990	On HIT, deals an Extra instance of ranged Holy magic damage equal to Magic ATK *^{1}${1}%^{2}	เมื่อโจมตี จะสร้างความเสียหายเวทย์ศักดิ์สิทธิ์ระยะไกลพิเศษเท่ากับพลังโจมตีเวทย์ *^{1}${1}%^{2}
+22990	On HIT, deals an Extra instance of ranged Holy magic damage equal to Magic ATK *^{1}${1}%^{2}	เมื่อโจมตี จะสร้างM.DMGย์ศักดิ์สิทธิ์ระยะไกลพิเศษเท่ากับM.ATK *^{1}${1}%^{2}
 22991	The Party Leader is in a special Location and cannot invite or accept players into the party.	The Party Leader is in a special Location and cannot invite or accept players into the party.
 22992	Quicksand will appear in ${1} seconds! Hide behind a stone pillar so you don't get pulled in!	Quicksand will appear in ${1} seconds! Hide behind a stone pillar so you don't get pulled in!
 22993	Quicksand will strike in ${1} seconds! Hide behind a stone pillar so you don't get pulled in!	Quicksand will strike in ${1} seconds! Hide behind a stone pillar so you don't get pulled in!
-22994	After casting 【Envenomed Blade】 ${1} times, triggers 【Venom】 damage ${2} times on the target.	หลังจากร่าย 【Envenomed Blade】${1}ครั้ง จะทำให้เกิดความเสียหายจาก 【Venom】${2}ครั้งบนเป้าหมาย
-22995	Immune to Slow. Increases ST Normal Attack damage by @{1}% and Spiral Pierce damage by @{2}%.	ภูมิคุ้มกันต่อการชะลอตัวเพิ่มความเสียหายจาก Normal Attack ST ขึ้น@{1}% และความเสียหาย Spiral Pierce ขึ้น@{2}%
-22996	Physical ATK increased by @{1}%, and 【Aimed Shot】 skill damage multiplier increased by @{2}%.	พลังโจมตีทางกายภาพเพิ่มขึ้น@{1}% และตัวคูณความเสียหายของทักษะ 【Aimed Shot】 เพิ่มขึ้นโดย@{2}%
+22994	After casting 【Envenomed Blade】 ${1} times, triggers 【Venom】 damage ${2} times on the target.	หลังจากร่าย [ Envenomed Blade ]${1}ครั้ง จะทำให้เกิดความเสียหายจาก [ Venom ]${2}ครั้งบนเป้าหมาย
+22995	Immune to Slow. Increases ST Normal Attack damage by @{1}% and Spiral Pierce damage by @{2}%.	ภูมิคุ้มกันต่อการชะลอตัวเพิ่มความเสียหายจาก Normal Attack Single Target ขึ้น@{1}% และความเสียหาย Spiral Pierce ขึ้น@{2}%
+22996	Physical ATK increased by @{1}%, and 【Aimed Shot】 skill damage multiplier increased by @{2}%.	P.ATKเพิ่มขึ้น@{1}% และตัวคูณความเสียหายของทักษะ [ Aimed Shot ] เพิ่มขึ้นโดย@{2}%
 22997	The Professor's supplies were seized at Prontera's North Gate. Go there and recover the cargo.	สิ่งของของ Professor ถูกยึดที่ Gate ทิศเหนือของพรอนเทราไปที่นั่นและกู้คืนสินค้า
 22998	Restore the saved attributes? This will overwrite the equipment's current smelting attributes.	Restore the saved attributes? This will overwrite the equipment's current smelting attributes.
 22999	If your bid is knocked off the rankings, Our Guild will place an Auto bid within ${1} seconds.	If your bid is knocked off the rankings, Our Guild will place an Auto bid within ${1} seconds.

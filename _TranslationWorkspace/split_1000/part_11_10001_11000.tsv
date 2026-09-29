@@ -422,12 +422,12 @@
 10421	Giant Two-Handed Sword	Giant Two-Handed Sword
 10422	LUK increases by ${1}.	LUK เพิ่มขึ้นโดย${1}
 10423	Guild Battle Prep Buff	บัฟเตรียมการต่อสู้ Guild
-10424	Physical Damage +@{1}%	เพิ่มความเสียหายกายภาพ @{1}%
+10424	Physical Damage +@{1}%	เพิ่มP.DMG @{1}%
 10425	STR increases by ${1}.	STR เพิ่มขึ้น${1}
 10426	VIT increases by ${1}.	VIT เพิ่มขึ้น${1}
 10427	Stun Resistance +@{1}.	ต้านทานการสตัน +@{1}
 10428	Shield Triggers Damage	โล่ทำให้เกิดความเสียหาย
-10429	Reduces Movement Speed	ลดความเร็วในการเคลื่อนที่
+10429	Reduces Movement Speed	ลดMSPD
 10430	Reduces field of view.	ลดขอบเขตการมองเห็น
 10431	Immune to all debuffs.	ภูมิคุ้มกันต่อดีบัฟทั้งหมด
 10432	Greatly increases DEF.	เพิ่ม DEF อย่างมาก
@@ -978,7 +978,7 @@
 10977	Permanent Joint Passive	ข้อต่อถาวรแบบ Passive
 10978	Convert Armor to Poison	แปลงเกราะเป็นพิษ
 10979	Takes Damage over Time.	รับความเสียหายต่อเนื่อง
-10980	Movement Speed Increase	เพิ่มความเร็วในการเคลื่อนที่
+10980	Movement Speed Increase	เพิ่มMSPD
 10981	Damage Increase +@{1}%.	เพิ่มความเสียหาย +@{1}%
 10982	Holy Light Resurrection	Holy Light Resurrection
 10983	Fire and Earth Research	Fire and Earth Research

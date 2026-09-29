@@ -228,9 +228,9 @@
 7227	Competition Medal	Competition Medal
 7228	Novice Yalt Sword	Novice Yalt Sword
 7229	Novice Greatsword	Novice Greatsword
-7230	Immune to 【Slow】.	ภูมิคุ้มกันต่อ 【Slow】
-7231	Immune to 【Stun】.	ภูมิคุ้มกันต่อ 【Stun】
-7232	Internal Cooldown	คูลดาวน์ภายใน
+7230	Immune to 【Slow】.	ภูมิคุ้มกันต่อ [ Slow ]
+7231	Immune to 【Stun】.	ภูมิคุ้มกันต่อ [ Stun ]
+7232	Internal Cooldown	CDภายใน
 7233	Transform: Poring	การแปลง: การเจาะ
 7234	Immune to damage.	ภูมิคุ้มกันต่อความเสียหาย
 7235	Damage Reduction.	การลดความเสียหาย
@@ -903,8 +903,8 @@
 7902	Card: Doppelganger	Card: Doppelganger
 7903	HP is already full	HP is already full
 7904	City Fallen Debuff	ดีบัฟที่ล่มสลายของเมือง
-7905	Physical ATK +@{1}	พลังโจมตีกายภาพ +@{1}
-7906	Physical ATK +${1}	พลังโจมตีกายภาพ +${1}
+7905	Physical ATK +@{1}	P.ATK +@{1}
+7906	Physical ATK +${1}	P.ATK +${1}
 7907	Crit Chance +@{1}%	โอกาสคริติคอล +@{1}%
 7908	Not currently used	ยังไม่ได้ใช้งาน
 7909	Radiant Holy Light	Radiant Holy Light

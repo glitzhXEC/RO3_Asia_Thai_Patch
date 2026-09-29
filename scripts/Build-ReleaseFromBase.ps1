@@ -152,6 +152,22 @@ try {
         $destination = Join-Path (Join-Path $Stage 'payload') $relative
         New-Item -ItemType Directory -Path (Split-Path -Parent $destination) -Force | Out-Null
         Copy-Item -LiteralPath $source -Destination $destination -Force
+        $sourceHash = (Get-FileHash -Algorithm SHA256 -LiteralPath $source).Hash
+        $destinationHash = (Get-FileHash -Algorithm SHA256 -LiteralPath $destination).Hash
+        if ($sourceHash -ne $destinationHash) {
+            throw "Repository payload copy mismatch: $relative"
+        }
+    }
+
+    $stageCanonical = Join-Path $Stage 'payload\BepInEx\Translation\ja\Text\RO3_CanonicalTranslations.txt'
+    $stageOverrides = Join-Path $Stage 'payload\BepInEx\config\RO3.LocalizationOverrides.tsv'
+    $canonicalText = Get-Content -LiteralPath $stageCanonical -Raw
+    $overrideText = Get-Content -LiteralPath $stageOverrides -Raw
+    if ($canonicalText -notmatch '(?m)^ST=Single Target\r?$') {
+        throw 'Release payload is missing ST=Single Target.'
+    }
+    if ($overrideText -notmatch '(?m)^10110300401\t.*Single Target.*P\.ATK.*\$\{1\} เมตร\r?$') {
+        throw 'Release payload is missing the reviewed Falcon Concentration translation.'
     }
 
     foreach ($relative in $forbiddenPayloadFiles) {

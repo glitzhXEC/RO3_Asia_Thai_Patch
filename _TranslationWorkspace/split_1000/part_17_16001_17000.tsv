@@ -1,6 +1,6 @@
 ﻿Index	English	Thai_Translation
 16001	Increases Physical DEF by ${1}~${2}	เพิ่ม DEF ทางกายภาพโดย${1}~${2}
-16002	Increases Physical ATK by ${1}~${2}	เพิ่ม ATK ทางกายภาพโดย${1}~${2}
+16002	Increases Physical ATK by ${1}~${2}	เพิ่ม P.ATKโดย${1}~${2}
 16003	Physical Damage increased by ${1}%.	เพิ่มขึ้น${1}%
 16004	Recruitment withdrawn successfully.	Recruitment withdrawn successfully.
 16005	Not enough items. Unable to unlock!	Not enough items. Unable to unlock!
@@ -280,7 +280,7 @@
 16279	Popo's Bubble Shield for its master.	Bubble Shield ของ Popo สำหรับปรมาจารย์
 16280	Take damage once every @{1} seconds.	รับความเสียหายทุกๆ@{1}วินาที
 16281	Restores @{1} HP to self per second.	ฟื้นฟู@{1}HP เป็นตัวเองต่อวินาที
-16282	Increases Magic ATK by ^{1}${1}^{2}.	เพิ่มพลังโจมตีเวทย์โดย ^{1}${1}^{2}
+16282	Increases Magic ATK by ^{1}${1}^{2}.	เพิ่มM.ATKโดย ^{1}${1}^{2}
 16283	Increases Wind damage taken by @{1}%	เพิ่มความเสียหายจากลมที่ได้รับโดย@{1}%
 16284	Increases Fire damage taken by @{1}%	เพิ่มความเสียหายทางไฟที่ได้รับโดย@{1}%
 16285	Baby Desert Wolf Reward Boost Lv@{1}	Baby Desert Wolf Reward Boost Lv@{1}
@@ -525,7 +525,7 @@
 16524	Phase Two\nDefeat the Knight Guardian	Phase Two\nDefeat the Knight Guardian
 16525	Stage 4\nDefend the Magnificent Metal	Stage 4\nDefend the Magnificent Metal
 16526	This special Job item does not exist.	This special Job item does not exist.
-16527	Tree Spirit ^{1}^{2}[Respawn]^{3}^{4}	ต้นไม้วิญญาณ ^{1}^{2}[Respawn]^{3}^{4}
+16527	Tree Spirit ^{1}^{2}[Respawn]^{3}^{4}	ต้นไม้วิญญาณ ^{1}^{2}[ Respawn ]^{3}^{4}
 16528	The text contains sensitive language.	The text contains sensitive language.
 16529	Appraised equipment cannot be listed.	Appraised equipment cannot be listed.
 16530	Class-specific items cannot be Traded	Class-specific items cannot be Traded
@@ -641,7 +641,7 @@
 16640	Insufficient Guild Siege participation	Insufficient Guild Siege participation
 16641	Not all objectives have been completed	Not all objectives have been completed
 16642	Physical DEF +${1} and Max Life +${2}.	DEF กายภาพ +${1}และพลัง Life สูงสุด +${2}
-16643	Gain ${1}% Magic ATK and Physical ATK.	ได้รับ${1}% พลังโจมตีเวทย์มนตร์และพลังโจมตีกายภาพ
+16643	Gain ${1}% Magic ATK and Physical ATK.	ได้รับ${1}% M.ATKมนตร์และP.ATK
 16644	Grant All Players Full Mini Map Vision	มอบการมองเห็นแผนที่ย่อแบบเต็มให้กับผู้เล่นทุกคน
 16645	Blessing Angel Persistent Magic Circle	วงเวทย์ศักดิ์สิทธิ์ Blessing Angel
 16646	Decreases Cooldown Reduction by @{1}%.	ลดการ Cooldown Reduction ลง@{1}%
@@ -655,9 +655,9 @@
 16654	Skill@{1}(New)_Summon Compression Zone	Skill@{1}(New)_Summon Compression Zone
 16655	Skill@{1}(New)_Compression Zone Damage	Skill@{1}(New)_Compression Zone Damage
 16656	For every +${1} Refine, Max Life +${2}	สำหรับทุก ๆ +${1}Refine, Max Life +${2}
-16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม 【Character Lv.*${1}】
+16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม [ Character Lv.*${1} ]
 16658	Reduces Neutral damage taken by ${1}%.	ลดความเสียหายที่เป็นกลางที่ได้รับโดย${1}%
-16659	Magic damage dealt increases by ${1}%.	ความเสียหายเวทย์ที่สร้างเพิ่มขึ้น${1}%
+16659	Magic damage dealt increases by ${1}%.	M.DMGย์ที่สร้างเพิ่มขึ้น${1}%
 16660	Find the missing Caravan Party Leader.	Find the missing Caravan Party Leader.
 16661	Help the caravan with Cargo Placement.	Help the caravan with Cargo Placement.
 16662	When phase @{1} begins, play Fireworks	When phase @{1} begins, play Fireworks
@@ -815,9 +815,9 @@
 16814	Not enough items in stock to purchase.	Not enough items in stock to purchase.
 16815	Cannot be used while in Battle Status.	Cannot be used while in Battle Status.
 16816	This skill cannot be moved or replaced	This skill cannot be moved or replaced
-16817	Increases 【Grimtooth】 damage by ${1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น${1}%
-16818	Increases 【Grimtooth】 damage by @{1}%.	เพิ่มความเสียหายของ 【Grimtooth】 ขึ้น@{1}%
-16819	Kill an enemy to refresh the Cooldown.	Kill ศัตรูเพื่อรีเฟรชคูลดาวน์
+16817	Increases 【Grimtooth】 damage by ${1}%.	เพิ่มความเสียหายของ [ Grimtooth ] ขึ้น${1}%
+16818	Increases 【Grimtooth】 damage by @{1}%.	เพิ่มความเสียหายของ [ Grimtooth ] ขึ้น@{1}%
+16819	Kill an enemy to refresh the Cooldown.	Kill ศัตรูเพื่อรีเฟรชCD
 16820	Physical/Magic DEF decreases by @{1}%.	DEF กายภาพ/เวทมนตร์ลดลง@{1}%
 16821	Poring's bubble shield for its master.	บับเบิ้ลชิลด์ของ Poring สำหรับต้นแบบ
 16822	Create an Adventurer Group named ${1}?	Create an Adventurer Group named ${1}?
@@ -894,9 +894,9 @@
 16893	Requires the specified number of items.	Requires the specified number of items.
 16894	Insufficient Guild League participation	Insufficient Guild League participation
 16895	Valhalla ${1} has not been cleared yet.	Valhalla ${1} has not been cleared yet.
-16896	Each stack increases Magic ATK by ${1}.	แต่ละสแต็คจะเพิ่มพลังโจมตีเวทย์ขึ้น${1}
+16896	Each stack increases Magic ATK by ${1}.	แต่ละสแต็คจะเพิ่มM.ATKขึ้น${1}
 16897	A red thread now connects you and them.	ด้ายสีแดงเชื่อมโยงคุณและพวกเขาเข้าด้วยกัน
-16898	Increases Movement Speed and HP recover	เพิ่มความเร็วในการเคลื่อนที่และฟื้นฟู HP
+16898	Increases Movement Speed and HP recover	เพิ่มMSPDและฟื้นฟู HP
 16899	Increases damage by @{1}% for @{2} sec.	เพิ่มความเสียหายโดย@{1}% เป็นเวลา@{2}วินาที
 16900	Cart Damage Lv. @{1} visual effect buff	ความเสียหายต่อรถเข็น Lv. บัฟเอฟเฟกต์ภาพ@{1}
 16901	Greatly increases Defense for @{1} sec.	เพิ่มพลังป้องกันอย่างมากสำหรับ@{1}วินาที
@@ -911,10 +911,10 @@
 16910	Skill@{1}_Summon Cross Compression Zone	Skill@{1}_Summon Cross Compression Zone
 16911	Skill@{1}Memory Game_Magic Circle Skill	Skill@{1}Memory Game_Magic Circle Skill
 16912	Exorciser Spell: Evil Spirit Possession	Exorciser Spell: Evil Spirit Possession
-16913	For every +${1} Refine, Magic ATK +${2}	สำหรับทุกๆ +${1}ปรับแต่ง, พลังโจมตีเวทย์ +${2}
+16913	For every +${1} Refine, Magic ATK +${2}	สำหรับทุกๆ +${1}ปรับแต่ง, M.ATK +${2}
 16914	For every +${1} Refine, CRIT DMG +${2}%	สำหรับทุก +${1}ปรับแต่ง, CRIT DMG +${2}%
 16915	Ignores ${1}% of the target's Magic DEF	ไม่สนใจ${1}% ของ DEF เวทมนตร์ของเป้าหมาย
-16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม 【Character Lv.*${1}】
+16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม Flee ตาม [ Character Lv.*${1} ]
 16917	Highest recorded Power is insufficient.	Highest recorded Power is insufficient.
 16918	You must explore this area on your own.	You must explore this area on your own.
 16919	Public channel chat unlocks at Lv. ${1}	Public channel chat unlocks at Lv. ${1}

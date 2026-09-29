@@ -197,7 +197,7 @@
 13196	Defensive buff: DEF +@{1}%.	บัฟป้องกัน: DEF +@{1}%
 13197	Enter the Training Grounds?	Enter the Training Grounds?
 13198	Damage Taken -^{1}${1}%^{2}	ความเสียหายที่ได้รับ -^{1}${1}%^{2}
-13199	Reduces Attack Speed by XX%	ลดความเร็วในการโจมตีลง XX%
+13199	Reduces Attack Speed by XX%	ลดASPDลง XX%
 13200	Lunatic Reward Boost Lv@{1}	Lunatic Reward Boost Lv@{1}
 13201	Sniper's Aim【Invalid Shell】	Sniper's Aim【Invalid Shell】
 13202	General Effect【Buff Effect】	General Effect【Buff Effect】
@@ -336,8 +336,8 @@
 13335	Battle Chant Harmony - Psalm	Battle Chant Harmony - Psalm
 13336	Hundred Spears Stack Monitor	Hundred Spears Stack Monitor
 13337	Assassin Cross Normal Attack	Assassin Cross Normal Attack
-13338	Magic ATK +【Your Level*@{1}】	พลังโจมตีเวทย์ +【Your Level*@{1}】
-13339	Magic ATK increases by ${1}.	พลังโจมตีเวทย์เพิ่มขึ้น${1}
+13338	Magic ATK +【Your Level*@{1}】	M.ATK +[ Your Level*@{1} ]
+13339	Magic ATK increases by ${1}.	M.ATKเพิ่มขึ้น${1}
 13340	Grant Boss Final Blow Reward	Grant Boss Final Blow Reward
 13341	Card is already at max level	Card is already at max level
 13342	Adjust Territory War Tactics	Adjust Territory War Tactics
@@ -624,9 +624,9 @@
 13623	Damage taken -^{1}${1}%^{2}.	ความเสียหายที่ได้รับ -^{1}${1}%^{2}
 13624	Tap to Select a Divine Totem	Tap to Select a Divine Totem
 13625	Ranged Damage +^{1}${1}%^{2}	ความเสียหายระยะไกล +^{1}${1}%^{2}
-13626	Reduces Move Speed by ${1}%.	ลดความเร็วในการเคลื่อนที่ลง${1}%
+13626	Reduces Move Speed by ${1}%.	ลดMSPDลง${1}%
 13627	Increases Cast Speed by @{1}	เพิ่มความเร็วในการร่ายโดย@{1}
-13628	Blocks melee Physical damage	บล็อกความเสียหายทางกายภาพระยะประชิด
+13628	Blocks melee Physical damage	บล็อกP.DMGระยะประชิด
 13629	You have not joined a guild.	You have not joined a guild.
 13630	Detection Skill【Buff Effect】	Detection Skill【Buff Effect】
 13631	Arrow Shower【Trigger Effect】	Arrow Shower【Trigger Effect】
@@ -990,12 +990,12 @@
 13989	Adventure Group Level Rewards	Adventure Group Level Rewards
 13990	The quest has been completed.	The quest has been completed.
 13991	The final showdown has begun!	The final showdown has begun!
-13992	Physical DEF reduced by @{1}.	DEF กายภาพลดลง@{1}ความเสียหายกายภาพ
+13992	Physical DEF reduced by @{1}.	DEF กายภาพลดลง@{1}P.DMG
 13993	Cannot obtain notes right now	ไม่สามารถรับบันทึกย่อได้ในขณะนี้
 13994	Detect ally—add derived skill	ตรวจจับพันธมิตร—เพิ่มทักษะที่ได้รับ
-13995	Movement Speed -^{1}${1}%^{2}	ความเร็วในการเคลื่อนที่ -^{1}${1}%^{2}
+13995	Movement Speed -^{1}${1}%^{2}	MSPD -^{1}${1}%^{2}
 13996	Cast Speed decreases by @{1}.	ความเร็วในการร่ายลดลง@{1}
-13997	Reduces Attack Speed by @{1}%	ลดความเร็วในการโจมตีลง@{1}%
+13997	Reduces Attack Speed by @{1}%	ลดASPDลง@{1}%
 13998	Reduces damage taken by ${1}%	ลดความเสียหายที่ได้รับจาก${1}%
 13999	Lucky Baby Desert Wolf Lv@{1}	Lucky Baby Desert Wolf Lv@{1}
 14000	General Effect【Invalid Shell】	General Effect【Invalid Shell】

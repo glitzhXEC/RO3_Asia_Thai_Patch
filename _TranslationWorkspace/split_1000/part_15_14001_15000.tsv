@@ -106,7 +106,7 @@
 14105	Friendship requirement not met	Friendship requirement not met
 14106	Requires ${1} class level ${2}	Requires ${1} class level ${2}
 14107	Not Yet Available (Deprecated)	Not Yet Available (Deprecated)
-14108	Blocks ranged Physical damage.	บล็อกสร้างความเสียหายทางกายภาพ
+14108	Blocks ranged Physical damage.	บล็อกสร้างP.DMG
 14109	Permanently triggers Charge-Up	ทริกเกอร์การ Charge อย่างถาวร
 14110	Shield equal to @{1}% Max Life	Shield เท่ากับ@{1}% พลัง Life สูงสุด
 14111	Change Armor to Earth Property	เปลี่ยนเกราะเป็นคุณสมบัติดิน
@@ -379,7 +379,7 @@
 14378	Responding Members (${1}/${2})	Responding Members (${1}/${2})
 14379	This item is already equipped.	This item is already equipped.
 14380	Damage taken reduced by @{1}%.	ความเสียหายที่ได้รับลดลง@{1}%
-14381	Attack Speed reduced by @{1}%.	ความเร็วในการโจมตีลดลง@{1}%
+14381	Attack Speed reduced by @{1}%.	ASPDลดลง@{1}%
 14382	Shield equal to Max HP * @{1}%	โล่เท่ากับ Max HP *@{1}%
 14383	Dummy type switched to Player.	Dummy type switched to Player.
 14384	Restores ${1} Life per second.	ฟื้นฟู Life${1}ต่อวินาที
@@ -497,7 +497,7 @@
 14496	Damage against Starfish +@{1}%.	สร้างความเสียหายต่อ Starfish +@{1}%
 14497	MP Cost -@{1}%, Healing +@{2}%.	ต้นทุน MP -@{1}%, การรักษา +@{2}%
 14498	Damage dealt to Goblins +@{1}%.	ความเสียหายที่ทำกับก็อบลิน +@{1}%
-14499	Reduces Movement Speed by @{1}%	ลดความเร็วในการเคลื่อนที่ลง@{1}%
+14499	Reduces Movement Speed by @{1}%	ลดMSPDลง@{1}%
 14500	Immune to Knockback and Launch.	ภูมิคุ้มกันต่อการกระเด็นและการเปิดตัว
 14501	Skill@{1}Converging Goblet Spin	Skill@{1}Converging Goblet Spin
 14502	Skill@{1}Flying Goblet Row Slam	Skill@{1}Flying Goblet Row Slam
@@ -743,7 +743,7 @@
 14742	The preset name cannot be empty	The preset name cannot be empty
 14743	This class has no class talents	This class has no class talents
 14744	Increases damage taken by @{1}%	เพิ่มความเสียหายที่ได้รับโดย@{1}%
-14745	Increases Physical ATK by @{1}%	เพิ่ม ATK ทางกายภาพโดย@{1}%
+14745	Increases Physical ATK by @{1}%	เพิ่ม P.ATKโดย@{1}%
 14746	Savage Babe Reward Boost Lv@{1}	Savage Babe Reward Boost Lv@{1}
 14747	Sandstorm Inner and Outer Rings	Sandstorm วงแหวนด้านในและด้านนอก
 14748	Orc Hero Normal Attack - Ground	Orc Hero Normal Attack - Ground
@@ -834,7 +834,7 @@
 14833	Changes armor property to Water.	เปลี่ยนคุณสมบัติของเกราะเป็นน้ำ
 14834	Changes armor property to Ghost.	เปลี่ยนคุณสมบัติเกราะเป็น Ghost
 14835	Damage against Shellfish +@{1}%.	ความเสียหายต่อหอย +@{1}%
-14836	Movement Speed reduced by @{1}%.	ความเร็วในการเคลื่อนที่ลดลง@{1}%
+14836	Movement Speed reduced by @{1}%.	MSPDลดลง@{1}%
 14837	Please choose an appropriate key	Please choose an appropriate key
 14838	Phreeoni Normal Attack - Neutral	Phreeoni Normal Attack - Neutral
 14839	Skill@{1}Repeated Goblet Shatter	Skill@{1}Repeated Goblet Shatter
