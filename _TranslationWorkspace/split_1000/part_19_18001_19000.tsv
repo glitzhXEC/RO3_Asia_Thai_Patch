@@ -140,17 +140,17 @@
 18139	Event rewards have been sent to your mailbox.	Event rewards have been sent to your mailbox.
 18140	Failed to switch scenes. Please log in again!	Failed to switch scenes. Please log in again!
 18141	<color=#fdab5b>Guild Emblem</color> Starlight	<color=#fdab5b>Guild Emblem</color> Starlight
-18142	Socket @{1} cards of Purple Quality or higher	การ์ด@{1}ที่มีคุณภาพสีม่วงหรือสูงกว่า
-18143	Continue onward and search for the Professor.	ดำเนินการต่อและค้นหา Professor
-18144	Go provide Utility to the stationed Soldiers.	Go มอบสาธารณูปโภคให้กับ Soldiers ประจำการ
-18145	Participate in the War of Emperium @{1} times	เข้าร่วมสงคราม Emperium@{1}ครั้ง
+18142	Socket @{1} cards of Purple Quality or higher	ใส่ Card คุณภาพ Purple ขึ้นไปจำนวน @{1} ใบ
+18143	Continue onward and search for the Professor.	เดินทางต่อและตามหา Professor
+18144	Go provide Utility to the stationed Soldiers.	ไปสนับสนุน Soldiers ที่ประจำการอยู่
+18145	Participate in the War of Emperium @{1} times	เข้าร่วม War of Emperium จำนวน @{1} ครั้ง
 18146	Receive an urgent letter from Professor Ryan.	รับจดหมายด่วนจาก Professor Ryan
-18147	Enter the airship and defeat the evil forces.	เข้าสู่เรือเหาะและเอาชนะกองกำลังชั่วร้าย
-18148	Select the quest to learn about Battle Royale	เลือกภารกิจเพื่อเรียนรู้เกี่ยวกับ Battle Royale
+18147	Enter the airship and defeat the evil forces.	ขึ้น Airship และกำจัดกองกำลังชั่วร้าย
+18148	Select the quest to learn about Battle Royale	เลือกเควสเพื่อเรียนรู้เกี่ยวกับ Battle Royale
 18149	Drop Test @{1}-Personal Limit-Limit Deduction	Drop Test @{1}-Personal Limit-Limit Deduction
-18150	Reach @{1}% completion for the First Movement	เข้าถึง@{1}% สำเร็จสำหรับการเคลื่อนไหวครั้งแรก
-18151	Head to Southern Payon and meet up with Baoya	มุ่งหน้าไปยัง Southern Payon และพบกับ Baoya
-18152	Ask passersby if they have seen the professor	ถามผู้คนที่เดินผ่านไปมาว่าเคยเห็นศาสตราจารย์หรือไม่
+18150	Reach @{1}% completion for the First Movement	ทำ First Movement ให้มีความคืบหน้าถึง @{1}%
+18151	Head to Southern Payon and meet up with Baoya	เดินทางไปยัง Southern Payon และพบกับ Baoya
+18152	Ask passersby if they have seen the professor	สอบถามผู้คนที่ผ่านไปมาว่าพบ Professor หรือไม่
 18153	Every @{1} AGI grants @{2} FLEE and @{3} ASPD	Every @{1} AGI grants @{2} FLEE and @{3} ASPD
 18154	Affects damage taken from magic Damage Skills	Affects damage taken from magic Damage Skills
 18155	Affects your damage taken from Earth monsters	Affects your damage taken from Earth monsters
@@ -164,7 +164,7 @@
 18163	Ride the Deniro to the depths of the Ant Hell	Ride the Deniro to the depths of the Ant Hell
 18164	Territory War Convoy Order Application Failed	Territory War Convoy Order Application Failed
 18165	Secret Trove—Rift Crisis Event Reward Reissue	Secret Trove—Rift Crisis Event Reward Reissue
-18166	Temporary State Capital Battle Activity Quest	เควส Activity การต่อสู้เมืองหลวงชั่วคราว
+18166	Temporary State Capital Battle Activity Quest	เควส Activity ชั่วคราว: State Capital Battle
 18167	Tap the caravan icon to Move to its Location.	Tap the caravan icon to Move to its Location.
 18168	Redeemed. Check your mailbox for the rewards.	Redeemed. Check your mailbox for the rewards.
 18169	<color=#cc762a>${1}</color> Unseal Card Slots	<color=#cc762a>${1}</color> Unseal Card Slots
@@ -279,21 +279,21 @@
 18278	Save the following engraving results to ${1}?	Save the following engraving results to ${1}?
 18279	This action is unavailable during the league.	This action is unavailable during the league.
 18280	Season Ranking Rewards will be sent via mail.	Season Ranking Rewards will be sent via mail.
-18281	Reach a total of @{1} Stunts on equipped gear	เข้าถึง@{1}Stunts ทั้งหมดบนอุปกรณ์ที่ติดตั้ง
+18281	Reach a total of @{1} Stunts on equipped gear	ให้จำนวน Stunt รวมบนอุปกรณ์ที่สวมใส่ถึง @{1} รายการ
 18282	Say hello to the Life Skill Mentor for Dumby.	ทักทาย Life Skill Mentor ของ Dumby
 18283	PATCH_INSUFFICIENT_DEVICE_STORAGE_SPACE_ERROR	PATCH_INSUFFICIENT_DEVICE_STORAGE_SPACE_ERROR
-18284	Permanently unlocks the Rune Crown appearance	ปลดล็อครูปลักษณ์ Rune Crown อย่างถาวร
-18285	Permanently unlocks the Sphinx Hat appearance	ปลดล็อครูปลักษณ์ Sphinx Hat อย่างถาวร
-18286	Permanently unlocks the Furry Tail appearance	ปลดล็อครูปลักษณ์ Furry Tail อย่างถาวร
-18287	Permanently unlocks the Clown Nose appearance	ปลดล็อครูปลักษณ์ Clown Nose อย่างถาวร
-18288	Permanently unlocks the Banana Hat appearance	ปลดล็อครูปลักษณ์หมวกกล้วยอย่างถาวร
-18289	Permanently unlocks the Sunglasses appearance	ปลดล็อครูปลักษณ์ Sunglasses อย่างถาวร
-18290	Permanently unlocks the Mage's Hat appearance	ปลดล็อครูปลักษณ์หมวกของนักเวทย์อย่างถาวร
-18291	Mount · Dream Steed can be unlocked upon use.	Mount · Dream Steed สามารถปลดล็อคได้เมื่อใช้งาน
-18292	Use to Activate the Set Sail Name Card Theme.	ใช้เพื่อเปิดใช้งานธีม Set Sail Name Card
-18293	Open to receive 1 random Blue or Purple Card.	Open รับการ์ดสีน้ำเงินหรือสีม่วงแบบสุ่ม 1 ใบ
-18294	Open to receive one common crafting material.	Open เพื่อรับวัสดุการประดิษฐ์ทั่วไปหนึ่งชิ้น
-18295	Grants a chance to obtain a Red Quality Card.	ให้โอกาสได้รับการ์ดคุณภาพสีแดง
+18284	Permanently unlocks the Rune Crown appearance	ใช้แล้วปลดล็อก Appearance ของ Rune Crown อย่างถาวร
+18285	Permanently unlocks the Sphinx Hat appearance	ใช้แล้วปลดล็อก Appearance ของ Sphinx Hat อย่างถาวร
+18286	Permanently unlocks the Furry Tail appearance	ใช้แล้วปลดล็อก Appearance ของ Furry Tail อย่างถาวร
+18287	Permanently unlocks the Clown Nose appearance	ใช้แล้วปลดล็อก Appearance ของ Clown Nose อย่างถาวร
+18288	Permanently unlocks the Banana Hat appearance	ใช้แล้วปลดล็อก Appearance ของ Banana Hat อย่างถาวร
+18289	Permanently unlocks the Sunglasses appearance	ใช้แล้วปลดล็อก Appearance ของ Sunglasses อย่างถาวร
+18290	Permanently unlocks the Mage's Hat appearance	ใช้แล้วปลดล็อก Appearance ของ Mage's Hat อย่างถาวร
+18291	Mount · Dream Steed can be unlocked upon use.	ใช้แล้วปลดล็อก Mount: Dream Steed
+18292	Use to Activate the Set Sail Name Card Theme.	ใช้เพื่อเปิดใช้งาน Name Card Theme: Set Sail
+18293	Open to receive 1 random Blue or Purple Card.	เปิดเพื่อรับ Card คุณภาพ Blue หรือ Purple แบบสุ่ม 1 ใบ
+18294	Open to receive one common crafting material.	เปิดเพื่อรับวัสดุ Crafting ทั่วไป 1 ชิ้น
+18295	Grants a chance to obtain a Red Quality Card.	มีโอกาสได้รับ Card คุณภาพ Red
 18296	An item Assassins use to erase human emotion.	ไอเทมที่นักฆ่าใช้เพื่อลบอารมณ์ความรู้สึกของมนุษย์
 18297	A Single Cell. Can be exchanged for Headwear.	Single Cell สามารถเปลี่ยนเป็น Headwear ได้
 18298	Alice's Apron. Can be exchanged for Headwear.	Alice's Apron สามารถเปลี่ยนเป็น Headwear ได้
