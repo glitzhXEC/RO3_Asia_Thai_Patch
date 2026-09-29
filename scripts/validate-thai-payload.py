@@ -6,6 +6,7 @@ from pathlib import Path
 import csv
 import json
 import re
+import runpy
 
 ROOT = Path(__file__).resolve().parents[1]
 TEXT = ROOT / "Client/BepInEx/Translation/ja/Text"
@@ -199,3 +200,8 @@ if workspace_failures:
 check_tokens("workspace", workspace_pairs)
 check_format_integrity("workspace", workspace_pairs)
 print(f"Description-only Thai payload OK: canonical={len(canonical)}, overrides={len(overrides)}, aliases={len(aliases)}, English Chinese-description aliases={len(description_aliases)}, Thai descriptions={thai_targets}, workspace={workspace_rows}")
+
+# Keep the reviewed V2 terminology gate inside the validator already invoked
+# by release-on-main, avoiding a second workflow-specific entry point.
+v2_validator = runpy.run_path(str(ROOT / "scripts/validate-thai-v2-terminology.py"))
+raise SystemExit(v2_validator["main"]())
