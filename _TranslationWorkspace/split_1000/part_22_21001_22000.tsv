@@ -379,7 +379,7 @@
 21378	Neutral damage taken -@{1}%. Damage taken from other elements +@{2}%.	ได้รับความเสียหายเป็นกลาง -@{1}%ความเสียหายที่ได้รับจากองค์ประกอบอื่น +@{2}%
 21379	Become Giant for @{1} sec., recovering @{3}% Max Life every @{2} sec.	กลายเป็นยักษ์เป็นเวลา@{1}วินาที ฟื้นฟู@{3}% พลัง Life สูงสุดทุกๆ@{2}วินาที
 21380	Damage Increase: @{1}%. Damage taken increases by @{2}% every second.	เพิ่มความเสียหาย:@{1}%ความเสียหายที่ได้รับเพิ่มขึ้น@{2}% ทุกๆ วินาที
-21381	^{1}^{2}[Bowling Bash]^{3}^{4}'s Cooldown is changed to ${1} seconds.	^{1}^{2}[Bowling Bash]^{3}^ คูลดาวน์ของ^{4}ถูกเปลี่ยนเป็น${1}วินาที
+21381	^{1}^{2}[Bowling Bash]^{3}^{4}'s Cooldown is changed to ${1} seconds.	^{1}^{2}[Bowling Bash]^{3}^{4} คูลดาวน์ของถูกเปลี่ยนเป็น${1}วินาที
 21382	For every @{1} refine levels on the Current Equipment slot, INT +${1}	สำหรับทุกระดับการปรับแต่ง@{1}บนสล็อตอุปกรณ์ปัจจุบัน INT +${1}
 21383	When equipped with a katar, Crit Modifier increases by ^{1}${4}%^{2}.	เมื่อสวมใส่ Katar ตัวปรับค่าคริติคอลจะเพิ่มขึ้น ^{1}${4}%^{2}
 21384	Excels at healing allies and specializes in defensive and buff magic.	Excels at healing allies and specializes in defensive and buff magic.
@@ -538,7 +538,7 @@
 21537	Extremely high Physical Defense, but highly vulnerable to Magic attacks	การป้องกันกายภาพสูงมาก แต่เสี่ยงต่อการโจมตีด้วยเวทย์มนตร์สูง
 21538	Extremely high Magic Defense, but highly vulnerable to Physical attacks	พลังป้องกันเวทย์มนตร์สูงมาก แต่เสี่ยงต่อการโจมตีทางกายภาพสูง
 21539	Skill@{1}_Summon Circle@{2}+Transform+Circle-Stepping Interaction Skill	Skill@{1}_Summon Circle@{2}+Transform+Circle-Stepping Interaction Skill
-21540	Allies within ^{1}^{2}[Sanctuary]^{3}^{4}'s area gain PDEF/MDEF +${1}%.	พันธมิตรภายใน ^{1}^{2}[Sanctuary]^{3}^ พื้นที่ของ^{4}ได้รับ PDEF/MDEF +${1}%
+21540	Allies within ^{1}^{2}[Sanctuary]^{3}^{4}'s area gain PDEF/MDEF +${1}%.	พันธมิตรภายใน ^{1}^{2}[Sanctuary]^{3}^{4} พื้นที่ของได้รับ PDEF/MDEF +${1}%
 21541	When HP is above ${1}%, increases Physical ATK by 【Character Lv.*${2}】.	เมื่อ HP มากกว่า${1}% จะเพิ่ม Physical ATK ขึ้นตาม 【Character Lv.*${2}】
 21542	Increases the maximum Floors of the Defense buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟ Defense บน Totem นี้ขึ้น${1}
 21543	Increases the maximum Floors of the Healing buff on this Totem by ${1}.	เพิ่มชั้นสูงสุดของบัฟการรักษาบน Totem นี้ขึ้น${1}
@@ -665,7 +665,7 @@
 21664	Magical Stickers that can be used to decorate your Profile once obtained	สติกเกอร์วิเศษที่สามารถใช้เพื่อตกแต่งโปรไฟล์ของคุณเมื่อได้รับแล้ว
 21665	Points obtained by defeating monsters in the ^{1}Mt. Mjolnir^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Mt. Mjolnir^{2}
 21666	Points obtained by defeating monsters in the ^{1}Sunken Ship^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ในภูมิภาค ^{1}Sunken Ship^{2}
-21667	Points obtained by defeating monsters in the ^{1}Orc Village^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Orc Village^ ภูมิภาค^{2}
+21667	Points obtained by defeating monsters in the ^{1}Orc Village^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Orc Village^{2} ภูมิภาค
 21668	Refining will <color=#C26B47>randomly increase or decrease stats</color>	Refining will <color=#C26B47>randomly increase or decrease stats</color>
 21669	The current scroll's star rating is too low to unlock a new Enchant slot	The current scroll's star rating is too low to unlock a new Enchant slot
 21670	Current Equipment already has an Enchant with the same name. Replace it?	Current Equipment already has an Enchant with the same name. Replace it?
@@ -819,8 +819,8 @@
 21818	Eddga surely never imagined someone would do this to him for such a reason	Eddga ไม่เคยคิดเลยว่าจะมีคนทำสิ่งนี้กับเขาด้วยเหตุผลเช่นนี้
 21819	Use on a map where Caravan Escort is active to Go to Map's nearest outpost	ใช้บนแผนที่ที่ Caravan Escort ทำงานอยู่เพื่อไปยังด่านหน้าที่ใกล้ที่สุดของแผนที่
 21820	An inexpensive leather jacket that develops a distinctive patina with age.	แจ็กเก็ตหนังราคาไม่แพงที่พัฒนาคราบอันโดดเด่นตามอายุ
-21821	Points obtained by defeating monsters in the ^{1}Byalan Island^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Byalan Island^ ภูมิภาค^{2}
-21822	Points obtained by defeating monsters in the ^{1}Sograt Desert^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Sograt Desert^ ภูมิภาค^{2}
+21821	Points obtained by defeating monsters in the ^{1}Byalan Island^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Byalan Island^{2} ภูมิภาค
+21822	Points obtained by defeating monsters in the ^{1}Sograt Desert^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Sograt Desert^{2} ภูมิภาค
 21823	After combining, stats and skills are randomized. Please play responsibly.	After combining, stats and skills are randomized. Please play responsibly.
 21824	Divine Words: Wipe the inscription clean to decipher the Totem attributes.	Divine Words: Wipe the inscription clean to decipher the Totem attributes.
 21825	Harness the power of all four elements to counter large groups of enemies.	Harness the power of all four elements to counter large groups of enemies.

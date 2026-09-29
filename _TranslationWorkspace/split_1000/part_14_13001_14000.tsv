@@ -336,7 +336,7 @@
 13335	Battle Chant Harmony - Psalm	Battle Chant Harmony - Psalm
 13336	Hundred Spears Stack Monitor	Hundred Spears Stack Monitor
 13337	Assassin Cross Normal Attack	Assassin Cross Normal Attack
-13338	Magic ATK +【Your Level*@{1}】	พลังโจมตีเวทย์ +【เลเวลของคุณ*@{1}】
+13338	Magic ATK +【Your Level*@{1}】	พลังโจมตีเวทย์ +【Your Level*@{1}】
 13339	Magic ATK increases by ${1}.	พลังโจมตีเวทย์เพิ่มขึ้น${1}
 13340	Grant Boss Final Blow Reward	Grant Boss Final Blow Reward
 13341	Card is already at max level	Card is already at max level

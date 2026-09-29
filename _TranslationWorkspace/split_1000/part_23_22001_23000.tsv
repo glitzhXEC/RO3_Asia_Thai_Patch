@@ -97,7 +97,7 @@
 22096	Bobo\nI feel irritated whenever we Enter the Pyramid. Is the Relic causing it?	Bobo\nI feel irritated whenever we Enter the Pyramid. Is the Relic causing it?
 22097	Activate the Nine-Tone Mantra matching Theme Mouthwear Appearance (Permanent).	เปิดใช้งานรูปลักษณ์ของชุดแต่งปากของ Nine-Tone Mantra (ถาวร)
 22098	Tender animal meat that can be grilled or stewed for a variety of meat dishes.	เนื้อสัตว์เนื้อนุ่มที่สามารถย่างหรือตุ๋นได้หลากหลายเมนูเนื้อสัตว์
-22099	Points obtained by defeating monsters in the ^{1}Pharos Lighthouse^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Pharos Lighthouse^ ภูมิภาค^{2}
+22099	Points obtained by defeating monsters in the ^{1}Pharos Lighthouse^{2} region.	คะแนนที่ได้รับจากการเอาชนะมอนสเตอร์ใน ^{1}Pharos Lighthouse^{2} ภูมิภาค
 22100	Learning Skills will <color=#c26b47>randomly replace an existing skill</color>	Learning Skills will <color=#c26b47>randomly replace an existing skill</color>
 22101	The airship takes off. As you look outside, the people of Izlude wave goodbye.	The airship takes off. As you look outside, the people of Izlude wave goodbye.
 22102	Switching modes requires restarting the game. Are you sure you want to switch?	Switching modes requires restarting the game. Are you sure you want to switch?
@@ -110,7 +110,7 @@
 22109	Once learned, Mechanics can ride a Madogear in battle and use Madogear skills.	เมื่อเรียนรู้แล้ว ช่างเครื่องสามารถขี่ Madogear ในการต่อสู้และใช้ทักษะ Madogear ได้
 22110	Once learned, Mechanics can use the Kinetic Battle Axe and its related skills.	เมื่อเรียนรู้แล้ว ช่างกลจะสามารถใช้ Kinetic Battle Axe และทักษะที่เกี่ยวข้องได้
 22111	Deals ATK * ^{1}@{3}%^{2} damage to up to @{2} enemies within a @{1} m radius.	สร้างความเสียหายต่อ ATK * ^{1}@{3}%^{2}สร้างความเสียหายให้กับศัตรูสูงสุด@{2}ภายในรัศมี@{1}m
-22112	^{1}【Focused Arrow Strike】^{2}'s damage multiplier increases by ^{3}${1}%^{4}.	^{1}【Focused Arrow Strike】^ ตัวคูณความเสียหายของ^{2}เพิ่มขึ้น ^{3}${1}%^{4}
+22112	^{1}【Focused Arrow Strike】^{2}'s damage multiplier increases by ^{3}${1}%^{4}.	^{1}【Focused Arrow Strike】^{2} ตัวคูณความเสียหายของเพิ่มขึ้น ^{3}${1}%^{4}
 22113	Increases the percentage damage multiplier of ^{1}【Bash】^{2} by ^{3}${1}%^{4}.	เพิ่มเปอร์เซ็นต์ตัวคูณความเสียหายของ ^{1}【Bash】^{2}โดย ^{3}${1}%^{4}
 22114	After casting Meteor Assault, cast a mini Meteor Assault at the same location.	หลังจากร่าย Meteor Assault แล้ว ให้ร่าย Meteor Assault ขนาดเล็กที่ตำแหน่งเดียวกัน
 22115	Server instability detected. Please try starting the conversation again later.	Server instability detected. Please try starting the conversation again later.
@@ -136,7 +136,7 @@
 22135	Camera controls conflict with the Select/Move key bindings. Please change them.	Camera controls conflict with the Select/Move key bindings. Please change them.
 22136	A new version of the game is available. Please update it through the app store.	A new version of the game is available. Please update it through the app store.
 22137	Physical damage dealt to Brute and Insect monsters +${1}%; Movement Speed ${2}%	ความเสียหายทางกายภาพที่ทำกับสัตว์ประหลาดที่ดุร้ายและแมลง +${1}%;ความเร็วในการเคลื่อนที่${2}%
-22138	^{1}^{2}[Envenomed Blade]^{3}^{4}'s ricochet effect gains an Extra ${1} bounce.	^{1}^{2}[Envenomed Blade]^{3}^ เอฟเฟกต์แฉลบของ^{4}ได้รับการกระดอนพิเศษของ${1}
+22138	^{1}^{2}[Envenomed Blade]^{3}^{4}'s ricochet effect gains an Extra ${1} bounce.	^{1}^{2}[Envenomed Blade]^{3}^{4} เอฟเฟกต์แฉลบของได้รับการกระดอนพิเศษของ${1}
 22139	Each CRIT with ^{1}^{2}【Advanced Katar Mastery】^{3}^{4} now grants ${1} Floors.	แต่ละ CRIT ที่มี ^{1}^{2}【Advanced Katar Mastery】^{3}^{4}ตอนนี้ให้สิทธิ์พื้น${1}
 22140	Mistress summons ^{1}Hornets^{2} that charge at players from random directions.	Mistress summons ^{1}Hornets^{2} that charge at players from random directions.
 22141	Drake quickly charges, then damages^{1}fan-shaped areas in @{1} directions^{2}.	Drake quickly charges, then damages^{1}fan-shaped areas in @{1} directions^{2}.
@@ -462,7 +462,7 @@
 22461	When hit during Auto Guard, has a @{1}% Chance to Stun the attacker for @{2} seconds	เมื่อถูกโจมตีระหว่างป้องกันอัตโนมัติ มีโอกาส@{1}% ที่จะทำให้ผู้โจมตีมึนงงเป็นเวลา@{2}วินาที
 22462	Gain Divine Blessing: Increases Damage Increase by @{1}% and DMG Reduction by @{2}%.	ได้รับ Blessing จากสวรรค์: เพิ่มความเสียหายเพิ่มขึ้น@{1}% และ DMG Reduction ลง@{2}%
 22463	Skills cost no SP, skill cooldowns and CT are reduced, and Attack Speed is increased	ทักษะไม่ต้องใช้ SP, คูลดาวน์ทักษะและ CT ลดลง และความเร็วในการโจมตีเพิ่มขึ้น
-22464	^{1}^{2}[Cart Revolution]^{3}^{4}'s percentage damage multiplier increases by ${1}%.	^{1}^{2}[Cart Revolution]^{3}^ ตัวคูณเปอร์เซ็นต์ความเสียหายของ^{4}เพิ่มขึ้น${1}%
+22464	^{1}^{2}[Cart Revolution]^{3}^{4}'s percentage damage multiplier increases by ${1}%.	^{1}^{2}[Cart Revolution]^{3}^{4} ตัวคูณเปอร์เซ็นต์ความเสียหายของเพิ่มขึ้น${1}%
 22465	The Stun and Blind Chance of ^{1}^{2}【Meteor Assault】^{3}^{4} is increased by ${1}%.	โอกาสมึนงงและตาบอดของ ^{1}^{2}【Meteor Assault】^{3}^{4}เพิ่มขึ้น${1}%
 22466	When a Split Drops dies, it has a @{1}% Chance to create @{2} Transformation Manuals	When a Split Drops dies, it has a @{1}% Chance to create @{2} Transformation Manuals
 22467	Baphomet summons a ^{1}lightning strike^{2} that damages targets in a circular area.	Baphomet summons a ^{1}lightning strike^{2} that damages targets in a circular area.
@@ -940,7 +940,7 @@
 22939	Master the Spear. When equipped with a Spear weapon, increases Physical ATK by ^{1}${1}^{2}.	เชี่ยวชาญ Spear เมื่อสวมใส่อาวุธ Spear เพิ่ม ATK กายภาพขึ้น ^{1}${1}^{2}
 22940	Reduces damage taken from Undead property monsters and Demon Race monsters by ^{1}${1}%^{2}.	ลดความเสียหายที่ได้รับจากมอนสเตอร์ประเภท Undead และมอนสเตอร์เผ่า Demon โดย ^{1}${1}%^{2}
 22941	Grants Endure, making you immune to crowd control, knock-up, and knockback for ${1} seconds.	ให้ Endure ทำให้คุณต้านทานต่อการควบคุมฝูงชน การน็อคอัพ และการกระเด็นกลับเป็นเวลา${1}วินาที
-22942	Damage dealt to enemies afflicted with ^{1}status effects^{2} is increased by ^{3}${1}%^{4}.	ความเสียหายที่กระทำต่อศัตรูที่ได้รับผลกระทบจาก ^ เอฟเฟกต์สถานะ^{1}^{2}เพิ่มขึ้น ^{3}${1}%^{4}
+22942	Damage dealt to enemies afflicted with ^{1}status effects^{2} is increased by ^{3}${1}%^{4}.	ความเสียหายที่กระทำต่อศัตรูที่ได้รับผลกระทบจาก ^{1} เอฟเฟกต์สถานะ^{2}เพิ่มขึ้น ^{3}${1}%^{4}
 22943	You've reached the stockpiling limit for the Standard Monthly Pass and cannot purchase more.	You've reached the stockpiling limit for the Standard Monthly Pass and cannot purchase more.
 22944	Take part in the <color=#ff993f>Dummy Challenge</color> and push your limit to earn rewards.	Take part in the <color=#ff993f>Dummy Challenge</color> and push your limit to earn rewards.
 22945	Extends bandages from its body and lashes downward, creating @{1} rectangular AOEs around it	ขยายผ้าพันแผลออกจากลำตัวและขนตาลงด้านล่าง สร้าง@{1}AOE ทรงสี่เหลี่ยมรอบๆ

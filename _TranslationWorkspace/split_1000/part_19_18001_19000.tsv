@@ -1,5 +1,5 @@
 ﻿Index	English	Thai_Translation
-18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม Lv. ตัวละคร*${1}】
+18001	Increases Magic DEF by 【Character Lv.*${1}】.	เพิ่ม Magic DEF ตาม 【Character Lv.*${1}】
 18002	【Gravitation Field】 deals ${1}% more damage.	【Gravitation Field】สร้างความเสียหายมากขึ้น${1}%
 18003	You can adjust your cards in the Card System	You can adjust your cards in the Card System
 18004	Butterfly Wings cannot be used in this area.	Butterfly Wings cannot be used in this area.
@@ -637,8 +637,8 @@
 18636	Claim all rewards to advance to the final rank.	Claim all rewards to advance to the final rank.
 18637	Allows use of ^{1}^{2}Envenom Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Envenom Lv.@{1}^{3}^{4}
 18638	Physical ATK +@{1} for each skill on this Totem	พลังโจมตีกายภาพ +@{1}สำหรับแต่ละทักษะบน Totem นี้
-18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม ATK ทางกายภาพตาม 【Lv. ตัวละคร*${1}】
-18640	Increases Physical DEF by 【Character Lv.*${1}】.	เพิ่ม DEF กายภาพตาม 【ตัวละคร Lv.*${1}】
+18639	Increases Physical ATK by 【Character Lv.*${1}】.	เพิ่ม ATK ทางกายภาพตาม 【Character Lv.*${1}】
+18640	Increases Physical DEF by 【Character Lv.*${1}】.	เพิ่ม DEF กายภาพตาม 【Character Lv.*${1}】
 18641	Notification Phase@{1} - Campfire Raffle Begins	Notification Phase@{1} - Campfire Raffle Begins
 18642	When the event begins, create the basic brazier	When the event begins, create the basic brazier
 18643	Consume Collection Cards to perform Collection?	Consume Collection Cards to perform Collection?
@@ -992,7 +992,7 @@
 18991	Moonlight Flower Bell Charge Shuffle, Second Wave	Moonlight Flower Bell Charge Shuffle, Second Wave
 18992	Moonlight Flower Spotlight Game Easy, Second Wave	Moonlight Flower Spotlight Game Easy, Second Wave
 18993	Moonlight Flower Spotlight Game Hard, Second Wave	Moonlight Flower Spotlight Game Hard, Second Wave
-18994	Increases Penetration Curse by [your Lv. * ${1}].	เพิ่มคำสาปเจาะทะลุ [Lv. ของคุณ]*${1}].
+18994	Increases Penetration Curse by [your Lv. * ${1}].	เพิ่ม Penetration Curse ตาม [your Lv. * ${1}]
 18995	Activate affixes upon entering the Campfire Phase	Activate affixes upon entering the Campfire Phase
 18996	The card must be ranked up before it can Level-up	The card must be ranked up before it can Level-up
 18997	You cannot switch channels during an Interaction.	You cannot switch channels during an Interaction.

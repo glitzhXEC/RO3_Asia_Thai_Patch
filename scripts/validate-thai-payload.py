@@ -28,6 +28,10 @@ ALLOWED_PREFIXES = (
     "131506",  # active quest objectives
 )
 TOKEN = re.compile(r"\$\{[^}\r\n]+\}|@\{[^}\r\n]+\}|\\u[0-9A-Fa-f]{4}|\\[nrt]")
+STYLE_TOKEN = re.compile(r"\^\{[^}\r\n]+\}")
+BRACKET_TOKEN = re.compile(r"(?:\[|【)[^\]】\r\n]+(?:\]|】)")
+BARE_NUMBER_BRACE = re.compile(r"(?<![$@^])\{\d+\}")
+UP_ARROW_MARKER = re.compile(r"↑\{\d+\}")
 THAI = re.compile(r"[\u0E00-\u0E7F]")
 SOURCE_BRACKET = re.compile(r"(?:\[|【)([^\]】\r\n]+)(?:\]|】)")
 PLAIN_ENGLISH_BRACKET_NAME = re.compile(r"^[A-Za-z][A-Za-z0-9 .,'’&+:/()\-]*$")
@@ -84,6 +88,31 @@ def check_tokens(label: str, rows: list[tuple[str, str]]) -> None:
         raise SystemExit(label + ": placeholder mismatch\n" + "\n".join(f"  {s!r} -> {t!r}" for s, t in failures))
 
 
+def check_format_integrity(label: str, rows: list[tuple[str, str]]) -> None:
+    failures = []
+    for source, target in rows:
+        source_style = STYLE_TOKEN.findall(source)
+        target_style = STYLE_TOKEN.findall(target)
+        source_brackets = BRACKET_TOKEN.findall(source)
+        target_brackets = BRACKET_TOKEN.findall(target)
+        source_stray_carets = STYLE_TOKEN.sub("", source).count("^")
+        target_stray_carets = STYLE_TOKEN.sub("", target).count("^")
+        delimiters_match = all(source.count(char) == target.count(char) for char in "[]【】")
+        if (
+            source_style != target_style
+            or source_brackets != target_brackets
+            or Counter(BARE_NUMBER_BRACE.findall(source)) != Counter(BARE_NUMBER_BRACE.findall(target))
+            or source_stray_carets != target_stray_carets
+            or UP_ARROW_MARKER.search(target)
+            or not delimiters_match
+        ):
+            failures.append((source, target))
+            if len(failures) == 10:
+                break
+    if failures:
+        raise SystemExit(label + ": formatting marker mismatch\n" + "\n".join(f"  {s!r} -> {t!r}" for s, t in failures))
+
+
 def check_terms_and_names(label: str, rows: list[tuple[str, str]]) -> None:
     failures = []
     for source, target in rows:
@@ -126,6 +155,8 @@ if priority or runtime:
     raise SystemExit("global priority/regex rules must stay disabled in description-only mode")
 check_tokens("canonical", canonical)
 check_tokens("overrides", [(source, target) for _, source, target in overrides])
+check_format_integrity("canonical", canonical)
+check_format_integrity("overrides", [(source, target) for _, source, target in overrides])
 check_terms_and_names("canonical", canonical)
 check_terms_and_names("overrides", [(source, target) for _, source, target in overrides])
 thai_targets = sum(bool(THAI.search(target)) for _, target in canonical)
@@ -147,12 +178,14 @@ for localization_id, source, target in description_aliases:
 check_tokens("description aliases", [(source, target) for _, source, target in description_aliases])
 workspace_rows = 0
 workspace_failures = []
+workspace_pairs = []
 for path in sorted(SPLIT.glob("part_*.tsv")):
     with path.open(encoding="utf-8-sig", newline="") as handle:
         for row in csv.DictReader(handle, delimiter="\t"):
             workspace_rows += 1
             english = row["English"]
             target = row["Thai_Translation"]
+            workspace_pairs.append((english, target))
             if (english not in allowed_texts or UNSAFE_STANDALONE.fullmatch(english)) and target != english:
                 workspace_failures.append((path.name, english, target))
                 if len(workspace_failures) == 10:
@@ -163,4 +196,6 @@ if workspace_rows != 26615:
     raise SystemExit(f"workspace row count is {workspace_rows}, expected 26615")
 if workspace_failures:
     raise SystemExit("workspace translates text outside description scope:\n" + "\n".join(f"  {p}: {s!r} -> {t!r}" for p, s, t in workspace_failures))
+check_tokens("workspace", workspace_pairs)
+check_format_integrity("workspace", workspace_pairs)
 print(f"Description-only Thai payload OK: canonical={len(canonical)}, overrides={len(overrides)}, aliases={len(aliases)}, English Chinese-description aliases={len(description_aliases)}, Thai descriptions={thai_targets}, workspace={workspace_rows}")

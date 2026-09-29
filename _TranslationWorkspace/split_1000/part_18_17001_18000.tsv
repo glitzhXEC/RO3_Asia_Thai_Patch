@@ -775,7 +775,7 @@
 17774	Victory provides a tremendous morale boost!	Victory มอบกำลังใจอันมหาศาล!
 17775	Estimated Wait: <color=#63a22b>${1}</color>	Estimated Wait: <color=#63a22b>${1}</color>
 17776	Skill@{1}_Summon Eight-Way Compression Zone	Skill@{1}_Summon Eight-Way Compression Zone
-17777	Increases Max Life by 【Character Lv.*${1}】.	เพิ่มพลัง Life สูงสุดตาม Lv. ตัวละคร*${1}】
+17777	Increases Max Life by 【Character Lv.*${1}】.	เพิ่ม Max Life ตาม 【Character Lv.*${1}】
 17778	Defeat 15 Mukas and recover the lost cargo.	Defeat 15 Mukas and recover the lost cargo.
 17779	Add buff when the campfire reaches Lv. @{1}	Add buff when the campfire reaches Lv. @{1}
 17780	At the start of Phase @{1}, add Final Flame	At the start of Phase @{1}, add Final Flame
@@ -989,7 +989,7 @@
 17988	Enters a frenzy and gains extremely high ATK	เข้าสู่ความบ้าคลั่งและได้รับ ATK ที่สูงมาก
 17989	While Brass Blessing is active, gain Endure.	ขณะที่ Brass Blessing ทำงานอยู่ จะได้รับ Endure
 17990	Gradually restores Life while out of combat.	ค่อยๆ ฟื้นฟูพลัง Life ขณะอยู่นอกการต่อสู้
-17991	^{1}【Detect Stealth】^{2} range +${1} meters.	^{1}【Detect Stealth】^{2} ระยะ +${1} เมตร
+17991	^{1}【Detect Stealth】^{2} range +${1} meters.	^{1}【Detect Stealth】^{2} ระยะ+ เมตร${1}
 17992	Skill@{1}Synchronized Spinning Goblet Launch	Skill@{1}Synchronized Spinning Goblet Launch
 17993	Join the Battle of Dragon Coffin Island Solo	Join the Battle of Dragon Coffin Island Solo
 17994	Moonlight Flower Targeted Ground-Slam Bullet	Moonlight Flower Targeted Ground-Slam Bullet
@@ -998,4 +998,4 @@
 17997	Increases MATK by ${1}% of PATK, up to ${2}.	เพิ่ม MATK ขึ้น${1}% ของ PATK สูงสุด${2}
 17998	Magic ATK +@{1} for each skill on this Totem	Magic ATK +@{1}สำหรับแต่ละทักษะบน Totem นี้
 17999	Healing +@{1}% for each skill on this Totem.	การรักษา +@{1}% สำหรับแต่ละทักษะบน Totem นี้
-18000	Increases Magic ATK by 【Character Lv.*${1}】.	เพิ่ม Magic ATK ตาม Lv. ตัวละคร*${1}】
+18000	Increases Magic ATK by 【Character Lv.*${1}】.	เพิ่ม Magic ATK ตาม 【Character Lv.*${1}】

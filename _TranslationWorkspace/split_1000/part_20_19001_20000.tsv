@@ -107,7 +107,7 @@
 19106	Strikes the currently targeted player in the grid	โจมตีผู้เล่นที่เป็นเป้าหมายในตาราง
 19107	Cross-shaped AoE, vertical first, then horizontal	AoE รูปกากบาท แนวตั้งก่อน แล้วจึงแนวนอน
 19108	Cross-shaped AoE, first vertical, then horizontal	AoE รูปกากบาท แนวตั้งแรก จากนั้นเป็นแนวนอน
-19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}【Reading】^{3}^ สถานะ^{4}
+19109	Ends the current ^{1}^{2}【Reading】^{3}^{4} state.	สิ้นสุดกระแส ^{1}^{2}【Reading】^{3}^{4} สถานะ
 19110	Unable to find the Luxury Dragon configuration ID	Unable to find the Luxury Dragon configuration ID
 19111	Equipment in this Equipment Preset does not exist	Equipment in this Equipment Preset does not exist
 19112	Attempted to remove a player who is not a friend.	Attempted to remove a player who is not a friend.
@@ -487,7 +487,7 @@
 19486	At ^{1}^{2}【Blitz Beat】^{3}^{4} Lv. ${1}, DEX +${2}.	ที่ ^{1}^{2}【Blitz Beat】^{3}^{4}Lv.${1}, DEX +${2}.
 19487	Allows use of ^{1}^{2}Divine Light Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Divine Light Lv.@{1}^{3}^{4}
 19488	Allows use of ^{1}^{2}Magnum Break Lv. @{1}^{3}^{4}.	อนุญาตให้ใช้ ^{1}^{2}Magnum Break Lv.@{1}^{3}^{4}
-19489	Increases Magic-Breaking Curse by [your Lv. * ${1}].	เพิ่มคำสาปทำลายเวทมนตร์ขึ้น [Lv. ของคุณ]*${1}].
+19489	Increases Magic-Breaking Curse by [your Lv. * ${1}].	เพิ่ม Magic-Breaking Curse ตาม [your Lv. * ${1}]
 19490	${1}/${2}/${3} ${4}:${5}\n~${6}/${7}/${8} ${9}:${10}	${1}/${2}/${3} ${4}:${5}\n~${6}/${7}/${8} ${9}:${10}
 19491	Do not accept Guild Voice invitations for 10 minutes	Do not accept Guild Voice invitations for 10 minutes
 19492	Unable to join this channel. Please try again later.	Unable to join this channel. Please try again later.
@@ -910,7 +910,7 @@
 19909	Fafnir takes flight and becomes immune to Basic Attacks	Fafnir บินหนีและมีภูมิคุ้มกันต่อ Basic Attacks
 19910	Upon death, explodes and deals damage to nearby enemies	เมื่อตาย จะระเบิดและสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้เคียง
 19911	Failed to connect to the region. Please select another.	Failed to connect to the region. Please select another.
-19912	When HP is below @{1}%, Physical DEF +【Your Level*@{2}】	เมื่อ HP ต่ำกว่า@{1}%, Physical DEF +【ระดับของคุณ*@{2}】
+19912	When HP is below @{1}%, Physical DEF +【Your Level*@{2}】	เมื่อ HP ต่ำกว่า@{1}%, Physical DEF +【Your Level*@{2}】
 19913	When a dagger or katar is equipped, Physical ATK +${1}.	เมื่อสวมใส่กริชหรือคาตาร์ โจมตีกายภาพ +${1}
 19914	Cannot socket cards without an off-hand weapon equipped	Cannot socket cards without an off-hand weapon equipped
 19915	Upgrading this item will make it untradeable. Continue?	Upgrading this item will make it untradeable. Continue?

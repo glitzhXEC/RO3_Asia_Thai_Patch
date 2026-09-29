@@ -163,7 +163,7 @@
 20162	This activity is unavailable on the day you change guilds	This activity is unavailable on the day you change guilds
 20163	Not enough Guild Members from the same guild in the party	Not enough Guild Members from the same guild in the party
 20164	Insufficient Kills of monsters at the corresponding level	Insufficient Kills of monsters at the corresponding level
-20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}【Bow】^ ตัวคูณความเสียหายของทักษะ^{2}เพิ่มขึ้น${1}%
+20165	^{1}【Bow】^{2} skill damage multiplier increases by ${1}%.	^{1}【Bow】^{2} ตัวคูณความเสียหายของทักษะเพิ่มขึ้น${1}%
 20166	Physical damage dealt to Brute and Insect monsters +${1}%	ความเสียหายทางกายภาพที่ทำกับสัตว์ประหลาดสัตว์เดรัจฉานและแมลง +${1}%
 20167	Play Event Closure @{2} after Campfire Phase @{1} begins!	Play Event Closure @{2} after Campfire Phase @{1} begins!
 20168	Second Prize will always be drawn from Baby Desert Wolves	Second Prize will always be drawn from Baby Desert Wolves
@@ -906,7 +906,7 @@
 20905	${1} is currently used in a build. Use it for synthesis anyway?	${1} is currently used in a build. Use it for synthesis anyway?
 20906	The requester deleted their Get Help request. Unable to submit.	The requester deleted their Get Help request. Unable to submit.
 20907	Reduces Ranged Physical damage taken by ${2}% for ${3} seconds.	ลดความเสียหายทางกายภาพระยะไกลที่ได้รับโดย${2}% เป็นเวลา${3}วินาที
-20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}MATK สูงสุด ^{3}${2}^ สแต็ก^{4}
+20908	Each stack grants ^{1}${1}^{2} MATK, up to ^{3}${2}^{4} stacks.	แต่ละสแต็กให้ ^{1}${1}^{2}MATK สูงสุด ^{3}${2}^{4} สแต็ก
 20909	Are you sure you want to Apply to Support this Adventure Guild?	Are you sure you want to Apply to Support this Adventure Guild?
 20910	You're performing actions too frequently. Please try again later	You're performing actions too frequently. Please try again later
 20911	[Rift Crisis] Special Commendation has reached This Week's Limit	[Rift Crisis] Special Commendation has reached This Week's Limit

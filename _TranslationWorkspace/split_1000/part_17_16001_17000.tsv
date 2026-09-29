@@ -655,7 +655,7 @@
 16654	Skill@{1}(New)_Summon Compression Zone	Skill@{1}(New)_Summon Compression Zone
 16655	Skill@{1}(New)_Compression Zone Damage	Skill@{1}(New)_Compression Zone Damage
 16656	For every +${1} Refine, Max Life +${2}	สำหรับทุก ๆ +${1}Refine, Max Life +${2}
-16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม Lv. ตัวละคร*${1}】
+16657	Increases HIT by 【Character Lv.*${1}】.	เพิ่ม HIT ตาม 【Character Lv.*${1}】
 16658	Reduces Neutral damage taken by ${1}%.	ลดความเสียหายที่เป็นกลางที่ได้รับโดย${1}%
 16659	Magic damage dealt increases by ${1}%.	ความเสียหายเวทย์ที่สร้างเพิ่มขึ้น${1}%
 16660	Find the missing Caravan Party Leader.	Find the missing Caravan Party Leader.
@@ -914,7 +914,7 @@
 16913	For every +${1} Refine, Magic ATK +${2}	สำหรับทุกๆ +${1}ปรับแต่ง, พลังโจมตีเวทย์ +${2}
 16914	For every +${1} Refine, CRIT DMG +${2}%	สำหรับทุก +${1}ปรับแต่ง, CRIT DMG +${2}%
 16915	Ignores ${1}% of the target's Magic DEF	ไม่สนใจ${1}% ของ DEF เวทมนตร์ของเป้าหมาย
-16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม Lv. ตัวละคร*${1}】
+16916	Increases FLEE by 【Character Lv.*${1}】.	เพิ่ม FLEE ตาม 【Character Lv.*${1}】
 16917	Highest recorded Power is insufficient.	Highest recorded Power is insufficient.
 16918	You must explore this area on your own.	You must explore this area on your own.
 16919	Public channel chat unlocks at Lv. ${1}	Public channel chat unlocks at Lv. ${1}
